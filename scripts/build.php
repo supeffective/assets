@@ -133,7 +133,7 @@ declare(strict_types=1);
     $prettifyPokemonJson();
     $generatePokemonList();
     $generateStorablePokemonList();
-    $generateMegaPokemonList();
+    //$generateMegaPokemonList();
     $generateGmaxPokemonList();
     $generateAlphaPokemonList();
 
