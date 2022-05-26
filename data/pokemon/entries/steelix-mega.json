@@ -1,0 +1,74 @@
+{
+    "id": "steelix-mega",
+    "nid": "0208-mega",
+    "dexNum": 208,
+    "formId": "mega",
+    "name": "Mega Steelix",
+    "formName": "Mega",
+    "region": "kalos",
+    "generation": 6,
+    "type1": "steel",
+    "type2": "steel",
+    "color": "gray",
+    "abilities": {
+        "primary": null,
+        "secondary": null,
+        "hidden": null
+    },
+    "isLegendary": false,
+    "isMythical": false,
+    "isDefault": false,
+    "isForm": true,
+    "isSpecialAbilityForm": false,
+    "isCosmeticForm": false,
+    "isFemale": false,
+    "hasGenderDifferences": false,
+    "isBattleOnlyForm": true,
+    "isSwitchableForm": true,
+    "isFusion": false,
+    "fusedWith": null,
+    "isMega": true,
+    "isPrimal": false,
+    "isRegional": false,
+    "isGmax": false,
+    "canGmax": false,
+    "canDynamax": false,
+    "canBeAlpha": false,
+    "obtainableIn": [],
+    "transferableTo": [],
+    "shinyReleased": null,
+    "baseStats": {
+        "hp": -1,
+        "atk": -1,
+        "def": -1,
+        "spa": -1,
+        "spd": -1,
+        "spe": -1
+    },
+    "goStats": {
+        "maxCP": -1,
+        "attack": -1,
+        "defense": -1,
+        "stamina": -1
+    },
+    "weight": {
+        "avg": "-1kg",
+        "min": "-1kg",
+        "max": "-1kg",
+        "alpha": "-1kg"
+    },
+    "height": {
+        "avg": "-1m",
+        "min": "-1m",
+        "max": "-1m",
+        "alpha": "-1m"
+    },
+    "maleRate": -1,
+    "femaleRate": -1,
+    "baseSpecies": "steelix",
+    "baseForms": [
+        "steelix"
+    ],
+    "forms": null,
+    "evolutions": []
+}

@@ -1,6 +1,7 @@
 <?php
 
 declare(strict_types=1);
+require_once __DIR__ . '/_bootstrap.php';
 
 // Edit and run this script to quickly modify/migrate the structure of the pokemon.json data file.
 //          Usage:    php scripts/_migrate.php

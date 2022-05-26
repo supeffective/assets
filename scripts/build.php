@@ -1,6 +1,8 @@
 <?php
 
 declare(strict_types=1);
+require_once __DIR__ . '/_bootstrap.php';
+
 //
 // Splits the big pokemon.json file into smaller files, more memory-friendly for the front-end.
 //
@@ -41,6 +43,132 @@ declare(strict_types=1);
             $processed[$pkm['id']] = true;
             $processed[$pkm['nid']] = true;
         }
+    };
+
+    $splitPokemonEntries = static function () use ($dataSet): void {
+        $baseJson = <<<JSON
+{
+    "id": null,
+    "nid": null,
+    "dexNum": null,
+    "formId": null,
+    "name": null,
+    "formName": null,
+    "region": null,
+    "generation": null,
+    "type1": null,
+    "type2": null,
+    "color": null,
+    "abilities": {
+        "primary": null,
+        "secondary": null,
+        "hidden": null
+    },
+    "isLegendary": null,
+    "isMythical": null,
+    "isDefault": null,
+    "isForm": null,
+    "isSpecialAbilityForm": null,
+    "isCosmeticForm": null,
+    "isFemale": null,
+    "hasGenderDifferences": null,
+    "isBattleOnlyForm": null,
+    "isSwitchableForm": null,
+    "isFusion": null,
+    "fusedWith": null,
+    "isMega": null,
+    "isPrimal": null,
+    "isRegional": null,
+    "isGmax": null,
+    "canGmax": null,
+    "canDynamax": null,
+    "canBeAlpha": null,
+    "obtainableIn": null,
+    "transferableTo": [],
+    "shinyReleased": null,
+    "baseStats": {
+        "hp": -1,
+        "atk": -1,
+        "def": -1,
+        "spa": -1,
+        "spd": -1,
+        "spe": -1
+    },
+    "goStats": {
+        "maxCP": -1,
+        "attack": -1,
+        "defense": -1,
+        "stamina": -1
+    },
+    "weight": {
+        "avg": "-1kg",
+        "min": "-1kg",
+        "max": "-1kg",
+        "alpha": "-1kg"
+    },
+    "height": {
+        "avg": "-1m",
+        "min": "-1m",
+        "max": "-1m",
+        "alpha": "-1m"
+    },
+    "maleRate": -1,
+    "femaleRate": -1,
+    "baseSpecies": null,
+    "baseForms": [],
+    "forms": [],
+    "evolutions": []
+}
+JSON;
+        $baseJson = json_decode($baseJson, true, 512, JSON_THROW_ON_ERROR);
+
+        foreach ($dataSet as $pkm) {
+            $filename = ('pokemon/entries/' . $pkm['id'] . '.json');
+            $newPkm = array_merge($baseJson, $pkm);
+            sgg_data_save($filename, $newPkm, false);
+        }
+    };
+
+    $mergePokemonEntries = static function (): void {
+        $sortedPokemonList = sgg_data_load('pokemon/pokemon-sorted.min.json');
+
+        $existingPkmEntries = array_map(static function ($fileName) {
+            return pathinfo($fileName, PATHINFO_FILENAME);
+        }, sgg_json_files_in_dir_tree('pokemon/entries', true));
+
+        $existingPkmEntriesMap = array_combine($existingPkmEntries, $existingPkmEntries);
+        $sortedPokemonListMap = [];
+
+        foreach ($sortedPokemonList as $pkmId) {
+            // find duplicates in sorted list
+            if (isset($sortedPokemonListMap[$pkmId])) {
+                throw new \RuntimeException('Duplicated pokemon in Pokemon list: ' . $pkmId);
+            }
+
+            // check if some pokemon in the sorted list is missing its entry file
+            if (!isset($existingPkmEntriesMap[$pkmId])) {
+                throw new \RuntimeException('Missing pokemon entry: ' . $pkmId);
+            }
+            $sortedPokemonListMap[$pkmId] = $pkmId;
+        }
+
+        // check if some entry is missing in sorted list
+        foreach ($existingPkmEntriesMap as $pkmId) {
+            if (!isset($sortedPokemonListMap[$pkmId])) {
+                throw new \RuntimeException('Unknown entry: Pokemon not found in full pokemon list: ' . $pkmId);
+            }
+        }
+
+        $fullEntries = [];
+        // Collect all entries and save them in a single file
+        foreach ($sortedPokemonList as $pkmId) {
+            if (!isset($existingPkmEntriesMap[$pkmId])) {
+                throw new \RuntimeException('Missing pokemon entry: ' . $pkmId);
+            }
+            $entryData = sgg_data_load('pokemon/entries/' . $pkmId . '.json');
+            $fullEntries[] = $entryData;
+        }
+        sgg_data_save('pokemon/pokemon-entries.min.json', $fullEntries, true);
     };
 
     $generatePokemonList = static function () use ($dataSet, $jsonEncodePretty): void {
@@ -137,7 +265,7 @@ declare(strict_types=1);
             $minFile = str_replace('.json', '.min.json', $file);
             $data = json_decode(file_get_contents($file), true, 512, JSON_THROW_ON_ERROR);
             file_put_contents($file, $jsonEncodePretty($data));
-            file_put_contents($minFile, $jsonEncodeMin($data));
+            //file_put_contents($minFile, $jsonEncodeMin($data));
         }
     };
 
@@ -188,6 +316,8 @@ declare(strict_types=1);
 
 
     $prettifyAndMinifyAllJsonFiles();
+    $splitPokemonEntries();
+    $mergePokemonEntries();
 
     echo "[OK] Build finished!\n";
 })();

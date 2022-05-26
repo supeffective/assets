@@ -1,6 +1,7 @@
 <?php
 
 declare(strict_types=1);
+require_once __DIR__ . '/_bootstrap.php';
 
 // Validates all data being correct and that nothing is missing
 

@@ -1,0 +1,77 @@
+{
+    "id": "zacian",
+    "nid": "0888",
+    "dexNum": 888,
+    "formId": "hero",
+    "name": "Zacian",
+    "formName": "Hero of Many Battles",
+    "region": "galar",
+    "generation": 8,
+    "type1": "fairy",
+    "type2": "fairy",
+    "color": "blue",
+    "abilities": {
+        "primary": null,
+        "secondary": null,
+        "hidden": null
+    },
+    "isLegendary": true,
+    "isMythical": false,
+    "isDefault": true,
+    "isForm": false,
+    "isSpecialAbilityForm": false,
+    "isCosmeticForm": false,
+    "isFemale": false,
+    "hasGenderDifferences": false,
+    "isBattleOnlyForm": false,
+    "isSwitchableForm": false,
+    "isFusion": false,
+    "fusedWith": null,
+    "isMega": false,
+    "isPrimal": false,
+    "isRegional": false,
+    "isGmax": false,
+    "canGmax": false,
+    "canDynamax": false,
+    "canBeAlpha": false,
+    "obtainableIn": [],
+    "transferableTo": [
+        "home"
+    ],
+    "shinyReleased": null,
+    "baseStats": {
+        "hp": -1,
+        "atk": -1,
+        "def": -1,
+        "spa": -1,
+        "spd": -1,
+        "spe": -1
+    },
+    "goStats": {
+        "maxCP": -1,
+        "attack": -1,
+        "defense": -1,
+        "stamina": -1
+    },
+    "weight": {
+        "avg": "-1kg",
+        "min": "-1kg",
+        "max": "-1kg",
+        "alpha": "-1kg"
+    },
+    "height": {
+        "avg": "-1m",
+        "min": "-1m",
+        "max": "-1m",
+        "alpha": "-1m"
+    },
+    "maleRate": -1,
+    "femaleRate": -1,
+    "baseSpecies": null,
+    "baseForms": [],
+    "forms": [
+        "zacian",
+        "zacian-crowned"
+    ],
+    "evolutions": []
+}
