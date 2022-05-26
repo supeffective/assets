@@ -17,6 +17,8 @@
     },
     "isLegendary": false,
     "isMythical": false,
+    "isUltraBeast": true,
+    "ultraBeastCode": "UB Burst",
     "isDefault": true,
     "isForm": false,
     "isSpecialAbilityForm": false,

@@ -17,6 +17,8 @@
     },
     "isLegendary": false,
     "isMythical": false,
+    "isUltraBeast": false,
+    "ultraBeastCode": null,
     "isDefault": false,
     "isForm": true,
     "isSpecialAbilityForm": true,
