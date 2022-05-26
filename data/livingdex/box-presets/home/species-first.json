@@ -1349,32 +1349,23 @@
                 null,
                 null,
                 null,
-                [
-                    "greninja",
-                    "battle-bond"
-                ],
+                "greninja-battle-bond",
                 "zygarde",
                 "zygarde-10",
-                [
-                    "zygarde",
-                    "power-construct"
-                ],
-                [
-                    "zygarde-10",
-                    "power-construct"
-                ]
+                "zygarde-power-construct",
+                "zygarde-10-power-construct"
             ]
         },
         {
             "title": "Vivillon Forms",
             "pokemon": [
-                "vivillon-icy-snow",
+                "vivillon",
                 "vivillon-polar",
                 "vivillon-tundra",
                 "vivillon-continental",
                 "vivillon-garden",
                 "vivillon-elegant",
-                "vivillon",
+                "vivillon-meadow",
                 "vivillon-modern",
                 "vivillon-marine",
                 "vivillon-archipelago",
@@ -1402,13 +1393,10 @@
                 "rockruff",
                 "lycanroc",
                 "lycanroc-midnight",
-                [
-                    "rockruff",
-                    "own-tempo"
-                ],
+                "rockruff-own-tempo",
                 "lycanroc-dusk",
                 null,
-                "minior",
+                "minior-red",
                 "minior-orange",
                 "minior-yellow",
                 "minior-green",
