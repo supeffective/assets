@@ -145,6 +145,10 @@ require_once __DIR__ . '/_bootstrap.php';
         sgg_json_encode($preset, false, $outputFile); // prettified
     };
 
+    $generateHisuiBoxesPreset = static function () use ($dataSetById): void {
+
+    };
+
     // TASKS runner:
 
     $saveMergedPokemonEntries();
@@ -154,7 +158,9 @@ require_once __DIR__ . '/_bootstrap.php';
     $generateFullySortedHomePreset();
     //$generateMegaPokemonList();
     $generateGmaxPokemonList();
-    $generateAlphaPokemonList();
+    //$generateAlphaPokemonList();
+
+    $generateHisuiBoxesPreset();
 
     $prettifyAndMinifyAllJsonFiles();
 

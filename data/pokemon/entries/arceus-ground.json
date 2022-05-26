@@ -33,7 +33,7 @@
     "isGmax": false,
     "canGmax": false,
     "canDynamax": true,
-    "canBeAlpha": true,
+    "canBeAlpha": false,
     "obtainableIn": [],
     "storableIn": [],
     "shinyReleased": null,

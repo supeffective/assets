@@ -22,7 +22,7 @@
     "isSpecialAbilityForm": false,
     "isCosmeticForm": false,
     "isFemale": false,
-    "hasGenderDifferences": false,
+    "hasGenderDifferences": true,
     "isBattleOnlyForm": false,
     "isSwitchableForm": false,
     "isFusion": false,

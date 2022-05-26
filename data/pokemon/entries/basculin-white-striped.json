@@ -33,7 +33,7 @@
     "isGmax": false,
     "canGmax": false,
     "canDynamax": false,
-    "canBeAlpha": false,
+    "canBeAlpha": true,
     "obtainableIn": [],
     "storableIn": [
         "home"
@@ -77,7 +77,7 @@
         "homeSprite": "basculin-white-striped",
         "miniSprite": "basculin-white-striped"
     },
-    "baseSpecies": null,
+    "baseSpecies": "basculin",
     "baseForms": [],
     "forms": [],
     "evolutions": []

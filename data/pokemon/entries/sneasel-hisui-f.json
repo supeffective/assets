@@ -20,9 +20,9 @@
     "isDefault": false,
     "isForm": true,
     "isSpecialAbilityForm": false,
-    "isCosmeticForm": false,
-    "isFemale": false,
-    "hasGenderDifferences": false,
+    "isCosmeticForm": true,
+    "isFemale": true,
+    "hasGenderDifferences": true,
     "isBattleOnlyForm": false,
     "isSwitchableForm": false,
     "isFusion": false,
@@ -33,7 +33,7 @@
     "isGmax": false,
     "canGmax": false,
     "canDynamax": false,
-    "canBeAlpha": false,
+    "canBeAlpha": true,
     "obtainableIn": [],
     "storableIn": [
         "home"
@@ -77,7 +77,7 @@
         "homeSprite": "sneasel-hisui-f",
         "miniSprite": "sneasel-hisui-f"
     },
-    "baseSpecies": null,
+    "baseSpecies": "sneasel",
     "baseForms": [],
     "forms": [],
     "evolutions": []

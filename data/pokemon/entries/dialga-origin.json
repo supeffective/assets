@@ -15,7 +15,7 @@
         "secondary": null,
         "hidden": null
     },
-    "isLegendary": false,
+    "isLegendary": true,
     "isMythical": false,
     "isDefault": false,
     "isForm": true,
@@ -24,7 +24,7 @@
     "isFemale": false,
     "hasGenderDifferences": false,
     "isBattleOnlyForm": false,
-    "isSwitchableForm": false,
+    "isSwitchableForm": true,
     "isFusion": false,
     "fusedWith": null,
     "isMega": false,
@@ -75,7 +75,7 @@
         "homeSprite": "dialga-origin",
         "miniSprite": "dialga-origin"
     },
-    "baseSpecies": null,
+    "baseSpecies": "dialga",
     "baseForms": [],
     "forms": [],
     "evolutions": []

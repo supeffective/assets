@@ -33,7 +33,7 @@
     "isGmax": false,
     "canGmax": false,
     "canDynamax": true,
-    "canBeAlpha": false,
+    "canBeAlpha": true,
     "obtainableIn": [],
     "storableIn": [
         "home"

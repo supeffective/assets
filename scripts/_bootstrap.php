@@ -55,7 +55,7 @@ function sgg_json_encode(array $data, bool $minify = true, ?string $outputFile =
     if (!$minify) {
         $jsonFlags = JSON_PRETTY_PRINT | JSON_THROW_ON_ERROR | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE;
     }
-    $json = json_encode($data, $jsonFlags);
+    $json = json_encode($data, $jsonFlags) ;//. PHP_EOL;
     if ($outputFile !== null) {
         sgg_create_file_dir_tree($outputFile);
         file_put_contents($outputFile, $json);
