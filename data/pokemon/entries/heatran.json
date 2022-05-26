@@ -34,7 +34,9 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
-    "obtainableIn": [],
+    "obtainableIn": [
+        "pla"
+    ],
     "storableIn": [
         "home",
         "pla"
