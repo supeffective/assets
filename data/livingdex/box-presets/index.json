@@ -3,5 +3,8 @@
         "grouped-region.json",
         "species-first.json",
         "fully-sorted.min.json"
+    ],
+    "pla": [
+        "fully-sorted.min.json"
     ]
 }

@@ -1,6 +1,7 @@
 {
     "id": "grouped-region",
     "name": "Grouped by Regions",
+    "game": "home",
     "description": "Boxes will be organized with the Species and Forms discovered on every region separately. This is the default one, since it does not alter the order of previous Pokémon whenever a new form or species is introduced.",
     "boxes": [
         {

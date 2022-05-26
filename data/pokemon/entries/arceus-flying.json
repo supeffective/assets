@@ -35,7 +35,9 @@
     "canDynamax": true,
     "canBeAlpha": false,
     "obtainableIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "pla"
+    ],
     "shinyReleased": null,
     "baseStats": {
         "hp": -1,

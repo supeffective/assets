@@ -116,6 +116,7 @@ require_once __DIR__ . '/_bootstrap.php';
         $preset = [
             'id' => 'fully-sorted',
             'name' => 'Fully Sorted',
+            'game' => 'home',
             //'shortDescription' => 'Sorted by Species and their Forms, in their HOME order.',
             "description" => "Pokémon Boxes sorted by Species and Forms, following original Pokémon HOME order.\n"
                 . "Every newly introduced form will alter the order of all the following Pokémon.",
@@ -146,7 +147,40 @@ require_once __DIR__ . '/_bootstrap.php';
     };
 
     $generateHisuiBoxesPreset = static function () use ($dataSetById): void {
-
+        $outputFile = __DIR__ . '/../data/livingdex/box-presets/pla/fully-sorted.min.json';
+        $hisuiDex = sgg_data_load('pokedexes/pla/hisui-dex.json');
+        $preset = [
+            'id' => 'fully-sorted',
+            'name' => 'Fully Sorted',
+            'game' => 'pla',
+            //'shortDescription' => 'Sorted by Species and their Forms, in their HOME order.',
+            "description" => "Pokémon Boxes sorted by Species and Forms, following original Legends Arceus order.",
+            "boxes" => [],
+        ];
+        $maxPkmPerBox = 30;
+        $currentBox = 0;
+        foreach ($hisuiDex as $dexPkm) {
+            foreach ($dexPkm['forms'] as $pkmId) {
+                $pkm = $dataSetById[$pkmId];
+                if (!in_array('pla', $pkm['storableIn'], true)) {
+                    continue;
+                }
+                if (
+                    isset($preset['boxes'][$currentBox])
+                    && (count($preset['boxes'][$currentBox]['pokemon']) >= $maxPkmPerBox)
+                ) {
+                    $currentBox++;
+                }
+                if (!isset($preset['boxes'][$currentBox])) {
+                    $preset['boxes'][$currentBox] = [
+                        'title' => 'Pasture ' . ($currentBox + 1),
+                        'pokemon' => [],
+                    ];
+                }
+                $preset['boxes'][$currentBox]['pokemon'][] = $pkm['id'];
+            }
+        }
+        sgg_json_encode($preset, false, $outputFile); // prettified
     };
 
     // TASKS runner:

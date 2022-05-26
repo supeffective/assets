@@ -57,7 +57,12 @@ require_once __DIR__ . '/_bootstrap.php';
 
     $validateHomeDexPresets = static function () use ($validateHomeDexPreset): void {
         // find all json files from ./home and iterate over them
-        $files = glob(__DIR__ . '/../data/livingdex/box-presets/home/*.json');
+        $files = [];
+        $games = ['home']; // TODO add validation for other games
+        foreach ($games as $game) {
+            $gameFiles = glob(__DIR__ . '/../data/livingdex/box-presets/' . $game . '/*.json');
+            $files = array_merge($files, $gameFiles);
+        }
         $errors = [];
         $warnings = [];
         foreach ($files as $file) {
@@ -83,6 +88,10 @@ require_once __DIR__ . '/_bootstrap.php';
                 $warnings[] = (
                     "\n>  Preset '{$file}' has $warningCount warnings: \n" . implode("\n", $fileWarnings) . "\n"
                 );
+            }
+
+            if ($errorCount === 0 && $warningCount === 0) {
+                echo ">  Preset '{$file}' is valid\n";
             }
         }
 

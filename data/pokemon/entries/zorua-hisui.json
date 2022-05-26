@@ -36,7 +36,8 @@
     "canBeAlpha": true,
     "obtainableIn": [],
     "storableIn": [
-        "home"
+        "home",
+        "pla"
     ],
     "shinyReleased": false,
     "baseStats": {
