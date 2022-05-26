@@ -73,7 +73,9 @@
         "showdownMarkup": "Genesect",
         "showdownData": "genesect",
         "serebii": "genesect",
-        "bulbapedia": "Genesect"
+        "bulbapedia": "Genesect",
+        "homeSprite": "genesect",
+        "miniSprite": "genesect"
     },
     "baseSpecies": null,
     "baseForms": [],

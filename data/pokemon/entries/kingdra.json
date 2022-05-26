@@ -73,7 +73,9 @@
         "showdownMarkup": "Kingdra",
         "showdownData": "kingdra",
         "serebii": "kingdra",
-        "bulbapedia": "Kingdra"
+        "bulbapedia": "Kingdra",
+        "homeSprite": "kingdra",
+        "miniSprite": "kingdra"
     },
     "baseSpecies": null,
     "baseForms": [],

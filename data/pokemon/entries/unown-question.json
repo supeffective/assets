@@ -73,7 +73,9 @@
         "showdownMarkup": "Unown-Question",
         "showdownData": "unownquestion",
         "serebii": "unown-question",
-        "bulbapedia": "Unown"
+        "bulbapedia": "Unown",
+        "homeSprite": "unown-question",
+        "miniSprite": "unown-question"
     },
     "baseSpecies": "unown",
     "baseForms": [],

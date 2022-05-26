@@ -73,7 +73,9 @@
         "showdownMarkup": "Delphox",
         "showdownData": "delphox",
         "serebii": "delphox",
-        "bulbapedia": "Delphox"
+        "bulbapedia": "Delphox",
+        "homeSprite": "delphox",
+        "miniSprite": "delphox"
     },
     "baseSpecies": null,
     "baseForms": [],

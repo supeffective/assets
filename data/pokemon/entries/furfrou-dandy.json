@@ -73,7 +73,9 @@
         "showdownMarkup": "Furfrou-Dandy",
         "showdownData": "furfroudandy",
         "serebii": "furfrou-dandy",
-        "bulbapedia": "Furfrou"
+        "bulbapedia": "Furfrou",
+        "homeSprite": "furfrou-dandy",
+        "miniSprite": "furfrou-dandy"
     },
     "baseSpecies": "furfrou",
     "baseForms": [

@@ -73,7 +73,9 @@
         "showdownMarkup": "Simisear",
         "showdownData": "simisear",
         "serebii": "simisear",
-        "bulbapedia": "Simisear"
+        "bulbapedia": "Simisear",
+        "homeSprite": "simisear",
+        "miniSprite": "simisear"
     },
     "baseSpecies": null,
     "baseForms": [],

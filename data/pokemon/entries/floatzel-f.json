@@ -73,7 +73,9 @@
         "showdownMarkup": "Floatzel-F",
         "showdownData": "floatzelf",
         "serebii": "floatzel-f",
-        "bulbapedia": "Floatzel"
+        "bulbapedia": "Floatzel",
+        "homeSprite": "floatzel-f",
+        "miniSprite": "floatzel-f"
     },
     "baseSpecies": "floatzel",
     "baseForms": [],

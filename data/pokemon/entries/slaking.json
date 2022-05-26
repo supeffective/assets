@@ -73,7 +73,9 @@
         "showdownMarkup": "Slaking",
         "showdownData": "slaking",
         "serebii": "slaking",
-        "bulbapedia": "Slaking"
+        "bulbapedia": "Slaking",
+        "homeSprite": "slaking",
+        "miniSprite": "slaking"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Arbok",
         "showdownData": "arbok",
         "serebii": "arbok",
-        "bulbapedia": "Arbok"
+        "bulbapedia": "Arbok",
+        "homeSprite": "arbok",
+        "miniSprite": "arbok"
     },
     "baseSpecies": null,
     "baseForms": [],

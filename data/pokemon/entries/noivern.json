@@ -73,7 +73,9 @@
         "showdownMarkup": "Noivern",
         "showdownData": "noivern",
         "serebii": "noivern",
-        "bulbapedia": "Noivern"
+        "bulbapedia": "Noivern",
+        "homeSprite": "noivern",
+        "miniSprite": "noivern"
     },
     "baseSpecies": null,
     "baseForms": [],

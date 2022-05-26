@@ -73,7 +73,9 @@
         "showdownMarkup": "Dewpider",
         "showdownData": "dewpider",
         "serebii": "dewpider",
-        "bulbapedia": "Dewpider"
+        "bulbapedia": "Dewpider",
+        "homeSprite": "dewpider",
+        "miniSprite": "dewpider"
     },
     "baseSpecies": null,
     "baseForms": [],

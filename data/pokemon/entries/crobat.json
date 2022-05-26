@@ -73,7 +73,9 @@
         "showdownMarkup": "Crobat",
         "showdownData": "crobat",
         "serebii": "crobat",
-        "bulbapedia": "Crobat"
+        "bulbapedia": "Crobat",
+        "homeSprite": "crobat",
+        "miniSprite": "crobat"
     },
     "baseSpecies": null,
     "baseForms": [],

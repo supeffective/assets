@@ -73,7 +73,9 @@
         "showdownMarkup": "Diglett-Alola",
         "showdownData": "diglettalola",
         "serebii": "diglett-alola",
-        "bulbapedia": "Diglett"
+        "bulbapedia": "Diglett",
+        "homeSprite": "diglett-alola",
+        "miniSprite": "diglett-alola"
     },
     "baseSpecies": "diglett",
     "baseForms": [],

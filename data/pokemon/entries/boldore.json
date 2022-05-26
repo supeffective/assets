@@ -73,7 +73,9 @@
         "showdownMarkup": "Boldore",
         "showdownData": "boldore",
         "serebii": "boldore",
-        "bulbapedia": "Boldore"
+        "bulbapedia": "Boldore",
+        "homeSprite": "boldore",
+        "miniSprite": "boldore"
     },
     "baseSpecies": null,
     "baseForms": [],

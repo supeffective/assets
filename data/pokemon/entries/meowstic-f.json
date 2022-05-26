@@ -73,7 +73,9 @@
         "showdownMarkup": "Meowstic-F",
         "showdownData": "meowsticf",
         "serebii": "meowstic-f",
-        "bulbapedia": "Meowstic"
+        "bulbapedia": "Meowstic",
+        "homeSprite": "meowstic-f",
+        "miniSprite": "meowstic-f"
     },
     "baseSpecies": "meowstic",
     "baseForms": [],

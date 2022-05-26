@@ -71,7 +71,9 @@
         "showdownMarkup": "Alcremie-Gmax",
         "showdownData": "alcremiegmax",
         "serebii": "alcremie-gmax",
-        "bulbapedia": "Alcremie"
+        "bulbapedia": "Alcremie",
+        "homeSprite": "alcremie-gmax",
+        "miniSprite": "alcremie-gmax"
     },
     "baseSpecies": "alcremie",
     "baseForms": [

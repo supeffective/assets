@@ -73,7 +73,9 @@
         "showdownMarkup": "Quilava",
         "showdownData": "quilava",
         "serebii": "quilava",
-        "bulbapedia": "Quilava"
+        "bulbapedia": "Quilava",
+        "homeSprite": "quilava",
+        "miniSprite": "quilava"
     },
     "baseSpecies": null,
     "baseForms": [],

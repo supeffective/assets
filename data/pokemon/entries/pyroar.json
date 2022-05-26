@@ -73,7 +73,9 @@
         "showdownMarkup": "Pyroar",
         "showdownData": "pyroar",
         "serebii": "pyroar",
-        "bulbapedia": "Pyroar"
+        "bulbapedia": "Pyroar",
+        "homeSprite": "pyroar",
+        "miniSprite": "pyroar"
     },
     "baseSpecies": null,
     "baseForms": [],

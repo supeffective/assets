@@ -73,7 +73,9 @@
         "showdownMarkup": "Orbeetle",
         "showdownData": "orbeetle",
         "serebii": "orbeetle",
-        "bulbapedia": "Orbeetle"
+        "bulbapedia": "Orbeetle",
+        "homeSprite": "orbeetle",
+        "miniSprite": "orbeetle"
     },
     "baseSpecies": null,
     "baseForms": [],

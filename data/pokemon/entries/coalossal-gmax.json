@@ -71,7 +71,9 @@
         "showdownMarkup": "Coalossal-Gmax",
         "showdownData": "coalossalgmax",
         "serebii": "coalossal-gmax",
-        "bulbapedia": "Coalossal"
+        "bulbapedia": "Coalossal",
+        "homeSprite": "coalossal-gmax",
+        "miniSprite": "coalossal-gmax"
     },
     "baseSpecies": "coalossal",
     "baseForms": [

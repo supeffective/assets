@@ -71,7 +71,9 @@
         "showdownMarkup": "Silvally-Fairy",
         "showdownData": "silvallyfairy",
         "serebii": "silvally-fairy",
-        "bulbapedia": "Silvally"
+        "bulbapedia": "Silvally",
+        "homeSprite": "silvally-fairy",
+        "miniSprite": "silvally-fairy"
     },
     "baseSpecies": "silvally",
     "baseForms": [

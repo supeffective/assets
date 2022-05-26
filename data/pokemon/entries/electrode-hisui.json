@@ -73,7 +73,9 @@
         "showdownMarkup": null,
         "showdownData": null,
         "serebii": null,
-        "bulbapedia": null
+        "bulbapedia": null,
+        "homeSprite": "electrode-hisui",
+        "miniSprite": "electrode-hisui"
     },
     "baseSpecies": null,
     "baseForms": [],

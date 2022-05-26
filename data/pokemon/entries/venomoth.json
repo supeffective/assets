@@ -73,7 +73,9 @@
         "showdownMarkup": "Venomoth",
         "showdownData": "venomoth",
         "serebii": "venomoth",
-        "bulbapedia": "Venomoth"
+        "bulbapedia": "Venomoth",
+        "homeSprite": "venomoth",
+        "miniSprite": "venomoth"
     },
     "baseSpecies": null,
     "baseForms": [],

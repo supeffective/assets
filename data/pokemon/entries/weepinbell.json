@@ -73,7 +73,9 @@
         "showdownMarkup": "Weepinbell",
         "showdownData": "weepinbell",
         "serebii": "weepinbell",
-        "bulbapedia": "Weepinbell"
+        "bulbapedia": "Weepinbell",
+        "homeSprite": "weepinbell",
+        "miniSprite": "weepinbell"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Lunala",
         "showdownData": "lunala",
         "serebii": "lunala",
-        "bulbapedia": "Lunala"
+        "bulbapedia": "Lunala",
+        "homeSprite": "lunala",
+        "miniSprite": "lunala"
     },
     "baseSpecies": null,
     "baseForms": [],

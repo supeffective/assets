@@ -73,7 +73,9 @@
         "showdownMarkup": "Gigalith",
         "showdownData": "gigalith",
         "serebii": "gigalith",
-        "bulbapedia": "Gigalith"
+        "bulbapedia": "Gigalith",
+        "homeSprite": "gigalith",
+        "miniSprite": "gigalith"
     },
     "baseSpecies": null,
     "baseForms": [],

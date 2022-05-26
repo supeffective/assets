@@ -71,7 +71,9 @@
         "showdownMarkup": "Aerodactyl-Mega",
         "showdownData": "aerodactylmega",
         "serebii": "aerodactyl-mega",
-        "bulbapedia": "Aerodactyl"
+        "bulbapedia": "Aerodactyl",
+        "homeSprite": "aerodactyl-mega",
+        "miniSprite": "aerodactyl-mega"
     },
     "baseSpecies": "aerodactyl",
     "baseForms": [

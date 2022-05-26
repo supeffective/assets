@@ -73,7 +73,9 @@
         "showdownMarkup": null,
         "showdownData": null,
         "serebii": null,
-        "bulbapedia": null
+        "bulbapedia": null,
+        "homeSprite": "ursaluna",
+        "miniSprite": "ursaluna"
     },
     "baseSpecies": null,
     "baseForms": [],

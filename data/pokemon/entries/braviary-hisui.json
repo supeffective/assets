@@ -73,7 +73,9 @@
         "showdownMarkup": null,
         "showdownData": null,
         "serebii": null,
-        "bulbapedia": null
+        "bulbapedia": null,
+        "homeSprite": "braviary-hisui",
+        "miniSprite": "braviary-hisui"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Foongus",
         "showdownData": "foongus",
         "serebii": "foongus",
-        "bulbapedia": "Foongus"
+        "bulbapedia": "Foongus",
+        "homeSprite": "foongus",
+        "miniSprite": "foongus"
     },
     "baseSpecies": null,
     "baseForms": [],

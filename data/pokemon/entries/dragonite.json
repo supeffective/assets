@@ -73,7 +73,9 @@
         "showdownMarkup": "Dragonite",
         "showdownData": "dragonite",
         "serebii": "dragonite",
-        "bulbapedia": "Dragonite"
+        "bulbapedia": "Dragonite",
+        "homeSprite": "dragonite",
+        "miniSprite": "dragonite"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -71,7 +71,9 @@
         "showdownMarkup": "Silvally-Rock",
         "showdownData": "silvallyrock",
         "serebii": "silvally-rock",
-        "bulbapedia": "Silvally"
+        "bulbapedia": "Silvally",
+        "homeSprite": "silvally-rock",
+        "miniSprite": "silvally-rock"
     },
     "baseSpecies": "silvally",
     "baseForms": [

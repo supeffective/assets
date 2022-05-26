@@ -73,7 +73,9 @@
         "showdownMarkup": "Litleo",
         "showdownData": "litleo",
         "serebii": "litleo",
-        "bulbapedia": "Litleo"
+        "bulbapedia": "Litleo",
+        "homeSprite": "litleo",
+        "miniSprite": "litleo"
     },
     "baseSpecies": null,
     "baseForms": [],

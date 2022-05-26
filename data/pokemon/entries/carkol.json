@@ -73,7 +73,9 @@
         "showdownMarkup": "Carkol",
         "showdownData": "carkol",
         "serebii": "carkol",
-        "bulbapedia": "Carkol"
+        "bulbapedia": "Carkol",
+        "homeSprite": "carkol",
+        "miniSprite": "carkol"
     },
     "baseSpecies": null,
     "baseForms": [],

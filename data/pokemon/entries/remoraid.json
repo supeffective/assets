@@ -73,7 +73,9 @@
         "showdownMarkup": "Remoraid",
         "showdownData": "remoraid",
         "serebii": "remoraid",
-        "bulbapedia": "Remoraid"
+        "bulbapedia": "Remoraid",
+        "homeSprite": "remoraid",
+        "miniSprite": "remoraid"
     },
     "baseSpecies": null,
     "baseForms": [],

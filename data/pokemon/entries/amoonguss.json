@@ -73,7 +73,9 @@
         "showdownMarkup": "Amoonguss",
         "showdownData": "amoonguss",
         "serebii": "amoonguss",
-        "bulbapedia": "Amoonguss"
+        "bulbapedia": "Amoonguss",
+        "homeSprite": "amoonguss",
+        "miniSprite": "amoonguss"
     },
     "baseSpecies": null,
     "baseForms": [],

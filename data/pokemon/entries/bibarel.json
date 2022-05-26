@@ -73,7 +73,9 @@
         "showdownMarkup": "Bibarel",
         "showdownData": "bibarel",
         "serebii": "bibarel",
-        "bulbapedia": "Bibarel"
+        "bulbapedia": "Bibarel",
+        "homeSprite": "bibarel",
+        "miniSprite": "bibarel"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Aromatisse",
         "showdownData": "aromatisse",
         "serebii": "aromatisse",
-        "bulbapedia": "Aromatisse"
+        "bulbapedia": "Aromatisse",
+        "homeSprite": "aromatisse",
+        "miniSprite": "aromatisse"
     },
     "baseSpecies": null,
     "baseForms": [],

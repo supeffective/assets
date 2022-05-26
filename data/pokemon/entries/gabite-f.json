@@ -73,7 +73,9 @@
         "showdownMarkup": "Gabite-F",
         "showdownData": "gabitef",
         "serebii": "gabite-f",
-        "bulbapedia": "Gabite"
+        "bulbapedia": "Gabite",
+        "homeSprite": "gabite-f",
+        "miniSprite": "gabite-f"
     },
     "baseSpecies": "gabite",
     "baseForms": [],

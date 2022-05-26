@@ -73,7 +73,9 @@
         "showdownMarkup": "Hawlucha",
         "showdownData": "hawlucha",
         "serebii": "hawlucha",
-        "bulbapedia": "Hawlucha"
+        "bulbapedia": "Hawlucha",
+        "homeSprite": "hawlucha",
+        "miniSprite": "hawlucha"
     },
     "baseSpecies": null,
     "baseForms": [],

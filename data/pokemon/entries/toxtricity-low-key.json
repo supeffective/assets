@@ -73,7 +73,9 @@
         "showdownMarkup": "Toxtricity-Low-Key",
         "showdownData": "toxtricitylowkey",
         "serebii": "toxtricity-low-key",
-        "bulbapedia": "Toxtricity"
+        "bulbapedia": "Toxtricity",
+        "homeSprite": "toxtricity-low-key",
+        "miniSprite": "toxtricity-low-key"
     },
     "baseSpecies": "toxtricity",
     "baseForms": [],

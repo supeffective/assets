@@ -73,7 +73,9 @@
         "showdownMarkup": "Mrmime",
         "showdownData": "mrmime",
         "serebii": "mrmime",
-        "bulbapedia": "Mr. Mime"
+        "bulbapedia": "Mr. Mime",
+        "homeSprite": "mrmime",
+        "miniSprite": "mrmime"
     },
     "baseSpecies": null,
     "baseForms": [],

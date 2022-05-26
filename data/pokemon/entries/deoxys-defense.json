@@ -73,7 +73,9 @@
         "showdownMarkup": "Deoxys-Defense",
         "showdownData": "deoxysdefense",
         "serebii": "deoxys-defense",
-        "bulbapedia": "Deoxys"
+        "bulbapedia": "Deoxys",
+        "homeSprite": "deoxys-defense",
+        "miniSprite": "deoxys-defense"
     },
     "baseSpecies": "deoxys",
     "baseForms": [

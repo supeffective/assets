@@ -73,7 +73,9 @@
         "showdownMarkup": "Alcremie-Ruby-Swirl-Ribbon",
         "showdownData": "alcremierubyswirlribbon",
         "serebii": "alcremie-ruby-swirl-ribbon",
-        "bulbapedia": "Alcremie"
+        "bulbapedia": "Alcremie",
+        "homeSprite": "alcremie-ruby-swirl-ribbon",
+        "miniSprite": "alcremie-ruby-swirl-ribbon"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Rotom-Mow",
         "showdownData": "rotommow",
         "serebii": "rotom-mow",
-        "bulbapedia": "Rotom"
+        "bulbapedia": "Rotom",
+        "homeSprite": "rotom-mow",
+        "miniSprite": "rotom-mow"
     },
     "baseSpecies": "rotom",
     "baseForms": [

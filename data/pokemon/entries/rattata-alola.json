@@ -73,7 +73,9 @@
         "showdownMarkup": "Rattata-Alola",
         "showdownData": "rattataalola",
         "serebii": "rattata-alola",
-        "bulbapedia": "Rattata"
+        "bulbapedia": "Rattata",
+        "homeSprite": "rattata-alola",
+        "miniSprite": "rattata-alola"
     },
     "baseSpecies": "rattata",
     "baseForms": [],

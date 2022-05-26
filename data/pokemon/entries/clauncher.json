@@ -73,7 +73,9 @@
         "showdownMarkup": "Clauncher",
         "showdownData": "clauncher",
         "serebii": "clauncher",
-        "bulbapedia": "Clauncher"
+        "bulbapedia": "Clauncher",
+        "homeSprite": "clauncher",
+        "miniSprite": "clauncher"
     },
     "baseSpecies": null,
     "baseForms": [],

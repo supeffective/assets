@@ -73,7 +73,9 @@
         "showdownMarkup": "Butterfree-F",
         "showdownData": "butterfreef",
         "serebii": "butterfree-f",
-        "bulbapedia": "Butterfree"
+        "bulbapedia": "Butterfree",
+        "homeSprite": "butterfree-f",
+        "miniSprite": "butterfree-f"
     },
     "baseSpecies": "butterfree",
     "baseForms": [],

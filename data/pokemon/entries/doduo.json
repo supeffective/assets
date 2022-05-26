@@ -73,7 +73,9 @@
         "showdownMarkup": "Doduo",
         "showdownData": "doduo",
         "serebii": "doduo",
-        "bulbapedia": "Doduo"
+        "bulbapedia": "Doduo",
+        "homeSprite": "doduo",
+        "miniSprite": "doduo"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Ninetales-Alola",
         "showdownData": "ninetalesalola",
         "serebii": "ninetales-alola",
-        "bulbapedia": "Ninetales"
+        "bulbapedia": "Ninetales",
+        "homeSprite": "ninetales-alola",
+        "miniSprite": "ninetales-alola"
     },
     "baseSpecies": "ninetales",
     "baseForms": [],

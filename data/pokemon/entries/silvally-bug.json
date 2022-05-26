@@ -71,7 +71,9 @@
         "showdownMarkup": "Silvally-Bug",
         "showdownData": "silvallybug",
         "serebii": "silvally-bug",
-        "bulbapedia": "Silvally"
+        "bulbapedia": "Silvally",
+        "homeSprite": "silvally-bug",
+        "miniSprite": "silvally-bug"
     },
     "baseSpecies": "silvally",
     "baseForms": [

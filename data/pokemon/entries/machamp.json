@@ -73,7 +73,9 @@
         "showdownMarkup": "Machamp",
         "showdownData": "machamp",
         "serebii": "machamp",
-        "bulbapedia": "Machamp"
+        "bulbapedia": "Machamp",
+        "homeSprite": "machamp",
+        "miniSprite": "machamp"
     },
     "baseSpecies": null,
     "baseForms": [],

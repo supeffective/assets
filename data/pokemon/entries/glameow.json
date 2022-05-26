@@ -73,7 +73,9 @@
         "showdownMarkup": "Glameow",
         "showdownData": "glameow",
         "serebii": "glameow",
-        "bulbapedia": "Glameow"
+        "bulbapedia": "Glameow",
+        "homeSprite": "glameow",
+        "miniSprite": "glameow"
     },
     "baseSpecies": null,
     "baseForms": [],

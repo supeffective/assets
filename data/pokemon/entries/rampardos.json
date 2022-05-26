@@ -73,7 +73,9 @@
         "showdownMarkup": "Rampardos",
         "showdownData": "rampardos",
         "serebii": "rampardos",
-        "bulbapedia": "Rampardos"
+        "bulbapedia": "Rampardos",
+        "homeSprite": "rampardos",
+        "miniSprite": "rampardos"
     },
     "baseSpecies": null,
     "baseForms": [],

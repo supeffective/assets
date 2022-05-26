@@ -73,7 +73,9 @@
         "showdownMarkup": "Diggersby",
         "showdownData": "diggersby",
         "serebii": "diggersby",
-        "bulbapedia": "Diggersby"
+        "bulbapedia": "Diggersby",
+        "homeSprite": "diggersby",
+        "miniSprite": "diggersby"
     },
     "baseSpecies": null,
     "baseForms": [],

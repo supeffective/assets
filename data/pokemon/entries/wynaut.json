@@ -73,7 +73,9 @@
         "showdownMarkup": "Wynaut",
         "showdownData": "wynaut",
         "serebii": "wynaut",
-        "bulbapedia": "Wynaut"
+        "bulbapedia": "Wynaut",
+        "homeSprite": "wynaut",
+        "miniSprite": "wynaut"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Frogadier",
         "showdownData": "frogadier",
         "serebii": "frogadier",
-        "bulbapedia": "Frogadier"
+        "bulbapedia": "Frogadier",
+        "homeSprite": "frogadier",
+        "miniSprite": "frogadier"
     },
     "baseSpecies": null,
     "baseForms": [],

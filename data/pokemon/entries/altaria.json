@@ -73,7 +73,9 @@
         "showdownMarkup": "Altaria",
         "showdownData": "altaria",
         "serebii": "altaria",
-        "bulbapedia": "Altaria"
+        "bulbapedia": "Altaria",
+        "homeSprite": "altaria",
+        "miniSprite": "altaria"
     },
     "baseSpecies": null,
     "baseForms": [],

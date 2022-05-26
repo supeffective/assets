@@ -73,7 +73,9 @@
         "showdownMarkup": "Hippopotas",
         "showdownData": "hippopotas",
         "serebii": "hippopotas",
-        "bulbapedia": "Hippopotas"
+        "bulbapedia": "Hippopotas",
+        "homeSprite": "hippopotas",
+        "miniSprite": "hippopotas"
     },
     "baseSpecies": null,
     "baseForms": [],

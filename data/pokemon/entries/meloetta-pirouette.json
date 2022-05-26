@@ -71,7 +71,9 @@
         "showdownMarkup": "Meloetta-Pirouette",
         "showdownData": "meloettapirouette",
         "serebii": "meloetta-pirouette",
-        "bulbapedia": "Meloetta"
+        "bulbapedia": "Meloetta",
+        "homeSprite": "meloetta-pirouette",
+        "miniSprite": "meloetta-pirouette"
     },
     "baseSpecies": "meloetta",
     "baseForms": [

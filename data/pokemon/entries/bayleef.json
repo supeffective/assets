@@ -73,7 +73,9 @@
         "showdownMarkup": "Bayleef",
         "showdownData": "bayleef",
         "serebii": "bayleef",
-        "bulbapedia": "Bayleef"
+        "bulbapedia": "Bayleef",
+        "homeSprite": "bayleef",
+        "miniSprite": "bayleef"
     },
     "baseSpecies": null,
     "baseForms": [],

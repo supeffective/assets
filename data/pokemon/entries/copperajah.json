@@ -73,7 +73,9 @@
         "showdownMarkup": "Copperajah",
         "showdownData": "copperajah",
         "serebii": "copperajah",
-        "bulbapedia": "Copperajah"
+        "bulbapedia": "Copperajah",
+        "homeSprite": "copperajah",
+        "miniSprite": "copperajah"
     },
     "baseSpecies": null,
     "baseForms": [],

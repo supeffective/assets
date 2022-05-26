@@ -73,7 +73,9 @@
         "showdownMarkup": "Aerodactyl",
         "showdownData": "aerodactyl",
         "serebii": "aerodactyl",
-        "bulbapedia": "Aerodactyl"
+        "bulbapedia": "Aerodactyl",
+        "homeSprite": "aerodactyl",
+        "miniSprite": "aerodactyl"
     },
     "baseSpecies": null,
     "baseForms": [],

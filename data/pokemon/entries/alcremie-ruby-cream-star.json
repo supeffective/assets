@@ -73,7 +73,9 @@
         "showdownMarkup": "Alcremie-Ruby-Cream-Star",
         "showdownData": "alcremierubycreamstar",
         "serebii": "alcremie-ruby-cream-star",
-        "bulbapedia": "Alcremie"
+        "bulbapedia": "Alcremie",
+        "homeSprite": "alcremie-ruby-cream-star",
+        "miniSprite": "alcremie-ruby-cream-star"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

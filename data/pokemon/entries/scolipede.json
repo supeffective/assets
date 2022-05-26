@@ -73,7 +73,9 @@
         "showdownMarkup": "Scolipede",
         "showdownData": "scolipede",
         "serebii": "scolipede",
-        "bulbapedia": "Scolipede"
+        "bulbapedia": "Scolipede",
+        "homeSprite": "scolipede",
+        "miniSprite": "scolipede"
     },
     "baseSpecies": null,
     "baseForms": [],

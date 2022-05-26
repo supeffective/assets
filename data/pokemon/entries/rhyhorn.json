@@ -73,7 +73,9 @@
         "showdownMarkup": "Rhyhorn",
         "showdownData": "rhyhorn",
         "serebii": "rhyhorn",
-        "bulbapedia": "Rhyhorn"
+        "bulbapedia": "Rhyhorn",
+        "homeSprite": "rhyhorn",
+        "miniSprite": "rhyhorn"
     },
     "baseSpecies": null,
     "baseForms": [],

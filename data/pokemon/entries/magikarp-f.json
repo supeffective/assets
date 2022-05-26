@@ -73,7 +73,9 @@
         "showdownMarkup": "Magikarp-F",
         "showdownData": "magikarpf",
         "serebii": "magikarp-f",
-        "bulbapedia": "Magikarp"
+        "bulbapedia": "Magikarp",
+        "homeSprite": "magikarp-f",
+        "miniSprite": "magikarp-f"
     },
     "baseSpecies": "magikarp",
     "baseForms": [],

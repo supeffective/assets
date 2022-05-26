@@ -73,7 +73,9 @@
         "showdownMarkup": "Bellossom",
         "showdownData": "bellossom",
         "serebii": "bellossom",
-        "bulbapedia": "Bellossom"
+        "bulbapedia": "Bellossom",
+        "homeSprite": "bellossom",
+        "miniSprite": "bellossom"
     },
     "baseSpecies": null,
     "baseForms": [],

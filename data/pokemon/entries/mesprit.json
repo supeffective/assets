@@ -73,7 +73,9 @@
         "showdownMarkup": "Mesprit",
         "showdownData": "mesprit",
         "serebii": "mesprit",
-        "bulbapedia": "Mesprit"
+        "bulbapedia": "Mesprit",
+        "homeSprite": "mesprit",
+        "miniSprite": "mesprit"
     },
     "baseSpecies": null,
     "baseForms": [],

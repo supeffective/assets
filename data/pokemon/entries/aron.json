@@ -73,7 +73,9 @@
         "showdownMarkup": "Aron",
         "showdownData": "aron",
         "serebii": "aron",
-        "bulbapedia": "Aron"
+        "bulbapedia": "Aron",
+        "homeSprite": "aron",
+        "miniSprite": "aron"
     },
     "baseSpecies": null,
     "baseForms": [],

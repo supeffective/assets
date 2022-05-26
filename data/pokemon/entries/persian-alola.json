@@ -73,7 +73,9 @@
         "showdownMarkup": "Persian-Alola",
         "showdownData": "persianalola",
         "serebii": "persian-alola",
-        "bulbapedia": "Persian"
+        "bulbapedia": "Persian",
+        "homeSprite": "persian-alola",
+        "miniSprite": "persian-alola"
     },
     "baseSpecies": "persian",
     "baseForms": [],

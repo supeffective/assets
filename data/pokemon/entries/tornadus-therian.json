@@ -73,7 +73,9 @@
         "showdownMarkup": "Tornadus-Therian",
         "showdownData": "tornadustherian",
         "serebii": "tornadus-therian",
-        "bulbapedia": "Tornadus"
+        "bulbapedia": "Tornadus",
+        "homeSprite": "tornadus-therian",
+        "miniSprite": "tornadus-therian"
     },
     "baseSpecies": "tornadus",
     "baseForms": [

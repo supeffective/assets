@@ -71,7 +71,9 @@
         "showdownMarkup": "Eiscue-Noice",
         "showdownData": "eiscuenoice",
         "serebii": "eiscue-noice",
-        "bulbapedia": "Eiscue"
+        "bulbapedia": "Eiscue",
+        "homeSprite": "eiscue-noice",
+        "miniSprite": "eiscue-noice"
     },
     "baseSpecies": "eiscue",
     "baseForms": [

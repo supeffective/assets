@@ -73,7 +73,9 @@
         "showdownMarkup": "Nosepass",
         "showdownData": "nosepass",
         "serebii": "nosepass",
-        "bulbapedia": "Nosepass"
+        "bulbapedia": "Nosepass",
+        "homeSprite": "nosepass",
+        "miniSprite": "nosepass"
     },
     "baseSpecies": null,
     "baseForms": [],

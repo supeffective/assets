@@ -73,7 +73,9 @@
         "showdownMarkup": "Sirfetchd",
         "showdownData": "sirfetchd",
         "serebii": "sirfetchd",
-        "bulbapedia": "Sirfetch’d"
+        "bulbapedia": "Sirfetch’d",
+        "homeSprite": "sirfetchd",
+        "miniSprite": "sirfetchd"
     },
     "baseSpecies": null,
     "baseForms": [],

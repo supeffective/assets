@@ -73,7 +73,9 @@
         "showdownMarkup": "Spheal",
         "showdownData": "spheal",
         "serebii": "spheal",
-        "bulbapedia": "Spheal"
+        "bulbapedia": "Spheal",
+        "homeSprite": "spheal",
+        "miniSprite": "spheal"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Inkay",
         "showdownData": "inkay",
         "serebii": "inkay",
-        "bulbapedia": "Inkay"
+        "bulbapedia": "Inkay",
+        "homeSprite": "inkay",
+        "miniSprite": "inkay"
     },
     "baseSpecies": null,
     "baseForms": [],

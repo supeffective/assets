@@ -73,7 +73,9 @@
         "showdownMarkup": "Meowth-Alola",
         "showdownData": "meowthalola",
         "serebii": "meowth-alola",
-        "bulbapedia": "Meowth"
+        "bulbapedia": "Meowth",
+        "homeSprite": "meowth-alola",
+        "miniSprite": "meowth-alola"
     },
     "baseSpecies": "meowth",
     "baseForms": [],

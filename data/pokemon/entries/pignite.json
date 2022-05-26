@@ -73,7 +73,9 @@
         "showdownMarkup": "Pignite",
         "showdownData": "pignite",
         "serebii": "pignite",
-        "bulbapedia": "Pignite"
+        "bulbapedia": "Pignite",
+        "homeSprite": "pignite",
+        "miniSprite": "pignite"
     },
     "baseSpecies": null,
     "baseForms": [],

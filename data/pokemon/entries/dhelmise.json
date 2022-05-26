@@ -73,7 +73,9 @@
         "showdownMarkup": "Dhelmise",
         "showdownData": "dhelmise",
         "serebii": "dhelmise",
-        "bulbapedia": "Dhelmise"
+        "bulbapedia": "Dhelmise",
+        "homeSprite": "dhelmise",
+        "miniSprite": "dhelmise"
     },
     "baseSpecies": null,
     "baseForms": [],

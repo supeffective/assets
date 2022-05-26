@@ -73,7 +73,9 @@
         "showdownMarkup": "Minior-Orange",
         "showdownData": "miniororange",
         "serebii": "minior-orange",
-        "bulbapedia": "Minior"
+        "bulbapedia": "Minior",
+        "homeSprite": "minior-orange",
+        "miniSprite": "minior-orange"
     },
     "baseSpecies": "minior",
     "baseForms": [

@@ -73,7 +73,9 @@
         "showdownMarkup": "Weedle",
         "showdownData": "weedle",
         "serebii": "weedle",
-        "bulbapedia": "Weedle"
+        "bulbapedia": "Weedle",
+        "homeSprite": "weedle",
+        "miniSprite": "weedle"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Dragapult",
         "showdownData": "dragapult",
         "serebii": "dragapult",
-        "bulbapedia": "Dragapult"
+        "bulbapedia": "Dragapult",
+        "homeSprite": "dragapult",
+        "miniSprite": "dragapult"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Runerigus",
         "showdownData": "runerigus",
         "serebii": "runerigus",
-        "bulbapedia": "Runerigus"
+        "bulbapedia": "Runerigus",
+        "homeSprite": "runerigus",
+        "miniSprite": "runerigus"
     },
     "baseSpecies": null,
     "baseForms": [],

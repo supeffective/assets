@@ -73,7 +73,9 @@
         "showdownMarkup": "Deerling-Summer",
         "showdownData": "deerlingsummer",
         "serebii": "deerling-summer",
-        "bulbapedia": "Deerling"
+        "bulbapedia": "Deerling",
+        "homeSprite": "deerling-summer",
+        "miniSprite": "deerling-summer"
     },
     "baseSpecies": "deerling",
     "baseForms": [],

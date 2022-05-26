@@ -73,7 +73,9 @@
         "showdownMarkup": "Clobbopus",
         "showdownData": "clobbopus",
         "serebii": "clobbopus",
-        "bulbapedia": "Clobbopus"
+        "bulbapedia": "Clobbopus",
+        "homeSprite": "clobbopus",
+        "miniSprite": "clobbopus"
     },
     "baseSpecies": null,
     "baseForms": [],

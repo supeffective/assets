@@ -73,7 +73,9 @@
         "showdownMarkup": "Articuno",
         "showdownData": "articuno",
         "serebii": "articuno",
-        "bulbapedia": "Articuno"
+        "bulbapedia": "Articuno",
+        "homeSprite": "articuno",
+        "miniSprite": "articuno"
     },
     "baseSpecies": null,
     "baseForms": [],

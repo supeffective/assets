@@ -73,7 +73,9 @@
         "showdownMarkup": "Porygonz",
         "showdownData": "porygonz",
         "serebii": "porygonz",
-        "bulbapedia": "Porygon-Z"
+        "bulbapedia": "Porygon-Z",
+        "homeSprite": "porygonz",
+        "miniSprite": "porygonz"
     },
     "baseSpecies": null,
     "baseForms": [],

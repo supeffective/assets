@@ -73,7 +73,9 @@
         "showdownMarkup": "Minun",
         "showdownData": "minun",
         "serebii": "minun",
-        "bulbapedia": "Minun"
+        "bulbapedia": "Minun",
+        "homeSprite": "minun",
+        "miniSprite": "minun"
     },
     "baseSpecies": null,
     "baseForms": [],

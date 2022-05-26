@@ -73,7 +73,9 @@
         "showdownMarkup": "Woobat",
         "showdownData": "woobat",
         "serebii": "woobat",
-        "bulbapedia": "Woobat"
+        "bulbapedia": "Woobat",
+        "homeSprite": "woobat",
+        "miniSprite": "woobat"
     },
     "baseSpecies": null,
     "baseForms": [],

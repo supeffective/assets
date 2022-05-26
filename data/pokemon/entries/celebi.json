@@ -73,7 +73,9 @@
         "showdownMarkup": "Celebi",
         "showdownData": "celebi",
         "serebii": "celebi",
-        "bulbapedia": "Celebi"
+        "bulbapedia": "Celebi",
+        "homeSprite": "celebi",
+        "miniSprite": "celebi"
     },
     "baseSpecies": null,
     "baseForms": [],

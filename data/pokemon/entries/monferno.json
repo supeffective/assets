@@ -73,7 +73,9 @@
         "showdownMarkup": "Monferno",
         "showdownData": "monferno",
         "serebii": "monferno",
-        "bulbapedia": "Monferno"
+        "bulbapedia": "Monferno",
+        "homeSprite": "monferno",
+        "miniSprite": "monferno"
     },
     "baseSpecies": null,
     "baseForms": [],

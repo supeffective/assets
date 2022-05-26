@@ -73,7 +73,9 @@
         "showdownMarkup": "Metang",
         "showdownData": "metang",
         "serebii": "metang",
-        "bulbapedia": "Metang"
+        "bulbapedia": "Metang",
+        "homeSprite": "metang",
+        "miniSprite": "metang"
     },
     "baseSpecies": null,
     "baseForms": [],

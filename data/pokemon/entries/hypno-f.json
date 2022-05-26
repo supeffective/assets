@@ -73,7 +73,9 @@
         "showdownMarkup": "Hypno-F",
         "showdownData": "hypnof",
         "serebii": "hypno-f",
-        "bulbapedia": "Hypno"
+        "bulbapedia": "Hypno",
+        "homeSprite": "hypno-f",
+        "miniSprite": "hypno-f"
     },
     "baseSpecies": "hypno",
     "baseForms": [],

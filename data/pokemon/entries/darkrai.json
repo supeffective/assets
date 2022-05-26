@@ -73,7 +73,9 @@
         "showdownMarkup": "Darkrai",
         "showdownData": "darkrai",
         "serebii": "darkrai",
-        "bulbapedia": "Darkrai"
+        "bulbapedia": "Darkrai",
+        "homeSprite": "darkrai",
+        "miniSprite": "darkrai"
     },
     "baseSpecies": null,
     "baseForms": [],

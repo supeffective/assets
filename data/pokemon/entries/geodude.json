@@ -73,7 +73,9 @@
         "showdownMarkup": "Geodude",
         "showdownData": "geodude",
         "serebii": "geodude",
-        "bulbapedia": "Geodude"
+        "bulbapedia": "Geodude",
+        "homeSprite": "geodude",
+        "miniSprite": "geodude"
     },
     "baseSpecies": null,
     "baseForms": [],

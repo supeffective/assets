@@ -73,7 +73,9 @@
         "showdownMarkup": "Latias",
         "showdownData": "latias",
         "serebii": "latias",
-        "bulbapedia": "Latias"
+        "bulbapedia": "Latias",
+        "homeSprite": "latias",
+        "miniSprite": "latias"
     },
     "baseSpecies": null,
     "baseForms": [],

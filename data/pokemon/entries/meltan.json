@@ -73,7 +73,9 @@
         "showdownMarkup": "Meltan",
         "showdownData": "meltan",
         "serebii": "meltan",
-        "bulbapedia": "Meltan"
+        "bulbapedia": "Meltan",
+        "homeSprite": "meltan",
+        "miniSprite": "meltan"
     },
     "baseSpecies": null,
     "baseForms": [],

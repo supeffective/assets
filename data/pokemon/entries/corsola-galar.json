@@ -73,7 +73,9 @@
         "showdownMarkup": "Corsola-Galar",
         "showdownData": "corsolagalar",
         "serebii": "corsola-galar",
-        "bulbapedia": "Corsola"
+        "bulbapedia": "Corsola",
+        "homeSprite": "corsola-galar",
+        "miniSprite": "corsola-galar"
     },
     "baseSpecies": "corsola",
     "baseForms": [],

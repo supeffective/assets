@@ -73,7 +73,9 @@
         "showdownMarkup": "Vulpix",
         "showdownData": "vulpix",
         "serebii": "vulpix",
-        "bulbapedia": "Vulpix"
+        "bulbapedia": "Vulpix",
+        "homeSprite": "vulpix",
+        "miniSprite": "vulpix"
     },
     "baseSpecies": null,
     "baseForms": [],

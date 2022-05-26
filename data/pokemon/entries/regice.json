@@ -73,7 +73,9 @@
         "showdownMarkup": "Regice",
         "showdownData": "regice",
         "serebii": "regice",
-        "bulbapedia": "Regice"
+        "bulbapedia": "Regice",
+        "homeSprite": "regice",
+        "miniSprite": "regice"
     },
     "baseSpecies": null,
     "baseForms": [],

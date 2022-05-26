@@ -73,7 +73,9 @@
         "showdownMarkup": "Quilladin",
         "showdownData": "quilladin",
         "serebii": "quilladin",
-        "bulbapedia": "Quilladin"
+        "bulbapedia": "Quilladin",
+        "homeSprite": "quilladin",
+        "miniSprite": "quilladin"
     },
     "baseSpecies": null,
     "baseForms": [],

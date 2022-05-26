@@ -73,7 +73,9 @@
         "showdownMarkup": "Honchkrow",
         "showdownData": "honchkrow",
         "serebii": "honchkrow",
-        "bulbapedia": "Honchkrow"
+        "bulbapedia": "Honchkrow",
+        "homeSprite": "honchkrow",
+        "miniSprite": "honchkrow"
     },
     "baseSpecies": null,
     "baseForms": [],

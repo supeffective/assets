@@ -73,7 +73,9 @@
         "showdownMarkup": "Drizzile",
         "showdownData": "drizzile",
         "serebii": "drizzile",
-        "bulbapedia": "Drizzile"
+        "bulbapedia": "Drizzile",
+        "homeSprite": "drizzile",
+        "miniSprite": "drizzile"
     },
     "baseSpecies": null,
     "baseForms": [],

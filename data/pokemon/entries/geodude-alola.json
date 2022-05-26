@@ -73,7 +73,9 @@
         "showdownMarkup": "Geodude-Alola",
         "showdownData": "geodudealola",
         "serebii": "geodude-alola",
-        "bulbapedia": "Geodude"
+        "bulbapedia": "Geodude",
+        "homeSprite": "geodude-alola",
+        "miniSprite": "geodude-alola"
     },
     "baseSpecies": "geodude",
     "baseForms": [],

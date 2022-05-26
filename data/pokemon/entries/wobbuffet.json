@@ -73,7 +73,9 @@
         "showdownMarkup": "Wobbuffet",
         "showdownData": "wobbuffet",
         "serebii": "wobbuffet",
-        "bulbapedia": "Wobbuffet"
+        "bulbapedia": "Wobbuffet",
+        "homeSprite": "wobbuffet",
+        "miniSprite": "wobbuffet"
     },
     "baseSpecies": null,
     "baseForms": [],

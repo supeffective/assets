@@ -71,7 +71,9 @@
         "showdownMarkup": "Charizard-Mega-X",
         "showdownData": "charizardmegax",
         "serebii": "charizard-mega-x",
-        "bulbapedia": "Charizard"
+        "bulbapedia": "Charizard",
+        "homeSprite": "charizard-mega-x",
+        "miniSprite": "charizard-mega-x"
     },
     "baseSpecies": "charizard",
     "baseForms": [

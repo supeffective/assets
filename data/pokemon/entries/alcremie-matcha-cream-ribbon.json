@@ -73,7 +73,9 @@
         "showdownMarkup": "Alcremie-Matcha-Cream-Ribbon",
         "showdownData": "alcremiematchacreamribbon",
         "serebii": "alcremie-matcha-cream-ribbon",
-        "bulbapedia": "Alcremie"
+        "bulbapedia": "Alcremie",
+        "homeSprite": "alcremie-matcha-cream-ribbon",
+        "miniSprite": "alcremie-matcha-cream-ribbon"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

@@ -71,7 +71,9 @@
         "showdownMarkup": "Altaria-Mega",
         "showdownData": "altariamega",
         "serebii": "altaria-mega",
-        "bulbapedia": "Altaria"
+        "bulbapedia": "Altaria",
+        "homeSprite": "altaria-mega",
+        "miniSprite": "altaria-mega"
     },
     "baseSpecies": "altaria",
     "baseForms": [

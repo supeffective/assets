@@ -73,7 +73,9 @@
         "showdownMarkup": "Magcargo",
         "showdownData": "magcargo",
         "serebii": "magcargo",
-        "bulbapedia": "Magcargo"
+        "bulbapedia": "Magcargo",
+        "homeSprite": "magcargo",
+        "miniSprite": "magcargo"
     },
     "baseSpecies": null,
     "baseForms": [],

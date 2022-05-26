@@ -73,7 +73,9 @@
         "showdownMarkup": "Slowking",
         "showdownData": "slowking",
         "serebii": "slowking",
-        "bulbapedia": "Slowking"
+        "bulbapedia": "Slowking",
+        "homeSprite": "slowking",
+        "miniSprite": "slowking"
     },
     "baseSpecies": null,
     "baseForms": [],

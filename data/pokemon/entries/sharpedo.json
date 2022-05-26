@@ -73,7 +73,9 @@
         "showdownMarkup": "Sharpedo",
         "showdownData": "sharpedo",
         "serebii": "sharpedo",
-        "bulbapedia": "Sharpedo"
+        "bulbapedia": "Sharpedo",
+        "homeSprite": "sharpedo",
+        "miniSprite": "sharpedo"
     },
     "baseSpecies": null,
     "baseForms": [],

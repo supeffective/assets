@@ -73,7 +73,9 @@
         "showdownMarkup": "Oricorio",
         "showdownData": "oricorio",
         "serebii": "oricorio",
-        "bulbapedia": "Oricorio"
+        "bulbapedia": "Oricorio",
+        "homeSprite": "oricorio",
+        "miniSprite": "oricorio"
     },
     "baseSpecies": null,
     "baseForms": [],

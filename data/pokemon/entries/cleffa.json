@@ -73,7 +73,9 @@
         "showdownMarkup": "Cleffa",
         "showdownData": "cleffa",
         "serebii": "cleffa",
-        "bulbapedia": "Cleffa"
+        "bulbapedia": "Cleffa",
+        "homeSprite": "cleffa",
+        "miniSprite": "cleffa"
     },
     "baseSpecies": null,
     "baseForms": [],

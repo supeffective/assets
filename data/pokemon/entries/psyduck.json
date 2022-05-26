@@ -73,7 +73,9 @@
         "showdownMarkup": "Psyduck",
         "showdownData": "psyduck",
         "serebii": "psyduck",
-        "bulbapedia": "Psyduck"
+        "bulbapedia": "Psyduck",
+        "homeSprite": "psyduck",
+        "miniSprite": "psyduck"
     },
     "baseSpecies": null,
     "baseForms": [],

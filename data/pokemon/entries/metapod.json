@@ -73,7 +73,9 @@
         "showdownMarkup": "Metapod",
         "showdownData": "metapod",
         "serebii": "metapod",
-        "bulbapedia": "Metapod"
+        "bulbapedia": "Metapod",
+        "homeSprite": "metapod",
+        "miniSprite": "metapod"
     },
     "baseSpecies": null,
     "baseForms": [],

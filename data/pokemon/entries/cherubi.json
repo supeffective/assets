@@ -73,7 +73,9 @@
         "showdownMarkup": "Cherubi",
         "showdownData": "cherubi",
         "serebii": "cherubi",
-        "bulbapedia": "Cherubi"
+        "bulbapedia": "Cherubi",
+        "homeSprite": "cherubi",
+        "miniSprite": "cherubi"
     },
     "baseSpecies": null,
     "baseForms": [],

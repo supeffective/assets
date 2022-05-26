@@ -73,7 +73,9 @@
         "showdownMarkup": "Zoroark",
         "showdownData": "zoroark",
         "serebii": "zoroark",
-        "bulbapedia": "Zoroark"
+        "bulbapedia": "Zoroark",
+        "homeSprite": "zoroark",
+        "miniSprite": "zoroark"
     },
     "baseSpecies": null,
     "baseForms": [],

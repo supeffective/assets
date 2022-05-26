@@ -73,7 +73,9 @@
         "showdownMarkup": "Moltres-Galar",
         "showdownData": "moltresgalar",
         "serebii": "moltres-galar",
-        "bulbapedia": "Moltres"
+        "bulbapedia": "Moltres",
+        "homeSprite": "moltres-galar",
+        "miniSprite": "moltres-galar"
     },
     "baseSpecies": "moltres",
     "baseForms": [],

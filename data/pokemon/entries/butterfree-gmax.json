@@ -71,7 +71,9 @@
         "showdownMarkup": "Butterfree-Gmax",
         "showdownData": "butterfreegmax",
         "serebii": "butterfree-gmax",
-        "bulbapedia": "Butterfree"
+        "bulbapedia": "Butterfree",
+        "homeSprite": "butterfree-gmax",
+        "miniSprite": "butterfree-gmax"
     },
     "baseSpecies": "butterfree",
     "baseForms": [

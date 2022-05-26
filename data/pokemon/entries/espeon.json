@@ -73,7 +73,9 @@
         "showdownMarkup": "Espeon",
         "showdownData": "espeon",
         "serebii": "espeon",
-        "bulbapedia": "Espeon"
+        "bulbapedia": "Espeon",
+        "homeSprite": "espeon",
+        "miniSprite": "espeon"
     },
     "baseSpecies": null,
     "baseForms": [],

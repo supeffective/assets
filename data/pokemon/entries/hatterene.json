@@ -73,7 +73,9 @@
         "showdownMarkup": "Hatterene",
         "showdownData": "hatterene",
         "serebii": "hatterene",
-        "bulbapedia": "Hatterene"
+        "bulbapedia": "Hatterene",
+        "homeSprite": "hatterene",
+        "miniSprite": "hatterene"
     },
     "baseSpecies": null,
     "baseForms": [],

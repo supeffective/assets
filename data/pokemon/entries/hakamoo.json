@@ -73,7 +73,9 @@
         "showdownMarkup": "Hakamoo",
         "showdownData": "hakamoo",
         "serebii": "hakamoo",
-        "bulbapedia": "Hakamo-o"
+        "bulbapedia": "Hakamo-o",
+        "homeSprite": "hakamoo",
+        "miniSprite": "hakamoo"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Typhlosion",
         "showdownData": "typhlosion",
         "serebii": "typhlosion",
-        "bulbapedia": "Typhlosion"
+        "bulbapedia": "Typhlosion",
+        "homeSprite": "typhlosion",
+        "miniSprite": "typhlosion"
     },
     "baseSpecies": null,
     "baseForms": [],

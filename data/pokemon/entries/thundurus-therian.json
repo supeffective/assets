@@ -73,7 +73,9 @@
         "showdownMarkup": "Thundurus-Therian",
         "showdownData": "thundurustherian",
         "serebii": "thundurus-therian",
-        "bulbapedia": "Thundurus"
+        "bulbapedia": "Thundurus",
+        "homeSprite": "thundurus-therian",
+        "miniSprite": "thundurus-therian"
     },
     "baseSpecies": "thundurus",
     "baseForms": [

@@ -73,7 +73,9 @@
         "showdownMarkup": "Exeggutor",
         "showdownData": "exeggutor",
         "serebii": "exeggutor",
-        "bulbapedia": "Exeggutor"
+        "bulbapedia": "Exeggutor",
+        "homeSprite": "exeggutor",
+        "miniSprite": "exeggutor"
     },
     "baseSpecies": null,
     "baseForms": [],

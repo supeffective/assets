@@ -73,7 +73,9 @@
         "showdownMarkup": "Pancham",
         "showdownData": "pancham",
         "serebii": "pancham",
-        "bulbapedia": "Pancham"
+        "bulbapedia": "Pancham",
+        "homeSprite": "pancham",
+        "miniSprite": "pancham"
     },
     "baseSpecies": null,
     "baseForms": [],

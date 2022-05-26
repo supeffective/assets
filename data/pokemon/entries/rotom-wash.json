@@ -73,7 +73,9 @@
         "showdownMarkup": "Rotom-Wash",
         "showdownData": "rotomwash",
         "serebii": "rotom-wash",
-        "bulbapedia": "Rotom"
+        "bulbapedia": "Rotom",
+        "homeSprite": "rotom-wash",
+        "miniSprite": "rotom-wash"
     },
     "baseSpecies": "rotom",
     "baseForms": [

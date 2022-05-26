@@ -73,7 +73,9 @@
         "showdownMarkup": "Dwebble",
         "showdownData": "dwebble",
         "serebii": "dwebble",
-        "bulbapedia": "Dwebble"
+        "bulbapedia": "Dwebble",
+        "homeSprite": "dwebble",
+        "miniSprite": "dwebble"
     },
     "baseSpecies": null,
     "baseForms": [],

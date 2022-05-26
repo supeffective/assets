@@ -73,7 +73,9 @@
         "showdownMarkup": "Castform",
         "showdownData": "castform",
         "serebii": "castform",
-        "bulbapedia": "Castform"
+        "bulbapedia": "Castform",
+        "homeSprite": "castform",
+        "miniSprite": "castform"
     },
     "baseSpecies": null,
     "baseForms": [],

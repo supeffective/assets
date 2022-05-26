@@ -71,7 +71,9 @@
         "showdownMarkup": "Hatterene-Gmax",
         "showdownData": "hatterenegmax",
         "serebii": "hatterene-gmax",
-        "bulbapedia": "Hatterene"
+        "bulbapedia": "Hatterene",
+        "homeSprite": "hatterene-gmax",
+        "miniSprite": "hatterene-gmax"
     },
     "baseSpecies": "hatterene",
     "baseForms": [

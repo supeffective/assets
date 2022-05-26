@@ -73,7 +73,9 @@
         "showdownMarkup": "Tyrogue",
         "showdownData": "tyrogue",
         "serebii": "tyrogue",
-        "bulbapedia": "Tyrogue"
+        "bulbapedia": "Tyrogue",
+        "homeSprite": "tyrogue",
+        "miniSprite": "tyrogue"
     },
     "baseSpecies": null,
     "baseForms": [],

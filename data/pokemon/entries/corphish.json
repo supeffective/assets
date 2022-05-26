@@ -73,7 +73,9 @@
         "showdownMarkup": "Corphish",
         "showdownData": "corphish",
         "serebii": "corphish",
-        "bulbapedia": "Corphish"
+        "bulbapedia": "Corphish",
+        "homeSprite": "corphish",
+        "miniSprite": "corphish"
     },
     "baseSpecies": null,
     "baseForms": [],

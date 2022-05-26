@@ -73,7 +73,9 @@
         "showdownMarkup": "Inteleon",
         "showdownData": "inteleon",
         "serebii": "inteleon",
-        "bulbapedia": "Inteleon"
+        "bulbapedia": "Inteleon",
+        "homeSprite": "inteleon",
+        "miniSprite": "inteleon"
     },
     "baseSpecies": null,
     "baseForms": [],

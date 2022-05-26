@@ -73,7 +73,9 @@
         "showdownMarkup": "Gloom-F",
         "showdownData": "gloomf",
         "serebii": "gloom-f",
-        "bulbapedia": "Gloom"
+        "bulbapedia": "Gloom",
+        "homeSprite": "gloom-f",
+        "miniSprite": "gloom-f"
     },
     "baseSpecies": "gloom",
     "baseForms": [],

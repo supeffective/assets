@@ -73,7 +73,9 @@
         "showdownMarkup": "Exeggutor-Alola",
         "showdownData": "exeggutoralola",
         "serebii": "exeggutor-alola",
-        "bulbapedia": "Exeggutor"
+        "bulbapedia": "Exeggutor",
+        "homeSprite": "exeggutor-alola",
+        "miniSprite": "exeggutor-alola"
     },
     "baseSpecies": "exeggutor",
     "baseForms": [],

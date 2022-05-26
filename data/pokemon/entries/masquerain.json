@@ -73,7 +73,9 @@
         "showdownMarkup": "Masquerain",
         "showdownData": "masquerain",
         "serebii": "masquerain",
-        "bulbapedia": "Masquerain"
+        "bulbapedia": "Masquerain",
+        "homeSprite": "masquerain",
+        "miniSprite": "masquerain"
     },
     "baseSpecies": null,
     "baseForms": [],

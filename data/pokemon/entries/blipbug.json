@@ -73,7 +73,9 @@
         "showdownMarkup": "Blipbug",
         "showdownData": "blipbug",
         "serebii": "blipbug",
-        "bulbapedia": "Blipbug"
+        "bulbapedia": "Blipbug",
+        "homeSprite": "blipbug",
+        "miniSprite": "blipbug"
     },
     "baseSpecies": null,
     "baseForms": [],

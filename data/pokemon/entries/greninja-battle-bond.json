@@ -73,7 +73,9 @@
         "showdownMarkup": "Greninja-Battle-Bond",
         "showdownData": "greninjabattlebond",
         "serebii": "greninja-battle-bond",
-        "bulbapedia": "Greninja"
+        "bulbapedia": "Greninja",
+        "homeSprite": "greninja-battle-bond",
+        "miniSprite": "greninja-battle-bond"
     },
     "baseSpecies": "greninja",
     "baseForms": [],

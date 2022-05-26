@@ -73,7 +73,9 @@
         "showdownMarkup": "Lampent",
         "showdownData": "lampent",
         "serebii": "lampent",
-        "bulbapedia": "Lampent"
+        "bulbapedia": "Lampent",
+        "homeSprite": "lampent",
+        "miniSprite": "lampent"
     },
     "baseSpecies": null,
     "baseForms": [],

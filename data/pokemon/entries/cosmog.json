@@ -73,7 +73,9 @@
         "showdownMarkup": "Cosmog",
         "showdownData": "cosmog",
         "serebii": "cosmog",
-        "bulbapedia": "Cosmog"
+        "bulbapedia": "Cosmog",
+        "homeSprite": "cosmog",
+        "miniSprite": "cosmog"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Panpour",
         "showdownData": "panpour",
         "serebii": "panpour",
-        "bulbapedia": "Panpour"
+        "bulbapedia": "Panpour",
+        "homeSprite": "panpour",
+        "miniSprite": "panpour"
     },
     "baseSpecies": null,
     "baseForms": [],

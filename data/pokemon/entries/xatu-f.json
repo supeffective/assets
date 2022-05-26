@@ -73,7 +73,9 @@
         "showdownMarkup": "Xatu-F",
         "showdownData": "xatuf",
         "serebii": "xatu-f",
-        "bulbapedia": "Xatu"
+        "bulbapedia": "Xatu",
+        "homeSprite": "xatu-f",
+        "miniSprite": "xatu-f"
     },
     "baseSpecies": "xatu",
     "baseForms": [],

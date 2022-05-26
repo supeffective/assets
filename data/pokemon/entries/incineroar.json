@@ -73,7 +73,9 @@
         "showdownMarkup": "Incineroar",
         "showdownData": "incineroar",
         "serebii": "incineroar",
-        "bulbapedia": "Incineroar"
+        "bulbapedia": "Incineroar",
+        "homeSprite": "incineroar",
+        "miniSprite": "incineroar"
     },
     "baseSpecies": null,
     "baseForms": [],

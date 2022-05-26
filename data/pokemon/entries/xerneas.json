@@ -73,7 +73,9 @@
         "showdownMarkup": "Xerneas",
         "showdownData": "xerneas",
         "serebii": "xerneas",
-        "bulbapedia": "Xerneas"
+        "bulbapedia": "Xerneas",
+        "homeSprite": "xerneas",
+        "miniSprite": "xerneas"
     },
     "baseSpecies": null,
     "baseForms": [],

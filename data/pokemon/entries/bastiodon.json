@@ -73,7 +73,9 @@
         "showdownMarkup": "Bastiodon",
         "showdownData": "bastiodon",
         "serebii": "bastiodon",
-        "bulbapedia": "Bastiodon"
+        "bulbapedia": "Bastiodon",
+        "homeSprite": "bastiodon",
+        "miniSprite": "bastiodon"
     },
     "baseSpecies": null,
     "baseForms": [],

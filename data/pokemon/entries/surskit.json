@@ -73,7 +73,9 @@
         "showdownMarkup": "Surskit",
         "showdownData": "surskit",
         "serebii": "surskit",
-        "bulbapedia": "Surskit"
+        "bulbapedia": "Surskit",
+        "homeSprite": "surskit",
+        "miniSprite": "surskit"
     },
     "baseSpecies": null,
     "baseForms": [],

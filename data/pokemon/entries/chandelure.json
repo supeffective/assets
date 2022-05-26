@@ -73,7 +73,9 @@
         "showdownMarkup": "Chandelure",
         "showdownData": "chandelure",
         "serebii": "chandelure",
-        "bulbapedia": "Chandelure"
+        "bulbapedia": "Chandelure",
+        "homeSprite": "chandelure",
+        "miniSprite": "chandelure"
     },
     "baseSpecies": null,
     "baseForms": [],

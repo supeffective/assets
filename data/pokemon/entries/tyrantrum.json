@@ -73,7 +73,9 @@
         "showdownMarkup": "Tyrantrum",
         "showdownData": "tyrantrum",
         "serebii": "tyrantrum",
-        "bulbapedia": "Tyrantrum"
+        "bulbapedia": "Tyrantrum",
+        "homeSprite": "tyrantrum",
+        "miniSprite": "tyrantrum"
     },
     "baseSpecies": null,
     "baseForms": [],

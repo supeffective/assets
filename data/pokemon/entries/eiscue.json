@@ -73,7 +73,9 @@
         "showdownMarkup": "Eiscue",
         "showdownData": "eiscue",
         "serebii": "eiscue",
-        "bulbapedia": "Eiscue"
+        "bulbapedia": "Eiscue",
+        "homeSprite": "eiscue",
+        "miniSprite": "eiscue"
     },
     "baseSpecies": null,
     "baseForms": [],

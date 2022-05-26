@@ -73,7 +73,9 @@
         "showdownMarkup": "Skiploom",
         "showdownData": "skiploom",
         "serebii": "skiploom",
-        "bulbapedia": "Skiploom"
+        "bulbapedia": "Skiploom",
+        "homeSprite": "skiploom",
+        "miniSprite": "skiploom"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -71,7 +71,9 @@
         "showdownMarkup": "Silvally-Electric",
         "showdownData": "silvallyelectric",
         "serebii": "silvally-electric",
-        "bulbapedia": "Silvally"
+        "bulbapedia": "Silvally",
+        "homeSprite": "silvally-electric",
+        "miniSprite": "silvally-electric"
     },
     "baseSpecies": "silvally",
     "baseForms": [

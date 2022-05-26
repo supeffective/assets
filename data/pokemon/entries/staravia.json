@@ -73,7 +73,9 @@
         "showdownMarkup": "Staravia",
         "showdownData": "staravia",
         "serebii": "staravia",
-        "bulbapedia": "Staravia"
+        "bulbapedia": "Staravia",
+        "homeSprite": "staravia",
+        "miniSprite": "staravia"
     },
     "baseSpecies": null,
     "baseForms": [],

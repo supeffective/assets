@@ -73,7 +73,9 @@
         "showdownMarkup": "Araquanid",
         "showdownData": "araquanid",
         "serebii": "araquanid",
-        "bulbapedia": "Araquanid"
+        "bulbapedia": "Araquanid",
+        "homeSprite": "araquanid",
+        "miniSprite": "araquanid"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Darumaka-Galar",
         "showdownData": "darumakagalar",
         "serebii": "darumaka-galar",
-        "bulbapedia": "Darumaka"
+        "bulbapedia": "Darumaka",
+        "homeSprite": "darumaka-galar",
+        "miniSprite": "darumaka-galar"
     },
     "baseSpecies": "darumaka",
     "baseForms": [],

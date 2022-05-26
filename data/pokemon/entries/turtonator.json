@@ -73,7 +73,9 @@
         "showdownMarkup": "Turtonator",
         "showdownData": "turtonator",
         "serebii": "turtonator",
-        "bulbapedia": "Turtonator"
+        "bulbapedia": "Turtonator",
+        "homeSprite": "turtonator",
+        "miniSprite": "turtonator"
     },
     "baseSpecies": null,
     "baseForms": [],

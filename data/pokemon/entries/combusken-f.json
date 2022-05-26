@@ -73,7 +73,9 @@
         "showdownMarkup": "Combusken-F",
         "showdownData": "combuskenf",
         "serebii": "combusken-f",
-        "bulbapedia": "Combusken"
+        "bulbapedia": "Combusken",
+        "homeSprite": "combusken-f",
+        "miniSprite": "combusken-f"
     },
     "baseSpecies": "combusken",
     "baseForms": [],

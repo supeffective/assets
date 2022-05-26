@@ -73,7 +73,9 @@
         "showdownMarkup": "Cacturne",
         "showdownData": "cacturne",
         "serebii": "cacturne",
-        "bulbapedia": "Cacturne"
+        "bulbapedia": "Cacturne",
+        "homeSprite": "cacturne",
+        "miniSprite": "cacturne"
     },
     "baseSpecies": null,
     "baseForms": [],

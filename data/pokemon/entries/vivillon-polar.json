@@ -73,7 +73,9 @@
         "showdownMarkup": "Vivillon-Polar",
         "showdownData": "vivillonpolar",
         "serebii": "vivillon-polar",
-        "bulbapedia": "Vivillon"
+        "bulbapedia": "Vivillon",
+        "homeSprite": "vivillon-polar",
+        "miniSprite": "vivillon-polar"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

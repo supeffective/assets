@@ -73,7 +73,9 @@
         "showdownMarkup": "Togetic",
         "showdownData": "togetic",
         "serebii": "togetic",
-        "bulbapedia": "Togetic"
+        "bulbapedia": "Togetic",
+        "homeSprite": "togetic",
+        "miniSprite": "togetic"
     },
     "baseSpecies": null,
     "baseForms": [],

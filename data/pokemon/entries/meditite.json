@@ -73,7 +73,9 @@
         "showdownMarkup": "Meditite",
         "showdownData": "meditite",
         "serebii": "meditite",
-        "bulbapedia": "Meditite"
+        "bulbapedia": "Meditite",
+        "homeSprite": "meditite",
+        "miniSprite": "meditite"
     },
     "baseSpecies": null,
     "baseForms": [],

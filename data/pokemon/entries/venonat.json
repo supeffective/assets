@@ -73,7 +73,9 @@
         "showdownMarkup": "Venonat",
         "showdownData": "venonat",
         "serebii": "venonat",
-        "bulbapedia": "Venonat"
+        "bulbapedia": "Venonat",
+        "homeSprite": "venonat",
+        "miniSprite": "venonat"
     },
     "baseSpecies": null,
     "baseForms": [],

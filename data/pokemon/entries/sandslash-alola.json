@@ -73,7 +73,9 @@
         "showdownMarkup": "Sandslash-Alola",
         "showdownData": "sandslashalola",
         "serebii": "sandslash-alola",
-        "bulbapedia": "Sandslash"
+        "bulbapedia": "Sandslash",
+        "homeSprite": "sandslash-alola",
+        "miniSprite": "sandslash-alola"
     },
     "baseSpecies": "sandslash",
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Zapdos-Galar",
         "showdownData": "zapdosgalar",
         "serebii": "zapdos-galar",
-        "bulbapedia": "Zapdos"
+        "bulbapedia": "Zapdos",
+        "homeSprite": "zapdos-galar",
+        "miniSprite": "zapdos-galar"
     },
     "baseSpecies": "zapdos",
     "baseForms": [],

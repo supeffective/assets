@@ -73,7 +73,9 @@
         "showdownMarkup": "Rattata-F",
         "showdownData": "rattataf",
         "serebii": "rattata-f",
-        "bulbapedia": "Rattata"
+        "bulbapedia": "Rattata",
+        "homeSprite": "rattata-f",
+        "miniSprite": "rattata-f"
     },
     "baseSpecies": "rattata",
     "baseForms": [],

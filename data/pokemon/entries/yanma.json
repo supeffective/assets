@@ -73,7 +73,9 @@
         "showdownMarkup": "Yanma",
         "showdownData": "yanma",
         "serebii": "yanma",
-        "bulbapedia": "Yanma"
+        "bulbapedia": "Yanma",
+        "homeSprite": "yanma",
+        "miniSprite": "yanma"
     },
     "baseSpecies": null,
     "baseForms": [],

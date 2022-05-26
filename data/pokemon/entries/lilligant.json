@@ -73,7 +73,9 @@
         "showdownMarkup": "Lilligant",
         "showdownData": "lilligant",
         "serebii": "lilligant",
-        "bulbapedia": "Lilligant"
+        "bulbapedia": "Lilligant",
+        "homeSprite": "lilligant",
+        "miniSprite": "lilligant"
     },
     "baseSpecies": null,
     "baseForms": [],

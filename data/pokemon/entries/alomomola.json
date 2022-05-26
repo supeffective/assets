@@ -73,7 +73,9 @@
         "showdownMarkup": "Alomomola",
         "showdownData": "alomomola",
         "serebii": "alomomola",
-        "bulbapedia": "Alomomola"
+        "bulbapedia": "Alomomola",
+        "homeSprite": "alomomola",
+        "miniSprite": "alomomola"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -71,7 +71,9 @@
         "showdownMarkup": "Lapras-Gmax",
         "showdownData": "laprasgmax",
         "serebii": "lapras-gmax",
-        "bulbapedia": "Lapras"
+        "bulbapedia": "Lapras",
+        "homeSprite": "lapras-gmax",
+        "miniSprite": "lapras-gmax"
     },
     "baseSpecies": "lapras",
     "baseForms": [

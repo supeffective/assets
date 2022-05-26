@@ -73,7 +73,9 @@
         "showdownMarkup": "Ludicolo",
         "showdownData": "ludicolo",
         "serebii": "ludicolo",
-        "bulbapedia": "Ludicolo"
+        "bulbapedia": "Ludicolo",
+        "homeSprite": "ludicolo",
+        "miniSprite": "ludicolo"
     },
     "baseSpecies": null,
     "baseForms": [],

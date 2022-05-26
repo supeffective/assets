@@ -73,7 +73,9 @@
         "showdownMarkup": "Cloyster",
         "showdownData": "cloyster",
         "serebii": "cloyster",
-        "bulbapedia": "Cloyster"
+        "bulbapedia": "Cloyster",
+        "homeSprite": "cloyster",
+        "miniSprite": "cloyster"
     },
     "baseSpecies": null,
     "baseForms": [],

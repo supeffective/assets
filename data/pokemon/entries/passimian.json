@@ -73,7 +73,9 @@
         "showdownMarkup": "Passimian",
         "showdownData": "passimian",
         "serebii": "passimian",
-        "bulbapedia": "Passimian"
+        "bulbapedia": "Passimian",
+        "homeSprite": "passimian",
+        "miniSprite": "passimian"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Cinccino",
         "showdownData": "cinccino",
         "serebii": "cinccino",
-        "bulbapedia": "Cinccino"
+        "bulbapedia": "Cinccino",
+        "homeSprite": "cinccino",
+        "miniSprite": "cinccino"
     },
     "baseSpecies": null,
     "baseForms": [],

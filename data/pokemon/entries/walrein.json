@@ -73,7 +73,9 @@
         "showdownMarkup": "Walrein",
         "showdownData": "walrein",
         "serebii": "walrein",
-        "bulbapedia": "Walrein"
+        "bulbapedia": "Walrein",
+        "homeSprite": "walrein",
+        "miniSprite": "walrein"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Raichu",
         "showdownData": "raichu",
         "serebii": "raichu",
-        "bulbapedia": "Raichu"
+        "bulbapedia": "Raichu",
+        "homeSprite": "raichu",
+        "miniSprite": "raichu"
     },
     "baseSpecies": null,
     "baseForms": [],

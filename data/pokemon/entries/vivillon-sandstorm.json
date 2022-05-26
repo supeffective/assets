@@ -73,7 +73,9 @@
         "showdownMarkup": "Vivillon-Sandstorm",
         "showdownData": "vivillonsandstorm",
         "serebii": "vivillon-sandstorm",
-        "bulbapedia": "Vivillon"
+        "bulbapedia": "Vivillon",
+        "homeSprite": "vivillon-sandstorm",
+        "miniSprite": "vivillon-sandstorm"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

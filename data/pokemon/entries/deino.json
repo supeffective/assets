@@ -73,7 +73,9 @@
         "showdownMarkup": "Deino",
         "showdownData": "deino",
         "serebii": "deino",
-        "bulbapedia": "Deino"
+        "bulbapedia": "Deino",
+        "homeSprite": "deino",
+        "miniSprite": "deino"
     },
     "baseSpecies": null,
     "baseForms": [],

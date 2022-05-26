@@ -76,7 +76,9 @@
         "showdownMarkup": "Kyurem-Black",
         "showdownData": "kyuremblack",
         "serebii": "kyurem-black",
-        "bulbapedia": "Kyurem"
+        "bulbapedia": "Kyurem",
+        "homeSprite": "kyurem-black",
+        "miniSprite": "kyurem-black"
     },
     "baseSpecies": "kyurem",
     "baseForms": [

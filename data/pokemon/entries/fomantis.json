@@ -73,7 +73,9 @@
         "showdownMarkup": "Fomantis",
         "showdownData": "fomantis",
         "serebii": "fomantis",
-        "bulbapedia": "Fomantis"
+        "bulbapedia": "Fomantis",
+        "homeSprite": "fomantis",
+        "miniSprite": "fomantis"
     },
     "baseSpecies": null,
     "baseForms": [],

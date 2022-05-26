@@ -71,7 +71,9 @@
         "showdownMarkup": "Centiskorch-Gmax",
         "showdownData": "centiskorchgmax",
         "serebii": "centiskorch-gmax",
-        "bulbapedia": "Centiskorch"
+        "bulbapedia": "Centiskorch",
+        "homeSprite": "centiskorch-gmax",
+        "miniSprite": "centiskorch-gmax"
     },
     "baseSpecies": "centiskorch",
     "baseForms": [

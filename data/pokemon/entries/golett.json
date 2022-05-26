@@ -73,7 +73,9 @@
         "showdownMarkup": "Golett",
         "showdownData": "golett",
         "serebii": "golett",
-        "bulbapedia": "Golett"
+        "bulbapedia": "Golett",
+        "homeSprite": "golett",
+        "miniSprite": "golett"
     },
     "baseSpecies": null,
     "baseForms": [],

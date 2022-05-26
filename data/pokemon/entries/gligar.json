@@ -73,7 +73,9 @@
         "showdownMarkup": "Gligar",
         "showdownData": "gligar",
         "serebii": "gligar",
-        "bulbapedia": "Gligar"
+        "bulbapedia": "Gligar",
+        "homeSprite": "gligar",
+        "miniSprite": "gligar"
     },
     "baseSpecies": null,
     "baseForms": [],

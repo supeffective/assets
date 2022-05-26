@@ -73,7 +73,9 @@
         "showdownMarkup": "Calyrex",
         "showdownData": "calyrex",
         "serebii": "calyrex",
-        "bulbapedia": "Calyrex"
+        "bulbapedia": "Calyrex",
+        "homeSprite": "calyrex",
+        "miniSprite": "calyrex"
     },
     "baseSpecies": null,
     "baseForms": [],

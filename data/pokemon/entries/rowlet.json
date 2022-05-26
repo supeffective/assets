@@ -73,7 +73,9 @@
         "showdownMarkup": "Rowlet",
         "showdownData": "rowlet",
         "serebii": "rowlet",
-        "bulbapedia": "Rowlet"
+        "bulbapedia": "Rowlet",
+        "homeSprite": "rowlet",
+        "miniSprite": "rowlet"
     },
     "baseSpecies": null,
     "baseForms": [],

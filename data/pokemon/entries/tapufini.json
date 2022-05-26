@@ -73,7 +73,9 @@
         "showdownMarkup": "Tapufini",
         "showdownData": "tapufini",
         "serebii": "tapufini",
-        "bulbapedia": "Tapu Fini"
+        "bulbapedia": "Tapu Fini",
+        "homeSprite": "tapufini",
+        "miniSprite": "tapufini"
     },
     "baseSpecies": null,
     "baseForms": [],

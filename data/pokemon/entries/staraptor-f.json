@@ -73,7 +73,9 @@
         "showdownMarkup": "Staraptor-F",
         "showdownData": "staraptorf",
         "serebii": "staraptor-f",
-        "bulbapedia": "Staraptor"
+        "bulbapedia": "Staraptor",
+        "homeSprite": "staraptor-f",
+        "miniSprite": "staraptor-f"
     },
     "baseSpecies": "staraptor",
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Falinks",
         "showdownData": "falinks",
         "serebii": "falinks",
-        "bulbapedia": "Falinks"
+        "bulbapedia": "Falinks",
+        "homeSprite": "falinks",
+        "miniSprite": "falinks"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Trapinch",
         "showdownData": "trapinch",
         "serebii": "trapinch",
-        "bulbapedia": "Trapinch"
+        "bulbapedia": "Trapinch",
+        "homeSprite": "trapinch",
+        "miniSprite": "trapinch"
     },
     "baseSpecies": null,
     "baseForms": [],

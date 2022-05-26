@@ -73,7 +73,9 @@
         "showdownMarkup": "Talonflame",
         "showdownData": "talonflame",
         "serebii": "talonflame",
-        "bulbapedia": "Talonflame"
+        "bulbapedia": "Talonflame",
+        "homeSprite": "talonflame",
+        "miniSprite": "talonflame"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -71,7 +71,9 @@
         "showdownMarkup": "Cramorant-Gulping",
         "showdownData": "cramorantgulping",
         "serebii": "cramorant-gulping",
-        "bulbapedia": "Cramorant"
+        "bulbapedia": "Cramorant",
+        "homeSprite": "cramorant-gulping",
+        "miniSprite": "cramorant-gulping"
     },
     "baseSpecies": "cramorant",
     "baseForms": [

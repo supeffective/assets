@@ -73,7 +73,9 @@
         "showdownMarkup": "Applin",
         "showdownData": "applin",
         "serebii": "applin",
-        "bulbapedia": "Applin"
+        "bulbapedia": "Applin",
+        "homeSprite": "applin",
+        "miniSprite": "applin"
     },
     "baseSpecies": null,
     "baseForms": [],

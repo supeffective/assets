@@ -73,7 +73,9 @@
         "showdownMarkup": "Happiny",
         "showdownData": "happiny",
         "serebii": "happiny",
-        "bulbapedia": "Happiny"
+        "bulbapedia": "Happiny",
+        "homeSprite": "happiny",
+        "miniSprite": "happiny"
     },
     "baseSpecies": null,
     "baseForms": [],

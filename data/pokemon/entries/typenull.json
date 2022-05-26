@@ -73,7 +73,9 @@
         "showdownMarkup": "Typenull",
         "showdownData": "typenull",
         "serebii": "typenull",
-        "bulbapedia": "Type: Null"
+        "bulbapedia": "Type: Null",
+        "homeSprite": "typenull",
+        "miniSprite": "typenull"
     },
     "baseSpecies": null,
     "baseForms": [],

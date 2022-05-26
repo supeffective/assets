@@ -73,7 +73,9 @@
         "showdownMarkup": "Roserade-F",
         "showdownData": "roseradef",
         "serebii": "roserade-f",
-        "bulbapedia": "Roserade"
+        "bulbapedia": "Roserade",
+        "homeSprite": "roserade-f",
+        "miniSprite": "roserade-f"
     },
     "baseSpecies": "roserade",
     "baseForms": [],

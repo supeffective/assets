@@ -71,7 +71,9 @@
         "showdownMarkup": "Arceus-Water",
         "showdownData": "arceuswater",
         "serebii": "arceus-water",
-        "bulbapedia": "Arceus"
+        "bulbapedia": "Arceus",
+        "homeSprite": "arceus-water",
+        "miniSprite": "arceus-water"
     },
     "baseSpecies": "arceus",
     "baseForms": [

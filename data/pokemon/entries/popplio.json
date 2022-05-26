@@ -73,7 +73,9 @@
         "showdownMarkup": "Popplio",
         "showdownData": "popplio",
         "serebii": "popplio",
-        "bulbapedia": "Popplio"
+        "bulbapedia": "Popplio",
+        "homeSprite": "popplio",
+        "miniSprite": "popplio"
     },
     "baseSpecies": null,
     "baseForms": [],

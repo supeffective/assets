@@ -73,7 +73,9 @@
         "showdownMarkup": "Deerling-Autumn",
         "showdownData": "deerlingautumn",
         "serebii": "deerling-autumn",
-        "bulbapedia": "Deerling"
+        "bulbapedia": "Deerling",
+        "homeSprite": "deerling-autumn",
+        "miniSprite": "deerling-autumn"
     },
     "baseSpecies": "deerling",
     "baseForms": [],

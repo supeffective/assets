@@ -73,7 +73,9 @@
         "showdownMarkup": "Cryogonal",
         "showdownData": "cryogonal",
         "serebii": "cryogonal",
-        "bulbapedia": "Cryogonal"
+        "bulbapedia": "Cryogonal",
+        "homeSprite": "cryogonal",
+        "miniSprite": "cryogonal"
     },
     "baseSpecies": null,
     "baseForms": [],

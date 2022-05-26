@@ -73,7 +73,9 @@
         "showdownMarkup": "Heatran",
         "showdownData": "heatran",
         "serebii": "heatran",
-        "bulbapedia": "Heatran"
+        "bulbapedia": "Heatran",
+        "homeSprite": "heatran",
+        "miniSprite": "heatran"
     },
     "baseSpecies": null,
     "baseForms": [],

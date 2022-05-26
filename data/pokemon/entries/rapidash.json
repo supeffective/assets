@@ -73,7 +73,9 @@
         "showdownMarkup": "Rapidash",
         "showdownData": "rapidash",
         "serebii": "rapidash",
-        "bulbapedia": "Rapidash"
+        "bulbapedia": "Rapidash",
+        "homeSprite": "rapidash",
+        "miniSprite": "rapidash"
     },
     "baseSpecies": null,
     "baseForms": [],

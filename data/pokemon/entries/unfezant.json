@@ -73,7 +73,9 @@
         "showdownMarkup": "Unfezant",
         "showdownData": "unfezant",
         "serebii": "unfezant",
-        "bulbapedia": "Unfezant"
+        "bulbapedia": "Unfezant",
+        "homeSprite": "unfezant",
+        "miniSprite": "unfezant"
     },
     "baseSpecies": null,
     "baseForms": [],

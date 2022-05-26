@@ -73,7 +73,9 @@
         "showdownMarkup": "Mankey",
         "showdownData": "mankey",
         "serebii": "mankey",
-        "bulbapedia": "Mankey"
+        "bulbapedia": "Mankey",
+        "homeSprite": "mankey",
+        "miniSprite": "mankey"
     },
     "baseSpecies": null,
     "baseForms": [],

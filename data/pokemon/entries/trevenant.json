@@ -73,7 +73,9 @@
         "showdownMarkup": "Trevenant",
         "showdownData": "trevenant",
         "serebii": "trevenant",
-        "bulbapedia": "Trevenant"
+        "bulbapedia": "Trevenant",
+        "homeSprite": "trevenant",
+        "miniSprite": "trevenant"
     },
     "baseSpecies": null,
     "baseForms": [],

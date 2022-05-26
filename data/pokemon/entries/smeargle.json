@@ -73,7 +73,9 @@
         "showdownMarkup": "Smeargle",
         "showdownData": "smeargle",
         "serebii": "smeargle",
-        "bulbapedia": "Smeargle"
+        "bulbapedia": "Smeargle",
+        "homeSprite": "smeargle",
+        "miniSprite": "smeargle"
     },
     "baseSpecies": null,
     "baseForms": [],

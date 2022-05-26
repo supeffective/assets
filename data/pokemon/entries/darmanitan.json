@@ -73,7 +73,9 @@
         "showdownMarkup": "Darmanitan",
         "showdownData": "darmanitan",
         "serebii": "darmanitan",
-        "bulbapedia": "Darmanitan"
+        "bulbapedia": "Darmanitan",
+        "homeSprite": "darmanitan",
+        "miniSprite": "darmanitan"
     },
     "baseSpecies": null,
     "baseForms": [],

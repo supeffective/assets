@@ -73,7 +73,9 @@
         "showdownMarkup": "Feebas",
         "showdownData": "feebas",
         "serebii": "feebas",
-        "bulbapedia": "Feebas"
+        "bulbapedia": "Feebas",
+        "homeSprite": "feebas",
+        "miniSprite": "feebas"
     },
     "baseSpecies": null,
     "baseForms": [],

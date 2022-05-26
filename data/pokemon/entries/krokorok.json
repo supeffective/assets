@@ -73,7 +73,9 @@
         "showdownMarkup": "Krokorok",
         "showdownData": "krokorok",
         "serebii": "krokorok",
-        "bulbapedia": "Krokorok"
+        "bulbapedia": "Krokorok",
+        "homeSprite": "krokorok",
+        "miniSprite": "krokorok"
     },
     "baseSpecies": null,
     "baseForms": [],

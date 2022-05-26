@@ -73,7 +73,9 @@
         "showdownMarkup": "Ribombee",
         "showdownData": "ribombee",
         "serebii": "ribombee",
-        "bulbapedia": "Ribombee"
+        "bulbapedia": "Ribombee",
+        "homeSprite": "ribombee",
+        "miniSprite": "ribombee"
     },
     "baseSpecies": null,
     "baseForms": [],

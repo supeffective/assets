@@ -73,7 +73,9 @@
         "showdownMarkup": "Clefairy",
         "showdownData": "clefairy",
         "serebii": "clefairy",
-        "bulbapedia": "Clefairy"
+        "bulbapedia": "Clefairy",
+        "homeSprite": "clefairy",
+        "miniSprite": "clefairy"
     },
     "baseSpecies": null,
     "baseForms": [],

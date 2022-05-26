@@ -73,7 +73,9 @@
         "showdownMarkup": "Pansage",
         "showdownData": "pansage",
         "serebii": "pansage",
-        "bulbapedia": "Pansage"
+        "bulbapedia": "Pansage",
+        "homeSprite": "pansage",
+        "miniSprite": "pansage"
     },
     "baseSpecies": null,
     "baseForms": [],

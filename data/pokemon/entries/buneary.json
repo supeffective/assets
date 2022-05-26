@@ -73,7 +73,9 @@
         "showdownMarkup": "Buneary",
         "showdownData": "buneary",
         "serebii": "buneary",
-        "bulbapedia": "Buneary"
+        "bulbapedia": "Buneary",
+        "homeSprite": "buneary",
+        "miniSprite": "buneary"
     },
     "baseSpecies": null,
     "baseForms": [],

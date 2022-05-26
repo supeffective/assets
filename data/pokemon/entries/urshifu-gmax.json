@@ -71,7 +71,9 @@
         "showdownMarkup": "Urshifu-Gmax",
         "showdownData": "urshifugmax",
         "serebii": "urshifu-gmax",
-        "bulbapedia": "Urshifu"
+        "bulbapedia": "Urshifu",
+        "homeSprite": "urshifu-gmax",
+        "miniSprite": "urshifu-gmax"
     },
     "baseSpecies": "urshifu",
     "baseForms": [

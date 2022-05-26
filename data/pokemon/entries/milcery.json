@@ -73,7 +73,9 @@
         "showdownMarkup": "Milcery",
         "showdownData": "milcery",
         "serebii": "milcery",
-        "bulbapedia": "Milcery"
+        "bulbapedia": "Milcery",
+        "homeSprite": "milcery",
+        "miniSprite": "milcery"
     },
     "baseSpecies": null,
     "baseForms": [],

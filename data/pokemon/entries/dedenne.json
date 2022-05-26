@@ -73,7 +73,9 @@
         "showdownMarkup": "Dedenne",
         "showdownData": "dedenne",
         "serebii": "dedenne",
-        "bulbapedia": "Dedenne"
+        "bulbapedia": "Dedenne",
+        "homeSprite": "dedenne",
+        "miniSprite": "dedenne"
     },
     "baseSpecies": null,
     "baseForms": [],

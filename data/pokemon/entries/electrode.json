@@ -73,7 +73,9 @@
         "showdownMarkup": "Electrode",
         "showdownData": "electrode",
         "serebii": "electrode",
-        "bulbapedia": "Electrode"
+        "bulbapedia": "Electrode",
+        "homeSprite": "electrode",
+        "miniSprite": "electrode"
     },
     "baseSpecies": null,
     "baseForms": [],

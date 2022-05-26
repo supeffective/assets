@@ -73,7 +73,9 @@
         "showdownMarkup": "Noibat",
         "showdownData": "noibat",
         "serebii": "noibat",
-        "bulbapedia": "Noibat"
+        "bulbapedia": "Noibat",
+        "homeSprite": "noibat",
+        "miniSprite": "noibat"
     },
     "baseSpecies": null,
     "baseForms": [],

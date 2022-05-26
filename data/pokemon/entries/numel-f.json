@@ -73,7 +73,9 @@
         "showdownMarkup": "Numel-F",
         "showdownData": "numelf",
         "serebii": "numel-f",
-        "bulbapedia": "Numel"
+        "bulbapedia": "Numel",
+        "homeSprite": "numel-f",
+        "miniSprite": "numel-f"
     },
     "baseSpecies": "numel",
     "baseForms": [],

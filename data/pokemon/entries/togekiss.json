@@ -73,7 +73,9 @@
         "showdownMarkup": "Togekiss",
         "showdownData": "togekiss",
         "serebii": "togekiss",
-        "bulbapedia": "Togekiss"
+        "bulbapedia": "Togekiss",
+        "homeSprite": "togekiss",
+        "miniSprite": "togekiss"
     },
     "baseSpecies": null,
     "baseForms": [],

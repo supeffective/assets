@@ -71,7 +71,9 @@
         "showdownMarkup": "Inteleon-Gmax",
         "showdownData": "inteleongmax",
         "serebii": "inteleon-gmax",
-        "bulbapedia": "Inteleon"
+        "bulbapedia": "Inteleon",
+        "homeSprite": "inteleon-gmax",
+        "miniSprite": "inteleon-gmax"
     },
     "baseSpecies": "inteleon",
     "baseForms": [

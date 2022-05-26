@@ -73,7 +73,9 @@
         "showdownMarkup": "Mismagius",
         "showdownData": "mismagius",
         "serebii": "mismagius",
-        "bulbapedia": "Mismagius"
+        "bulbapedia": "Mismagius",
+        "homeSprite": "mismagius",
+        "miniSprite": "mismagius"
     },
     "baseSpecies": null,
     "baseForms": [],

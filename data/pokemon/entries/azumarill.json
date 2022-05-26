@@ -73,7 +73,9 @@
         "showdownMarkup": "Azumarill",
         "showdownData": "azumarill",
         "serebii": "azumarill",
-        "bulbapedia": "Azumarill"
+        "bulbapedia": "Azumarill",
+        "homeSprite": "azumarill",
+        "miniSprite": "azumarill"
     },
     "baseSpecies": null,
     "baseForms": [],

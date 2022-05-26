@@ -73,7 +73,9 @@
         "showdownMarkup": "Litten",
         "showdownData": "litten",
         "serebii": "litten",
-        "bulbapedia": "Litten"
+        "bulbapedia": "Litten",
+        "homeSprite": "litten",
+        "miniSprite": "litten"
     },
     "baseSpecies": null,
     "baseForms": [],

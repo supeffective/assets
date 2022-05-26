@@ -73,7 +73,9 @@
         "showdownMarkup": "Duosion",
         "showdownData": "duosion",
         "serebii": "duosion",
-        "bulbapedia": "Duosion"
+        "bulbapedia": "Duosion",
+        "homeSprite": "duosion",
+        "miniSprite": "duosion"
     },
     "baseSpecies": null,
     "baseForms": [],

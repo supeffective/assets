@@ -73,7 +73,9 @@
         "showdownMarkup": "Greninja",
         "showdownData": "greninja",
         "serebii": "greninja",
-        "bulbapedia": "Greninja"
+        "bulbapedia": "Greninja",
+        "homeSprite": "greninja",
+        "miniSprite": "greninja"
     },
     "baseSpecies": null,
     "baseForms": [],

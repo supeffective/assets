@@ -73,7 +73,9 @@
         "showdownMarkup": "Keldeo-Resolute",
         "showdownData": "keldeoresolute",
         "serebii": "keldeo-resolute",
-        "bulbapedia": "Keldeo"
+        "bulbapedia": "Keldeo",
+        "homeSprite": "keldeo-resolute",
+        "miniSprite": "keldeo-resolute"
     },
     "baseSpecies": "keldeo",
     "baseForms": [

@@ -73,7 +73,9 @@
         "showdownMarkup": "Grookey",
         "showdownData": "grookey",
         "serebii": "grookey",
-        "bulbapedia": "Grookey"
+        "bulbapedia": "Grookey",
+        "homeSprite": "grookey",
+        "miniSprite": "grookey"
     },
     "baseSpecies": null,
     "baseForms": [],

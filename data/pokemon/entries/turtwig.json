@@ -73,7 +73,9 @@
         "showdownMarkup": "Turtwig",
         "showdownData": "turtwig",
         "serebii": "turtwig",
-        "bulbapedia": "Turtwig"
+        "bulbapedia": "Turtwig",
+        "homeSprite": "turtwig",
+        "miniSprite": "turtwig"
     },
     "baseSpecies": null,
     "baseForms": [],

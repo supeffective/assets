@@ -73,7 +73,9 @@
         "showdownMarkup": "Bagon",
         "showdownData": "bagon",
         "serebii": "bagon",
-        "bulbapedia": "Bagon"
+        "bulbapedia": "Bagon",
+        "homeSprite": "bagon",
+        "miniSprite": "bagon"
     },
     "baseSpecies": null,
     "baseForms": [],

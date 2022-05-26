@@ -73,7 +73,9 @@
         "showdownMarkup": "Muk",
         "showdownData": "muk",
         "serebii": "muk",
-        "bulbapedia": "Muk"
+        "bulbapedia": "Muk",
+        "homeSprite": "muk",
+        "miniSprite": "muk"
     },
     "baseSpecies": null,
     "baseForms": [],

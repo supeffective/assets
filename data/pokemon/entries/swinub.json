@@ -73,7 +73,9 @@
         "showdownMarkup": "Swinub",
         "showdownData": "swinub",
         "serebii": "swinub",
-        "bulbapedia": "Swinub"
+        "bulbapedia": "Swinub",
+        "homeSprite": "swinub",
+        "miniSprite": "swinub"
     },
     "baseSpecies": null,
     "baseForms": [],

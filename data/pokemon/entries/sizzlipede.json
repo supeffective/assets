@@ -73,7 +73,9 @@
         "showdownMarkup": "Sizzlipede",
         "showdownData": "sizzlipede",
         "serebii": "sizzlipede",
-        "bulbapedia": "Sizzlipede"
+        "bulbapedia": "Sizzlipede",
+        "homeSprite": "sizzlipede",
+        "miniSprite": "sizzlipede"
     },
     "baseSpecies": null,
     "baseForms": [],

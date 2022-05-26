@@ -73,7 +73,9 @@
         "showdownMarkup": "Sentret",
         "showdownData": "sentret",
         "serebii": "sentret",
-        "bulbapedia": "Sentret"
+        "bulbapedia": "Sentret",
+        "homeSprite": "sentret",
+        "miniSprite": "sentret"
     },
     "baseSpecies": null,
     "baseForms": [],

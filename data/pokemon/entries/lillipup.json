@@ -73,7 +73,9 @@
         "showdownMarkup": "Lillipup",
         "showdownData": "lillipup",
         "serebii": "lillipup",
-        "bulbapedia": "Lillipup"
+        "bulbapedia": "Lillipup",
+        "homeSprite": "lillipup",
+        "miniSprite": "lillipup"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Buizel",
         "showdownData": "buizel",
         "serebii": "buizel",
-        "bulbapedia": "Buizel"
+        "bulbapedia": "Buizel",
+        "homeSprite": "buizel",
+        "miniSprite": "buizel"
     },
     "baseSpecies": null,
     "baseForms": [],

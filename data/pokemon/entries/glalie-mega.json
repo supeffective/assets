@@ -71,7 +71,9 @@
         "showdownMarkup": "Glalie-Mega",
         "showdownData": "glaliemega",
         "serebii": "glalie-mega",
-        "bulbapedia": "Glalie"
+        "bulbapedia": "Glalie",
+        "homeSprite": "glalie-mega",
+        "miniSprite": "glalie-mega"
     },
     "baseSpecies": "glalie",
     "baseForms": [

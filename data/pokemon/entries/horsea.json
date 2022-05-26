@@ -73,7 +73,9 @@
         "showdownMarkup": "Horsea",
         "showdownData": "horsea",
         "serebii": "horsea",
-        "bulbapedia": "Horsea"
+        "bulbapedia": "Horsea",
+        "homeSprite": "horsea",
+        "miniSprite": "horsea"
     },
     "baseSpecies": null,
     "baseForms": [],

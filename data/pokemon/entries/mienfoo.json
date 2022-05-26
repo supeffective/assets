@@ -73,7 +73,9 @@
         "showdownMarkup": "Mienfoo",
         "showdownData": "mienfoo",
         "serebii": "mienfoo",
-        "bulbapedia": "Mienfoo"
+        "bulbapedia": "Mienfoo",
+        "homeSprite": "mienfoo",
+        "miniSprite": "mienfoo"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -71,7 +71,9 @@
         "showdownMarkup": "Genesect-Shock",
         "showdownData": "genesectshock",
         "serebii": "genesect-shock",
-        "bulbapedia": "Genesect"
+        "bulbapedia": "Genesect",
+        "homeSprite": "genesect-shock",
+        "miniSprite": "genesect-shock"
     },
     "baseSpecies": "genesect",
     "baseForms": [

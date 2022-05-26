@@ -73,7 +73,9 @@
         "showdownMarkup": "Magnemite",
         "showdownData": "magnemite",
         "serebii": "magnemite",
-        "bulbapedia": "Magnemite"
+        "bulbapedia": "Magnemite",
+        "homeSprite": "magnemite",
+        "miniSprite": "magnemite"
     },
     "baseSpecies": null,
     "baseForms": [],

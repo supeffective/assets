@@ -73,7 +73,9 @@
         "showdownMarkup": "Klang",
         "showdownData": "klang",
         "serebii": "klang",
-        "bulbapedia": "Klang"
+        "bulbapedia": "Klang",
+        "homeSprite": "klang",
+        "miniSprite": "klang"
     },
     "baseSpecies": null,
     "baseForms": [],

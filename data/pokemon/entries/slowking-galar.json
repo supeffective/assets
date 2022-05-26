@@ -73,7 +73,9 @@
         "showdownMarkup": "Slowking-Galar",
         "showdownData": "slowkinggalar",
         "serebii": "slowking-galar",
-        "bulbapedia": "Slowking"
+        "bulbapedia": "Slowking",
+        "homeSprite": "slowking-galar",
+        "miniSprite": "slowking-galar"
     },
     "baseSpecies": "slowking",
     "baseForms": [],

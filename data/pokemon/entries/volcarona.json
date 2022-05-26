@@ -73,7 +73,9 @@
         "showdownMarkup": "Volcarona",
         "showdownData": "volcarona",
         "serebii": "volcarona",
-        "bulbapedia": "Volcarona"
+        "bulbapedia": "Volcarona",
+        "homeSprite": "volcarona",
+        "miniSprite": "volcarona"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Zekrom",
         "showdownData": "zekrom",
         "serebii": "zekrom",
-        "bulbapedia": "Zekrom"
+        "bulbapedia": "Zekrom",
+        "homeSprite": "zekrom",
+        "miniSprite": "zekrom"
     },
     "baseSpecies": null,
     "baseForms": [],

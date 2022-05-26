@@ -73,7 +73,9 @@
         "showdownMarkup": "Registeel",
         "showdownData": "registeel",
         "serebii": "registeel",
-        "bulbapedia": "Registeel"
+        "bulbapedia": "Registeel",
+        "homeSprite": "registeel",
+        "miniSprite": "registeel"
     },
     "baseSpecies": null,
     "baseForms": [],

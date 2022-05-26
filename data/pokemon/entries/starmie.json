@@ -73,7 +73,9 @@
         "showdownMarkup": "Starmie",
         "showdownData": "starmie",
         "serebii": "starmie",
-        "bulbapedia": "Starmie"
+        "bulbapedia": "Starmie",
+        "homeSprite": "starmie",
+        "miniSprite": "starmie"
     },
     "baseSpecies": null,
     "baseForms": [],

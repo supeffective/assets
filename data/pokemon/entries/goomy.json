@@ -73,7 +73,9 @@
         "showdownMarkup": "Goomy",
         "showdownData": "goomy",
         "serebii": "goomy",
-        "bulbapedia": "Goomy"
+        "bulbapedia": "Goomy",
+        "homeSprite": "goomy",
+        "miniSprite": "goomy"
     },
     "baseSpecies": null,
     "baseForms": [],

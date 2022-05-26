@@ -73,7 +73,9 @@
         "showdownMarkup": "Azurill",
         "showdownData": "azurill",
         "serebii": "azurill",
-        "bulbapedia": "Azurill"
+        "bulbapedia": "Azurill",
+        "homeSprite": "azurill",
+        "miniSprite": "azurill"
     },
     "baseSpecies": null,
     "baseForms": [],

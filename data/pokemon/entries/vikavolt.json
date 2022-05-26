@@ -73,7 +73,9 @@
         "showdownMarkup": "Vikavolt",
         "showdownData": "vikavolt",
         "serebii": "vikavolt",
-        "bulbapedia": "Vikavolt"
+        "bulbapedia": "Vikavolt",
+        "homeSprite": "vikavolt",
+        "miniSprite": "vikavolt"
     },
     "baseSpecies": null,
     "baseForms": [],

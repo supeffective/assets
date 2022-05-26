@@ -73,7 +73,9 @@
         "showdownMarkup": "Dreepy",
         "showdownData": "dreepy",
         "serebii": "dreepy",
-        "bulbapedia": "Dreepy"
+        "bulbapedia": "Dreepy",
+        "homeSprite": "dreepy",
+        "miniSprite": "dreepy"
     },
     "baseSpecies": null,
     "baseForms": [],

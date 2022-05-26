@@ -73,7 +73,9 @@
         "showdownMarkup": "Bewear",
         "showdownData": "bewear",
         "serebii": "bewear",
-        "bulbapedia": "Bewear"
+        "bulbapedia": "Bewear",
+        "homeSprite": "bewear",
+        "miniSprite": "bewear"
     },
     "baseSpecies": null,
     "baseForms": [],

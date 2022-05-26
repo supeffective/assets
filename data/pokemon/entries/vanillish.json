@@ -73,7 +73,9 @@
         "showdownMarkup": "Vanillish",
         "showdownData": "vanillish",
         "serebii": "vanillish",
-        "bulbapedia": "Vanillish"
+        "bulbapedia": "Vanillish",
+        "homeSprite": "vanillish",
+        "miniSprite": "vanillish"
     },
     "baseSpecies": null,
     "baseForms": [],

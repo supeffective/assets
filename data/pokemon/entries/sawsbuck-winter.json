@@ -73,7 +73,9 @@
         "showdownMarkup": "Sawsbuck-Winter",
         "showdownData": "sawsbuckwinter",
         "serebii": "sawsbuck-winter",
-        "bulbapedia": "Sawsbuck"
+        "bulbapedia": "Sawsbuck",
+        "homeSprite": "sawsbuck-winter",
+        "miniSprite": "sawsbuck-winter"
     },
     "baseSpecies": "sawsbuck",
     "baseForms": [],

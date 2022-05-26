@@ -73,7 +73,9 @@
         "showdownMarkup": "Charmander",
         "showdownData": "charmander",
         "serebii": "charmander",
-        "bulbapedia": "Charmander"
+        "bulbapedia": "Charmander",
+        "homeSprite": "charmander",
+        "miniSprite": "charmander"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Timburr",
         "showdownData": "timburr",
         "serebii": "timburr",
-        "bulbapedia": "Timburr"
+        "bulbapedia": "Timburr",
+        "homeSprite": "timburr",
+        "miniSprite": "timburr"
     },
     "baseSpecies": null,
     "baseForms": [],

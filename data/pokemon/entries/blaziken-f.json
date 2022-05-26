@@ -73,7 +73,9 @@
         "showdownMarkup": "Blaziken-F",
         "showdownData": "blazikenf",
         "serebii": "blaziken-f",
-        "bulbapedia": "Blaziken"
+        "bulbapedia": "Blaziken",
+        "homeSprite": "blaziken-f",
+        "miniSprite": "blaziken-f"
     },
     "baseSpecies": "blaziken",
     "baseForms": [],

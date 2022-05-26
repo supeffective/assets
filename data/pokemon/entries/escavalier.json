@@ -73,7 +73,9 @@
         "showdownMarkup": "Escavalier",
         "showdownData": "escavalier",
         "serebii": "escavalier",
-        "bulbapedia": "Escavalier"
+        "bulbapedia": "Escavalier",
+        "homeSprite": "escavalier",
+        "miniSprite": "escavalier"
     },
     "baseSpecies": null,
     "baseForms": [],

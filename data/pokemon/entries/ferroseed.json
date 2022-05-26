@@ -73,7 +73,9 @@
         "showdownMarkup": "Ferroseed",
         "showdownData": "ferroseed",
         "serebii": "ferroseed",
-        "bulbapedia": "Ferroseed"
+        "bulbapedia": "Ferroseed",
+        "homeSprite": "ferroseed",
+        "miniSprite": "ferroseed"
     },
     "baseSpecies": null,
     "baseForms": [],

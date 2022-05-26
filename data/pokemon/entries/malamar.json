@@ -73,7 +73,9 @@
         "showdownMarkup": "Malamar",
         "showdownData": "malamar",
         "serebii": "malamar",
-        "bulbapedia": "Malamar"
+        "bulbapedia": "Malamar",
+        "homeSprite": "malamar",
+        "miniSprite": "malamar"
     },
     "baseSpecies": null,
     "baseForms": [],

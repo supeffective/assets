@@ -73,7 +73,9 @@
         "showdownMarkup": "Zorua",
         "showdownData": "zorua",
         "serebii": "zorua",
-        "bulbapedia": "Zorua"
+        "bulbapedia": "Zorua",
+        "homeSprite": "zorua",
+        "miniSprite": "zorua"
     },
     "baseSpecies": null,
     "baseForms": [],

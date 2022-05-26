@@ -73,7 +73,9 @@
         "showdownMarkup": "Poliwrath",
         "showdownData": "poliwrath",
         "serebii": "poliwrath",
-        "bulbapedia": "Poliwrath"
+        "bulbapedia": "Poliwrath",
+        "homeSprite": "poliwrath",
+        "miniSprite": "poliwrath"
     },
     "baseSpecies": null,
     "baseForms": [],

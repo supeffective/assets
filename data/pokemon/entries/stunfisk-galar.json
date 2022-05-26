@@ -73,7 +73,9 @@
         "showdownMarkup": "Stunfisk-Galar",
         "showdownData": "stunfiskgalar",
         "serebii": "stunfisk-galar",
-        "bulbapedia": "Stunfisk"
+        "bulbapedia": "Stunfisk",
+        "homeSprite": "stunfisk-galar",
+        "miniSprite": "stunfisk-galar"
     },
     "baseSpecies": "stunfisk",
     "baseForms": [],

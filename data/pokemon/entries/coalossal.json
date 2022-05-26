@@ -73,7 +73,9 @@
         "showdownMarkup": "Coalossal",
         "showdownData": "coalossal",
         "serebii": "coalossal",
-        "bulbapedia": "Coalossal"
+        "bulbapedia": "Coalossal",
+        "homeSprite": "coalossal",
+        "miniSprite": "coalossal"
     },
     "baseSpecies": null,
     "baseForms": [],

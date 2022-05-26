@@ -73,7 +73,9 @@
         "showdownMarkup": "Cacnea",
         "showdownData": "cacnea",
         "serebii": "cacnea",
-        "bulbapedia": "Cacnea"
+        "bulbapedia": "Cacnea",
+        "homeSprite": "cacnea",
+        "miniSprite": "cacnea"
     },
     "baseSpecies": null,
     "baseForms": [],

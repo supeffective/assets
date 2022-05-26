@@ -73,7 +73,9 @@
         "showdownMarkup": "Cacturne-F",
         "showdownData": "cacturnef",
         "serebii": "cacturne-f",
-        "bulbapedia": "Cacturne"
+        "bulbapedia": "Cacturne",
+        "homeSprite": "cacturne-f",
+        "miniSprite": "cacturne-f"
     },
     "baseSpecies": "cacturne",
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Spiritomb",
         "showdownData": "spiritomb",
         "serebii": "spiritomb",
-        "bulbapedia": "Spiritomb"
+        "bulbapedia": "Spiritomb",
+        "homeSprite": "spiritomb",
+        "miniSprite": "spiritomb"
     },
     "baseSpecies": null,
     "baseForms": [],

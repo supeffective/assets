@@ -73,7 +73,9 @@
         "showdownMarkup": "Milotic-F",
         "showdownData": "miloticf",
         "serebii": "milotic-f",
-        "bulbapedia": "Milotic"
+        "bulbapedia": "Milotic",
+        "homeSprite": "milotic-f",
+        "miniSprite": "milotic-f"
     },
     "baseSpecies": "milotic",
     "baseForms": [],

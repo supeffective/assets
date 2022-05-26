@@ -73,7 +73,9 @@
         "showdownMarkup": "Miltank",
         "showdownData": "miltank",
         "serebii": "miltank",
-        "bulbapedia": "Miltank"
+        "bulbapedia": "Miltank",
+        "homeSprite": "miltank",
+        "miniSprite": "miltank"
     },
     "baseSpecies": null,
     "baseForms": [],

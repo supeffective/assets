@@ -71,7 +71,9 @@
         "showdownMarkup": "Tyranitar-Mega",
         "showdownData": "tyranitarmega",
         "serebii": "tyranitar-mega",
-        "bulbapedia": "Tyranitar"
+        "bulbapedia": "Tyranitar",
+        "homeSprite": "tyranitar-mega",
+        "miniSprite": "tyranitar-mega"
     },
     "baseSpecies": "tyranitar",
     "baseForms": [

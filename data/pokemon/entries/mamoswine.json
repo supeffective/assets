@@ -73,7 +73,9 @@
         "showdownMarkup": "Mamoswine",
         "showdownData": "mamoswine",
         "serebii": "mamoswine",
-        "bulbapedia": "Mamoswine"
+        "bulbapedia": "Mamoswine",
+        "homeSprite": "mamoswine",
+        "miniSprite": "mamoswine"
     },
     "baseSpecies": null,
     "baseForms": [],

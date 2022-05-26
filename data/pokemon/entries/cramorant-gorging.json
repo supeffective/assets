@@ -71,7 +71,9 @@
         "showdownMarkup": "Cramorant-Gorging",
         "showdownData": "cramorantgorging",
         "serebii": "cramorant-gorging",
-        "bulbapedia": "Cramorant"
+        "bulbapedia": "Cramorant",
+        "homeSprite": "cramorant-gorging",
+        "miniSprite": "cramorant-gorging"
     },
     "baseSpecies": "cramorant",
     "baseForms": [

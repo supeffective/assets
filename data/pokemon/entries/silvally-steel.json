@@ -71,7 +71,9 @@
         "showdownMarkup": "Silvally-Steel",
         "showdownData": "silvallysteel",
         "serebii": "silvally-steel",
-        "bulbapedia": "Silvally"
+        "bulbapedia": "Silvally",
+        "homeSprite": "silvally-steel",
+        "miniSprite": "silvally-steel"
     },
     "baseSpecies": "silvally",
     "baseForms": [

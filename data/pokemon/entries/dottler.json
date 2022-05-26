@@ -73,7 +73,9 @@
         "showdownMarkup": "Dottler",
         "showdownData": "dottler",
         "serebii": "dottler",
-        "bulbapedia": "Dottler"
+        "bulbapedia": "Dottler",
+        "homeSprite": "dottler",
+        "miniSprite": "dottler"
     },
     "baseSpecies": null,
     "baseForms": [],

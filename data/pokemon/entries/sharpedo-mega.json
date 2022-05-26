@@ -71,7 +71,9 @@
         "showdownMarkup": "Sharpedo-Mega",
         "showdownData": "sharpedomega",
         "serebii": "sharpedo-mega",
-        "bulbapedia": "Sharpedo"
+        "bulbapedia": "Sharpedo",
+        "homeSprite": "sharpedo-mega",
+        "miniSprite": "sharpedo-mega"
     },
     "baseSpecies": "sharpedo",
     "baseForms": [

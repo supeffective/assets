@@ -73,7 +73,9 @@
         "showdownMarkup": "Drampa",
         "showdownData": "drampa",
         "serebii": "drampa",
-        "bulbapedia": "Drampa"
+        "bulbapedia": "Drampa",
+        "homeSprite": "drampa",
+        "miniSprite": "drampa"
     },
     "baseSpecies": null,
     "baseForms": [],

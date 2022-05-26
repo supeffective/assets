@@ -73,7 +73,9 @@
         "showdownMarkup": "Dugtrio",
         "showdownData": "dugtrio",
         "serebii": "dugtrio",
-        "bulbapedia": "Dugtrio"
+        "bulbapedia": "Dugtrio",
+        "homeSprite": "dugtrio",
+        "miniSprite": "dugtrio"
     },
     "baseSpecies": null,
     "baseForms": [],

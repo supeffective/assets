@@ -73,7 +73,9 @@
         "showdownMarkup": "Clamperl",
         "showdownData": "clamperl",
         "serebii": "clamperl",
-        "bulbapedia": "Clamperl"
+        "bulbapedia": "Clamperl",
+        "homeSprite": "clamperl",
+        "miniSprite": "clamperl"
     },
     "baseSpecies": null,
     "baseForms": [],

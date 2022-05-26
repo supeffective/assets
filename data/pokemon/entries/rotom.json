@@ -73,7 +73,9 @@
         "showdownMarkup": "Rotom",
         "showdownData": "rotom",
         "serebii": "rotom",
-        "bulbapedia": "Rotom"
+        "bulbapedia": "Rotom",
+        "homeSprite": "rotom",
+        "miniSprite": "rotom"
     },
     "baseSpecies": null,
     "baseForms": [],

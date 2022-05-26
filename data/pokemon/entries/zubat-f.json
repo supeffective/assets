@@ -73,7 +73,9 @@
         "showdownMarkup": "Zubat-F",
         "showdownData": "zubatf",
         "serebii": "zubat-f",
-        "bulbapedia": "Zubat"
+        "bulbapedia": "Zubat",
+        "homeSprite": "zubat-f",
+        "miniSprite": "zubat-f"
     },
     "baseSpecies": "zubat",
     "baseForms": [],

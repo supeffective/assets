@@ -73,7 +73,9 @@
         "showdownMarkup": "Cyndaquil",
         "showdownData": "cyndaquil",
         "serebii": "cyndaquil",
-        "bulbapedia": "Cyndaquil"
+        "bulbapedia": "Cyndaquil",
+        "homeSprite": "cyndaquil",
+        "miniSprite": "cyndaquil"
     },
     "baseSpecies": null,
     "baseForms": [],

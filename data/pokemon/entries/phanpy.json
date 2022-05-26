@@ -73,7 +73,9 @@
         "showdownMarkup": "Phanpy",
         "showdownData": "phanpy",
         "serebii": "phanpy",
-        "bulbapedia": "Phanpy"
+        "bulbapedia": "Phanpy",
+        "homeSprite": "phanpy",
+        "miniSprite": "phanpy"
     },
     "baseSpecies": null,
     "baseForms": [],

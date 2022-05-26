@@ -73,7 +73,9 @@
         "showdownMarkup": "Raticate-F",
         "showdownData": "raticatef",
         "serebii": "raticate-f",
-        "bulbapedia": "Raticate"
+        "bulbapedia": "Raticate",
+        "homeSprite": "raticate-f",
+        "miniSprite": "raticate-f"
     },
     "baseSpecies": "raticate",
     "baseForms": [],

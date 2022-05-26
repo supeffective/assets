@@ -71,7 +71,9 @@
         "showdownMarkup": "Cherrim-Sunshine",
         "showdownData": "cherrimsunshine",
         "serebii": "cherrim-sunshine",
-        "bulbapedia": "Cherrim"
+        "bulbapedia": "Cherrim",
+        "homeSprite": "cherrim-sunshine",
+        "miniSprite": "cherrim-sunshine"
     },
     "baseSpecies": "cherrim",
     "baseForms": [

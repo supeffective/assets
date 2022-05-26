@@ -73,7 +73,9 @@
         "showdownMarkup": "Kecleon",
         "showdownData": "kecleon",
         "serebii": "kecleon",
-        "bulbapedia": "Kecleon"
+        "bulbapedia": "Kecleon",
+        "homeSprite": "kecleon",
+        "miniSprite": "kecleon"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Treecko",
         "showdownData": "treecko",
         "serebii": "treecko",
-        "bulbapedia": "Treecko"
+        "bulbapedia": "Treecko",
+        "homeSprite": "treecko",
+        "miniSprite": "treecko"
     },
     "baseSpecies": null,
     "baseForms": [],

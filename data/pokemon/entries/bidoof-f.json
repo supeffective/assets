@@ -73,7 +73,9 @@
         "showdownMarkup": "Bidoof-F",
         "showdownData": "bidooff",
         "serebii": "bidoof-f",
-        "bulbapedia": "Bidoof"
+        "bulbapedia": "Bidoof",
+        "homeSprite": "bidoof-f",
+        "miniSprite": "bidoof-f"
     },
     "baseSpecies": "bidoof",
     "baseForms": [],

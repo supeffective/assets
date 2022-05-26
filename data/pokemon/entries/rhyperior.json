@@ -73,7 +73,9 @@
         "showdownMarkup": "Rhyperior",
         "showdownData": "rhyperior",
         "serebii": "rhyperior",
-        "bulbapedia": "Rhyperior"
+        "bulbapedia": "Rhyperior",
+        "homeSprite": "rhyperior",
+        "miniSprite": "rhyperior"
     },
     "baseSpecies": null,
     "baseForms": [],

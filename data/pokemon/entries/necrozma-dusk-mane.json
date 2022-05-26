@@ -76,7 +76,9 @@
         "showdownMarkup": "Necrozma-Dusk-Mane",
         "showdownData": "necrozmaduskmane",
         "serebii": "necrozma-dusk-mane",
-        "bulbapedia": "Necrozma"
+        "bulbapedia": "Necrozma",
+        "homeSprite": "necrozma-dusk-mane",
+        "miniSprite": "necrozma-dusk-mane"
     },
     "baseSpecies": "necrozma",
     "baseForms": [

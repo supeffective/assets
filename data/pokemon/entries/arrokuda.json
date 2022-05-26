@@ -73,7 +73,9 @@
         "showdownMarkup": "Arrokuda",
         "showdownData": "arrokuda",
         "serebii": "arrokuda",
-        "bulbapedia": "Arrokuda"
+        "bulbapedia": "Arrokuda",
+        "homeSprite": "arrokuda",
+        "miniSprite": "arrokuda"
     },
     "baseSpecies": null,
     "baseForms": [],

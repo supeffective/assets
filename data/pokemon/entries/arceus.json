@@ -73,7 +73,9 @@
         "showdownMarkup": "Arceus",
         "showdownData": "arceus",
         "serebii": "arceus",
-        "bulbapedia": "Arceus"
+        "bulbapedia": "Arceus",
+        "homeSprite": "arceus",
+        "miniSprite": "arceus"
     },
     "baseSpecies": null,
     "baseForms": [],

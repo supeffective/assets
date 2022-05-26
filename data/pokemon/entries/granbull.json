@@ -73,7 +73,9 @@
         "showdownMarkup": "Granbull",
         "showdownData": "granbull",
         "serebii": "granbull",
-        "bulbapedia": "Granbull"
+        "bulbapedia": "Granbull",
+        "homeSprite": "granbull",
+        "miniSprite": "granbull"
     },
     "baseSpecies": null,
     "baseForms": [],

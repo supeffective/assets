@@ -73,7 +73,9 @@
         "showdownMarkup": "Entei",
         "showdownData": "entei",
         "serebii": "entei",
-        "bulbapedia": "Entei"
+        "bulbapedia": "Entei",
+        "homeSprite": "entei",
+        "miniSprite": "entei"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Torracat",
         "showdownData": "torracat",
         "serebii": "torracat",
-        "bulbapedia": "Torracat"
+        "bulbapedia": "Torracat",
+        "homeSprite": "torracat",
+        "miniSprite": "torracat"
     },
     "baseSpecies": null,
     "baseForms": [],

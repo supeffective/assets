@@ -73,7 +73,9 @@
         "showdownMarkup": "Girafarig-F",
         "showdownData": "girafarigf",
         "serebii": "girafarig-f",
-        "bulbapedia": "Girafarig"
+        "bulbapedia": "Girafarig",
+        "homeSprite": "girafarig-f",
+        "miniSprite": "girafarig-f"
     },
     "baseSpecies": "girafarig",
     "baseForms": [],

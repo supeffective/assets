@@ -73,7 +73,9 @@
         "showdownMarkup": "Solgaleo",
         "showdownData": "solgaleo",
         "serebii": "solgaleo",
-        "bulbapedia": "Solgaleo"
+        "bulbapedia": "Solgaleo",
+        "homeSprite": "solgaleo",
+        "miniSprite": "solgaleo"
     },
     "baseSpecies": null,
     "baseForms": [],

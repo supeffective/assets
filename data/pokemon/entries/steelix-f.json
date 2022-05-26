@@ -73,7 +73,9 @@
         "showdownMarkup": "Steelix-F",
         "showdownData": "steelixf",
         "serebii": "steelix-f",
-        "bulbapedia": "Steelix"
+        "bulbapedia": "Steelix",
+        "homeSprite": "steelix-f",
+        "miniSprite": "steelix-f"
     },
     "baseSpecies": "steelix",
     "baseForms": [],

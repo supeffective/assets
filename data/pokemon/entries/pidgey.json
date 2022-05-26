@@ -73,7 +73,9 @@
         "showdownMarkup": "Pidgey",
         "showdownData": "pidgey",
         "serebii": "pidgey",
-        "bulbapedia": "Pidgey"
+        "bulbapedia": "Pidgey",
+        "homeSprite": "pidgey",
+        "miniSprite": "pidgey"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Magmar",
         "showdownData": "magmar",
         "serebii": "magmar",
-        "bulbapedia": "Magmar"
+        "bulbapedia": "Magmar",
+        "homeSprite": "magmar",
+        "miniSprite": "magmar"
     },
     "baseSpecies": null,
     "baseForms": [],

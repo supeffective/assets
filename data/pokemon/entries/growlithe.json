@@ -73,7 +73,9 @@
         "showdownMarkup": "Growlithe",
         "showdownData": "growlithe",
         "serebii": "growlithe",
-        "bulbapedia": "Growlithe"
+        "bulbapedia": "Growlithe",
+        "homeSprite": "growlithe",
+        "miniSprite": "growlithe"
     },
     "baseSpecies": null,
     "baseForms": [],

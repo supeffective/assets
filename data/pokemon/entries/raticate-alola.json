@@ -73,7 +73,9 @@
         "showdownMarkup": "Raticate-Alola",
         "showdownData": "raticatealola",
         "serebii": "raticate-alola",
-        "bulbapedia": "Raticate"
+        "bulbapedia": "Raticate",
+        "homeSprite": "raticate-alola",
+        "miniSprite": "raticate-alola"
     },
     "baseSpecies": "raticate",
     "baseForms": [],

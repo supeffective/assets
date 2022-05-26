@@ -73,7 +73,9 @@
         "showdownMarkup": "Caterpie",
         "showdownData": "caterpie",
         "serebii": "caterpie",
-        "bulbapedia": "Caterpie"
+        "bulbapedia": "Caterpie",
+        "homeSprite": "caterpie",
+        "miniSprite": "caterpie"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Metagross",
         "showdownData": "metagross",
         "serebii": "metagross",
-        "bulbapedia": "Metagross"
+        "bulbapedia": "Metagross",
+        "homeSprite": "metagross",
+        "miniSprite": "metagross"
     },
     "baseSpecies": null,
     "baseForms": [],

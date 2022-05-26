@@ -73,7 +73,9 @@
         "showdownMarkup": "Igglybuff",
         "showdownData": "igglybuff",
         "serebii": "igglybuff",
-        "bulbapedia": "Igglybuff"
+        "bulbapedia": "Igglybuff",
+        "homeSprite": "igglybuff",
+        "miniSprite": "igglybuff"
     },
     "baseSpecies": null,
     "baseForms": [],

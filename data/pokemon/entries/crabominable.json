@@ -73,7 +73,9 @@
         "showdownMarkup": "Crabominable",
         "showdownData": "crabominable",
         "serebii": "crabominable",
-        "bulbapedia": "Crabominable"
+        "bulbapedia": "Crabominable",
+        "homeSprite": "crabominable",
+        "miniSprite": "crabominable"
     },
     "baseSpecies": null,
     "baseForms": [],

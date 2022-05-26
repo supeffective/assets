@@ -71,7 +71,9 @@
         "showdownMarkup": "Venusaur-Mega",
         "showdownData": "venusaurmega",
         "serebii": "venusaur-mega",
-        "bulbapedia": "Venusaur"
+        "bulbapedia": "Venusaur",
+        "homeSprite": "venusaur-mega",
+        "miniSprite": "venusaur-mega"
     },
     "baseSpecies": "venusaur",
     "baseForms": [

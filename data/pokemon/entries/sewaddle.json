@@ -73,7 +73,9 @@
         "showdownMarkup": "Sewaddle",
         "showdownData": "sewaddle",
         "serebii": "sewaddle",
-        "bulbapedia": "Sewaddle"
+        "bulbapedia": "Sewaddle",
+        "homeSprite": "sewaddle",
+        "miniSprite": "sewaddle"
     },
     "baseSpecies": null,
     "baseForms": [],

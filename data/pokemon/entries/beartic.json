@@ -73,7 +73,9 @@
         "showdownMarkup": "Beartic",
         "showdownData": "beartic",
         "serebii": "beartic",
-        "bulbapedia": "Beartic"
+        "bulbapedia": "Beartic",
+        "homeSprite": "beartic",
+        "miniSprite": "beartic"
     },
     "baseSpecies": null,
     "baseForms": [],

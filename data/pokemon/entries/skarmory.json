@@ -73,7 +73,9 @@
         "showdownMarkup": "Skarmory",
         "showdownData": "skarmory",
         "serebii": "skarmory",
-        "bulbapedia": "Skarmory"
+        "bulbapedia": "Skarmory",
+        "homeSprite": "skarmory",
+        "miniSprite": "skarmory"
     },
     "baseSpecies": null,
     "baseForms": [],

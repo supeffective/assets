@@ -73,7 +73,9 @@
         "showdownMarkup": "Ninjask",
         "showdownData": "ninjask",
         "serebii": "ninjask",
-        "bulbapedia": "Ninjask"
+        "bulbapedia": "Ninjask",
+        "homeSprite": "ninjask",
+        "miniSprite": "ninjask"
     },
     "baseSpecies": null,
     "baseForms": [],

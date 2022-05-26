@@ -73,7 +73,9 @@
         "showdownMarkup": "Charjabug",
         "showdownData": "charjabug",
         "serebii": "charjabug",
-        "bulbapedia": "Charjabug"
+        "bulbapedia": "Charjabug",
+        "homeSprite": "charjabug",
+        "miniSprite": "charjabug"
     },
     "baseSpecies": null,
     "baseForms": [],

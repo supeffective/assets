@@ -73,7 +73,9 @@
         "showdownMarkup": "Deoxys-Speed",
         "showdownData": "deoxysspeed",
         "serebii": "deoxys-speed",
-        "bulbapedia": "Deoxys"
+        "bulbapedia": "Deoxys",
+        "homeSprite": "deoxys-speed",
+        "miniSprite": "deoxys-speed"
     },
     "baseSpecies": "deoxys",
     "baseForms": [

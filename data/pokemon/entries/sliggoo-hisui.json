@@ -73,7 +73,9 @@
         "showdownMarkup": null,
         "showdownData": null,
         "serebii": null,
-        "bulbapedia": null
+        "bulbapedia": null,
+        "homeSprite": "sliggoo-hisui",
+        "miniSprite": "sliggoo-hisui"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -71,7 +71,9 @@
         "showdownMarkup": "Toxtricity-Gmax",
         "showdownData": "toxtricitygmax",
         "serebii": "toxtricity-gmax",
-        "bulbapedia": "Toxtricity"
+        "bulbapedia": "Toxtricity",
+        "homeSprite": "toxtricity-gmax",
+        "miniSprite": "toxtricity-gmax"
     },
     "baseSpecies": "toxtricity",
     "baseForms": [

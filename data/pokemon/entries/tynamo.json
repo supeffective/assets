@@ -73,7 +73,9 @@
         "showdownMarkup": "Tynamo",
         "showdownData": "tynamo",
         "serebii": "tynamo",
-        "bulbapedia": "Tynamo"
+        "bulbapedia": "Tynamo",
+        "homeSprite": "tynamo",
+        "miniSprite": "tynamo"
     },
     "baseSpecies": null,
     "baseForms": [],

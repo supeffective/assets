@@ -73,7 +73,9 @@
         "showdownMarkup": "Gogoat",
         "showdownData": "gogoat",
         "serebii": "gogoat",
-        "bulbapedia": "Gogoat"
+        "bulbapedia": "Gogoat",
+        "homeSprite": "gogoat",
+        "miniSprite": "gogoat"
     },
     "baseSpecies": null,
     "baseForms": [],

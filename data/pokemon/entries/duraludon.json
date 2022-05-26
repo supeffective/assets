@@ -73,7 +73,9 @@
         "showdownMarkup": "Duraludon",
         "showdownData": "duraludon",
         "serebii": "duraludon",
-        "bulbapedia": "Duraludon"
+        "bulbapedia": "Duraludon",
+        "homeSprite": "duraludon",
+        "miniSprite": "duraludon"
     },
     "baseSpecies": null,
     "baseForms": [],

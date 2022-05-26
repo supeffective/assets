@@ -73,7 +73,9 @@
         "showdownMarkup": "Barbaracle",
         "showdownData": "barbaracle",
         "serebii": "barbaracle",
-        "bulbapedia": "Barbaracle"
+        "bulbapedia": "Barbaracle",
+        "homeSprite": "barbaracle",
+        "miniSprite": "barbaracle"
     },
     "baseSpecies": null,
     "baseForms": [],

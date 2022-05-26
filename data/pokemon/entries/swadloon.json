@@ -73,7 +73,9 @@
         "showdownMarkup": "Swadloon",
         "showdownData": "swadloon",
         "serebii": "swadloon",
-        "bulbapedia": "Swadloon"
+        "bulbapedia": "Swadloon",
+        "homeSprite": "swadloon",
+        "miniSprite": "swadloon"
     },
     "baseSpecies": null,
     "baseForms": [],

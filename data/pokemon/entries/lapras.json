@@ -73,7 +73,9 @@
         "showdownMarkup": "Lapras",
         "showdownData": "lapras",
         "serebii": "lapras",
-        "bulbapedia": "Lapras"
+        "bulbapedia": "Lapras",
+        "homeSprite": "lapras",
+        "miniSprite": "lapras"
     },
     "baseSpecies": null,
     "baseForms": [],

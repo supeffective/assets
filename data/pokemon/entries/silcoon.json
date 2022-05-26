@@ -73,7 +73,9 @@
         "showdownMarkup": "Silcoon",
         "showdownData": "silcoon",
         "serebii": "silcoon",
-        "bulbapedia": "Silcoon"
+        "bulbapedia": "Silcoon",
+        "homeSprite": "silcoon",
+        "miniSprite": "silcoon"
     },
     "baseSpecies": null,
     "baseForms": [],

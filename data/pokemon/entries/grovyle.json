@@ -73,7 +73,9 @@
         "showdownMarkup": "Grovyle",
         "showdownData": "grovyle",
         "serebii": "grovyle",
-        "bulbapedia": "Grovyle"
+        "bulbapedia": "Grovyle",
+        "homeSprite": "grovyle",
+        "miniSprite": "grovyle"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Vivillon-Ocean",
         "showdownData": "vivillonocean",
         "serebii": "vivillon-ocean",
-        "bulbapedia": "Vivillon"
+        "bulbapedia": "Vivillon",
+        "homeSprite": "vivillon-ocean",
+        "miniSprite": "vivillon-ocean"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

@@ -71,7 +71,9 @@
         "showdownMarkup": "Meowth-Gmax",
         "showdownData": "meowthgmax",
         "serebii": "meowth-gmax",
-        "bulbapedia": "Meowth"
+        "bulbapedia": "Meowth",
+        "homeSprite": "meowth-gmax",
+        "miniSprite": "meowth-gmax"
     },
     "baseSpecies": "meowth",
     "baseForms": [

@@ -73,7 +73,9 @@
         "showdownMarkup": "Dugtrio-Alola",
         "showdownData": "dugtrioalola",
         "serebii": "dugtrio-alola",
-        "bulbapedia": "Dugtrio"
+        "bulbapedia": "Dugtrio",
+        "homeSprite": "dugtrio-alola",
+        "miniSprite": "dugtrio-alola"
     },
     "baseSpecies": "dugtrio",
     "baseForms": [],

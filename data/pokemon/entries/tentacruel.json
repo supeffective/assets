@@ -73,7 +73,9 @@
         "showdownMarkup": "Tentacruel",
         "showdownData": "tentacruel",
         "serebii": "tentacruel",
-        "bulbapedia": "Tentacruel"
+        "bulbapedia": "Tentacruel",
+        "homeSprite": "tentacruel",
+        "miniSprite": "tentacruel"
     },
     "baseSpecies": null,
     "baseForms": [],

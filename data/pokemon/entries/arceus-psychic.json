@@ -71,7 +71,9 @@
         "showdownMarkup": "Arceus-Psychic",
         "showdownData": "arceuspsychic",
         "serebii": "arceus-psychic",
-        "bulbapedia": "Arceus"
+        "bulbapedia": "Arceus",
+        "homeSprite": "arceus-psychic",
+        "miniSprite": "arceus-psychic"
     },
     "baseSpecies": "arceus",
     "baseForms": [

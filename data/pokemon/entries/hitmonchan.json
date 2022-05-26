@@ -73,7 +73,9 @@
         "showdownMarkup": "Hitmonchan",
         "showdownData": "hitmonchan",
         "serebii": "hitmonchan",
-        "bulbapedia": "Hitmonchan"
+        "bulbapedia": "Hitmonchan",
+        "homeSprite": "hitmonchan",
+        "miniSprite": "hitmonchan"
     },
     "baseSpecies": null,
     "baseForms": [],

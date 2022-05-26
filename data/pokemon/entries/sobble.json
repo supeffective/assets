@@ -73,7 +73,9 @@
         "showdownMarkup": "Sobble",
         "showdownData": "sobble",
         "serebii": "sobble",
-        "bulbapedia": "Sobble"
+        "bulbapedia": "Sobble",
+        "homeSprite": "sobble",
+        "miniSprite": "sobble"
     },
     "baseSpecies": null,
     "baseForms": [],

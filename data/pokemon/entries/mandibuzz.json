@@ -73,7 +73,9 @@
         "showdownMarkup": "Mandibuzz",
         "showdownData": "mandibuzz",
         "serebii": "mandibuzz",
-        "bulbapedia": "Mandibuzz"
+        "bulbapedia": "Mandibuzz",
+        "homeSprite": "mandibuzz",
+        "miniSprite": "mandibuzz"
     },
     "baseSpecies": null,
     "baseForms": [],

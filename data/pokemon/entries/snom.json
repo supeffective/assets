@@ -73,7 +73,9 @@
         "showdownMarkup": "Snom",
         "showdownData": "snom",
         "serebii": "snom",
-        "bulbapedia": "Snom"
+        "bulbapedia": "Snom",
+        "homeSprite": "snom",
+        "miniSprite": "snom"
     },
     "baseSpecies": null,
     "baseForms": [],

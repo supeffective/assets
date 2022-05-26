@@ -73,7 +73,9 @@
         "showdownMarkup": "Voltorb",
         "showdownData": "voltorb",
         "serebii": "voltorb",
-        "bulbapedia": "Voltorb"
+        "bulbapedia": "Voltorb",
+        "homeSprite": "voltorb",
+        "miniSprite": "voltorb"
     },
     "baseSpecies": null,
     "baseForms": [],

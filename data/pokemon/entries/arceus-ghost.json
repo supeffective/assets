@@ -71,7 +71,9 @@
         "showdownMarkup": "Arceus-Ghost",
         "showdownData": "arceusghost",
         "serebii": "arceus-ghost",
-        "bulbapedia": "Arceus"
+        "bulbapedia": "Arceus",
+        "homeSprite": "arceus-ghost",
+        "miniSprite": "arceus-ghost"
     },
     "baseSpecies": "arceus",
     "baseForms": [

@@ -73,7 +73,9 @@
         "showdownMarkup": "Leavanny",
         "showdownData": "leavanny",
         "serebii": "leavanny",
-        "bulbapedia": "Leavanny"
+        "bulbapedia": "Leavanny",
+        "homeSprite": "leavanny",
+        "miniSprite": "leavanny"
     },
     "baseSpecies": null,
     "baseForms": [],

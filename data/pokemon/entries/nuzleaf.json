@@ -73,7 +73,9 @@
         "showdownMarkup": "Nuzleaf",
         "showdownData": "nuzleaf",
         "serebii": "nuzleaf",
-        "bulbapedia": "Nuzleaf"
+        "bulbapedia": "Nuzleaf",
+        "homeSprite": "nuzleaf",
+        "miniSprite": "nuzleaf"
     },
     "baseSpecies": null,
     "baseForms": [],

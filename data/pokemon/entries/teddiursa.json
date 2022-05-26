@@ -73,7 +73,9 @@
         "showdownMarkup": "Teddiursa",
         "showdownData": "teddiursa",
         "serebii": "teddiursa",
-        "bulbapedia": "Teddiursa"
+        "bulbapedia": "Teddiursa",
+        "homeSprite": "teddiursa",
+        "miniSprite": "teddiursa"
     },
     "baseSpecies": null,
     "baseForms": [],

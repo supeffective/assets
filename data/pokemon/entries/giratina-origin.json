@@ -71,7 +71,9 @@
         "showdownMarkup": "Giratina-Origin",
         "showdownData": "giratinaorigin",
         "serebii": "giratina-origin",
-        "bulbapedia": "Giratina"
+        "bulbapedia": "Giratina",
+        "homeSprite": "giratina-origin",
+        "miniSprite": "giratina-origin"
     },
     "baseSpecies": "giratina",
     "baseForms": [

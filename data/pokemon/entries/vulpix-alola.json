@@ -73,7 +73,9 @@
         "showdownMarkup": "Vulpix-Alola",
         "showdownData": "vulpixalola",
         "serebii": "vulpix-alola",
-        "bulbapedia": "Vulpix"
+        "bulbapedia": "Vulpix",
+        "homeSprite": "vulpix-alola",
+        "miniSprite": "vulpix-alola"
     },
     "baseSpecies": "vulpix",
     "baseForms": [],

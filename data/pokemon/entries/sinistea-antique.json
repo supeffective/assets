@@ -73,7 +73,9 @@
         "showdownMarkup": "Sinistea-Antique",
         "showdownData": "sinisteaantique",
         "serebii": "sinistea-antique",
-        "bulbapedia": "Sinistea"
+        "bulbapedia": "Sinistea",
+        "homeSprite": "sinistea-antique",
+        "miniSprite": "sinistea-antique"
     },
     "baseSpecies": "sinistea",
     "baseForms": [],

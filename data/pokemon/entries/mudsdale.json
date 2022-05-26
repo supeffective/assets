@@ -73,7 +73,9 @@
         "showdownMarkup": "Mudsdale",
         "showdownData": "mudsdale",
         "serebii": "mudsdale",
-        "bulbapedia": "Mudsdale"
+        "bulbapedia": "Mudsdale",
+        "homeSprite": "mudsdale",
+        "miniSprite": "mudsdale"
     },
     "baseSpecies": null,
     "baseForms": [],

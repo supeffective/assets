@@ -73,7 +73,9 @@
         "showdownMarkup": "Shiftry",
         "showdownData": "shiftry",
         "serebii": "shiftry",
-        "bulbapedia": "Shiftry"
+        "bulbapedia": "Shiftry",
+        "homeSprite": "shiftry",
+        "miniSprite": "shiftry"
     },
     "baseSpecies": null,
     "baseForms": [],

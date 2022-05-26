@@ -71,7 +71,9 @@
         "showdownMarkup": "Mimikyu-Busted",
         "showdownData": "mimikyubusted",
         "serebii": "mimikyu-busted",
-        "bulbapedia": "Mimikyu"
+        "bulbapedia": "Mimikyu",
+        "homeSprite": "mimikyu-busted",
+        "miniSprite": "mimikyu-busted"
     },
     "baseSpecies": "mimikyu",
     "baseForms": [

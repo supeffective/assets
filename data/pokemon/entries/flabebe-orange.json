@@ -73,7 +73,9 @@
         "showdownMarkup": "Flabebe-Orange",
         "showdownData": "flabebeorange",
         "serebii": "flabebe-orange",
-        "bulbapedia": "Flabebe"
+        "bulbapedia": "Flabebe",
+        "homeSprite": "flabebe-orange",
+        "miniSprite": "flabebe-orange"
     },
     "baseSpecies": "flabebe",
     "baseForms": [],

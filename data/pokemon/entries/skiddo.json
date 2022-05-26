@@ -73,7 +73,9 @@
         "showdownMarkup": "Skiddo",
         "showdownData": "skiddo",
         "serebii": "skiddo",
-        "bulbapedia": "Skiddo"
+        "bulbapedia": "Skiddo",
+        "homeSprite": "skiddo",
+        "miniSprite": "skiddo"
     },
     "baseSpecies": null,
     "baseForms": [],

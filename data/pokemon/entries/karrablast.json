@@ -73,7 +73,9 @@
         "showdownMarkup": "Karrablast",
         "showdownData": "karrablast",
         "serebii": "karrablast",
-        "bulbapedia": "Karrablast"
+        "bulbapedia": "Karrablast",
+        "homeSprite": "karrablast",
+        "miniSprite": "karrablast"
     },
     "baseSpecies": null,
     "baseForms": [],

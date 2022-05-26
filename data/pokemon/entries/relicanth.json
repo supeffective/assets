@@ -73,7 +73,9 @@
         "showdownMarkup": "Relicanth",
         "showdownData": "relicanth",
         "serebii": "relicanth",
-        "bulbapedia": "Relicanth"
+        "bulbapedia": "Relicanth",
+        "homeSprite": "relicanth",
+        "miniSprite": "relicanth"
     },
     "baseSpecies": null,
     "baseForms": [],

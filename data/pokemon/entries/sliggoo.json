@@ -73,7 +73,9 @@
         "showdownMarkup": "Sliggoo",
         "showdownData": "sliggoo",
         "serebii": "sliggoo",
-        "bulbapedia": "Sliggoo"
+        "bulbapedia": "Sliggoo",
+        "homeSprite": "sliggoo",
+        "miniSprite": "sliggoo"
     },
     "baseSpecies": null,
     "baseForms": [],

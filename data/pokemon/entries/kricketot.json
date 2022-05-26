@@ -73,7 +73,9 @@
         "showdownMarkup": "Kricketot",
         "showdownData": "kricketot",
         "serebii": "kricketot",
-        "bulbapedia": "Kricketot"
+        "bulbapedia": "Kricketot",
+        "homeSprite": "kricketot",
+        "miniSprite": "kricketot"
     },
     "baseSpecies": null,
     "baseForms": [],

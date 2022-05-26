@@ -73,7 +73,9 @@
         "showdownMarkup": "Archen",
         "showdownData": "archen",
         "serebii": "archen",
-        "bulbapedia": "Archen"
+        "bulbapedia": "Archen",
+        "homeSprite": "archen",
+        "miniSprite": "archen"
     },
     "baseSpecies": null,
     "baseForms": [],

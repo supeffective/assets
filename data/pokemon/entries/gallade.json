@@ -73,7 +73,9 @@
         "showdownMarkup": "Gallade",
         "showdownData": "gallade",
         "serebii": "gallade",
-        "bulbapedia": "Gallade"
+        "bulbapedia": "Gallade",
+        "homeSprite": "gallade",
+        "miniSprite": "gallade"
     },
     "baseSpecies": null,
     "baseForms": [],

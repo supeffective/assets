@@ -73,7 +73,9 @@
         "showdownMarkup": "Nidoqueen",
         "showdownData": "nidoqueen",
         "serebii": "nidoqueen",
-        "bulbapedia": "Nidoqueen"
+        "bulbapedia": "Nidoqueen",
+        "homeSprite": "nidoqueen",
+        "miniSprite": "nidoqueen"
     },
     "baseSpecies": null,
     "baseForms": [],

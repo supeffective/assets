@@ -71,7 +71,9 @@
         "showdownMarkup": "Duraludon-Gmax",
         "showdownData": "duraludongmax",
         "serebii": "duraludon-gmax",
-        "bulbapedia": "Duraludon"
+        "bulbapedia": "Duraludon",
+        "homeSprite": "duraludon-gmax",
+        "miniSprite": "duraludon-gmax"
     },
     "baseSpecies": "duraludon",
     "baseForms": [

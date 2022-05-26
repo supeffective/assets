@@ -73,7 +73,9 @@
         "showdownMarkup": "Eevee",
         "showdownData": "eevee",
         "serebii": "eevee",
-        "bulbapedia": "Eevee"
+        "bulbapedia": "Eevee",
+        "homeSprite": "eevee",
+        "miniSprite": "eevee"
     },
     "baseSpecies": null,
     "baseForms": [],

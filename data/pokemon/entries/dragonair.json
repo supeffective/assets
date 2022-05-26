@@ -73,7 +73,9 @@
         "showdownMarkup": "Dragonair",
         "showdownData": "dragonair",
         "serebii": "dragonair",
-        "bulbapedia": "Dragonair"
+        "bulbapedia": "Dragonair",
+        "homeSprite": "dragonair",
+        "miniSprite": "dragonair"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Golduck",
         "showdownData": "golduck",
         "serebii": "golduck",
-        "bulbapedia": "Golduck"
+        "bulbapedia": "Golduck",
+        "homeSprite": "golduck",
+        "miniSprite": "golduck"
     },
     "baseSpecies": null,
     "baseForms": [],

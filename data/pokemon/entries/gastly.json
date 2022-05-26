@@ -73,7 +73,9 @@
         "showdownMarkup": "Gastly",
         "showdownData": "gastly",
         "serebii": "gastly",
-        "bulbapedia": "Gastly"
+        "bulbapedia": "Gastly",
+        "homeSprite": "gastly",
+        "miniSprite": "gastly"
     },
     "baseSpecies": null,
     "baseForms": [],

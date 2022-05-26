@@ -73,7 +73,9 @@
         "showdownMarkup": "Vigoroth",
         "showdownData": "vigoroth",
         "serebii": "vigoroth",
-        "bulbapedia": "Vigoroth"
+        "bulbapedia": "Vigoroth",
+        "homeSprite": "vigoroth",
+        "miniSprite": "vigoroth"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Rotom-Frost",
         "showdownData": "rotomfrost",
         "serebii": "rotom-frost",
-        "bulbapedia": "Rotom"
+        "bulbapedia": "Rotom",
+        "homeSprite": "rotom-frost",
+        "miniSprite": "rotom-frost"
     },
     "baseSpecies": "rotom",
     "baseForms": [

@@ -73,7 +73,9 @@
         "showdownMarkup": "Gothitelle",
         "showdownData": "gothitelle",
         "serebii": "gothitelle",
-        "bulbapedia": "Gothitelle"
+        "bulbapedia": "Gothitelle",
+        "homeSprite": "gothitelle",
+        "miniSprite": "gothitelle"
     },
     "baseSpecies": null,
     "baseForms": [],

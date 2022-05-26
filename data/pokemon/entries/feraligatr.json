@@ -73,7 +73,9 @@
         "showdownMarkup": "Feraligatr",
         "showdownData": "feraligatr",
         "serebii": "feraligatr",
-        "bulbapedia": "Feraligatr"
+        "bulbapedia": "Feraligatr",
+        "homeSprite": "feraligatr",
+        "miniSprite": "feraligatr"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Poliwag",
         "showdownData": "poliwag",
         "serebii": "poliwag",
-        "bulbapedia": "Poliwag"
+        "bulbapedia": "Poliwag",
+        "homeSprite": "poliwag",
+        "miniSprite": "poliwag"
     },
     "baseSpecies": null,
     "baseForms": [],

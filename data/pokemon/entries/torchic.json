@@ -73,7 +73,9 @@
         "showdownMarkup": "Torchic",
         "showdownData": "torchic",
         "serebii": "torchic",
-        "bulbapedia": "Torchic"
+        "bulbapedia": "Torchic",
+        "homeSprite": "torchic",
+        "miniSprite": "torchic"
     },
     "baseSpecies": null,
     "baseForms": [],

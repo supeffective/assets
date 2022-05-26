@@ -71,7 +71,9 @@
         "showdownMarkup": "Zacian-Crowned",
         "showdownData": "zaciancrowned",
         "serebii": "zacian-crowned",
-        "bulbapedia": "Zacian"
+        "bulbapedia": "Zacian",
+        "homeSprite": "zacian-crowned",
+        "miniSprite": "zacian-crowned"
     },
     "baseSpecies": "zacian",
     "baseForms": [

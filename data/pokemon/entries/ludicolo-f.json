@@ -73,7 +73,9 @@
         "showdownMarkup": "Ludicolo-F",
         "showdownData": "ludicolof",
         "serebii": "ludicolo-f",
-        "bulbapedia": "Ludicolo"
+        "bulbapedia": "Ludicolo",
+        "homeSprite": "ludicolo-f",
+        "miniSprite": "ludicolo-f"
     },
     "baseSpecies": "ludicolo",
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Solosis",
         "showdownData": "solosis",
         "serebii": "solosis",
-        "bulbapedia": "Solosis"
+        "bulbapedia": "Solosis",
+        "homeSprite": "solosis",
+        "miniSprite": "solosis"
     },
     "baseSpecies": null,
     "baseForms": [],

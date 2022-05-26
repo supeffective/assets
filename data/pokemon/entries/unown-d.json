@@ -73,7 +73,9 @@
         "showdownMarkup": "Unown-D",
         "showdownData": "unownd",
         "serebii": "unown-d",
-        "bulbapedia": "Unown"
+        "bulbapedia": "Unown",
+        "homeSprite": "unown-d",
+        "miniSprite": "unown-d"
     },
     "baseSpecies": "unown",
     "baseForms": [],

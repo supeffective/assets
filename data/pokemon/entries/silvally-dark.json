@@ -71,7 +71,9 @@
         "showdownMarkup": "Silvally-Dark",
         "showdownData": "silvallydark",
         "serebii": "silvally-dark",
-        "bulbapedia": "Silvally"
+        "bulbapedia": "Silvally",
+        "homeSprite": "silvally-dark",
+        "miniSprite": "silvally-dark"
     },
     "baseSpecies": "silvally",
     "baseForms": [

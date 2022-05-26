@@ -73,7 +73,9 @@
         "showdownMarkup": "Dodrio-F",
         "showdownData": "dodriof",
         "serebii": "dodrio-f",
-        "bulbapedia": "Dodrio"
+        "bulbapedia": "Dodrio",
+        "homeSprite": "dodrio-f",
+        "miniSprite": "dodrio-f"
     },
     "baseSpecies": "dodrio",
     "baseForms": [],

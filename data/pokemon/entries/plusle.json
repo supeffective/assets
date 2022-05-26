@@ -73,7 +73,9 @@
         "showdownMarkup": "Plusle",
         "showdownData": "plusle",
         "serebii": "plusle",
-        "bulbapedia": "Plusle"
+        "bulbapedia": "Plusle",
+        "homeSprite": "plusle",
+        "miniSprite": "plusle"
     },
     "baseSpecies": null,
     "baseForms": [],

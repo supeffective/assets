@@ -73,7 +73,9 @@
         "showdownMarkup": "Centiskorch",
         "showdownData": "centiskorch",
         "serebii": "centiskorch",
-        "bulbapedia": "Centiskorch"
+        "bulbapedia": "Centiskorch",
+        "homeSprite": "centiskorch",
+        "miniSprite": "centiskorch"
     },
     "baseSpecies": null,
     "baseForms": [],

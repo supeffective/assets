@@ -73,7 +73,9 @@
         "showdownMarkup": "Snivy",
         "showdownData": "snivy",
         "serebii": "snivy",
-        "bulbapedia": "Snivy"
+        "bulbapedia": "Snivy",
+        "homeSprite": "snivy",
+        "miniSprite": "snivy"
     },
     "baseSpecies": null,
     "baseForms": [],

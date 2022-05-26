@@ -73,7 +73,9 @@
         "showdownMarkup": "Slowbro",
         "showdownData": "slowbro",
         "serebii": "slowbro",
-        "bulbapedia": "Slowbro"
+        "bulbapedia": "Slowbro",
+        "homeSprite": "slowbro",
+        "miniSprite": "slowbro"
     },
     "baseSpecies": null,
     "baseForms": [],

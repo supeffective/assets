@@ -71,7 +71,9 @@
         "showdownMarkup": "Silvally-Fire",
         "showdownData": "silvallyfire",
         "serebii": "silvally-fire",
-        "bulbapedia": "Silvally"
+        "bulbapedia": "Silvally",
+        "homeSprite": "silvally-fire",
+        "miniSprite": "silvally-fire"
     },
     "baseSpecies": "silvally",
     "baseForms": [

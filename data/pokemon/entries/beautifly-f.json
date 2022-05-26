@@ -73,7 +73,9 @@
         "showdownMarkup": "Beautifly-F",
         "showdownData": "beautiflyf",
         "serebii": "beautifly-f",
-        "bulbapedia": "Beautifly"
+        "bulbapedia": "Beautifly",
+        "homeSprite": "beautifly-f",
+        "miniSprite": "beautifly-f"
     },
     "baseSpecies": "beautifly",
     "baseForms": [],

@@ -71,7 +71,9 @@
         "showdownMarkup": null,
         "showdownData": null,
         "serebii": null,
-        "bulbapedia": null
+        "bulbapedia": null,
+        "homeSprite": "palkia-origin",
+        "miniSprite": "palkia-origin"
     },
     "baseSpecies": null,
     "baseForms": [],

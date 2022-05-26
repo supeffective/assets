@@ -73,7 +73,9 @@
         "showdownMarkup": "Mawile",
         "showdownData": "mawile",
         "serebii": "mawile",
-        "bulbapedia": "Mawile"
+        "bulbapedia": "Mawile",
+        "homeSprite": "mawile",
+        "miniSprite": "mawile"
     },
     "baseSpecies": null,
     "baseForms": [],

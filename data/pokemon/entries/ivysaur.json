@@ -73,7 +73,9 @@
         "showdownMarkup": "Ivysaur",
         "showdownData": "ivysaur",
         "serebii": "ivysaur",
-        "bulbapedia": "Ivysaur"
+        "bulbapedia": "Ivysaur",
+        "homeSprite": "ivysaur",
+        "miniSprite": "ivysaur"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Elgyem",
         "showdownData": "elgyem",
         "serebii": "elgyem",
-        "bulbapedia": "Elgyem"
+        "bulbapedia": "Elgyem",
+        "homeSprite": "elgyem",
+        "miniSprite": "elgyem"
     },
     "baseSpecies": null,
     "baseForms": [],

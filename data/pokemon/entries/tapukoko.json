@@ -73,7 +73,9 @@
         "showdownMarkup": "Tapukoko",
         "showdownData": "tapukoko",
         "serebii": "tapukoko",
-        "bulbapedia": "Tapu Koko"
+        "bulbapedia": "Tapu Koko",
+        "homeSprite": "tapukoko",
+        "miniSprite": "tapukoko"
     },
     "baseSpecies": null,
     "baseForms": [],

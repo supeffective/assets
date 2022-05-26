@@ -73,7 +73,9 @@
         "showdownMarkup": "Politoed-F",
         "showdownData": "politoedf",
         "serebii": "politoed-f",
-        "bulbapedia": "Politoed"
+        "bulbapedia": "Politoed",
+        "homeSprite": "politoed-f",
+        "miniSprite": "politoed-f"
     },
     "baseSpecies": "politoed",
     "baseForms": [],

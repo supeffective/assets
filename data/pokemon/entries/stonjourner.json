@@ -73,7 +73,9 @@
         "showdownMarkup": "Stonjourner",
         "showdownData": "stonjourner",
         "serebii": "stonjourner",
-        "bulbapedia": "Stonjourner"
+        "bulbapedia": "Stonjourner",
+        "homeSprite": "stonjourner",
+        "miniSprite": "stonjourner"
     },
     "baseSpecies": null,
     "baseForms": [],

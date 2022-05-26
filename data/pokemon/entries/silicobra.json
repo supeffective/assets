@@ -73,7 +73,9 @@
         "showdownMarkup": "Silicobra",
         "showdownData": "silicobra",
         "serebii": "silicobra",
-        "bulbapedia": "Silicobra"
+        "bulbapedia": "Silicobra",
+        "homeSprite": "silicobra",
+        "miniSprite": "silicobra"
     },
     "baseSpecies": null,
     "baseForms": [],

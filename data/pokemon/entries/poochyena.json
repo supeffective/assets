@@ -73,7 +73,9 @@
         "showdownMarkup": "Poochyena",
         "showdownData": "poochyena",
         "serebii": "poochyena",
-        "bulbapedia": "Poochyena"
+        "bulbapedia": "Poochyena",
+        "homeSprite": "poochyena",
+        "miniSprite": "poochyena"
     },
     "baseSpecies": null,
     "baseForms": [],

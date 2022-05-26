@@ -73,7 +73,9 @@
         "showdownMarkup": null,
         "showdownData": null,
         "serebii": null,
-        "bulbapedia": null
+        "bulbapedia": null,
+        "homeSprite": "sneasel-hisui",
+        "miniSprite": "sneasel-hisui"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Virizion",
         "showdownData": "virizion",
         "serebii": "virizion",
-        "bulbapedia": "Virizion"
+        "bulbapedia": "Virizion",
+        "homeSprite": "virizion",
+        "miniSprite": "virizion"
     },
     "baseSpecies": null,
     "baseForms": [],

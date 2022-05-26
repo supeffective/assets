@@ -73,7 +73,9 @@
         "showdownMarkup": "Florges-Yellow",
         "showdownData": "florgesyellow",
         "serebii": "florges-yellow",
-        "bulbapedia": "Florges"
+        "bulbapedia": "Florges",
+        "homeSprite": "florges-yellow",
+        "miniSprite": "florges-yellow"
     },
     "baseSpecies": "florges",
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Weezing-Galar",
         "showdownData": "weezinggalar",
         "serebii": "weezing-galar",
-        "bulbapedia": "Weezing"
+        "bulbapedia": "Weezing",
+        "homeSprite": "weezing-galar",
+        "miniSprite": "weezing-galar"
     },
     "baseSpecies": "weezing",
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Thundurus",
         "showdownData": "thundurus",
         "serebii": "thundurus",
-        "bulbapedia": "Thundurus"
+        "bulbapedia": "Thundurus",
+        "homeSprite": "thundurus",
+        "miniSprite": "thundurus"
     },
     "baseSpecies": null,
     "baseForms": [],

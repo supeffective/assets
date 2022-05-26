@@ -73,7 +73,9 @@
         "showdownMarkup": "Dustox-F",
         "showdownData": "dustoxf",
         "serebii": "dustox-f",
-        "bulbapedia": "Dustox"
+        "bulbapedia": "Dustox",
+        "homeSprite": "dustox-f",
+        "miniSprite": "dustox-f"
     },
     "baseSpecies": "dustox",
     "baseForms": [],

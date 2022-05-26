@@ -73,7 +73,9 @@
         "showdownMarkup": "Totodile",
         "showdownData": "totodile",
         "serebii": "totodile",
-        "bulbapedia": "Totodile"
+        "bulbapedia": "Totodile",
+        "homeSprite": "totodile",
+        "miniSprite": "totodile"
     },
     "baseSpecies": null,
     "baseForms": [],

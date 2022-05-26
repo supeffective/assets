@@ -73,7 +73,9 @@
         "showdownMarkup": "Brionne",
         "showdownData": "brionne",
         "serebii": "brionne",
-        "bulbapedia": "Brionne"
+        "bulbapedia": "Brionne",
+        "homeSprite": "brionne",
+        "miniSprite": "brionne"
     },
     "baseSpecies": null,
     "baseForms": [],

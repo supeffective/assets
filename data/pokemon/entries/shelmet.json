@@ -73,7 +73,9 @@
         "showdownMarkup": "Shelmet",
         "showdownData": "shelmet",
         "serebii": "shelmet",
-        "bulbapedia": "Shelmet"
+        "bulbapedia": "Shelmet",
+        "homeSprite": "shelmet",
+        "miniSprite": "shelmet"
     },
     "baseSpecies": null,
     "baseForms": [],

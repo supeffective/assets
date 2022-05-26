@@ -73,7 +73,9 @@
         "showdownMarkup": "Victini",
         "showdownData": "victini",
         "serebii": "victini",
-        "bulbapedia": "Victini"
+        "bulbapedia": "Victini",
+        "homeSprite": "victini",
+        "miniSprite": "victini"
     },
     "baseSpecies": null,
     "baseForms": [],

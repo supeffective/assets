@@ -73,7 +73,9 @@
         "showdownMarkup": "Shaymin-Sky",
         "showdownData": "shayminsky",
         "serebii": "shaymin-sky",
-        "bulbapedia": "Shaymin"
+        "bulbapedia": "Shaymin",
+        "homeSprite": "shaymin-sky",
+        "miniSprite": "shaymin-sky"
     },
     "baseSpecies": "shaymin",
     "baseForms": [

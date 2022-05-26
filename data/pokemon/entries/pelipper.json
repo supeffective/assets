@@ -73,7 +73,9 @@
         "showdownMarkup": "Pelipper",
         "showdownData": "pelipper",
         "serebii": "pelipper",
-        "bulbapedia": "Pelipper"
+        "bulbapedia": "Pelipper",
+        "homeSprite": "pelipper",
+        "miniSprite": "pelipper"
     },
     "baseSpecies": null,
     "baseForms": [],

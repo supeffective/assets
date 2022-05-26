@@ -71,7 +71,9 @@
         "showdownMarkup": "Salamence-Mega",
         "showdownData": "salamencemega",
         "serebii": "salamence-mega",
-        "bulbapedia": "Salamence"
+        "bulbapedia": "Salamence",
+        "homeSprite": "salamence-mega",
+        "miniSprite": "salamence-mega"
     },
     "baseSpecies": "salamence",
     "baseForms": [

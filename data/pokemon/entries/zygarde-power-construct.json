@@ -73,7 +73,9 @@
         "showdownMarkup": "Zygarde-Power-Construct",
         "showdownData": "zygardepowerconstruct",
         "serebii": "zygarde-power-construct",
-        "bulbapedia": "Zygarde"
+        "bulbapedia": "Zygarde",
+        "homeSprite": "zygarde-power-construct",
+        "miniSprite": "zygarde-power-construct"
     },
     "baseSpecies": "zygarde",
     "baseForms": [],

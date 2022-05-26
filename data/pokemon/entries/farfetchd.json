@@ -73,7 +73,9 @@
         "showdownMarkup": "Farfetchd",
         "showdownData": "farfetchd",
         "serebii": "farfetchd",
-        "bulbapedia": "Farfetch’d"
+        "bulbapedia": "Farfetch’d",
+        "homeSprite": "farfetchd",
+        "miniSprite": "farfetchd"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Ariados",
         "showdownData": "ariados",
         "serebii": "ariados",
-        "bulbapedia": "Ariados"
+        "bulbapedia": "Ariados",
+        "homeSprite": "ariados",
+        "miniSprite": "ariados"
     },
     "baseSpecies": null,
     "baseForms": [],

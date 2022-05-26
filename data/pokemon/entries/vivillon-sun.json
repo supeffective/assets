@@ -73,7 +73,9 @@
         "showdownMarkup": "Vivillon-Sun",
         "showdownData": "vivillonsun",
         "serebii": "vivillon-sun",
-        "bulbapedia": "Vivillon"
+        "bulbapedia": "Vivillon",
+        "homeSprite": "vivillon-sun",
+        "miniSprite": "vivillon-sun"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

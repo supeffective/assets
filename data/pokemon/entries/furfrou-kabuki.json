@@ -73,7 +73,9 @@
         "showdownMarkup": "Furfrou-Kabuki",
         "showdownData": "furfroukabuki",
         "serebii": "furfrou-kabuki",
-        "bulbapedia": "Furfrou"
+        "bulbapedia": "Furfrou",
+        "homeSprite": "furfrou-kabuki",
+        "miniSprite": "furfrou-kabuki"
     },
     "baseSpecies": "furfrou",
     "baseForms": [

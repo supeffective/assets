@@ -73,7 +73,9 @@
         "showdownMarkup": "Leafeon",
         "showdownData": "leafeon",
         "serebii": "leafeon",
-        "bulbapedia": "Leafeon"
+        "bulbapedia": "Leafeon",
+        "homeSprite": "leafeon",
+        "miniSprite": "leafeon"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Hattrem",
         "showdownData": "hattrem",
         "serebii": "hattrem",
-        "bulbapedia": "Hattrem"
+        "bulbapedia": "Hattrem",
+        "homeSprite": "hattrem",
+        "miniSprite": "hattrem"
     },
     "baseSpecies": null,
     "baseForms": [],

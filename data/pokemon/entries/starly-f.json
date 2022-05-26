@@ -73,7 +73,9 @@
         "showdownMarkup": "Starly-F",
         "showdownData": "starlyf",
         "serebii": "starly-f",
-        "bulbapedia": "Starly"
+        "bulbapedia": "Starly",
+        "homeSprite": "starly-f",
+        "miniSprite": "starly-f"
     },
     "baseSpecies": "starly",
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Cradily",
         "showdownData": "cradily",
         "serebii": "cradily",
-        "bulbapedia": "Cradily"
+        "bulbapedia": "Cradily",
+        "homeSprite": "cradily",
+        "miniSprite": "cradily"
     },
     "baseSpecies": null,
     "baseForms": [],

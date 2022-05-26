@@ -73,7 +73,9 @@
         "showdownMarkup": "Garbodor",
         "showdownData": "garbodor",
         "serebii": "garbodor",
-        "bulbapedia": "Garbodor"
+        "bulbapedia": "Garbodor",
+        "homeSprite": "garbodor",
+        "miniSprite": "garbodor"
     },
     "baseSpecies": null,
     "baseForms": [],

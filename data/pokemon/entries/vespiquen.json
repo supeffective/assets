@@ -73,7 +73,9 @@
         "showdownMarkup": "Vespiquen",
         "showdownData": "vespiquen",
         "serebii": "vespiquen",
-        "bulbapedia": "Vespiquen"
+        "bulbapedia": "Vespiquen",
+        "homeSprite": "vespiquen",
+        "miniSprite": "vespiquen"
     },
     "baseSpecies": null,
     "baseForms": [],

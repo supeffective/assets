@@ -73,7 +73,9 @@
         "showdownMarkup": "Groudon",
         "showdownData": "groudon",
         "serebii": "groudon",
-        "bulbapedia": "Groudon"
+        "bulbapedia": "Groudon",
+        "homeSprite": "groudon",
+        "miniSprite": "groudon"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Crabrawler",
         "showdownData": "crabrawler",
         "serebii": "crabrawler",
-        "bulbapedia": "Crabrawler"
+        "bulbapedia": "Crabrawler",
+        "homeSprite": "crabrawler",
+        "miniSprite": "crabrawler"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Spinda",
         "showdownData": "spinda",
         "serebii": "spinda",
-        "bulbapedia": "Spinda"
+        "bulbapedia": "Spinda",
+        "homeSprite": "spinda",
+        "miniSprite": "spinda"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Basculin",
         "showdownData": "basculin",
         "serebii": "basculin",
-        "bulbapedia": "Basculin"
+        "bulbapedia": "Basculin",
+        "homeSprite": "basculin",
+        "miniSprite": "basculin"
     },
     "baseSpecies": null,
     "baseForms": [],

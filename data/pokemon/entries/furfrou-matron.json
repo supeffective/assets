@@ -73,7 +73,9 @@
         "showdownMarkup": "Furfrou-Matron",
         "showdownData": "furfroumatron",
         "serebii": "furfrou-matron",
-        "bulbapedia": "Furfrou"
+        "bulbapedia": "Furfrou",
+        "homeSprite": "furfrou-matron",
+        "miniSprite": "furfrou-matron"
     },
     "baseSpecies": "furfrou",
     "baseForms": [

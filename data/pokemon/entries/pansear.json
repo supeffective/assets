@@ -73,7 +73,9 @@
         "showdownMarkup": "Pansear",
         "showdownData": "pansear",
         "serebii": "pansear",
-        "bulbapedia": "Pansear"
+        "bulbapedia": "Pansear",
+        "homeSprite": "pansear",
+        "miniSprite": "pansear"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Pawniard",
         "showdownData": "pawniard",
         "serebii": "pawniard",
-        "bulbapedia": "Pawniard"
+        "bulbapedia": "Pawniard",
+        "homeSprite": "pawniard",
+        "miniSprite": "pawniard"
     },
     "baseSpecies": null,
     "baseForms": [],

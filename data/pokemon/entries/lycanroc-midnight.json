@@ -73,7 +73,9 @@
         "showdownMarkup": "Lycanroc-Midnight",
         "showdownData": "lycanrocmidnight",
         "serebii": "lycanroc-midnight",
-        "bulbapedia": "Lycanroc"
+        "bulbapedia": "Lycanroc",
+        "homeSprite": "lycanroc-midnight",
+        "miniSprite": "lycanroc-midnight"
     },
     "baseSpecies": "lycanroc",
     "baseForms": [],

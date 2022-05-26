@@ -73,7 +73,9 @@
         "showdownMarkup": "Rapidash-Galar",
         "showdownData": "rapidashgalar",
         "serebii": "rapidash-galar",
-        "bulbapedia": "Rapidash"
+        "bulbapedia": "Rapidash",
+        "homeSprite": "rapidash-galar",
+        "miniSprite": "rapidash-galar"
     },
     "baseSpecies": "rapidash",
     "baseForms": [],

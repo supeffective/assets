@@ -71,7 +71,9 @@
         "showdownMarkup": "Garbodor-Gmax",
         "showdownData": "garbodorgmax",
         "serebii": "garbodor-gmax",
-        "bulbapedia": "Garbodor"
+        "bulbapedia": "Garbodor",
+        "homeSprite": "garbodor-gmax",
+        "miniSprite": "garbodor-gmax"
     },
     "baseSpecies": "garbodor",
     "baseForms": [

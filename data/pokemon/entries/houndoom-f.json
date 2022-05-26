@@ -73,7 +73,9 @@
         "showdownMarkup": "Houndoom-F",
         "showdownData": "houndoomf",
         "serebii": "houndoom-f",
-        "bulbapedia": "Houndoom"
+        "bulbapedia": "Houndoom",
+        "homeSprite": "houndoom-f",
+        "miniSprite": "houndoom-f"
     },
     "baseSpecies": "houndoom",
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Urshifu",
         "showdownData": "urshifu",
         "serebii": "urshifu",
-        "bulbapedia": "Urshifu"
+        "bulbapedia": "Urshifu",
+        "homeSprite": "urshifu",
+        "miniSprite": "urshifu"
     },
     "baseSpecies": null,
     "baseForms": [],

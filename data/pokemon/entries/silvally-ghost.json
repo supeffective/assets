@@ -71,7 +71,9 @@
         "showdownMarkup": "Silvally-Ghost",
         "showdownData": "silvallyghost",
         "serebii": "silvally-ghost",
-        "bulbapedia": "Silvally"
+        "bulbapedia": "Silvally",
+        "homeSprite": "silvally-ghost",
+        "miniSprite": "silvally-ghost"
     },
     "baseSpecies": "silvally",
     "baseForms": [

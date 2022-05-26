@@ -73,7 +73,9 @@
         "showdownMarkup": "Arctovish",
         "showdownData": "arctovish",
         "serebii": "arctovish",
-        "bulbapedia": "Arctovish"
+        "bulbapedia": "Arctovish",
+        "homeSprite": "arctovish",
+        "miniSprite": "arctovish"
     },
     "baseSpecies": null,
     "baseForms": [],

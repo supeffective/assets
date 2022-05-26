@@ -73,7 +73,9 @@
         "showdownMarkup": "Grimer",
         "showdownData": "grimer",
         "serebii": "grimer",
-        "bulbapedia": "Grimer"
+        "bulbapedia": "Grimer",
+        "homeSprite": "grimer",
+        "miniSprite": "grimer"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Prinplup",
         "showdownData": "prinplup",
         "serebii": "prinplup",
-        "bulbapedia": "Prinplup"
+        "bulbapedia": "Prinplup",
+        "homeSprite": "prinplup",
+        "miniSprite": "prinplup"
     },
     "baseSpecies": null,
     "baseForms": [],

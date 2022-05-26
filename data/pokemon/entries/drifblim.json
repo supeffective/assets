@@ -73,7 +73,9 @@
         "showdownMarkup": "Drifblim",
         "showdownData": "drifblim",
         "serebii": "drifblim",
-        "bulbapedia": "Drifblim"
+        "bulbapedia": "Drifblim",
+        "homeSprite": "drifblim",
+        "miniSprite": "drifblim"
     },
     "baseSpecies": null,
     "baseForms": [],

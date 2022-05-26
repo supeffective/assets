@@ -73,7 +73,9 @@
         "showdownMarkup": "Lickitung",
         "showdownData": "lickitung",
         "serebii": "lickitung",
-        "bulbapedia": "Lickitung"
+        "bulbapedia": "Lickitung",
+        "homeSprite": "lickitung",
+        "miniSprite": "lickitung"
     },
     "baseSpecies": null,
     "baseForms": [],

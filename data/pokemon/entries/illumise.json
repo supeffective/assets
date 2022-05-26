@@ -73,7 +73,9 @@
         "showdownMarkup": "Illumise",
         "showdownData": "illumise",
         "serebii": "illumise",
-        "bulbapedia": "Illumise"
+        "bulbapedia": "Illumise",
+        "homeSprite": "illumise",
+        "miniSprite": "illumise"
     },
     "baseSpecies": null,
     "baseForms": [],

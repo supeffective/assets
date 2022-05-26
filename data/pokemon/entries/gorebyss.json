@@ -73,7 +73,9 @@
         "showdownMarkup": "Gorebyss",
         "showdownData": "gorebyss",
         "serebii": "gorebyss",
-        "bulbapedia": "Gorebyss"
+        "bulbapedia": "Gorebyss",
+        "homeSprite": "gorebyss",
+        "miniSprite": "gorebyss"
     },
     "baseSpecies": null,
     "baseForms": [],

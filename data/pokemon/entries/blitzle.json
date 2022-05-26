@@ -73,7 +73,9 @@
         "showdownMarkup": "Blitzle",
         "showdownData": "blitzle",
         "serebii": "blitzle",
-        "bulbapedia": "Blitzle"
+        "bulbapedia": "Blitzle",
+        "homeSprite": "blitzle",
+        "miniSprite": "blitzle"
     },
     "baseSpecies": null,
     "baseForms": [],

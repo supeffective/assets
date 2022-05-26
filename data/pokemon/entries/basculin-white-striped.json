@@ -73,7 +73,9 @@
         "showdownMarkup": null,
         "showdownData": null,
         "serebii": null,
-        "bulbapedia": null
+        "bulbapedia": null,
+        "homeSprite": "basculin-white-striped",
+        "miniSprite": "basculin-white-striped"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Lileep",
         "showdownData": "lileep",
         "serebii": "lileep",
-        "bulbapedia": "Lileep"
+        "bulbapedia": "Lileep",
+        "homeSprite": "lileep",
+        "miniSprite": "lileep"
     },
     "baseSpecies": null,
     "baseForms": [],

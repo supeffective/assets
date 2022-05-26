@@ -73,7 +73,9 @@
         "showdownMarkup": "Primarina",
         "showdownData": "primarina",
         "serebii": "primarina",
-        "bulbapedia": "Primarina"
+        "bulbapedia": "Primarina",
+        "homeSprite": "primarina",
+        "miniSprite": "primarina"
     },
     "baseSpecies": null,
     "baseForms": [],

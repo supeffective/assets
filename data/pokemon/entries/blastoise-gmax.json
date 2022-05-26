@@ -71,7 +71,9 @@
         "showdownMarkup": "Blastoise-Gmax",
         "showdownData": "blastoisegmax",
         "serebii": "blastoise-gmax",
-        "bulbapedia": "Blastoise"
+        "bulbapedia": "Blastoise",
+        "homeSprite": "blastoise-gmax",
+        "miniSprite": "blastoise-gmax"
     },
     "baseSpecies": "blastoise",
     "baseForms": [

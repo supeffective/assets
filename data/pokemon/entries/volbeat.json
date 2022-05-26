@@ -73,7 +73,9 @@
         "showdownMarkup": "Volbeat",
         "showdownData": "volbeat",
         "serebii": "volbeat",
-        "bulbapedia": "Volbeat"
+        "bulbapedia": "Volbeat",
+        "homeSprite": "volbeat",
+        "miniSprite": "volbeat"
     },
     "baseSpecies": null,
     "baseForms": [],

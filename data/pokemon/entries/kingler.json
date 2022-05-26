@@ -73,7 +73,9 @@
         "showdownMarkup": "Kingler",
         "showdownData": "kingler",
         "serebii": "kingler",
-        "bulbapedia": "Kingler"
+        "bulbapedia": "Kingler",
+        "homeSprite": "kingler",
+        "miniSprite": "kingler"
     },
     "baseSpecies": null,
     "baseForms": [],

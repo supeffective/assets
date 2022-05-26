@@ -73,7 +73,9 @@
         "showdownMarkup": "Greedent",
         "showdownData": "greedent",
         "serebii": "greedent",
-        "bulbapedia": "Greedent"
+        "bulbapedia": "Greedent",
+        "homeSprite": "greedent",
+        "miniSprite": "greedent"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Sudowoodo-F",
         "showdownData": "sudowoodof",
         "serebii": "sudowoodo-f",
-        "bulbapedia": "Sudowoodo"
+        "bulbapedia": "Sudowoodo",
+        "homeSprite": "sudowoodo-f",
+        "miniSprite": "sudowoodo-f"
     },
     "baseSpecies": "sudowoodo",
     "baseForms": [],

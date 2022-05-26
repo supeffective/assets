@@ -71,7 +71,9 @@
         "showdownMarkup": "Arceus-Electric",
         "showdownData": "arceuselectric",
         "serebii": "arceus-electric",
-        "bulbapedia": "Arceus"
+        "bulbapedia": "Arceus",
+        "homeSprite": "arceus-electric",
+        "miniSprite": "arceus-electric"
     },
     "baseSpecies": "arceus",
     "baseForms": [

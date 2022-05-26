@@ -73,7 +73,9 @@
         "showdownMarkup": "Spritzee",
         "showdownData": "spritzee",
         "serebii": "spritzee",
-        "bulbapedia": "Spritzee"
+        "bulbapedia": "Spritzee",
+        "homeSprite": "spritzee",
+        "miniSprite": "spritzee"
     },
     "baseSpecies": null,
     "baseForms": [],

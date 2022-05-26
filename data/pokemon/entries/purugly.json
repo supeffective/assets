@@ -73,7 +73,9 @@
         "showdownMarkup": "Purugly",
         "showdownData": "purugly",
         "serebii": "purugly",
-        "bulbapedia": "Purugly"
+        "bulbapedia": "Purugly",
+        "homeSprite": "purugly",
+        "miniSprite": "purugly"
     },
     "baseSpecies": null,
     "baseForms": [],

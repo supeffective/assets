@@ -73,7 +73,9 @@
         "showdownMarkup": "Ralts",
         "showdownData": "ralts",
         "serebii": "ralts",
-        "bulbapedia": "Ralts"
+        "bulbapedia": "Ralts",
+        "homeSprite": "ralts",
+        "miniSprite": "ralts"
     },
     "baseSpecies": null,
     "baseForms": [],

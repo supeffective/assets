@@ -73,7 +73,9 @@
         "showdownMarkup": "Shuckle",
         "showdownData": "shuckle",
         "serebii": "shuckle",
-        "bulbapedia": "Shuckle"
+        "bulbapedia": "Shuckle",
+        "homeSprite": "shuckle",
+        "miniSprite": "shuckle"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Pikachu-Partner",
         "showdownData": "pikachupartner",
         "serebii": "pikachu-partner",
-        "bulbapedia": "Pikachu"
+        "bulbapedia": "Pikachu",
+        "homeSprite": "pikachu-partner",
+        "miniSprite": "pikachu-partner"
     },
     "baseSpecies": "pikachu",
     "baseForms": [],

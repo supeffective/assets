@@ -73,7 +73,9 @@
         "showdownMarkup": "Stantler",
         "showdownData": "stantler",
         "serebii": "stantler",
-        "bulbapedia": "Stantler"
+        "bulbapedia": "Stantler",
+        "homeSprite": "stantler",
+        "miniSprite": "stantler"
     },
     "baseSpecies": null,
     "baseForms": [],

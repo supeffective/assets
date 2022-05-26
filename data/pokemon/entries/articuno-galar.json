@@ -73,7 +73,9 @@
         "showdownMarkup": "Articuno-Galar",
         "showdownData": "articunogalar",
         "serebii": "articuno-galar",
-        "bulbapedia": "Articuno"
+        "bulbapedia": "Articuno",
+        "homeSprite": "articuno-galar",
+        "miniSprite": "articuno-galar"
     },
     "baseSpecies": "articuno",
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Scrafty",
         "showdownData": "scrafty",
         "serebii": "scrafty",
-        "bulbapedia": "Scrafty"
+        "bulbapedia": "Scrafty",
+        "homeSprite": "scrafty",
+        "miniSprite": "scrafty"
     },
     "baseSpecies": null,
     "baseForms": [],

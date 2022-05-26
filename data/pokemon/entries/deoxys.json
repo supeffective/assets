@@ -73,7 +73,9 @@
         "showdownMarkup": "Deoxys",
         "showdownData": "deoxys",
         "serebii": "deoxys",
-        "bulbapedia": "Deoxys"
+        "bulbapedia": "Deoxys",
+        "homeSprite": "deoxys",
+        "miniSprite": "deoxys"
     },
     "baseSpecies": null,
     "baseForms": [],

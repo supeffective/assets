@@ -73,7 +73,9 @@
         "showdownMarkup": "Pikachu-Hoenn",
         "showdownData": "pikachuhoenn",
         "serebii": "pikachu-hoenn",
-        "bulbapedia": "Pikachu"
+        "bulbapedia": "Pikachu",
+        "homeSprite": "pikachu-hoenn",
+        "miniSprite": "pikachu-hoenn"
     },
     "baseSpecies": "pikachu",
     "baseForms": [],

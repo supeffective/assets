@@ -73,7 +73,9 @@
         "showdownMarkup": "Haunter",
         "showdownData": "haunter",
         "serebii": "haunter",
-        "bulbapedia": "Haunter"
+        "bulbapedia": "Haunter",
+        "homeSprite": "haunter",
+        "miniSprite": "haunter"
     },
     "baseSpecies": null,
     "baseForms": [],

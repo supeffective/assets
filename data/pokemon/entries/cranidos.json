@@ -73,7 +73,9 @@
         "showdownMarkup": "Cranidos",
         "showdownData": "cranidos",
         "serebii": "cranidos",
-        "bulbapedia": "Cranidos"
+        "bulbapedia": "Cranidos",
+        "homeSprite": "cranidos",
+        "miniSprite": "cranidos"
     },
     "baseSpecies": null,
     "baseForms": [],

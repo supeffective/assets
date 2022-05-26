@@ -73,7 +73,9 @@
         "showdownMarkup": "Alcremie-Ruby-Cream-Flower",
         "showdownData": "alcremierubycreamflower",
         "serebii": "alcremie-ruby-cream-flower",
-        "bulbapedia": "Alcremie"
+        "bulbapedia": "Alcremie",
+        "homeSprite": "alcremie-ruby-cream-flower",
+        "miniSprite": "alcremie-ruby-cream-flower"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

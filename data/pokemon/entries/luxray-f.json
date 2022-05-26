@@ -73,7 +73,9 @@
         "showdownMarkup": "Luxray-F",
         "showdownData": "luxrayf",
         "serebii": "luxray-f",
-        "bulbapedia": "Luxray"
+        "bulbapedia": "Luxray",
+        "homeSprite": "luxray-f",
+        "miniSprite": "luxray-f"
     },
     "baseSpecies": "luxray",
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Arcanine",
         "showdownData": "arcanine",
         "serebii": "arcanine",
-        "bulbapedia": "Arcanine"
+        "bulbapedia": "Arcanine",
+        "homeSprite": "arcanine",
+        "miniSprite": "arcanine"
     },
     "baseSpecies": null,
     "baseForms": [],

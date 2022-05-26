@@ -73,7 +73,9 @@
         "showdownMarkup": "Trubbish",
         "showdownData": "trubbish",
         "serebii": "trubbish",
-        "bulbapedia": "Trubbish"
+        "bulbapedia": "Trubbish",
+        "homeSprite": "trubbish",
+        "miniSprite": "trubbish"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Luvdisc",
         "showdownData": "luvdisc",
         "serebii": "luvdisc",
-        "bulbapedia": "Luvdisc"
+        "bulbapedia": "Luvdisc",
+        "homeSprite": "luvdisc",
+        "miniSprite": "luvdisc"
     },
     "baseSpecies": null,
     "baseForms": [],

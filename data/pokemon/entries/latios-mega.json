@@ -71,7 +71,9 @@
         "showdownMarkup": "Latios-Mega",
         "showdownData": "latiosmega",
         "serebii": "latios-mega",
-        "bulbapedia": "Latios"
+        "bulbapedia": "Latios",
+        "homeSprite": "latios-mega",
+        "miniSprite": "latios-mega"
     },
     "baseSpecies": "latios",
     "baseForms": [

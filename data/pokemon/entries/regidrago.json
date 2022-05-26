@@ -73,7 +73,9 @@
         "showdownMarkup": "Regidrago",
         "showdownData": "regidrago",
         "serebii": "regidrago",
-        "bulbapedia": "Regidrago"
+        "bulbapedia": "Regidrago",
+        "homeSprite": "regidrago",
+        "miniSprite": "regidrago"
     },
     "baseSpecies": null,
     "baseForms": [],

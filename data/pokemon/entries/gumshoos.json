@@ -73,7 +73,9 @@
         "showdownMarkup": "Gumshoos",
         "showdownData": "gumshoos",
         "serebii": "gumshoos",
-        "bulbapedia": "Gumshoos"
+        "bulbapedia": "Gumshoos",
+        "homeSprite": "gumshoos",
+        "miniSprite": "gumshoos"
     },
     "baseSpecies": null,
     "baseForms": [],

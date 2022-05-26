@@ -73,7 +73,9 @@
         "showdownMarkup": "Shuppet",
         "showdownData": "shuppet",
         "serebii": "shuppet",
-        "bulbapedia": "Shuppet"
+        "bulbapedia": "Shuppet",
+        "homeSprite": "shuppet",
+        "miniSprite": "shuppet"
     },
     "baseSpecies": null,
     "baseForms": [],

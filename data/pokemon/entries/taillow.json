@@ -73,7 +73,9 @@
         "showdownMarkup": "Taillow",
         "showdownData": "taillow",
         "serebii": "taillow",
-        "bulbapedia": "Taillow"
+        "bulbapedia": "Taillow",
+        "homeSprite": "taillow",
+        "miniSprite": "taillow"
     },
     "baseSpecies": null,
     "baseForms": [],

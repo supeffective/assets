@@ -71,7 +71,9 @@
         "showdownMarkup": "Urshifu-Rapid-Strike-Gmax",
         "showdownData": "urshifurapidstrikegmax",
         "serebii": "urshifu-rapid-strike-gmax",
-        "bulbapedia": "Urshifu"
+        "bulbapedia": "Urshifu",
+        "homeSprite": "urshifu-rapid-strike-gmax",
+        "miniSprite": "urshifu-rapid-strike-gmax"
     },
     "baseSpecies": "urshifu",
     "baseForms": [

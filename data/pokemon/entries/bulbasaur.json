@@ -73,7 +73,9 @@
         "showdownMarkup": "Bulbasaur",
         "showdownData": "bulbasaur",
         "serebii": "bulbasaur",
-        "bulbapedia": "Bulbasaur"
+        "bulbapedia": "Bulbasaur",
+        "homeSprite": "bulbasaur",
+        "miniSprite": "bulbasaur"
     },
     "baseSpecies": null,
     "baseForms": [],

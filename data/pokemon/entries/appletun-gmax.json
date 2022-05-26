@@ -71,7 +71,9 @@
         "showdownMarkup": "Appletun-Gmax",
         "showdownData": "appletungmax",
         "serebii": "appletun-gmax",
-        "bulbapedia": "Appletun"
+        "bulbapedia": "Appletun",
+        "homeSprite": "appletun-gmax",
+        "miniSprite": "appletun-gmax"
     },
     "baseSpecies": "appletun",
     "baseForms": [

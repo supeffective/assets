@@ -73,7 +73,9 @@
         "showdownMarkup": "Archeops",
         "showdownData": "archeops",
         "serebii": "archeops",
-        "bulbapedia": "Archeops"
+        "bulbapedia": "Archeops",
+        "homeSprite": "archeops",
+        "miniSprite": "archeops"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Vaporeon",
         "showdownData": "vaporeon",
         "serebii": "vaporeon",
-        "bulbapedia": "Vaporeon"
+        "bulbapedia": "Vaporeon",
+        "homeSprite": "vaporeon",
+        "miniSprite": "vaporeon"
     },
     "baseSpecies": null,
     "baseForms": [],

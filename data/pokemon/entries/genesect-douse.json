@@ -71,7 +71,9 @@
         "showdownMarkup": "Genesect-Douse",
         "showdownData": "genesectdouse",
         "serebii": "genesect-douse",
-        "bulbapedia": "Genesect"
+        "bulbapedia": "Genesect",
+        "homeSprite": "genesect-douse",
+        "miniSprite": "genesect-douse"
     },
     "baseSpecies": "genesect",
     "baseForms": [

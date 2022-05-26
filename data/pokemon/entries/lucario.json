@@ -73,7 +73,9 @@
         "showdownMarkup": "Lucario",
         "showdownData": "lucario",
         "serebii": "lucario",
-        "bulbapedia": "Lucario"
+        "bulbapedia": "Lucario",
+        "homeSprite": "lucario",
+        "miniSprite": "lucario"
     },
     "baseSpecies": null,
     "baseForms": [],

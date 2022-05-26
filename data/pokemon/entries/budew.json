@@ -73,7 +73,9 @@
         "showdownMarkup": "Budew",
         "showdownData": "budew",
         "serebii": "budew",
-        "bulbapedia": "Budew"
+        "bulbapedia": "Budew",
+        "homeSprite": "budew",
+        "miniSprite": "budew"
     },
     "baseSpecies": null,
     "baseForms": [],

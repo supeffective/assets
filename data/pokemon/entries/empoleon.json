@@ -73,7 +73,9 @@
         "showdownMarkup": "Empoleon",
         "showdownData": "empoleon",
         "serebii": "empoleon",
-        "bulbapedia": "Empoleon"
+        "bulbapedia": "Empoleon",
+        "homeSprite": "empoleon",
+        "miniSprite": "empoleon"
     },
     "baseSpecies": null,
     "baseForms": [],

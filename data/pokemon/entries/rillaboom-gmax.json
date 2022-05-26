@@ -71,7 +71,9 @@
         "showdownMarkup": "Rillaboom-Gmax",
         "showdownData": "rillaboomgmax",
         "serebii": "rillaboom-gmax",
-        "bulbapedia": "Rillaboom"
+        "bulbapedia": "Rillaboom",
+        "homeSprite": "rillaboom-gmax",
+        "miniSprite": "rillaboom-gmax"
     },
     "baseSpecies": "rillaboom",
     "baseForms": [

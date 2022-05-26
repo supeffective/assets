@@ -73,7 +73,9 @@
         "showdownMarkup": "Morgrem",
         "showdownData": "morgrem",
         "serebii": "morgrem",
-        "bulbapedia": "Morgrem"
+        "bulbapedia": "Morgrem",
+        "homeSprite": "morgrem",
+        "miniSprite": "morgrem"
     },
     "baseSpecies": null,
     "baseForms": [],

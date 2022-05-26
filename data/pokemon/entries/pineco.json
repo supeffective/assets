@@ -73,7 +73,9 @@
         "showdownMarkup": "Pineco",
         "showdownData": "pineco",
         "serebii": "pineco",
-        "bulbapedia": "Pineco"
+        "bulbapedia": "Pineco",
+        "homeSprite": "pineco",
+        "miniSprite": "pineco"
     },
     "baseSpecies": null,
     "baseForms": [],

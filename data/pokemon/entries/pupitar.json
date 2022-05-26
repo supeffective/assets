@@ -73,7 +73,9 @@
         "showdownMarkup": "Pupitar",
         "showdownData": "pupitar",
         "serebii": "pupitar",
-        "bulbapedia": "Pupitar"
+        "bulbapedia": "Pupitar",
+        "homeSprite": "pupitar",
+        "miniSprite": "pupitar"
     },
     "baseSpecies": null,
     "baseForms": [],

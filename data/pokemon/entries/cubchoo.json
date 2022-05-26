@@ -73,7 +73,9 @@
         "showdownMarkup": "Cubchoo",
         "showdownData": "cubchoo",
         "serebii": "cubchoo",
-        "bulbapedia": "Cubchoo"
+        "bulbapedia": "Cubchoo",
+        "homeSprite": "cubchoo",
+        "miniSprite": "cubchoo"
     },
     "baseSpecies": null,
     "baseForms": [],

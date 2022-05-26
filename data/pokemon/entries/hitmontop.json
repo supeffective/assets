@@ -73,7 +73,9 @@
         "showdownMarkup": "Hitmontop",
         "showdownData": "hitmontop",
         "serebii": "hitmontop",
-        "bulbapedia": "Hitmontop"
+        "bulbapedia": "Hitmontop",
+        "homeSprite": "hitmontop",
+        "miniSprite": "hitmontop"
     },
     "baseSpecies": null,
     "baseForms": [],

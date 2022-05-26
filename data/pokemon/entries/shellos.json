@@ -73,7 +73,9 @@
         "showdownMarkup": "Shellos",
         "showdownData": "shellos",
         "serebii": "shellos",
-        "bulbapedia": "Shellos"
+        "bulbapedia": "Shellos",
+        "homeSprite": "shellos",
+        "miniSprite": "shellos"
     },
     "baseSpecies": null,
     "baseForms": [],

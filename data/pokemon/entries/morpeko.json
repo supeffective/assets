@@ -73,7 +73,9 @@
         "showdownMarkup": "Morpeko",
         "showdownData": "morpeko",
         "serebii": "morpeko",
-        "bulbapedia": "Morpeko"
+        "bulbapedia": "Morpeko",
+        "homeSprite": "morpeko",
+        "miniSprite": "morpeko"
     },
     "baseSpecies": null,
     "baseForms": [],

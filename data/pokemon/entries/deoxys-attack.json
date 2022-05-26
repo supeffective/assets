@@ -73,7 +73,9 @@
         "showdownMarkup": "Deoxys-Attack",
         "showdownData": "deoxysattack",
         "serebii": "deoxys-attack",
-        "bulbapedia": "Deoxys"
+        "bulbapedia": "Deoxys",
+        "homeSprite": "deoxys-attack",
+        "miniSprite": "deoxys-attack"
     },
     "baseSpecies": "deoxys",
     "baseForms": [

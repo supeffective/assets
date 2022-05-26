@@ -73,7 +73,9 @@
         "showdownMarkup": "Meganium-F",
         "showdownData": "meganiumf",
         "serebii": "meganium-f",
-        "bulbapedia": "Meganium"
+        "bulbapedia": "Meganium",
+        "homeSprite": "meganium-f",
+        "miniSprite": "meganium-f"
     },
     "baseSpecies": "meganium",
     "baseForms": [],

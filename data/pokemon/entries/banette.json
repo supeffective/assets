@@ -73,7 +73,9 @@
         "showdownMarkup": "Banette",
         "showdownData": "banette",
         "serebii": "banette",
-        "bulbapedia": "Banette"
+        "bulbapedia": "Banette",
+        "homeSprite": "banette",
+        "miniSprite": "banette"
     },
     "baseSpecies": null,
     "baseForms": [],

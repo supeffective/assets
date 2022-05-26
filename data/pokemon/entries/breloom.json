@@ -73,7 +73,9 @@
         "showdownMarkup": "Breloom",
         "showdownData": "breloom",
         "serebii": "breloom",
-        "bulbapedia": "Breloom"
+        "bulbapedia": "Breloom",
+        "homeSprite": "breloom",
+        "miniSprite": "breloom"
     },
     "baseSpecies": null,
     "baseForms": [],

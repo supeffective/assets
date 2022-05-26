@@ -73,7 +73,9 @@
         "showdownMarkup": "Vanillite",
         "showdownData": "vanillite",
         "serebii": "vanillite",
-        "bulbapedia": "Vanillite"
+        "bulbapedia": "Vanillite",
+        "homeSprite": "vanillite",
+        "miniSprite": "vanillite"
     },
     "baseSpecies": null,
     "baseForms": [],

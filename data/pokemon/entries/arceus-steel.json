@@ -71,7 +71,9 @@
         "showdownMarkup": "Arceus-Steel",
         "showdownData": "arceussteel",
         "serebii": "arceus-steel",
-        "bulbapedia": "Arceus"
+        "bulbapedia": "Arceus",
+        "homeSprite": "arceus-steel",
+        "miniSprite": "arceus-steel"
     },
     "baseSpecies": "arceus",
     "baseForms": [

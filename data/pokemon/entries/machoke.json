@@ -73,7 +73,9 @@
         "showdownMarkup": "Machoke",
         "showdownData": "machoke",
         "serebii": "machoke",
-        "bulbapedia": "Machoke"
+        "bulbapedia": "Machoke",
+        "homeSprite": "machoke",
+        "miniSprite": "machoke"
     },
     "baseSpecies": null,
     "baseForms": [],

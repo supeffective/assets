@@ -73,7 +73,9 @@
         "showdownMarkup": "Deerling",
         "showdownData": "deerling",
         "serebii": "deerling",
-        "bulbapedia": "Deerling"
+        "bulbapedia": "Deerling",
+        "homeSprite": "deerling",
+        "miniSprite": "deerling"
     },
     "baseSpecies": null,
     "baseForms": [],

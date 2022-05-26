@@ -71,7 +71,9 @@
         "showdownMarkup": "Gardevoir-Mega",
         "showdownData": "gardevoirmega",
         "serebii": "gardevoir-mega",
-        "bulbapedia": "Gardevoir"
+        "bulbapedia": "Gardevoir",
+        "homeSprite": "gardevoir-mega",
+        "miniSprite": "gardevoir-mega"
     },
     "baseSpecies": "gardevoir",
     "baseForms": [

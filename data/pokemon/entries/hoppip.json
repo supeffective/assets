@@ -73,7 +73,9 @@
         "showdownMarkup": "Hoppip",
         "showdownData": "hoppip",
         "serebii": "hoppip",
-        "bulbapedia": "Hoppip"
+        "bulbapedia": "Hoppip",
+        "homeSprite": "hoppip",
+        "miniSprite": "hoppip"
     },
     "baseSpecies": null,
     "baseForms": [],

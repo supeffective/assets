@@ -71,7 +71,9 @@
         "showdownMarkup": "Flapple-Gmax",
         "showdownData": "flapplegmax",
         "serebii": "flapple-gmax",
-        "bulbapedia": "Flapple"
+        "bulbapedia": "Flapple",
+        "homeSprite": "flapple-gmax",
+        "miniSprite": "flapple-gmax"
     },
     "baseSpecies": "flapple",
     "baseForms": [

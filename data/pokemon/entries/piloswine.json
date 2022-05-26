@@ -73,7 +73,9 @@
         "showdownMarkup": "Piloswine",
         "showdownData": "piloswine",
         "serebii": "piloswine",
-        "bulbapedia": "Piloswine"
+        "bulbapedia": "Piloswine",
+        "homeSprite": "piloswine",
+        "miniSprite": "piloswine"
     },
     "baseSpecies": null,
     "baseForms": [],

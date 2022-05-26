@@ -73,7 +73,9 @@
         "showdownMarkup": "Gulpin-F",
         "showdownData": "gulpinf",
         "serebii": "gulpin-f",
-        "bulbapedia": "Gulpin"
+        "bulbapedia": "Gulpin",
+        "homeSprite": "gulpin-f",
+        "miniSprite": "gulpin-f"
     },
     "baseSpecies": "gulpin",
     "baseForms": [],

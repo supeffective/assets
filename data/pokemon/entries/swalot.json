@@ -73,7 +73,9 @@
         "showdownMarkup": "Swalot",
         "showdownData": "swalot",
         "serebii": "swalot",
-        "bulbapedia": "Swalot"
+        "bulbapedia": "Swalot",
+        "homeSprite": "swalot",
+        "miniSprite": "swalot"
     },
     "baseSpecies": null,
     "baseForms": [],

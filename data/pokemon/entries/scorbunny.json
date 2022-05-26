@@ -73,7 +73,9 @@
         "showdownMarkup": "Scorbunny",
         "showdownData": "scorbunny",
         "serebii": "scorbunny",
-        "bulbapedia": "Scorbunny"
+        "bulbapedia": "Scorbunny",
+        "homeSprite": "scorbunny",
+        "miniSprite": "scorbunny"
     },
     "baseSpecies": null,
     "baseForms": [],

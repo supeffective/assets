@@ -73,7 +73,9 @@
         "showdownMarkup": "Pachirisu-F",
         "showdownData": "pachirisuf",
         "serebii": "pachirisu-f",
-        "bulbapedia": "Pachirisu"
+        "bulbapedia": "Pachirisu",
+        "homeSprite": "pachirisu-f",
+        "miniSprite": "pachirisu-f"
     },
     "baseSpecies": "pachirisu",
     "baseForms": [],

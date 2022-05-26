@@ -71,7 +71,9 @@
         "showdownMarkup": "Aggron-Mega",
         "showdownData": "aggronmega",
         "serebii": "aggron-mega",
-        "bulbapedia": "Aggron"
+        "bulbapedia": "Aggron",
+        "homeSprite": "aggron-mega",
+        "miniSprite": "aggron-mega"
     },
     "baseSpecies": "aggron",
     "baseForms": [

@@ -73,7 +73,9 @@
         "showdownMarkup": "Seedot",
         "showdownData": "seedot",
         "serebii": "seedot",
-        "bulbapedia": "Seedot"
+        "bulbapedia": "Seedot",
+        "homeSprite": "seedot",
+        "miniSprite": "seedot"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Vivillon-Monsoon",
         "showdownData": "vivillonmonsoon",
         "serebii": "vivillon-monsoon",
-        "bulbapedia": "Vivillon"
+        "bulbapedia": "Vivillon",
+        "homeSprite": "vivillon-monsoon",
+        "miniSprite": "vivillon-monsoon"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

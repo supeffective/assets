@@ -73,7 +73,9 @@
         "showdownMarkup": "Regirock",
         "showdownData": "regirock",
         "serebii": "regirock",
-        "bulbapedia": "Regirock"
+        "bulbapedia": "Regirock",
+        "homeSprite": "regirock",
+        "miniSprite": "regirock"
     },
     "baseSpecies": null,
     "baseForms": [],

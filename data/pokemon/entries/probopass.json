@@ -73,7 +73,9 @@
         "showdownMarkup": "Probopass",
         "showdownData": "probopass",
         "serebii": "probopass",
-        "bulbapedia": "Probopass"
+        "bulbapedia": "Probopass",
+        "homeSprite": "probopass",
+        "miniSprite": "probopass"
     },
     "baseSpecies": null,
     "baseForms": [],

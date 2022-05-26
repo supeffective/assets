@@ -73,7 +73,9 @@
         "showdownMarkup": "Sylveon",
         "showdownData": "sylveon",
         "serebii": "sylveon",
-        "bulbapedia": "Sylveon"
+        "bulbapedia": "Sylveon",
+        "homeSprite": "sylveon",
+        "miniSprite": "sylveon"
     },
     "baseSpecies": null,
     "baseForms": [],

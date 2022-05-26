@@ -73,7 +73,9 @@
         "showdownMarkup": "Blastoise",
         "showdownData": "blastoise",
         "serebii": "blastoise",
-        "bulbapedia": "Blastoise"
+        "bulbapedia": "Blastoise",
+        "homeSprite": "blastoise",
+        "miniSprite": "blastoise"
     },
     "baseSpecies": null,
     "baseForms": [],

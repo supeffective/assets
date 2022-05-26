@@ -73,7 +73,9 @@
         "showdownMarkup": "Gible-F",
         "showdownData": "giblef",
         "serebii": "gible-f",
-        "bulbapedia": "Gible"
+        "bulbapedia": "Gible",
+        "homeSprite": "gible-f",
+        "miniSprite": "gible-f"
     },
     "baseSpecies": "gible",
     "baseForms": [],

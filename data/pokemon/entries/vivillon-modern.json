@@ -73,7 +73,9 @@
         "showdownMarkup": "Vivillon-Modern",
         "showdownData": "vivillonmodern",
         "serebii": "vivillon-modern",
-        "bulbapedia": "Vivillon"
+        "bulbapedia": "Vivillon",
+        "homeSprite": "vivillon-modern",
+        "miniSprite": "vivillon-modern"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

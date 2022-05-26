@@ -73,7 +73,9 @@
         "showdownMarkup": "Raboot",
         "showdownData": "raboot",
         "serebii": "raboot",
-        "bulbapedia": "Raboot"
+        "bulbapedia": "Raboot",
+        "homeSprite": "raboot",
+        "miniSprite": "raboot"
     },
     "baseSpecies": null,
     "baseForms": [],

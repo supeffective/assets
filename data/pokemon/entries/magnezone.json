@@ -73,7 +73,9 @@
         "showdownMarkup": "Magnezone",
         "showdownData": "magnezone",
         "serebii": "magnezone",
-        "bulbapedia": "Magnezone"
+        "bulbapedia": "Magnezone",
+        "homeSprite": "magnezone",
+        "miniSprite": "magnezone"
     },
     "baseSpecies": null,
     "baseForms": [],

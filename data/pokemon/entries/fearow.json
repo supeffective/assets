@@ -73,7 +73,9 @@
         "showdownMarkup": "Fearow",
         "showdownData": "fearow",
         "serebii": "fearow",
-        "bulbapedia": "Fearow"
+        "bulbapedia": "Fearow",
+        "homeSprite": "fearow",
+        "miniSprite": "fearow"
     },
     "baseSpecies": null,
     "baseForms": [],

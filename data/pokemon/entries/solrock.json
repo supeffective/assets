@@ -73,7 +73,9 @@
         "showdownMarkup": "Solrock",
         "showdownData": "solrock",
         "serebii": "solrock",
-        "bulbapedia": "Solrock"
+        "bulbapedia": "Solrock",
+        "homeSprite": "solrock",
+        "miniSprite": "solrock"
     },
     "baseSpecies": null,
     "baseForms": [],

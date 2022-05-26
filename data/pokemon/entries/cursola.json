@@ -73,7 +73,9 @@
         "showdownMarkup": "Cursola",
         "showdownData": "cursola",
         "serebii": "cursola",
-        "bulbapedia": "Cursola"
+        "bulbapedia": "Cursola",
+        "homeSprite": "cursola",
+        "miniSprite": "cursola"
     },
     "baseSpecies": null,
     "baseForms": [],

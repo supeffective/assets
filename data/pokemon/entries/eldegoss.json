@@ -73,7 +73,9 @@
         "showdownMarkup": "Eldegoss",
         "showdownData": "eldegoss",
         "serebii": "eldegoss",
-        "bulbapedia": "Eldegoss"
+        "bulbapedia": "Eldegoss",
+        "homeSprite": "eldegoss",
+        "miniSprite": "eldegoss"
     },
     "baseSpecies": null,
     "baseForms": [],

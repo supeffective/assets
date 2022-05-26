@@ -73,7 +73,9 @@
         "showdownMarkup": "Ninetales",
         "showdownData": "ninetales",
         "serebii": "ninetales",
-        "bulbapedia": "Ninetales"
+        "bulbapedia": "Ninetales",
+        "homeSprite": "ninetales",
+        "miniSprite": "ninetales"
     },
     "baseSpecies": null,
     "baseForms": [],

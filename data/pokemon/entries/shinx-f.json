@@ -73,7 +73,9 @@
         "showdownMarkup": "Shinx-F",
         "showdownData": "shinxf",
         "serebii": "shinx-f",
-        "bulbapedia": "Shinx"
+        "bulbapedia": "Shinx",
+        "homeSprite": "shinx-f",
+        "miniSprite": "shinx-f"
     },
     "baseSpecies": "shinx",
     "baseForms": [],

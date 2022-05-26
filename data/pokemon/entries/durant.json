@@ -73,7 +73,9 @@
         "showdownMarkup": "Durant",
         "showdownData": "durant",
         "serebii": "durant",
-        "bulbapedia": "Durant"
+        "bulbapedia": "Durant",
+        "homeSprite": "durant",
+        "miniSprite": "durant"
     },
     "baseSpecies": null,
     "baseForms": [],

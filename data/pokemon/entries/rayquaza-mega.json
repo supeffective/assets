@@ -71,7 +71,9 @@
         "showdownMarkup": "Rayquaza-Mega",
         "showdownData": "rayquazamega",
         "serebii": "rayquaza-mega",
-        "bulbapedia": "Rayquaza"
+        "bulbapedia": "Rayquaza",
+        "homeSprite": "rayquaza-mega",
+        "miniSprite": "rayquaza-mega"
     },
     "baseSpecies": "rayquaza",
     "baseForms": [

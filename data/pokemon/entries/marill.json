@@ -73,7 +73,9 @@
         "showdownMarkup": "Marill",
         "showdownData": "marill",
         "serebii": "marill",
-        "bulbapedia": "Marill"
+        "bulbapedia": "Marill",
+        "homeSprite": "marill",
+        "miniSprite": "marill"
     },
     "baseSpecies": null,
     "baseForms": [],

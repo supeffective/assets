@@ -73,7 +73,9 @@
         "showdownMarkup": "Machop",
         "showdownData": "machop",
         "serebii": "machop",
-        "bulbapedia": "Machop"
+        "bulbapedia": "Machop",
+        "homeSprite": "machop",
+        "miniSprite": "machop"
     },
     "baseSpecies": null,
     "baseForms": [],

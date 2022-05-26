@@ -73,7 +73,9 @@
         "showdownMarkup": "Dracovish",
         "showdownData": "dracovish",
         "serebii": "dracovish",
-        "bulbapedia": "Dracovish"
+        "bulbapedia": "Dracovish",
+        "homeSprite": "dracovish",
+        "miniSprite": "dracovish"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Wartortle",
         "showdownData": "wartortle",
         "serebii": "wartortle",
-        "bulbapedia": "Wartortle"
+        "bulbapedia": "Wartortle",
+        "homeSprite": "wartortle",
+        "miniSprite": "wartortle"
     },
     "baseSpecies": null,
     "baseForms": [],

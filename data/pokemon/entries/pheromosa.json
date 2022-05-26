@@ -73,7 +73,9 @@
         "showdownMarkup": "Pheromosa",
         "showdownData": "pheromosa",
         "serebii": "pheromosa",
-        "bulbapedia": "Pheromosa"
+        "bulbapedia": "Pheromosa",
+        "homeSprite": "pheromosa",
+        "miniSprite": "pheromosa"
     },
     "baseSpecies": null,
     "baseForms": [],

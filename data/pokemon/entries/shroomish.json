@@ -73,7 +73,9 @@
         "showdownMarkup": "Shroomish",
         "showdownData": "shroomish",
         "serebii": "shroomish",
-        "bulbapedia": "Shroomish"
+        "bulbapedia": "Shroomish",
+        "homeSprite": "shroomish",
+        "miniSprite": "shroomish"
     },
     "baseSpecies": null,
     "baseForms": [],

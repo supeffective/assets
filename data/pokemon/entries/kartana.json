@@ -73,7 +73,9 @@
         "showdownMarkup": "Kartana",
         "showdownData": "kartana",
         "serebii": "kartana",
-        "bulbapedia": "Kartana"
+        "bulbapedia": "Kartana",
+        "homeSprite": "kartana",
+        "miniSprite": "kartana"
     },
     "baseSpecies": null,
     "baseForms": [],

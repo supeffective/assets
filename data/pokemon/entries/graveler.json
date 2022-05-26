@@ -73,7 +73,9 @@
         "showdownMarkup": "Graveler",
         "showdownData": "graveler",
         "serebii": "graveler",
-        "bulbapedia": "Graveler"
+        "bulbapedia": "Graveler",
+        "homeSprite": "graveler",
+        "miniSprite": "graveler"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Yungoos",
         "showdownData": "yungoos",
         "serebii": "yungoos",
-        "bulbapedia": "Yungoos"
+        "bulbapedia": "Yungoos",
+        "homeSprite": "yungoos",
+        "miniSprite": "yungoos"
     },
     "baseSpecies": null,
     "baseForms": [],

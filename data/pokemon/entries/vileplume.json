@@ -73,7 +73,9 @@
         "showdownMarkup": "Vileplume",
         "showdownData": "vileplume",
         "serebii": "vileplume",
-        "bulbapedia": "Vileplume"
+        "bulbapedia": "Vileplume",
+        "homeSprite": "vileplume",
+        "miniSprite": "vileplume"
     },
     "baseSpecies": null,
     "baseForms": [],

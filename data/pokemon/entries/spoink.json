@@ -73,7 +73,9 @@
         "showdownMarkup": "Spoink",
         "showdownData": "spoink",
         "serebii": "spoink",
-        "bulbapedia": "Spoink"
+        "bulbapedia": "Spoink",
+        "homeSprite": "spoink",
+        "miniSprite": "spoink"
     },
     "baseSpecies": null,
     "baseForms": [],

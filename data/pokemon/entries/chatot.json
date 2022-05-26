@@ -73,7 +73,9 @@
         "showdownMarkup": "Chatot",
         "showdownData": "chatot",
         "serebii": "chatot",
-        "bulbapedia": "Chatot"
+        "bulbapedia": "Chatot",
+        "homeSprite": "chatot",
+        "miniSprite": "chatot"
     },
     "baseSpecies": null,
     "baseForms": [],

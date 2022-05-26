@@ -73,7 +73,9 @@
         "showdownMarkup": "Seismitoad",
         "showdownData": "seismitoad",
         "serebii": "seismitoad",
-        "bulbapedia": "Seismitoad"
+        "bulbapedia": "Seismitoad",
+        "homeSprite": "seismitoad",
+        "miniSprite": "seismitoad"
     },
     "baseSpecies": null,
     "baseForms": [],

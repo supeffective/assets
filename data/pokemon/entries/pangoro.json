@@ -73,7 +73,9 @@
         "showdownMarkup": "Pangoro",
         "showdownData": "pangoro",
         "serebii": "pangoro",
-        "bulbapedia": "Pangoro"
+        "bulbapedia": "Pangoro",
+        "homeSprite": "pangoro",
+        "miniSprite": "pangoro"
     },
     "baseSpecies": null,
     "baseForms": [],

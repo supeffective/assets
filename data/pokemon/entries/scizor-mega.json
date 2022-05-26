@@ -71,7 +71,9 @@
         "showdownMarkup": "Scizor-Mega",
         "showdownData": "scizormega",
         "serebii": "scizor-mega",
-        "bulbapedia": "Scizor"
+        "bulbapedia": "Scizor",
+        "homeSprite": "scizor-mega",
+        "miniSprite": "scizor-mega"
     },
     "baseSpecies": "scizor",
     "baseForms": [

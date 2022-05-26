@@ -73,7 +73,9 @@
         "showdownMarkup": "Terrakion",
         "showdownData": "terrakion",
         "serebii": "terrakion",
-        "bulbapedia": "Terrakion"
+        "bulbapedia": "Terrakion",
+        "homeSprite": "terrakion",
+        "miniSprite": "terrakion"
     },
     "baseSpecies": null,
     "baseForms": [],

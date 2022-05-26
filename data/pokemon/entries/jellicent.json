@@ -73,7 +73,9 @@
         "showdownMarkup": "Jellicent",
         "showdownData": "jellicent",
         "serebii": "jellicent",
-        "bulbapedia": "Jellicent"
+        "bulbapedia": "Jellicent",
+        "homeSprite": "jellicent",
+        "miniSprite": "jellicent"
     },
     "baseSpecies": null,
     "baseForms": [],

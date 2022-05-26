@@ -73,7 +73,9 @@
         "showdownMarkup": "Wormadam-Sandy",
         "showdownData": "wormadamsandy",
         "serebii": "wormadam-sandy",
-        "bulbapedia": "Wormadam"
+        "bulbapedia": "Wormadam",
+        "homeSprite": "wormadam-sandy",
+        "miniSprite": "wormadam-sandy"
     },
     "baseSpecies": "wormadam",
     "baseForms": [],

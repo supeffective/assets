@@ -71,7 +71,9 @@
         "showdownMarkup": "Abomasnow-Mega",
         "showdownData": "abomasnowmega",
         "serebii": "abomasnow-mega",
-        "bulbapedia": "Abomasnow"
+        "bulbapedia": "Abomasnow",
+        "homeSprite": "abomasnow-mega",
+        "miniSprite": "abomasnow-mega"
     },
     "baseSpecies": "abomasnow",
     "baseForms": [

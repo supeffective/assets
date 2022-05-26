@@ -73,7 +73,9 @@
         "showdownMarkup": "Dialga",
         "showdownData": "dialga",
         "serebii": "dialga",
-        "bulbapedia": "Dialga"
+        "bulbapedia": "Dialga",
+        "homeSprite": "dialga",
+        "miniSprite": "dialga"
     },
     "baseSpecies": null,
     "baseForms": [],

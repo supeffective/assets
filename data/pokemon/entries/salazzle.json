@@ -73,7 +73,9 @@
         "showdownMarkup": "Salazzle",
         "showdownData": "salazzle",
         "serebii": "salazzle",
-        "bulbapedia": "Salazzle"
+        "bulbapedia": "Salazzle",
+        "homeSprite": "salazzle",
+        "miniSprite": "salazzle"
     },
     "baseSpecies": null,
     "baseForms": [],

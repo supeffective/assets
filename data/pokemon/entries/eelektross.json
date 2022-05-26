@@ -73,7 +73,9 @@
         "showdownMarkup": "Eelektross",
         "showdownData": "eelektross",
         "serebii": "eelektross",
-        "bulbapedia": "Eelektross"
+        "bulbapedia": "Eelektross",
+        "homeSprite": "eelektross",
+        "miniSprite": "eelektross"
     },
     "baseSpecies": null,
     "baseForms": [],

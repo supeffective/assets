@@ -73,7 +73,9 @@
         "showdownMarkup": "Froslass",
         "showdownData": "froslass",
         "serebii": "froslass",
-        "bulbapedia": "Froslass"
+        "bulbapedia": "Froslass",
+        "homeSprite": "froslass",
+        "miniSprite": "froslass"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -76,7 +76,9 @@
         "showdownMarkup": "Necrozma-Dawn-Wings",
         "showdownData": "necrozmadawnwings",
         "serebii": "necrozma-dawn-wings",
-        "bulbapedia": "Necrozma"
+        "bulbapedia": "Necrozma",
+        "homeSprite": "necrozma-dawn-wings",
+        "miniSprite": "necrozma-dawn-wings"
     },
     "baseSpecies": "necrozma",
     "baseForms": [

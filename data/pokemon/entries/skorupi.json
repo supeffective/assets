@@ -73,7 +73,9 @@
         "showdownMarkup": "Skorupi",
         "showdownData": "skorupi",
         "serebii": "skorupi",
-        "bulbapedia": "Skorupi"
+        "bulbapedia": "Skorupi",
+        "homeSprite": "skorupi",
+        "miniSprite": "skorupi"
     },
     "baseSpecies": null,
     "baseForms": [],

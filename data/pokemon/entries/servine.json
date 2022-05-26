@@ -73,7 +73,9 @@
         "showdownMarkup": "Servine",
         "showdownData": "servine",
         "serebii": "servine",
-        "bulbapedia": "Servine"
+        "bulbapedia": "Servine",
+        "homeSprite": "servine",
+        "miniSprite": "servine"
     },
     "baseSpecies": null,
     "baseForms": [],

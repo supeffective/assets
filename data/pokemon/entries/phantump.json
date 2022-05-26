@@ -73,7 +73,9 @@
         "showdownMarkup": "Phantump",
         "showdownData": "phantump",
         "serebii": "phantump",
-        "bulbapedia": "Phantump"
+        "bulbapedia": "Phantump",
+        "homeSprite": "phantump",
+        "miniSprite": "phantump"
     },
     "baseSpecies": null,
     "baseForms": [],

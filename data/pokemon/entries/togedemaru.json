@@ -73,7 +73,9 @@
         "showdownMarkup": "Togedemaru",
         "showdownData": "togedemaru",
         "serebii": "togedemaru",
-        "bulbapedia": "Togedemaru"
+        "bulbapedia": "Togedemaru",
+        "homeSprite": "togedemaru",
+        "miniSprite": "togedemaru"
     },
     "baseSpecies": null,
     "baseForms": [],

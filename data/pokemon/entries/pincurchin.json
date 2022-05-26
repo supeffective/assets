@@ -73,7 +73,9 @@
         "showdownMarkup": "Pincurchin",
         "showdownData": "pincurchin",
         "serebii": "pincurchin",
-        "bulbapedia": "Pincurchin"
+        "bulbapedia": "Pincurchin",
+        "homeSprite": "pincurchin",
+        "miniSprite": "pincurchin"
     },
     "baseSpecies": null,
     "baseForms": [],

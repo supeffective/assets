@@ -73,7 +73,9 @@
         "showdownMarkup": "Sawk",
         "showdownData": "sawk",
         "serebii": "sawk",
-        "bulbapedia": "Sawk"
+        "bulbapedia": "Sawk",
+        "homeSprite": "sawk",
+        "miniSprite": "sawk"
     },
     "baseSpecies": null,
     "baseForms": [],

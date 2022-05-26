@@ -71,7 +71,9 @@
         "showdownMarkup": "Minior",
         "showdownData": "minior",
         "serebii": "minior",
-        "bulbapedia": "Minior Meteor Form"
+        "bulbapedia": "Minior Meteor Form",
+        "homeSprite": "minior",
+        "miniSprite": "minior"
     },
     "baseSpecies": null,
     "baseForms": [

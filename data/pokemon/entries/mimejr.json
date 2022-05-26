@@ -73,7 +73,9 @@
         "showdownMarkup": "Mimejr",
         "showdownData": "mimejr",
         "serebii": "mimejr",
-        "bulbapedia": "Mime Jr."
+        "bulbapedia": "Mime Jr.",
+        "homeSprite": "mimejr",
+        "miniSprite": "mimejr"
     },
     "baseSpecies": null,
     "baseForms": [],

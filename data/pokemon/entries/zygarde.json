@@ -73,7 +73,9 @@
         "showdownMarkup": "Zygarde",
         "showdownData": "zygarde",
         "serebii": "zygarde",
-        "bulbapedia": "Zygarde"
+        "bulbapedia": "Zygarde",
+        "homeSprite": "zygarde",
+        "miniSprite": "zygarde"
     },
     "baseSpecies": null,
     "baseForms": [],

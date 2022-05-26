@@ -73,7 +73,9 @@
         "showdownMarkup": "Wooper",
         "showdownData": "wooper",
         "serebii": "wooper",
-        "bulbapedia": "Wooper"
+        "bulbapedia": "Wooper",
+        "homeSprite": "wooper",
+        "miniSprite": "wooper"
     },
     "baseSpecies": null,
     "baseForms": [],

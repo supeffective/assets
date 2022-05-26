@@ -73,7 +73,9 @@
         "showdownMarkup": "Wingull",
         "showdownData": "wingull",
         "serebii": "wingull",
-        "bulbapedia": "Wingull"
+        "bulbapedia": "Wingull",
+        "homeSprite": "wingull",
+        "miniSprite": "wingull"
     },
     "baseSpecies": null,
     "baseForms": [],

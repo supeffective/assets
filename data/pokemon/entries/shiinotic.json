@@ -73,7 +73,9 @@
         "showdownMarkup": "Shiinotic",
         "showdownData": "shiinotic",
         "serebii": "shiinotic",
-        "bulbapedia": "Shiinotic"
+        "bulbapedia": "Shiinotic",
+        "homeSprite": "shiinotic",
+        "miniSprite": "shiinotic"
     },
     "baseSpecies": null,
     "baseForms": [],

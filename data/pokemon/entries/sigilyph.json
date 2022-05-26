@@ -73,7 +73,9 @@
         "showdownMarkup": "Sigilyph",
         "showdownData": "sigilyph",
         "serebii": "sigilyph",
-        "bulbapedia": "Sigilyph"
+        "bulbapedia": "Sigilyph",
+        "homeSprite": "sigilyph",
+        "miniSprite": "sigilyph"
     },
     "baseSpecies": null,
     "baseForms": [],

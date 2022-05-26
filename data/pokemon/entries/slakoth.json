@@ -73,7 +73,9 @@
         "showdownMarkup": "Slakoth",
         "showdownData": "slakoth",
         "serebii": "slakoth",
-        "bulbapedia": "Slakoth"
+        "bulbapedia": "Slakoth",
+        "homeSprite": "slakoth",
+        "miniSprite": "slakoth"
     },
     "baseSpecies": null,
     "baseForms": [],

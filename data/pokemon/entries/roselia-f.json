@@ -73,7 +73,9 @@
         "showdownMarkup": "Roselia-F",
         "showdownData": "roseliaf",
         "serebii": "roselia-f",
-        "bulbapedia": "Roselia"
+        "bulbapedia": "Roselia",
+        "homeSprite": "roselia-f",
+        "miniSprite": "roselia-f"
     },
     "baseSpecies": "roselia",
     "baseForms": [],

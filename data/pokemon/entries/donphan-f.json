@@ -73,7 +73,9 @@
         "showdownMarkup": "Donphan-F",
         "showdownData": "donphanf",
         "serebii": "donphan-f",
-        "bulbapedia": "Donphan"
+        "bulbapedia": "Donphan",
+        "homeSprite": "donphan-f",
+        "miniSprite": "donphan-f"
     },
     "baseSpecies": "donphan",
     "baseForms": [],

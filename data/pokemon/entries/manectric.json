@@ -73,7 +73,9 @@
         "showdownMarkup": "Manectric",
         "showdownData": "manectric",
         "serebii": "manectric",
-        "bulbapedia": "Manectric"
+        "bulbapedia": "Manectric",
+        "homeSprite": "manectric",
+        "miniSprite": "manectric"
     },
     "baseSpecies": null,
     "baseForms": [],

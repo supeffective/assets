@@ -73,7 +73,9 @@
         "showdownMarkup": "Rhydon",
         "showdownData": "rhydon",
         "serebii": "rhydon",
-        "bulbapedia": "Rhydon"
+        "bulbapedia": "Rhydon",
+        "homeSprite": "rhydon",
+        "miniSprite": "rhydon"
     },
     "baseSpecies": null,
     "baseForms": [],

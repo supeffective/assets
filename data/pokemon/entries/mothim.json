@@ -73,7 +73,9 @@
         "showdownMarkup": "Mothim",
         "showdownData": "mothim",
         "serebii": "mothim",
-        "bulbapedia": "Mothim"
+        "bulbapedia": "Mothim",
+        "homeSprite": "mothim",
+        "miniSprite": "mothim"
     },
     "baseSpecies": null,
     "baseForms": [],

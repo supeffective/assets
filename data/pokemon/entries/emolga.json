@@ -73,7 +73,9 @@
         "showdownMarkup": "Emolga",
         "showdownData": "emolga",
         "serebii": "emolga",
-        "bulbapedia": "Emolga"
+        "bulbapedia": "Emolga",
+        "homeSprite": "emolga",
+        "miniSprite": "emolga"
     },
     "baseSpecies": null,
     "baseForms": [],

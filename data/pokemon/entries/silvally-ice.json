@@ -71,7 +71,9 @@
         "showdownMarkup": "Silvally-Ice",
         "showdownData": "silvallyice",
         "serebii": "silvally-ice",
-        "bulbapedia": "Silvally"
+        "bulbapedia": "Silvally",
+        "homeSprite": "silvally-ice",
+        "miniSprite": "silvally-ice"
     },
     "baseSpecies": "silvally",
     "baseForms": [

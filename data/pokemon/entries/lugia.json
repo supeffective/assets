@@ -73,7 +73,9 @@
         "showdownMarkup": "Lugia",
         "showdownData": "lugia",
         "serebii": "lugia",
-        "bulbapedia": "Lugia"
+        "bulbapedia": "Lugia",
+        "homeSprite": "lugia",
+        "miniSprite": "lugia"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Vullaby",
         "showdownData": "vullaby",
         "serebii": "vullaby",
-        "bulbapedia": "Vullaby"
+        "bulbapedia": "Vullaby",
+        "homeSprite": "vullaby",
+        "miniSprite": "vullaby"
     },
     "baseSpecies": null,
     "baseForms": [],

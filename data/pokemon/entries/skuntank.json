@@ -73,7 +73,9 @@
         "showdownMarkup": "Skuntank",
         "showdownData": "skuntank",
         "serebii": "skuntank",
-        "bulbapedia": "Skuntank"
+        "bulbapedia": "Skuntank",
+        "homeSprite": "skuntank",
+        "miniSprite": "skuntank"
     },
     "baseSpecies": null,
     "baseForms": [],

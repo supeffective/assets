@@ -71,7 +71,9 @@
         "showdownMarkup": "Eevee-Gmax",
         "showdownData": "eeveegmax",
         "serebii": "eevee-gmax",
-        "bulbapedia": "Eevee"
+        "bulbapedia": "Eevee",
+        "homeSprite": "eevee-gmax",
+        "miniSprite": "eevee-gmax"
     },
     "baseSpecies": "eevee",
     "baseForms": [

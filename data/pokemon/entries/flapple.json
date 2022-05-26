@@ -73,7 +73,9 @@
         "showdownMarkup": "Flapple",
         "showdownData": "flapple",
         "serebii": "flapple",
-        "bulbapedia": "Flapple"
+        "bulbapedia": "Flapple",
+        "homeSprite": "flapple",
+        "miniSprite": "flapple"
     },
     "baseSpecies": null,
     "baseForms": [],

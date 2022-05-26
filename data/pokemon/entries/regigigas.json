@@ -73,7 +73,9 @@
         "showdownMarkup": "Regigigas",
         "showdownData": "regigigas",
         "serebii": "regigigas",
-        "bulbapedia": "Regigigas"
+        "bulbapedia": "Regigigas",
+        "homeSprite": "regigigas",
+        "miniSprite": "regigigas"
     },
     "baseSpecies": null,
     "baseForms": [],

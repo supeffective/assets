@@ -73,7 +73,9 @@
         "showdownMarkup": "Shedinja",
         "showdownData": "shedinja",
         "serebii": "shedinja",
-        "bulbapedia": "Shedinja"
+        "bulbapedia": "Shedinja",
+        "homeSprite": "shedinja",
+        "miniSprite": "shedinja"
     },
     "baseSpecies": null,
     "baseForms": [],

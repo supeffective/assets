@@ -73,7 +73,9 @@
         "showdownMarkup": "Cofagrigus",
         "showdownData": "cofagrigus",
         "serebii": "cofagrigus",
-        "bulbapedia": "Cofagrigus"
+        "bulbapedia": "Cofagrigus",
+        "homeSprite": "cofagrigus",
+        "miniSprite": "cofagrigus"
     },
     "baseSpecies": null,
     "baseForms": [],

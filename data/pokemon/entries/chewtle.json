@@ -73,7 +73,9 @@
         "showdownMarkup": "Chewtle",
         "showdownData": "chewtle",
         "serebii": "chewtle",
-        "bulbapedia": "Chewtle"
+        "bulbapedia": "Chewtle",
+        "homeSprite": "chewtle",
+        "miniSprite": "chewtle"
     },
     "baseSpecies": null,
     "baseForms": [],

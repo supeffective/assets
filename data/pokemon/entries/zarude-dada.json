@@ -73,7 +73,9 @@
         "showdownMarkup": "Zarude-Dada",
         "showdownData": "zarudedada",
         "serebii": "zarude-dada",
-        "bulbapedia": "Zarude"
+        "bulbapedia": "Zarude",
+        "homeSprite": "zarude-dada",
+        "miniSprite": "zarude-dada"
     },
     "baseSpecies": "zarude",
     "baseForms": [],

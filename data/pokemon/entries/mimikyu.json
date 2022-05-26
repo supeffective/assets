@@ -73,7 +73,9 @@
         "showdownMarkup": "Mimikyu",
         "showdownData": "mimikyu",
         "serebii": "mimikyu",
-        "bulbapedia": "Mimikyu"
+        "bulbapedia": "Mimikyu",
+        "homeSprite": "mimikyu",
+        "miniSprite": "mimikyu"
     },
     "baseSpecies": null,
     "baseForms": [],

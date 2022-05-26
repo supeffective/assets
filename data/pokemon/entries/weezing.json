@@ -73,7 +73,9 @@
         "showdownMarkup": "Weezing",
         "showdownData": "weezing",
         "serebii": "weezing",
-        "bulbapedia": "Weezing"
+        "bulbapedia": "Weezing",
+        "homeSprite": "weezing",
+        "miniSprite": "weezing"
     },
     "baseSpecies": null,
     "baseForms": [],

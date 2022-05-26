@@ -73,7 +73,9 @@
         "showdownMarkup": null,
         "showdownData": null,
         "serebii": null,
-        "bulbapedia": null
+        "bulbapedia": null,
+        "homeSprite": "sneasler",
+        "miniSprite": "sneasler"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Goodra",
         "showdownData": "goodra",
         "serebii": "goodra",
-        "bulbapedia": "Goodra"
+        "bulbapedia": "Goodra",
+        "homeSprite": "goodra",
+        "miniSprite": "goodra"
     },
     "baseSpecies": null,
     "baseForms": [],

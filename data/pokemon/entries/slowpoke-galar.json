@@ -73,7 +73,9 @@
         "showdownMarkup": "Slowpoke-Galar",
         "showdownData": "slowpokegalar",
         "serebii": "slowpoke-galar",
-        "bulbapedia": "Slowpoke"
+        "bulbapedia": "Slowpoke",
+        "homeSprite": "slowpoke-galar",
+        "miniSprite": "slowpoke-galar"
     },
     "baseSpecies": "slowpoke",
     "baseForms": [],

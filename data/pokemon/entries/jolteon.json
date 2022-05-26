@@ -73,7 +73,9 @@
         "showdownMarkup": "Jolteon",
         "showdownData": "jolteon",
         "serebii": "jolteon",
-        "bulbapedia": "Jolteon"
+        "bulbapedia": "Jolteon",
+        "homeSprite": "jolteon",
+        "miniSprite": "jolteon"
     },
     "baseSpecies": null,
     "baseForms": [],

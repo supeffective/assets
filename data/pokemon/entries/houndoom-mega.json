@@ -71,7 +71,9 @@
         "showdownMarkup": "Houndoom-Mega",
         "showdownData": "houndoommega",
         "serebii": "houndoom-mega",
-        "bulbapedia": "Houndoom"
+        "bulbapedia": "Houndoom",
+        "homeSprite": "houndoom-mega",
+        "miniSprite": "houndoom-mega"
     },
     "baseSpecies": "houndoom",
     "baseForms": [

@@ -73,7 +73,9 @@
         "showdownMarkup": null,
         "showdownData": null,
         "serebii": null,
-        "bulbapedia": null
+        "bulbapedia": null,
+        "homeSprite": "growlithe-hisui",
+        "miniSprite": "growlithe-hisui"
     },
     "baseSpecies": null,
     "baseForms": [],

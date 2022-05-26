@@ -73,7 +73,9 @@
         "showdownMarkup": "Elekid",
         "showdownData": "elekid",
         "serebii": "elekid",
-        "bulbapedia": "Elekid"
+        "bulbapedia": "Elekid",
+        "homeSprite": "elekid",
+        "miniSprite": "elekid"
     },
     "baseSpecies": null,
     "baseForms": [],

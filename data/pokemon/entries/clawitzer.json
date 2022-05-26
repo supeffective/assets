@@ -73,7 +73,9 @@
         "showdownMarkup": "Clawitzer",
         "showdownData": "clawitzer",
         "serebii": "clawitzer",
-        "bulbapedia": "Clawitzer"
+        "bulbapedia": "Clawitzer",
+        "homeSprite": "clawitzer",
+        "miniSprite": "clawitzer"
     },
     "baseSpecies": null,
     "baseForms": [],

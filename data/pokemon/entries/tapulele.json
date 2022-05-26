@@ -73,7 +73,9 @@
         "showdownMarkup": "Tapulele",
         "showdownData": "tapulele",
         "serebii": "tapulele",
-        "bulbapedia": "Tapu Lele"
+        "bulbapedia": "Tapu Lele",
+        "homeSprite": "tapulele",
+        "miniSprite": "tapulele"
     },
     "baseSpecies": null,
     "baseForms": [],

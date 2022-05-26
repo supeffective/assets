@@ -73,7 +73,9 @@
         "showdownMarkup": "Torkoal",
         "showdownData": "torkoal",
         "serebii": "torkoal",
-        "bulbapedia": "Torkoal"
+        "bulbapedia": "Torkoal",
+        "homeSprite": "torkoal",
+        "miniSprite": "torkoal"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Electivire",
         "showdownData": "electivire",
         "serebii": "electivire",
-        "bulbapedia": "Electivire"
+        "bulbapedia": "Electivire",
+        "homeSprite": "electivire",
+        "miniSprite": "electivire"
     },
     "baseSpecies": null,
     "baseForms": [],

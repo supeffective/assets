@@ -73,7 +73,9 @@
         "showdownMarkup": "Lopunny",
         "showdownData": "lopunny",
         "serebii": "lopunny",
-        "bulbapedia": "Lopunny"
+        "bulbapedia": "Lopunny",
+        "homeSprite": "lopunny",
+        "miniSprite": "lopunny"
     },
     "baseSpecies": null,
     "baseForms": [],

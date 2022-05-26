@@ -73,7 +73,9 @@
         "showdownMarkup": "Furret",
         "showdownData": "furret",
         "serebii": "furret",
-        "bulbapedia": "Furret"
+        "bulbapedia": "Furret",
+        "homeSprite": "furret",
+        "miniSprite": "furret"
     },
     "baseSpecies": null,
     "baseForms": [],

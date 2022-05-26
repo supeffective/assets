@@ -71,7 +71,9 @@
         "showdownMarkup": "Gengar-Mega",
         "showdownData": "gengarmega",
         "serebii": "gengar-mega",
-        "bulbapedia": "Gengar"
+        "bulbapedia": "Gengar",
+        "homeSprite": "gengar-mega",
+        "miniSprite": "gengar-mega"
     },
     "baseSpecies": "gengar",
     "baseForms": [

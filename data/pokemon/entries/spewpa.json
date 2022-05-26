@@ -73,7 +73,9 @@
         "showdownMarkup": "Spewpa",
         "showdownData": "spewpa",
         "serebii": "spewpa",
-        "bulbapedia": "Spewpa"
+        "bulbapedia": "Spewpa",
+        "homeSprite": "spewpa",
+        "miniSprite": "spewpa"
     },
     "baseSpecies": null,
     "baseForms": [],

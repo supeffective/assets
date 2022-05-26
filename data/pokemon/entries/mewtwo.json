@@ -73,7 +73,9 @@
         "showdownMarkup": "Mewtwo",
         "showdownData": "mewtwo",
         "serebii": "mewtwo",
-        "bulbapedia": "Mewtwo"
+        "bulbapedia": "Mewtwo",
+        "homeSprite": "mewtwo",
+        "miniSprite": "mewtwo"
     },
     "baseSpecies": null,
     "baseForms": [],

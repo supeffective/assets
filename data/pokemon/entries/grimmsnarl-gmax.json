@@ -71,7 +71,9 @@
         "showdownMarkup": "Grimmsnarl-Gmax",
         "showdownData": "grimmsnarlgmax",
         "serebii": "grimmsnarl-gmax",
-        "bulbapedia": "Grimmsnarl"
+        "bulbapedia": "Grimmsnarl",
+        "homeSprite": "grimmsnarl-gmax",
+        "miniSprite": "grimmsnarl-gmax"
     },
     "baseSpecies": "grimmsnarl",
     "baseForms": [

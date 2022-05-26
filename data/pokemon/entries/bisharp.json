@@ -73,7 +73,9 @@
         "showdownMarkup": "Bisharp",
         "showdownData": "bisharp",
         "serebii": "bisharp",
-        "bulbapedia": "Bisharp"
+        "bulbapedia": "Bisharp",
+        "homeSprite": "bisharp",
+        "miniSprite": "bisharp"
     },
     "baseSpecies": null,
     "baseForms": [],

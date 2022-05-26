@@ -73,7 +73,9 @@
         "showdownMarkup": "Torterra",
         "showdownData": "torterra",
         "serebii": "torterra",
-        "bulbapedia": "Torterra"
+        "bulbapedia": "Torterra",
+        "homeSprite": "torterra",
+        "miniSprite": "torterra"
     },
     "baseSpecies": null,
     "baseForms": [],

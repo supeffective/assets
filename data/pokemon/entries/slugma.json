@@ -73,7 +73,9 @@
         "showdownMarkup": "Slugma",
         "showdownData": "slugma",
         "serebii": "slugma",
-        "bulbapedia": "Slugma"
+        "bulbapedia": "Slugma",
+        "homeSprite": "slugma",
+        "miniSprite": "slugma"
     },
     "baseSpecies": null,
     "baseForms": [],

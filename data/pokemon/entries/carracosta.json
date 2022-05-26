@@ -73,7 +73,9 @@
         "showdownMarkup": "Carracosta",
         "showdownData": "carracosta",
         "serebii": "carracosta",
-        "bulbapedia": "Carracosta"
+        "bulbapedia": "Carracosta",
+        "homeSprite": "carracosta",
+        "miniSprite": "carracosta"
     },
     "baseSpecies": null,
     "baseForms": [],

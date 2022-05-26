@@ -73,7 +73,9 @@
         "showdownMarkup": "Herdier",
         "showdownData": "herdier",
         "serebii": "herdier",
-        "bulbapedia": "Herdier"
+        "bulbapedia": "Herdier",
+        "homeSprite": "herdier",
+        "miniSprite": "herdier"
     },
     "baseSpecies": null,
     "baseForms": [],

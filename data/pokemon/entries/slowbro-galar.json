@@ -73,7 +73,9 @@
         "showdownMarkup": "Slowbro-Galar",
         "showdownData": "slowbrogalar",
         "serebii": "slowbro-galar",
-        "bulbapedia": "Slowbro"
+        "bulbapedia": "Slowbro",
+        "homeSprite": "slowbro-galar",
+        "miniSprite": "slowbro-galar"
     },
     "baseSpecies": "slowbro",
     "baseForms": [],

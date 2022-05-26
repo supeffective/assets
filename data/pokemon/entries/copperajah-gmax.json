@@ -71,7 +71,9 @@
         "showdownMarkup": "Copperajah-Gmax",
         "showdownData": "copperajahgmax",
         "serebii": "copperajah-gmax",
-        "bulbapedia": "Copperajah"
+        "bulbapedia": "Copperajah",
+        "homeSprite": "copperajah-gmax",
+        "miniSprite": "copperajah-gmax"
     },
     "baseSpecies": "copperajah",
     "baseForms": [

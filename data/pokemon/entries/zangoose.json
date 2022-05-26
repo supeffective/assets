@@ -73,7 +73,9 @@
         "showdownMarkup": "Zangoose",
         "showdownData": "zangoose",
         "serebii": "zangoose",
-        "bulbapedia": "Zangoose"
+        "bulbapedia": "Zangoose",
+        "homeSprite": "zangoose",
+        "miniSprite": "zangoose"
     },
     "baseSpecies": null,
     "baseForms": [],

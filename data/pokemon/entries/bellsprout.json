@@ -73,7 +73,9 @@
         "showdownMarkup": "Bellsprout",
         "showdownData": "bellsprout",
         "serebii": "bellsprout",
-        "bulbapedia": "Bellsprout"
+        "bulbapedia": "Bellsprout",
+        "homeSprite": "bellsprout",
+        "miniSprite": "bellsprout"
     },
     "baseSpecies": null,
     "baseForms": [],

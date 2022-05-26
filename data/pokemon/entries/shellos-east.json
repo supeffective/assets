@@ -73,7 +73,9 @@
         "showdownMarkup": "Shellos-East",
         "showdownData": "shelloseast",
         "serebii": "shellos-east",
-        "bulbapedia": "Shellos"
+        "bulbapedia": "Shellos",
+        "homeSprite": "shellos-east",
+        "miniSprite": "shellos-east"
     },
     "baseSpecies": "shellos",
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Joltik",
         "showdownData": "joltik",
         "serebii": "joltik",
-        "bulbapedia": "Joltik"
+        "bulbapedia": "Joltik",
+        "homeSprite": "joltik",
+        "miniSprite": "joltik"
     },
     "baseSpecies": null,
     "baseForms": [],

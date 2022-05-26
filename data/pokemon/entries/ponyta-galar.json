@@ -73,7 +73,9 @@
         "showdownMarkup": "Ponyta-Galar",
         "showdownData": "ponytagalar",
         "serebii": "ponyta-galar",
-        "bulbapedia": "Ponyta"
+        "bulbapedia": "Ponyta",
+        "homeSprite": "ponyta-galar",
+        "miniSprite": "ponyta-galar"
     },
     "baseSpecies": "ponyta",
     "baseForms": [],

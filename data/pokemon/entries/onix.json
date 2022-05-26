@@ -73,7 +73,9 @@
         "showdownMarkup": "Onix",
         "showdownData": "onix",
         "serebii": "onix",
-        "bulbapedia": "Onix"
+        "bulbapedia": "Onix",
+        "homeSprite": "onix",
+        "miniSprite": "onix"
     },
     "baseSpecies": null,
     "baseForms": [],

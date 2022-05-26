@@ -73,7 +73,9 @@
         "showdownMarkup": "Vivillon-Tundra",
         "showdownData": "vivillontundra",
         "serebii": "vivillon-tundra",
-        "bulbapedia": "Vivillon"
+        "bulbapedia": "Vivillon",
+        "homeSprite": "vivillon-tundra",
+        "miniSprite": "vivillon-tundra"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Charmeleon",
         "showdownData": "charmeleon",
         "serebii": "charmeleon",
-        "bulbapedia": "Charmeleon"
+        "bulbapedia": "Charmeleon",
+        "homeSprite": "charmeleon",
+        "miniSprite": "charmeleon"
     },
     "baseSpecies": null,
     "baseForms": [],

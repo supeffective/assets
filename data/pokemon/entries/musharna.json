@@ -73,7 +73,9 @@
         "showdownMarkup": "Musharna",
         "showdownData": "musharna",
         "serebii": "musharna",
-        "bulbapedia": "Musharna"
+        "bulbapedia": "Musharna",
+        "homeSprite": "musharna",
+        "miniSprite": "musharna"
     },
     "baseSpecies": null,
     "baseForms": [],

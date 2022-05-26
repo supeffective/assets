@@ -73,7 +73,9 @@
         "showdownMarkup": "Kabutops",
         "showdownData": "kabutops",
         "serebii": "kabutops",
-        "bulbapedia": "Kabutops"
+        "bulbapedia": "Kabutops",
+        "homeSprite": "kabutops",
+        "miniSprite": "kabutops"
     },
     "baseSpecies": null,
     "baseForms": [],

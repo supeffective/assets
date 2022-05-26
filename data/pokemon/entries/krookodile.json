@@ -73,7 +73,9 @@
         "showdownMarkup": "Krookodile",
         "showdownData": "krookodile",
         "serebii": "krookodile",
-        "bulbapedia": "Krookodile"
+        "bulbapedia": "Krookodile",
+        "homeSprite": "krookodile",
+        "miniSprite": "krookodile"
     },
     "baseSpecies": null,
     "baseForms": [],

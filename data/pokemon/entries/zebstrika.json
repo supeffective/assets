@@ -73,7 +73,9 @@
         "showdownMarkup": "Zebstrika",
         "showdownData": "zebstrika",
         "serebii": "zebstrika",
-        "bulbapedia": "Zebstrika"
+        "bulbapedia": "Zebstrika",
+        "homeSprite": "zebstrika",
+        "miniSprite": "zebstrika"
     },
     "baseSpecies": null,
     "baseForms": [],

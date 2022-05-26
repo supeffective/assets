@@ -73,7 +73,9 @@
         "showdownMarkup": "Bunnelby",
         "showdownData": "bunnelby",
         "serebii": "bunnelby",
-        "bulbapedia": "Bunnelby"
+        "bulbapedia": "Bunnelby",
+        "homeSprite": "bunnelby",
+        "miniSprite": "bunnelby"
     },
     "baseSpecies": null,
     "baseForms": [],

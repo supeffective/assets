@@ -71,7 +71,9 @@
         "showdownMarkup": "Sableye-Mega",
         "showdownData": "sableyemega",
         "serebii": "sableye-mega",
-        "bulbapedia": "Sableye"
+        "bulbapedia": "Sableye",
+        "homeSprite": "sableye-mega",
+        "miniSprite": "sableye-mega"
     },
     "baseSpecies": "sableye",
     "baseForms": [

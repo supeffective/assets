@@ -73,7 +73,9 @@
         "showdownMarkup": "Raikou",
         "showdownData": "raikou",
         "serebii": "raikou",
-        "bulbapedia": "Raikou"
+        "bulbapedia": "Raikou",
+        "homeSprite": "raikou",
+        "miniSprite": "raikou"
     },
     "baseSpecies": null,
     "baseForms": [],

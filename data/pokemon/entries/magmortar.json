@@ -73,7 +73,9 @@
         "showdownMarkup": "Magmortar",
         "showdownData": "magmortar",
         "serebii": "magmortar",
-        "bulbapedia": "Magmortar"
+        "bulbapedia": "Magmortar",
+        "homeSprite": "magmortar",
+        "miniSprite": "magmortar"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Unown-Exclamation",
         "showdownData": "unownexclamation",
         "serebii": "unown-exclamation",
-        "bulbapedia": "Unown"
+        "bulbapedia": "Unown",
+        "homeSprite": "unown-exclamation",
+        "miniSprite": "unown-exclamation"
     },
     "baseSpecies": "unown",
     "baseForms": [],

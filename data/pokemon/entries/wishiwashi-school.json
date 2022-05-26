@@ -71,7 +71,9 @@
         "showdownMarkup": "Wishiwashi-School",
         "showdownData": "wishiwashischool",
         "serebii": "wishiwashi-school",
-        "bulbapedia": "Wishiwashi"
+        "bulbapedia": "Wishiwashi",
+        "homeSprite": "wishiwashi-school",
+        "miniSprite": "wishiwashi-school"
     },
     "baseSpecies": "wishiwashi",
     "baseForms": [

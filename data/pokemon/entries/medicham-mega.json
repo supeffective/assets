@@ -71,7 +71,9 @@
         "showdownMarkup": "Medicham-Mega",
         "showdownData": "medichammega",
         "serebii": "medicham-mega",
-        "bulbapedia": "Medicham"
+        "bulbapedia": "Medicham",
+        "homeSprite": "medicham-mega",
+        "miniSprite": "medicham-mega"
     },
     "baseSpecies": "medicham",
     "baseForms": [

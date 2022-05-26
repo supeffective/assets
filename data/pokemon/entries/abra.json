@@ -73,7 +73,9 @@
         "showdownMarkup": "Abra",
         "showdownData": "abra",
         "serebii": "abra",
-        "bulbapedia": "Abra"
+        "bulbapedia": "Abra",
+        "homeSprite": "abra",
+        "miniSprite": "abra"
     },
     "baseSpecies": null,
     "baseForms": [],

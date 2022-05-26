@@ -73,7 +73,9 @@
         "showdownMarkup": "Yamask",
         "showdownData": "yamask",
         "serebii": "yamask",
-        "bulbapedia": "Yamask"
+        "bulbapedia": "Yamask",
+        "homeSprite": "yamask",
+        "miniSprite": "yamask"
     },
     "baseSpecies": null,
     "baseForms": [],

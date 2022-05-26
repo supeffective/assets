@@ -71,7 +71,9 @@
         "showdownMarkup": "Silvally-Water",
         "showdownData": "silvallywater",
         "serebii": "silvally-water",
-        "bulbapedia": "Silvally"
+        "bulbapedia": "Silvally",
+        "homeSprite": "silvally-water",
+        "miniSprite": "silvally-water"
     },
     "baseSpecies": "silvally",
     "baseForms": [

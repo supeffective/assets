@@ -73,7 +73,9 @@
         "showdownMarkup": "Kubfu",
         "showdownData": "kubfu",
         "serebii": "kubfu",
-        "bulbapedia": "Kubfu"
+        "bulbapedia": "Kubfu",
+        "homeSprite": "kubfu",
+        "miniSprite": "kubfu"
     },
     "baseSpecies": null,
     "baseForms": [],

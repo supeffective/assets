@@ -71,7 +71,9 @@
         "showdownMarkup": "Gengar-Gmax",
         "showdownData": "gengargmax",
         "serebii": "gengar-gmax",
-        "bulbapedia": "Gengar"
+        "bulbapedia": "Gengar",
+        "homeSprite": "gengar-gmax",
+        "miniSprite": "gengar-gmax"
     },
     "baseSpecies": "gengar",
     "baseForms": [

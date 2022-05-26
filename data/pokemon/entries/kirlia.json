@@ -73,7 +73,9 @@
         "showdownMarkup": "Kirlia",
         "showdownData": "kirlia",
         "serebii": "kirlia",
-        "bulbapedia": "Kirlia"
+        "bulbapedia": "Kirlia",
+        "homeSprite": "kirlia",
+        "miniSprite": "kirlia"
     },
     "baseSpecies": null,
     "baseForms": [],

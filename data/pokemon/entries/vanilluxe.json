@@ -73,7 +73,9 @@
         "showdownMarkup": "Vanilluxe",
         "showdownData": "vanilluxe",
         "serebii": "vanilluxe",
-        "bulbapedia": "Vanilluxe"
+        "bulbapedia": "Vanilluxe",
+        "homeSprite": "vanilluxe",
+        "miniSprite": "vanilluxe"
     },
     "baseSpecies": null,
     "baseForms": [],

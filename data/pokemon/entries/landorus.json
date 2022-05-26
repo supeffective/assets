@@ -73,7 +73,9 @@
         "showdownMarkup": "Landorus",
         "showdownData": "landorus",
         "serebii": "landorus",
-        "bulbapedia": "Landorus"
+        "bulbapedia": "Landorus",
+        "homeSprite": "landorus",
+        "miniSprite": "landorus"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Boltund",
         "showdownData": "boltund",
         "serebii": "boltund",
-        "bulbapedia": "Boltund"
+        "bulbapedia": "Boltund",
+        "homeSprite": "boltund",
+        "miniSprite": "boltund"
     },
     "baseSpecies": null,
     "baseForms": [],

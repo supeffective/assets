@@ -73,7 +73,9 @@
         "showdownMarkup": "Komala",
         "showdownData": "komala",
         "serebii": "komala",
-        "bulbapedia": "Komala"
+        "bulbapedia": "Komala",
+        "homeSprite": "komala",
+        "miniSprite": "komala"
     },
     "baseSpecies": null,
     "baseForms": [],

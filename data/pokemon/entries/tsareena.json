@@ -73,7 +73,9 @@
         "showdownMarkup": "Tsareena",
         "showdownData": "tsareena",
         "serebii": "tsareena",
-        "bulbapedia": "Tsareena"
+        "bulbapedia": "Tsareena",
+        "homeSprite": "tsareena",
+        "miniSprite": "tsareena"
     },
     "baseSpecies": null,
     "baseForms": [],

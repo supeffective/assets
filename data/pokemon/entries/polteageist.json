@@ -73,7 +73,9 @@
         "showdownMarkup": "Polteageist",
         "showdownData": "polteageist",
         "serebii": "polteageist",
-        "bulbapedia": "Polteageist"
+        "bulbapedia": "Polteageist",
+        "homeSprite": "polteageist",
+        "miniSprite": "polteageist"
     },
     "baseSpecies": null,
     "baseForms": [],

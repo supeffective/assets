@@ -73,7 +73,9 @@
         "showdownMarkup": "Hitmonlee",
         "showdownData": "hitmonlee",
         "serebii": "hitmonlee",
-        "bulbapedia": "Hitmonlee"
+        "bulbapedia": "Hitmonlee",
+        "homeSprite": "hitmonlee",
+        "miniSprite": "hitmonlee"
     },
     "baseSpecies": null,
     "baseForms": [],

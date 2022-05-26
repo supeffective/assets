@@ -73,7 +73,9 @@
         "showdownMarkup": "Hippowdon-F",
         "showdownData": "hippowdonf",
         "serebii": "hippowdon-f",
-        "bulbapedia": "Hippowdon"
+        "bulbapedia": "Hippowdon",
+        "homeSprite": "hippowdon-f",
+        "miniSprite": "hippowdon-f"
     },
     "baseSpecies": "hippowdon",
     "baseForms": [],

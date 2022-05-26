@@ -73,7 +73,9 @@
         "showdownMarkup": "Jigglypuff",
         "showdownData": "jigglypuff",
         "serebii": "jigglypuff",
-        "bulbapedia": "Jigglypuff"
+        "bulbapedia": "Jigglypuff",
+        "homeSprite": "jigglypuff",
+        "miniSprite": "jigglypuff"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Obstagoon",
         "showdownData": "obstagoon",
         "serebii": "obstagoon",
-        "bulbapedia": "Obstagoon"
+        "bulbapedia": "Obstagoon",
+        "homeSprite": "obstagoon",
+        "miniSprite": "obstagoon"
     },
     "baseSpecies": null,
     "baseForms": [],

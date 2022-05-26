@@ -73,7 +73,9 @@
         "showdownMarkup": "Kyurem",
         "showdownData": "kyurem",
         "serebii": "kyurem",
-        "bulbapedia": "Kyurem"
+        "bulbapedia": "Kyurem",
+        "homeSprite": "kyurem",
+        "miniSprite": "kyurem"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Scraggy",
         "showdownData": "scraggy",
         "serebii": "scraggy",
-        "bulbapedia": "Scraggy"
+        "bulbapedia": "Scraggy",
+        "homeSprite": "scraggy",
+        "miniSprite": "scraggy"
     },
     "baseSpecies": null,
     "baseForms": [],

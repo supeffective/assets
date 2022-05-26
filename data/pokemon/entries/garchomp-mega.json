@@ -71,7 +71,9 @@
         "showdownMarkup": "Garchomp-Mega",
         "showdownData": "garchompmega",
         "serebii": "garchomp-mega",
-        "bulbapedia": "Garchomp"
+        "bulbapedia": "Garchomp",
+        "homeSprite": "garchomp-mega",
+        "miniSprite": "garchomp-mega"
     },
     "baseSpecies": "garchomp",
     "baseForms": [

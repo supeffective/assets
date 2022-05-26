@@ -73,7 +73,9 @@
         "showdownMarkup": "Watchog",
         "showdownData": "watchog",
         "serebii": "watchog",
-        "bulbapedia": "Watchog"
+        "bulbapedia": "Watchog",
+        "homeSprite": "watchog",
+        "miniSprite": "watchog"
     },
     "baseSpecies": null,
     "baseForms": [],

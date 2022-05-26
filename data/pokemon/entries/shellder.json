@@ -73,7 +73,9 @@
         "showdownMarkup": "Shellder",
         "showdownData": "shellder",
         "serebii": "shellder",
-        "bulbapedia": "Shellder"
+        "bulbapedia": "Shellder",
+        "homeSprite": "shellder",
+        "miniSprite": "shellder"
     },
     "baseSpecies": null,
     "baseForms": [],

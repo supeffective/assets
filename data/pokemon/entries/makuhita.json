@@ -73,7 +73,9 @@
         "showdownMarkup": "Makuhita",
         "showdownData": "makuhita",
         "serebii": "makuhita",
-        "bulbapedia": "Makuhita"
+        "bulbapedia": "Makuhita",
+        "homeSprite": "makuhita",
+        "miniSprite": "makuhita"
     },
     "baseSpecies": null,
     "baseForms": [],

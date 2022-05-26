@@ -73,7 +73,9 @@
         "showdownMarkup": "Toxel",
         "showdownData": "toxel",
         "serebii": "toxel",
-        "bulbapedia": "Toxel"
+        "bulbapedia": "Toxel",
+        "homeSprite": "toxel",
+        "miniSprite": "toxel"
     },
     "baseSpecies": null,
     "baseForms": [],

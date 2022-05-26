@@ -73,7 +73,9 @@
         "showdownMarkup": "Cinderace",
         "showdownData": "cinderace",
         "serebii": "cinderace",
-        "bulbapedia": "Cinderace"
+        "bulbapedia": "Cinderace",
+        "homeSprite": "cinderace",
+        "miniSprite": "cinderace"
     },
     "baseSpecies": null,
     "baseForms": [],

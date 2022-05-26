@@ -71,7 +71,9 @@
         "showdownMarkup": "Silvally-Dragon",
         "showdownData": "silvallydragon",
         "serebii": "silvally-dragon",
-        "bulbapedia": "Silvally"
+        "bulbapedia": "Silvally",
+        "homeSprite": "silvally-dragon",
+        "miniSprite": "silvally-dragon"
     },
     "baseSpecies": "silvally",
     "baseForms": [

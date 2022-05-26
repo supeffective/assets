@@ -73,7 +73,9 @@
         "showdownMarkup": "Corvisquire",
         "showdownData": "corvisquire",
         "serebii": "corvisquire",
-        "bulbapedia": "Corvisquire"
+        "bulbapedia": "Corvisquire",
+        "homeSprite": "corvisquire",
+        "miniSprite": "corvisquire"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Carnivine",
         "showdownData": "carnivine",
         "serebii": "carnivine",
-        "bulbapedia": "Carnivine"
+        "bulbapedia": "Carnivine",
+        "homeSprite": "carnivine",
+        "miniSprite": "carnivine"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Alcremie-Vanilla-Cream-Love",
         "showdownData": "alcremievanillacreamlove",
         "serebii": "alcremie-vanilla-cream-love",
-        "bulbapedia": "Alcremie"
+        "bulbapedia": "Alcremie",
+        "homeSprite": "alcremie-vanilla-cream-love",
+        "miniSprite": "alcremie-vanilla-cream-love"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

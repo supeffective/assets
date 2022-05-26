@@ -73,7 +73,9 @@
         "showdownMarkup": "Dratini",
         "showdownData": "dratini",
         "serebii": "dratini",
-        "bulbapedia": "Dratini"
+        "bulbapedia": "Dratini",
+        "homeSprite": "dratini",
+        "miniSprite": "dratini"
     },
     "baseSpecies": null,
     "baseForms": [],

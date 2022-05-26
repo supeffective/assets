@@ -73,7 +73,9 @@
         "showdownMarkup": "Frosmoth",
         "showdownData": "frosmoth",
         "serebii": "frosmoth",
-        "bulbapedia": "Frosmoth"
+        "bulbapedia": "Frosmoth",
+        "homeSprite": "frosmoth",
+        "miniSprite": "frosmoth"
     },
     "baseSpecies": null,
     "baseForms": [],

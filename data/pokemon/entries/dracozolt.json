@@ -73,7 +73,9 @@
         "showdownMarkup": "Dracozolt",
         "showdownData": "dracozolt",
         "serebii": "dracozolt",
-        "bulbapedia": "Dracozolt"
+        "bulbapedia": "Dracozolt",
+        "homeSprite": "dracozolt",
+        "miniSprite": "dracozolt"
     },
     "baseSpecies": null,
     "baseForms": [],

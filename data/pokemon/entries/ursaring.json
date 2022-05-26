@@ -73,7 +73,9 @@
         "showdownMarkup": "Ursaring",
         "showdownData": "ursaring",
         "serebii": "ursaring",
-        "bulbapedia": "Ursaring"
+        "bulbapedia": "Ursaring",
+        "homeSprite": "ursaring",
+        "miniSprite": "ursaring"
     },
     "baseSpecies": null,
     "baseForms": [],

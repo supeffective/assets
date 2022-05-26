@@ -71,7 +71,9 @@
         "showdownMarkup": "Silvally-Grass",
         "showdownData": "silvallygrass",
         "serebii": "silvally-grass",
-        "bulbapedia": "Silvally"
+        "bulbapedia": "Silvally",
+        "homeSprite": "silvally-grass",
+        "miniSprite": "silvally-grass"
     },
     "baseSpecies": "silvally",
     "baseForms": [

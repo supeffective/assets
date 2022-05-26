@@ -73,7 +73,9 @@
         "showdownMarkup": "Oricorio-Pom-Pom",
         "showdownData": "oricoriopompom",
         "serebii": "oricorio-pom-pom",
-        "bulbapedia": "Oricorio"
+        "bulbapedia": "Oricorio",
+        "homeSprite": "oricorio-pom-pom",
+        "miniSprite": "oricorio-pom-pom"
     },
     "baseSpecies": "oricorio",
     "baseForms": [],

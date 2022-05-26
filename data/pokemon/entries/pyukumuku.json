@@ -73,7 +73,9 @@
         "showdownMarkup": "Pyukumuku",
         "showdownData": "pyukumuku",
         "serebii": "pyukumuku",
-        "bulbapedia": "Pyukumuku"
+        "bulbapedia": "Pyukumuku",
+        "homeSprite": "pyukumuku",
+        "miniSprite": "pyukumuku"
     },
     "baseSpecies": null,
     "baseForms": [],

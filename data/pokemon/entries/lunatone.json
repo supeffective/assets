@@ -73,7 +73,9 @@
         "showdownMarkup": "Lunatone",
         "showdownData": "lunatone",
         "serebii": "lunatone",
-        "bulbapedia": "Lunatone"
+        "bulbapedia": "Lunatone",
+        "homeSprite": "lunatone",
+        "miniSprite": "lunatone"
     },
     "baseSpecies": null,
     "baseForms": [],

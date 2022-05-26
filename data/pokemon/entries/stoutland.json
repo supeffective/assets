@@ -73,7 +73,9 @@
         "showdownMarkup": "Stoutland",
         "showdownData": "stoutland",
         "serebii": "stoutland",
-        "bulbapedia": "Stoutland"
+        "bulbapedia": "Stoutland",
+        "homeSprite": "stoutland",
+        "miniSprite": "stoutland"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Nidorino",
         "showdownData": "nidorino",
         "serebii": "nidorino",
-        "bulbapedia": "Nidorino"
+        "bulbapedia": "Nidorino",
+        "homeSprite": "nidorino",
+        "miniSprite": "nidorino"
     },
     "baseSpecies": null,
     "baseForms": [],

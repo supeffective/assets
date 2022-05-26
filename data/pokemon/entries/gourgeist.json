@@ -73,7 +73,9 @@
         "showdownMarkup": "Gourgeist",
         "showdownData": "gourgeist",
         "serebii": "gourgeist",
-        "bulbapedia": "Gourgeist"
+        "bulbapedia": "Gourgeist",
+        "homeSprite": "gourgeist",
+        "miniSprite": "gourgeist"
     },
     "baseSpecies": null,
     "baseForms": [],

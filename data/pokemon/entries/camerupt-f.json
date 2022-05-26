@@ -73,7 +73,9 @@
         "showdownMarkup": "Camerupt-F",
         "showdownData": "cameruptf",
         "serebii": "camerupt-f",
-        "bulbapedia": "Camerupt"
+        "bulbapedia": "Camerupt",
+        "homeSprite": "camerupt-f",
+        "miniSprite": "camerupt-f"
     },
     "baseSpecies": "camerupt",
     "baseForms": [],

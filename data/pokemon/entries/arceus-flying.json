@@ -71,7 +71,9 @@
         "showdownMarkup": "Arceus-Flying",
         "showdownData": "arceusflying",
         "serebii": "arceus-flying",
-        "bulbapedia": "Arceus"
+        "bulbapedia": "Arceus",
+        "homeSprite": "arceus-flying",
+        "miniSprite": "arceus-flying"
     },
     "baseSpecies": "arceus",
     "baseForms": [

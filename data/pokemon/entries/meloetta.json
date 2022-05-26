@@ -73,7 +73,9 @@
         "showdownMarkup": "Meloetta",
         "showdownData": "meloetta",
         "serebii": "meloetta",
-        "bulbapedia": "Meloetta"
+        "bulbapedia": "Meloetta",
+        "homeSprite": "meloetta",
+        "miniSprite": "meloetta"
     },
     "baseSpecies": null,
     "baseForms": [],

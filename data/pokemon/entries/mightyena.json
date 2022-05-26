@@ -73,7 +73,9 @@
         "showdownMarkup": "Mightyena",
         "showdownData": "mightyena",
         "serebii": "mightyena",
-        "bulbapedia": "Mightyena"
+        "bulbapedia": "Mightyena",
+        "homeSprite": "mightyena",
+        "miniSprite": "mightyena"
     },
     "baseSpecies": null,
     "baseForms": [],

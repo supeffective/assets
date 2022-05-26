@@ -73,7 +73,9 @@
         "showdownMarkup": "Beedrill",
         "showdownData": "beedrill",
         "serebii": "beedrill",
-        "bulbapedia": "Beedrill"
+        "bulbapedia": "Beedrill",
+        "homeSprite": "beedrill",
+        "miniSprite": "beedrill"
     },
     "baseSpecies": null,
     "baseForms": [],

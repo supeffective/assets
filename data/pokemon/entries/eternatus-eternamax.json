@@ -71,7 +71,9 @@
         "showdownMarkup": "Eternatus-Eternamax",
         "showdownData": "eternatuseternamax",
         "serebii": "eternatus-eternamax",
-        "bulbapedia": "Eternatus"
+        "bulbapedia": "Eternatus",
+        "homeSprite": "eternatus-eternamax",
+        "miniSprite": "eternatus-eternamax"
     },
     "baseSpecies": "eternatus",
     "baseForms": [

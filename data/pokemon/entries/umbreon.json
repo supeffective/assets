@@ -73,7 +73,9 @@
         "showdownMarkup": "Umbreon",
         "showdownData": "umbreon",
         "serebii": "umbreon",
-        "bulbapedia": "Umbreon"
+        "bulbapedia": "Umbreon",
+        "homeSprite": "umbreon",
+        "miniSprite": "umbreon"
     },
     "baseSpecies": null,
     "baseForms": [],

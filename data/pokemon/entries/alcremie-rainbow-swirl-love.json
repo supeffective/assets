@@ -73,7 +73,9 @@
         "showdownMarkup": "Alcremie-Rainbow-Swirl-Love",
         "showdownData": "alcremierainbowswirllove",
         "serebii": "alcremie-rainbow-swirl-love",
-        "bulbapedia": "Alcremie"
+        "bulbapedia": "Alcremie",
+        "homeSprite": "alcremie-rainbow-swirl-love",
+        "miniSprite": "alcremie-rainbow-swirl-love"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

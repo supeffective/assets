@@ -73,7 +73,9 @@
         "showdownMarkup": "Finneon",
         "showdownData": "finneon",
         "serebii": "finneon",
-        "bulbapedia": "Finneon"
+        "bulbapedia": "Finneon",
+        "homeSprite": "finneon",
+        "miniSprite": "finneon"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Braviary",
         "showdownData": "braviary",
         "serebii": "braviary",
-        "bulbapedia": "Braviary"
+        "bulbapedia": "Braviary",
+        "homeSprite": "braviary",
+        "miniSprite": "braviary"
     },
     "baseSpecies": null,
     "baseForms": [],

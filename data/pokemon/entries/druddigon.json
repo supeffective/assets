@@ -73,7 +73,9 @@
         "showdownMarkup": "Druddigon",
         "showdownData": "druddigon",
         "serebii": "druddigon",
-        "bulbapedia": "Druddigon"
+        "bulbapedia": "Druddigon",
+        "homeSprite": "druddigon",
+        "miniSprite": "druddigon"
     },
     "baseSpecies": null,
     "baseForms": [],

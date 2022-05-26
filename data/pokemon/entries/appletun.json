@@ -73,7 +73,9 @@
         "showdownMarkup": "Appletun",
         "showdownData": "appletun",
         "serebii": "appletun",
-        "bulbapedia": "Appletun"
+        "bulbapedia": "Appletun",
+        "homeSprite": "appletun",
+        "miniSprite": "appletun"
     },
     "baseSpecies": null,
     "baseForms": [],

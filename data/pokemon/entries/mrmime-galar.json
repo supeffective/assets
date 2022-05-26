@@ -73,7 +73,9 @@
         "showdownMarkup": "Mrmime-Galar",
         "showdownData": "mrmimegalar",
         "serebii": "mrmime-galar",
-        "bulbapedia": "Mrmime"
+        "bulbapedia": "Mrmime",
+        "homeSprite": "mrmime-galar",
+        "miniSprite": "mrmime-galar"
     },
     "baseSpecies": "mrmime",
     "baseForms": [],

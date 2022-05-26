@@ -73,7 +73,9 @@
         "showdownMarkup": "Barboach",
         "showdownData": "barboach",
         "serebii": "barboach",
-        "bulbapedia": "Barboach"
+        "bulbapedia": "Barboach",
+        "homeSprite": "barboach",
+        "miniSprite": "barboach"
     },
     "baseSpecies": null,
     "baseForms": [],

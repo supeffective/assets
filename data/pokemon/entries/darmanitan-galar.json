@@ -73,7 +73,9 @@
         "showdownMarkup": "Darmanitan-Galar",
         "showdownData": "darmanitangalar",
         "serebii": "darmanitan-galar",
-        "bulbapedia": "Darmanitan"
+        "bulbapedia": "Darmanitan",
+        "homeSprite": "darmanitan-galar",
+        "miniSprite": "darmanitan-galar"
     },
     "baseSpecies": "darmanitan",
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Spearow",
         "showdownData": "spearow",
         "serebii": "spearow",
-        "bulbapedia": "Spearow"
+        "bulbapedia": "Spearow",
+        "homeSprite": "spearow",
+        "miniSprite": "spearow"
     },
     "baseSpecies": null,
     "baseForms": [],

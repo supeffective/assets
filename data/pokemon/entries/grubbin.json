@@ -73,7 +73,9 @@
         "showdownMarkup": "Grubbin",
         "showdownData": "grubbin",
         "serebii": "grubbin",
-        "bulbapedia": "Grubbin"
+        "bulbapedia": "Grubbin",
+        "homeSprite": "grubbin",
+        "miniSprite": "grubbin"
     },
     "baseSpecies": null,
     "baseForms": [],

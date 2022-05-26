@@ -73,7 +73,9 @@
         "showdownMarkup": "Pichu",
         "showdownData": "pichu",
         "serebii": "pichu",
-        "bulbapedia": "Pichu"
+        "bulbapedia": "Pichu",
+        "homeSprite": "pichu",
+        "miniSprite": "pichu"
     },
     "baseSpecies": null,
     "baseForms": [],

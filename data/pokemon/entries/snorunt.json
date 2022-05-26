@@ -73,7 +73,9 @@
         "showdownMarkup": "Snorunt",
         "showdownData": "snorunt",
         "serebii": "snorunt",
-        "bulbapedia": "Snorunt"
+        "bulbapedia": "Snorunt",
+        "homeSprite": "snorunt",
+        "miniSprite": "snorunt"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Mudkip",
         "showdownData": "mudkip",
         "serebii": "mudkip",
-        "bulbapedia": "Mudkip"
+        "bulbapedia": "Mudkip",
+        "homeSprite": "mudkip",
+        "miniSprite": "mudkip"
     },
     "baseSpecies": null,
     "baseForms": [],

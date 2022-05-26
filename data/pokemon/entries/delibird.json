@@ -73,7 +73,9 @@
         "showdownMarkup": "Delibird",
         "showdownData": "delibird",
         "serebii": "delibird",
-        "bulbapedia": "Delibird"
+        "bulbapedia": "Delibird",
+        "homeSprite": "delibird",
+        "miniSprite": "delibird"
     },
     "baseSpecies": null,
     "baseForms": [],

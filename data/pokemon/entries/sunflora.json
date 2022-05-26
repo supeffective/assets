@@ -73,7 +73,9 @@
         "showdownMarkup": "Sunflora",
         "showdownData": "sunflora",
         "serebii": "sunflora",
-        "bulbapedia": "Sunflora"
+        "bulbapedia": "Sunflora",
+        "homeSprite": "sunflora",
+        "miniSprite": "sunflora"
     },
     "baseSpecies": null,
     "baseForms": [],

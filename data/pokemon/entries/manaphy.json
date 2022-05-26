@@ -73,7 +73,9 @@
         "showdownMarkup": "Manaphy",
         "showdownData": "manaphy",
         "serebii": "manaphy",
-        "bulbapedia": "Manaphy"
+        "bulbapedia": "Manaphy",
+        "homeSprite": "manaphy",
+        "miniSprite": "manaphy"
     },
     "baseSpecies": null,
     "baseForms": [],

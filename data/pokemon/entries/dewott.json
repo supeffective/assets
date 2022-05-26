@@ -73,7 +73,9 @@
         "showdownMarkup": "Dewott",
         "showdownData": "dewott",
         "serebii": "dewott",
-        "bulbapedia": "Dewott"
+        "bulbapedia": "Dewott",
+        "homeSprite": "dewott",
+        "miniSprite": "dewott"
     },
     "baseSpecies": null,
     "baseForms": [],

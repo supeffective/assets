@@ -73,7 +73,9 @@
         "showdownMarkup": "Glastrier",
         "showdownData": "glastrier",
         "serebii": "glastrier",
-        "bulbapedia": "Glastrier"
+        "bulbapedia": "Glastrier",
+        "homeSprite": "glastrier",
+        "miniSprite": "glastrier"
     },
     "baseSpecies": null,
     "baseForms": [],

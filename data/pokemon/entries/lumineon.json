@@ -73,7 +73,9 @@
         "showdownMarkup": "Lumineon",
         "showdownData": "lumineon",
         "serebii": "lumineon",
-        "bulbapedia": "Lumineon"
+        "bulbapedia": "Lumineon",
+        "homeSprite": "lumineon",
+        "miniSprite": "lumineon"
     },
     "baseSpecies": null,
     "baseForms": [],

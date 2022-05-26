@@ -73,7 +73,9 @@
         "showdownMarkup": "Toxapex",
         "showdownData": "toxapex",
         "serebii": "toxapex",
-        "bulbapedia": "Toxapex"
+        "bulbapedia": "Toxapex",
+        "homeSprite": "toxapex",
+        "miniSprite": "toxapex"
     },
     "baseSpecies": null,
     "baseForms": [],

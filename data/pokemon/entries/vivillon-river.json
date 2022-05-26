@@ -73,7 +73,9 @@
         "showdownMarkup": "Vivillon-River",
         "showdownData": "vivillonriver",
         "serebii": "vivillon-river",
-        "bulbapedia": "Vivillon"
+        "bulbapedia": "Vivillon",
+        "homeSprite": "vivillon-river",
+        "miniSprite": "vivillon-river"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

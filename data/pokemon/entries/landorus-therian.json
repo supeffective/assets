@@ -73,7 +73,9 @@
         "showdownMarkup": "Landorus-Therian",
         "showdownData": "landorustherian",
         "serebii": "landorus-therian",
-        "bulbapedia": "Landorus"
+        "bulbapedia": "Landorus",
+        "homeSprite": "landorus-therian",
+        "miniSprite": "landorus-therian"
     },
     "baseSpecies": "landorus",
     "baseForms": [

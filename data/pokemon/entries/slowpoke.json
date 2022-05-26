@@ -73,7 +73,9 @@
         "showdownMarkup": "Slowpoke",
         "showdownData": "slowpoke",
         "serebii": "slowpoke",
-        "bulbapedia": "Slowpoke"
+        "bulbapedia": "Slowpoke",
+        "homeSprite": "slowpoke",
+        "miniSprite": "slowpoke"
     },
     "baseSpecies": null,
     "baseForms": [],

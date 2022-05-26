@@ -73,7 +73,9 @@
         "showdownMarkup": "Swellow",
         "showdownData": "swellow",
         "serebii": "swellow",
-        "bulbapedia": "Swellow"
+        "bulbapedia": "Swellow",
+        "homeSprite": "swellow",
+        "miniSprite": "swellow"
     },
     "baseSpecies": null,
     "baseForms": [],

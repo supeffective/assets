@@ -73,7 +73,9 @@
         "showdownMarkup": "Kangaskhan",
         "showdownData": "kangaskhan",
         "serebii": "kangaskhan",
-        "bulbapedia": "Kangaskhan"
+        "bulbapedia": "Kangaskhan",
+        "homeSprite": "kangaskhan",
+        "miniSprite": "kangaskhan"
     },
     "baseSpecies": null,
     "baseForms": [],

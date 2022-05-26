@@ -73,7 +73,9 @@
         "showdownMarkup": "Chespin",
         "showdownData": "chespin",
         "serebii": "chespin",
-        "bulbapedia": "Chespin"
+        "bulbapedia": "Chespin",
+        "homeSprite": "chespin",
+        "miniSprite": "chespin"
     },
     "baseSpecies": null,
     "baseForms": [],

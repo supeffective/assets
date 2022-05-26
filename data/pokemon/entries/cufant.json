@@ -73,7 +73,9 @@
         "showdownMarkup": "Cufant",
         "showdownData": "cufant",
         "serebii": "cufant",
-        "bulbapedia": "Cufant"
+        "bulbapedia": "Cufant",
+        "homeSprite": "cufant",
+        "miniSprite": "cufant"
     },
     "baseSpecies": null,
     "baseForms": [],

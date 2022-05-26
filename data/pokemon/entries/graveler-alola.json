@@ -73,7 +73,9 @@
         "showdownMarkup": "Graveler-Alola",
         "showdownData": "graveleralola",
         "serebii": "graveler-alola",
-        "bulbapedia": "Graveler"
+        "bulbapedia": "Graveler",
+        "homeSprite": "graveler-alola",
+        "miniSprite": "graveler-alola"
     },
     "baseSpecies": "graveler",
     "baseForms": [],

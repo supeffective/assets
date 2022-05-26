@@ -73,7 +73,9 @@
         "showdownMarkup": "Poipole",
         "showdownData": "poipole",
         "serebii": "poipole",
-        "bulbapedia": "Poipole"
+        "bulbapedia": "Poipole",
+        "homeSprite": "poipole",
+        "miniSprite": "poipole"
     },
     "baseSpecies": null,
     "baseForms": [],

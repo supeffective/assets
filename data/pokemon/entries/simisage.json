@@ -73,7 +73,9 @@
         "showdownMarkup": "Simisage",
         "showdownData": "simisage",
         "serebii": "simisage",
-        "bulbapedia": "Simisage"
+        "bulbapedia": "Simisage",
+        "homeSprite": "simisage",
+        "miniSprite": "simisage"
     },
     "baseSpecies": null,
     "baseForms": [],

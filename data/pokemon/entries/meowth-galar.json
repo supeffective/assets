@@ -73,7 +73,9 @@
         "showdownMarkup": "Meowth-Galar",
         "showdownData": "meowthgalar",
         "serebii": "meowth-galar",
-        "bulbapedia": "Meowth"
+        "bulbapedia": "Meowth",
+        "homeSprite": "meowth-galar",
+        "miniSprite": "meowth-galar"
     },
     "baseSpecies": "meowth",
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Tangela",
         "showdownData": "tangela",
         "serebii": "tangela",
-        "bulbapedia": "Tangela"
+        "bulbapedia": "Tangela",
+        "homeSprite": "tangela",
+        "miniSprite": "tangela"
     },
     "baseSpecies": null,
     "baseForms": [],

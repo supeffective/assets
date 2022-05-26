@@ -71,7 +71,9 @@
         "showdownMarkup": "Silvally-Fighting",
         "showdownData": "silvallyfighting",
         "serebii": "silvally-fighting",
-        "bulbapedia": "Silvally"
+        "bulbapedia": "Silvally",
+        "homeSprite": "silvally-fighting",
+        "miniSprite": "silvally-fighting"
     },
     "baseSpecies": "silvally",
     "baseForms": [

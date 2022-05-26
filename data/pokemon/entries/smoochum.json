@@ -73,7 +73,9 @@
         "showdownMarkup": "Smoochum",
         "showdownData": "smoochum",
         "serebii": "smoochum",
-        "bulbapedia": "Smoochum"
+        "bulbapedia": "Smoochum",
+        "homeSprite": "smoochum",
+        "miniSprite": "smoochum"
     },
     "baseSpecies": null,
     "baseForms": [],

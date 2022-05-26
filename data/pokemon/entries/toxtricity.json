@@ -73,7 +73,9 @@
         "showdownMarkup": "Toxtricity",
         "showdownData": "toxtricity",
         "serebii": "toxtricity",
-        "bulbapedia": "Toxtricity"
+        "bulbapedia": "Toxtricity",
+        "homeSprite": "toxtricity",
+        "miniSprite": "toxtricity"
     },
     "baseSpecies": null,
     "baseForms": [],

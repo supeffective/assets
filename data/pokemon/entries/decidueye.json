@@ -73,7 +73,9 @@
         "showdownMarkup": "Decidueye",
         "showdownData": "decidueye",
         "serebii": "decidueye",
-        "bulbapedia": "Decidueye"
+        "bulbapedia": "Decidueye",
+        "homeSprite": "decidueye",
+        "miniSprite": "decidueye"
     },
     "baseSpecies": null,
     "baseForms": [],

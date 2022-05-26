@@ -71,7 +71,9 @@
         "showdownMarkup": "Greninja-Ash",
         "showdownData": "greninjaash",
         "serebii": "greninja-ash",
-        "bulbapedia": "Greninja"
+        "bulbapedia": "Greninja",
+        "homeSprite": "greninja-ash",
+        "miniSprite": "greninja-ash"
     },
     "baseSpecies": "greninja",
     "baseForms": [

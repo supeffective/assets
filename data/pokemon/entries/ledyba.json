@@ -73,7 +73,9 @@
         "showdownMarkup": "Ledyba",
         "showdownData": "ledyba",
         "serebii": "ledyba",
-        "bulbapedia": "Ledyba"
+        "bulbapedia": "Ledyba",
+        "homeSprite": "ledyba",
+        "miniSprite": "ledyba"
     },
     "baseSpecies": null,
     "baseForms": [],

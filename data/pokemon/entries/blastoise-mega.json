@@ -71,7 +71,9 @@
         "showdownMarkup": "Blastoise-Mega",
         "showdownData": "blastoisemega",
         "serebii": "blastoise-mega",
-        "bulbapedia": "Blastoise"
+        "bulbapedia": "Blastoise",
+        "homeSprite": "blastoise-mega",
+        "miniSprite": "blastoise-mega"
     },
     "baseSpecies": "blastoise",
     "baseForms": [

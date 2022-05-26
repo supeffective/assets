@@ -73,7 +73,9 @@
         "showdownMarkup": "Spinarak",
         "showdownData": "spinarak",
         "serebii": "spinarak",
-        "bulbapedia": "Spinarak"
+        "bulbapedia": "Spinarak",
+        "homeSprite": "spinarak",
+        "miniSprite": "spinarak"
     },
     "baseSpecies": null,
     "baseForms": [],

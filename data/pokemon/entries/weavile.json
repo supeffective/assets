@@ -73,7 +73,9 @@
         "showdownMarkup": "Weavile",
         "showdownData": "weavile",
         "serebii": "weavile",
-        "bulbapedia": "Weavile"
+        "bulbapedia": "Weavile",
+        "homeSprite": "weavile",
+        "miniSprite": "weavile"
     },
     "baseSpecies": null,
     "baseForms": [],

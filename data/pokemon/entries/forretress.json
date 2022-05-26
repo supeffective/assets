@@ -73,7 +73,9 @@
         "showdownMarkup": "Forretress",
         "showdownData": "forretress",
         "serebii": "forretress",
-        "bulbapedia": "Forretress"
+        "bulbapedia": "Forretress",
+        "homeSprite": "forretress",
+        "miniSprite": "forretress"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Doublade",
         "showdownData": "doublade",
         "serebii": "doublade",
-        "bulbapedia": "Doublade"
+        "bulbapedia": "Doublade",
+        "homeSprite": "doublade",
+        "miniSprite": "doublade"
     },
     "baseSpecies": null,
     "baseForms": [],

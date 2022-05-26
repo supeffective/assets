@@ -73,7 +73,9 @@
         "showdownMarkup": "Volcanion",
         "showdownData": "volcanion",
         "serebii": "volcanion",
-        "bulbapedia": "Volcanion"
+        "bulbapedia": "Volcanion",
+        "homeSprite": "volcanion",
+        "miniSprite": "volcanion"
     },
     "baseSpecies": null,
     "baseForms": [],

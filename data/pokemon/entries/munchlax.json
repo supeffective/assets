@@ -73,7 +73,9 @@
         "showdownMarkup": "Munchlax",
         "showdownData": "munchlax",
         "serebii": "munchlax",
-        "bulbapedia": "Munchlax"
+        "bulbapedia": "Munchlax",
+        "homeSprite": "munchlax",
+        "miniSprite": "munchlax"
     },
     "baseSpecies": null,
     "baseForms": [],

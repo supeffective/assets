@@ -73,7 +73,9 @@
         "showdownMarkup": "Bonsly",
         "showdownData": "bonsly",
         "serebii": "bonsly",
-        "bulbapedia": "Bonsly"
+        "bulbapedia": "Bonsly",
+        "homeSprite": "bonsly",
+        "miniSprite": "bonsly"
     },
     "baseSpecies": null,
     "baseForms": [],

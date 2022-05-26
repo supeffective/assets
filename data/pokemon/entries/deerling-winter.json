@@ -73,7 +73,9 @@
         "showdownMarkup": "Deerling-Winter",
         "showdownData": "deerlingwinter",
         "serebii": "deerling-winter",
-        "bulbapedia": "Deerling"
+        "bulbapedia": "Deerling",
+        "homeSprite": "deerling-winter",
+        "miniSprite": "deerling-winter"
     },
     "baseSpecies": "deerling",
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Haxorus",
         "showdownData": "haxorus",
         "serebii": "haxorus",
-        "bulbapedia": "Haxorus"
+        "bulbapedia": "Haxorus",
+        "homeSprite": "haxorus",
+        "miniSprite": "haxorus"
     },
     "baseSpecies": null,
     "baseForms": [],

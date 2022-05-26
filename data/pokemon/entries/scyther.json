@@ -73,7 +73,9 @@
         "showdownMarkup": "Scyther",
         "showdownData": "scyther",
         "serebii": "scyther",
-        "bulbapedia": "Scyther"
+        "bulbapedia": "Scyther",
+        "homeSprite": "scyther",
+        "miniSprite": "scyther"
     },
     "baseSpecies": null,
     "baseForms": [],

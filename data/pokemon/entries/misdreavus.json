@@ -73,7 +73,9 @@
         "showdownMarkup": "Misdreavus",
         "showdownData": "misdreavus",
         "serebii": "misdreavus",
-        "bulbapedia": "Misdreavus"
+        "bulbapedia": "Misdreavus",
+        "homeSprite": "misdreavus",
+        "miniSprite": "misdreavus"
     },
     "baseSpecies": null,
     "baseForms": [],

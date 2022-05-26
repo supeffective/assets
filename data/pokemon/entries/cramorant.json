@@ -73,7 +73,9 @@
         "showdownMarkup": "Cramorant",
         "showdownData": "cramorant",
         "serebii": "cramorant",
-        "bulbapedia": "Cramorant"
+        "bulbapedia": "Cramorant",
+        "homeSprite": "cramorant",
+        "miniSprite": "cramorant"
     },
     "baseSpecies": null,
     "baseForms": [],

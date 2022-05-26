@@ -73,7 +73,9 @@
         "showdownMarkup": "Clefable",
         "showdownData": "clefable",
         "serebii": "clefable",
-        "bulbapedia": "Clefable"
+        "bulbapedia": "Clefable",
+        "homeSprite": "clefable",
+        "miniSprite": "clefable"
     },
     "baseSpecies": null,
     "baseForms": [],

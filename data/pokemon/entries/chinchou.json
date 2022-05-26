@@ -73,7 +73,9 @@
         "showdownMarkup": "Chinchou",
         "showdownData": "chinchou",
         "serebii": "chinchou",
-        "bulbapedia": "Chinchou"
+        "bulbapedia": "Chinchou",
+        "homeSprite": "chinchou",
+        "miniSprite": "chinchou"
     },
     "baseSpecies": null,
     "baseForms": [],

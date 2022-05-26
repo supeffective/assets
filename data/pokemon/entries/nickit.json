@@ -73,7 +73,9 @@
         "showdownMarkup": "Nickit",
         "showdownData": "nickit",
         "serebii": "nickit",
-        "bulbapedia": "Nickit"
+        "bulbapedia": "Nickit",
+        "homeSprite": "nickit",
+        "miniSprite": "nickit"
     },
     "baseSpecies": null,
     "baseForms": [],

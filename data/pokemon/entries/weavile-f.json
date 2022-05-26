@@ -73,7 +73,9 @@
         "showdownMarkup": "Weavile-F",
         "showdownData": "weavilef",
         "serebii": "weavile-f",
-        "bulbapedia": "Weavile"
+        "bulbapedia": "Weavile",
+        "homeSprite": "weavile-f",
+        "miniSprite": "weavile-f"
     },
     "baseSpecies": "weavile",
     "baseForms": [],

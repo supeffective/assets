@@ -71,7 +71,9 @@
         "showdownMarkup": "Zamazenta-Crowned",
         "showdownData": "zamazentacrowned",
         "serebii": "zamazenta-crowned",
-        "bulbapedia": "Zamazenta"
+        "bulbapedia": "Zamazenta",
+        "homeSprite": "zamazenta-crowned",
+        "miniSprite": "zamazenta-crowned"
     },
     "baseSpecies": "zamazenta",
     "baseForms": [

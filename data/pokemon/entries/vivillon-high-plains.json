@@ -73,7 +73,9 @@
         "showdownMarkup": "Vivillon-High-Plains",
         "showdownData": "vivillonhighplains",
         "serebii": "vivillon-high-plains",
-        "bulbapedia": "Vivillon"
+        "bulbapedia": "Vivillon",
+        "homeSprite": "vivillon-high-plains",
+        "miniSprite": "vivillon-high-plains"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

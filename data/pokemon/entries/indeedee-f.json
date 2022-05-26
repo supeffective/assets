@@ -73,7 +73,9 @@
         "showdownMarkup": "Indeedee-F",
         "showdownData": "indeedeef",
         "serebii": "indeedee-f",
-        "bulbapedia": "Indeedee"
+        "bulbapedia": "Indeedee",
+        "homeSprite": "indeedee-f",
+        "miniSprite": "indeedee-f"
     },
     "baseSpecies": "indeedee",
     "baseForms": [],

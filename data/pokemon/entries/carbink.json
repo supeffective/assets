@@ -73,7 +73,9 @@
         "showdownMarkup": "Carbink",
         "showdownData": "carbink",
         "serebii": "carbink",
-        "bulbapedia": "Carbink"
+        "bulbapedia": "Carbink",
+        "homeSprite": "carbink",
+        "miniSprite": "carbink"
     },
     "baseSpecies": null,
     "baseForms": [],

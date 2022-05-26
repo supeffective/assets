@@ -73,7 +73,9 @@
         "showdownMarkup": "Palpitoad",
         "showdownData": "palpitoad",
         "serebii": "palpitoad",
-        "bulbapedia": "Palpitoad"
+        "bulbapedia": "Palpitoad",
+        "homeSprite": "palpitoad",
+        "miniSprite": "palpitoad"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Heracross",
         "showdownData": "heracross",
         "serebii": "heracross",
-        "bulbapedia": "Heracross"
+        "bulbapedia": "Heracross",
+        "homeSprite": "heracross",
+        "miniSprite": "heracross"
     },
     "baseSpecies": null,
     "baseForms": [],

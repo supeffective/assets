@@ -73,7 +73,9 @@
         "showdownMarkup": "Quagsire-F",
         "showdownData": "quagsiref",
         "serebii": "quagsire-f",
-        "bulbapedia": "Quagsire"
+        "bulbapedia": "Quagsire",
+        "homeSprite": "quagsire-f",
+        "miniSprite": "quagsire-f"
     },
     "baseSpecies": "quagsire",
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Gloom",
         "showdownData": "gloom",
         "serebii": "gloom",
-        "bulbapedia": "Gloom"
+        "bulbapedia": "Gloom",
+        "homeSprite": "gloom",
+        "miniSprite": "gloom"
     },
     "baseSpecies": null,
     "baseForms": [],

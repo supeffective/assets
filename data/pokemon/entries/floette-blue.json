@@ -73,7 +73,9 @@
         "showdownMarkup": "Floette-Blue",
         "showdownData": "floetteblue",
         "serebii": "floette-blue",
-        "bulbapedia": "Floette"
+        "bulbapedia": "Floette",
+        "homeSprite": "floette-blue",
+        "miniSprite": "floette-blue"
     },
     "baseSpecies": "floette",
     "baseForms": [],

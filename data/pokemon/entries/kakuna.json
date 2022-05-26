@@ -73,7 +73,9 @@
         "showdownMarkup": "Kakuna",
         "showdownData": "kakuna",
         "serebii": "kakuna",
-        "bulbapedia": "Kakuna"
+        "bulbapedia": "Kakuna",
+        "homeSprite": "kakuna",
+        "miniSprite": "kakuna"
     },
     "baseSpecies": null,
     "baseForms": [],

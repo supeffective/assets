@@ -73,7 +73,9 @@
         "showdownMarkup": "Zacian",
         "showdownData": "zacian",
         "serebii": "zacian",
-        "bulbapedia": "Zacian"
+        "bulbapedia": "Zacian",
+        "homeSprite": "zacian",
+        "miniSprite": "zacian"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Claydol",
         "showdownData": "claydol",
         "serebii": "claydol",
-        "bulbapedia": "Claydol"
+        "bulbapedia": "Claydol",
+        "homeSprite": "claydol",
+        "miniSprite": "claydol"
     },
     "baseSpecies": null,
     "baseForms": [],

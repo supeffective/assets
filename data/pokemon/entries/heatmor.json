@@ -73,7 +73,9 @@
         "showdownMarkup": "Heatmor",
         "showdownData": "heatmor",
         "serebii": "heatmor",
-        "bulbapedia": "Heatmor"
+        "bulbapedia": "Heatmor",
+        "homeSprite": "heatmor",
+        "miniSprite": "heatmor"
     },
     "baseSpecies": null,
     "baseForms": [],

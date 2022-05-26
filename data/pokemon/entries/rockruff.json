@@ -73,7 +73,9 @@
         "showdownMarkup": "Rockruff",
         "showdownData": "rockruff",
         "serebii": "rockruff",
-        "bulbapedia": "Rockruff"
+        "bulbapedia": "Rockruff",
+        "homeSprite": "rockruff",
+        "miniSprite": "rockruff"
     },
     "baseSpecies": null,
     "baseForms": [],

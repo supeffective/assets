@@ -73,7 +73,9 @@
         "showdownMarkup": "Hoothoot",
         "showdownData": "hoothoot",
         "serebii": "hoothoot",
-        "bulbapedia": "Hoothoot"
+        "bulbapedia": "Hoothoot",
+        "homeSprite": "hoothoot",
+        "miniSprite": "hoothoot"
     },
     "baseSpecies": null,
     "baseForms": [],

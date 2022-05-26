@@ -73,7 +73,9 @@
         "showdownMarkup": "Stunfisk",
         "showdownData": "stunfisk",
         "serebii": "stunfisk",
-        "bulbapedia": "Stunfisk"
+        "bulbapedia": "Stunfisk",
+        "homeSprite": "stunfisk",
+        "miniSprite": "stunfisk"
     },
     "baseSpecies": null,
     "baseForms": [],

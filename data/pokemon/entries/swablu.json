@@ -73,7 +73,9 @@
         "showdownMarkup": "Swablu",
         "showdownData": "swablu",
         "serebii": "swablu",
-        "bulbapedia": "Swablu"
+        "bulbapedia": "Swablu",
+        "homeSprite": "swablu",
+        "miniSprite": "swablu"
     },
     "baseSpecies": null,
     "baseForms": [],

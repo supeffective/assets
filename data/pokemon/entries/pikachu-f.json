@@ -73,7 +73,9 @@
         "showdownMarkup": "Pikachu-F",
         "showdownData": "pikachuf",
         "serebii": "pikachu-f",
-        "bulbapedia": "Pikachu"
+        "bulbapedia": "Pikachu",
+        "homeSprite": "pikachu-f",
+        "miniSprite": "pikachu-f"
     },
     "baseSpecies": "pikachu",
     "baseForms": [],

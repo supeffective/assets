@@ -73,7 +73,9 @@
         "showdownMarkup": "Goldeen-F",
         "showdownData": "goldeenf",
         "serebii": "goldeen-f",
-        "bulbapedia": "Goldeen"
+        "bulbapedia": "Goldeen",
+        "homeSprite": "goldeen-f",
+        "miniSprite": "goldeen-f"
     },
     "baseSpecies": "goldeen",
     "baseForms": [],

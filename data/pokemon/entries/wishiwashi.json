@@ -73,7 +73,9 @@
         "showdownMarkup": "Wishiwashi",
         "showdownData": "wishiwashi",
         "serebii": "wishiwashi",
-        "bulbapedia": "Wishiwashi"
+        "bulbapedia": "Wishiwashi",
+        "homeSprite": "wishiwashi",
+        "miniSprite": "wishiwashi"
     },
     "baseSpecies": null,
     "baseForms": [],

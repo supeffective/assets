@@ -73,7 +73,9 @@
         "showdownMarkup": "Tapubulu",
         "showdownData": "tapubulu",
         "serebii": "tapubulu",
-        "bulbapedia": "Tapu Bulu"
+        "bulbapedia": "Tapu Bulu",
+        "homeSprite": "tapubulu",
+        "miniSprite": "tapubulu"
     },
     "baseSpecies": null,
     "baseForms": [],

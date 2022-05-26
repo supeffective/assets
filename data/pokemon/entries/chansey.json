@@ -73,7 +73,9 @@
         "showdownMarkup": "Chansey",
         "showdownData": "chansey",
         "serebii": "chansey",
-        "bulbapedia": "Chansey"
+        "bulbapedia": "Chansey",
+        "homeSprite": "chansey",
+        "miniSprite": "chansey"
     },
     "baseSpecies": null,
     "baseForms": [],

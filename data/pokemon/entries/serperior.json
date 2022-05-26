@@ -73,7 +73,9 @@
         "showdownMarkup": "Serperior",
         "showdownData": "serperior",
         "serebii": "serperior",
-        "bulbapedia": "Serperior"
+        "bulbapedia": "Serperior",
+        "homeSprite": "serperior",
+        "miniSprite": "serperior"
     },
     "baseSpecies": null,
     "baseForms": [],

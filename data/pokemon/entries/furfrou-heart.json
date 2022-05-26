@@ -73,7 +73,9 @@
         "showdownMarkup": "Furfrou-Heart",
         "showdownData": "furfrouheart",
         "serebii": "furfrou-heart",
-        "bulbapedia": "Furfrou"
+        "bulbapedia": "Furfrou",
+        "homeSprite": "furfrou-heart",
+        "miniSprite": "furfrou-heart"
     },
     "baseSpecies": "furfrou",
     "baseForms": [

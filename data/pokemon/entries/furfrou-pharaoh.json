@@ -73,7 +73,9 @@
         "showdownMarkup": "Furfrou-Pharaoh",
         "showdownData": "furfroupharaoh",
         "serebii": "furfrou-pharaoh",
-        "bulbapedia": "Furfrou"
+        "bulbapedia": "Furfrou",
+        "homeSprite": "furfrou-pharaoh",
+        "miniSprite": "furfrou-pharaoh"
     },
     "baseSpecies": "furfrou",
     "baseForms": [

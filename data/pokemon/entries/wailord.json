@@ -73,7 +73,9 @@
         "showdownMarkup": "Wailord",
         "showdownData": "wailord",
         "serebii": "wailord",
-        "bulbapedia": "Wailord"
+        "bulbapedia": "Wailord",
+        "homeSprite": "wailord",
+        "miniSprite": "wailord"
     },
     "baseSpecies": null,
     "baseForms": [],

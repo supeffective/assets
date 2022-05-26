@@ -73,7 +73,9 @@
         "showdownMarkup": "Tentacool",
         "showdownData": "tentacool",
         "serebii": "tentacool",
-        "bulbapedia": "Tentacool"
+        "bulbapedia": "Tentacool",
+        "homeSprite": "tentacool",
+        "miniSprite": "tentacool"
     },
     "baseSpecies": null,
     "baseForms": [],

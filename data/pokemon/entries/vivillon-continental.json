@@ -73,7 +73,9 @@
         "showdownMarkup": "Vivillon-Continental",
         "showdownData": "vivilloncontinental",
         "serebii": "vivillon-continental",
-        "bulbapedia": "Vivillon"
+        "bulbapedia": "Vivillon",
+        "homeSprite": "vivillon-continental",
+        "miniSprite": "vivillon-continental"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Klefki",
         "showdownData": "klefki",
         "serebii": "klefki",
-        "bulbapedia": "Klefki"
+        "bulbapedia": "Klefki",
+        "homeSprite": "klefki",
+        "miniSprite": "klefki"
     },
     "baseSpecies": null,
     "baseForms": [],

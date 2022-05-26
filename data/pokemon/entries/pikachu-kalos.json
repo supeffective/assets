@@ -73,7 +73,9 @@
         "showdownMarkup": "Pikachu-Kalos",
         "showdownData": "pikachukalos",
         "serebii": "pikachu-kalos",
-        "bulbapedia": "Pikachu"
+        "bulbapedia": "Pikachu",
+        "homeSprite": "pikachu-kalos",
+        "miniSprite": "pikachu-kalos"
     },
     "baseSpecies": "pikachu",
     "baseForms": [],

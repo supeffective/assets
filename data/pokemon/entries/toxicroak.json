@@ -73,7 +73,9 @@
         "showdownMarkup": "Toxicroak",
         "showdownData": "toxicroak",
         "serebii": "toxicroak",
-        "bulbapedia": "Toxicroak"
+        "bulbapedia": "Toxicroak",
+        "homeSprite": "toxicroak",
+        "miniSprite": "toxicroak"
     },
     "baseSpecies": null,
     "baseForms": [],

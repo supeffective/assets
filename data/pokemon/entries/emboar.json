@@ -73,7 +73,9 @@
         "showdownMarkup": "Emboar",
         "showdownData": "emboar",
         "serebii": "emboar",
-        "bulbapedia": "Emboar"
+        "bulbapedia": "Emboar",
+        "homeSprite": "emboar",
+        "miniSprite": "emboar"
     },
     "baseSpecies": null,
     "baseForms": [],

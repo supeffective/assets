@@ -73,7 +73,9 @@
         "showdownMarkup": null,
         "showdownData": null,
         "serebii": null,
-        "bulbapedia": null
+        "bulbapedia": null,
+        "homeSprite": "wyrdeer",
+        "miniSprite": "wyrdeer"
     },
     "baseSpecies": null,
     "baseForms": [],

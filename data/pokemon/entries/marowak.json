@@ -73,7 +73,9 @@
         "showdownMarkup": "Marowak",
         "showdownData": "marowak",
         "serebii": "marowak",
-        "bulbapedia": "Marowak"
+        "bulbapedia": "Marowak",
+        "homeSprite": "marowak",
+        "miniSprite": "marowak"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Gengar",
         "showdownData": "gengar",
         "serebii": "gengar",
-        "bulbapedia": "Gengar"
+        "bulbapedia": "Gengar",
+        "homeSprite": "gengar",
+        "miniSprite": "gengar"
     },
     "baseSpecies": null,
     "baseForms": [],

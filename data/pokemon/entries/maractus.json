@@ -73,7 +73,9 @@
         "showdownMarkup": "Maractus",
         "showdownData": "maractus",
         "serebii": "maractus",
-        "bulbapedia": "Maractus"
+        "bulbapedia": "Maractus",
+        "homeSprite": "maractus",
+        "miniSprite": "maractus"
     },
     "baseSpecies": null,
     "baseForms": [],

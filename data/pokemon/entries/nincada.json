@@ -73,7 +73,9 @@
         "showdownMarkup": "Nincada",
         "showdownData": "nincada",
         "serebii": "nincada",
-        "bulbapedia": "Nincada"
+        "bulbapedia": "Nincada",
+        "homeSprite": "nincada",
+        "miniSprite": "nincada"
     },
     "baseSpecies": null,
     "baseForms": [],

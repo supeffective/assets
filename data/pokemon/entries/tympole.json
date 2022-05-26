@@ -73,7 +73,9 @@
         "showdownMarkup": "Tympole",
         "showdownData": "tympole",
         "serebii": "tympole",
-        "bulbapedia": "Tympole"
+        "bulbapedia": "Tympole",
+        "homeSprite": "tympole",
+        "miniSprite": "tympole"
     },
     "baseSpecies": null,
     "baseForms": [],

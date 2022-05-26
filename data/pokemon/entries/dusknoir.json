@@ -73,7 +73,9 @@
         "showdownMarkup": "Dusknoir",
         "showdownData": "dusknoir",
         "serebii": "dusknoir",
-        "bulbapedia": "Dusknoir"
+        "bulbapedia": "Dusknoir",
+        "homeSprite": "dusknoir",
+        "miniSprite": "dusknoir"
     },
     "baseSpecies": null,
     "baseForms": [],

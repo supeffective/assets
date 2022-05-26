@@ -71,7 +71,9 @@
         "showdownMarkup": "Sceptile-Mega",
         "showdownData": "sceptilemega",
         "serebii": "sceptile-mega",
-        "bulbapedia": "Sceptile"
+        "bulbapedia": "Sceptile",
+        "homeSprite": "sceptile-mega",
+        "miniSprite": "sceptile-mega"
     },
     "baseSpecies": "sceptile",
     "baseForms": [

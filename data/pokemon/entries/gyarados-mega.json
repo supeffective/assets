@@ -71,7 +71,9 @@
         "showdownMarkup": "Gyarados-Mega",
         "showdownData": "gyaradosmega",
         "serebii": "gyarados-mega",
-        "bulbapedia": "Gyarados"
+        "bulbapedia": "Gyarados",
+        "homeSprite": "gyarados-mega",
+        "miniSprite": "gyarados-mega"
     },
     "baseSpecies": "gyarados",
     "baseForms": [

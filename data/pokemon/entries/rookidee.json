@@ -73,7 +73,9 @@
         "showdownMarkup": "Rookidee",
         "showdownData": "rookidee",
         "serebii": "rookidee",
-        "bulbapedia": "Rookidee"
+        "bulbapedia": "Rookidee",
+        "homeSprite": "rookidee",
+        "miniSprite": "rookidee"
     },
     "baseSpecies": null,
     "baseForms": [],

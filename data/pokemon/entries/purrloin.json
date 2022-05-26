@@ -73,7 +73,9 @@
         "showdownMarkup": "Purrloin",
         "showdownData": "purrloin",
         "serebii": "purrloin",
-        "bulbapedia": "Purrloin"
+        "bulbapedia": "Purrloin",
+        "homeSprite": "purrloin",
+        "miniSprite": "purrloin"
     },
     "baseSpecies": null,
     "baseForms": [],

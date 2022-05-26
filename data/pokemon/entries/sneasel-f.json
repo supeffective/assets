@@ -73,7 +73,9 @@
         "showdownMarkup": "Sneasel-F",
         "showdownData": "sneaself",
         "serebii": "sneasel-f",
-        "bulbapedia": "Sneasel"
+        "bulbapedia": "Sneasel",
+        "homeSprite": "sneasel-f",
+        "miniSprite": "sneasel-f"
     },
     "baseSpecies": "sneasel",
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Honedge",
         "showdownData": "honedge",
         "serebii": "honedge",
-        "bulbapedia": "Honedge"
+        "bulbapedia": "Honedge",
+        "homeSprite": "honedge",
+        "miniSprite": "honedge"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -71,7 +71,9 @@
         "showdownMarkup": "Ampharos-Mega",
         "showdownData": "ampharosmega",
         "serebii": "ampharos-mega",
-        "bulbapedia": "Ampharos"
+        "bulbapedia": "Ampharos",
+        "homeSprite": "ampharos-mega",
+        "miniSprite": "ampharos-mega"
     },
     "baseSpecies": "ampharos",
     "baseForms": [

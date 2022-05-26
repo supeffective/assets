@@ -71,7 +71,9 @@
         "showdownMarkup": "Lucario-Mega",
         "showdownData": "lucariomega",
         "serebii": "lucario-mega",
-        "bulbapedia": "Lucario"
+        "bulbapedia": "Lucario",
+        "homeSprite": "lucario-mega",
+        "miniSprite": "lucario-mega"
     },
     "baseSpecies": "lucario",
     "baseForms": [

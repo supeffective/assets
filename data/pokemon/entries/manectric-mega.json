@@ -71,7 +71,9 @@
         "showdownMarkup": "Manectric-Mega",
         "showdownData": "manectricmega",
         "serebii": "manectric-mega",
-        "bulbapedia": "Manectric"
+        "bulbapedia": "Manectric",
+        "homeSprite": "manectric-mega",
+        "miniSprite": "manectric-mega"
     },
     "baseSpecies": "manectric",
     "baseForms": [

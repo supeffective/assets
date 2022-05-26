@@ -71,7 +71,9 @@
         "showdownMarkup": "Drednaw-Gmax",
         "showdownData": "drednawgmax",
         "serebii": "drednaw-gmax",
-        "bulbapedia": "Drednaw"
+        "bulbapedia": "Drednaw",
+        "homeSprite": "drednaw-gmax",
+        "miniSprite": "drednaw-gmax"
     },
     "baseSpecies": "drednaw",
     "baseForms": [

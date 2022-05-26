@@ -73,7 +73,9 @@
         "showdownMarkup": "Yamper",
         "showdownData": "yamper",
         "serebii": "yamper",
-        "bulbapedia": "Yamper"
+        "bulbapedia": "Yamper",
+        "homeSprite": "yamper",
+        "miniSprite": "yamper"
     },
     "baseSpecies": null,
     "baseForms": [],

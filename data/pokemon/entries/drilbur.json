@@ -73,7 +73,9 @@
         "showdownMarkup": "Drilbur",
         "showdownData": "drilbur",
         "serebii": "drilbur",
-        "bulbapedia": "Drilbur"
+        "bulbapedia": "Drilbur",
+        "homeSprite": "drilbur",
+        "miniSprite": "drilbur"
     },
     "baseSpecies": null,
     "baseForms": [],

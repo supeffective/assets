@@ -71,7 +71,9 @@
         "showdownMarkup": "Swampert-Mega",
         "showdownData": "swampertmega",
         "serebii": "swampert-mega",
-        "bulbapedia": "Swampert"
+        "bulbapedia": "Swampert",
+        "homeSprite": "swampert-mega",
+        "miniSprite": "swampert-mega"
     },
     "baseSpecies": "swampert",
     "baseForms": [

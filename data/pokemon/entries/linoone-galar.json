@@ -73,7 +73,9 @@
         "showdownMarkup": "Linoone-Galar",
         "showdownData": "linoonegalar",
         "serebii": "linoone-galar",
-        "bulbapedia": "Linoone"
+        "bulbapedia": "Linoone",
+        "homeSprite": "linoone-galar",
+        "miniSprite": "linoone-galar"
     },
     "baseSpecies": "linoone",
     "baseForms": [],

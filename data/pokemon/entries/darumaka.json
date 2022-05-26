@@ -73,7 +73,9 @@
         "showdownMarkup": "Darumaka",
         "showdownData": "darumaka",
         "serebii": "darumaka",
-        "bulbapedia": "Darumaka"
+        "bulbapedia": "Darumaka",
+        "homeSprite": "darumaka",
+        "miniSprite": "darumaka"
     },
     "baseSpecies": null,
     "baseForms": [],

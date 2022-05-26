@@ -73,7 +73,9 @@
         "showdownMarkup": "Roggenrola",
         "showdownData": "roggenrola",
         "serebii": "roggenrola",
-        "bulbapedia": "Roggenrola"
+        "bulbapedia": "Roggenrola",
+        "homeSprite": "roggenrola",
+        "miniSprite": "roggenrola"
     },
     "baseSpecies": null,
     "baseForms": [],

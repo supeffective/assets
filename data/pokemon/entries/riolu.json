@@ -73,7 +73,9 @@
         "showdownMarkup": "Riolu",
         "showdownData": "riolu",
         "serebii": "riolu",
-        "bulbapedia": "Riolu"
+        "bulbapedia": "Riolu",
+        "homeSprite": "riolu",
+        "miniSprite": "riolu"
     },
     "baseSpecies": null,
     "baseForms": [],

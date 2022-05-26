@@ -73,7 +73,9 @@
         "showdownMarkup": "Braixen",
         "showdownData": "braixen",
         "serebii": "braixen",
-        "bulbapedia": "Braixen"
+        "bulbapedia": "Braixen",
+        "homeSprite": "braixen",
+        "miniSprite": "braixen"
     },
     "baseSpecies": null,
     "baseForms": [],

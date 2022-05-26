@@ -71,7 +71,9 @@
         "showdownMarkup": "Darmanitan-Zen",
         "showdownData": "darmanitanzen",
         "serebii": "darmanitan-zen",
-        "bulbapedia": "Darmanitan"
+        "bulbapedia": "Darmanitan",
+        "homeSprite": "darmanitan-zen",
+        "miniSprite": "darmanitan-zen"
     },
     "baseSpecies": "darmanitan",
     "baseForms": [

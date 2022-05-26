@@ -73,7 +73,9 @@
         "showdownMarkup": "Grimer-Alola",
         "showdownData": "grimeralola",
         "serebii": "grimer-alola",
-        "bulbapedia": "Grimer"
+        "bulbapedia": "Grimer",
+        "homeSprite": "grimer-alola",
+        "miniSprite": "grimer-alola"
     },
     "baseSpecies": "grimer",
     "baseForms": [],

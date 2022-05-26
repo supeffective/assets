@@ -73,7 +73,9 @@
         "showdownMarkup": "Grimmsnarl",
         "showdownData": "grimmsnarl",
         "serebii": "grimmsnarl",
-        "bulbapedia": "Grimmsnarl"
+        "bulbapedia": "Grimmsnarl",
+        "homeSprite": "grimmsnarl",
+        "miniSprite": "grimmsnarl"
     },
     "baseSpecies": null,
     "baseForms": [],

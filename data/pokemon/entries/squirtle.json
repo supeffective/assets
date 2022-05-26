@@ -73,7 +73,9 @@
         "showdownMarkup": "Squirtle",
         "showdownData": "squirtle",
         "serebii": "squirtle",
-        "bulbapedia": "Squirtle"
+        "bulbapedia": "Squirtle",
+        "homeSprite": "squirtle",
+        "miniSprite": "squirtle"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Phione",
         "showdownData": "phione",
         "serebii": "phione",
-        "bulbapedia": "Phione"
+        "bulbapedia": "Phione",
+        "homeSprite": "phione",
+        "miniSprite": "phione"
     },
     "baseSpecies": null,
     "baseForms": [],

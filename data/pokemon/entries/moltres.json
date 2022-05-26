@@ -73,7 +73,9 @@
         "showdownMarkup": "Moltres",
         "showdownData": "moltres",
         "serebii": "moltres",
-        "bulbapedia": "Moltres"
+        "bulbapedia": "Moltres",
+        "homeSprite": "moltres",
+        "miniSprite": "moltres"
     },
     "baseSpecies": null,
     "baseForms": [],

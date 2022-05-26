@@ -73,7 +73,9 @@
         "showdownMarkup": "Swanna",
         "showdownData": "swanna",
         "serebii": "swanna",
-        "bulbapedia": "Swanna"
+        "bulbapedia": "Swanna",
+        "homeSprite": "swanna",
+        "miniSprite": "swanna"
     },
     "baseSpecies": null,
     "baseForms": [],

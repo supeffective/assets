@@ -73,7 +73,9 @@
         "showdownMarkup": "Fraxure",
         "showdownData": "fraxure",
         "serebii": "fraxure",
-        "bulbapedia": "Fraxure"
+        "bulbapedia": "Fraxure",
+        "homeSprite": "fraxure",
+        "miniSprite": "fraxure"
     },
     "baseSpecies": null,
     "baseForms": [],

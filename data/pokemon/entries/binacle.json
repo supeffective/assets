@@ -73,7 +73,9 @@
         "showdownMarkup": "Binacle",
         "showdownData": "binacle",
         "serebii": "binacle",
-        "bulbapedia": "Binacle"
+        "bulbapedia": "Binacle",
+        "homeSprite": "binacle",
+        "miniSprite": "binacle"
     },
     "baseSpecies": null,
     "baseForms": [],

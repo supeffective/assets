@@ -73,7 +73,9 @@
         "showdownMarkup": "Grotle",
         "showdownData": "grotle",
         "serebii": "grotle",
-        "bulbapedia": "Grotle"
+        "bulbapedia": "Grotle",
+        "homeSprite": "grotle",
+        "miniSprite": "grotle"
     },
     "baseSpecies": null,
     "baseForms": [],

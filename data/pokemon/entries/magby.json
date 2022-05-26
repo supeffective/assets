@@ -73,7 +73,9 @@
         "showdownMarkup": "Magby",
         "showdownData": "magby",
         "serebii": "magby",
-        "bulbapedia": "Magby"
+        "bulbapedia": "Magby",
+        "homeSprite": "magby",
+        "miniSprite": "magby"
     },
     "baseSpecies": null,
     "baseForms": [],

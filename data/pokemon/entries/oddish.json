@@ -73,7 +73,9 @@
         "showdownMarkup": "Oddish",
         "showdownData": "oddish",
         "serebii": "oddish",
-        "bulbapedia": "Oddish"
+        "bulbapedia": "Oddish",
+        "homeSprite": "oddish",
+        "miniSprite": "oddish"
     },
     "baseSpecies": null,
     "baseForms": [],

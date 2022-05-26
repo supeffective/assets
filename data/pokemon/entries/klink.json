@@ -73,7 +73,9 @@
         "showdownMarkup": "Klink",
         "showdownData": "klink",
         "serebii": "klink",
-        "bulbapedia": "Klink"
+        "bulbapedia": "Klink",
+        "homeSprite": "klink",
+        "miniSprite": "klink"
     },
     "baseSpecies": null,
     "baseForms": [],

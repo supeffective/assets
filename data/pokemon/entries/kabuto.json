@@ -73,7 +73,9 @@
         "showdownMarkup": "Kabuto",
         "showdownData": "kabuto",
         "serebii": "kabuto",
-        "bulbapedia": "Kabuto"
+        "bulbapedia": "Kabuto",
+        "homeSprite": "kabuto",
+        "miniSprite": "kabuto"
     },
     "baseSpecies": null,
     "baseForms": [],

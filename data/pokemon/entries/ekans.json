@@ -73,7 +73,9 @@
         "showdownMarkup": "Ekans",
         "showdownData": "ekans",
         "serebii": "ekans",
-        "bulbapedia": "Ekans"
+        "bulbapedia": "Ekans",
+        "homeSprite": "ekans",
+        "miniSprite": "ekans"
     },
     "baseSpecies": null,
     "baseForms": [],

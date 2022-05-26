@@ -73,7 +73,9 @@
         "showdownMarkup": "Crustle",
         "showdownData": "crustle",
         "serebii": "crustle",
-        "bulbapedia": "Crustle"
+        "bulbapedia": "Crustle",
+        "homeSprite": "crustle",
+        "miniSprite": "crustle"
     },
     "baseSpecies": null,
     "baseForms": [],

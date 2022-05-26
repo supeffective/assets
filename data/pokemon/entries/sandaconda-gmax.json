@@ -71,7 +71,9 @@
         "showdownMarkup": "Sandaconda-Gmax",
         "showdownData": "sandacondagmax",
         "serebii": "sandaconda-gmax",
-        "bulbapedia": "Sandaconda"
+        "bulbapedia": "Sandaconda",
+        "homeSprite": "sandaconda-gmax",
+        "miniSprite": "sandaconda-gmax"
     },
     "baseSpecies": "sandaconda",
     "baseForms": [

@@ -73,7 +73,9 @@
         "showdownMarkup": "Scizor",
         "showdownData": "scizor",
         "serebii": "scizor",
-        "bulbapedia": "Scizor"
+        "bulbapedia": "Scizor",
+        "homeSprite": "scizor",
+        "miniSprite": "scizor"
     },
     "baseSpecies": null,
     "baseForms": [],

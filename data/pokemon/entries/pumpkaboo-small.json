@@ -73,7 +73,9 @@
         "showdownMarkup": "Pumpkaboo-Small",
         "showdownData": "pumpkaboosmall",
         "serebii": "pumpkaboo-small",
-        "bulbapedia": "Pumpkaboo"
+        "bulbapedia": "Pumpkaboo",
+        "homeSprite": "pumpkaboo-small",
+        "miniSprite": "pumpkaboo-small"
     },
     "baseSpecies": "pumpkaboo",
     "baseForms": [],

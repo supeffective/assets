@@ -73,7 +73,9 @@
         "showdownMarkup": "Whismur",
         "showdownData": "whismur",
         "serebii": "whismur",
-        "bulbapedia": "Whismur"
+        "bulbapedia": "Whismur",
+        "homeSprite": "whismur",
+        "miniSprite": "whismur"
     },
     "baseSpecies": null,
     "baseForms": [],

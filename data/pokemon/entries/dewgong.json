@@ -73,7 +73,9 @@
         "showdownMarkup": "Dewgong",
         "showdownData": "dewgong",
         "serebii": "dewgong",
-        "bulbapedia": "Dewgong"
+        "bulbapedia": "Dewgong",
+        "homeSprite": "dewgong",
+        "miniSprite": "dewgong"
     },
     "baseSpecies": null,
     "baseForms": [],

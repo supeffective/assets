@@ -73,7 +73,9 @@
         "showdownMarkup": "Zeraora",
         "showdownData": "zeraora",
         "serebii": "zeraora",
-        "bulbapedia": "Zeraora"
+        "bulbapedia": "Zeraora",
+        "homeSprite": "zeraora",
+        "miniSprite": "zeraora"
     },
     "baseSpecies": null,
     "baseForms": [],

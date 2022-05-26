@@ -73,7 +73,9 @@
         "showdownMarkup": "Gliscor",
         "showdownData": "gliscor",
         "serebii": "gliscor",
-        "bulbapedia": "Gliscor"
+        "bulbapedia": "Gliscor",
+        "homeSprite": "gliscor",
+        "miniSprite": "gliscor"
     },
     "baseSpecies": null,
     "baseForms": [],

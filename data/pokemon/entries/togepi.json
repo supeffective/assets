@@ -73,7 +73,9 @@
         "showdownMarkup": "Togepi",
         "showdownData": "togepi",
         "serebii": "togepi",
-        "bulbapedia": "Togepi"
+        "bulbapedia": "Togepi",
+        "homeSprite": "togepi",
+        "miniSprite": "togepi"
     },
     "baseSpecies": null,
     "baseForms": [],

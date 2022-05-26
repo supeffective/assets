@@ -73,7 +73,9 @@
         "showdownMarkup": "Diancie",
         "showdownData": "diancie",
         "serebii": "diancie",
-        "bulbapedia": "Diancie"
+        "bulbapedia": "Diancie",
+        "homeSprite": "diancie",
+        "miniSprite": "diancie"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Snorlax",
         "showdownData": "snorlax",
         "serebii": "snorlax",
-        "bulbapedia": "Snorlax"
+        "bulbapedia": "Snorlax",
+        "homeSprite": "snorlax",
+        "miniSprite": "snorlax"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Gossifleur",
         "showdownData": "gossifleur",
         "serebii": "gossifleur",
-        "bulbapedia": "Gossifleur"
+        "bulbapedia": "Gossifleur",
+        "homeSprite": "gossifleur",
+        "miniSprite": "gossifleur"
     },
     "baseSpecies": null,
     "baseForms": [],

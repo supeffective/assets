@@ -73,7 +73,9 @@
         "showdownMarkup": "Toucannon",
         "showdownData": "toucannon",
         "serebii": "toucannon",
-        "bulbapedia": "Toucannon"
+        "bulbapedia": "Toucannon",
+        "homeSprite": "toucannon",
+        "miniSprite": "toucannon"
     },
     "baseSpecies": null,
     "baseForms": [],

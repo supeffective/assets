@@ -73,7 +73,9 @@
         "showdownMarkup": "Arctozolt",
         "showdownData": "arctozolt",
         "serebii": "arctozolt",
-        "bulbapedia": "Arctozolt"
+        "bulbapedia": "Arctozolt",
+        "homeSprite": "arctozolt",
+        "miniSprite": "arctozolt"
     },
     "baseSpecies": null,
     "baseForms": [],

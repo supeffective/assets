@@ -73,7 +73,9 @@
         "showdownMarkup": "Hoopa-Unbound",
         "showdownData": "hoopaunbound",
         "serebii": "hoopa-unbound",
-        "bulbapedia": "Hoopa"
+        "bulbapedia": "Hoopa",
+        "homeSprite": "hoopa-unbound",
+        "miniSprite": "hoopa-unbound"
     },
     "baseSpecies": "hoopa",
     "baseForms": [

@@ -73,7 +73,9 @@
         "showdownMarkup": "Fletchling",
         "showdownData": "fletchling",
         "serebii": "fletchling",
-        "bulbapedia": "Fletchling"
+        "bulbapedia": "Fletchling",
+        "homeSprite": "fletchling",
+        "miniSprite": "fletchling"
     },
     "baseSpecies": null,
     "baseForms": [],

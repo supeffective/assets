@@ -73,7 +73,9 @@
         "showdownMarkup": "Qwilfish",
         "showdownData": "qwilfish",
         "serebii": "qwilfish",
-        "bulbapedia": "Qwilfish"
+        "bulbapedia": "Qwilfish",
+        "homeSprite": "qwilfish",
+        "miniSprite": "qwilfish"
     },
     "baseSpecies": null,
     "baseForms": [],

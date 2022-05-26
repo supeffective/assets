@@ -71,7 +71,9 @@
         "showdownMarkup": "Silvally-Poison",
         "showdownData": "silvallypoison",
         "serebii": "silvally-poison",
-        "bulbapedia": "Silvally"
+        "bulbapedia": "Silvally",
+        "homeSprite": "silvally-poison",
+        "miniSprite": "silvally-poison"
     },
     "baseSpecies": "silvally",
     "baseForms": [

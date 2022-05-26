@@ -73,7 +73,9 @@
         "showdownMarkup": "Magearna-Original",
         "showdownData": "magearnaoriginal",
         "serebii": "magearna-original",
-        "bulbapedia": "Magearna"
+        "bulbapedia": "Magearna",
+        "homeSprite": "magearna-original",
+        "miniSprite": "magearna-original"
     },
     "baseSpecies": "magearna",
     "baseForms": [],

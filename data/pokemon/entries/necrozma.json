@@ -73,7 +73,9 @@
         "showdownMarkup": "Necrozma",
         "showdownData": "necrozma",
         "serebii": "necrozma",
-        "bulbapedia": "Necrozma"
+        "bulbapedia": "Necrozma",
+        "homeSprite": "necrozma",
+        "miniSprite": "necrozma"
     },
     "baseSpecies": null,
     "baseForms": [],

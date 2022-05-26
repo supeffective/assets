@@ -73,7 +73,9 @@
         "showdownMarkup": "Seaking-F",
         "showdownData": "seakingf",
         "serebii": "seaking-f",
-        "bulbapedia": "Seaking"
+        "bulbapedia": "Seaking",
+        "homeSprite": "seaking-f",
+        "miniSprite": "seaking-f"
     },
     "baseSpecies": "seaking",
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Ducklett",
         "showdownData": "ducklett",
         "serebii": "ducklett",
-        "bulbapedia": "Ducklett"
+        "bulbapedia": "Ducklett",
+        "homeSprite": "ducklett",
+        "miniSprite": "ducklett"
     },
     "baseSpecies": null,
     "baseForms": [],

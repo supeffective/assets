@@ -73,7 +73,9 @@
         "showdownMarkup": "Chesnaught",
         "showdownData": "chesnaught",
         "serebii": "chesnaught",
-        "bulbapedia": "Chesnaught"
+        "bulbapedia": "Chesnaught",
+        "homeSprite": "chesnaught",
+        "miniSprite": "chesnaught"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Galvantula",
         "showdownData": "galvantula",
         "serebii": "galvantula",
-        "bulbapedia": "Galvantula"
+        "bulbapedia": "Galvantula",
+        "homeSprite": "galvantula",
+        "miniSprite": "galvantula"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Armaldo",
         "showdownData": "armaldo",
         "serebii": "armaldo",
-        "bulbapedia": "Armaldo"
+        "bulbapedia": "Armaldo",
+        "homeSprite": "armaldo",
+        "miniSprite": "armaldo"
     },
     "baseSpecies": null,
     "baseForms": [],

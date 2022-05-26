@@ -71,7 +71,9 @@
         "showdownMarkup": "Pikachu-Gmax",
         "showdownData": "pikachugmax",
         "serebii": "pikachu-gmax",
-        "bulbapedia": "Pikachu"
+        "bulbapedia": "Pikachu",
+        "homeSprite": "pikachu-gmax",
+        "miniSprite": "pikachu-gmax"
     },
     "baseSpecies": "pikachu",
     "baseForms": [

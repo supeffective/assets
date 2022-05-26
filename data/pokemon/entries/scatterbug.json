@@ -73,7 +73,9 @@
         "showdownMarkup": "Scatterbug",
         "showdownData": "scatterbug",
         "serebii": "scatterbug",
-        "bulbapedia": "Scatterbug"
+        "bulbapedia": "Scatterbug",
+        "homeSprite": "scatterbug",
+        "miniSprite": "scatterbug"
     },
     "baseSpecies": null,
     "baseForms": [],

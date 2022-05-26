@@ -73,7 +73,9 @@
         "showdownMarkup": "Pikachu-Alola",
         "showdownData": "pikachualola",
         "serebii": "pikachu-alola",
-        "bulbapedia": "Pikachu"
+        "bulbapedia": "Pikachu",
+        "homeSprite": "pikachu-alola",
+        "miniSprite": "pikachu-alola"
     },
     "baseSpecies": "pikachu",
     "baseForms": [],

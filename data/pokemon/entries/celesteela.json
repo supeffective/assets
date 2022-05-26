@@ -73,7 +73,9 @@
         "showdownMarkup": "Celesteela",
         "showdownData": "celesteela",
         "serebii": "celesteela",
-        "bulbapedia": "Celesteela"
+        "bulbapedia": "Celesteela",
+        "homeSprite": "celesteela",
+        "miniSprite": "celesteela"
     },
     "baseSpecies": null,
     "baseForms": [],

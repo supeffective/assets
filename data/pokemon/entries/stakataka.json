@@ -73,7 +73,9 @@
         "showdownMarkup": "Stakataka",
         "showdownData": "stakataka",
         "serebii": "stakataka",
-        "bulbapedia": "Stakataka"
+        "bulbapedia": "Stakataka",
+        "homeSprite": "stakataka",
+        "miniSprite": "stakataka"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -80,7 +80,9 @@
         "showdownMarkup": "Necrozma-Ultra",
         "showdownData": "necrozmaultra",
         "serebii": "necrozma-ultra",
-        "bulbapedia": "Necrozma"
+        "bulbapedia": "Necrozma",
+        "homeSprite": "necrozma-ultra",
+        "miniSprite": "necrozma-ultra"
     },
     "baseSpecies": "necrozma",
     "baseForms": [

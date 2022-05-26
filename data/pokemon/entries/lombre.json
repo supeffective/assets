@@ -73,7 +73,9 @@
         "showdownMarkup": "Lombre",
         "showdownData": "lombre",
         "serebii": "lombre",
-        "bulbapedia": "Lombre"
+        "bulbapedia": "Lombre",
+        "homeSprite": "lombre",
+        "miniSprite": "lombre"
     },
     "baseSpecies": null,
     "baseForms": [],

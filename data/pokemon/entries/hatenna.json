@@ -73,7 +73,9 @@
         "showdownMarkup": "Hatenna",
         "showdownData": "hatenna",
         "serebii": "hatenna",
-        "bulbapedia": "Hatenna"
+        "bulbapedia": "Hatenna",
+        "homeSprite": "hatenna",
+        "miniSprite": "hatenna"
     },
     "baseSpecies": null,
     "baseForms": [],

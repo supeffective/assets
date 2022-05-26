@@ -73,7 +73,9 @@
         "showdownMarkup": "Houndour",
         "showdownData": "houndour",
         "serebii": "houndour",
-        "bulbapedia": "Houndour"
+        "bulbapedia": "Houndour",
+        "homeSprite": "houndour",
+        "miniSprite": "houndour"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -71,7 +71,9 @@
         "showdownMarkup": "Snorlax-Gmax",
         "showdownData": "snorlaxgmax",
         "serebii": "snorlax-gmax",
-        "bulbapedia": "Snorlax"
+        "bulbapedia": "Snorlax",
+        "homeSprite": "snorlax-gmax",
+        "miniSprite": "snorlax-gmax"
     },
     "baseSpecies": "snorlax",
     "baseForms": [

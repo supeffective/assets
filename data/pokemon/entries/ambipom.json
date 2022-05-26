@@ -73,7 +73,9 @@
         "showdownMarkup": "Ambipom",
         "showdownData": "ambipom",
         "serebii": "ambipom",
-        "bulbapedia": "Ambipom"
+        "bulbapedia": "Ambipom",
+        "homeSprite": "ambipom",
+        "miniSprite": "ambipom"
     },
     "baseSpecies": null,
     "baseForms": [],

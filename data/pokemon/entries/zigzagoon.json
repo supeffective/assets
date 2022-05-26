@@ -73,7 +73,9 @@
         "showdownMarkup": "Zigzagoon",
         "showdownData": "zigzagoon",
         "serebii": "zigzagoon",
-        "bulbapedia": "Zigzagoon"
+        "bulbapedia": "Zigzagoon",
+        "homeSprite": "zigzagoon",
+        "miniSprite": "zigzagoon"
     },
     "baseSpecies": null,
     "baseForms": [],

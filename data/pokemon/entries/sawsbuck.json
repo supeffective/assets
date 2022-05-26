@@ -73,7 +73,9 @@
         "showdownMarkup": "Sawsbuck",
         "showdownData": "sawsbuck",
         "serebii": "sawsbuck",
-        "bulbapedia": "Sawsbuck"
+        "bulbapedia": "Sawsbuck",
+        "homeSprite": "sawsbuck",
+        "miniSprite": "sawsbuck"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Vivillon-Pokeball",
         "showdownData": "vivillonpokeball",
         "serebii": "vivillon-pokeball",
-        "bulbapedia": "Vivillon"
+        "bulbapedia": "Vivillon",
+        "homeSprite": "vivillon-pokeball",
+        "miniSprite": "vivillon-pokeball"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

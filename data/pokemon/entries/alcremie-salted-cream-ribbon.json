@@ -73,7 +73,9 @@
         "showdownMarkup": "Alcremie-Salted-Cream-Ribbon",
         "showdownData": "alcremiesaltedcreamribbon",
         "serebii": "alcremie-salted-cream-ribbon",
-        "bulbapedia": "Alcremie"
+        "bulbapedia": "Alcremie",
+        "homeSprite": "alcremie-salted-cream-ribbon",
+        "miniSprite": "alcremie-salted-cream-ribbon"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

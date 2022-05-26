@@ -73,7 +73,9 @@
         "showdownMarkup": "Tyrunt",
         "showdownData": "tyrunt",
         "serebii": "tyrunt",
-        "bulbapedia": "Tyrunt"
+        "bulbapedia": "Tyrunt",
+        "homeSprite": "tyrunt",
+        "miniSprite": "tyrunt"
     },
     "baseSpecies": null,
     "baseForms": [],

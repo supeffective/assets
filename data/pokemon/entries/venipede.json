@@ -73,7 +73,9 @@
         "showdownMarkup": "Venipede",
         "showdownData": "venipede",
         "serebii": "venipede",
-        "bulbapedia": "Venipede"
+        "bulbapedia": "Venipede",
+        "homeSprite": "venipede",
+        "miniSprite": "venipede"
     },
     "baseSpecies": null,
     "baseForms": [],

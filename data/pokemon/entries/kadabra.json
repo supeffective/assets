@@ -73,7 +73,9 @@
         "showdownMarkup": "Kadabra",
         "showdownData": "kadabra",
         "serebii": "kadabra",
-        "bulbapedia": "Kadabra"
+        "bulbapedia": "Kadabra",
+        "homeSprite": "kadabra",
+        "miniSprite": "kadabra"
     },
     "baseSpecies": null,
     "baseForms": [],

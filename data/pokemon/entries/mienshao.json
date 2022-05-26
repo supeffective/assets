@@ -73,7 +73,9 @@
         "showdownMarkup": "Mienshao",
         "showdownData": "mienshao",
         "serebii": "mienshao",
-        "bulbapedia": "Mienshao"
+        "bulbapedia": "Mienshao",
+        "homeSprite": "mienshao",
+        "miniSprite": "mienshao"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -71,7 +71,9 @@
         "showdownMarkup": "Orbeetle-Gmax",
         "showdownData": "orbeetlegmax",
         "serebii": "orbeetle-gmax",
-        "bulbapedia": "Orbeetle"
+        "bulbapedia": "Orbeetle",
+        "homeSprite": "orbeetle-gmax",
+        "miniSprite": "orbeetle-gmax"
     },
     "baseSpecies": "orbeetle",
     "baseForms": [

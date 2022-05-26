@@ -73,7 +73,9 @@
         "showdownMarkup": "Larvitar",
         "showdownData": "larvitar",
         "serebii": "larvitar",
-        "bulbapedia": "Larvitar"
+        "bulbapedia": "Larvitar",
+        "homeSprite": "larvitar",
+        "miniSprite": "larvitar"
     },
     "baseSpecies": null,
     "baseForms": [],

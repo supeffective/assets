@@ -73,7 +73,9 @@
         "showdownMarkup": "Simipour",
         "showdownData": "simipour",
         "serebii": "simipour",
-        "bulbapedia": "Simipour"
+        "bulbapedia": "Simipour",
+        "homeSprite": "simipour",
+        "miniSprite": "simipour"
     },
     "baseSpecies": null,
     "baseForms": [],

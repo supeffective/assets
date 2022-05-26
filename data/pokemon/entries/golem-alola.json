@@ -73,7 +73,9 @@
         "showdownMarkup": "Golem-Alola",
         "showdownData": "golemalola",
         "serebii": "golem-alola",
-        "bulbapedia": "Golem"
+        "bulbapedia": "Golem",
+        "homeSprite": "golem-alola",
+        "miniSprite": "golem-alola"
     },
     "baseSpecies": "golem",
     "baseForms": [],

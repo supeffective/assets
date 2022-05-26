@@ -73,7 +73,9 @@
         "showdownMarkup": "Linoone",
         "showdownData": "linoone",
         "serebii": "linoone",
-        "bulbapedia": "Linoone"
+        "bulbapedia": "Linoone",
+        "homeSprite": "linoone",
+        "miniSprite": "linoone"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Poliwhirl",
         "showdownData": "poliwhirl",
         "serebii": "poliwhirl",
-        "bulbapedia": "Poliwhirl"
+        "bulbapedia": "Poliwhirl",
+        "homeSprite": "poliwhirl",
+        "miniSprite": "poliwhirl"
     },
     "baseSpecies": null,
     "baseForms": [],

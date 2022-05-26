@@ -73,7 +73,9 @@
         "showdownMarkup": "Ferrothorn",
         "showdownData": "ferrothorn",
         "serebii": "ferrothorn",
-        "bulbapedia": "Ferrothorn"
+        "bulbapedia": "Ferrothorn",
+        "homeSprite": "ferrothorn",
+        "miniSprite": "ferrothorn"
     },
     "baseSpecies": null,
     "baseForms": [],

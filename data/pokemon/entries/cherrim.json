@@ -73,7 +73,9 @@
         "showdownMarkup": "Cherrim",
         "showdownData": "cherrim",
         "serebii": "cherrim",
-        "bulbapedia": "Cherrim"
+        "bulbapedia": "Cherrim",
+        "homeSprite": "cherrim",
+        "miniSprite": "cherrim"
     },
     "baseSpecies": null,
     "baseForms": [],

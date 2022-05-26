@@ -73,7 +73,9 @@
         "showdownMarkup": "Gyarados-F",
         "showdownData": "gyaradosf",
         "serebii": "gyarados-f",
-        "bulbapedia": "Gyarados"
+        "bulbapedia": "Gyarados",
+        "homeSprite": "gyarados-f",
+        "miniSprite": "gyarados-f"
     },
     "baseSpecies": "gyarados",
     "baseForms": [],

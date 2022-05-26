@@ -73,7 +73,9 @@
         "showdownMarkup": "Grapploct",
         "showdownData": "grapploct",
         "serebii": "grapploct",
-        "bulbapedia": "Grapploct"
+        "bulbapedia": "Grapploct",
+        "homeSprite": "grapploct",
+        "miniSprite": "grapploct"
     },
     "baseSpecies": null,
     "baseForms": [],

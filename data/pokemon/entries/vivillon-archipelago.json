@@ -73,7 +73,9 @@
         "showdownMarkup": "Vivillon-Archipelago",
         "showdownData": "vivillonarchipelago",
         "serebii": "vivillon-archipelago",
-        "bulbapedia": "Vivillon"
+        "bulbapedia": "Vivillon",
+        "homeSprite": "vivillon-archipelago",
+        "miniSprite": "vivillon-archipelago"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

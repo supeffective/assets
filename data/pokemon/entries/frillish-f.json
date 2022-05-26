@@ -73,7 +73,9 @@
         "showdownMarkup": "Frillish-F",
         "showdownData": "frillishf",
         "serebii": "frillish-f",
-        "bulbapedia": "Frillish"
+        "bulbapedia": "Frillish",
+        "homeSprite": "frillish-f",
+        "miniSprite": "frillish-f"
     },
     "baseSpecies": "frillish",
     "baseForms": [],

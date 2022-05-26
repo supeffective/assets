@@ -73,7 +73,9 @@
         "showdownMarkup": "Espurr",
         "showdownData": "espurr",
         "serebii": "espurr",
-        "bulbapedia": "Espurr"
+        "bulbapedia": "Espurr",
+        "homeSprite": "espurr",
+        "miniSprite": "espurr"
     },
     "baseSpecies": null,
     "baseForms": [],

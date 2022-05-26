@@ -73,7 +73,9 @@
         "showdownMarkup": "Dunsparce",
         "showdownData": "dunsparce",
         "serebii": "dunsparce",
-        "bulbapedia": "Dunsparce"
+        "bulbapedia": "Dunsparce",
+        "homeSprite": "dunsparce",
+        "miniSprite": "dunsparce"
     },
     "baseSpecies": null,
     "baseForms": [],

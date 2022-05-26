@@ -71,7 +71,9 @@
         "showdownMarkup": "Aegislash-Blade",
         "showdownData": "aegislashblade",
         "serebii": "aegislash-blade",
-        "bulbapedia": "Aegislash"
+        "bulbapedia": "Aegislash",
+        "homeSprite": "aegislash-blade",
+        "miniSprite": "aegislash-blade"
     },
     "baseSpecies": "aegislash",
     "baseForms": [

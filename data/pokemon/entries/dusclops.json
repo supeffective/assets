@@ -73,7 +73,9 @@
         "showdownMarkup": "Dusclops",
         "showdownData": "dusclops",
         "serebii": "dusclops",
-        "bulbapedia": "Dusclops"
+        "bulbapedia": "Dusclops",
+        "homeSprite": "dusclops",
+        "miniSprite": "dusclops"
     },
     "baseSpecies": null,
     "baseForms": [],

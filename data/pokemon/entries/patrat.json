@@ -73,7 +73,9 @@
         "showdownMarkup": "Patrat",
         "showdownData": "patrat",
         "serebii": "patrat",
-        "bulbapedia": "Patrat"
+        "bulbapedia": "Patrat",
+        "homeSprite": "patrat",
+        "miniSprite": "patrat"
     },
     "baseSpecies": null,
     "baseForms": [],

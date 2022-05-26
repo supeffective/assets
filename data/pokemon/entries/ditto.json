@@ -73,7 +73,9 @@
         "showdownMarkup": "Ditto",
         "showdownData": "ditto",
         "serebii": "ditto",
-        "bulbapedia": "Ditto"
+        "bulbapedia": "Ditto",
+        "homeSprite": "ditto",
+        "miniSprite": "ditto"
     },
     "baseSpecies": null,
     "baseForms": [],

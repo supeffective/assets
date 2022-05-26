@@ -71,7 +71,9 @@
         "showdownMarkup": "Venusaur-Gmax",
         "showdownData": "venusaurgmax",
         "serebii": "venusaur-gmax",
-        "bulbapedia": "Venusaur"
+        "bulbapedia": "Venusaur",
+        "homeSprite": "venusaur-gmax",
+        "miniSprite": "venusaur-gmax"
     },
     "baseSpecies": "venusaur",
     "baseForms": [

@@ -73,7 +73,9 @@
         "showdownMarkup": "Helioptile",
         "showdownData": "helioptile",
         "serebii": "helioptile",
-        "bulbapedia": "Helioptile"
+        "bulbapedia": "Helioptile",
+        "homeSprite": "helioptile",
+        "miniSprite": "helioptile"
     },
     "baseSpecies": null,
     "baseForms": [],

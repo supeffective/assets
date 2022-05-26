@@ -73,7 +73,9 @@
         "showdownMarkup": "Delcatty",
         "showdownData": "delcatty",
         "serebii": "delcatty",
-        "bulbapedia": "Delcatty"
+        "bulbapedia": "Delcatty",
+        "homeSprite": "delcatty",
+        "miniSprite": "delcatty"
     },
     "baseSpecies": null,
     "baseForms": [],

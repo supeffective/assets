@@ -73,7 +73,9 @@
         "showdownMarkup": "Corviknight",
         "showdownData": "corviknight",
         "serebii": "corviknight",
-        "bulbapedia": "Corviknight"
+        "bulbapedia": "Corviknight",
+        "homeSprite": "corviknight",
+        "miniSprite": "corviknight"
     },
     "baseSpecies": null,
     "baseForms": [],

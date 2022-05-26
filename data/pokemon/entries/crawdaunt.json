@@ -73,7 +73,9 @@
         "showdownMarkup": "Crawdaunt",
         "showdownData": "crawdaunt",
         "serebii": "crawdaunt",
-        "bulbapedia": "Crawdaunt"
+        "bulbapedia": "Crawdaunt",
+        "homeSprite": "crawdaunt",
+        "miniSprite": "crawdaunt"
     },
     "baseSpecies": null,
     "baseForms": [],

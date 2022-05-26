@@ -73,7 +73,9 @@
         "showdownMarkup": "Croconaw",
         "showdownData": "croconaw",
         "serebii": "croconaw",
-        "bulbapedia": "Croconaw"
+        "bulbapedia": "Croconaw",
+        "homeSprite": "croconaw",
+        "miniSprite": "croconaw"
     },
     "baseSpecies": null,
     "baseForms": [],

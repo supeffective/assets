@@ -73,7 +73,9 @@
         "showdownMarkup": "Marshtomp",
         "showdownData": "marshtomp",
         "serebii": "marshtomp",
-        "bulbapedia": "Marshtomp"
+        "bulbapedia": "Marshtomp",
+        "homeSprite": "marshtomp",
+        "miniSprite": "marshtomp"
     },
     "baseSpecies": null,
     "baseForms": [],

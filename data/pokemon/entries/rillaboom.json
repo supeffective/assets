@@ -73,7 +73,9 @@
         "showdownMarkup": "Rillaboom",
         "showdownData": "rillaboom",
         "serebii": "rillaboom",
-        "bulbapedia": "Rillaboom"
+        "bulbapedia": "Rillaboom",
+        "homeSprite": "rillaboom",
+        "miniSprite": "rillaboom"
     },
     "baseSpecies": null,
     "baseForms": [],

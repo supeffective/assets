@@ -73,7 +73,9 @@
         "showdownMarkup": "Krabby",
         "showdownData": "krabby",
         "serebii": "krabby",
-        "bulbapedia": "Krabby"
+        "bulbapedia": "Krabby",
+        "homeSprite": "krabby",
+        "miniSprite": "krabby"
     },
     "baseSpecies": null,
     "baseForms": [],

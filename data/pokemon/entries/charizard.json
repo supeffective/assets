@@ -73,7 +73,9 @@
         "showdownMarkup": "Charizard",
         "showdownData": "charizard",
         "serebii": "charizard",
-        "bulbapedia": "Charizard"
+        "bulbapedia": "Charizard",
+        "homeSprite": "charizard",
+        "miniSprite": "charizard"
     },
     "baseSpecies": null,
     "baseForms": [],

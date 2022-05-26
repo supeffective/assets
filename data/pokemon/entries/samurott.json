@@ -73,7 +73,9 @@
         "showdownMarkup": "Samurott",
         "showdownData": "samurott",
         "serebii": "samurott",
-        "bulbapedia": "Samurott"
+        "bulbapedia": "Samurott",
+        "homeSprite": "samurott",
+        "miniSprite": "samurott"
     },
     "baseSpecies": null,
     "baseForms": [],

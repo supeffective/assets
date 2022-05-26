@@ -73,7 +73,9 @@
         "showdownMarkup": "Omanyte",
         "showdownData": "omanyte",
         "serebii": "omanyte",
-        "bulbapedia": "Omanyte"
+        "bulbapedia": "Omanyte",
+        "homeSprite": "omanyte",
+        "miniSprite": "omanyte"
     },
     "baseSpecies": null,
     "baseForms": [],

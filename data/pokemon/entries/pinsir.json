@@ -73,7 +73,9 @@
         "showdownMarkup": "Pinsir",
         "showdownData": "pinsir",
         "serebii": "pinsir",
-        "bulbapedia": "Pinsir"
+        "bulbapedia": "Pinsir",
+        "homeSprite": "pinsir",
+        "miniSprite": "pinsir"
     },
     "baseSpecies": null,
     "baseForms": [],

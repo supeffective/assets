@@ -73,7 +73,9 @@
         "showdownMarkup": "Zigzagoon-Galar",
         "showdownData": "zigzagoongalar",
         "serebii": "zigzagoon-galar",
-        "bulbapedia": "Zigzagoon"
+        "bulbapedia": "Zigzagoon",
+        "homeSprite": "zigzagoon-galar",
+        "miniSprite": "zigzagoon-galar"
     },
     "baseSpecies": "zigzagoon",
     "baseForms": [],

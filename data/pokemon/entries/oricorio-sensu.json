@@ -73,7 +73,9 @@
         "showdownMarkup": "Oricorio-Sensu",
         "showdownData": "oricoriosensu",
         "serebii": "oricorio-sensu",
-        "bulbapedia": "Oricorio"
+        "bulbapedia": "Oricorio",
+        "homeSprite": "oricorio-sensu",
+        "miniSprite": "oricorio-sensu"
     },
     "baseSpecies": "oricorio",
     "baseForms": [],

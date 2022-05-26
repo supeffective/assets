@@ -73,7 +73,9 @@
         "showdownMarkup": "Kricketune-F",
         "showdownData": "kricketunef",
         "serebii": "kricketune-f",
-        "bulbapedia": "Kricketune"
+        "bulbapedia": "Kricketune",
+        "homeSprite": "kricketune-f",
+        "miniSprite": "kricketune-f"
     },
     "baseSpecies": "kricketune",
     "baseForms": [],

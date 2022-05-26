@@ -73,7 +73,9 @@
         "showdownMarkup": "Combee-F",
         "showdownData": "combeef",
         "serebii": "combee-f",
-        "bulbapedia": "Combee"
+        "bulbapedia": "Combee",
+        "homeSprite": "combee-f",
+        "miniSprite": "combee-f"
     },
     "baseSpecies": "combee",
     "baseForms": [],

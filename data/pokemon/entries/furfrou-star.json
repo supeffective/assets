@@ -73,7 +73,9 @@
         "showdownMarkup": "Furfrou-Star",
         "showdownData": "furfroustar",
         "serebii": "furfrou-star",
-        "bulbapedia": "Furfrou"
+        "bulbapedia": "Furfrou",
+        "homeSprite": "furfrou-star",
+        "miniSprite": "furfrou-star"
     },
     "baseSpecies": "furfrou",
     "baseForms": [

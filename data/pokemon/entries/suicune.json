@@ -73,7 +73,9 @@
         "showdownMarkup": "Suicune",
         "showdownData": "suicune",
         "serebii": "suicune",
-        "bulbapedia": "Suicune"
+        "bulbapedia": "Suicune",
+        "homeSprite": "suicune",
+        "miniSprite": "suicune"
     },
     "baseSpecies": null,
     "baseForms": [],

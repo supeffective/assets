@@ -73,7 +73,9 @@
         "showdownMarkup": "Nidoking",
         "showdownData": "nidoking",
         "serebii": "nidoking",
-        "bulbapedia": "Nidoking"
+        "bulbapedia": "Nidoking",
+        "homeSprite": "nidoking",
+        "miniSprite": "nidoking"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Nihilego",
         "showdownData": "nihilego",
         "serebii": "nihilego",
-        "bulbapedia": "Nihilego"
+        "bulbapedia": "Nihilego",
+        "homeSprite": "nihilego",
+        "miniSprite": "nihilego"
     },
     "baseSpecies": null,
     "baseForms": [],

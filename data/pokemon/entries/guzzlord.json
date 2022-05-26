@@ -73,7 +73,9 @@
         "showdownMarkup": "Guzzlord",
         "showdownData": "guzzlord",
         "serebii": "guzzlord",
-        "bulbapedia": "Guzzlord"
+        "bulbapedia": "Guzzlord",
+        "homeSprite": "guzzlord",
+        "miniSprite": "guzzlord"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Lanturn",
         "showdownData": "lanturn",
         "serebii": "lanturn",
-        "bulbapedia": "Lanturn"
+        "bulbapedia": "Lanturn",
+        "homeSprite": "lanturn",
+        "miniSprite": "lanturn"
     },
     "baseSpecies": null,
     "baseForms": [],

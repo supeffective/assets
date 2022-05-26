@@ -73,7 +73,9 @@
         "showdownMarkup": "Bounsweet",
         "showdownData": "bounsweet",
         "serebii": "bounsweet",
-        "bulbapedia": "Bounsweet"
+        "bulbapedia": "Bounsweet",
+        "homeSprite": "bounsweet",
+        "miniSprite": "bounsweet"
     },
     "baseSpecies": null,
     "baseForms": [],

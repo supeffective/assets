@@ -73,7 +73,9 @@
         "showdownMarkup": "Muk-Alola",
         "showdownData": "mukalola",
         "serebii": "muk-alola",
-        "bulbapedia": "Muk"
+        "bulbapedia": "Muk",
+        "homeSprite": "muk-alola",
+        "miniSprite": "muk-alola"
     },
     "baseSpecies": "muk",
     "baseForms": [],

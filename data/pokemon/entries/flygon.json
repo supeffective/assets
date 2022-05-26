@@ -73,7 +73,9 @@
         "showdownMarkup": "Flygon",
         "showdownData": "flygon",
         "serebii": "flygon",
-        "bulbapedia": "Flygon"
+        "bulbapedia": "Flygon",
+        "homeSprite": "flygon",
+        "miniSprite": "flygon"
     },
     "baseSpecies": null,
     "baseForms": [],

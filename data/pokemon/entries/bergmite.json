@@ -73,7 +73,9 @@
         "showdownMarkup": "Bergmite",
         "showdownData": "bergmite",
         "serebii": "bergmite",
-        "bulbapedia": "Bergmite"
+        "bulbapedia": "Bergmite",
+        "homeSprite": "bergmite",
+        "miniSprite": "bergmite"
     },
     "baseSpecies": null,
     "baseForms": [],

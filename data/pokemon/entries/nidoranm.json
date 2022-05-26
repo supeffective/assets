@@ -73,7 +73,9 @@
         "showdownMarkup": "Nidoranm",
         "showdownData": "nidoranm",
         "serebii": "nidoranm",
-        "bulbapedia": "Nidoran♂"
+        "bulbapedia": "Nidoran♂",
+        "homeSprite": "nidoranm",
+        "miniSprite": "nidoranm"
     },
     "baseSpecies": null,
     "baseForms": [],

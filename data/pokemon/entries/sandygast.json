@@ -73,7 +73,9 @@
         "showdownMarkup": "Sandygast",
         "showdownData": "sandygast",
         "serebii": "sandygast",
-        "bulbapedia": "Sandygast"
+        "bulbapedia": "Sandygast",
+        "homeSprite": "sandygast",
+        "miniSprite": "sandygast"
     },
     "baseSpecies": null,
     "baseForms": [],

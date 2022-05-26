@@ -71,7 +71,9 @@
         "showdownMarkup": "Kyogre-Primal",
         "showdownData": "kyogreprimal",
         "serebii": "kyogre-primal",
-        "bulbapedia": "Kyogre"
+        "bulbapedia": "Kyogre",
+        "homeSprite": "kyogre-primal",
+        "miniSprite": "kyogre-primal"
     },
     "baseSpecies": "kyogre",
     "baseForms": [

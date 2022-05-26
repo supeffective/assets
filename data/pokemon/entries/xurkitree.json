@@ -73,7 +73,9 @@
         "showdownMarkup": "Xurkitree",
         "showdownData": "xurkitree",
         "serebii": "xurkitree",
-        "bulbapedia": "Xurkitree"
+        "bulbapedia": "Xurkitree",
+        "homeSprite": "xurkitree",
+        "miniSprite": "xurkitree"
     },
     "baseSpecies": null,
     "baseForms": [],

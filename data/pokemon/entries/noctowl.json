@@ -73,7 +73,9 @@
         "showdownMarkup": "Noctowl",
         "showdownData": "noctowl",
         "serebii": "noctowl",
-        "bulbapedia": "Noctowl"
+        "bulbapedia": "Noctowl",
+        "homeSprite": "noctowl",
+        "miniSprite": "noctowl"
     },
     "baseSpecies": null,
     "baseForms": [],

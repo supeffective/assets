@@ -73,7 +73,9 @@
         "showdownMarkup": "Golisopod",
         "showdownData": "golisopod",
         "serebii": "golisopod",
-        "bulbapedia": "Golisopod"
+        "bulbapedia": "Golisopod",
+        "homeSprite": "golisopod",
+        "miniSprite": "golisopod"
     },
     "baseSpecies": null,
     "baseForms": [],

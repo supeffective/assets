@@ -73,7 +73,9 @@
         "showdownMarkup": "Roserade",
         "showdownData": "roserade",
         "serebii": "roserade",
-        "bulbapedia": "Roserade"
+        "bulbapedia": "Roserade",
+        "homeSprite": "roserade",
+        "miniSprite": "roserade"
     },
     "baseSpecies": null,
     "baseForms": [],

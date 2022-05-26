@@ -71,7 +71,9 @@
         "showdownMarkup": "Silvally-Flying",
         "showdownData": "silvallyflying",
         "serebii": "silvally-flying",
-        "bulbapedia": "Silvally"
+        "bulbapedia": "Silvally",
+        "homeSprite": "silvally-flying",
+        "miniSprite": "silvally-flying"
     },
     "baseSpecies": "silvally",
     "baseForms": [

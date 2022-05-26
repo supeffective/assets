@@ -73,7 +73,9 @@
         "showdownMarkup": "Kricketot-F",
         "showdownData": "kricketotf",
         "serebii": "kricketot-f",
-        "bulbapedia": "Kricketot"
+        "bulbapedia": "Kricketot",
+        "homeSprite": "kricketot-f",
+        "miniSprite": "kricketot-f"
     },
     "baseSpecies": "kricketot",
     "baseForms": [],

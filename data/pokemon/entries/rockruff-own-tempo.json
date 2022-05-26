@@ -73,7 +73,9 @@
         "showdownMarkup": "Rockruff-Own-Tempo",
         "showdownData": "rockruffowntempo",
         "serebii": "rockruff-own-tempo",
-        "bulbapedia": "Rockruff"
+        "bulbapedia": "Rockruff",
+        "homeSprite": "rockruff-own-tempo",
+        "miniSprite": "rockruff-own-tempo"
     },
     "baseSpecies": "rockruff",
     "baseForms": [],

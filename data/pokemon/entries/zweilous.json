@@ -73,7 +73,9 @@
         "showdownMarkup": "Zweilous",
         "showdownData": "zweilous",
         "serebii": "zweilous",
-        "bulbapedia": "Zweilous"
+        "bulbapedia": "Zweilous",
+        "homeSprite": "zweilous",
+        "miniSprite": "zweilous"
     },
     "baseSpecies": null,
     "baseForms": [],

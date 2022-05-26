@@ -73,7 +73,9 @@
         "showdownMarkup": "Marshadow",
         "showdownData": "marshadow",
         "serebii": "marshadow",
-        "bulbapedia": "Marshadow"
+        "bulbapedia": "Marshadow",
+        "homeSprite": "marshadow",
+        "miniSprite": "marshadow"
     },
     "baseSpecies": null,
     "baseForms": [],

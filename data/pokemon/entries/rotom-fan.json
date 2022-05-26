@@ -73,7 +73,9 @@
         "showdownMarkup": "Rotom-Fan",
         "showdownData": "rotomfan",
         "serebii": "rotom-fan",
-        "bulbapedia": "Rotom"
+        "bulbapedia": "Rotom",
+        "homeSprite": "rotom-fan",
+        "miniSprite": "rotom-fan"
     },
     "baseSpecies": "rotom",
     "baseForms": [

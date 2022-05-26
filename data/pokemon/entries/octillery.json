@@ -73,7 +73,9 @@
         "showdownMarkup": "Octillery",
         "showdownData": "octillery",
         "serebii": "octillery",
-        "bulbapedia": "Octillery"
+        "bulbapedia": "Octillery",
+        "homeSprite": "octillery",
+        "miniSprite": "octillery"
     },
     "baseSpecies": null,
     "baseForms": [],

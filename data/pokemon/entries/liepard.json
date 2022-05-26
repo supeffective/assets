@@ -73,7 +73,9 @@
         "showdownMarkup": "Liepard",
         "showdownData": "liepard",
         "serebii": "liepard",
-        "bulbapedia": "Liepard"
+        "bulbapedia": "Liepard",
+        "homeSprite": "liepard",
+        "miniSprite": "liepard"
     },
     "baseSpecies": null,
     "baseForms": [],

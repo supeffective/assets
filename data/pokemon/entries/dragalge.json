@@ -73,7 +73,9 @@
         "showdownMarkup": "Dragalge",
         "showdownData": "dragalge",
         "serebii": "dragalge",
-        "bulbapedia": "Dragalge"
+        "bulbapedia": "Dragalge",
+        "homeSprite": "dragalge",
+        "miniSprite": "dragalge"
     },
     "baseSpecies": null,
     "baseForms": [],

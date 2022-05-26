@@ -73,7 +73,9 @@
         "showdownMarkup": "Drowzee",
         "showdownData": "drowzee",
         "serebii": "drowzee",
-        "bulbapedia": "Drowzee"
+        "bulbapedia": "Drowzee",
+        "homeSprite": "drowzee",
+        "miniSprite": "drowzee"
     },
     "baseSpecies": null,
     "baseForms": [],

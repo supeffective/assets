@@ -73,7 +73,9 @@
         "showdownMarkup": "Persian",
         "showdownData": "persian",
         "serebii": "persian",
-        "bulbapedia": "Persian"
+        "bulbapedia": "Persian",
+        "homeSprite": "persian",
+        "miniSprite": "persian"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Grumpig",
         "showdownData": "grumpig",
         "serebii": "grumpig",
-        "bulbapedia": "Grumpig"
+        "bulbapedia": "Grumpig",
+        "homeSprite": "grumpig",
+        "miniSprite": "grumpig"
     },
     "baseSpecies": null,
     "baseForms": [],

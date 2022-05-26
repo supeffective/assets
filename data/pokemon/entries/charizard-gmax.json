@@ -71,7 +71,9 @@
         "showdownMarkup": "Charizard-Gmax",
         "showdownData": "charizardgmax",
         "serebii": "charizard-gmax",
-        "bulbapedia": "Charizard"
+        "bulbapedia": "Charizard",
+        "homeSprite": "charizard-gmax",
+        "miniSprite": "charizard-gmax"
     },
     "baseSpecies": "charizard",
     "baseForms": [

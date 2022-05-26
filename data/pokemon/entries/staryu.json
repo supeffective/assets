@@ -73,7 +73,9 @@
         "showdownMarkup": "Staryu",
         "showdownData": "staryu",
         "serebii": "staryu",
-        "bulbapedia": "Staryu"
+        "bulbapedia": "Staryu",
+        "homeSprite": "staryu",
+        "miniSprite": "staryu"
     },
     "baseSpecies": null,
     "baseForms": [],

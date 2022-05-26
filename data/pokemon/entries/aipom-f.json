@@ -73,7 +73,9 @@
         "showdownMarkup": "Aipom-F",
         "showdownData": "aipomf",
         "serebii": "aipom-f",
-        "bulbapedia": "Aipom"
+        "bulbapedia": "Aipom",
+        "homeSprite": "aipom-f",
+        "miniSprite": "aipom-f"
     },
     "baseSpecies": "aipom",
     "baseForms": [],

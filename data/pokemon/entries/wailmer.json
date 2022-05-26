@@ -73,7 +73,9 @@
         "showdownMarkup": "Wailmer",
         "showdownData": "wailmer",
         "serebii": "wailmer",
-        "bulbapedia": "Wailmer"
+        "bulbapedia": "Wailmer",
+        "homeSprite": "wailmer",
+        "miniSprite": "wailmer"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Burmy-Trash",
         "showdownData": "burmytrash",
         "serebii": "burmy-trash",
-        "bulbapedia": "Burmy"
+        "bulbapedia": "Burmy",
+        "homeSprite": "burmy-trash",
+        "miniSprite": "burmy-trash"
     },
     "baseSpecies": "burmy",
     "baseForms": [

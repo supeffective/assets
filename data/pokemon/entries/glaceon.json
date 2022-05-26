@@ -73,7 +73,9 @@
         "showdownMarkup": "Glaceon",
         "showdownData": "glaceon",
         "serebii": "glaceon",
-        "bulbapedia": "Glaceon"
+        "bulbapedia": "Glaceon",
+        "homeSprite": "glaceon",
+        "miniSprite": "glaceon"
     },
     "baseSpecies": null,
     "baseForms": [],

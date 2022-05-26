@@ -73,7 +73,9 @@
         "showdownMarkup": "Electrike",
         "showdownData": "electrike",
         "serebii": "electrike",
-        "bulbapedia": "Electrike"
+        "bulbapedia": "Electrike",
+        "homeSprite": "electrike",
+        "miniSprite": "electrike"
     },
     "baseSpecies": null,
     "baseForms": [],

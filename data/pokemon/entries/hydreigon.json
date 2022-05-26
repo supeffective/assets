@@ -73,7 +73,9 @@
         "showdownMarkup": "Hydreigon",
         "showdownData": "hydreigon",
         "serebii": "hydreigon",
-        "bulbapedia": "Hydreigon"
+        "bulbapedia": "Hydreigon",
+        "homeSprite": "hydreigon",
+        "miniSprite": "hydreigon"
     },
     "baseSpecies": null,
     "baseForms": [],

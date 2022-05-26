@@ -73,7 +73,9 @@
         "showdownMarkup": "Ledian",
         "showdownData": "ledian",
         "serebii": "ledian",
-        "bulbapedia": "Ledian"
+        "bulbapedia": "Ledian",
+        "homeSprite": "ledian",
+        "miniSprite": "ledian"
     },
     "baseSpecies": null,
     "baseForms": [],

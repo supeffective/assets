@@ -73,7 +73,9 @@
         "showdownMarkup": "Gothorita",
         "showdownData": "gothorita",
         "serebii": "gothorita",
-        "bulbapedia": "Gothorita"
+        "bulbapedia": "Gothorita",
+        "homeSprite": "gothorita",
+        "miniSprite": "gothorita"
     },
     "baseSpecies": null,
     "baseForms": [],

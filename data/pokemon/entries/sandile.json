@@ -73,7 +73,9 @@
         "showdownMarkup": "Sandile",
         "showdownData": "sandile",
         "serebii": "sandile",
-        "bulbapedia": "Sandile"
+        "bulbapedia": "Sandile",
+        "homeSprite": "sandile",
+        "miniSprite": "sandile"
     },
     "baseSpecies": null,
     "baseForms": [],

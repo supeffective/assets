@@ -73,7 +73,9 @@
         "showdownMarkup": "Luxio-F",
         "showdownData": "luxiof",
         "serebii": "luxio-f",
-        "bulbapedia": "Luxio"
+        "bulbapedia": "Luxio",
+        "homeSprite": "luxio-f",
+        "miniSprite": "luxio-f"
     },
     "baseSpecies": "luxio",
     "baseForms": [],

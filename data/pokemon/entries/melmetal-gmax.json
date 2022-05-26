@@ -71,7 +71,9 @@
         "showdownMarkup": "Melmetal-Gmax",
         "showdownData": "melmetalgmax",
         "serebii": "melmetal-gmax",
-        "bulbapedia": "Melmetal"
+        "bulbapedia": "Melmetal",
+        "homeSprite": "melmetal-gmax",
+        "miniSprite": "melmetal-gmax"
     },
     "baseSpecies": "melmetal",
     "baseForms": [

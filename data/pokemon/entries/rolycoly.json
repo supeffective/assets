@@ -73,7 +73,9 @@
         "showdownMarkup": "Rolycoly",
         "showdownData": "rolycoly",
         "serebii": "rolycoly",
-        "bulbapedia": "Rolycoly"
+        "bulbapedia": "Rolycoly",
+        "homeSprite": "rolycoly",
+        "miniSprite": "rolycoly"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Regieleki",
         "showdownData": "regieleki",
         "serebii": "regieleki",
-        "bulbapedia": "Regieleki"
+        "bulbapedia": "Regieleki",
+        "homeSprite": "regieleki",
+        "miniSprite": "regieleki"
     },
     "baseSpecies": null,
     "baseForms": [],

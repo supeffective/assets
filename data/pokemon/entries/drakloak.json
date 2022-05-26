@@ -73,7 +73,9 @@
         "showdownMarkup": "Drakloak",
         "showdownData": "drakloak",
         "serebii": "drakloak",
-        "bulbapedia": "Drakloak"
+        "bulbapedia": "Drakloak",
+        "homeSprite": "drakloak",
+        "miniSprite": "drakloak"
     },
     "baseSpecies": null,
     "baseForms": [],

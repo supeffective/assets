@@ -73,7 +73,9 @@
         "showdownMarkup": "Murkrow-F",
         "showdownData": "murkrowf",
         "serebii": "murkrow-f",
-        "bulbapedia": "Murkrow"
+        "bulbapedia": "Murkrow",
+        "homeSprite": "murkrow-f",
+        "miniSprite": "murkrow-f"
     },
     "baseSpecies": "murkrow",
     "baseForms": [],

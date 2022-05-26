@@ -73,7 +73,9 @@
         "showdownMarkup": "Palossand",
         "showdownData": "palossand",
         "serebii": "palossand",
-        "bulbapedia": "Palossand"
+        "bulbapedia": "Palossand",
+        "homeSprite": "palossand",
+        "miniSprite": "palossand"
     },
     "baseSpecies": null,
     "baseForms": [],

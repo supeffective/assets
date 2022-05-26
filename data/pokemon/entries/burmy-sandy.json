@@ -73,7 +73,9 @@
         "showdownMarkup": "Burmy-Sandy",
         "showdownData": "burmysandy",
         "serebii": "burmy-sandy",
-        "bulbapedia": "Burmy"
+        "bulbapedia": "Burmy",
+        "homeSprite": "burmy-sandy",
+        "miniSprite": "burmy-sandy"
     },
     "baseSpecies": "burmy",
     "baseForms": [

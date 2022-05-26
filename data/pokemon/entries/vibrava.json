@@ -73,7 +73,9 @@
         "showdownMarkup": "Vibrava",
         "showdownData": "vibrava",
         "serebii": "vibrava",
-        "bulbapedia": "Vibrava"
+        "bulbapedia": "Vibrava",
+        "homeSprite": "vibrava",
+        "miniSprite": "vibrava"
     },
     "baseSpecies": null,
     "baseForms": [],

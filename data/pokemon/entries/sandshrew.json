@@ -73,7 +73,9 @@
         "showdownMarkup": "Sandshrew",
         "showdownData": "sandshrew",
         "serebii": "sandshrew",
-        "bulbapedia": "Sandshrew"
+        "bulbapedia": "Sandshrew",
+        "homeSprite": "sandshrew",
+        "miniSprite": "sandshrew"
     },
     "baseSpecies": null,
     "baseForms": [],

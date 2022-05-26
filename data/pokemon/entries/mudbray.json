@@ -73,7 +73,9 @@
         "showdownMarkup": "Mudbray",
         "showdownData": "mudbray",
         "serebii": "mudbray",
-        "bulbapedia": "Mudbray"
+        "bulbapedia": "Mudbray",
+        "homeSprite": "mudbray",
+        "miniSprite": "mudbray"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Vivillon-Jungle",
         "showdownData": "vivillonjungle",
         "serebii": "vivillon-jungle",
-        "bulbapedia": "Vivillon"
+        "bulbapedia": "Vivillon",
+        "homeSprite": "vivillon-jungle",
+        "miniSprite": "vivillon-jungle"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

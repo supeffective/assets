@@ -73,7 +73,9 @@
         "showdownMarkup": "Flareon",
         "showdownData": "flareon",
         "serebii": "flareon",
-        "bulbapedia": "Flareon"
+        "bulbapedia": "Flareon",
+        "homeSprite": "flareon",
+        "miniSprite": "flareon"
     },
     "baseSpecies": null,
     "baseForms": [],

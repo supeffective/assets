@@ -73,7 +73,9 @@
         "showdownMarkup": "Cosmoem",
         "showdownData": "cosmoem",
         "serebii": "cosmoem",
-        "bulbapedia": "Cosmoem"
+        "bulbapedia": "Cosmoem",
+        "homeSprite": "cosmoem",
+        "miniSprite": "cosmoem"
     },
     "baseSpecies": null,
     "baseForms": [],

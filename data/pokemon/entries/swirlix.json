@@ -73,7 +73,9 @@
         "showdownMarkup": "Swirlix",
         "showdownData": "swirlix",
         "serebii": "swirlix",
-        "bulbapedia": "Swirlix"
+        "bulbapedia": "Swirlix",
+        "homeSprite": "swirlix",
+        "miniSprite": "swirlix"
     },
     "baseSpecies": null,
     "baseForms": [],

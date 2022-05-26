@@ -73,7 +73,9 @@
         "showdownMarkup": "Cottonee",
         "showdownData": "cottonee",
         "serebii": "cottonee",
-        "bulbapedia": "Cottonee"
+        "bulbapedia": "Cottonee",
+        "homeSprite": "cottonee",
+        "miniSprite": "cottonee"
     },
     "baseSpecies": null,
     "baseForms": [],

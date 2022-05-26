@@ -73,7 +73,9 @@
         "showdownMarkup": "Golurk",
         "showdownData": "golurk",
         "serebii": "golurk",
-        "bulbapedia": "Golurk"
+        "bulbapedia": "Golurk",
+        "homeSprite": "golurk",
+        "miniSprite": "golurk"
     },
     "baseSpecies": null,
     "baseForms": [],

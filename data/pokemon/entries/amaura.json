@@ -73,7 +73,9 @@
         "showdownMarkup": "Amaura",
         "showdownData": "amaura",
         "serebii": "amaura",
-        "bulbapedia": "Amaura"
+        "bulbapedia": "Amaura",
+        "homeSprite": "amaura",
+        "miniSprite": "amaura"
     },
     "baseSpecies": null,
     "baseForms": [],

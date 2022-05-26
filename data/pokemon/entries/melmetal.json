@@ -73,7 +73,9 @@
         "showdownMarkup": "Melmetal",
         "showdownData": "melmetal",
         "serebii": "melmetal",
-        "bulbapedia": "Melmetal"
+        "bulbapedia": "Melmetal",
+        "homeSprite": "melmetal",
+        "miniSprite": "melmetal"
     },
     "baseSpecies": null,
     "baseForms": [],

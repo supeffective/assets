@@ -73,7 +73,9 @@
         "showdownMarkup": "Bouffalant",
         "showdownData": "bouffalant",
         "serebii": "bouffalant",
-        "bulbapedia": "Bouffalant"
+        "bulbapedia": "Bouffalant",
+        "homeSprite": "bouffalant",
+        "miniSprite": "bouffalant"
     },
     "baseSpecies": null,
     "baseForms": [],

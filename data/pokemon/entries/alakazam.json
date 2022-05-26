@@ -73,7 +73,9 @@
         "showdownMarkup": "Alakazam",
         "showdownData": "alakazam",
         "serebii": "alakazam",
-        "bulbapedia": "Alakazam"
+        "bulbapedia": "Alakazam",
+        "homeSprite": "alakazam",
+        "miniSprite": "alakazam"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Furfrou-Diamond",
         "showdownData": "furfroudiamond",
         "serebii": "furfrou-diamond",
-        "bulbapedia": "Furfrou"
+        "bulbapedia": "Furfrou",
+        "homeSprite": "furfrou-diamond",
+        "miniSprite": "furfrou-diamond"
     },
     "baseSpecies": "furfrou",
     "baseForms": [

@@ -73,7 +73,9 @@
         "showdownMarkup": "Magneton",
         "showdownData": "magneton",
         "serebii": "magneton",
-        "bulbapedia": "Magneton"
+        "bulbapedia": "Magneton",
+        "homeSprite": "magneton",
+        "miniSprite": "magneton"
     },
     "baseSpecies": null,
     "baseForms": [],

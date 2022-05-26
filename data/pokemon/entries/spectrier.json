@@ -73,7 +73,9 @@
         "showdownMarkup": "Spectrier",
         "showdownData": "spectrier",
         "serebii": "spectrier",
-        "bulbapedia": "Spectrier"
+        "bulbapedia": "Spectrier",
+        "homeSprite": "spectrier",
+        "miniSprite": "spectrier"
     },
     "baseSpecies": null,
     "baseForms": [],

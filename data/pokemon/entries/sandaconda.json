@@ -73,7 +73,9 @@
         "showdownMarkup": "Sandaconda",
         "showdownData": "sandaconda",
         "serebii": "sandaconda",
-        "bulbapedia": "Sandaconda"
+        "bulbapedia": "Sandaconda",
+        "homeSprite": "sandaconda",
+        "miniSprite": "sandaconda"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Skitty",
         "showdownData": "skitty",
         "serebii": "skitty",
-        "bulbapedia": "Skitty"
+        "bulbapedia": "Skitty",
+        "homeSprite": "skitty",
+        "miniSprite": "skitty"
     },
     "baseSpecies": null,
     "baseForms": [],

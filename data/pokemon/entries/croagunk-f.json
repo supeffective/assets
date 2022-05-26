@@ -73,7 +73,9 @@
         "showdownMarkup": "Croagunk-F",
         "showdownData": "croagunkf",
         "serebii": "croagunk-f",
-        "bulbapedia": "Croagunk"
+        "bulbapedia": "Croagunk",
+        "homeSprite": "croagunk-f",
+        "miniSprite": "croagunk-f"
     },
     "baseSpecies": "croagunk",
     "baseForms": [],

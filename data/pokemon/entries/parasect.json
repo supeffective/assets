@@ -73,7 +73,9 @@
         "showdownMarkup": "Parasect",
         "showdownData": "parasect",
         "serebii": "parasect",
-        "bulbapedia": "Parasect"
+        "bulbapedia": "Parasect",
+        "homeSprite": "parasect",
+        "miniSprite": "parasect"
     },
     "baseSpecies": null,
     "baseForms": [],

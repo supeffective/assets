@@ -73,7 +73,9 @@
         "showdownMarkup": "Chimchar",
         "showdownData": "chimchar",
         "serebii": "chimchar",
-        "bulbapedia": "Chimchar"
+        "bulbapedia": "Chimchar",
+        "homeSprite": "chimchar",
+        "miniSprite": "chimchar"
     },
     "baseSpecies": null,
     "baseForms": [],

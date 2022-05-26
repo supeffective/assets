@@ -71,7 +71,9 @@
         "showdownMarkup": "Arceus-Fighting",
         "showdownData": "arceusfighting",
         "serebii": "arceus-fighting",
-        "bulbapedia": "Arceus"
+        "bulbapedia": "Arceus",
+        "homeSprite": "arceus-fighting",
+        "miniSprite": "arceus-fighting"
     },
     "baseSpecies": "arceus",
     "baseForms": [

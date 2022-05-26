@@ -73,7 +73,9 @@
         "showdownMarkup": "Fletchinder",
         "showdownData": "fletchinder",
         "serebii": "fletchinder",
-        "bulbapedia": "Fletchinder"
+        "bulbapedia": "Fletchinder",
+        "homeSprite": "fletchinder",
+        "miniSprite": "fletchinder"
     },
     "baseSpecies": null,
     "baseForms": [],

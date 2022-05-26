@@ -73,7 +73,9 @@
         "showdownMarkup": "Sunkern",
         "showdownData": "sunkern",
         "serebii": "sunkern",
-        "bulbapedia": "Sunkern"
+        "bulbapedia": "Sunkern",
+        "homeSprite": "sunkern",
+        "miniSprite": "sunkern"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Seel",
         "showdownData": "seel",
         "serebii": "seel",
-        "bulbapedia": "Seel"
+        "bulbapedia": "Seel",
+        "homeSprite": "seel",
+        "miniSprite": "seel"
     },
     "baseSpecies": null,
     "baseForms": [],

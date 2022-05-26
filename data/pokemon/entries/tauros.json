@@ -73,7 +73,9 @@
         "showdownMarkup": "Tauros",
         "showdownData": "tauros",
         "serebii": "tauros",
-        "bulbapedia": "Tauros"
+        "bulbapedia": "Tauros",
+        "homeSprite": "tauros",
+        "miniSprite": "tauros"
     },
     "baseSpecies": null,
     "baseForms": [],

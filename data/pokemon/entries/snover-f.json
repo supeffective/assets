@@ -73,7 +73,9 @@
         "showdownMarkup": "Snover-F",
         "showdownData": "snoverf",
         "serebii": "snover-f",
-        "bulbapedia": "Snover"
+        "bulbapedia": "Snover",
+        "homeSprite": "snover-f",
+        "miniSprite": "snover-f"
     },
     "baseSpecies": "snover",
     "baseForms": [],

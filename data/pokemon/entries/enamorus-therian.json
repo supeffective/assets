@@ -73,7 +73,9 @@
         "showdownMarkup": null,
         "showdownData": null,
         "serebii": null,
-        "bulbapedia": null
+        "bulbapedia": null,
+        "homeSprite": "enamorus-therian",
+        "miniSprite": "enamorus-therian"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Tangrowth",
         "showdownData": "tangrowth",
         "serebii": "tangrowth",
-        "bulbapedia": "Tangrowth"
+        "bulbapedia": "Tangrowth",
+        "homeSprite": "tangrowth",
+        "miniSprite": "tangrowth"
     },
     "baseSpecies": null,
     "baseForms": [],

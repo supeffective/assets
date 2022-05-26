@@ -73,7 +73,9 @@
         "showdownMarkup": "Bronzor",
         "showdownData": "bronzor",
         "serebii": "bronzor",
-        "bulbapedia": "Bronzor"
+        "bulbapedia": "Bronzor",
+        "homeSprite": "bronzor",
+        "miniSprite": "bronzor"
     },
     "baseSpecies": null,
     "baseForms": [],

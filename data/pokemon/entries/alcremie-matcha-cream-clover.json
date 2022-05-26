@@ -73,7 +73,9 @@
         "showdownMarkup": "Alcremie-Matcha-Cream-Clover",
         "showdownData": "alcremiematchacreamclover",
         "serebii": "alcremie-matcha-cream-clover",
-        "bulbapedia": "Alcremie"
+        "bulbapedia": "Alcremie",
+        "homeSprite": "alcremie-matcha-cream-clover",
+        "miniSprite": "alcremie-matcha-cream-clover"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

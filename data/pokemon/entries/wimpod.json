@@ -73,7 +73,9 @@
         "showdownMarkup": "Wimpod",
         "showdownData": "wimpod",
         "serebii": "wimpod",
-        "bulbapedia": "Wimpod"
+        "bulbapedia": "Wimpod",
+        "homeSprite": "wimpod",
+        "miniSprite": "wimpod"
     },
     "baseSpecies": null,
     "baseForms": [],

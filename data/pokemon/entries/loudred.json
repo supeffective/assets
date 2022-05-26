@@ -73,7 +73,9 @@
         "showdownMarkup": "Loudred",
         "showdownData": "loudred",
         "serebii": "loudred",
-        "bulbapedia": "Loudred"
+        "bulbapedia": "Loudred",
+        "homeSprite": "loudred",
+        "miniSprite": "loudred"
     },
     "baseSpecies": null,
     "baseForms": [],

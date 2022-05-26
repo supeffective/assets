@@ -71,7 +71,9 @@
         "showdownMarkup": "Arceus-Grass",
         "showdownData": "arceusgrass",
         "serebii": "arceus-grass",
-        "bulbapedia": "Arceus"
+        "bulbapedia": "Arceus",
+        "homeSprite": "arceus-grass",
+        "miniSprite": "arceus-grass"
     },
     "baseSpecies": "arceus",
     "baseForms": [

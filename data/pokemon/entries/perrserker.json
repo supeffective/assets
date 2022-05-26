@@ -73,7 +73,9 @@
         "showdownMarkup": "Perrserker",
         "showdownData": "perrserker",
         "serebii": "perrserker",
-        "bulbapedia": "Perrserker"
+        "bulbapedia": "Perrserker",
+        "homeSprite": "perrserker",
+        "miniSprite": "perrserker"
     },
     "baseSpecies": null,
     "baseForms": [],

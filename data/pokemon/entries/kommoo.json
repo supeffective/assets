@@ -73,7 +73,9 @@
         "showdownMarkup": "Kommoo",
         "showdownData": "kommoo",
         "serebii": "kommoo",
-        "bulbapedia": "Kommo-o"
+        "bulbapedia": "Kommo-o",
+        "homeSprite": "kommoo",
+        "miniSprite": "kommoo"
     },
     "baseSpecies": null,
     "baseForms": [],

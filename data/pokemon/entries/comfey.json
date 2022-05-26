@@ -73,7 +73,9 @@
         "showdownMarkup": "Comfey",
         "showdownData": "comfey",
         "serebii": "comfey",
-        "bulbapedia": "Comfey"
+        "bulbapedia": "Comfey",
+        "homeSprite": "comfey",
+        "miniSprite": "comfey"
     },
     "baseSpecies": null,
     "baseForms": [],

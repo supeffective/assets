@@ -73,7 +73,9 @@
         "showdownMarkup": "Omastar",
         "showdownData": "omastar",
         "serebii": "omastar",
-        "bulbapedia": "Omastar"
+        "bulbapedia": "Omastar",
+        "homeSprite": "omastar",
+        "miniSprite": "omastar"
     },
     "baseSpecies": null,
     "baseForms": [],

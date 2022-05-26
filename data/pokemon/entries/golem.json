@@ -73,7 +73,9 @@
         "showdownMarkup": "Golem",
         "showdownData": "golem",
         "serebii": "golem",
-        "bulbapedia": "Golem"
+        "bulbapedia": "Golem",
+        "homeSprite": "golem",
+        "miniSprite": "golem"
     },
     "baseSpecies": null,
     "baseForms": [],

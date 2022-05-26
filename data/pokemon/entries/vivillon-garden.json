@@ -73,7 +73,9 @@
         "showdownMarkup": "Vivillon-Garden",
         "showdownData": "vivillongarden",
         "serebii": "vivillon-garden",
-        "bulbapedia": "Vivillon"
+        "bulbapedia": "Vivillon",
+        "homeSprite": "vivillon-garden",
+        "miniSprite": "vivillon-garden"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

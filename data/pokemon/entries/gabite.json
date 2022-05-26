@@ -73,7 +73,9 @@
         "showdownMarkup": "Gabite",
         "showdownData": "gabite",
         "serebii": "gabite",
-        "bulbapedia": "Gabite"
+        "bulbapedia": "Gabite",
+        "homeSprite": "gabite",
+        "miniSprite": "gabite"
     },
     "baseSpecies": null,
     "baseForms": [],

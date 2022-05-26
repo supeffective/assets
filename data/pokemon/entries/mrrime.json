@@ -73,7 +73,9 @@
         "showdownMarkup": "Mrrime",
         "showdownData": "mrrime",
         "serebii": "mrrime",
-        "bulbapedia": "Mr. Rime"
+        "bulbapedia": "Mr. Rime",
+        "homeSprite": "mrrime",
+        "miniSprite": "mrrime"
     },
     "baseSpecies": null,
     "baseForms": [],

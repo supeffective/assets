@@ -73,7 +73,9 @@
         "showdownMarkup": "Bruxish",
         "showdownData": "bruxish",
         "serebii": "bruxish",
-        "bulbapedia": "Bruxish"
+        "bulbapedia": "Bruxish",
+        "homeSprite": "bruxish",
+        "miniSprite": "bruxish"
     },
     "baseSpecies": null,
     "baseForms": [],

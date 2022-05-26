@@ -73,7 +73,9 @@
         "showdownMarkup": "Yamask-Galar",
         "showdownData": "yamaskgalar",
         "serebii": "yamask-galar",
-        "bulbapedia": "Yamask"
+        "bulbapedia": "Yamask",
+        "homeSprite": "yamask-galar",
+        "miniSprite": "yamask-galar"
     },
     "baseSpecies": "yamask",
     "baseForms": [],

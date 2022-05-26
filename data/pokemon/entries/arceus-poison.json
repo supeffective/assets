@@ -71,7 +71,9 @@
         "showdownMarkup": "Arceus-Poison",
         "showdownData": "arceuspoison",
         "serebii": "arceus-poison",
-        "bulbapedia": "Arceus"
+        "bulbapedia": "Arceus",
+        "homeSprite": "arceus-poison",
+        "miniSprite": "arceus-poison"
     },
     "baseSpecies": "arceus",
     "baseForms": [

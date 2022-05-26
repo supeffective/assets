@@ -73,7 +73,9 @@
         "showdownMarkup": "Mew",
         "showdownData": "mew",
         "serebii": "mew",
-        "bulbapedia": "Mew"
+        "bulbapedia": "Mew",
+        "homeSprite": "mew",
+        "miniSprite": "mew"
     },
     "baseSpecies": null,
     "baseForms": [],

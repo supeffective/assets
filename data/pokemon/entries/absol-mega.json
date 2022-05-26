@@ -71,7 +71,9 @@
         "showdownMarkup": "Absol-Mega",
         "showdownData": "absolmega",
         "serebii": "absol-mega",
-        "bulbapedia": "Absol"
+        "bulbapedia": "Absol",
+        "homeSprite": "absol-mega",
+        "miniSprite": "absol-mega"
     },
     "baseSpecies": "absol",
     "baseForms": [

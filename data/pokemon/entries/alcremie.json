@@ -73,7 +73,9 @@
         "showdownMarkup": "Alcremie",
         "showdownData": "alcremie",
         "serebii": "alcremie",
-        "bulbapedia": "Alcremie"
+        "bulbapedia": "Alcremie",
+        "homeSprite": "alcremie",
+        "miniSprite": "alcremie"
     },
     "baseSpecies": null,
     "baseForms": [],

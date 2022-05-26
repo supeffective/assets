@@ -73,7 +73,9 @@
         "showdownMarkup": "Electabuzz",
         "showdownData": "electabuzz",
         "serebii": "electabuzz",
-        "bulbapedia": "Electabuzz"
+        "bulbapedia": "Electabuzz",
+        "homeSprite": "electabuzz",
+        "miniSprite": "electabuzz"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Cresselia",
         "showdownData": "cresselia",
         "serebii": "cresselia",
-        "bulbapedia": "Cresselia"
+        "bulbapedia": "Cresselia",
+        "homeSprite": "cresselia",
+        "miniSprite": "cresselia"
     },
     "baseSpecies": null,
     "baseForms": [],

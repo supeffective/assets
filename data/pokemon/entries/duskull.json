@@ -73,7 +73,9 @@
         "showdownMarkup": "Duskull",
         "showdownData": "duskull",
         "serebii": "duskull",
-        "bulbapedia": "Duskull"
+        "bulbapedia": "Duskull",
+        "homeSprite": "duskull",
+        "miniSprite": "duskull"
     },
     "baseSpecies": null,
     "baseForms": [],

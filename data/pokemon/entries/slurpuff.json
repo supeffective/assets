@@ -73,7 +73,9 @@
         "showdownMarkup": "Slurpuff",
         "showdownData": "slurpuff",
         "serebii": "slurpuff",
-        "bulbapedia": "Slurpuff"
+        "bulbapedia": "Slurpuff",
+        "homeSprite": "slurpuff",
+        "miniSprite": "slurpuff"
     },
     "baseSpecies": null,
     "baseForms": [],

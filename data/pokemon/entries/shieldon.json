@@ -73,7 +73,9 @@
         "showdownMarkup": "Shieldon",
         "showdownData": "shieldon",
         "serebii": "shieldon",
-        "bulbapedia": "Shieldon"
+        "bulbapedia": "Shieldon",
+        "homeSprite": "shieldon",
+        "miniSprite": "shieldon"
     },
     "baseSpecies": null,
     "baseForms": [],

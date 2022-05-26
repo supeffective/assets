@@ -73,7 +73,9 @@
         "showdownMarkup": "Minccino",
         "showdownData": "minccino",
         "serebii": "minccino",
-        "bulbapedia": "Minccino"
+        "bulbapedia": "Minccino",
+        "homeSprite": "minccino",
+        "miniSprite": "minccino"
     },
     "baseSpecies": null,
     "baseForms": [],

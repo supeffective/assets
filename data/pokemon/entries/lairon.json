@@ -73,7 +73,9 @@
         "showdownMarkup": "Lairon",
         "showdownData": "lairon",
         "serebii": "lairon",
-        "bulbapedia": "Lairon"
+        "bulbapedia": "Lairon",
+        "homeSprite": "lairon",
+        "miniSprite": "lairon"
     },
     "baseSpecies": null,
     "baseForms": [],

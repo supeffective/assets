@@ -73,7 +73,9 @@
         "showdownMarkup": "Aegislash",
         "showdownData": "aegislash",
         "serebii": "aegislash",
-        "bulbapedia": "Aegislash"
+        "bulbapedia": "Aegislash",
+        "homeSprite": "aegislash",
+        "miniSprite": "aegislash"
     },
     "baseSpecies": null,
     "baseForms": [],

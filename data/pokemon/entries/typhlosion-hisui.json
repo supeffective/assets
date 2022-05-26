@@ -73,7 +73,9 @@
         "showdownMarkup": null,
         "showdownData": null,
         "serebii": null,
-        "bulbapedia": null
+        "bulbapedia": null,
+        "homeSprite": "typhlosion-hisui",
+        "miniSprite": "typhlosion-hisui"
     },
     "baseSpecies": null,
     "baseForms": [],

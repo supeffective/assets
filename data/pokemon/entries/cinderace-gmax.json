@@ -71,7 +71,9 @@
         "showdownMarkup": "Cinderace-Gmax",
         "showdownData": "cinderacegmax",
         "serebii": "cinderace-gmax",
-        "bulbapedia": "Cinderace"
+        "bulbapedia": "Cinderace",
+        "homeSprite": "cinderace-gmax",
+        "miniSprite": "cinderace-gmax"
     },
     "baseSpecies": "cinderace",
     "baseForms": [

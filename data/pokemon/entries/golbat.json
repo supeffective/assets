@@ -73,7 +73,9 @@
         "showdownMarkup": "Golbat",
         "showdownData": "golbat",
         "serebii": "golbat",
-        "bulbapedia": "Golbat"
+        "bulbapedia": "Golbat",
+        "homeSprite": "golbat",
+        "miniSprite": "golbat"
     },
     "baseSpecies": null,
     "baseForms": [],

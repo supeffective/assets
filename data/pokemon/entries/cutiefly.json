@@ -73,7 +73,9 @@
         "showdownMarkup": "Cutiefly",
         "showdownData": "cutiefly",
         "serebii": "cutiefly",
-        "bulbapedia": "Cutiefly"
+        "bulbapedia": "Cutiefly",
+        "homeSprite": "cutiefly",
+        "miniSprite": "cutiefly"
     },
     "baseSpecies": null,
     "baseForms": [],

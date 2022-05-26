@@ -71,7 +71,9 @@
         "showdownMarkup": "Corviknight-Gmax",
         "showdownData": "corviknightgmax",
         "serebii": "corviknight-gmax",
-        "bulbapedia": "Corviknight"
+        "bulbapedia": "Corviknight",
+        "homeSprite": "corviknight-gmax",
+        "miniSprite": "corviknight-gmax"
     },
     "baseSpecies": "corviknight",
     "baseForms": [

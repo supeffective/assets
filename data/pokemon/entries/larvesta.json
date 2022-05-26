@@ -73,7 +73,9 @@
         "showdownMarkup": "Larvesta",
         "showdownData": "larvesta",
         "serebii": "larvesta",
-        "bulbapedia": "Larvesta"
+        "bulbapedia": "Larvesta",
+        "homeSprite": "larvesta",
+        "miniSprite": "larvesta"
     },
     "baseSpecies": null,
     "baseForms": [],

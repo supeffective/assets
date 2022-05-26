@@ -73,7 +73,9 @@
         "showdownMarkup": "Oricorio-Pau",
         "showdownData": "oricoriopau",
         "serebii": "oricorio-pau",
-        "bulbapedia": "Oricorio"
+        "bulbapedia": "Oricorio",
+        "homeSprite": "oricorio-pau",
+        "miniSprite": "oricorio-pau"
     },
     "baseSpecies": "oricorio",
     "baseForms": [],

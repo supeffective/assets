@@ -73,7 +73,9 @@
         "showdownMarkup": "Heliolisk",
         "showdownData": "heliolisk",
         "serebii": "heliolisk",
-        "bulbapedia": "Heliolisk"
+        "bulbapedia": "Heliolisk",
+        "homeSprite": "heliolisk",
+        "miniSprite": "heliolisk"
     },
     "baseSpecies": null,
     "baseForms": [],

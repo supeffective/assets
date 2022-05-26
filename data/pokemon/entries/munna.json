@@ -73,7 +73,9 @@
         "showdownMarkup": "Munna",
         "showdownData": "munna",
         "serebii": "munna",
-        "bulbapedia": "Munna"
+        "bulbapedia": "Munna",
+        "homeSprite": "munna",
+        "miniSprite": "munna"
     },
     "baseSpecies": null,
     "baseForms": [],

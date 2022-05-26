@@ -73,7 +73,9 @@
         "showdownMarkup": "Tropius",
         "showdownData": "tropius",
         "serebii": "tropius",
-        "bulbapedia": "Tropius"
+        "bulbapedia": "Tropius",
+        "homeSprite": "tropius",
+        "miniSprite": "tropius"
     },
     "baseSpecies": null,
     "baseForms": [],

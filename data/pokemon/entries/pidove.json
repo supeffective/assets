@@ -73,7 +73,9 @@
         "showdownMarkup": "Pidove",
         "showdownData": "pidove",
         "serebii": "pidove",
-        "bulbapedia": "Pidove"
+        "bulbapedia": "Pidove",
+        "homeSprite": "pidove",
+        "miniSprite": "pidove"
     },
     "baseSpecies": null,
     "baseForms": [],

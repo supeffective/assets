@@ -73,7 +73,9 @@
         "showdownMarkup": "Burmy",
         "showdownData": "burmy",
         "serebii": "burmy",
-        "bulbapedia": "Burmy"
+        "bulbapedia": "Burmy",
+        "homeSprite": "burmy",
+        "miniSprite": "burmy"
     },
     "baseSpecies": null,
     "baseForms": [],

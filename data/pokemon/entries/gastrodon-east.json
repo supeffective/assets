@@ -73,7 +73,9 @@
         "showdownMarkup": "Gastrodon-East",
         "showdownData": "gastrodoneast",
         "serebii": "gastrodon-east",
-        "bulbapedia": "Gastrodon"
+        "bulbapedia": "Gastrodon",
+        "homeSprite": "gastrodon-east",
+        "miniSprite": "gastrodon-east"
     },
     "baseSpecies": "gastrodon",
     "baseForms": [],

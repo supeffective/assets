@@ -73,7 +73,9 @@
         "showdownMarkup": "Seviper",
         "showdownData": "seviper",
         "serebii": "seviper",
-        "bulbapedia": "Seviper"
+        "bulbapedia": "Seviper",
+        "homeSprite": "seviper",
+        "miniSprite": "seviper"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Tornadus",
         "showdownData": "tornadus",
         "serebii": "tornadus",
-        "bulbapedia": "Tornadus"
+        "bulbapedia": "Tornadus",
+        "homeSprite": "tornadus",
+        "miniSprite": "tornadus"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Drapion",
         "showdownData": "drapion",
         "serebii": "drapion",
-        "bulbapedia": "Drapion"
+        "bulbapedia": "Drapion",
+        "homeSprite": "drapion",
+        "miniSprite": "drapion"
     },
     "baseSpecies": null,
     "baseForms": [],

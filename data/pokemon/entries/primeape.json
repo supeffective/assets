@@ -73,7 +73,9 @@
         "showdownMarkup": "Primeape",
         "showdownData": "primeape",
         "serebii": "primeape",
-        "bulbapedia": "Primeape"
+        "bulbapedia": "Primeape",
+        "homeSprite": "primeape",
+        "miniSprite": "primeape"
     },
     "baseSpecies": null,
     "baseForms": [],

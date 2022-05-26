@@ -73,7 +73,9 @@
         "showdownMarkup": "Azelf",
         "showdownData": "azelf",
         "serebii": "azelf",
-        "bulbapedia": "Azelf"
+        "bulbapedia": "Azelf",
+        "homeSprite": "azelf",
+        "miniSprite": "azelf"
     },
     "baseSpecies": null,
     "baseForms": [],

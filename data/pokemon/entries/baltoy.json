@@ -73,7 +73,9 @@
         "showdownMarkup": "Baltoy",
         "showdownData": "baltoy",
         "serebii": "baltoy",
-        "bulbapedia": "Baltoy"
+        "bulbapedia": "Baltoy",
+        "homeSprite": "baltoy",
+        "miniSprite": "baltoy"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -71,7 +71,9 @@
         "showdownMarkup": "Kingler-Gmax",
         "showdownData": "kinglergmax",
         "serebii": "kingler-gmax",
-        "bulbapedia": "Kingler"
+        "bulbapedia": "Kingler",
+        "homeSprite": "kingler-gmax",
+        "miniSprite": "kingler-gmax"
     },
     "baseSpecies": "kingler",
     "baseForms": [

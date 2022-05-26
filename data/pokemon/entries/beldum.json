@@ -73,7 +73,9 @@
         "showdownMarkup": "Beldum",
         "showdownData": "beldum",
         "serebii": "beldum",
-        "bulbapedia": "Beldum"
+        "bulbapedia": "Beldum",
+        "homeSprite": "beldum",
+        "miniSprite": "beldum"
     },
     "baseSpecies": null,
     "baseForms": [],

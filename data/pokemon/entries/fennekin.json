@@ -73,7 +73,9 @@
         "showdownMarkup": "Fennekin",
         "showdownData": "fennekin",
         "serebii": "fennekin",
-        "bulbapedia": "Fennekin"
+        "bulbapedia": "Fennekin",
+        "homeSprite": "fennekin",
+        "miniSprite": "fennekin"
     },
     "baseSpecies": null,
     "baseForms": [],

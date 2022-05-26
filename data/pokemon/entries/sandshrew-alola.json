@@ -73,7 +73,9 @@
         "showdownMarkup": "Sandshrew-Alola",
         "showdownData": "sandshrewalola",
         "serebii": "sandshrew-alola",
-        "bulbapedia": "Sandshrew"
+        "bulbapedia": "Sandshrew",
+        "homeSprite": "sandshrew-alola",
+        "miniSprite": "sandshrew-alola"
     },
     "baseSpecies": "sandshrew",
     "baseForms": [],

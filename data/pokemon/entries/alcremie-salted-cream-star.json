@@ -73,7 +73,9 @@
         "showdownMarkup": "Alcremie-Salted-Cream-Star",
         "showdownData": "alcremiesaltedcreamstar",
         "serebii": "alcremie-salted-cream-star",
-        "bulbapedia": "Alcremie"
+        "bulbapedia": "Alcremie",
+        "homeSprite": "alcremie-salted-cream-star",
+        "miniSprite": "alcremie-salted-cream-star"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

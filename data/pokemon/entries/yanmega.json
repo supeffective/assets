@@ -73,7 +73,9 @@
         "showdownMarkup": "Yanmega",
         "showdownData": "yanmega",
         "serebii": "yanmega",
-        "bulbapedia": "Yanmega"
+        "bulbapedia": "Yanmega",
+        "homeSprite": "yanmega",
+        "miniSprite": "yanmega"
     },
     "baseSpecies": null,
     "baseForms": [],

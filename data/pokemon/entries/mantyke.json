@@ -73,7 +73,9 @@
         "showdownMarkup": "Mantyke",
         "showdownData": "mantyke",
         "serebii": "mantyke",
-        "bulbapedia": "Mantyke"
+        "bulbapedia": "Mantyke",
+        "homeSprite": "mantyke",
+        "miniSprite": "mantyke"
     },
     "baseSpecies": null,
     "baseForms": [],

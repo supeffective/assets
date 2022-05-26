@@ -73,7 +73,9 @@
         "showdownMarkup": "Palkia",
         "showdownData": "palkia",
         "serebii": "palkia",
-        "bulbapedia": "Palkia"
+        "bulbapedia": "Palkia",
+        "homeSprite": "palkia",
+        "miniSprite": "palkia"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -73,7 +73,9 @@
         "showdownMarkup": "Cubone",
         "showdownData": "cubone",
         "serebii": "cubone",
-        "bulbapedia": "Cubone"
+        "bulbapedia": "Cubone",
+        "homeSprite": "cubone",
+        "miniSprite": "cubone"
     },
     "baseSpecies": null,
     "baseForms": [],

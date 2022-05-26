@@ -73,7 +73,9 @@
         "showdownMarkup": "Salandit",
         "showdownData": "salandit",
         "serebii": "salandit",
-        "bulbapedia": "Salandit"
+        "bulbapedia": "Salandit",
+        "homeSprite": "salandit",
+        "miniSprite": "salandit"
     },
     "baseSpecies": null,
     "baseForms": [],

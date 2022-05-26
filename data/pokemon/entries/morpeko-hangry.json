@@ -71,7 +71,9 @@
         "showdownMarkup": "Morpeko-Hangry",
         "showdownData": "morpekohangry",
         "serebii": "morpeko-hangry",
-        "bulbapedia": "Morpeko"
+        "bulbapedia": "Morpeko",
+        "homeSprite": "morpeko-hangry",
+        "miniSprite": "morpeko-hangry"
     },
     "baseSpecies": "morpeko",
     "baseForms": [

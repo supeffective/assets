@@ -73,7 +73,9 @@
         "showdownMarkup": "Excadrill",
         "showdownData": "excadrill",
         "serebii": "excadrill",
-        "bulbapedia": "Excadrill"
+        "bulbapedia": "Excadrill",
+        "homeSprite": "excadrill",
+        "miniSprite": "excadrill"
     },
     "baseSpecies": null,
     "baseForms": [],

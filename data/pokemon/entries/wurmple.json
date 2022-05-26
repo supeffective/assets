@@ -73,7 +73,9 @@
         "showdownMarkup": "Wurmple",
         "showdownData": "wurmple",
         "serebii": "wurmple",
-        "bulbapedia": "Wurmple"
+        "bulbapedia": "Wurmple",
+        "homeSprite": "wurmple",
+        "miniSprite": "wurmple"
     },
     "baseSpecies": null,
     "baseForms": [],

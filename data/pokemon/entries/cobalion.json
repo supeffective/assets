@@ -73,7 +73,9 @@
         "showdownMarkup": "Cobalion",
         "showdownData": "cobalion",
         "serebii": "cobalion",
-        "bulbapedia": "Cobalion"
+        "bulbapedia": "Cobalion",
+        "homeSprite": "cobalion",
+        "miniSprite": "cobalion"
     },
     "baseSpecies": null,
     "baseForms": [],

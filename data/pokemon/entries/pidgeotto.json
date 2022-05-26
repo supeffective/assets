@@ -73,7 +73,9 @@
         "showdownMarkup": "Pidgeotto",
         "showdownData": "pidgeotto",
         "serebii": "pidgeotto",
-        "bulbapedia": "Pidgeotto"
+        "bulbapedia": "Pidgeotto",
+        "homeSprite": "pidgeotto",
+        "miniSprite": "pidgeotto"
     },
     "baseSpecies": null,
     "baseForms": [],

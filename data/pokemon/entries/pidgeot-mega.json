@@ -71,7 +71,9 @@
         "showdownMarkup": "Pidgeot-Mega",
         "showdownData": "pidgeotmega",
         "serebii": "pidgeot-mega",
-        "bulbapedia": "Pidgeot"
+        "bulbapedia": "Pidgeot",
+        "homeSprite": "pidgeot-mega",
+        "miniSprite": "pidgeot-mega"
     },
     "baseSpecies": "pidgeot",
     "baseForms": [

@@ -73,7 +73,9 @@
         "showdownMarkup": "Audino",
         "showdownData": "audino",
         "serebii": "audino",
-        "bulbapedia": "Audino"
+        "bulbapedia": "Audino",
+        "homeSprite": "audino",
+        "miniSprite": "audino"
     },
     "baseSpecies": null,
     "baseForms": [],

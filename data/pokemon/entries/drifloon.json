@@ -73,7 +73,9 @@
         "showdownMarkup": "Drifloon",
         "showdownData": "drifloon",
         "serebii": "drifloon",
-        "bulbapedia": "Drifloon"
+        "bulbapedia": "Drifloon",
+        "homeSprite": "drifloon",
+        "miniSprite": "drifloon"
     },
     "baseSpecies": null,
     "baseForms": [],

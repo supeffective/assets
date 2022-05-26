@@ -73,7 +73,9 @@
         "showdownMarkup": "Thievul",
         "showdownData": "thievul",
         "serebii": "thievul",
-        "bulbapedia": "Thievul"
+        "bulbapedia": "Thievul",
+        "homeSprite": "thievul",
+        "miniSprite": "thievul"
     },
     "baseSpecies": null,
     "baseForms": [],

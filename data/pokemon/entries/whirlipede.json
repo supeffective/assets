@@ -73,7 +73,9 @@
         "showdownMarkup": "Whirlipede",
         "showdownData": "whirlipede",
         "serebii": "whirlipede",
-        "bulbapedia": "Whirlipede"
+        "bulbapedia": "Whirlipede",
+        "homeSprite": "whirlipede",
+        "miniSprite": "whirlipede"
     },
     "baseSpecies": null,
     "baseForms": [],
