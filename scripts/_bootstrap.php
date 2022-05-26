@@ -37,6 +37,11 @@ function sgg_json_decode_file(string $fileName): array
     return sgg_json_decode(file_get_contents($fileName));
 }
 
+function sgg_json_prettify_file(string $fileName): void
+{
+    sgg_json_encode(sgg_json_decode_file($fileName), false, $fileName);
+}
+
 function sgg_json_minify_file(string $fileName): void
 {
     sgg_json_encode(sgg_json_decode_file($fileName), true, $fileName);
@@ -67,9 +72,9 @@ function sgg_create_file_dir_tree(string $fileName): void
     }
 }
 
-function sgg_json_files_in_dir_tree(string $relativePath, bool $ignoreMinified = true): array
+function sgg_json_files_in_dir_tree(?string $relativeDataPath = null, bool $ignoreMinified = true): array
 {
-    $dir = sgg_get_data_path($relativePath);
+    $dir = sgg_get_data_path($relativeDataPath);
     if (!is_dir($dir)) {
         throw new RuntimeException("Directory '$dir' does not exist");
     }
