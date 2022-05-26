@@ -1,50 +1,50 @@
 [
     {
-        "name": "Other",
-        "slug": "other"
+        "id": "other",
+        "name": "Other"
     },
     {
-        "name": "Kanto",
-        "slug": "kanto"
+        "id": "kanto",
+        "name": "Kanto"
     },
     {
-        "name": "Johto",
-        "slug": "johto"
+        "id": "johto",
+        "name": "Johto"
     },
     {
-        "name": "Hoenn",
-        "slug": "hoenn"
+        "id": "hoenn",
+        "name": "Hoenn"
     },
     {
-        "name": "Orre",
-        "slug": "orre"
+        "id": "orre",
+        "name": "Orre"
     },
     {
-        "name": "Sinnoh",
-        "slug": "sinnoh"
+        "id": "sinnoh",
+        "name": "Sinnoh"
     },
     {
-        "name": "Unova",
-        "slug": "unova"
+        "id": "unova",
+        "name": "Unova"
     },
     {
-        "name": "Kalos",
-        "slug": "kalos"
+        "id": "kalos",
+        "name": "Kalos"
     },
     {
-        "name": "Alola",
-        "slug": "alola"
+        "id": "alola",
+        "name": "Alola"
     },
     {
-        "name": "Galar",
-        "slug": "galar"
+        "id": "galar",
+        "name": "Galar"
     },
     {
-        "name": "Hisui",
-        "slug": "hisui"
+        "id": "hisui",
+        "name": "Hisui"
     },
     {
-        "name": "(Titan)",
-        "slug": "_titan_"
+        "id": "_titan_",
+        "name": "(Titan)"
     }
 ]
