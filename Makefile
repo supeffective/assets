@@ -9,3 +9,4 @@ validate:
 
 migrate:
 	php scripts/migrate.php
+	make build
