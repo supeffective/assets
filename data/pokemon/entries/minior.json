@@ -32,7 +32,7 @@
     "isRegional": false,
     "isGmax": false,
     "canGmax": false,
-    "canDynamax": false,
+    "canDynamax": true,
     "canBeAlpha": false,
     "obtainableIn": [],
     "storableIn": [],

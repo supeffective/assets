@@ -31,7 +31,7 @@
     "isPrimal": false,
     "isRegional": false,
     "isGmax": false,
-    "canGmax": false,
+    "canGmax": true,
     "canDynamax": true,
     "canBeAlpha": false,
     "obtainableIn": [],

@@ -34,7 +34,7 @@ require_once __DIR__ . '/_bootstrap.php';
                 'type2' => $pkm['type2'],
                 'isForm' => $pkm['isForm'],
                 'baseSpecies' => $pkm['baseSpecies'],
-                'baseForms' => $pkm['baseForms']
+                'baseForms' => $pkm['baseForms'],
             ];
         }
         sgg_data_save(SGG_PKM_ENTRIES_BASE_FILENAME . '-minimal.min.json', $minimalDataSet, true);
@@ -70,22 +70,21 @@ require_once __DIR__ . '/_bootstrap.php';
         $newDataSet = [];
 
         foreach ($dataSet as $pkm) {
-            if ($pkm['isGmax']) {
-                $newDataSet['isGmax'][] = $pkm['id'];
+            if (!$pkm['canGmax']) {
+                continue;
+            }
+            if (!$pkm['canDynamax']) {
+                echo "WARNING: {$pkm['id']} can gmax but not dynamax\n";
             }
 
             $gmaxableName = $pkm['id'] . '-gmax';
-            if ($pkm['canGmax'] || isset($dataSetById[$gmaxableName])) {
-                $newDataSet['canGmax'][] = $pkm['id']; // TODO set this properly in pokemon.json
+            if (!isset($dataSetById[$gmaxableName]) && !str_ends_with($gmaxableName, '-f-gmax')) {
+                echo "WARNING: Gigantamax pokemon '$gmaxableName' not found\n";
             }
+            $newDataSet[] = $pkm['id'];
         }
 
-        $formsGmaxable = 1;
-        if (count($newDataSet['isGmax']) !== (count($newDataSet['canGmax']) - $formsGmaxable)) {
-            throw new \RuntimeException('Gmax count mismatch');
-        }
-
-        sgg_data_save('pokemon/gigantamaxable-pokemon.min.json', $newDataSet['canGmax'], false);
+        sgg_data_save('pokemon/gigantamaxable-pokemon.min.json', $newDataSet, false);
     };
 
     $generateAlphaPokemonList = static function () use ($dataSet): void {
