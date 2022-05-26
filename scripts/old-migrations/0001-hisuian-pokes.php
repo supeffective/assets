@@ -124,7 +124,6 @@ JSON;
 
         /* --- START $newPkm data transformation */
 
-        // TODO modify $newPkm here, e.g.:
         $newPkm = array_merge($dataTemplateArr, $pkm);
 
         /* --- END $newPkm data transformation */

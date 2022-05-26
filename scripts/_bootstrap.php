@@ -3,8 +3,7 @@
 // _bootstrap.php: Base code for all other PHP scripts
 error_reporting(-1);
 
-const SGG_PKM_ENTRIES_FILE = 'pokemon/pokemon-entries.min.json';
-const SGG_PKM_ENTRIES_BY_ID_FILE = 'pokemon/pokemon-entries-byid.min.json';
+const SGG_PKM_ENTRIES_BASE_FILENAME = 'pokemon/pokemon-entries';
 
 function sgg_get_data_path(?string $relativePath = null): string
 {

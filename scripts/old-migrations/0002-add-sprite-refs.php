@@ -123,7 +123,6 @@ JSON;
 
         /* --- START $newPkm data transformation */
 
-        // TODO modify $newPkm here, e.g.:
         $newPkm = array_merge($dataTemplateArr, $pkm);
         $newPkm['refs']['homeSprite'] = $newPkm['id'];
         $newPkm['refs']['miniSprite'] = $newPkm['id'];

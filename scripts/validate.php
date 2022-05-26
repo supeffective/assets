@@ -7,25 +7,26 @@ require_once __DIR__ . '/_bootstrap.php';
 
 (static function () {
     error_reporting(-1);
-    $storablePokemonList = json_decode(
-        file_get_contents(__DIR__ . '/../data/livingdex/storable-pokemon/home/storable-pokemon.min.json'),
-        true,
-        512,
-        JSON_THROW_ON_ERROR
-    );
+    $pokemonById = sgg_data_load('pokemon/pokemon-entries-byid.min.json');
+    $storablePokemonList = sgg_data_load('livingdex/storable-pokemon/home/storable-pokemon.min.json');
 
-    $validateHomeDexPreset = static function (array $dexPreset) use ($storablePokemonList): array {
+    $validateHomeDexPreset = static function (array $dexPreset) use ($storablePokemonList, $pokemonById): array {
         $presetId = $dexPreset['id'];
         $pokemonInBoxes = [];
         $errors = [];
-        $allowedDuplicates = ["unown", "vivillon", "alcremie"]; // TODO have a better workaround for this hack
+        $warnings = [];
+
         foreach ($dexPreset['boxes'] as $i => $box) {
             if (count($box['pokemon']) > 30) {
                 $errors[] = "Box '$i' in preset '$presetId' has more than 30 pokemon";
             }
-            $boxTitle = strtolower($box['title']);
             foreach ($box['pokemon'] as $j => $pokemon) {
                 if ($pokemon === null) {
+                    continue;
+                }
+                $entry = $pokemonById[$pokemon] ?? null;
+                if ($entry === null) {
+                    $errors[] = "Box '$i' in preset '$presetId' has invalid pokemon '$pokemon'";
                     continue;
                 }
                 if (!is_string($pokemon)) {
@@ -37,12 +38,8 @@ require_once __DIR__ . '/_bootstrap.php';
                     $errors[] = "Unregistered pokemon detected '$pokemon' in preset '$presetId' at box/pokemon $i/$j";
                     continue;
                 }
-                if (
-                    ($pokemonInBoxes[$pokemon] ?? false)
-                    && !in_array($pokemon, $allowedDuplicates)
-                    && !str_contains($boxTitle, 'gigantamax')
-                ) {
-                    $errors[] = "Duplicate pokemon detected '$pokemon' in preset '$presetId' at box/pokemon $i/$j";
+                if (($pokemonInBoxes[$pokemon] ?? false)) {
+                    $warnings[] = "Warning: duplicate pokemon detected '$pokemon' in preset '$presetId' at box/pokemon $i/$j";
                     continue;
                 }
                 $pokemonInBoxes[$pokemon] = true;
@@ -55,13 +52,14 @@ require_once __DIR__ . '/_bootstrap.php';
             }
         }
 
-        return $errors;
+        return [$errors, $warnings];
     };
 
     $validateHomeDexPresets = static function () use ($validateHomeDexPreset): void {
         // find all json files from ./home and iterate over them
         $files = glob(__DIR__ . '/../data/livingdex/box-presets/home/*.json');
         $errors = [];
+        $warnings = [];
         foreach ($files as $file) {
             if (str_contains($file, '.min.json')) {
                 continue;
@@ -71,14 +69,27 @@ require_once __DIR__ . '/_bootstrap.php';
             if ($data === null) {
                 throw new \RuntimeException("Error: file '$file' has malformed JSON\n");
             }
-            $fileErrors = $validateHomeDexPreset($data);
+            [$fileErrors, $fileWarnings] = $validateHomeDexPreset($data);
             $errorCount = count($fileErrors);
             if ($errorCount > 0) {
-                sort($fileErrors);
+                //sort($fileErrors);
                 $errors[] = (
                     "\n>  Preset '{$file}' has $errorCount errors: \n" . implode("\n", $fileErrors) . "\n"
                 );
             }
+            $warningCount = count($fileWarnings);
+            if ($warningCount > 0) {
+                //sort($fileWarnings);
+                $warnings[] = (
+                    "\n>  Preset '{$file}' has $warningCount warnings: \n" . implode("\n", $fileWarnings) . "\n"
+                );
+            }
+        }
+
+        if (count($warnings) > 0) {
+            echo(
+                "\nWARNINGS FOUND: \n" . implode("\n", $warnings)
+            );
         }
 
         if (count($errors) > 0) {
