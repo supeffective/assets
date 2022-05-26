@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SIZZLIPEDE",
+        "veekunDb": "sizzlipede",
+        "showdownMarkup": "Sizzlipede",
+        "showdownData": "sizzlipede",
+        "serebii": "sizzlipede",
+        "bulbapedia": "Sizzlipede"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

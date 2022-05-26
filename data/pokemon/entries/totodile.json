@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TOTODILE",
+        "veekunDb": "totodile",
+        "showdownMarkup": "Totodile",
+        "showdownData": "totodile",
+        "serebii": "totodile",
+        "bulbapedia": "Totodile"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ARCEUS_GHOST",
+        "veekunDb": "arceus-ghost",
+        "showdownMarkup": "Arceus-Ghost",
+        "showdownData": "arceusghost",
+        "serebii": "arceus-ghost",
+        "bulbapedia": "Arceus"
+    },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GRAPPLOCT",
+        "veekunDb": "grapploct",
+        "showdownMarkup": "Grapploct",
+        "showdownData": "grapploct",
+        "serebii": "grapploct",
+        "bulbapedia": "Grapploct"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

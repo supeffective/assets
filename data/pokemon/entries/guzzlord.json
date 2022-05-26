@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GUZZLORD",
+        "veekunDb": "guzzlord",
+        "showdownMarkup": "Guzzlord",
+        "showdownData": "guzzlord",
+        "serebii": "guzzlord",
+        "bulbapedia": "Guzzlord"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

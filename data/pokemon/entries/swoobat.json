@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SWOOBAT",
+        "veekunDb": "swoobat",
+        "showdownMarkup": "Swoobat",
+        "showdownData": "swoobat",
+        "serebii": "swoobat",
+        "bulbapedia": "Swoobat"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

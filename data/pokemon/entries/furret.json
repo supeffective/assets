@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FURRET",
+        "veekunDb": "furret",
+        "showdownMarkup": "Furret",
+        "showdownData": "furret",
+        "serebii": "furret",
+        "bulbapedia": "Furret"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

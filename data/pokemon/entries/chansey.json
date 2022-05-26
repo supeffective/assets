@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CHANSEY",
+        "veekunDb": "chansey",
+        "showdownMarkup": "Chansey",
+        "showdownData": "chansey",
+        "serebii": "chansey",
+        "bulbapedia": "Chansey"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

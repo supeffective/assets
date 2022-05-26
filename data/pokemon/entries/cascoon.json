@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CASCOON",
+        "veekunDb": "cascoon",
+        "showdownMarkup": "Cascoon",
+        "showdownData": "cascoon",
+        "serebii": "cascoon",
+        "bulbapedia": "Cascoon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

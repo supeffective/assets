@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ROCKRUFF_OWN_TEMPO",
+        "veekunDb": "rockruff-own-tempo",
+        "showdownMarkup": "Rockruff-Own-Tempo",
+        "showdownData": "rockruffowntempo",
+        "serebii": "rockruff-own-tempo",
+        "bulbapedia": "Rockruff"
+    },
     "baseSpecies": "rockruff",
     "baseForms": [],
     "forms": null,

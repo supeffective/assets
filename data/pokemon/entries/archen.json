@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ARCHEN",
+        "veekunDb": "archen",
+        "showdownMarkup": "Archen",
+        "showdownData": "archen",
+        "serebii": "archen",
+        "bulbapedia": "Archen"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

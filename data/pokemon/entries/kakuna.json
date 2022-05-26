@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KAKUNA",
+        "veekunDb": "kakuna",
+        "showdownMarkup": "Kakuna",
+        "showdownData": "kakuna",
+        "serebii": "kakuna",
+        "bulbapedia": "Kakuna"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

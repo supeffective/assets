@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GLISCOR",
+        "veekunDb": "gliscor",
+        "showdownMarkup": "Gliscor",
+        "showdownData": "gliscor",
+        "serebii": "gliscor",
+        "bulbapedia": "Gliscor"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

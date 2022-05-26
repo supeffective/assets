@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CELESTEELA",
+        "veekunDb": "celesteela",
+        "showdownMarkup": "Celesteela",
+        "showdownData": "celesteela",
+        "serebii": "celesteela",
+        "bulbapedia": "Celesteela"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "THUNDURUS_THERIAN",
+        "veekunDb": "thundurus-therian",
+        "showdownMarkup": "Thundurus-Therian",
+        "showdownData": "thundurustherian",
+        "serebii": "thundurus-therian",
+        "bulbapedia": "Thundurus"
+    },
     "baseSpecies": "thundurus",
     "baseForms": [
         "thundurus"

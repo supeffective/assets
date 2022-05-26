@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CHERRIM",
+        "veekunDb": "cherrim",
+        "showdownMarkup": "Cherrim",
+        "showdownData": "cherrim",
+        "serebii": "cherrim",
+        "bulbapedia": "Cherrim"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

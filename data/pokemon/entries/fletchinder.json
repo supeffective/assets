@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FLETCHINDER",
+        "veekunDb": "fletchinder",
+        "showdownMarkup": "Fletchinder",
+        "showdownData": "fletchinder",
+        "serebii": "fletchinder",
+        "bulbapedia": "Fletchinder"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

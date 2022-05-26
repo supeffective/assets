@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GOLURK",
+        "veekunDb": "golurk",
+        "showdownMarkup": "Golurk",
+        "showdownData": "golurk",
+        "serebii": "golurk",
+        "bulbapedia": "Golurk"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

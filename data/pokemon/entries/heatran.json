@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HEATRAN",
+        "veekunDb": "heatran",
+        "showdownMarkup": "Heatran",
+        "showdownData": "heatran",
+        "serebii": "heatran",
+        "bulbapedia": "Heatran"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

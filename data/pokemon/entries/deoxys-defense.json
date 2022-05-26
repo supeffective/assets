@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DEOXYS_DEFENSE",
+        "veekunDb": "deoxys-defense",
+        "showdownMarkup": "Deoxys-Defense",
+        "showdownData": "deoxysdefense",
+        "serebii": "deoxys-defense",
+        "bulbapedia": "Deoxys"
+    },
     "baseSpecies": "deoxys",
     "baseForms": [
         "deoxys"

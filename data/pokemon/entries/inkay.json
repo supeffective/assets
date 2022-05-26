@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "INKAY",
+        "veekunDb": "inkay",
+        "showdownMarkup": "Inkay",
+        "showdownData": "inkay",
+        "serebii": "inkay",
+        "bulbapedia": "Inkay"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

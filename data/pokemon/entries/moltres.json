@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MOLTRES",
+        "veekunDb": "moltres",
+        "showdownMarkup": "Moltres",
+        "showdownData": "moltres",
+        "serebii": "moltres",
+        "bulbapedia": "Moltres"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

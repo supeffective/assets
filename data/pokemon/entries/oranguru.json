@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ORANGURU",
+        "veekunDb": "oranguru",
+        "showdownMarkup": "Oranguru",
+        "showdownData": "oranguru",
+        "serebii": "oranguru",
+        "bulbapedia": "Oranguru"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

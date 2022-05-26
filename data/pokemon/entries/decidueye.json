@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DECIDUEYE",
+        "veekunDb": "decidueye",
+        "showdownMarkup": "Decidueye",
+        "showdownData": "decidueye",
+        "serebii": "decidueye",
+        "bulbapedia": "Decidueye"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

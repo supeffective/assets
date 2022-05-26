@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ABRA",
+        "veekunDb": "abra",
+        "showdownMarkup": "Abra",
+        "showdownData": "abra",
+        "serebii": "abra",
+        "bulbapedia": "Abra"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

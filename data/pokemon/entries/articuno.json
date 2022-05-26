@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ARTICUNO",
+        "veekunDb": "articuno",
+        "showdownMarkup": "Articuno",
+        "showdownData": "articuno",
+        "serebii": "articuno",
+        "bulbapedia": "Articuno"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

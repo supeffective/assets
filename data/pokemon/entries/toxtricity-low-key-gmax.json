@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TOXTRICITY_LOW_KEY_GMAX",
+        "veekunDb": "toxtricity-low-key-gmax",
+        "showdownMarkup": "Toxtricity-Low-Key-Gmax",
+        "showdownData": "toxtricitylowkeygmax",
+        "serebii": "toxtricity-low-key-gmax",
+        "bulbapedia": "Toxtricity"
+    },
     "baseSpecies": "toxtricity",
     "baseForms": [
         "toxtricity-low-key"

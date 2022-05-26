@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SANDYGAST",
+        "veekunDb": "sandygast",
+        "showdownMarkup": "Sandygast",
+        "showdownData": "sandygast",
+        "serebii": "sandygast",
+        "bulbapedia": "Sandygast"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

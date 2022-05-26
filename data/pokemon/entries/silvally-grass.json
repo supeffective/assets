@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SILVALLY_GRASS",
+        "veekunDb": "silvally-grass",
+        "showdownMarkup": "Silvally-Grass",
+        "showdownData": "silvallygrass",
+        "serebii": "silvally-grass",
+        "bulbapedia": "Silvally"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

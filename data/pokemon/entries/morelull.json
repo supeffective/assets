@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MORELULL",
+        "veekunDb": "morelull",
+        "showdownMarkup": "Morelull",
+        "showdownData": "morelull",
+        "serebii": "morelull",
+        "bulbapedia": "Morelull"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

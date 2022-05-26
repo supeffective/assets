@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VIVILLON_RIVER",
+        "veekunDb": "vivillon-river",
+        "showdownMarkup": "Vivillon-River",
+        "showdownData": "vivillonriver",
+        "serebii": "vivillon-river",
+        "bulbapedia": "Vivillon"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

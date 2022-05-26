@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TORKOAL",
+        "veekunDb": "torkoal",
+        "showdownMarkup": "Torkoal",
+        "showdownData": "torkoal",
+        "serebii": "torkoal",
+        "bulbapedia": "Torkoal"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

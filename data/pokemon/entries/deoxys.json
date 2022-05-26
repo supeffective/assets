@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DEOXYS",
+        "veekunDb": "deoxys",
+        "showdownMarkup": "Deoxys",
+        "showdownData": "deoxys",
+        "serebii": "deoxys",
+        "bulbapedia": "Deoxys"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

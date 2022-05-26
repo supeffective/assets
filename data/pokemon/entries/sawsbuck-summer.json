@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SAWSBUCK_SUMMER",
+        "veekunDb": "sawsbuck-summer",
+        "showdownMarkup": "Sawsbuck-Summer",
+        "showdownData": "sawsbucksummer",
+        "serebii": "sawsbuck-summer",
+        "bulbapedia": "Sawsbuck"
+    },
     "baseSpecies": "sawsbuck",
     "baseForms": [],
     "forms": null,

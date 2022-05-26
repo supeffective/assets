@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "STARAVIA_F",
+        "veekunDb": "staravia-f",
+        "showdownMarkup": "Staravia-F",
+        "showdownData": "staraviaf",
+        "serebii": "staravia-f",
+        "bulbapedia": "Staravia"
+    },
     "baseSpecies": "staravia",
     "baseForms": [],
     "forms": null,

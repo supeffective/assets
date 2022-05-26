@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KYUREM",
+        "veekunDb": "kyurem",
+        "showdownMarkup": "Kyurem",
+        "showdownData": "kyurem",
+        "serebii": "kyurem",
+        "bulbapedia": "Kyurem"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

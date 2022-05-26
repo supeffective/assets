@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ARCEUS_GRASS",
+        "veekunDb": "arceus-grass",
+        "showdownMarkup": "Arceus-Grass",
+        "showdownData": "arceusgrass",
+        "serebii": "arceus-grass",
+        "bulbapedia": "Arceus"
+    },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"

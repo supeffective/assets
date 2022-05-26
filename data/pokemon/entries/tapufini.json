@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TAPUFINI",
+        "veekunDb": "tapufini",
+        "showdownMarkup": "Tapufini",
+        "showdownData": "tapufini",
+        "serebii": "tapufini",
+        "bulbapedia": "Tapu Fini"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

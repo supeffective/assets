@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "NOSEPASS",
+        "veekunDb": "nosepass",
+        "showdownMarkup": "Nosepass",
+        "showdownData": "nosepass",
+        "serebii": "nosepass",
+        "bulbapedia": "Nosepass"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

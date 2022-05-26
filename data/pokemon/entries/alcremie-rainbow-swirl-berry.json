@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ALCREMIE_RAINBOW_SWIRL_BERRY",
+        "veekunDb": "alcremie-rainbow-swirl-berry",
+        "showdownMarkup": "Alcremie-Rainbow-Swirl-Berry",
+        "showdownData": "alcremierainbowswirlberry",
+        "serebii": "alcremie-rainbow-swirl-berry",
+        "bulbapedia": "Alcremie"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

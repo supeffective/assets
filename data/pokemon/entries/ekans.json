@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "EKANS",
+        "veekunDb": "ekans",
+        "showdownMarkup": "Ekans",
+        "showdownData": "ekans",
+        "serebii": "ekans",
+        "bulbapedia": "Ekans"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VICTINI",
+        "veekunDb": "victini",
+        "showdownMarkup": "Victini",
+        "showdownData": "victini",
+        "serebii": "victini",
+        "bulbapedia": "Victini"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

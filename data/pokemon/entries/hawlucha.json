@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HAWLUCHA",
+        "veekunDb": "hawlucha",
+        "showdownMarkup": "Hawlucha",
+        "showdownData": "hawlucha",
+        "serebii": "hawlucha",
+        "bulbapedia": "Hawlucha"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

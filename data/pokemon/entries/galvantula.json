@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GALVANTULA",
+        "veekunDb": "galvantula",
+        "showdownMarkup": "Galvantula",
+        "showdownData": "galvantula",
+        "serebii": "galvantula",
+        "bulbapedia": "Galvantula"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

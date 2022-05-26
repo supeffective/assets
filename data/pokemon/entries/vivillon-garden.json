@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VIVILLON_GARDEN",
+        "veekunDb": "vivillon-garden",
+        "showdownMarkup": "Vivillon-Garden",
+        "showdownData": "vivillongarden",
+        "serebii": "vivillon-garden",
+        "bulbapedia": "Vivillon"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

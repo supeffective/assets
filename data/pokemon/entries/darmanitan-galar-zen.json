@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DARMANITAN_GALAR_ZEN",
+        "veekunDb": "darmanitan-galar-zen",
+        "showdownMarkup": "Darmanitan-Galar-Zen",
+        "showdownData": "darmanitangalarzen",
+        "serebii": "darmanitan-galar-zen",
+        "bulbapedia": "Darmanitan"
+    },
     "baseSpecies": "darmanitan",
     "baseForms": [
         "darmanitan-galar"

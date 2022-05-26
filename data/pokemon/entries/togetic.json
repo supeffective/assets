@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TOGETIC",
+        "veekunDb": "togetic",
+        "showdownMarkup": "Togetic",
+        "showdownData": "togetic",
+        "serebii": "togetic",
+        "bulbapedia": "Togetic"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

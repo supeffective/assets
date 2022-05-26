@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SCYTHER",
+        "veekunDb": "scyther",
+        "showdownMarkup": "Scyther",
+        "showdownData": "scyther",
+        "serebii": "scyther",
+        "bulbapedia": "Scyther"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

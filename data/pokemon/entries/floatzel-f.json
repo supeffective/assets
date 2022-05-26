@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FLOATZEL_F",
+        "veekunDb": "floatzel-f",
+        "showdownMarkup": "Floatzel-F",
+        "showdownData": "floatzelf",
+        "serebii": "floatzel-f",
+        "bulbapedia": "Floatzel"
+    },
     "baseSpecies": "floatzel",
     "baseForms": [],
     "forms": null,

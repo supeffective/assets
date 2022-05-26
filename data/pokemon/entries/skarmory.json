@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SKARMORY",
+        "veekunDb": "skarmory",
+        "showdownMarkup": "Skarmory",
+        "showdownData": "skarmory",
+        "serebii": "skarmory",
+        "bulbapedia": "Skarmory"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

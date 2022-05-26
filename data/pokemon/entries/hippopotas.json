@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HIPPOPOTAS",
+        "veekunDb": "hippopotas",
+        "showdownMarkup": "Hippopotas",
+        "showdownData": "hippopotas",
+        "serebii": "hippopotas",
+        "bulbapedia": "Hippopotas"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

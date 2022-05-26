@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "RHYDON",
+        "veekunDb": "rhydon",
+        "showdownMarkup": "Rhydon",
+        "showdownData": "rhydon",
+        "serebii": "rhydon",
+        "bulbapedia": "Rhydon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

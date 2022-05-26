@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DUNSPARCE",
+        "veekunDb": "dunsparce",
+        "showdownMarkup": "Dunsparce",
+        "showdownData": "dunsparce",
+        "serebii": "dunsparce",
+        "bulbapedia": "Dunsparce"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

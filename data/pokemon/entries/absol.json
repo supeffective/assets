@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ABSOL",
+        "veekunDb": "absol",
+        "showdownMarkup": "Absol",
+        "showdownData": "absol",
+        "serebii": "absol",
+        "bulbapedia": "Absol"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "WOBBUFFET_F",
+        "veekunDb": "wobbuffet-f",
+        "showdownMarkup": "Wobbuffet-F",
+        "showdownData": "wobbuffetf",
+        "serebii": "wobbuffet-f",
+        "bulbapedia": "Wobbuffet"
+    },
     "baseSpecies": "wobbuffet",
     "baseForms": [],
     "forms": null,

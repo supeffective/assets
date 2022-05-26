@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TAPUBULU",
+        "veekunDb": "tapubulu",
+        "showdownMarkup": "Tapubulu",
+        "showdownData": "tapubulu",
+        "serebii": "tapubulu",
+        "bulbapedia": "Tapu Bulu"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

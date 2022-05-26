@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GENGAR_GMAX",
+        "veekunDb": "gengar-gmax",
+        "showdownMarkup": "Gengar-Gmax",
+        "showdownData": "gengargmax",
+        "serebii": "gengar-gmax",
+        "bulbapedia": "Gengar"
+    },
     "baseSpecies": "gengar",
     "baseForms": [
         "gengar"

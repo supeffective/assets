@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FLAPPLE",
+        "veekunDb": "flapple",
+        "showdownMarkup": "Flapple",
+        "showdownData": "flapple",
+        "serebii": "flapple",
+        "bulbapedia": "Flapple"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

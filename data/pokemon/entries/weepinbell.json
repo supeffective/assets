@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "WEEPINBELL",
+        "veekunDb": "weepinbell",
+        "showdownMarkup": "Weepinbell",
+        "showdownData": "weepinbell",
+        "serebii": "weepinbell",
+        "bulbapedia": "Weepinbell"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

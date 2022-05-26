@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SAWSBUCK",
+        "veekunDb": "sawsbuck",
+        "showdownMarkup": "Sawsbuck",
+        "showdownData": "sawsbuck",
+        "serebii": "sawsbuck",
+        "bulbapedia": "Sawsbuck"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

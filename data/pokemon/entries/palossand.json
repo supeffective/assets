@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PALOSSAND",
+        "veekunDb": "palossand",
+        "showdownMarkup": "Palossand",
+        "showdownData": "palossand",
+        "serebii": "palossand",
+        "bulbapedia": "Palossand"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

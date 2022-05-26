@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BASCULIN",
+        "veekunDb": "basculin",
+        "showdownMarkup": "Basculin",
+        "showdownData": "basculin",
+        "serebii": "basculin",
+        "bulbapedia": "Basculin"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

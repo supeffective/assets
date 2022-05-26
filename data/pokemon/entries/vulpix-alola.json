@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VULPIX_ALOLA",
+        "veekunDb": "vulpix-alola",
+        "showdownMarkup": "Vulpix-Alola",
+        "showdownData": "vulpixalola",
+        "serebii": "vulpix-alola",
+        "bulbapedia": "Vulpix"
+    },
     "baseSpecies": "vulpix",
     "baseForms": [],
     "forms": null,

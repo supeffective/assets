@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HOOPA",
+        "veekunDb": "hoopa",
+        "showdownMarkup": "Hoopa",
+        "showdownData": "hoopa",
+        "serebii": "hoopa",
+        "bulbapedia": "Hoopa"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ACCELGOR",
+        "veekunDb": "accelgor",
+        "showdownMarkup": "Accelgor",
+        "showdownData": "accelgor",
+        "serebii": "accelgor",
+        "bulbapedia": "Accelgor"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

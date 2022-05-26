@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "NIDOKING",
+        "veekunDb": "nidoking",
+        "showdownMarkup": "Nidoking",
+        "showdownData": "nidoking",
+        "serebii": "nidoking",
+        "bulbapedia": "Nidoking"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

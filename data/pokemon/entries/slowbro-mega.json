@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SLOWBRO_MEGA",
+        "veekunDb": "slowbro-mega",
+        "showdownMarkup": "Slowbro-Mega",
+        "showdownData": "slowbromega",
+        "serebii": "slowbro-mega",
+        "bulbapedia": "Slowbro"
+    },
     "baseSpecies": "slowbro",
     "baseForms": [
         "slowbro"

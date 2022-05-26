@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GULPIN",
+        "veekunDb": "gulpin",
+        "showdownMarkup": "Gulpin",
+        "showdownData": "gulpin",
+        "serebii": "gulpin",
+        "bulbapedia": "Gulpin"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

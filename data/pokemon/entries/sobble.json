@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SOBBLE",
+        "veekunDb": "sobble",
+        "showdownMarkup": "Sobble",
+        "showdownData": "sobble",
+        "serebii": "sobble",
+        "bulbapedia": "Sobble"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

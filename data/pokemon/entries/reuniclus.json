@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "REUNICLUS",
+        "veekunDb": "reuniclus",
+        "showdownMarkup": "Reuniclus",
+        "showdownData": "reuniclus",
+        "serebii": "reuniclus",
+        "bulbapedia": "Reuniclus"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GRAVELER",
+        "veekunDb": "graveler",
+        "showdownMarkup": "Graveler",
+        "showdownData": "graveler",
+        "serebii": "graveler",
+        "bulbapedia": "Graveler"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

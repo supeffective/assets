@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VIVILLON_JUNGLE",
+        "veekunDb": "vivillon-jungle",
+        "showdownMarkup": "Vivillon-Jungle",
+        "showdownData": "vivillonjungle",
+        "serebii": "vivillon-jungle",
+        "bulbapedia": "Vivillon"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

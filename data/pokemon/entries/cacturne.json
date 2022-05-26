@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CACTURNE",
+        "veekunDb": "cacturne",
+        "showdownMarkup": "Cacturne",
+        "showdownData": "cacturne",
+        "serebii": "cacturne",
+        "bulbapedia": "Cacturne"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

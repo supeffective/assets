@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SUNFLORA",
+        "veekunDb": "sunflora",
+        "showdownMarkup": "Sunflora",
+        "showdownData": "sunflora",
+        "serebii": "sunflora",
+        "bulbapedia": "Sunflora"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CHARIZARD_GMAX",
+        "veekunDb": "charizard-gmax",
+        "showdownMarkup": "Charizard-Gmax",
+        "showdownData": "charizardgmax",
+        "serebii": "charizard-gmax",
+        "bulbapedia": "Charizard"
+    },
     "baseSpecies": "charizard",
     "baseForms": [
         "charizard"

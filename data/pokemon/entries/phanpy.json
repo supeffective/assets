@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PHANPY",
+        "veekunDb": "phanpy",
+        "showdownMarkup": "Phanpy",
+        "showdownData": "phanpy",
+        "serebii": "phanpy",
+        "bulbapedia": "Phanpy"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

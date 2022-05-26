@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ZARUDE",
+        "veekunDb": "zarude",
+        "showdownMarkup": "Zarude",
+        "showdownData": "zarude",
+        "serebii": "zarude",
+        "bulbapedia": "Zarude"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

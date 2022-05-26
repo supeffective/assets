@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "WIMPOD",
+        "veekunDb": "wimpod",
+        "showdownMarkup": "Wimpod",
+        "showdownData": "wimpod",
+        "serebii": "wimpod",
+        "bulbapedia": "Wimpod"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

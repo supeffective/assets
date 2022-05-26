@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "NOIVERN",
+        "veekunDb": "noivern",
+        "showdownMarkup": "Noivern",
+        "showdownData": "noivern",
+        "serebii": "noivern",
+        "bulbapedia": "Noivern"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

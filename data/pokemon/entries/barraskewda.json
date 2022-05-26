@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BARRASKEWDA",
+        "veekunDb": "barraskewda",
+        "showdownMarkup": "Barraskewda",
+        "showdownData": "barraskewda",
+        "serebii": "barraskewda",
+        "bulbapedia": "Barraskewda"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

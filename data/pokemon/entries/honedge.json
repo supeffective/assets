@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HONEDGE",
+        "veekunDb": "honedge",
+        "showdownMarkup": "Honedge",
+        "showdownData": "honedge",
+        "serebii": "honedge",
+        "bulbapedia": "Honedge"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MANDIBUZZ",
+        "veekunDb": "mandibuzz",
+        "showdownMarkup": "Mandibuzz",
+        "showdownData": "mandibuzz",
+        "serebii": "mandibuzz",
+        "bulbapedia": "Mandibuzz"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

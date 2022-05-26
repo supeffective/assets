@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CORVISQUIRE",
+        "veekunDb": "corvisquire",
+        "showdownMarkup": "Corvisquire",
+        "showdownData": "corvisquire",
+        "serebii": "corvisquire",
+        "bulbapedia": "Corvisquire"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

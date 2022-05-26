@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MUDBRAY",
+        "veekunDb": "mudbray",
+        "showdownMarkup": "Mudbray",
+        "showdownData": "mudbray",
+        "serebii": "mudbray",
+        "bulbapedia": "Mudbray"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CORPHISH",
+        "veekunDb": "corphish",
+        "showdownMarkup": "Corphish",
+        "showdownData": "corphish",
+        "serebii": "corphish",
+        "bulbapedia": "Corphish"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

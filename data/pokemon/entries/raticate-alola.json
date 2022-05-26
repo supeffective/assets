@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "RATICATE_ALOLA",
+        "veekunDb": "raticate-alola",
+        "showdownMarkup": "Raticate-Alola",
+        "showdownData": "raticatealola",
+        "serebii": "raticate-alola",
+        "bulbapedia": "Raticate"
+    },
     "baseSpecies": "raticate",
     "baseForms": [],
     "forms": null,

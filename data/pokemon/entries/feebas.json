@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FEEBAS",
+        "veekunDb": "feebas",
+        "showdownMarkup": "Feebas",
+        "showdownData": "feebas",
+        "serebii": "feebas",
+        "bulbapedia": "Feebas"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

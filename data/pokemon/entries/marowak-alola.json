@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MAROWAK_ALOLA",
+        "veekunDb": "marowak-alola",
+        "showdownMarkup": "Marowak-Alola",
+        "showdownData": "marowakalola",
+        "serebii": "marowak-alola",
+        "bulbapedia": "Marowak"
+    },
     "baseSpecies": "marowak",
     "baseForms": [],
     "forms": null,

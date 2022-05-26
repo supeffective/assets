@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LILEEP",
+        "veekunDb": "lileep",
+        "showdownMarkup": "Lileep",
+        "showdownData": "lileep",
+        "serebii": "lileep",
+        "bulbapedia": "Lileep"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

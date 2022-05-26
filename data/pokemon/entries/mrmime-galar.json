@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MRMIME_GALAR",
+        "veekunDb": "mrmime-galar",
+        "showdownMarkup": "Mrmime-Galar",
+        "showdownData": "mrmimegalar",
+        "serebii": "mrmime-galar",
+        "bulbapedia": "Mrmime"
+    },
     "baseSpecies": "mrmime",
     "baseForms": [],
     "forms": null,

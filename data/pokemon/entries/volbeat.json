@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VOLBEAT",
+        "veekunDb": "volbeat",
+        "showdownMarkup": "Volbeat",
+        "showdownData": "volbeat",
+        "serebii": "volbeat",
+        "bulbapedia": "Volbeat"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

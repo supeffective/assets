@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "COFAGRIGUS",
+        "veekunDb": "cofagrigus",
+        "showdownMarkup": "Cofagrigus",
+        "showdownData": "cofagrigus",
+        "serebii": "cofagrigus",
+        "bulbapedia": "Cofagrigus"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

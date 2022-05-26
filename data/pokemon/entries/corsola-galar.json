@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CORSOLA_GALAR",
+        "veekunDb": "corsola-galar",
+        "showdownMarkup": "Corsola-Galar",
+        "showdownData": "corsolagalar",
+        "serebii": "corsola-galar",
+        "bulbapedia": "Corsola"
+    },
     "baseSpecies": "corsola",
     "baseForms": [],
     "forms": null,

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BOLTUND",
+        "veekunDb": "boltund",
+        "showdownMarkup": "Boltund",
+        "showdownData": "boltund",
+        "serebii": "boltund",
+        "bulbapedia": "Boltund"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PURUGLY",
+        "veekunDb": "purugly",
+        "showdownMarkup": "Purugly",
+        "showdownData": "purugly",
+        "serebii": "purugly",
+        "bulbapedia": "Purugly"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "AURORUS",
+        "veekunDb": "aurorus",
+        "showdownMarkup": "Aurorus",
+        "showdownData": "aurorus",
+        "serebii": "aurorus",
+        "bulbapedia": "Aurorus"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

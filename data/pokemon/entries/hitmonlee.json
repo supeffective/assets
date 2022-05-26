@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HITMONLEE",
+        "veekunDb": "hitmonlee",
+        "showdownMarkup": "Hitmonlee",
+        "showdownData": "hitmonlee",
+        "serebii": "hitmonlee",
+        "bulbapedia": "Hitmonlee"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ARCEUS_ELECTRIC",
+        "veekunDb": "arceus-electric",
+        "showdownMarkup": "Arceus-Electric",
+        "showdownData": "arceuselectric",
+        "serebii": "arceus-electric",
+        "bulbapedia": "Arceus"
+    },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "URSARING_F",
+        "veekunDb": "ursaring-f",
+        "showdownMarkup": "Ursaring-F",
+        "showdownData": "ursaringf",
+        "serebii": "ursaring-f",
+        "bulbapedia": "Ursaring"
+    },
     "baseSpecies": "ursaring",
     "baseForms": [],
     "forms": null,

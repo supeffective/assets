@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DRAMPA",
+        "veekunDb": "drampa",
+        "showdownMarkup": "Drampa",
+        "showdownData": "drampa",
+        "serebii": "drampa",
+        "bulbapedia": "Drampa"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

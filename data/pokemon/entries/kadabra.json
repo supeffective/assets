@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KADABRA",
+        "veekunDb": "kadabra",
+        "showdownMarkup": "Kadabra",
+        "showdownData": "kadabra",
+        "serebii": "kadabra",
+        "bulbapedia": "Kadabra"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

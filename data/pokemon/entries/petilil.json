@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PETILIL",
+        "veekunDb": "petilil",
+        "showdownMarkup": "Petilil",
+        "showdownData": "petilil",
+        "serebii": "petilil",
+        "bulbapedia": "Petilil"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

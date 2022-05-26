@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "UNOWN_QUESTION",
+        "veekunDb": "unown-question",
+        "showdownMarkup": "Unown-Question",
+        "showdownData": "unownquestion",
+        "serebii": "unown-question",
+        "bulbapedia": "Unown"
+    },
     "baseSpecies": "unown",
     "baseForms": [],
     "forms": null,

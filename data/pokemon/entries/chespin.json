@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CHESPIN",
+        "veekunDb": "chespin",
+        "showdownMarkup": "Chespin",
+        "showdownData": "chespin",
+        "serebii": "chespin",
+        "bulbapedia": "Chespin"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

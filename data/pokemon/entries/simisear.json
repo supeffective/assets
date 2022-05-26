@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SIMISEAR",
+        "veekunDb": "simisear",
+        "showdownMarkup": "Simisear",
+        "showdownData": "simisear",
+        "serebii": "simisear",
+        "bulbapedia": "Simisear"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

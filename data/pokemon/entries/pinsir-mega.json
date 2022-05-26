@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PINSIR_MEGA",
+        "veekunDb": "pinsir-mega",
+        "showdownMarkup": "Pinsir-Mega",
+        "showdownData": "pinsirmega",
+        "serebii": "pinsir-mega",
+        "bulbapedia": "Pinsir"
+    },
     "baseSpecies": "pinsir",
     "baseForms": [
         "pinsir"

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "WATCHOG",
+        "veekunDb": "watchog",
+        "showdownMarkup": "Watchog",
+        "showdownData": "watchog",
+        "serebii": "watchog",
+        "bulbapedia": "Watchog"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

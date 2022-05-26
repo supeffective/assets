@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KANGASKHAN_MEGA",
+        "veekunDb": "kangaskhan-mega",
+        "showdownMarkup": "Kangaskhan-Mega",
+        "showdownData": "kangaskhanmega",
+        "serebii": "kangaskhan-mega",
+        "bulbapedia": "Kangaskhan"
+    },
     "baseSpecies": "kangaskhan",
     "baseForms": [
         "kangaskhan"

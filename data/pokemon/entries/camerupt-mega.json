@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CAMERUPT_MEGA",
+        "veekunDb": "camerupt-mega",
+        "showdownMarkup": "Camerupt-Mega",
+        "showdownData": "cameruptmega",
+        "serebii": "camerupt-mega",
+        "bulbapedia": "Camerupt"
+    },
     "baseSpecies": "camerupt",
     "baseForms": [
         "camerupt"

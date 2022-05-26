@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CLAUNCHER",
+        "veekunDb": "clauncher",
+        "showdownMarkup": "Clauncher",
+        "showdownData": "clauncher",
+        "serebii": "clauncher",
+        "bulbapedia": "Clauncher"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FALINKS",
+        "veekunDb": "falinks",
+        "showdownMarkup": "Falinks",
+        "showdownData": "falinks",
+        "serebii": "falinks",
+        "bulbapedia": "Falinks"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

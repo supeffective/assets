@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ZYGARDE_COMPLETE",
+        "veekunDb": "zygarde-complete",
+        "showdownMarkup": "Zygarde-Complete",
+        "showdownData": "zygardecomplete",
+        "serebii": "zygarde-complete",
+        "bulbapedia": "Zygarde"
+    },
     "baseSpecies": "zygarde",
     "baseForms": [
         "zygarde-power-construct",

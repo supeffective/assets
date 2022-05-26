@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "RATTATA_ALOLA",
+        "veekunDb": "rattata-alola",
+        "showdownMarkup": "Rattata-Alola",
+        "showdownData": "rattataalola",
+        "serebii": "rattata-alola",
+        "bulbapedia": "Rattata"
+    },
     "baseSpecies": "rattata",
     "baseForms": [],
     "forms": null,

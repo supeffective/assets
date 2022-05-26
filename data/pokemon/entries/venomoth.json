@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VENOMOTH",
+        "veekunDb": "venomoth",
+        "showdownMarkup": "Venomoth",
+        "showdownData": "venomoth",
+        "serebii": "venomoth",
+        "bulbapedia": "Venomoth"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

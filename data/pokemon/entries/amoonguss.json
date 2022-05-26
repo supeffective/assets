@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "AMOONGUSS",
+        "veekunDb": "amoonguss",
+        "showdownMarkup": "Amoonguss",
+        "showdownData": "amoonguss",
+        "serebii": "amoonguss",
+        "bulbapedia": "Amoonguss"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

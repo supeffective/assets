@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PURRLOIN",
+        "veekunDb": "purrloin",
+        "showdownMarkup": "Purrloin",
+        "showdownData": "purrloin",
+        "serebii": "purrloin",
+        "bulbapedia": "Purrloin"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

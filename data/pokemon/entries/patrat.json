@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PATRAT",
+        "veekunDb": "patrat",
+        "showdownMarkup": "Patrat",
+        "showdownData": "patrat",
+        "serebii": "patrat",
+        "bulbapedia": "Patrat"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

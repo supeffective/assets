@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DIALGA",
+        "veekunDb": "dialga",
+        "showdownMarkup": "Dialga",
+        "showdownData": "dialga",
+        "serebii": "dialga",
+        "bulbapedia": "Dialga"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GLAMEOW",
+        "veekunDb": "glameow",
+        "showdownMarkup": "Glameow",
+        "showdownData": "glameow",
+        "serebii": "glameow",
+        "bulbapedia": "Glameow"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

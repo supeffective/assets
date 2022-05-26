@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ORBEETLE",
+        "veekunDb": "orbeetle",
+        "showdownMarkup": "Orbeetle",
+        "showdownData": "orbeetle",
+        "serebii": "orbeetle",
+        "bulbapedia": "Orbeetle"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

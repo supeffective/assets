@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SMEARGLE",
+        "veekunDb": "smeargle",
+        "showdownMarkup": "Smeargle",
+        "showdownData": "smeargle",
+        "serebii": "smeargle",
+        "bulbapedia": "Smeargle"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

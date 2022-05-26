@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LUXRAY",
+        "veekunDb": "luxray",
+        "showdownMarkup": "Luxray",
+        "showdownData": "luxray",
+        "serebii": "luxray",
+        "bulbapedia": "Luxray"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ALOMOMOLA",
+        "veekunDb": "alomomola",
+        "showdownMarkup": "Alomomola",
+        "showdownData": "alomomola",
+        "serebii": "alomomola",
+        "bulbapedia": "Alomomola"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

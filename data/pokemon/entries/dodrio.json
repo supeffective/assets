@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DODRIO",
+        "veekunDb": "dodrio",
+        "showdownMarkup": "Dodrio",
+        "showdownData": "dodrio",
+        "serebii": "dodrio",
+        "bulbapedia": "Dodrio"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

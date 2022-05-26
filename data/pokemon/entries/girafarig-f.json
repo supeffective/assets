@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GIRAFARIG_F",
+        "veekunDb": "girafarig-f",
+        "showdownMarkup": "Girafarig-F",
+        "showdownData": "girafarigf",
+        "serebii": "girafarig-f",
+        "bulbapedia": "Girafarig"
+    },
     "baseSpecies": "girafarig",
     "baseForms": [],
     "forms": null,

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "WHISMUR",
+        "veekunDb": "whismur",
+        "showdownMarkup": "Whismur",
+        "showdownData": "whismur",
+        "serebii": "whismur",
+        "bulbapedia": "Whismur"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

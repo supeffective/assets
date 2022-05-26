@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CINDERACE",
+        "veekunDb": "cinderace",
+        "showdownMarkup": "Cinderace",
+        "showdownData": "cinderace",
+        "serebii": "cinderace",
+        "bulbapedia": "Cinderace"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

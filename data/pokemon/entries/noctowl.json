@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "NOCTOWL",
+        "veekunDb": "noctowl",
+        "showdownMarkup": "Noctowl",
+        "showdownData": "noctowl",
+        "serebii": "noctowl",
+        "bulbapedia": "Noctowl"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

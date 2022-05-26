@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "NUMEL_F",
+        "veekunDb": "numel-f",
+        "showdownMarkup": "Numel-F",
+        "showdownData": "numelf",
+        "serebii": "numel-f",
+        "bulbapedia": "Numel"
+    },
     "baseSpecies": "numel",
     "baseForms": [],
     "forms": null,

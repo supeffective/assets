@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ALCREMIE_RUBY_CREAM_BERRY",
+        "veekunDb": "alcremie-ruby-cream-berry",
+        "showdownMarkup": "Alcremie-Ruby-Cream-Berry",
+        "showdownData": "alcremierubycreamberry",
+        "serebii": "alcremie-ruby-cream-berry",
+        "bulbapedia": "Alcremie"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

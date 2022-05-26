@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LURANTIS",
+        "veekunDb": "lurantis",
+        "showdownMarkup": "Lurantis",
+        "showdownData": "lurantis",
+        "serebii": "lurantis",
+        "bulbapedia": "Lurantis"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

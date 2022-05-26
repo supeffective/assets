@@ -70,6 +70,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CALYREX_ICE",
+        "veekunDb": "calyrex-ice",
+        "showdownMarkup": "Calyrex-Ice",
+        "showdownData": "calyrexice",
+        "serebii": "calyrex-ice",
+        "bulbapedia": "Calyrex"
+    },
     "baseSpecies": "calyrex",
     "baseForms": [
         "calyrex"

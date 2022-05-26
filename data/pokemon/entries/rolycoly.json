@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ROLYCOLY",
+        "veekunDb": "rolycoly",
+        "showdownMarkup": "Rolycoly",
+        "showdownData": "rolycoly",
+        "serebii": "rolycoly",
+        "bulbapedia": "Rolycoly"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

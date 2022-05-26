@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ROTOM_FAN",
+        "veekunDb": "rotom-fan",
+        "showdownMarkup": "Rotom-Fan",
+        "showdownData": "rotomfan",
+        "serebii": "rotom-fan",
+        "bulbapedia": "Rotom"
+    },
     "baseSpecies": "rotom",
     "baseForms": [
         "rotom"

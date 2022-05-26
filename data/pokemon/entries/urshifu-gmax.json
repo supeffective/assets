@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "URSHIFU_GMAX",
+        "veekunDb": "urshifu-gmax",
+        "showdownMarkup": "Urshifu-Gmax",
+        "showdownData": "urshifugmax",
+        "serebii": "urshifu-gmax",
+        "bulbapedia": "Urshifu"
+    },
     "baseSpecies": "urshifu",
     "baseForms": [
         "urshifu"

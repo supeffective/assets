@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BUTTERFREE",
+        "veekunDb": "butterfree",
+        "showdownMarkup": "Butterfree",
+        "showdownData": "butterfree",
+        "serebii": "butterfree",
+        "bulbapedia": "Butterfree"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

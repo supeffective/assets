@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PANCHAM",
+        "veekunDb": "pancham",
+        "showdownMarkup": "Pancham",
+        "showdownData": "pancham",
+        "serebii": "pancham",
+        "bulbapedia": "Pancham"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

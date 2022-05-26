@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "THIEVUL",
+        "veekunDb": "thievul",
+        "showdownMarkup": "Thievul",
+        "showdownData": "thievul",
+        "serebii": "thievul",
+        "bulbapedia": "Thievul"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TOXTRICITY",
+        "veekunDb": "toxtricity",
+        "showdownMarkup": "Toxtricity",
+        "showdownData": "toxtricity",
+        "serebii": "toxtricity",
+        "bulbapedia": "Toxtricity"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ALCREMIE_SALTED_CREAM_CLOVER",
+        "veekunDb": "alcremie-salted-cream-clover",
+        "showdownMarkup": "Alcremie-Salted-Cream-Clover",
+        "showdownData": "alcremiesaltedcreamclover",
+        "serebii": "alcremie-salted-cream-clover",
+        "bulbapedia": "Alcremie"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

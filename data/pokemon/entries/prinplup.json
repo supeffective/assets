@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PRINPLUP",
+        "veekunDb": "prinplup",
+        "showdownMarkup": "Prinplup",
+        "showdownData": "prinplup",
+        "serebii": "prinplup",
+        "bulbapedia": "Prinplup"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

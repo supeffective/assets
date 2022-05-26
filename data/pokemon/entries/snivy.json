@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SNIVY",
+        "veekunDb": "snivy",
+        "showdownMarkup": "Snivy",
+        "showdownData": "snivy",
+        "serebii": "snivy",
+        "bulbapedia": "Snivy"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

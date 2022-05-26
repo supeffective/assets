@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DELCATTY",
+        "veekunDb": "delcatty",
+        "showdownMarkup": "Delcatty",
+        "showdownData": "delcatty",
+        "serebii": "delcatty",
+        "bulbapedia": "Delcatty"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MIGHTYENA",
+        "veekunDb": "mightyena",
+        "showdownMarkup": "Mightyena",
+        "showdownData": "mightyena",
+        "serebii": "mightyena",
+        "bulbapedia": "Mightyena"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

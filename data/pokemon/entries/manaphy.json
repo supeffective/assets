@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MANAPHY",
+        "veekunDb": "manaphy",
+        "showdownMarkup": "Manaphy",
+        "showdownData": "manaphy",
+        "serebii": "manaphy",
+        "bulbapedia": "Manaphy"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BRELOOM",
+        "veekunDb": "breloom",
+        "showdownMarkup": "Breloom",
+        "showdownData": "breloom",
+        "serebii": "breloom",
+        "bulbapedia": "Breloom"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

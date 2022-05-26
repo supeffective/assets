@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MASQUERAIN",
+        "veekunDb": "masquerain",
+        "showdownMarkup": "Masquerain",
+        "showdownData": "masquerain",
+        "serebii": "masquerain",
+        "bulbapedia": "Masquerain"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

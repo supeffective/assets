@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ORBEETLE_GMAX",
+        "veekunDb": "orbeetle-gmax",
+        "showdownMarkup": "Orbeetle-Gmax",
+        "showdownData": "orbeetlegmax",
+        "serebii": "orbeetle-gmax",
+        "bulbapedia": "Orbeetle"
+    },
     "baseSpecies": "orbeetle",
     "baseForms": [
         "orbeetle"

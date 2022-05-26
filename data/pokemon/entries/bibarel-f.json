@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BIBAREL_F",
+        "veekunDb": "bibarel-f",
+        "showdownMarkup": "Bibarel-F",
+        "showdownData": "bibarelf",
+        "serebii": "bibarel-f",
+        "bulbapedia": "Bibarel"
+    },
     "baseSpecies": "bibarel",
     "baseForms": [],
     "forms": null,

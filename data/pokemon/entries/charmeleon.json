@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CHARMELEON",
+        "veekunDb": "charmeleon",
+        "showdownMarkup": "Charmeleon",
+        "showdownData": "charmeleon",
+        "serebii": "charmeleon",
+        "bulbapedia": "Charmeleon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

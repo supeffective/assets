@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BIDOOF_F",
+        "veekunDb": "bidoof-f",
+        "showdownMarkup": "Bidoof-F",
+        "showdownData": "bidooff",
+        "serebii": "bidoof-f",
+        "bulbapedia": "Bidoof"
+    },
     "baseSpecies": "bidoof",
     "baseForms": [],
     "forms": null,

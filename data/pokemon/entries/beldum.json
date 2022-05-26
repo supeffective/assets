@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BELDUM",
+        "veekunDb": "beldum",
+        "showdownMarkup": "Beldum",
+        "showdownData": "beldum",
+        "serebii": "beldum",
+        "bulbapedia": "Beldum"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

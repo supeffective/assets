@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SCIZOR_MEGA",
+        "veekunDb": "scizor-mega",
+        "showdownMarkup": "Scizor-Mega",
+        "showdownData": "scizormega",
+        "serebii": "scizor-mega",
+        "bulbapedia": "Scizor"
+    },
     "baseSpecies": "scizor",
     "baseForms": [
         "scizor"

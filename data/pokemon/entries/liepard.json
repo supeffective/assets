@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LIEPARD",
+        "veekunDb": "liepard",
+        "showdownMarkup": "Liepard",
+        "showdownData": "liepard",
+        "serebii": "liepard",
+        "bulbapedia": "Liepard"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

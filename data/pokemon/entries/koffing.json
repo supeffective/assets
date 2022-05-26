@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KOFFING",
+        "veekunDb": "koffing",
+        "showdownMarkup": "Koffing",
+        "showdownData": "koffing",
+        "serebii": "koffing",
+        "bulbapedia": "Koffing"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

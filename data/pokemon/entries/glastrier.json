@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GLASTRIER",
+        "veekunDb": "glastrier",
+        "showdownMarkup": "Glastrier",
+        "showdownData": "glastrier",
+        "serebii": "glastrier",
+        "bulbapedia": "Glastrier"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

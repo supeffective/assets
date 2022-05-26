@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KINGLER_GMAX",
+        "veekunDb": "kingler-gmax",
+        "showdownMarkup": "Kingler-Gmax",
+        "showdownData": "kinglergmax",
+        "serebii": "kingler-gmax",
+        "bulbapedia": "Kingler"
+    },
     "baseSpecies": "kingler",
     "baseForms": [
         "kingler"

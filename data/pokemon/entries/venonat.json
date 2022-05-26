@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VENONAT",
+        "veekunDb": "venonat",
+        "showdownMarkup": "Venonat",
+        "showdownData": "venonat",
+        "serebii": "venonat",
+        "bulbapedia": "Venonat"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

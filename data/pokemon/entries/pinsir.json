@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PINSIR",
+        "veekunDb": "pinsir",
+        "showdownMarkup": "Pinsir",
+        "showdownData": "pinsir",
+        "serebii": "pinsir",
+        "bulbapedia": "Pinsir"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

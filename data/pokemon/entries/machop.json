@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MACHOP",
+        "veekunDb": "machop",
+        "showdownMarkup": "Machop",
+        "showdownData": "machop",
+        "serebii": "machop",
+        "bulbapedia": "Machop"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

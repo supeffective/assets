@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "COALOSSAL_GMAX",
+        "veekunDb": "coalossal-gmax",
+        "showdownMarkup": "Coalossal-Gmax",
+        "showdownData": "coalossalgmax",
+        "serebii": "coalossal-gmax",
+        "bulbapedia": "Coalossal"
+    },
     "baseSpecies": "coalossal",
     "baseForms": [
         "coalossal"

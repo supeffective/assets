@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LUNATONE",
+        "veekunDb": "lunatone",
+        "showdownMarkup": "Lunatone",
+        "showdownData": "lunatone",
+        "serebii": "lunatone",
+        "bulbapedia": "Lunatone"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

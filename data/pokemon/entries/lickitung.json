@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LICKITUNG",
+        "veekunDb": "lickitung",
+        "showdownMarkup": "Lickitung",
+        "showdownData": "lickitung",
+        "serebii": "lickitung",
+        "bulbapedia": "Lickitung"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ARCEUS_ROCK",
+        "veekunDb": "arceus-rock",
+        "showdownMarkup": "Arceus-Rock",
+        "showdownData": "arceusrock",
+        "serebii": "arceus-rock",
+        "bulbapedia": "Arceus"
+    },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"

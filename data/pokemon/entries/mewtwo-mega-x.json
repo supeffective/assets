@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MEWTWO_MEGA_X",
+        "veekunDb": "mewtwo-mega-x",
+        "showdownMarkup": "Mewtwo-Mega-X",
+        "showdownData": "mewtwomegax",
+        "serebii": "mewtwo-mega-x",
+        "bulbapedia": "Mewtwo"
+    },
     "baseSpecies": "mewtwo",
     "baseForms": [
         "mewtwo"

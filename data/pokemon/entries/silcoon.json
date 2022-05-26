@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SILCOON",
+        "veekunDb": "silcoon",
+        "showdownMarkup": "Silcoon",
+        "showdownData": "silcoon",
+        "serebii": "silcoon",
+        "bulbapedia": "Silcoon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

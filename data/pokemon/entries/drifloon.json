@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DRIFLOON",
+        "veekunDb": "drifloon",
+        "showdownMarkup": "Drifloon",
+        "showdownData": "drifloon",
+        "serebii": "drifloon",
+        "bulbapedia": "Drifloon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

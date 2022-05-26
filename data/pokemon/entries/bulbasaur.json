@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BULBASAUR",
+        "veekunDb": "bulbasaur",
+        "showdownMarkup": "Bulbasaur",
+        "showdownData": "bulbasaur",
+        "serebii": "bulbasaur",
+        "bulbapedia": "Bulbasaur"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

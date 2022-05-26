@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GOLBAT",
+        "veekunDb": "golbat",
+        "showdownMarkup": "Golbat",
+        "showdownData": "golbat",
+        "serebii": "golbat",
+        "bulbapedia": "Golbat"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

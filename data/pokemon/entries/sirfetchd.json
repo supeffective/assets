@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SIRFETCHD",
+        "veekunDb": "sirfetchd",
+        "showdownMarkup": "Sirfetchd",
+        "showdownData": "sirfetchd",
+        "serebii": "sirfetchd",
+        "bulbapedia": "Sirfetch’d"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LUGIA",
+        "veekunDb": "lugia",
+        "showdownMarkup": "Lugia",
+        "showdownData": "lugia",
+        "serebii": "lugia",
+        "bulbapedia": "Lugia"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

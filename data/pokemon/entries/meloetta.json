@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MELOETTA",
+        "veekunDb": "meloetta",
+        "showdownMarkup": "Meloetta",
+        "showdownData": "meloetta",
+        "serebii": "meloetta",
+        "bulbapedia": "Meloetta"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

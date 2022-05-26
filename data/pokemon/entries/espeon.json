@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ESPEON",
+        "veekunDb": "espeon",
+        "showdownMarkup": "Espeon",
+        "showdownData": "espeon",
+        "serebii": "espeon",
+        "bulbapedia": "Espeon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

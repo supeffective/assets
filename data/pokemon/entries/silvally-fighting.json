@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SILVALLY_FIGHTING",
+        "veekunDb": "silvally-fighting",
+        "showdownMarkup": "Silvally-Fighting",
+        "showdownData": "silvallyfighting",
+        "serebii": "silvally-fighting",
+        "bulbapedia": "Silvally"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "IVYSAUR",
+        "veekunDb": "ivysaur",
+        "showdownMarkup": "Ivysaur",
+        "showdownData": "ivysaur",
+        "serebii": "ivysaur",
+        "bulbapedia": "Ivysaur"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

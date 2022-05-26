@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BOUNSWEET",
+        "veekunDb": "bounsweet",
+        "showdownMarkup": "Bounsweet",
+        "showdownData": "bounsweet",
+        "serebii": "bounsweet",
+        "bulbapedia": "Bounsweet"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

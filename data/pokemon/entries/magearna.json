@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MAGEARNA",
+        "veekunDb": "magearna",
+        "showdownMarkup": "Magearna",
+        "showdownData": "magearna",
+        "serebii": "magearna",
+        "bulbapedia": "Magearna"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

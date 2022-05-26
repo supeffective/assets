@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "RALTS",
+        "veekunDb": "ralts",
+        "showdownMarkup": "Ralts",
+        "showdownData": "ralts",
+        "serebii": "ralts",
+        "bulbapedia": "Ralts"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

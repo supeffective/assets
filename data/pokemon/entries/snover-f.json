@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SNOVER_F",
+        "veekunDb": "snover-f",
+        "showdownMarkup": "Snover-F",
+        "showdownData": "snoverf",
+        "serebii": "snover-f",
+        "bulbapedia": "Snover"
+    },
     "baseSpecies": "snover",
     "baseForms": [],
     "forms": null,

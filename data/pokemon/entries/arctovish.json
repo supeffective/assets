@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ARCTOVISH",
+        "veekunDb": "arctovish",
+        "showdownMarkup": "Arctovish",
+        "showdownData": "arctovish",
+        "serebii": "arctovish",
+        "bulbapedia": "Arctovish"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

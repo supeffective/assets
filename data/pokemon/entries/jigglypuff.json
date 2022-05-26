@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "JIGGLYPUFF",
+        "veekunDb": "jigglypuff",
+        "showdownMarkup": "Jigglypuff",
+        "showdownData": "jigglypuff",
+        "serebii": "jigglypuff",
+        "bulbapedia": "Jigglypuff"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

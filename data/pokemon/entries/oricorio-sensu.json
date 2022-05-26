@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ORICORIO_SENSU",
+        "veekunDb": "oricorio-sensu",
+        "showdownMarkup": "Oricorio-Sensu",
+        "showdownData": "oricoriosensu",
+        "serebii": "oricorio-sensu",
+        "bulbapedia": "Oricorio"
+    },
     "baseSpecies": "oricorio",
     "baseForms": [],
     "forms": null,

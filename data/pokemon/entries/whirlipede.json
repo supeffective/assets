@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "WHIRLIPEDE",
+        "veekunDb": "whirlipede",
+        "showdownMarkup": "Whirlipede",
+        "showdownData": "whirlipede",
+        "serebii": "whirlipede",
+        "bulbapedia": "Whirlipede"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

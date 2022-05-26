@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LINOONE",
+        "veekunDb": "linoone",
+        "showdownMarkup": "Linoone",
+        "showdownData": "linoone",
+        "serebii": "linoone",
+        "bulbapedia": "Linoone"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

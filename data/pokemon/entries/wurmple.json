@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "WURMPLE",
+        "veekunDb": "wurmple",
+        "showdownMarkup": "Wurmple",
+        "showdownData": "wurmple",
+        "serebii": "wurmple",
+        "bulbapedia": "Wurmple"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

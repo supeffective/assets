@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HUNTAIL",
+        "veekunDb": "huntail",
+        "showdownMarkup": "Huntail",
+        "showdownData": "huntail",
+        "serebii": "huntail",
+        "bulbapedia": "Huntail"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

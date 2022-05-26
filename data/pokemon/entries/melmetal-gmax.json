@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MELMETAL_GMAX",
+        "veekunDb": "melmetal-gmax",
+        "showdownMarkup": "Melmetal-Gmax",
+        "showdownData": "melmetalgmax",
+        "serebii": "melmetal-gmax",
+        "bulbapedia": "Melmetal"
+    },
     "baseSpecies": "melmetal",
     "baseForms": [
         "melmetal"

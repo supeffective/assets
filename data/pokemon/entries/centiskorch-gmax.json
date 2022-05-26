@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CENTISKORCH_GMAX",
+        "veekunDb": "centiskorch-gmax",
+        "showdownMarkup": "Centiskorch-Gmax",
+        "showdownData": "centiskorchgmax",
+        "serebii": "centiskorch-gmax",
+        "bulbapedia": "Centiskorch"
+    },
     "baseSpecies": "centiskorch",
     "baseForms": [
         "centiskorch"

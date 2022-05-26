@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "COPPERAJAH_GMAX",
+        "veekunDb": "copperajah-gmax",
+        "showdownMarkup": "Copperajah-Gmax",
+        "showdownData": "copperajahgmax",
+        "serebii": "copperajah-gmax",
+        "bulbapedia": "Copperajah"
+    },
     "baseSpecies": "copperajah",
     "baseForms": [
         "copperajah"

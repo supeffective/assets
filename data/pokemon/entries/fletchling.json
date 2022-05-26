@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FLETCHLING",
+        "veekunDb": "fletchling",
+        "showdownMarkup": "Fletchling",
+        "showdownData": "fletchling",
+        "serebii": "fletchling",
+        "bulbapedia": "Fletchling"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

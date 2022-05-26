@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ALTARIA",
+        "veekunDb": "altaria",
+        "showdownMarkup": "Altaria",
+        "showdownData": "altaria",
+        "serebii": "altaria",
+        "bulbapedia": "Altaria"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SKIPLOOM",
+        "veekunDb": "skiploom",
+        "showdownMarkup": "Skiploom",
+        "showdownData": "skiploom",
+        "serebii": "skiploom",
+        "bulbapedia": "Skiploom"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

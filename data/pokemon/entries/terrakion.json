@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TERRAKION",
+        "veekunDb": "terrakion",
+        "showdownMarkup": "Terrakion",
+        "showdownData": "terrakion",
+        "serebii": "terrakion",
+        "bulbapedia": "Terrakion"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

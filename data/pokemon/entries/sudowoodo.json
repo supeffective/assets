@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SUDOWOODO",
+        "veekunDb": "sudowoodo",
+        "showdownMarkup": "Sudowoodo",
+        "showdownData": "sudowoodo",
+        "serebii": "sudowoodo",
+        "bulbapedia": "Sudowoodo"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

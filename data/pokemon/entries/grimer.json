@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GRIMER",
+        "veekunDb": "grimer",
+        "showdownMarkup": "Grimer",
+        "showdownData": "grimer",
+        "serebii": "grimer",
+        "bulbapedia": "Grimer"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TOXICROAK_F",
+        "veekunDb": "toxicroak-f",
+        "showdownMarkup": "Toxicroak-F",
+        "showdownData": "toxicroakf",
+        "serebii": "toxicroak-f",
+        "bulbapedia": "Toxicroak"
+    },
     "baseSpecies": "toxicroak",
     "baseForms": [],
     "forms": null,

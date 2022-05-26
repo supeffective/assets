@@ -70,6 +70,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "NECROZMA_DAWN_WINGS",
+        "veekunDb": "necrozma-dawn-wings",
+        "showdownMarkup": "Necrozma-Dawn-Wings",
+        "showdownData": "necrozmadawnwings",
+        "serebii": "necrozma-dawn-wings",
+        "bulbapedia": "Necrozma"
+    },
     "baseSpecies": "necrozma",
     "baseForms": [
         "necrozma"

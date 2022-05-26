@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TOXEL",
+        "veekunDb": "toxel",
+        "showdownMarkup": "Toxel",
+        "showdownData": "toxel",
+        "serebii": "toxel",
+        "bulbapedia": "Toxel"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

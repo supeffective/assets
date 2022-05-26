@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MANTYKE",
+        "veekunDb": "mantyke",
+        "showdownMarkup": "Mantyke",
+        "showdownData": "mantyke",
+        "serebii": "mantyke",
+        "bulbapedia": "Mantyke"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

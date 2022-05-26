@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ETERNATUS",
+        "veekunDb": "eternatus",
+        "showdownMarkup": "Eternatus",
+        "showdownData": "eternatus",
+        "serebii": "eternatus",
+        "bulbapedia": "Eternatus"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

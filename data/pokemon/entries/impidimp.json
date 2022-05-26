@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "IMPIDIMP",
+        "veekunDb": "impidimp",
+        "showdownMarkup": "Impidimp",
+        "showdownData": "impidimp",
+        "serebii": "impidimp",
+        "bulbapedia": "Impidimp"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

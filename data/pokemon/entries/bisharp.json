@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BISHARP",
+        "veekunDb": "bisharp",
+        "showdownMarkup": "Bisharp",
+        "showdownData": "bisharp",
+        "serebii": "bisharp",
+        "bulbapedia": "Bisharp"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

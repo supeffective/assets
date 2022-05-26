@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VIVILLON_MONSOON",
+        "veekunDb": "vivillon-monsoon",
+        "showdownMarkup": "Vivillon-Monsoon",
+        "showdownData": "vivillonmonsoon",
+        "serebii": "vivillon-monsoon",
+        "bulbapedia": "Vivillon"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

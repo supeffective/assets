@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DURALUDON",
+        "veekunDb": "duraludon",
+        "showdownMarkup": "Duraludon",
+        "showdownData": "duraludon",
+        "serebii": "duraludon",
+        "bulbapedia": "Duraludon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

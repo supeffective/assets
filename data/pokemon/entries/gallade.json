@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GALLADE",
+        "veekunDb": "gallade",
+        "showdownMarkup": "Gallade",
+        "showdownData": "gallade",
+        "serebii": "gallade",
+        "bulbapedia": "Gallade"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

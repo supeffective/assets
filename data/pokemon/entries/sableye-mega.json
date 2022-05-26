@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SABLEYE_MEGA",
+        "veekunDb": "sableye-mega",
+        "showdownMarkup": "Sableye-Mega",
+        "showdownData": "sableyemega",
+        "serebii": "sableye-mega",
+        "bulbapedia": "Sableye"
+    },
     "baseSpecies": "sableye",
     "baseForms": [
         "sableye"

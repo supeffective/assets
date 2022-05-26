@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ALCREMIE_RUBY_SWIRL_FLOWER",
+        "veekunDb": "alcremie-ruby-swirl-flower",
+        "showdownMarkup": "Alcremie-Ruby-Swirl-Flower",
+        "showdownData": "alcremierubyswirlflower",
+        "serebii": "alcremie-ruby-swirl-flower",
+        "bulbapedia": "Alcremie"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

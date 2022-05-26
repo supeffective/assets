@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SWAMPERT_MEGA",
+        "veekunDb": "swampert-mega",
+        "showdownMarkup": "Swampert-Mega",
+        "showdownData": "swampertmega",
+        "serebii": "swampert-mega",
+        "bulbapedia": "Swampert"
+    },
     "baseSpecies": "swampert",
     "baseForms": [
         "swampert"

@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SILVALLY_DARK",
+        "veekunDb": "silvally-dark",
+        "showdownMarkup": "Silvally-Dark",
+        "showdownData": "silvallydark",
+        "serebii": "silvally-dark",
+        "bulbapedia": "Silvally"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

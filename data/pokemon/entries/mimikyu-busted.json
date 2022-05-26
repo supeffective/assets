@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MIMIKYU_BUSTED",
+        "veekunDb": "mimikyu-busted",
+        "showdownMarkup": "Mimikyu-Busted",
+        "showdownData": "mimikyubusted",
+        "serebii": "mimikyu-busted",
+        "bulbapedia": "Mimikyu"
+    },
     "baseSpecies": "mimikyu",
     "baseForms": [
         "mimikyu"

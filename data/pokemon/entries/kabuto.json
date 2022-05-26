@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KABUTO",
+        "veekunDb": "kabuto",
+        "showdownMarkup": "Kabuto",
+        "showdownData": "kabuto",
+        "serebii": "kabuto",
+        "bulbapedia": "Kabuto"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SILVALLY_GHOST",
+        "veekunDb": "silvally-ghost",
+        "showdownMarkup": "Silvally-Ghost",
+        "showdownData": "silvallyghost",
+        "serebii": "silvally-ghost",
+        "bulbapedia": "Silvally"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

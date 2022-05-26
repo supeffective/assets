@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GRENINJA",
+        "veekunDb": "greninja",
+        "showdownMarkup": "Greninja",
+        "showdownData": "greninja",
+        "serebii": "greninja",
+        "bulbapedia": "Greninja"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

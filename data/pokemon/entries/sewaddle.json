@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SEWADDLE",
+        "veekunDb": "sewaddle",
+        "showdownMarkup": "Sewaddle",
+        "showdownData": "sewaddle",
+        "serebii": "sewaddle",
+        "bulbapedia": "Sewaddle"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BEEDRILL_MEGA",
+        "veekunDb": "beedrill-mega",
+        "showdownMarkup": "Beedrill-Mega",
+        "showdownData": "beedrillmega",
+        "serebii": "beedrill-mega",
+        "bulbapedia": "Beedrill"
+    },
     "baseSpecies": "beedrill",
     "baseForms": [
         "beedrill"

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MINIOR_GREEN",
+        "veekunDb": "minior-green",
+        "showdownMarkup": "Minior-Green",
+        "showdownData": "miniorgreen",
+        "serebii": "minior-green",
+        "bulbapedia": "Minior"
+    },
     "baseSpecies": "minior",
     "baseForms": [
         "minior"

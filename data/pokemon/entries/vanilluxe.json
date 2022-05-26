@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VANILLUXE",
+        "veekunDb": "vanilluxe",
+        "showdownMarkup": "Vanilluxe",
+        "showdownData": "vanilluxe",
+        "serebii": "vanilluxe",
+        "bulbapedia": "Vanilluxe"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DURANT",
+        "veekunDb": "durant",
+        "showdownMarkup": "Durant",
+        "showdownData": "durant",
+        "serebii": "durant",
+        "bulbapedia": "Durant"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

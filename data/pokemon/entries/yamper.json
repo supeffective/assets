@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "YAMPER",
+        "veekunDb": "yamper",
+        "showdownMarkup": "Yamper",
+        "showdownData": "yamper",
+        "serebii": "yamper",
+        "bulbapedia": "Yamper"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

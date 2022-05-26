@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MONFERNO",
+        "veekunDb": "monferno",
+        "showdownMarkup": "Monferno",
+        "showdownData": "monferno",
+        "serebii": "monferno",
+        "bulbapedia": "Monferno"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

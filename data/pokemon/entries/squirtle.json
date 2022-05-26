@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SQUIRTLE",
+        "veekunDb": "squirtle",
+        "showdownMarkup": "Squirtle",
+        "showdownData": "squirtle",
+        "serebii": "squirtle",
+        "bulbapedia": "Squirtle"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

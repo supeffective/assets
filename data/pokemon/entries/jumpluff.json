@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "JUMPLUFF",
+        "veekunDb": "jumpluff",
+        "showdownMarkup": "Jumpluff",
+        "showdownData": "jumpluff",
+        "serebii": "jumpluff",
+        "bulbapedia": "Jumpluff"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CACNEA",
+        "veekunDb": "cacnea",
+        "showdownMarkup": "Cacnea",
+        "showdownData": "cacnea",
+        "serebii": "cacnea",
+        "bulbapedia": "Cacnea"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

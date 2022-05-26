@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CRAMORANT",
+        "veekunDb": "cramorant",
+        "showdownMarkup": "Cramorant",
+        "showdownData": "cramorant",
+        "serebii": "cramorant",
+        "bulbapedia": "Cramorant"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

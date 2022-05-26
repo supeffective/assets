@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "AZELF",
+        "veekunDb": "azelf",
+        "showdownMarkup": "Azelf",
+        "showdownData": "azelf",
+        "serebii": "azelf",
+        "bulbapedia": "Azelf"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

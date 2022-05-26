@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TAILLOW",
+        "veekunDb": "taillow",
+        "showdownMarkup": "Taillow",
+        "showdownData": "taillow",
+        "serebii": "taillow",
+        "bulbapedia": "Taillow"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

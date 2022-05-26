@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MISMAGIUS",
+        "veekunDb": "mismagius",
+        "showdownMarkup": "Mismagius",
+        "showdownData": "mismagius",
+        "serebii": "mismagius",
+        "bulbapedia": "Mismagius"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

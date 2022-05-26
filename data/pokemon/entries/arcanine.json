@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ARCANINE",
+        "veekunDb": "arcanine",
+        "showdownMarkup": "Arcanine",
+        "showdownData": "arcanine",
+        "serebii": "arcanine",
+        "bulbapedia": "Arcanine"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

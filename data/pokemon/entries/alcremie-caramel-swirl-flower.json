@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ALCREMIE_CARAMEL_SWIRL_FLOWER",
+        "veekunDb": "alcremie-caramel-swirl-flower",
+        "showdownMarkup": "Alcremie-Caramel-Swirl-Flower",
+        "showdownData": "alcremiecaramelswirlflower",
+        "serebii": "alcremie-caramel-swirl-flower",
+        "bulbapedia": "Alcremie"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

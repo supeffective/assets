@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MINCCINO",
+        "veekunDb": "minccino",
+        "showdownMarkup": "Minccino",
+        "showdownData": "minccino",
+        "serebii": "minccino",
+        "bulbapedia": "Minccino"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SHIINOTIC",
+        "veekunDb": "shiinotic",
+        "showdownMarkup": "Shiinotic",
+        "showdownData": "shiinotic",
+        "serebii": "shiinotic",
+        "bulbapedia": "Shiinotic"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

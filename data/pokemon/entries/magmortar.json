@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MAGMORTAR",
+        "veekunDb": "magmortar",
+        "showdownMarkup": "Magmortar",
+        "showdownData": "magmortar",
+        "serebii": "magmortar",
+        "bulbapedia": "Magmortar"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

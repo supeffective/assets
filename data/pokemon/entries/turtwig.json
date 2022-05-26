@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TURTWIG",
+        "veekunDb": "turtwig",
+        "showdownMarkup": "Turtwig",
+        "showdownData": "turtwig",
+        "serebii": "turtwig",
+        "bulbapedia": "Turtwig"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

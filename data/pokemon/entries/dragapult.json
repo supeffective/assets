@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DRAGAPULT",
+        "veekunDb": "dragapult",
+        "showdownMarkup": "Dragapult",
+        "showdownData": "dragapult",
+        "serebii": "dragapult",
+        "bulbapedia": "Dragapult"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

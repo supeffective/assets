@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "RAIKOU",
+        "veekunDb": "raikou",
+        "showdownMarkup": "Raikou",
+        "showdownData": "raikou",
+        "serebii": "raikou",
+        "bulbapedia": "Raikou"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

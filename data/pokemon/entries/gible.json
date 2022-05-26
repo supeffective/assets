@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GIBLE",
+        "veekunDb": "gible",
+        "showdownMarkup": "Gible",
+        "showdownData": "gible",
+        "serebii": "gible",
+        "bulbapedia": "Gible"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

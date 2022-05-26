@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FURFROU",
+        "veekunDb": "furfrou",
+        "showdownMarkup": "Furfrou",
+        "showdownData": "furfrou",
+        "serebii": "furfrou",
+        "bulbapedia": "Furfrou"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

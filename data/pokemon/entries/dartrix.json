@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DARTRIX",
+        "veekunDb": "dartrix",
+        "showdownMarkup": "Dartrix",
+        "showdownData": "dartrix",
+        "serebii": "dartrix",
+        "bulbapedia": "Dartrix"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

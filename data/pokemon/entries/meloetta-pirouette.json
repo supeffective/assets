@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MELOETTA_PIROUETTE",
+        "veekunDb": "meloetta-pirouette",
+        "showdownMarkup": "Meloetta-Pirouette",
+        "showdownData": "meloettapirouette",
+        "serebii": "meloetta-pirouette",
+        "bulbapedia": "Meloetta"
+    },
     "baseSpecies": "meloetta",
     "baseForms": [
         "meloetta"

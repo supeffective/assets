@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SOLROCK",
+        "veekunDb": "solrock",
+        "showdownMarkup": "Solrock",
+        "showdownData": "solrock",
+        "serebii": "solrock",
+        "bulbapedia": "Solrock"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

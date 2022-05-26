@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "XATU_F",
+        "veekunDb": "xatu-f",
+        "showdownMarkup": "Xatu-F",
+        "showdownData": "xatuf",
+        "serebii": "xatu-f",
+        "bulbapedia": "Xatu"
+    },
     "baseSpecies": "xatu",
     "baseForms": [],
     "forms": null,

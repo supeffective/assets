@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "THWACKEY",
+        "veekunDb": "thwackey",
+        "showdownMarkup": "Thwackey",
+        "showdownData": "thwackey",
+        "serebii": "thwackey",
+        "bulbapedia": "Thwackey"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

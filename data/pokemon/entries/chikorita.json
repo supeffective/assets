@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CHIKORITA",
+        "veekunDb": "chikorita",
+        "showdownMarkup": "Chikorita",
+        "showdownData": "chikorita",
+        "serebii": "chikorita",
+        "bulbapedia": "Chikorita"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

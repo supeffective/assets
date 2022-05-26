@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MAREANIE",
+        "veekunDb": "mareanie",
+        "showdownMarkup": "Mareanie",
+        "showdownData": "mareanie",
+        "serebii": "mareanie",
+        "bulbapedia": "Mareanie"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

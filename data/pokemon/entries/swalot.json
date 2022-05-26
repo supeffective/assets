@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SWALOT",
+        "veekunDb": "swalot",
+        "showdownMarkup": "Swalot",
+        "showdownData": "swalot",
+        "serebii": "swalot",
+        "bulbapedia": "Swalot"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

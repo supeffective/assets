@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "RUNERIGUS",
+        "veekunDb": "runerigus",
+        "showdownMarkup": "Runerigus",
+        "showdownData": "runerigus",
+        "serebii": "runerigus",
+        "bulbapedia": "Runerigus"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

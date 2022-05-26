@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SCOLIPEDE",
+        "veekunDb": "scolipede",
+        "showdownMarkup": "Scolipede",
+        "showdownData": "scolipede",
+        "serebii": "scolipede",
+        "bulbapedia": "Scolipede"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

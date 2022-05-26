@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ELECTRODE",
+        "veekunDb": "electrode",
+        "showdownMarkup": "Electrode",
+        "showdownData": "electrode",
+        "serebii": "electrode",
+        "bulbapedia": "Electrode"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

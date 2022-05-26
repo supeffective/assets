@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PHANTUMP",
+        "veekunDb": "phantump",
+        "showdownMarkup": "Phantump",
+        "showdownData": "phantump",
+        "serebii": "phantump",
+        "bulbapedia": "Phantump"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

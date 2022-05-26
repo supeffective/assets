@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "COMBUSKEN",
+        "veekunDb": "combusken",
+        "showdownMarkup": "Combusken",
+        "showdownData": "combusken",
+        "serebii": "combusken",
+        "bulbapedia": "Combusken"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

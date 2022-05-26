@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PHEROMOSA",
+        "veekunDb": "pheromosa",
+        "showdownMarkup": "Pheromosa",
+        "showdownData": "pheromosa",
+        "serebii": "pheromosa",
+        "bulbapedia": "Pheromosa"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

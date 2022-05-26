@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BUTTERFREE_GMAX",
+        "veekunDb": "butterfree-gmax",
+        "showdownMarkup": "Butterfree-Gmax",
+        "showdownData": "butterfreegmax",
+        "serebii": "butterfree-gmax",
+        "bulbapedia": "Butterfree"
+    },
     "baseSpecies": "butterfree",
     "baseForms": [
         "butterfree",

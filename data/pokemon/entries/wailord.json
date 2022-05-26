@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "WAILORD",
+        "veekunDb": "wailord",
+        "showdownMarkup": "Wailord",
+        "showdownData": "wailord",
+        "serebii": "wailord",
+        "bulbapedia": "Wailord"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

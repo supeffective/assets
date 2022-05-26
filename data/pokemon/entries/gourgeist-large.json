@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GOURGEIST_LARGE",
+        "veekunDb": "gourgeist-large",
+        "showdownMarkup": "Gourgeist-Large",
+        "showdownData": "gourgeistlarge",
+        "serebii": "gourgeist-large",
+        "bulbapedia": "Gourgeist"
+    },
     "baseSpecies": "gourgeist",
     "baseForms": [],
     "forms": null,

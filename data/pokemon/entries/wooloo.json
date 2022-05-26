@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "WOOLOO",
+        "veekunDb": "wooloo",
+        "showdownMarkup": "Wooloo",
+        "showdownData": "wooloo",
+        "serebii": "wooloo",
+        "bulbapedia": "Wooloo"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

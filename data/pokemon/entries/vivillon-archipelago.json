@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VIVILLON_ARCHIPELAGO",
+        "veekunDb": "vivillon-archipelago",
+        "showdownMarkup": "Vivillon-Archipelago",
+        "showdownData": "vivillonarchipelago",
+        "serebii": "vivillon-archipelago",
+        "bulbapedia": "Vivillon"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

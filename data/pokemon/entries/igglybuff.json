@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "IGGLYBUFF",
+        "veekunDb": "igglybuff",
+        "showdownMarkup": "Igglybuff",
+        "showdownData": "igglybuff",
+        "serebii": "igglybuff",
+        "bulbapedia": "Igglybuff"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MUK_ALOLA",
+        "veekunDb": "muk-alola",
+        "showdownMarkup": "Muk-Alola",
+        "showdownData": "mukalola",
+        "serebii": "muk-alola",
+        "bulbapedia": "Muk"
+    },
     "baseSpecies": "muk",
     "baseForms": [],
     "forms": null,

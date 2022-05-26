@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MAREEP",
+        "veekunDb": "mareep",
+        "showdownMarkup": "Mareep",
+        "showdownData": "mareep",
+        "serebii": "mareep",
+        "bulbapedia": "Mareep"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

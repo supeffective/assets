@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KIRLIA",
+        "veekunDb": "kirlia",
+        "showdownMarkup": "Kirlia",
+        "showdownData": "kirlia",
+        "serebii": "kirlia",
+        "bulbapedia": "Kirlia"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

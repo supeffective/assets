@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SKIDDO",
+        "veekunDb": "skiddo",
+        "showdownMarkup": "Skiddo",
+        "showdownData": "skiddo",
+        "serebii": "skiddo",
+        "bulbapedia": "Skiddo"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

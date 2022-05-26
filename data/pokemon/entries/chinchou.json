@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CHINCHOU",
+        "veekunDb": "chinchou",
+        "showdownMarkup": "Chinchou",
+        "showdownData": "chinchou",
+        "serebii": "chinchou",
+        "bulbapedia": "Chinchou"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

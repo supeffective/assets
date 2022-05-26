@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ALCREMIE_MINT_CREAM_FLOWER",
+        "veekunDb": "alcremie-mint-cream-flower",
+        "showdownMarkup": "Alcremie-Mint-Cream-Flower",
+        "showdownData": "alcremiemintcreamflower",
+        "serebii": "alcremie-mint-cream-flower",
+        "bulbapedia": "Alcremie"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

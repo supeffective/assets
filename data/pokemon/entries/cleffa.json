@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CLEFFA",
+        "veekunDb": "cleffa",
+        "showdownMarkup": "Cleffa",
+        "showdownData": "cleffa",
+        "serebii": "cleffa",
+        "bulbapedia": "Cleffa"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

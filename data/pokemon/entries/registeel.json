@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "REGISTEEL",
+        "veekunDb": "registeel",
+        "showdownMarkup": "Registeel",
+        "showdownData": "registeel",
+        "serebii": "registeel",
+        "bulbapedia": "Registeel"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

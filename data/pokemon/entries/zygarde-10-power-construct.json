@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ZYGARDE_10_POWER_CONSTRUCT",
+        "veekunDb": "zygarde-10-power-construct",
+        "showdownMarkup": "Zygarde-10-Power-Construct",
+        "showdownData": "zygarde10powerconstruct",
+        "serebii": "zygarde-10-power-construct",
+        "bulbapedia": "Zygarde"
+    },
     "baseSpecies": "zygarde",
     "baseForms": [],
     "forms": null,

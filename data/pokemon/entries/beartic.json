@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BEARTIC",
+        "veekunDb": "beartic",
+        "showdownMarkup": "Beartic",
+        "showdownData": "beartic",
+        "serebii": "beartic",
+        "bulbapedia": "Beartic"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

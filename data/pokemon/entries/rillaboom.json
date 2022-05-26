@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "RILLABOOM",
+        "veekunDb": "rillaboom",
+        "showdownMarkup": "Rillaboom",
+        "showdownData": "rillaboom",
+        "serebii": "rillaboom",
+        "bulbapedia": "Rillaboom"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

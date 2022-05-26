@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PONYTA_GALAR",
+        "veekunDb": "ponyta-galar",
+        "showdownMarkup": "Ponyta-Galar",
+        "showdownData": "ponytagalar",
+        "serebii": "ponyta-galar",
+        "bulbapedia": "Ponyta"
+    },
     "baseSpecies": "ponyta",
     "baseForms": [],
     "forms": null,

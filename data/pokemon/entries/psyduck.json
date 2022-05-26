@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PSYDUCK",
+        "veekunDb": "psyduck",
+        "showdownMarkup": "Psyduck",
+        "showdownData": "psyduck",
+        "serebii": "psyduck",
+        "bulbapedia": "Psyduck"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

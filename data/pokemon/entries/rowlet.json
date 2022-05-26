@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ROWLET",
+        "veekunDb": "rowlet",
+        "showdownMarkup": "Rowlet",
+        "showdownData": "rowlet",
+        "serebii": "rowlet",
+        "bulbapedia": "Rowlet"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

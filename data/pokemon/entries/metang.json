@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "METANG",
+        "veekunDb": "metang",
+        "showdownMarkup": "Metang",
+        "showdownData": "metang",
+        "serebii": "metang",
+        "bulbapedia": "Metang"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

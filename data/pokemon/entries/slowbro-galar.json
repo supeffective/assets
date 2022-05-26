@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SLOWBRO_GALAR",
+        "veekunDb": "slowbro-galar",
+        "showdownMarkup": "Slowbro-Galar",
+        "showdownData": "slowbrogalar",
+        "serebii": "slowbro-galar",
+        "bulbapedia": "Slowbro"
+    },
     "baseSpecies": "slowbro",
     "baseForms": [],
     "forms": null,

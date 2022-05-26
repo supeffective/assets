@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MAWILE",
+        "veekunDb": "mawile",
+        "showdownMarkup": "Mawile",
+        "showdownData": "mawile",
+        "serebii": "mawile",
+        "bulbapedia": "Mawile"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

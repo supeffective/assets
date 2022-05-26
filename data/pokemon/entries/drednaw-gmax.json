@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DREDNAW_GMAX",
+        "veekunDb": "drednaw-gmax",
+        "showdownMarkup": "Drednaw-Gmax",
+        "showdownData": "drednawgmax",
+        "serebii": "drednaw-gmax",
+        "bulbapedia": "Drednaw"
+    },
     "baseSpecies": "drednaw",
     "baseForms": [
         "drednaw"

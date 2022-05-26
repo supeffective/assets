@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SEVIPER",
+        "veekunDb": "seviper",
+        "showdownMarkup": "Seviper",
+        "showdownData": "seviper",
+        "serebii": "seviper",
+        "bulbapedia": "Seviper"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

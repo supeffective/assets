@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HATTERENE_GMAX",
+        "veekunDb": "hatterene-gmax",
+        "showdownMarkup": "Hatterene-Gmax",
+        "showdownData": "hatterenegmax",
+        "serebii": "hatterene-gmax",
+        "bulbapedia": "Hatterene"
+    },
     "baseSpecies": "hatterene",
     "baseForms": [
         "hatterene"

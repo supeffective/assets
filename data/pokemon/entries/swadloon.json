@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SWADLOON",
+        "veekunDb": "swadloon",
+        "showdownMarkup": "Swadloon",
+        "showdownData": "swadloon",
+        "serebii": "swadloon",
+        "bulbapedia": "Swadloon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

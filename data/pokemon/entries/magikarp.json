@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MAGIKARP",
+        "veekunDb": "magikarp",
+        "showdownMarkup": "Magikarp",
+        "showdownData": "magikarp",
+        "serebii": "magikarp",
+        "bulbapedia": "Magikarp"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

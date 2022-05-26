@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LOMBRE",
+        "veekunDb": "lombre",
+        "showdownMarkup": "Lombre",
+        "showdownData": "lombre",
+        "serebii": "lombre",
+        "bulbapedia": "Lombre"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

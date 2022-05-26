@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ZAPDOS_GALAR",
+        "veekunDb": "zapdos-galar",
+        "showdownMarkup": "Zapdos-Galar",
+        "showdownData": "zapdosgalar",
+        "serebii": "zapdos-galar",
+        "bulbapedia": "Zapdos"
+    },
     "baseSpecies": "zapdos",
     "baseForms": [],
     "forms": null,

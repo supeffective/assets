@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "AEGISLASH",
+        "veekunDb": "aegislash",
+        "showdownMarkup": "Aegislash",
+        "showdownData": "aegislash",
+        "serebii": "aegislash",
+        "bulbapedia": "Aegislash"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

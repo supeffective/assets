@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ALCREMIE_SALTED_CREAM_BERRY",
+        "veekunDb": "alcremie-salted-cream-berry",
+        "showdownMarkup": "Alcremie-Salted-Cream-Berry",
+        "showdownData": "alcremiesaltedcreamberry",
+        "serebii": "alcremie-salted-cream-berry",
+        "bulbapedia": "Alcremie"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

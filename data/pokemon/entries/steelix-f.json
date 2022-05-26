@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "STEELIX_F",
+        "veekunDb": "steelix-f",
+        "showdownMarkup": "Steelix-F",
+        "showdownData": "steelixf",
+        "serebii": "steelix-f",
+        "bulbapedia": "Steelix"
+    },
     "baseSpecies": "steelix",
     "baseForms": [],
     "forms": null,

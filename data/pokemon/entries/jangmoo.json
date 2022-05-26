@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "JANGMOO",
+        "veekunDb": "jangmoo",
+        "showdownMarkup": "Jangmoo",
+        "showdownData": "jangmoo",
+        "serebii": "jangmoo",
+        "bulbapedia": "Jangmo-o"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

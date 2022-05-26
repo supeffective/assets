@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "REMORAID",
+        "veekunDb": "remoraid",
+        "showdownMarkup": "Remoraid",
+        "showdownData": "remoraid",
+        "serebii": "remoraid",
+        "bulbapedia": "Remoraid"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MAGNETON",
+        "veekunDb": "magneton",
+        "showdownMarkup": "Magneton",
+        "showdownData": "magneton",
+        "serebii": "magneton",
+        "bulbapedia": "Magneton"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

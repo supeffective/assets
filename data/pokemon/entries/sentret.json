@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SENTRET",
+        "veekunDb": "sentret",
+        "showdownMarkup": "Sentret",
+        "showdownData": "sentret",
+        "serebii": "sentret",
+        "bulbapedia": "Sentret"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

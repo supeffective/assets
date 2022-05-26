@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BINACLE",
+        "veekunDb": "binacle",
+        "showdownMarkup": "Binacle",
+        "showdownData": "binacle",
+        "serebii": "binacle",
+        "bulbapedia": "Binacle"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

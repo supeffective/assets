@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GROVYLE",
+        "veekunDb": "grovyle",
+        "showdownMarkup": "Grovyle",
+        "showdownData": "grovyle",
+        "serebii": "grovyle",
+        "bulbapedia": "Grovyle"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

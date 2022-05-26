@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "URSHIFU_RAPID_STRIKE",
+        "veekunDb": "urshifu-rapid-strike",
+        "showdownMarkup": "Urshifu-Rapid-Strike",
+        "showdownData": "urshifurapidstrike",
+        "serebii": "urshifu-rapid-strike",
+        "bulbapedia": "Urshifu"
+    },
     "baseSpecies": "urshifu",
     "baseForms": [],
     "forms": null,

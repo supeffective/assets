@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ROOKIDEE",
+        "veekunDb": "rookidee",
+        "showdownMarkup": "Rookidee",
+        "showdownData": "rookidee",
+        "serebii": "rookidee",
+        "bulbapedia": "Rookidee"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

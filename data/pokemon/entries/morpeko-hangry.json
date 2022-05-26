@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MORPEKO_HANGRY",
+        "veekunDb": "morpeko-hangry",
+        "showdownMarkup": "Morpeko-Hangry",
+        "showdownData": "morpekohangry",
+        "serebii": "morpeko-hangry",
+        "bulbapedia": "Morpeko"
+    },
     "baseSpecies": "morpeko",
     "baseForms": [
         "morpeko"

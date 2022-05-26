@@ -70,6 +70,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KYUREM_WHITE",
+        "veekunDb": "kyurem-white",
+        "showdownMarkup": "Kyurem-White",
+        "showdownData": "kyuremwhite",
+        "serebii": "kyurem-white",
+        "bulbapedia": "Kyurem"
+    },
     "baseSpecies": "kyurem",
     "baseForms": [
         "kyurem"

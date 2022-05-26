@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CASTFORM",
+        "veekunDb": "castform",
+        "showdownMarkup": "Castform",
+        "showdownData": "castform",
+        "serebii": "castform",
+        "bulbapedia": "Castform"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

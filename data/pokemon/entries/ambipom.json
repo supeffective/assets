@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "AMBIPOM",
+        "veekunDb": "ambipom",
+        "showdownMarkup": "Ambipom",
+        "showdownData": "ambipom",
+        "serebii": "ambipom",
+        "bulbapedia": "Ambipom"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

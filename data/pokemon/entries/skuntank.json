@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SKUNTANK",
+        "veekunDb": "skuntank",
+        "showdownMarkup": "Skuntank",
+        "showdownData": "skuntank",
+        "serebii": "skuntank",
+        "bulbapedia": "Skuntank"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

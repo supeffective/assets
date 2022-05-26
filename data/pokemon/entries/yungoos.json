@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "YUNGOOS",
+        "veekunDb": "yungoos",
+        "showdownMarkup": "Yungoos",
+        "showdownData": "yungoos",
+        "serebii": "yungoos",
+        "bulbapedia": "Yungoos"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

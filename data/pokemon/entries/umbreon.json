@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "UMBREON",
+        "veekunDb": "umbreon",
+        "showdownMarkup": "Umbreon",
+        "showdownData": "umbreon",
+        "serebii": "umbreon",
+        "bulbapedia": "Umbreon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

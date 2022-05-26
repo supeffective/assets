@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SHINX",
+        "veekunDb": "shinx",
+        "showdownMarkup": "Shinx",
+        "showdownData": "shinx",
+        "serebii": "shinx",
+        "bulbapedia": "Shinx"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

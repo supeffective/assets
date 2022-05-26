@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MEDICHAM_MEGA",
+        "veekunDb": "medicham-mega",
+        "showdownMarkup": "Medicham-Mega",
+        "showdownData": "medichammega",
+        "serebii": "medicham-mega",
+        "bulbapedia": "Medicham"
+    },
     "baseSpecies": "medicham",
     "baseForms": [
         "medicham"

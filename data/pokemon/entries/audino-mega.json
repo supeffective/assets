@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "AUDINO_MEGA",
+        "veekunDb": "audino-mega",
+        "showdownMarkup": "Audino-Mega",
+        "showdownData": "audinomega",
+        "serebii": "audino-mega",
+        "bulbapedia": "Audino"
+    },
     "baseSpecies": "audino",
     "baseForms": [
         "audino"

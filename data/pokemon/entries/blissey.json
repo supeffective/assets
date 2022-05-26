@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BLISSEY",
+        "veekunDb": "blissey",
+        "showdownMarkup": "Blissey",
+        "showdownData": "blissey",
+        "serebii": "blissey",
+        "bulbapedia": "Blissey"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

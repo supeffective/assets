@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BURMY_TRASH",
+        "veekunDb": "burmy-trash",
+        "showdownMarkup": "Burmy-Trash",
+        "showdownData": "burmytrash",
+        "serebii": "burmy-trash",
+        "bulbapedia": "Burmy"
+    },
     "baseSpecies": "burmy",
     "baseForms": [
         "burmy"

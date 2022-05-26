@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "QUAGSIRE",
+        "veekunDb": "quagsire",
+        "showdownMarkup": "Quagsire",
+        "showdownData": "quagsire",
+        "serebii": "quagsire",
+        "bulbapedia": "Quagsire"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

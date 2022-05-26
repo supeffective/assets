@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TANGROWTH",
+        "veekunDb": "tangrowth",
+        "showdownMarkup": "Tangrowth",
+        "showdownData": "tangrowth",
+        "serebii": "tangrowth",
+        "bulbapedia": "Tangrowth"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

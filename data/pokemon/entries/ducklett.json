@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DUCKLETT",
+        "veekunDb": "ducklett",
+        "showdownMarkup": "Ducklett",
+        "showdownData": "ducklett",
+        "serebii": "ducklett",
+        "bulbapedia": "Ducklett"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

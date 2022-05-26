@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ARAQUANID",
+        "veekunDb": "araquanid",
+        "showdownMarkup": "Araquanid",
+        "showdownData": "araquanid",
+        "serebii": "araquanid",
+        "bulbapedia": "Araquanid"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

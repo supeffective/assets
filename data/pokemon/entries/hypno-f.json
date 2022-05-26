@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HYPNO_F",
+        "veekunDb": "hypno-f",
+        "showdownMarkup": "Hypno-F",
+        "showdownData": "hypnof",
+        "serebii": "hypno-f",
+        "bulbapedia": "Hypno"
+    },
     "baseSpecies": "hypno",
     "baseForms": [],
     "forms": null,

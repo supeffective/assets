@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KELDEO_RESOLUTE",
+        "veekunDb": "keldeo-resolute",
+        "showdownMarkup": "Keldeo-Resolute",
+        "showdownData": "keldeoresolute",
+        "serebii": "keldeo-resolute",
+        "bulbapedia": "Keldeo"
+    },
     "baseSpecies": "keldeo",
     "baseForms": [
         "keldeo"

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LATIAS",
+        "veekunDb": "latias",
+        "showdownMarkup": "Latias",
+        "showdownData": "latias",
+        "serebii": "latias",
+        "bulbapedia": "Latias"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MUNNA",
+        "veekunDb": "munna",
+        "showdownMarkup": "Munna",
+        "showdownData": "munna",
+        "serebii": "munna",
+        "bulbapedia": "Munna"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

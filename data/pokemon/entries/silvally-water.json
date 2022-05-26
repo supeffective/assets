@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SILVALLY_WATER",
+        "veekunDb": "silvally-water",
+        "showdownMarkup": "Silvally-Water",
+        "showdownData": "silvallywater",
+        "serebii": "silvally-water",
+        "bulbapedia": "Silvally"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

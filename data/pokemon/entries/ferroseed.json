@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FERROSEED",
+        "veekunDb": "ferroseed",
+        "showdownMarkup": "Ferroseed",
+        "showdownData": "ferroseed",
+        "serebii": "ferroseed",
+        "bulbapedia": "Ferroseed"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

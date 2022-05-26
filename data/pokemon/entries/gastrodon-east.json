@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GASTRODON_EAST",
+        "veekunDb": "gastrodon-east",
+        "showdownMarkup": "Gastrodon-East",
+        "showdownData": "gastrodoneast",
+        "serebii": "gastrodon-east",
+        "bulbapedia": "Gastrodon"
+    },
     "baseSpecies": "gastrodon",
     "baseForms": [],
     "forms": null,

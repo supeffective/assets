@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SNORUNT",
+        "veekunDb": "snorunt",
+        "showdownMarkup": "Snorunt",
+        "showdownData": "snorunt",
+        "serebii": "snorunt",
+        "bulbapedia": "Snorunt"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

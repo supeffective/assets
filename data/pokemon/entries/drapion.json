@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DRAPION",
+        "veekunDb": "drapion",
+        "showdownMarkup": "Drapion",
+        "showdownData": "drapion",
+        "serebii": "drapion",
+        "bulbapedia": "Drapion"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

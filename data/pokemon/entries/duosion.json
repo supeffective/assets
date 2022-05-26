@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DUOSION",
+        "veekunDb": "duosion",
+        "showdownMarkup": "Duosion",
+        "showdownData": "duosion",
+        "serebii": "duosion",
+        "bulbapedia": "Duosion"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ALCREMIE",
+        "veekunDb": "alcremie",
+        "showdownMarkup": "Alcremie",
+        "showdownData": "alcremie",
+        "serebii": "alcremie",
+        "bulbapedia": "Alcremie"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

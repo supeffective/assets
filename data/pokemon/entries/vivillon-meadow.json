@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VIVILLON_MEADOW",
+        "veekunDb": "vivillon-meadow",
+        "showdownMarkup": "Vivillon-Meadow",
+        "showdownData": "vivillonmeadow",
+        "serebii": "vivillon-meadow",
+        "bulbapedia": "Vivillon"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

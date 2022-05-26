@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PYROAR_F",
+        "veekunDb": "pyroar-f",
+        "showdownMarkup": "Pyroar-F",
+        "showdownData": "pyroarf",
+        "serebii": "pyroar-f",
+        "bulbapedia": "Pyroar"
+    },
     "baseSpecies": "pyroar",
     "baseForms": [],
     "forms": null,

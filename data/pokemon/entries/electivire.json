@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ELECTIVIRE",
+        "veekunDb": "electivire",
+        "showdownMarkup": "Electivire",
+        "showdownData": "electivire",
+        "serebii": "electivire",
+        "bulbapedia": "Electivire"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

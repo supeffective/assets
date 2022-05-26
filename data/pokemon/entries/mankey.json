@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MANKEY",
+        "veekunDb": "mankey",
+        "showdownMarkup": "Mankey",
+        "showdownData": "mankey",
+        "serebii": "mankey",
+        "bulbapedia": "Mankey"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ARCHEOPS",
+        "veekunDb": "archeops",
+        "showdownMarkup": "Archeops",
+        "showdownData": "archeops",
+        "serebii": "archeops",
+        "bulbapedia": "Archeops"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

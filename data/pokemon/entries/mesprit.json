@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MESPRIT",
+        "veekunDb": "mesprit",
+        "showdownMarkup": "Mesprit",
+        "showdownData": "mesprit",
+        "serebii": "mesprit",
+        "bulbapedia": "Mesprit"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MORGREM",
+        "veekunDb": "morgrem",
+        "showdownMarkup": "Morgrem",
+        "showdownData": "morgrem",
+        "serebii": "morgrem",
+        "bulbapedia": "Morgrem"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

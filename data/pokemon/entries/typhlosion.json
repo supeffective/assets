@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TYPHLOSION",
+        "veekunDb": "typhlosion",
+        "showdownMarkup": "Typhlosion",
+        "showdownData": "typhlosion",
+        "serebii": "typhlosion",
+        "bulbapedia": "Typhlosion"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

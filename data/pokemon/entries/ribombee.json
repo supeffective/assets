@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "RIBOMBEE",
+        "veekunDb": "ribombee",
+        "showdownMarkup": "Ribombee",
+        "showdownData": "ribombee",
+        "serebii": "ribombee",
+        "bulbapedia": "Ribombee"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

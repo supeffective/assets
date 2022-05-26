@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GOGOAT",
+        "veekunDb": "gogoat",
+        "showdownMarkup": "Gogoat",
+        "showdownData": "gogoat",
+        "serebii": "gogoat",
+        "bulbapedia": "Gogoat"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

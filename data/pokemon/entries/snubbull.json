@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SNUBBULL",
+        "veekunDb": "snubbull",
+        "showdownMarkup": "Snubbull",
+        "showdownData": "snubbull",
+        "serebii": "snubbull",
+        "bulbapedia": "Snubbull"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

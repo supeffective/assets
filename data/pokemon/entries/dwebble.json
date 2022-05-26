@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DWEBBLE",
+        "veekunDb": "dwebble",
+        "showdownMarkup": "Dwebble",
+        "showdownData": "dwebble",
+        "serebii": "dwebble",
+        "bulbapedia": "Dwebble"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

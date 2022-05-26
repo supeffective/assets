@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "WARTORTLE",
+        "veekunDb": "wartortle",
+        "showdownMarkup": "Wartortle",
+        "showdownData": "wartortle",
+        "serebii": "wartortle",
+        "bulbapedia": "Wartortle"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

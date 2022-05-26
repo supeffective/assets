@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BLACEPHALON",
+        "veekunDb": "blacephalon",
+        "showdownMarkup": "Blacephalon",
+        "showdownData": "blacephalon",
+        "serebii": "blacephalon",
+        "bulbapedia": "Blacephalon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

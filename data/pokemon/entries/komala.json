@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KOMALA",
+        "veekunDb": "komala",
+        "showdownMarkup": "Komala",
+        "showdownData": "komala",
+        "serebii": "komala",
+        "bulbapedia": "Komala"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

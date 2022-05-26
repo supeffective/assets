@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MARSHADOW",
+        "veekunDb": "marshadow",
+        "showdownMarkup": "Marshadow",
+        "showdownData": "marshadow",
+        "serebii": "marshadow",
+        "bulbapedia": "Marshadow"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

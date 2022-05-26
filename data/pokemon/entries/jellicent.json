@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "JELLICENT",
+        "veekunDb": "jellicent",
+        "showdownMarkup": "Jellicent",
+        "showdownData": "jellicent",
+        "serebii": "jellicent",
+        "bulbapedia": "Jellicent"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

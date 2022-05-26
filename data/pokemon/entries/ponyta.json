@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PONYTA",
+        "veekunDb": "ponyta",
+        "showdownMarkup": "Ponyta",
+        "showdownData": "ponyta",
+        "serebii": "ponyta",
+        "bulbapedia": "Ponyta"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

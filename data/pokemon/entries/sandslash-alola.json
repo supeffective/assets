@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SANDSLASH_ALOLA",
+        "veekunDb": "sandslash-alola",
+        "showdownMarkup": "Sandslash-Alola",
+        "showdownData": "sandslashalola",
+        "serebii": "sandslash-alola",
+        "bulbapedia": "Sandslash"
+    },
     "baseSpecies": "sandslash",
     "baseForms": [],
     "forms": null,

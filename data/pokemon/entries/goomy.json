@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GOOMY",
+        "veekunDb": "goomy",
+        "showdownMarkup": "Goomy",
+        "showdownData": "goomy",
+        "serebii": "goomy",
+        "bulbapedia": "Goomy"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DIANCIE",
+        "veekunDb": "diancie",
+        "showdownMarkup": "Diancie",
+        "showdownData": "diancie",
+        "serebii": "diancie",
+        "bulbapedia": "Diancie"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

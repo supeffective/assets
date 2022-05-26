@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "METAGROSS_MEGA",
+        "veekunDb": "metagross-mega",
+        "showdownMarkup": "Metagross-Mega",
+        "showdownData": "metagrossmega",
+        "serebii": "metagross-mega",
+        "bulbapedia": "Metagross"
+    },
     "baseSpecies": "metagross",
     "baseForms": [
         "metagross"

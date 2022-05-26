@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CENTISKORCH",
+        "veekunDb": "centiskorch",
+        "showdownMarkup": "Centiskorch",
+        "showdownData": "centiskorch",
+        "serebii": "centiskorch",
+        "bulbapedia": "Centiskorch"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

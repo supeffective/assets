@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TRUMBEAK",
+        "veekunDb": "trumbeak",
+        "showdownMarkup": "Trumbeak",
+        "showdownData": "trumbeak",
+        "serebii": "trumbeak",
+        "bulbapedia": "Trumbeak"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

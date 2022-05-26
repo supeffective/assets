@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SILVALLY_FIRE",
+        "veekunDb": "silvally-fire",
+        "showdownMarkup": "Silvally-Fire",
+        "showdownData": "silvallyfire",
+        "serebii": "silvally-fire",
+        "bulbapedia": "Silvally"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

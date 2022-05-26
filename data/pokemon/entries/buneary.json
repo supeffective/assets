@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BUNEARY",
+        "veekunDb": "buneary",
+        "showdownMarkup": "Buneary",
+        "showdownData": "buneary",
+        "serebii": "buneary",
+        "bulbapedia": "Buneary"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

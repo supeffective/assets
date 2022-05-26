@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GARDEVOIR_MEGA",
+        "veekunDb": "gardevoir-mega",
+        "showdownMarkup": "Gardevoir-Mega",
+        "showdownData": "gardevoirmega",
+        "serebii": "gardevoir-mega",
+        "bulbapedia": "Gardevoir"
+    },
     "baseSpecies": "gardevoir",
     "baseForms": [
         "gardevoir"

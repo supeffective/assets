@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "AGGRON_MEGA",
+        "veekunDb": "aggron-mega",
+        "showdownMarkup": "Aggron-Mega",
+        "showdownData": "aggronmega",
+        "serebii": "aggron-mega",
+        "bulbapedia": "Aggron"
+    },
     "baseSpecies": "aggron",
     "baseForms": [
         "aggron"

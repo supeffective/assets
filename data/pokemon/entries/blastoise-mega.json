@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BLASTOISE_MEGA",
+        "veekunDb": "blastoise-mega",
+        "showdownMarkup": "Blastoise-Mega",
+        "showdownData": "blastoisemega",
+        "serebii": "blastoise-mega",
+        "bulbapedia": "Blastoise"
+    },
     "baseSpecies": "blastoise",
     "baseForms": [
         "blastoise"

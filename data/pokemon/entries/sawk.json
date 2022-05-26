@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SAWK",
+        "veekunDb": "sawk",
+        "showdownMarkup": "Sawk",
+        "showdownData": "sawk",
+        "serebii": "sawk",
+        "bulbapedia": "Sawk"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

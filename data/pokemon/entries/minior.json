@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MINIOR",
+        "veekunDb": "minior",
+        "showdownMarkup": "Minior",
+        "showdownData": "minior",
+        "serebii": "minior",
+        "bulbapedia": "Minior Meteor Form"
+    },
     "baseSpecies": null,
     "baseForms": [
         "minior-red",

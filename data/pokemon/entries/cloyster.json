@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CLOYSTER",
+        "veekunDb": "cloyster",
+        "showdownMarkup": "Cloyster",
+        "showdownData": "cloyster",
+        "serebii": "cloyster",
+        "bulbapedia": "Cloyster"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "NICKIT",
+        "veekunDb": "nickit",
+        "showdownMarkup": "Nickit",
+        "showdownData": "nickit",
+        "serebii": "nickit",
+        "bulbapedia": "Nickit"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

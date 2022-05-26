@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TRAPINCH",
+        "veekunDb": "trapinch",
+        "showdownMarkup": "Trapinch",
+        "showdownData": "trapinch",
+        "serebii": "trapinch",
+        "bulbapedia": "Trapinch"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PICHU",
+        "veekunDb": "pichu",
+        "showdownMarkup": "Pichu",
+        "showdownData": "pichu",
+        "serebii": "pichu",
+        "bulbapedia": "Pichu"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

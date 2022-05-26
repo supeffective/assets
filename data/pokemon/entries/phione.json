@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PHIONE",
+        "veekunDb": "phione",
+        "showdownMarkup": "Phione",
+        "showdownData": "phione",
+        "serebii": "phione",
+        "bulbapedia": "Phione"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

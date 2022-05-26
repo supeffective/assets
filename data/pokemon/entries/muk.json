@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MUK",
+        "veekunDb": "muk",
+        "showdownMarkup": "Muk",
+        "showdownData": "muk",
+        "serebii": "muk",
+        "bulbapedia": "Muk"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

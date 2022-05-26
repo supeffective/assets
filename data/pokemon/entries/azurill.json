@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "AZURILL",
+        "veekunDb": "azurill",
+        "showdownMarkup": "Azurill",
+        "showdownData": "azurill",
+        "serebii": "azurill",
+        "bulbapedia": "Azurill"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

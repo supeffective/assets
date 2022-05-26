@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "XERNEAS_ACTIVE",
+        "veekunDb": "xerneas-active",
+        "showdownMarkup": "Xerneas-Active",
+        "showdownData": "xerneasactive",
+        "serebii": "xerneas-active",
+        "bulbapedia": "Xerneas"
+    },
     "baseSpecies": "xerneas",
     "baseForms": [
         "xerneas"

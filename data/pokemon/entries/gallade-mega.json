@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GALLADE_MEGA",
+        "veekunDb": "gallade-mega",
+        "showdownMarkup": "Gallade-Mega",
+        "showdownData": "gallademega",
+        "serebii": "gallade-mega",
+        "bulbapedia": "Gallade"
+    },
     "baseSpecies": "gallade",
     "baseForms": [
         "gallade"

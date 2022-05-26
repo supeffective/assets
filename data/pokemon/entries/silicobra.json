@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SILICOBRA",
+        "veekunDb": "silicobra",
+        "showdownMarkup": "Silicobra",
+        "showdownData": "silicobra",
+        "serebii": "silicobra",
+        "bulbapedia": "Silicobra"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

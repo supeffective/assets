@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PELIPPER",
+        "veekunDb": "pelipper",
+        "showdownMarkup": "Pelipper",
+        "showdownData": "pelipper",
+        "serebii": "pelipper",
+        "bulbapedia": "Pelipper"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

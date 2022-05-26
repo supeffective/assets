@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "JYNX",
+        "veekunDb": "jynx",
+        "showdownMarkup": "Jynx",
+        "showdownData": "jynx",
+        "serebii": "jynx",
+        "bulbapedia": "Jynx"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

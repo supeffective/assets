@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PIPLUP",
+        "veekunDb": "piplup",
+        "showdownMarkup": "Piplup",
+        "showdownData": "piplup",
+        "serebii": "piplup",
+        "bulbapedia": "Piplup"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

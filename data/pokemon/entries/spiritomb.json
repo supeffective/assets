@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SPIRITOMB",
+        "veekunDb": "spiritomb",
+        "showdownMarkup": "Spiritomb",
+        "showdownData": "spiritomb",
+        "serebii": "spiritomb",
+        "bulbapedia": "Spiritomb"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

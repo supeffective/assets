@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GENESECT_SHOCK",
+        "veekunDb": "genesect-shock",
+        "showdownMarkup": "Genesect-Shock",
+        "showdownData": "genesectshock",
+        "serebii": "genesect-shock",
+        "bulbapedia": "Genesect"
+    },
     "baseSpecies": "genesect",
     "baseForms": [
         "genesect"

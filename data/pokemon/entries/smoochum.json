@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SMOOCHUM",
+        "veekunDb": "smoochum",
+        "showdownMarkup": "Smoochum",
+        "showdownData": "smoochum",
+        "serebii": "smoochum",
+        "bulbapedia": "Smoochum"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

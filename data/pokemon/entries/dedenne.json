@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DEDENNE",
+        "veekunDb": "dedenne",
+        "showdownMarkup": "Dedenne",
+        "showdownData": "dedenne",
+        "serebii": "dedenne",
+        "bulbapedia": "Dedenne"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

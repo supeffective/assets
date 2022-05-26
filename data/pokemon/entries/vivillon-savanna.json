@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VIVILLON_SAVANNA",
+        "veekunDb": "vivillon-savanna",
+        "showdownMarkup": "Vivillon-Savanna",
+        "showdownData": "vivillonsavanna",
+        "serebii": "vivillon-savanna",
+        "bulbapedia": "Vivillon"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

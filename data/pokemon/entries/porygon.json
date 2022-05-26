@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PORYGON",
+        "veekunDb": "porygon",
+        "showdownMarkup": "Porygon",
+        "showdownData": "porygon",
+        "serebii": "porygon",
+        "bulbapedia": "Porygon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

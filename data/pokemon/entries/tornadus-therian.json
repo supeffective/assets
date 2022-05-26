@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TORNADUS_THERIAN",
+        "veekunDb": "tornadus-therian",
+        "showdownMarkup": "Tornadus-Therian",
+        "showdownData": "tornadustherian",
+        "serebii": "tornadus-therian",
+        "bulbapedia": "Tornadus"
+    },
     "baseSpecies": "tornadus",
     "baseForms": [
         "tornadus"

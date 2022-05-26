@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KLINKLANG",
+        "veekunDb": "klinklang",
+        "showdownMarkup": "Klinklang",
+        "showdownData": "klinklang",
+        "serebii": "klinklang",
+        "bulbapedia": "Klinklang"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

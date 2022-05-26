@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PACHIRISU_F",
+        "veekunDb": "pachirisu-f",
+        "showdownMarkup": "Pachirisu-F",
+        "showdownData": "pachirisuf",
+        "serebii": "pachirisu-f",
+        "bulbapedia": "Pachirisu"
+    },
     "baseSpecies": "pachirisu",
     "baseForms": [],
     "forms": null,

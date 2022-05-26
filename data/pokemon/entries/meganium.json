@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MEGANIUM",
+        "veekunDb": "meganium",
+        "showdownMarkup": "Meganium",
+        "showdownData": "meganium",
+        "serebii": "meganium",
+        "bulbapedia": "Meganium"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

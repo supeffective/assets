@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "REGIELEKI",
+        "veekunDb": "regieleki",
+        "showdownMarkup": "Regieleki",
+        "showdownData": "regieleki",
+        "serebii": "regieleki",
+        "bulbapedia": "Regieleki"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

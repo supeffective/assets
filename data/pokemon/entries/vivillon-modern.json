@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VIVILLON_MODERN",
+        "veekunDb": "vivillon-modern",
+        "showdownMarkup": "Vivillon-Modern",
+        "showdownData": "vivillonmodern",
+        "serebii": "vivillon-modern",
+        "bulbapedia": "Vivillon"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

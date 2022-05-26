@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SEEL",
+        "veekunDb": "seel",
+        "showdownMarkup": "Seel",
+        "showdownData": "seel",
+        "serebii": "seel",
+        "bulbapedia": "Seel"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

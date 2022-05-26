@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MIENSHAO",
+        "veekunDb": "mienshao",
+        "showdownMarkup": "Mienshao",
+        "showdownData": "mienshao",
+        "serebii": "mienshao",
+        "bulbapedia": "Mienshao"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

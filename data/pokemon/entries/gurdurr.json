@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GURDURR",
+        "veekunDb": "gurdurr",
+        "showdownMarkup": "Gurdurr",
+        "showdownData": "gurdurr",
+        "serebii": "gurdurr",
+        "bulbapedia": "Gurdurr"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

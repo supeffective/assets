@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CLOBBOPUS",
+        "veekunDb": "clobbopus",
+        "showdownMarkup": "Clobbopus",
+        "showdownData": "clobbopus",
+        "serebii": "clobbopus",
+        "bulbapedia": "Clobbopus"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

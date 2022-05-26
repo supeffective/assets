@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FENNEKIN",
+        "veekunDb": "fennekin",
+        "showdownMarkup": "Fennekin",
+        "showdownData": "fennekin",
+        "serebii": "fennekin",
+        "bulbapedia": "Fennekin"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

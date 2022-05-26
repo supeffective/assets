@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "POPPLIO",
+        "veekunDb": "popplio",
+        "showdownMarkup": "Popplio",
+        "showdownData": "popplio",
+        "serebii": "popplio",
+        "bulbapedia": "Popplio"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

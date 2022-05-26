@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SPEWPA",
+        "veekunDb": "spewpa",
+        "showdownMarkup": "Spewpa",
+        "showdownData": "spewpa",
+        "serebii": "spewpa",
+        "bulbapedia": "Spewpa"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

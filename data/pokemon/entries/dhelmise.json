@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DHELMISE",
+        "veekunDb": "dhelmise",
+        "showdownMarkup": "Dhelmise",
+        "showdownData": "dhelmise",
+        "serebii": "dhelmise",
+        "bulbapedia": "Dhelmise"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GRENINJA_ASH",
+        "veekunDb": "greninja-ash",
+        "showdownMarkup": "Greninja-Ash",
+        "showdownData": "greninjaash",
+        "serebii": "greninja-ash",
+        "bulbapedia": "Greninja"
+    },
     "baseSpecies": "greninja",
     "baseForms": [
         "greninja-battle-bond"

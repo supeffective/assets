@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CLAMPERL",
+        "veekunDb": "clamperl",
+        "showdownMarkup": "Clamperl",
+        "showdownData": "clamperl",
+        "serebii": "clamperl",
+        "bulbapedia": "Clamperl"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

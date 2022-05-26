@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MARILL",
+        "veekunDb": "marill",
+        "showdownMarkup": "Marill",
+        "showdownData": "marill",
+        "serebii": "marill",
+        "bulbapedia": "Marill"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

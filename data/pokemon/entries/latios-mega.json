@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LATIOS_MEGA",
+        "veekunDb": "latios-mega",
+        "showdownMarkup": "Latios-Mega",
+        "showdownData": "latiosmega",
+        "serebii": "latios-mega",
+        "bulbapedia": "Latios"
+    },
     "baseSpecies": "latios",
     "baseForms": [
         "latios"

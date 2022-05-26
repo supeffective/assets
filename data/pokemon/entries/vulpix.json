@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VULPIX",
+        "veekunDb": "vulpix",
+        "showdownMarkup": "Vulpix",
+        "showdownData": "vulpix",
+        "serebii": "vulpix",
+        "bulbapedia": "Vulpix"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

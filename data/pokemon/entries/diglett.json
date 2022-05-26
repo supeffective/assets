@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DIGLETT",
+        "veekunDb": "diglett",
+        "showdownMarkup": "Diglett",
+        "showdownData": "diglett",
+        "serebii": "diglett",
+        "bulbapedia": "Diglett"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

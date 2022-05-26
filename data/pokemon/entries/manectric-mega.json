@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MANECTRIC_MEGA",
+        "veekunDb": "manectric-mega",
+        "showdownMarkup": "Manectric-Mega",
+        "showdownData": "manectricmega",
+        "serebii": "manectric-mega",
+        "bulbapedia": "Manectric"
+    },
     "baseSpecies": "manectric",
     "baseForms": [
         "manectric"

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "JIRACHI",
+        "veekunDb": "jirachi",
+        "showdownMarkup": "Jirachi",
+        "showdownData": "jirachi",
+        "serebii": "jirachi",
+        "bulbapedia": "Jirachi"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

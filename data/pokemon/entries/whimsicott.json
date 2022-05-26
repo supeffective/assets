@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "WHIMSICOTT",
+        "veekunDb": "whimsicott",
+        "showdownMarkup": "Whimsicott",
+        "showdownData": "whimsicott",
+        "serebii": "whimsicott",
+        "bulbapedia": "Whimsicott"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

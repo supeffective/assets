@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VOLCANION",
+        "veekunDb": "volcanion",
+        "showdownMarkup": "Volcanion",
+        "showdownData": "volcanion",
+        "serebii": "volcanion",
+        "bulbapedia": "Volcanion"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "STARAPTOR_F",
+        "veekunDb": "staraptor-f",
+        "showdownMarkup": "Staraptor-F",
+        "showdownData": "staraptorf",
+        "serebii": "staraptor-f",
+        "bulbapedia": "Staraptor"
+    },
     "baseSpecies": "staraptor",
     "baseForms": [],
     "forms": null,

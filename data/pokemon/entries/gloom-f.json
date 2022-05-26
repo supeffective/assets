@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GLOOM_F",
+        "veekunDb": "gloom-f",
+        "showdownMarkup": "Gloom-F",
+        "showdownData": "gloomf",
+        "serebii": "gloom-f",
+        "bulbapedia": "Gloom"
+    },
     "baseSpecies": "gloom",
     "baseForms": [],
     "forms": null,

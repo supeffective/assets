@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LAPRAS",
+        "veekunDb": "lapras",
+        "showdownMarkup": "Lapras",
+        "showdownData": "lapras",
+        "serebii": "lapras",
+        "bulbapedia": "Lapras"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FURFROU_LA_REINE",
+        "veekunDb": "furfrou-la-reine",
+        "showdownMarkup": "Furfrou-La-Reine",
+        "showdownData": "furfroulareine",
+        "serebii": "furfrou-la-reine",
+        "bulbapedia": "Furfrou"
+    },
     "baseSpecies": "furfrou",
     "baseForms": [
         "furfrou"

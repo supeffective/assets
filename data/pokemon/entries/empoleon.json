@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "EMPOLEON",
+        "veekunDb": "empoleon",
+        "showdownMarkup": "Empoleon",
+        "showdownData": "empoleon",
+        "serebii": "empoleon",
+        "bulbapedia": "Empoleon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

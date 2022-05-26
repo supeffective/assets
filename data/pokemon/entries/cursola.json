@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CURSOLA",
+        "veekunDb": "cursola",
+        "showdownMarkup": "Cursola",
+        "showdownData": "cursola",
+        "serebii": "cursola",
+        "bulbapedia": "Cursola"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

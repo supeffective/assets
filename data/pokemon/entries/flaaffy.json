@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FLAAFFY",
+        "veekunDb": "flaaffy",
+        "showdownMarkup": "Flaaffy",
+        "showdownData": "flaaffy",
+        "serebii": "flaaffy",
+        "bulbapedia": "Flaaffy"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

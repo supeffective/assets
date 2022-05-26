@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MAMOSWINE_F",
+        "veekunDb": "mamoswine-f",
+        "showdownMarkup": "Mamoswine-F",
+        "showdownData": "mamoswinef",
+        "serebii": "mamoswine-f",
+        "bulbapedia": "Mamoswine"
+    },
     "baseSpecies": "mamoswine",
     "baseForms": [],
     "forms": null,

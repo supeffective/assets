@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "NIHILEGO",
+        "veekunDb": "nihilego",
+        "showdownMarkup": "Nihilego",
+        "showdownData": "nihilego",
+        "serebii": "nihilego",
+        "bulbapedia": "Nihilego"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

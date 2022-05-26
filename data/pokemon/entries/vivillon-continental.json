@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VIVILLON_CONTINENTAL",
+        "veekunDb": "vivillon-continental",
+        "showdownMarkup": "Vivillon-Continental",
+        "showdownData": "vivilloncontinental",
+        "serebii": "vivillon-continental",
+        "bulbapedia": "Vivillon"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

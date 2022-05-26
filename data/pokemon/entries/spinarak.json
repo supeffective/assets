@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SPINARAK",
+        "veekunDb": "spinarak",
+        "showdownMarkup": "Spinarak",
+        "showdownData": "spinarak",
+        "serebii": "spinarak",
+        "bulbapedia": "Spinarak"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

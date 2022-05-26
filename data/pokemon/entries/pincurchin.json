@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PINCURCHIN",
+        "veekunDb": "pincurchin",
+        "showdownMarkup": "Pincurchin",
+        "showdownData": "pincurchin",
+        "serebii": "pincurchin",
+        "bulbapedia": "Pincurchin"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

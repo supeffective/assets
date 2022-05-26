@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LARVITAR",
+        "veekunDb": "larvitar",
+        "showdownMarkup": "Larvitar",
+        "showdownData": "larvitar",
+        "serebii": "larvitar",
+        "bulbapedia": "Larvitar"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

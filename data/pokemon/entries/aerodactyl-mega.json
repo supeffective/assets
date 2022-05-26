@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "AERODACTYL_MEGA",
+        "veekunDb": "aerodactyl-mega",
+        "showdownMarkup": "Aerodactyl-Mega",
+        "showdownData": "aerodactylmega",
+        "serebii": "aerodactyl-mega",
+        "bulbapedia": "Aerodactyl"
+    },
     "baseSpecies": "aerodactyl",
     "baseForms": [
         "aerodactyl"

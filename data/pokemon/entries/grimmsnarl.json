@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GRIMMSNARL",
+        "veekunDb": "grimmsnarl",
+        "showdownMarkup": "Grimmsnarl",
+        "showdownData": "grimmsnarl",
+        "serebii": "grimmsnarl",
+        "bulbapedia": "Grimmsnarl"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DUSCLOPS",
+        "veekunDb": "dusclops",
+        "showdownMarkup": "Dusclops",
+        "showdownData": "dusclops",
+        "serebii": "dusclops",
+        "bulbapedia": "Dusclops"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

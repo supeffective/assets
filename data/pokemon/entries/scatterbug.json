@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SCATTERBUG",
+        "veekunDb": "scatterbug",
+        "showdownMarkup": "Scatterbug",
+        "showdownData": "scatterbug",
+        "serebii": "scatterbug",
+        "bulbapedia": "Scatterbug"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

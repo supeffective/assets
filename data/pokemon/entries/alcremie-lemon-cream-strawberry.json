@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ALCREMIE_LEMON_CREAM_STRAWBERRY",
+        "veekunDb": "alcremie-lemon-cream-strawberry",
+        "showdownMarkup": "Alcremie-Lemon-Cream-Strawberry",
+        "showdownData": "alcremielemoncreamstrawberry",
+        "serebii": "alcremie-lemon-cream-strawberry",
+        "bulbapedia": "Alcremie"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

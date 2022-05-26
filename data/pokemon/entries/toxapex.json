@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TOXAPEX",
+        "veekunDb": "toxapex",
+        "showdownMarkup": "Toxapex",
+        "showdownData": "toxapex",
+        "serebii": "toxapex",
+        "bulbapedia": "Toxapex"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

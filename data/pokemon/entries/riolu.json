@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "RIOLU",
+        "veekunDb": "riolu",
+        "showdownMarkup": "Riolu",
+        "showdownData": "riolu",
+        "serebii": "riolu",
+        "bulbapedia": "Riolu"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

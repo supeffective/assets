@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "POLTEAGEIST_ANTIQUE",
+        "veekunDb": "polteageist-antique",
+        "showdownMarkup": "Polteageist-Antique",
+        "showdownData": "polteageistantique",
+        "serebii": "polteageist-antique",
+        "bulbapedia": "Polteageist"
+    },
     "baseSpecies": "polteageist",
     "baseForms": [],
     "forms": null,

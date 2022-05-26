@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ALCREMIE_GMAX",
+        "veekunDb": "alcremie-gmax",
+        "showdownMarkup": "Alcremie-Gmax",
+        "showdownData": "alcremiegmax",
+        "serebii": "alcremie-gmax",
+        "bulbapedia": "Alcremie"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [
         "alcremie",

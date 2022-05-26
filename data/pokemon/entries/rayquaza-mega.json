@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "RAYQUAZA_MEGA",
+        "veekunDb": "rayquaza-mega",
+        "showdownMarkup": "Rayquaza-Mega",
+        "showdownData": "rayquazamega",
+        "serebii": "rayquaza-mega",
+        "bulbapedia": "Rayquaza"
+    },
     "baseSpecies": "rayquaza",
     "baseForms": [
         "rayquaza"

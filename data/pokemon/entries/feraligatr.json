@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FERALIGATR",
+        "veekunDb": "feraligatr",
+        "showdownMarkup": "Feraligatr",
+        "showdownData": "feraligatr",
+        "serebii": "feraligatr",
+        "bulbapedia": "Feraligatr"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

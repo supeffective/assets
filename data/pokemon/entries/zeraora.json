@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ZERAORA",
+        "veekunDb": "zeraora",
+        "showdownMarkup": "Zeraora",
+        "showdownData": "zeraora",
+        "serebii": "zeraora",
+        "bulbapedia": "Zeraora"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

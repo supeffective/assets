@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CINCCINO",
+        "veekunDb": "cinccino",
+        "showdownMarkup": "Cinccino",
+        "showdownData": "cinccino",
+        "serebii": "cinccino",
+        "bulbapedia": "Cinccino"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

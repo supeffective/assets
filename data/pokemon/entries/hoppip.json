@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HOPPIP",
+        "veekunDb": "hoppip",
+        "showdownMarkup": "Hoppip",
+        "showdownData": "hoppip",
+        "serebii": "hoppip",
+        "bulbapedia": "Hoppip"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

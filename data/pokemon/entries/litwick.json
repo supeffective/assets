@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LITWICK",
+        "veekunDb": "litwick",
+        "showdownMarkup": "Litwick",
+        "showdownData": "litwick",
+        "serebii": "litwick",
+        "bulbapedia": "Litwick"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

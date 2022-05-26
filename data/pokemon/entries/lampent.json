@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LAMPENT",
+        "veekunDb": "lampent",
+        "showdownMarkup": "Lampent",
+        "showdownData": "lampent",
+        "serebii": "lampent",
+        "bulbapedia": "Lampent"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

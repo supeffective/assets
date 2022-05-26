@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SPRITZEE",
+        "veekunDb": "spritzee",
+        "showdownMarkup": "Spritzee",
+        "showdownData": "spritzee",
+        "serebii": "spritzee",
+        "bulbapedia": "Spritzee"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

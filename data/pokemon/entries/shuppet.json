@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SHUPPET",
+        "veekunDb": "shuppet",
+        "showdownMarkup": "Shuppet",
+        "showdownData": "shuppet",
+        "serebii": "shuppet",
+        "bulbapedia": "Shuppet"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

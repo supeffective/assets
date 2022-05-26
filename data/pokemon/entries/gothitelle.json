@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GOTHITELLE",
+        "veekunDb": "gothitelle",
+        "showdownMarkup": "Gothitelle",
+        "showdownData": "gothitelle",
+        "serebii": "gothitelle",
+        "bulbapedia": "Gothitelle"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

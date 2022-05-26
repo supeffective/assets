@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GARBODOR",
+        "veekunDb": "garbodor",
+        "showdownMarkup": "Garbodor",
+        "showdownData": "garbodor",
+        "serebii": "garbodor",
+        "bulbapedia": "Garbodor"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

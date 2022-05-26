@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SHELMET",
+        "veekunDb": "shelmet",
+        "showdownMarkup": "Shelmet",
+        "showdownData": "shelmet",
+        "serebii": "shelmet",
+        "bulbapedia": "Shelmet"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

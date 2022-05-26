@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "COMFEY",
+        "veekunDb": "comfey",
+        "showdownMarkup": "Comfey",
+        "showdownData": "comfey",
+        "serebii": "comfey",
+        "bulbapedia": "Comfey"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BAGON",
+        "veekunDb": "bagon",
+        "showdownMarkup": "Bagon",
+        "showdownData": "bagon",
+        "serebii": "bagon",
+        "bulbapedia": "Bagon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

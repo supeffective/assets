@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FLAPPLE_GMAX",
+        "veekunDb": "flapple-gmax",
+        "showdownMarkup": "Flapple-Gmax",
+        "showdownData": "flapplegmax",
+        "serebii": "flapple-gmax",
+        "bulbapedia": "Flapple"
+    },
     "baseSpecies": "flapple",
     "baseForms": [
         "flapple"

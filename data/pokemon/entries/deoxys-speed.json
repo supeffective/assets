@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DEOXYS_SPEED",
+        "veekunDb": "deoxys-speed",
+        "showdownMarkup": "Deoxys-Speed",
+        "showdownData": "deoxysspeed",
+        "serebii": "deoxys-speed",
+        "bulbapedia": "Deoxys"
+    },
     "baseSpecies": "deoxys",
     "baseForms": [
         "deoxys"

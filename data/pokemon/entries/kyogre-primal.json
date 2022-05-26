@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KYOGRE_PRIMAL",
+        "veekunDb": "kyogre-primal",
+        "showdownMarkup": "Kyogre-Primal",
+        "showdownData": "kyogreprimal",
+        "serebii": "kyogre-primal",
+        "bulbapedia": "Kyogre"
+    },
     "baseSpecies": "kyogre",
     "baseForms": [
         "kyogre"

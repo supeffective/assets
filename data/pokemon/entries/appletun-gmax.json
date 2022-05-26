@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "APPLETUN_GMAX",
+        "veekunDb": "appletun-gmax",
+        "showdownMarkup": "Appletun-Gmax",
+        "showdownData": "appletungmax",
+        "serebii": "appletun-gmax",
+        "bulbapedia": "Appletun"
+    },
     "baseSpecies": "appletun",
     "baseForms": [
         "appletun"

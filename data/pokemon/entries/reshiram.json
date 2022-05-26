@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "RESHIRAM",
+        "veekunDb": "reshiram",
+        "showdownMarkup": "Reshiram",
+        "showdownData": "reshiram",
+        "serebii": "reshiram",
+        "bulbapedia": "Reshiram"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

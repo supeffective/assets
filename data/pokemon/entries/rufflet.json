@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "RUFFLET",
+        "veekunDb": "rufflet",
+        "showdownMarkup": "Rufflet",
+        "showdownData": "rufflet",
+        "serebii": "rufflet",
+        "bulbapedia": "Rufflet"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

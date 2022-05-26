@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TOGEKISS",
+        "veekunDb": "togekiss",
+        "showdownMarkup": "Togekiss",
+        "showdownData": "togekiss",
+        "serebii": "togekiss",
+        "bulbapedia": "Togekiss"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

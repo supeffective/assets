@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MACHAMP_GMAX",
+        "veekunDb": "machamp-gmax",
+        "showdownMarkup": "Machamp-Gmax",
+        "showdownData": "machampgmax",
+        "serebii": "machamp-gmax",
+        "bulbapedia": "Machamp"
+    },
     "baseSpecies": "machamp",
     "baseForms": [
         "machamp"

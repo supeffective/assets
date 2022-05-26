@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "WEAVILE_F",
+        "veekunDb": "weavile-f",
+        "showdownMarkup": "Weavile-F",
+        "showdownData": "weavilef",
+        "serebii": "weavile-f",
+        "bulbapedia": "Weavile"
+    },
     "baseSpecies": "weavile",
     "baseForms": [],
     "forms": null,

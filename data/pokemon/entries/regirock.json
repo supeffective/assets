@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "REGIROCK",
+        "veekunDb": "regirock",
+        "showdownMarkup": "Regirock",
+        "showdownData": "regirock",
+        "serebii": "regirock",
+        "bulbapedia": "Regirock"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "STONJOURNER",
+        "veekunDb": "stonjourner",
+        "showdownMarkup": "Stonjourner",
+        "showdownData": "stonjourner",
+        "serebii": "stonjourner",
+        "bulbapedia": "Stonjourner"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

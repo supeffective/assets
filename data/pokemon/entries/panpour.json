@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PANPOUR",
+        "veekunDb": "panpour",
+        "showdownMarkup": "Panpour",
+        "showdownData": "panpour",
+        "serebii": "panpour",
+        "bulbapedia": "Panpour"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

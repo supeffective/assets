@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "OMANYTE",
+        "veekunDb": "omanyte",
+        "showdownMarkup": "Omanyte",
+        "showdownData": "omanyte",
+        "serebii": "omanyte",
+        "bulbapedia": "Omanyte"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "STARLY_F",
+        "veekunDb": "starly-f",
+        "showdownMarkup": "Starly-F",
+        "showdownData": "starlyf",
+        "serebii": "starly-f",
+        "bulbapedia": "Starly"
+    },
     "baseSpecies": "starly",
     "baseForms": [],
     "forms": null,

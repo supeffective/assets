@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "STUNKY",
+        "veekunDb": "stunky",
+        "showdownMarkup": "Stunky",
+        "showdownData": "stunky",
+        "serebii": "stunky",
+        "bulbapedia": "Stunky"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

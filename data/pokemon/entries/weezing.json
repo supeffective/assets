@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "WEEZING",
+        "veekunDb": "weezing",
+        "showdownMarkup": "Weezing",
+        "showdownData": "weezing",
+        "serebii": "weezing",
+        "bulbapedia": "Weezing"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

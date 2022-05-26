@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SANDACONDA",
+        "veekunDb": "sandaconda",
+        "showdownMarkup": "Sandaconda",
+        "showdownData": "sandaconda",
+        "serebii": "sandaconda",
+        "bulbapedia": "Sandaconda"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

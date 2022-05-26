@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GRUMPIG",
+        "veekunDb": "grumpig",
+        "showdownMarkup": "Grumpig",
+        "showdownData": "grumpig",
+        "serebii": "grumpig",
+        "bulbapedia": "Grumpig"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

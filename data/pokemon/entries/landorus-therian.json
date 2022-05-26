@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LANDORUS_THERIAN",
+        "veekunDb": "landorus-therian",
+        "showdownMarkup": "Landorus-Therian",
+        "showdownData": "landorustherian",
+        "serebii": "landorus-therian",
+        "bulbapedia": "Landorus"
+    },
     "baseSpecies": "landorus",
     "baseForms": [
         "landorus"

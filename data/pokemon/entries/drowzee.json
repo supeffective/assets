@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DROWZEE",
+        "veekunDb": "drowzee",
+        "showdownMarkup": "Drowzee",
+        "showdownData": "drowzee",
+        "serebii": "drowzee",
+        "bulbapedia": "Drowzee"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

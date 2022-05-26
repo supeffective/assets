@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FLYGON",
+        "veekunDb": "flygon",
+        "showdownMarkup": "Flygon",
+        "showdownData": "flygon",
+        "serebii": "flygon",
+        "bulbapedia": "Flygon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SOLOSIS",
+        "veekunDb": "solosis",
+        "showdownMarkup": "Solosis",
+        "showdownData": "solosis",
+        "serebii": "solosis",
+        "bulbapedia": "Solosis"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

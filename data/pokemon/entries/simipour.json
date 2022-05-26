@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SIMIPOUR",
+        "veekunDb": "simipour",
+        "showdownMarkup": "Simipour",
+        "showdownData": "simipour",
+        "serebii": "simipour",
+        "bulbapedia": "Simipour"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

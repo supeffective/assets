@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DRIZZILE",
+        "veekunDb": "drizzile",
+        "showdownMarkup": "Drizzile",
+        "showdownData": "drizzile",
+        "serebii": "drizzile",
+        "bulbapedia": "Drizzile"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

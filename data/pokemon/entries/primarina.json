@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PRIMARINA",
+        "veekunDb": "primarina",
+        "showdownMarkup": "Primarina",
+        "showdownData": "primarina",
+        "serebii": "primarina",
+        "bulbapedia": "Primarina"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

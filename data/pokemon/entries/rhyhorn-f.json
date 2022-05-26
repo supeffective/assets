@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "RHYHORN_F",
+        "veekunDb": "rhyhorn-f",
+        "showdownMarkup": "Rhyhorn-F",
+        "showdownData": "rhyhornf",
+        "serebii": "rhyhorn-f",
+        "bulbapedia": "Rhyhorn"
+    },
     "baseSpecies": "rhyhorn",
     "baseForms": [],
     "forms": null,

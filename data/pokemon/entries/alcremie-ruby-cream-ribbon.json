@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ALCREMIE_RUBY_CREAM_RIBBON",
+        "veekunDb": "alcremie-ruby-cream-ribbon",
+        "showdownMarkup": "Alcremie-Ruby-Cream-Ribbon",
+        "showdownData": "alcremierubycreamribbon",
+        "serebii": "alcremie-ruby-cream-ribbon",
+        "bulbapedia": "Alcremie"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

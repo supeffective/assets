@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CLEFABLE",
+        "veekunDb": "clefable",
+        "showdownMarkup": "Clefable",
+        "showdownData": "clefable",
+        "serebii": "clefable",
+        "bulbapedia": "Clefable"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GLALIE",
+        "veekunDb": "glalie",
+        "showdownMarkup": "Glalie",
+        "showdownData": "glalie",
+        "serebii": "glalie",
+        "bulbapedia": "Glalie"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

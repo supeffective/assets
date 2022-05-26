@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DELIBIRD",
+        "veekunDb": "delibird",
+        "showdownMarkup": "Delibird",
+        "showdownData": "delibird",
+        "serebii": "delibird",
+        "bulbapedia": "Delibird"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

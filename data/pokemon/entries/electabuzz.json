@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ELECTABUZZ",
+        "veekunDb": "electabuzz",
+        "showdownMarkup": "Electabuzz",
+        "showdownData": "electabuzz",
+        "serebii": "electabuzz",
+        "bulbapedia": "Electabuzz"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

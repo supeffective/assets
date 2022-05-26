@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FINNEON_F",
+        "veekunDb": "finneon-f",
+        "showdownMarkup": "Finneon-F",
+        "showdownData": "finneonf",
+        "serebii": "finneon-f",
+        "bulbapedia": "Finneon"
+    },
     "baseSpecies": "finneon",
     "baseForms": [],
     "forms": null,

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HATTERENE",
+        "veekunDb": "hatterene",
+        "showdownMarkup": "Hatterene",
+        "showdownData": "hatterene",
+        "serebii": "hatterene",
+        "bulbapedia": "Hatterene"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

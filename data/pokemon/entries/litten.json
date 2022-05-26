@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LITTEN",
+        "veekunDb": "litten",
+        "showdownMarkup": "Litten",
+        "showdownData": "litten",
+        "serebii": "litten",
+        "bulbapedia": "Litten"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

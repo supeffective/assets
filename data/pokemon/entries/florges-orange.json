@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FLORGES_ORANGE",
+        "veekunDb": "florges-orange",
+        "showdownMarkup": "Florges-Orange",
+        "showdownData": "florgesorange",
+        "serebii": "florges-orange",
+        "bulbapedia": "Florges"
+    },
     "baseSpecies": "florges",
     "baseForms": [],
     "forms": null,

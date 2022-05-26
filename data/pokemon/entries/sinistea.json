@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SINISTEA",
+        "veekunDb": "sinistea",
+        "showdownMarkup": "Sinistea",
+        "showdownData": "sinistea",
+        "serebii": "sinistea",
+        "bulbapedia": "Sinistea"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

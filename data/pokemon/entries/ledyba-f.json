@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LEDYBA_F",
+        "veekunDb": "ledyba-f",
+        "showdownMarkup": "Ledyba-F",
+        "showdownData": "ledybaf",
+        "serebii": "ledyba-f",
+        "bulbapedia": "Ledyba"
+    },
     "baseSpecies": "ledyba",
     "baseForms": [],
     "forms": null,

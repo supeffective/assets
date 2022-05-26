@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PIDGEY",
+        "veekunDb": "pidgey",
+        "showdownMarkup": "Pidgey",
+        "showdownData": "pidgey",
+        "serebii": "pidgey",
+        "bulbapedia": "Pidgey"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

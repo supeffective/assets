@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SALAMENCE",
+        "veekunDb": "salamence",
+        "showdownMarkup": "Salamence",
+        "showdownData": "salamence",
+        "serebii": "salamence",
+        "bulbapedia": "Salamence"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

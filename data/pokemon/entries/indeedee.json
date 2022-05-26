@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "INDEEDEE",
+        "veekunDb": "indeedee",
+        "showdownMarkup": "Indeedee",
+        "showdownData": "indeedee",
+        "serebii": "indeedee",
+        "bulbapedia": "Indeedee"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

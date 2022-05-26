@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BUNNELBY",
+        "veekunDb": "bunnelby",
+        "showdownMarkup": "Bunnelby",
+        "showdownData": "bunnelby",
+        "serebii": "bunnelby",
+        "bulbapedia": "Bunnelby"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

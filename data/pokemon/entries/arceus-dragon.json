@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ARCEUS_DRAGON",
+        "veekunDb": "arceus-dragon",
+        "showdownMarkup": "Arceus-Dragon",
+        "showdownData": "arceusdragon",
+        "serebii": "arceus-dragon",
+        "bulbapedia": "Arceus"
+    },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"

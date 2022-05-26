@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "WALREIN",
+        "veekunDb": "walrein",
+        "showdownMarkup": "Walrein",
+        "showdownData": "walrein",
+        "serebii": "walrein",
+        "bulbapedia": "Walrein"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

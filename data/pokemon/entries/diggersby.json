@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DIGGERSBY",
+        "veekunDb": "diggersby",
+        "showdownMarkup": "Diggersby",
+        "showdownData": "diggersby",
+        "serebii": "diggersby",
+        "bulbapedia": "Diggersby"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

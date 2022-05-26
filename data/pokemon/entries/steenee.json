@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "STEENEE",
+        "veekunDb": "steenee",
+        "showdownMarkup": "Steenee",
+        "showdownData": "steenee",
+        "serebii": "steenee",
+        "bulbapedia": "Steenee"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KROOKODILE",
+        "veekunDb": "krookodile",
+        "showdownMarkup": "Krookodile",
+        "showdownData": "krookodile",
+        "serebii": "krookodile",
+        "bulbapedia": "Krookodile"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

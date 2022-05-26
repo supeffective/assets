@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SPINDA",
+        "veekunDb": "spinda",
+        "showdownMarkup": "Spinda",
+        "showdownData": "spinda",
+        "serebii": "spinda",
+        "bulbapedia": "Spinda"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DRAKLOAK",
+        "veekunDb": "drakloak",
+        "showdownMarkup": "Drakloak",
+        "showdownData": "drakloak",
+        "serebii": "drakloak",
+        "bulbapedia": "Drakloak"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

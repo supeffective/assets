@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BURMY_SANDY",
+        "veekunDb": "burmy-sandy",
+        "showdownMarkup": "Burmy-Sandy",
+        "showdownData": "burmysandy",
+        "serebii": "burmy-sandy",
+        "bulbapedia": "Burmy"
+    },
     "baseSpecies": "burmy",
     "baseForms": [
         "burmy"

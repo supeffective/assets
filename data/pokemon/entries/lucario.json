@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LUCARIO",
+        "veekunDb": "lucario",
+        "showdownMarkup": "Lucario",
+        "showdownData": "lucario",
+        "serebii": "lucario",
+        "bulbapedia": "Lucario"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

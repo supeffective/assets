@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TENTACOOL",
+        "veekunDb": "tentacool",
+        "showdownMarkup": "Tentacool",
+        "showdownData": "tentacool",
+        "serebii": "tentacool",
+        "bulbapedia": "Tentacool"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

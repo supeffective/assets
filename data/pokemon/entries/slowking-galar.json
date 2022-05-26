@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SLOWKING_GALAR",
+        "veekunDb": "slowking-galar",
+        "showdownMarkup": "Slowking-Galar",
+        "showdownData": "slowkinggalar",
+        "serebii": "slowking-galar",
+        "bulbapedia": "Slowking"
+    },
     "baseSpecies": "slowking",
     "baseForms": [],
     "forms": null,

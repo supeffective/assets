@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TOGEDEMARU",
+        "veekunDb": "togedemaru",
+        "showdownMarkup": "Togedemaru",
+        "showdownData": "togedemaru",
+        "serebii": "togedemaru",
+        "bulbapedia": "Togedemaru"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

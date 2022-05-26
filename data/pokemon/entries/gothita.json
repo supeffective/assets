@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GOTHITA",
+        "veekunDb": "gothita",
+        "showdownMarkup": "Gothita",
+        "showdownData": "gothita",
+        "serebii": "gothita",
+        "bulbapedia": "Gothita"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

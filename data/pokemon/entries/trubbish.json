@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TRUBBISH",
+        "veekunDb": "trubbish",
+        "showdownMarkup": "Trubbish",
+        "showdownData": "trubbish",
+        "serebii": "trubbish",
+        "bulbapedia": "Trubbish"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

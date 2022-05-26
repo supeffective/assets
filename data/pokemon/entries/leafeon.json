@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LEAFEON",
+        "veekunDb": "leafeon",
+        "showdownMarkup": "Leafeon",
+        "showdownData": "leafeon",
+        "serebii": "leafeon",
+        "bulbapedia": "Leafeon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

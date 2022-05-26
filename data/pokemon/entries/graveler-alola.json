@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GRAVELER_ALOLA",
+        "veekunDb": "graveler-alola",
+        "showdownMarkup": "Graveler-Alola",
+        "showdownData": "graveleralola",
+        "serebii": "graveler-alola",
+        "bulbapedia": "Graveler"
+    },
     "baseSpecies": "graveler",
     "baseForms": [],
     "forms": null,

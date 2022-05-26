@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VIGOROTH",
+        "veekunDb": "vigoroth",
+        "showdownMarkup": "Vigoroth",
+        "showdownData": "vigoroth",
+        "serebii": "vigoroth",
+        "bulbapedia": "Vigoroth"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

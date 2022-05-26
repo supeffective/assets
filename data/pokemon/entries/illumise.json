@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ILLUMISE",
+        "veekunDb": "illumise",
+        "showdownMarkup": "Illumise",
+        "showdownData": "illumise",
+        "serebii": "illumise",
+        "bulbapedia": "Illumise"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

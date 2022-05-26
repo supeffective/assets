@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CHERUBI",
+        "veekunDb": "cherubi",
+        "showdownMarkup": "Cherubi",
+        "showdownData": "cherubi",
+        "serebii": "cherubi",
+        "bulbapedia": "Cherubi"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

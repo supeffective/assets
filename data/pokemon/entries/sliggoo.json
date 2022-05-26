@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SLIGGOO",
+        "veekunDb": "sliggoo",
+        "showdownMarkup": "Sliggoo",
+        "showdownData": "sliggoo",
+        "serebii": "sliggoo",
+        "bulbapedia": "Sliggoo"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

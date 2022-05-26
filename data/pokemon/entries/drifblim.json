@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DRIFBLIM",
+        "veekunDb": "drifblim",
+        "showdownMarkup": "Drifblim",
+        "showdownData": "drifblim",
+        "serebii": "drifblim",
+        "bulbapedia": "Drifblim"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

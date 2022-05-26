@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BEAUTIFLY_F",
+        "veekunDb": "beautifly-f",
+        "showdownMarkup": "Beautifly-F",
+        "showdownData": "beautiflyf",
+        "serebii": "beautifly-f",
+        "bulbapedia": "Beautifly"
+    },
     "baseSpecies": "beautifly",
     "baseForms": [],
     "forms": null,

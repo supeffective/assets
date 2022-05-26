@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "URSHIFU_RAPID_STRIKE_GMAX",
+        "veekunDb": "urshifu-rapid-strike-gmax",
+        "showdownMarkup": "Urshifu-Rapid-Strike-Gmax",
+        "showdownData": "urshifurapidstrikegmax",
+        "serebii": "urshifu-rapid-strike-gmax",
+        "bulbapedia": "Urshifu"
+    },
     "baseSpecies": "urshifu",
     "baseForms": [
         "urshifu-rapid-strike"

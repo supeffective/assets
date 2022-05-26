@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GARCHOMP",
+        "veekunDb": "garchomp",
+        "showdownMarkup": "Garchomp",
+        "showdownData": "garchomp",
+        "serebii": "garchomp",
+        "bulbapedia": "Garchomp"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

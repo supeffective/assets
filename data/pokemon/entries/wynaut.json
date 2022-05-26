@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "WYNAUT",
+        "veekunDb": "wynaut",
+        "showdownMarkup": "Wynaut",
+        "showdownData": "wynaut",
+        "serebii": "wynaut",
+        "bulbapedia": "Wynaut"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KLEFKI",
+        "veekunDb": "klefki",
+        "showdownMarkup": "Klefki",
+        "showdownData": "klefki",
+        "serebii": "klefki",
+        "bulbapedia": "Klefki"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

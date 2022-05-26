@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ELEKID",
+        "veekunDb": "elekid",
+        "showdownMarkup": "Elekid",
+        "showdownData": "elekid",
+        "serebii": "elekid",
+        "bulbapedia": "Elekid"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

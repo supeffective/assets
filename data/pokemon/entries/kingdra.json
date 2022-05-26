@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KINGDRA",
+        "veekunDb": "kingdra",
+        "showdownMarkup": "Kingdra",
+        "showdownData": "kingdra",
+        "serebii": "kingdra",
+        "bulbapedia": "Kingdra"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

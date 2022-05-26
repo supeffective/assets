@@ -70,6 +70,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CALYREX_SHADOW",
+        "veekunDb": "calyrex-shadow",
+        "showdownMarkup": "Calyrex-Shadow",
+        "showdownData": "calyrexshadow",
+        "serebii": "calyrex-shadow",
+        "bulbapedia": "Calyrex"
+    },
     "baseSpecies": "calyrex",
     "baseForms": [
         "calyrex"

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "UNFEZANT_F",
+        "veekunDb": "unfezant-f",
+        "showdownMarkup": "Unfezant-F",
+        "showdownData": "unfezantf",
+        "serebii": "unfezant-f",
+        "bulbapedia": "Unfezant"
+    },
     "baseSpecies": "unfezant",
     "baseForms": [],
     "forms": null,

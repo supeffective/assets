@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "URSHIFU",
+        "veekunDb": "urshifu",
+        "showdownMarkup": "Urshifu",
+        "showdownData": "urshifu",
+        "serebii": "urshifu",
+        "bulbapedia": "Urshifu"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

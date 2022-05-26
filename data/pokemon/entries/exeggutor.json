@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "EXEGGUTOR",
+        "veekunDb": "exeggutor",
+        "showdownMarkup": "Exeggutor",
+        "showdownData": "exeggutor",
+        "serebii": "exeggutor",
+        "bulbapedia": "Exeggutor"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

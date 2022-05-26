@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "STAKATAKA",
+        "veekunDb": "stakataka",
+        "showdownMarkup": "Stakataka",
+        "showdownData": "stakataka",
+        "serebii": "stakataka",
+        "bulbapedia": "Stakataka"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

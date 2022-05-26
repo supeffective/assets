@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TIRTOUGA",
+        "veekunDb": "tirtouga",
+        "showdownMarkup": "Tirtouga",
+        "showdownData": "tirtouga",
+        "serebii": "tirtouga",
+        "bulbapedia": "Tirtouga"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

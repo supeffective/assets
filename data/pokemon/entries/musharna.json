@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MUSHARNA",
+        "veekunDb": "musharna",
+        "showdownMarkup": "Musharna",
+        "showdownData": "musharna",
+        "serebii": "musharna",
+        "bulbapedia": "Musharna"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

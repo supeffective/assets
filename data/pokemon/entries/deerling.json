@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DEERLING",
+        "veekunDb": "deerling",
+        "showdownMarkup": "Deerling",
+        "showdownData": "deerling",
+        "serebii": "deerling",
+        "bulbapedia": "Deerling"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

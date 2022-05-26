@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SANDILE",
+        "veekunDb": "sandile",
+        "showdownMarkup": "Sandile",
+        "showdownData": "sandile",
+        "serebii": "sandile",
+        "bulbapedia": "Sandile"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

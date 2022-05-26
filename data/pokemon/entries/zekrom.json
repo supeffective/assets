@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ZEKROM",
+        "veekunDb": "zekrom",
+        "showdownMarkup": "Zekrom",
+        "showdownData": "zekrom",
+        "serebii": "zekrom",
+        "bulbapedia": "Zekrom"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

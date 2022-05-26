@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LYCANROC",
+        "veekunDb": "lycanroc",
+        "showdownMarkup": "Lycanroc",
+        "showdownData": "lycanroc",
+        "serebii": "lycanroc",
+        "bulbapedia": "Lycanroc"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

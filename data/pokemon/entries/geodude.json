@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GEODUDE",
+        "veekunDb": "geodude",
+        "showdownMarkup": "Geodude",
+        "showdownData": "geodude",
+        "serebii": "geodude",
+        "bulbapedia": "Geodude"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

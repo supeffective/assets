@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DIANCIE_MEGA",
+        "veekunDb": "diancie-mega",
+        "showdownMarkup": "Diancie-Mega",
+        "showdownData": "dianciemega",
+        "serebii": "diancie-mega",
+        "bulbapedia": "Diancie"
+    },
     "baseSpecies": "diancie",
     "baseForms": [
         "diancie"

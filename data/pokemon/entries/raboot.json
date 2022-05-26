@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "RABOOT",
+        "veekunDb": "raboot",
+        "showdownMarkup": "Raboot",
+        "showdownData": "raboot",
+        "serebii": "raboot",
+        "bulbapedia": "Raboot"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

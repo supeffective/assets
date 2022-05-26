@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CRUSTLE",
+        "veekunDb": "crustle",
+        "showdownMarkup": "Crustle",
+        "showdownData": "crustle",
+        "serebii": "crustle",
+        "bulbapedia": "Crustle"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LILLIGANT",
+        "veekunDb": "lilligant",
+        "showdownMarkup": "Lilligant",
+        "showdownData": "lilligant",
+        "serebii": "lilligant",
+        "bulbapedia": "Lilligant"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

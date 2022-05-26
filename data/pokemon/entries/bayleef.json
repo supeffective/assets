@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BAYLEEF",
+        "veekunDb": "bayleef",
+        "showdownMarkup": "Bayleef",
+        "showdownData": "bayleef",
+        "serebii": "bayleef",
+        "bulbapedia": "Bayleef"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

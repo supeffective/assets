@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FLAREON",
+        "veekunDb": "flareon",
+        "showdownMarkup": "Flareon",
+        "showdownData": "flareon",
+        "serebii": "flareon",
+        "bulbapedia": "Flareon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

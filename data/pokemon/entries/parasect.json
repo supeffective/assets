@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PARASECT",
+        "veekunDb": "parasect",
+        "showdownMarkup": "Parasect",
+        "showdownData": "parasect",
+        "serebii": "parasect",
+        "bulbapedia": "Parasect"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

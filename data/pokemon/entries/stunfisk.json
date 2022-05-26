@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "STUNFISK",
+        "veekunDb": "stunfisk",
+        "showdownMarkup": "Stunfisk",
+        "showdownData": "stunfisk",
+        "serebii": "stunfisk",
+        "bulbapedia": "Stunfisk"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

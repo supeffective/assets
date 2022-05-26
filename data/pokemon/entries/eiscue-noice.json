@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "EISCUE_NOICE",
+        "veekunDb": "eiscue-noice",
+        "showdownMarkup": "Eiscue-Noice",
+        "showdownData": "eiscuenoice",
+        "serebii": "eiscue-noice",
+        "bulbapedia": "Eiscue"
+    },
     "baseSpecies": "eiscue",
     "baseForms": [
         "eiscue"

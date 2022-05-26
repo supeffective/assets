@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SLURPUFF",
+        "veekunDb": "slurpuff",
+        "showdownMarkup": "Slurpuff",
+        "showdownData": "slurpuff",
+        "serebii": "slurpuff",
+        "bulbapedia": "Slurpuff"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

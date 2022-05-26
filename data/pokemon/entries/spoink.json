@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SPOINK",
+        "veekunDb": "spoink",
+        "showdownMarkup": "Spoink",
+        "showdownData": "spoink",
+        "serebii": "spoink",
+        "bulbapedia": "Spoink"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

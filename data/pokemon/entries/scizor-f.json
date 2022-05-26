@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SCIZOR_F",
+        "veekunDb": "scizor-f",
+        "showdownMarkup": "Scizor-F",
+        "showdownData": "scizorf",
+        "serebii": "scizor-f",
+        "bulbapedia": "Scizor"
+    },
     "baseSpecies": "scizor",
     "baseForms": [],
     "forms": null,

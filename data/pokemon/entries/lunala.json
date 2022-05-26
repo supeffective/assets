@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LUNALA",
+        "veekunDb": "lunala",
+        "showdownMarkup": "Lunala",
+        "showdownData": "lunala",
+        "serebii": "lunala",
+        "bulbapedia": "Lunala"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

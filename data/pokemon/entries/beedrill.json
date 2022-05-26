@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BEEDRILL",
+        "veekunDb": "beedrill",
+        "showdownMarkup": "Beedrill",
+        "showdownData": "beedrill",
+        "serebii": "beedrill",
+        "bulbapedia": "Beedrill"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

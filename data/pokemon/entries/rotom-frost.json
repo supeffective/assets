@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ROTOM_FROST",
+        "veekunDb": "rotom-frost",
+        "showdownMarkup": "Rotom-Frost",
+        "showdownData": "rotomfrost",
+        "serebii": "rotom-frost",
+        "bulbapedia": "Rotom"
+    },
     "baseSpecies": "rotom",
     "baseForms": [
         "rotom"

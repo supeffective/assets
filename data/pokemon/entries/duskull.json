@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DUSKULL",
+        "veekunDb": "duskull",
+        "showdownMarkup": "Duskull",
+        "showdownData": "duskull",
+        "serebii": "duskull",
+        "bulbapedia": "Duskull"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

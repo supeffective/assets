@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GIGALITH",
+        "veekunDb": "gigalith",
+        "showdownMarkup": "Gigalith",
+        "showdownData": "gigalith",
+        "serebii": "gigalith",
+        "bulbapedia": "Gigalith"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ALCREMIE_CARAMEL_SWIRL_STRAWBERRY",
+        "veekunDb": "alcremie-caramel-swirl-strawberry",
+        "showdownMarkup": "Alcremie-Caramel-Swirl-Strawberry",
+        "showdownData": "alcremiecaramelswirlstrawberry",
+        "serebii": "alcremie-caramel-swirl-strawberry",
+        "bulbapedia": "Alcremie"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HERACROSS_MEGA",
+        "veekunDb": "heracross-mega",
+        "showdownMarkup": "Heracross-Mega",
+        "showdownData": "heracrossmega",
+        "serebii": "heracross-mega",
+        "bulbapedia": "Heracross"
+    },
     "baseSpecies": "heracross",
     "baseForms": [
         "heracross"

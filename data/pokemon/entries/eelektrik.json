@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "EELEKTRIK",
+        "veekunDb": "eelektrik",
+        "showdownMarkup": "Eelektrik",
+        "showdownData": "eelektrik",
+        "serebii": "eelektrik",
+        "bulbapedia": "Eelektrik"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

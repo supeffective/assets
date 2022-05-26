@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MUNCHLAX",
+        "veekunDb": "munchlax",
+        "showdownMarkup": "Munchlax",
+        "showdownData": "munchlax",
+        "serebii": "munchlax",
+        "bulbapedia": "Munchlax"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ARCEUS_STEEL",
+        "veekunDb": "arceus-steel",
+        "showdownMarkup": "Arceus-Steel",
+        "showdownData": "arceussteel",
+        "serebii": "arceus-steel",
+        "bulbapedia": "Arceus"
+    },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"

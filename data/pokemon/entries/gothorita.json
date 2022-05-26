@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GOTHORITA",
+        "veekunDb": "gothorita",
+        "showdownMarkup": "Gothorita",
+        "showdownData": "gothorita",
+        "serebii": "gothorita",
+        "bulbapedia": "Gothorita"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

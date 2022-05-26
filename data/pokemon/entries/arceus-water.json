@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ARCEUS_WATER",
+        "veekunDb": "arceus-water",
+        "showdownMarkup": "Arceus-Water",
+        "showdownData": "arceuswater",
+        "serebii": "arceus-water",
+        "bulbapedia": "Arceus"
+    },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"

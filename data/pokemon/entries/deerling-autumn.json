@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DEERLING_AUTUMN",
+        "veekunDb": "deerling-autumn",
+        "showdownMarkup": "Deerling-Autumn",
+        "showdownData": "deerlingautumn",
+        "serebii": "deerling-autumn",
+        "bulbapedia": "Deerling"
+    },
     "baseSpecies": "deerling",
     "baseForms": [],
     "forms": null,

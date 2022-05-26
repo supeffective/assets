@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BONSLY",
+        "veekunDb": "bonsly",
+        "showdownMarkup": "Bonsly",
+        "showdownData": "bonsly",
+        "serebii": "bonsly",
+        "bulbapedia": "Bonsly"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

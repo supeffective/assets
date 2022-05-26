@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ALAKAZAM_F",
+        "veekunDb": "alakazam-f",
+        "showdownMarkup": "Alakazam-F",
+        "showdownData": "alakazamf",
+        "serebii": "alakazam-f",
+        "bulbapedia": "Alakazam"
+    },
     "baseSpecies": "alakazam",
     "baseForms": [],
     "forms": null,

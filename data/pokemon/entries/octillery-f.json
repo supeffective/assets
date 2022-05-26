@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "OCTILLERY_F",
+        "veekunDb": "octillery-f",
+        "showdownMarkup": "Octillery-F",
+        "showdownData": "octilleryf",
+        "serebii": "octillery-f",
+        "bulbapedia": "Octillery"
+    },
     "baseSpecies": "octillery",
     "baseForms": [],
     "forms": null,

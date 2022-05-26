@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ZACIAN_CROWNED",
+        "veekunDb": "zacian-crowned",
+        "showdownMarkup": "Zacian-Crowned",
+        "showdownData": "zaciancrowned",
+        "serebii": "zacian-crowned",
+        "bulbapedia": "Zacian"
+    },
     "baseSpecies": "zacian",
     "baseForms": [
         "zacian"

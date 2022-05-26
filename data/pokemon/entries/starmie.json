@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "STARMIE",
+        "veekunDb": "starmie",
+        "showdownMarkup": "Starmie",
+        "showdownData": "starmie",
+        "serebii": "starmie",
+        "bulbapedia": "Starmie"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

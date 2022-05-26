@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SCORBUNNY",
+        "veekunDb": "scorbunny",
+        "showdownMarkup": "Scorbunny",
+        "showdownData": "scorbunny",
+        "serebii": "scorbunny",
+        "bulbapedia": "Scorbunny"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

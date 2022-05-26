@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VIVILLON_OCEAN",
+        "veekunDb": "vivillon-ocean",
+        "showdownMarkup": "Vivillon-Ocean",
+        "showdownData": "vivillonocean",
+        "serebii": "vivillon-ocean",
+        "bulbapedia": "Vivillon"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

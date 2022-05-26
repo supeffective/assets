@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MEDITITE_F",
+        "veekunDb": "meditite-f",
+        "showdownMarkup": "Meditite-F",
+        "showdownData": "medititef",
+        "serebii": "meditite-f",
+        "bulbapedia": "Meditite"
+    },
     "baseSpecies": "meditite",
     "baseForms": [],
     "forms": null,

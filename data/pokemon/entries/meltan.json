@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MELTAN",
+        "veekunDb": "meltan",
+        "showdownMarkup": "Meltan",
+        "showdownData": "meltan",
+        "serebii": "meltan",
+        "bulbapedia": "Meltan"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

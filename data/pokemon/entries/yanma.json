@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "YANMA",
+        "veekunDb": "yanma",
+        "showdownMarkup": "Yanma",
+        "showdownData": "yanma",
+        "serebii": "yanma",
+        "bulbapedia": "Yanma"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

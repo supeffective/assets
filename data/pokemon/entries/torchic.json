@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TORCHIC",
+        "veekunDb": "torchic",
+        "showdownMarkup": "Torchic",
+        "showdownData": "torchic",
+        "serebii": "torchic",
+        "bulbapedia": "Torchic"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

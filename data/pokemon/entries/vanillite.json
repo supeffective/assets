@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VANILLITE",
+        "veekunDb": "vanillite",
+        "showdownMarkup": "Vanillite",
+        "showdownData": "vanillite",
+        "serebii": "vanillite",
+        "bulbapedia": "Vanillite"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

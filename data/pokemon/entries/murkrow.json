@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MURKROW",
+        "veekunDb": "murkrow",
+        "showdownMarkup": "Murkrow",
+        "showdownData": "murkrow",
+        "serebii": "murkrow",
+        "bulbapedia": "Murkrow"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

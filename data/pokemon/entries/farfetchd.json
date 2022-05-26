@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FARFETCHD",
+        "veekunDb": "farfetchd",
+        "showdownMarkup": "Farfetchd",
+        "showdownData": "farfetchd",
+        "serebii": "farfetchd",
+        "bulbapedia": "Farfetch’d"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

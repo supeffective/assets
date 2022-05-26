@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MACHAMP",
+        "veekunDb": "machamp",
+        "showdownMarkup": "Machamp",
+        "showdownData": "machamp",
+        "serebii": "machamp",
+        "bulbapedia": "Machamp"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

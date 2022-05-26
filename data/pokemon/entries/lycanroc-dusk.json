@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LYCANROC_DUSK",
+        "veekunDb": "lycanroc-dusk",
+        "showdownMarkup": "Lycanroc-Dusk",
+        "showdownData": "lycanrocdusk",
+        "serebii": "lycanroc-dusk",
+        "bulbapedia": "Lycanroc"
+    },
     "baseSpecies": "lycanroc",
     "baseForms": [],
     "forms": null,

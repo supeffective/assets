@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LUCARIO_MEGA",
+        "veekunDb": "lucario-mega",
+        "showdownMarkup": "Lucario-Mega",
+        "showdownData": "lucariomega",
+        "serebii": "lucario-mega",
+        "bulbapedia": "Lucario"
+    },
     "baseSpecies": "lucario",
     "baseForms": [
         "lucario"

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "OSHAWOTT",
+        "veekunDb": "oshawott",
+        "showdownMarkup": "Oshawott",
+        "showdownData": "oshawott",
+        "serebii": "oshawott",
+        "bulbapedia": "Oshawott"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

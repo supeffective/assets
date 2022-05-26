@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TAUROS",
+        "veekunDb": "tauros",
+        "showdownMarkup": "Tauros",
+        "showdownData": "tauros",
+        "serebii": "tauros",
+        "bulbapedia": "Tauros"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

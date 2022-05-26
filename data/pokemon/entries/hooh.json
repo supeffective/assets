@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HOOH",
+        "veekunDb": "hooh",
+        "showdownMarkup": "Hooh",
+        "showdownData": "hooh",
+        "serebii": "hooh",
+        "bulbapedia": "Ho-Oh"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

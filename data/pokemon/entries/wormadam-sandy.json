@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "WORMADAM_SANDY",
+        "veekunDb": "wormadam-sandy",
+        "showdownMarkup": "Wormadam-Sandy",
+        "showdownData": "wormadamsandy",
+        "serebii": "wormadam-sandy",
+        "bulbapedia": "Wormadam"
+    },
     "baseSpecies": "wormadam",
     "baseForms": [],
     "forms": null,

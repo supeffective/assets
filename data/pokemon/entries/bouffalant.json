@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BOUFFALANT",
+        "veekunDb": "bouffalant",
+        "showdownMarkup": "Bouffalant",
+        "showdownData": "bouffalant",
+        "serebii": "bouffalant",
+        "bulbapedia": "Bouffalant"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

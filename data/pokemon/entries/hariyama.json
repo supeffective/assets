@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HARIYAMA",
+        "veekunDb": "hariyama",
+        "showdownMarkup": "Hariyama",
+        "showdownData": "hariyama",
+        "serebii": "hariyama",
+        "bulbapedia": "Hariyama"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

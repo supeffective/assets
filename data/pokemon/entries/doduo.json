@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DODUO",
+        "veekunDb": "doduo",
+        "showdownMarkup": "Doduo",
+        "showdownData": "doduo",
+        "serebii": "doduo",
+        "bulbapedia": "Doduo"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

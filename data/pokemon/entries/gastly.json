@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GASTLY",
+        "veekunDb": "gastly",
+        "showdownMarkup": "Gastly",
+        "showdownData": "gastly",
+        "serebii": "gastly",
+        "bulbapedia": "Gastly"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "POLTEAGEIST",
+        "veekunDb": "polteageist",
+        "showdownMarkup": "Polteageist",
+        "showdownData": "polteageist",
+        "serebii": "polteageist",
+        "bulbapedia": "Polteageist"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

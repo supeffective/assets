@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "NIDORINA",
+        "veekunDb": "nidorina",
+        "showdownMarkup": "Nidorina",
+        "showdownData": "nidorina",
+        "serebii": "nidorina",
+        "bulbapedia": "Nidorina"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

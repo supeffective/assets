@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ZIGZAGOON",
+        "veekunDb": "zigzagoon",
+        "showdownMarkup": "Zigzagoon",
+        "showdownData": "zigzagoon",
+        "serebii": "zigzagoon",
+        "bulbapedia": "Zigzagoon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

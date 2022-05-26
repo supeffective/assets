@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BUIZEL_F",
+        "veekunDb": "buizel-f",
+        "showdownMarkup": "Buizel-F",
+        "showdownData": "buizelf",
+        "serebii": "buizel-f",
+        "bulbapedia": "Buizel"
+    },
     "baseSpecies": "buizel",
     "baseForms": [],
     "forms": null,

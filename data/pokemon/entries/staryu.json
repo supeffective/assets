@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "STARYU",
+        "veekunDb": "staryu",
+        "showdownMarkup": "Staryu",
+        "showdownData": "staryu",
+        "serebii": "staryu",
+        "bulbapedia": "Staryu"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

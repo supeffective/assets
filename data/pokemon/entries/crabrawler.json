@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CRABRAWLER",
+        "veekunDb": "crabrawler",
+        "showdownMarkup": "Crabrawler",
+        "showdownData": "crabrawler",
+        "serebii": "crabrawler",
+        "bulbapedia": "Crabrawler"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

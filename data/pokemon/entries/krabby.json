@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KRABBY",
+        "veekunDb": "krabby",
+        "showdownMarkup": "Krabby",
+        "showdownData": "krabby",
+        "serebii": "krabby",
+        "bulbapedia": "Krabby"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

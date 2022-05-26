@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MOLTRES_GALAR",
+        "veekunDb": "moltres-galar",
+        "showdownMarkup": "Moltres-Galar",
+        "showdownData": "moltresgalar",
+        "serebii": "moltres-galar",
+        "bulbapedia": "Moltres"
+    },
     "baseSpecies": "moltres",
     "baseForms": [],
     "forms": null,

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HATENNA",
+        "veekunDb": "hatenna",
+        "showdownMarkup": "Hatenna",
+        "showdownData": "hatenna",
+        "serebii": "hatenna",
+        "bulbapedia": "Hatenna"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

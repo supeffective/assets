@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PIKIPEK",
+        "veekunDb": "pikipek",
+        "showdownMarkup": "Pikipek",
+        "showdownData": "pikipek",
+        "serebii": "pikipek",
+        "bulbapedia": "Pikipek"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

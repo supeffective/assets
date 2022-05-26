@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TALONFLAME",
+        "veekunDb": "talonflame",
+        "showdownMarkup": "Talonflame",
+        "showdownData": "talonflame",
+        "serebii": "talonflame",
+        "bulbapedia": "Talonflame"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

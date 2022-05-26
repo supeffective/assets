@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PIDOVE",
+        "veekunDb": "pidove",
+        "showdownMarkup": "Pidove",
+        "showdownData": "pidove",
+        "serebii": "pidove",
+        "bulbapedia": "Pidove"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

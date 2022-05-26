@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SILVALLY_FLYING",
+        "veekunDb": "silvally-flying",
+        "showdownMarkup": "Silvally-Flying",
+        "showdownData": "silvallyflying",
+        "serebii": "silvally-flying",
+        "bulbapedia": "Silvally"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

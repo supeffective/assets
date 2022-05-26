@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BLIPBUG",
+        "veekunDb": "blipbug",
+        "showdownMarkup": "Blipbug",
+        "showdownData": "blipbug",
+        "serebii": "blipbug",
+        "bulbapedia": "Blipbug"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

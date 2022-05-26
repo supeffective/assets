@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "COTTONEE",
+        "veekunDb": "cottonee",
+        "showdownMarkup": "Cottonee",
+        "showdownData": "cottonee",
+        "serebii": "cottonee",
+        "bulbapedia": "Cottonee"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

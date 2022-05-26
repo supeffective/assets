@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FORRETRESS",
+        "veekunDb": "forretress",
+        "showdownMarkup": "Forretress",
+        "showdownData": "forretress",
+        "serebii": "forretress",
+        "bulbapedia": "Forretress"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

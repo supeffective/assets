@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "RATTATA_F",
+        "veekunDb": "rattata-f",
+        "showdownMarkup": "Rattata-F",
+        "showdownData": "rattataf",
+        "serebii": "rattata-f",
+        "bulbapedia": "Rattata"
+    },
     "baseSpecies": "rattata",
     "baseForms": [],
     "forms": null,

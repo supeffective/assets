@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KINGLER",
+        "veekunDb": "kingler",
+        "showdownMarkup": "Kingler",
+        "showdownData": "kingler",
+        "serebii": "kingler",
+        "bulbapedia": "Kingler"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

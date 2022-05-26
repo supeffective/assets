@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LEAVANNY",
+        "veekunDb": "leavanny",
+        "showdownMarkup": "Leavanny",
+        "showdownData": "leavanny",
+        "serebii": "leavanny",
+        "bulbapedia": "Leavanny"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

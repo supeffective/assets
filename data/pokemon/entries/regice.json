@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "REGICE",
+        "veekunDb": "regice",
+        "showdownMarkup": "Regice",
+        "showdownData": "regice",
+        "serebii": "regice",
+        "bulbapedia": "Regice"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

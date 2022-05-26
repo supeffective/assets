@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "RATICATE_F",
+        "veekunDb": "raticate-f",
+        "showdownMarkup": "Raticate-F",
+        "showdownData": "raticatef",
+        "serebii": "raticate-f",
+        "bulbapedia": "Raticate"
+    },
     "baseSpecies": "raticate",
     "baseForms": [],
     "forms": null,

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MAGMAR",
+        "veekunDb": "magmar",
+        "showdownMarkup": "Magmar",
+        "showdownData": "magmar",
+        "serebii": "magmar",
+        "bulbapedia": "Magmar"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

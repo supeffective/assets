@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SHIELDON",
+        "veekunDb": "shieldon",
+        "showdownMarkup": "Shieldon",
+        "showdownData": "shieldon",
+        "serebii": "shieldon",
+        "bulbapedia": "Shieldon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

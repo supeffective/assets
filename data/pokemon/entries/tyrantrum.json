@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TYRANTRUM",
+        "veekunDb": "tyrantrum",
+        "showdownMarkup": "Tyrantrum",
+        "showdownData": "tyrantrum",
+        "serebii": "tyrantrum",
+        "bulbapedia": "Tyrantrum"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

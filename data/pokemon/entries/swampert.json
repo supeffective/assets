@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SWAMPERT",
+        "veekunDb": "swampert",
+        "showdownMarkup": "Swampert",
+        "showdownData": "swampert",
+        "serebii": "swampert",
+        "bulbapedia": "Swampert"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

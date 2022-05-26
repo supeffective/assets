@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "UNOWN_Z",
+        "veekunDb": "unown-z",
+        "showdownMarkup": "Unown-Z",
+        "showdownData": "unownz",
+        "serebii": "unown-z",
+        "bulbapedia": "Unown"
+    },
     "baseSpecies": "unown",
     "baseForms": [],
     "forms": null,

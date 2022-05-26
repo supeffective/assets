@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PUMPKABOO_SMALL",
+        "veekunDb": "pumpkaboo-small",
+        "showdownMarkup": "Pumpkaboo-Small",
+        "showdownData": "pumpkaboosmall",
+        "serebii": "pumpkaboo-small",
+        "bulbapedia": "Pumpkaboo"
+    },
     "baseSpecies": "pumpkaboo",
     "baseForms": [],
     "forms": null,

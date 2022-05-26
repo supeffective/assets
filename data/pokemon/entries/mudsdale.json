@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MUDSDALE",
+        "veekunDb": "mudsdale",
+        "showdownMarkup": "Mudsdale",
+        "showdownData": "mudsdale",
+        "serebii": "mudsdale",
+        "bulbapedia": "Mudsdale"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

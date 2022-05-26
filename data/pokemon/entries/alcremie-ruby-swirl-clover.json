@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ALCREMIE_RUBY_SWIRL_CLOVER",
+        "veekunDb": "alcremie-ruby-swirl-clover",
+        "showdownMarkup": "Alcremie-Ruby-Swirl-Clover",
+        "showdownData": "alcremierubyswirlclover",
+        "serebii": "alcremie-ruby-swirl-clover",
+        "bulbapedia": "Alcremie"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

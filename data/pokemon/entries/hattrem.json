@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HATTREM",
+        "veekunDb": "hattrem",
+        "showdownMarkup": "Hattrem",
+        "showdownData": "hattrem",
+        "serebii": "hattrem",
+        "bulbapedia": "Hattrem"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

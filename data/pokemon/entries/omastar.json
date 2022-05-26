@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "OMASTAR",
+        "veekunDb": "omastar",
+        "showdownMarkup": "Omastar",
+        "showdownData": "omastar",
+        "serebii": "omastar",
+        "bulbapedia": "Omastar"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

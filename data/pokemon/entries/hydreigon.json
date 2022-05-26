@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HYDREIGON",
+        "veekunDb": "hydreigon",
+        "showdownMarkup": "Hydreigon",
+        "showdownData": "hydreigon",
+        "serebii": "hydreigon",
+        "bulbapedia": "Hydreigon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

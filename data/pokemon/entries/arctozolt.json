@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ARCTOZOLT",
+        "veekunDb": "arctozolt",
+        "showdownMarkup": "Arctozolt",
+        "showdownData": "arctozolt",
+        "serebii": "arctozolt",
+        "bulbapedia": "Arctozolt"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

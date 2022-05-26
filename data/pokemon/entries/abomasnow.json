@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ABOMASNOW",
+        "veekunDb": "abomasnow",
+        "showdownMarkup": "Abomasnow",
+        "showdownData": "abomasnow",
+        "serebii": "abomasnow",
+        "bulbapedia": "Abomasnow"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ZAMAZENTA_CROWNED",
+        "veekunDb": "zamazenta-crowned",
+        "showdownMarkup": "Zamazenta-Crowned",
+        "showdownData": "zamazentacrowned",
+        "serebii": "zamazenta-crowned",
+        "bulbapedia": "Zamazenta"
+    },
     "baseSpecies": "zamazenta",
     "baseForms": [
         "zamazenta"

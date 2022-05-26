@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GOLETT",
+        "veekunDb": "golett",
+        "showdownMarkup": "Golett",
+        "showdownData": "golett",
+        "serebii": "golett",
+        "bulbapedia": "Golett"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

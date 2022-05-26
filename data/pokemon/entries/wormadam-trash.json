@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "WORMADAM_TRASH",
+        "veekunDb": "wormadam-trash",
+        "showdownMarkup": "Wormadam-Trash",
+        "showdownData": "wormadamtrash",
+        "serebii": "wormadam-trash",
+        "bulbapedia": "Wormadam"
+    },
     "baseSpecies": "wormadam",
     "baseForms": [],
     "forms": null,

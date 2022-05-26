@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FLOETTE_ORANGE",
+        "veekunDb": "floette-orange",
+        "showdownMarkup": "Floette-Orange",
+        "showdownData": "floetteorange",
+        "serebii": "floette-orange",
+        "bulbapedia": "Floette"
+    },
     "baseSpecies": "floette",
     "baseForms": [],
     "forms": null,

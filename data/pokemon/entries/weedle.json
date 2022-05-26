@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "WEEDLE",
+        "veekunDb": "weedle",
+        "showdownMarkup": "Weedle",
+        "showdownData": "weedle",
+        "serebii": "weedle",
+        "bulbapedia": "Weedle"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CHARIZARD_MEGA_X",
+        "veekunDb": "charizard-mega-x",
+        "showdownMarkup": "Charizard-Mega-X",
+        "showdownData": "charizardmegax",
+        "serebii": "charizard-mega-x",
+        "bulbapedia": "Charizard"
+    },
     "baseSpecies": "charizard",
     "baseForms": [
         "charizard"

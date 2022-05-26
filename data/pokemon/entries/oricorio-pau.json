@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ORICORIO_PAU",
+        "veekunDb": "oricorio-pau",
+        "showdownMarkup": "Oricorio-Pau",
+        "showdownData": "oricoriopau",
+        "serebii": "oricorio-pau",
+        "bulbapedia": "Oricorio"
+    },
     "baseSpecies": "oricorio",
     "baseForms": [],
     "forms": null,

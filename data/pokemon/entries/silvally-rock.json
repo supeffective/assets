@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SILVALLY_ROCK",
+        "veekunDb": "silvally-rock",
+        "showdownMarkup": "Silvally-Rock",
+        "showdownData": "silvallyrock",
+        "serebii": "silvally-rock",
+        "bulbapedia": "Silvally"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

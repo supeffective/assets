@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VENIPEDE",
+        "veekunDb": "venipede",
+        "showdownMarkup": "Venipede",
+        "showdownData": "venipede",
+        "serebii": "venipede",
+        "bulbapedia": "Venipede"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

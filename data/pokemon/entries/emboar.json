@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "EMBOAR",
+        "veekunDb": "emboar",
+        "showdownMarkup": "Emboar",
+        "showdownData": "emboar",
+        "serebii": "emboar",
+        "bulbapedia": "Emboar"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

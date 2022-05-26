@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "OBSTAGOON",
+        "veekunDb": "obstagoon",
+        "showdownMarkup": "Obstagoon",
+        "showdownData": "obstagoon",
+        "serebii": "obstagoon",
+        "bulbapedia": "Obstagoon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

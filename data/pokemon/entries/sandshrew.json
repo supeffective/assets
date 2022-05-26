@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SANDSHREW",
+        "veekunDb": "sandshrew",
+        "showdownMarkup": "Sandshrew",
+        "showdownData": "sandshrew",
+        "serebii": "sandshrew",
+        "bulbapedia": "Sandshrew"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

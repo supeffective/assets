@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MEOWTH",
+        "veekunDb": "meowth",
+        "showdownMarkup": "Meowth",
+        "showdownData": "meowth",
+        "serebii": "meowth",
+        "bulbapedia": "Meowth"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SALAZZLE",
+        "veekunDb": "salazzle",
+        "showdownMarkup": "Salazzle",
+        "showdownData": "salazzle",
+        "serebii": "salazzle",
+        "bulbapedia": "Salazzle"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

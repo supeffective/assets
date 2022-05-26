@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MISDREAVUS",
+        "veekunDb": "misdreavus",
+        "showdownMarkup": "Misdreavus",
+        "showdownData": "misdreavus",
+        "serebii": "misdreavus",
+        "bulbapedia": "Misdreavus"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

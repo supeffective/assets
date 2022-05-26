@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VAPOREON",
+        "veekunDb": "vaporeon",
+        "showdownMarkup": "Vaporeon",
+        "showdownData": "vaporeon",
+        "serebii": "vaporeon",
+        "bulbapedia": "Vaporeon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

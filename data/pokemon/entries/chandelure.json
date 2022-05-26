@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CHANDELURE",
+        "veekunDb": "chandelure",
+        "showdownMarkup": "Chandelure",
+        "showdownData": "chandelure",
+        "serebii": "chandelure",
+        "bulbapedia": "Chandelure"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

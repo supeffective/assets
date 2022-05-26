@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LYCANROC_MIDNIGHT",
+        "veekunDb": "lycanroc-midnight",
+        "showdownMarkup": "Lycanroc-Midnight",
+        "showdownData": "lycanrocmidnight",
+        "serebii": "lycanroc-midnight",
+        "bulbapedia": "Lycanroc"
+    },
     "baseSpecies": "lycanroc",
     "baseForms": [],
     "forms": null,

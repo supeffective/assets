@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PALKIA",
+        "veekunDb": "palkia",
+        "showdownMarkup": "Palkia",
+        "showdownData": "palkia",
+        "serebii": "palkia",
+        "bulbapedia": "Palkia"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

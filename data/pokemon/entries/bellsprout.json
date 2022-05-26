@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BELLSPROUT",
+        "veekunDb": "bellsprout",
+        "showdownMarkup": "Bellsprout",
+        "showdownData": "bellsprout",
+        "serebii": "bellsprout",
+        "bulbapedia": "Bellsprout"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

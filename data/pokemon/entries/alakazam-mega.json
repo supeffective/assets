@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ALAKAZAM_MEGA",
+        "veekunDb": "alakazam-mega",
+        "showdownMarkup": "Alakazam-Mega",
+        "showdownData": "alakazammega",
+        "serebii": "alakazam-mega",
+        "bulbapedia": "Alakazam"
+    },
     "baseSpecies": "alakazam",
     "baseForms": [
         "alakazam"

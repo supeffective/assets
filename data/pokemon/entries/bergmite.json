@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BERGMITE",
+        "veekunDb": "bergmite",
+        "showdownMarkup": "Bergmite",
+        "showdownData": "bergmite",
+        "serebii": "bergmite",
+        "bulbapedia": "Bergmite"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "RELICANTH_F",
+        "veekunDb": "relicanth-f",
+        "showdownMarkup": "Relicanth-F",
+        "showdownData": "relicanthf",
+        "serebii": "relicanth-f",
+        "bulbapedia": "Relicanth"
+    },
     "baseSpecies": "relicanth",
     "baseForms": [],
     "forms": null,

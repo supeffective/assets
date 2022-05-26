@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "STOUTLAND",
+        "veekunDb": "stoutland",
+        "showdownMarkup": "Stoutland",
+        "showdownData": "stoutland",
+        "serebii": "stoutland",
+        "bulbapedia": "Stoutland"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

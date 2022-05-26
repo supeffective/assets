@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SEEDOT",
+        "veekunDb": "seedot",
+        "showdownMarkup": "Seedot",
+        "showdownData": "seedot",
+        "serebii": "seedot",
+        "bulbapedia": "Seedot"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

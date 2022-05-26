@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HOUNDOOM",
+        "veekunDb": "houndoom",
+        "showdownMarkup": "Houndoom",
+        "showdownData": "houndoom",
+        "serebii": "houndoom",
+        "bulbapedia": "Houndoom"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

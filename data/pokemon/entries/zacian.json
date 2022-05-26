@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ZACIAN",
+        "veekunDb": "zacian",
+        "showdownMarkup": "Zacian",
+        "showdownData": "zacian",
+        "serebii": "zacian",
+        "bulbapedia": "Zacian"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SWANNA",
+        "veekunDb": "swanna",
+        "showdownMarkup": "Swanna",
+        "showdownData": "swanna",
+        "serebii": "swanna",
+        "bulbapedia": "Swanna"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

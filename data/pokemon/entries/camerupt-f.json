@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CAMERUPT_F",
+        "veekunDb": "camerupt-f",
+        "showdownMarkup": "Camerupt-F",
+        "showdownData": "cameruptf",
+        "serebii": "camerupt-f",
+        "bulbapedia": "Camerupt"
+    },
     "baseSpecies": "camerupt",
     "baseForms": [],
     "forms": null,

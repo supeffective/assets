@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SCEPTILE",
+        "veekunDb": "sceptile",
+        "showdownMarkup": "Sceptile",
+        "showdownData": "sceptile",
+        "serebii": "sceptile",
+        "bulbapedia": "Sceptile"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

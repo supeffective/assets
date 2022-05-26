@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DRAGALGE",
+        "veekunDb": "dragalge",
+        "showdownMarkup": "Dragalge",
+        "showdownData": "dragalge",
+        "serebii": "dragalge",
+        "bulbapedia": "Dragalge"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SWINUB",
+        "veekunDb": "swinub",
+        "showdownMarkup": "Swinub",
+        "showdownData": "swinub",
+        "serebii": "swinub",
+        "bulbapedia": "Swinub"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

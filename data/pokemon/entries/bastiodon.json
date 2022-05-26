@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BASTIODON",
+        "veekunDb": "bastiodon",
+        "showdownMarkup": "Bastiodon",
+        "showdownData": "bastiodon",
+        "serebii": "bastiodon",
+        "bulbapedia": "Bastiodon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

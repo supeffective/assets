@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "POLITOED_F",
+        "veekunDb": "politoed-f",
+        "showdownMarkup": "Politoed-F",
+        "showdownData": "politoedf",
+        "serebii": "politoed-f",
+        "bulbapedia": "Politoed"
+    },
     "baseSpecies": "politoed",
     "baseForms": [],
     "forms": null,

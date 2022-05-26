@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "EXEGGUTOR_ALOLA",
+        "veekunDb": "exeggutor-alola",
+        "showdownMarkup": "Exeggutor-Alola",
+        "showdownData": "exeggutoralola",
+        "serebii": "exeggutor-alola",
+        "bulbapedia": "Exeggutor"
+    },
     "baseSpecies": "exeggutor",
     "baseForms": [],
     "forms": null,

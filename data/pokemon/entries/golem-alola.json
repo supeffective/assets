@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GOLEM_ALOLA",
+        "veekunDb": "golem-alola",
+        "showdownMarkup": "Golem-Alola",
+        "showdownData": "golemalola",
+        "serebii": "golem-alola",
+        "bulbapedia": "Golem"
+    },
     "baseSpecies": "golem",
     "baseForms": [],
     "forms": null,

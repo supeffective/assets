@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HAKAMOO",
+        "veekunDb": "hakamoo",
+        "showdownMarkup": "Hakamoo",
+        "showdownData": "hakamoo",
+        "serebii": "hakamoo",
+        "bulbapedia": "Hakamo-o"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DEOXYS_ATTACK",
+        "veekunDb": "deoxys-attack",
+        "showdownMarkup": "Deoxys-Attack",
+        "showdownData": "deoxysattack",
+        "serebii": "deoxys-attack",
+        "bulbapedia": "Deoxys"
+    },
     "baseSpecies": "deoxys",
     "baseForms": [
         "deoxys"

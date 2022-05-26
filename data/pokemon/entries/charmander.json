@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CHARMANDER",
+        "veekunDb": "charmander",
+        "showdownMarkup": "Charmander",
+        "showdownData": "charmander",
+        "serebii": "charmander",
+        "bulbapedia": "Charmander"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GOSSIFLEUR",
+        "veekunDb": "gossifleur",
+        "showdownMarkup": "Gossifleur",
+        "showdownData": "gossifleur",
+        "serebii": "gossifleur",
+        "bulbapedia": "Gossifleur"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

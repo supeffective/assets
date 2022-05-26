@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CARNIVINE",
+        "veekunDb": "carnivine",
+        "showdownMarkup": "Carnivine",
+        "showdownData": "carnivine",
+        "serebii": "carnivine",
+        "bulbapedia": "Carnivine"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

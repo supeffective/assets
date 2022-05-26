@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PUPITAR",
+        "veekunDb": "pupitar",
+        "showdownMarkup": "Pupitar",
+        "showdownData": "pupitar",
+        "serebii": "pupitar",
+        "bulbapedia": "Pupitar"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

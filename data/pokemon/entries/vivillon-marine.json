@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VIVILLON_MARINE",
+        "veekunDb": "vivillon-marine",
+        "showdownMarkup": "Vivillon-Marine",
+        "showdownData": "vivillonmarine",
+        "serebii": "vivillon-marine",
+        "bulbapedia": "Vivillon"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

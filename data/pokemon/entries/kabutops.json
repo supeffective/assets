@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KABUTOPS",
+        "veekunDb": "kabutops",
+        "showdownMarkup": "Kabutops",
+        "showdownData": "kabutops",
+        "serebii": "kabutops",
+        "bulbapedia": "Kabutops"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

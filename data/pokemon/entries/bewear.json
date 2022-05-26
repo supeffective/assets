@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BEWEAR",
+        "veekunDb": "bewear",
+        "showdownMarkup": "Bewear",
+        "showdownData": "bewear",
+        "serebii": "bewear",
+        "bulbapedia": "Bewear"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

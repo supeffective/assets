@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VIVILLON_TUNDRA",
+        "veekunDb": "vivillon-tundra",
+        "showdownMarkup": "Vivillon-Tundra",
+        "showdownData": "vivillontundra",
+        "serebii": "vivillon-tundra",
+        "bulbapedia": "Vivillon"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

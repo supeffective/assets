@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TROPIUS",
+        "veekunDb": "tropius",
+        "showdownMarkup": "Tropius",
+        "showdownData": "tropius",
+        "serebii": "tropius",
+        "bulbapedia": "Tropius"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

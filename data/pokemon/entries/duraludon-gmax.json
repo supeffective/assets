@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DURALUDON_GMAX",
+        "veekunDb": "duraludon-gmax",
+        "showdownMarkup": "Duraludon-Gmax",
+        "showdownData": "duraludongmax",
+        "serebii": "duraludon-gmax",
+        "bulbapedia": "Duraludon"
+    },
     "baseSpecies": "duraludon",
     "baseForms": [
         "duraludon"

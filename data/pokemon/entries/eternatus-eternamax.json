@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ETERNATUS_ETERNAMAX",
+        "veekunDb": "eternatus-eternamax",
+        "showdownMarkup": "Eternatus-Eternamax",
+        "showdownData": "eternatuseternamax",
+        "serebii": "eternatus-eternamax",
+        "bulbapedia": "Eternatus"
+    },
     "baseSpecies": "eternatus",
     "baseForms": [
         "eternatus"

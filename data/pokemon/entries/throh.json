@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "THROH",
+        "veekunDb": "throh",
+        "showdownMarkup": "Throh",
+        "showdownData": "throh",
+        "serebii": "throh",
+        "bulbapedia": "Throh"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

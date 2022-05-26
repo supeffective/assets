@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ALCREMIE_RUBY_SWIRL_STRAWBERRY",
+        "veekunDb": "alcremie-ruby-swirl-strawberry",
+        "showdownMarkup": "Alcremie-Ruby-Swirl-Strawberry",
+        "showdownData": "alcremierubyswirlstrawberry",
+        "serebii": "alcremie-ruby-swirl-strawberry",
+        "bulbapedia": "Alcremie"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

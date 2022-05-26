@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PARAS",
+        "veekunDb": "paras",
+        "showdownMarkup": "Paras",
+        "showdownData": "paras",
+        "serebii": "paras",
+        "bulbapedia": "Paras"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

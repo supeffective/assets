@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MILCERY",
+        "veekunDb": "milcery",
+        "showdownMarkup": "Milcery",
+        "showdownData": "milcery",
+        "serebii": "milcery",
+        "bulbapedia": "Milcery"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

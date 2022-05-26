@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ELECTRIKE",
+        "veekunDb": "electrike",
+        "showdownMarkup": "Electrike",
+        "showdownData": "electrike",
+        "serebii": "electrike",
+        "bulbapedia": "Electrike"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

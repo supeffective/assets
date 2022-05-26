@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PASSIMIAN",
+        "veekunDb": "passimian",
+        "showdownMarkup": "Passimian",
+        "showdownData": "passimian",
+        "serebii": "passimian",
+        "bulbapedia": "Passimian"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

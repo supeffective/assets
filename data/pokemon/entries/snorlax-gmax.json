@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SNORLAX_GMAX",
+        "veekunDb": "snorlax-gmax",
+        "showdownMarkup": "Snorlax-Gmax",
+        "showdownData": "snorlaxgmax",
+        "serebii": "snorlax-gmax",
+        "bulbapedia": "Snorlax"
+    },
     "baseSpecies": "snorlax",
     "baseForms": [
         "snorlax"

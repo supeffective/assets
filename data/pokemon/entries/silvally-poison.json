@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SILVALLY_POISON",
+        "veekunDb": "silvally-poison",
+        "showdownMarkup": "Silvally-Poison",
+        "showdownData": "silvallypoison",
+        "serebii": "silvally-poison",
+        "bulbapedia": "Silvally"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ZUBAT",
+        "veekunDb": "zubat",
+        "showdownMarkup": "Zubat",
+        "showdownData": "zubat",
+        "serebii": "zubat",
+        "bulbapedia": "Zubat"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

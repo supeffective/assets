@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CORVIKNIGHT",
+        "veekunDb": "corviknight",
+        "showdownMarkup": "Corviknight",
+        "showdownData": "corviknight",
+        "serebii": "corviknight",
+        "bulbapedia": "Corviknight"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

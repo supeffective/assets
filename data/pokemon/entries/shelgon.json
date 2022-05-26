@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SHELGON",
+        "veekunDb": "shelgon",
+        "showdownMarkup": "Shelgon",
+        "showdownData": "shelgon",
+        "serebii": "shelgon",
+        "bulbapedia": "Shelgon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PANSEAR",
+        "veekunDb": "pansear",
+        "showdownMarkup": "Pansear",
+        "showdownData": "pansear",
+        "serebii": "pansear",
+        "bulbapedia": "Pansear"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

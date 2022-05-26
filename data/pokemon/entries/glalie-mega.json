@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GLALIE_MEGA",
+        "veekunDb": "glalie-mega",
+        "showdownMarkup": "Glalie-Mega",
+        "showdownData": "glaliemega",
+        "serebii": "glalie-mega",
+        "bulbapedia": "Glalie"
+    },
     "baseSpecies": "glalie",
     "baseForms": [
         "glalie"

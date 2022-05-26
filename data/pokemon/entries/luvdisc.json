@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LUVDISC",
+        "veekunDb": "luvdisc",
+        "showdownMarkup": "Luvdisc",
+        "showdownData": "luvdisc",
+        "serebii": "luvdisc",
+        "bulbapedia": "Luvdisc"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

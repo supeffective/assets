@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "QUILLADIN",
+        "veekunDb": "quilladin",
+        "showdownMarkup": "Quilladin",
+        "showdownData": "quilladin",
+        "serebii": "quilladin",
+        "bulbapedia": "Quilladin"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

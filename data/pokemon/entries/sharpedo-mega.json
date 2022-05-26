@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SHARPEDO_MEGA",
+        "veekunDb": "sharpedo-mega",
+        "showdownMarkup": "Sharpedo-Mega",
+        "showdownData": "sharpedomega",
+        "serebii": "sharpedo-mega",
+        "bulbapedia": "Sharpedo"
+    },
     "baseSpecies": "sharpedo",
     "baseForms": [
         "sharpedo"

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MAGCARGO",
+        "veekunDb": "magcargo",
+        "showdownMarkup": "Magcargo",
+        "showdownData": "magcargo",
+        "serebii": "magcargo",
+        "bulbapedia": "Magcargo"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

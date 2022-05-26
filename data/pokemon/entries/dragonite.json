@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DRAGONITE",
+        "veekunDb": "dragonite",
+        "showdownMarkup": "Dragonite",
+        "showdownData": "dragonite",
+        "serebii": "dragonite",
+        "bulbapedia": "Dragonite"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

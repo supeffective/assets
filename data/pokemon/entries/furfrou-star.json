@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FURFROU_STAR",
+        "veekunDb": "furfrou-star",
+        "showdownMarkup": "Furfrou-Star",
+        "showdownData": "furfroustar",
+        "serebii": "furfrou-star",
+        "bulbapedia": "Furfrou"
+    },
     "baseSpecies": "furfrou",
     "baseForms": [
         "furfrou"

@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GARBODOR_GMAX",
+        "veekunDb": "garbodor-gmax",
+        "showdownMarkup": "Garbodor-Gmax",
+        "showdownData": "garbodorgmax",
+        "serebii": "garbodor-gmax",
+        "bulbapedia": "Garbodor"
+    },
     "baseSpecies": "garbodor",
     "baseForms": [
         "garbodor"

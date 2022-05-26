@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VANILLISH",
+        "veekunDb": "vanillish",
+        "showdownMarkup": "Vanillish",
+        "showdownData": "vanillish",
+        "serebii": "vanillish",
+        "bulbapedia": "Vanillish"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

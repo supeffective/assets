@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "AROMATISSE",
+        "veekunDb": "aromatisse",
+        "showdownMarkup": "Aromatisse",
+        "showdownData": "aromatisse",
+        "serebii": "aromatisse",
+        "bulbapedia": "Aromatisse"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

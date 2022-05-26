@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LEDIAN_F",
+        "veekunDb": "ledian-f",
+        "showdownMarkup": "Ledian-F",
+        "showdownData": "ledianf",
+        "serebii": "ledian-f",
+        "bulbapedia": "Ledian"
+    },
     "baseSpecies": "ledian",
     "baseForms": [],
     "forms": null,

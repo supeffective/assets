@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GROWLITHE",
+        "veekunDb": "growlithe",
+        "showdownMarkup": "Growlithe",
+        "showdownData": "growlithe",
+        "serebii": "growlithe",
+        "bulbapedia": "Growlithe"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

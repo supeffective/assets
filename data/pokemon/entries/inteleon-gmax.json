@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "INTELEON_GMAX",
+        "veekunDb": "inteleon-gmax",
+        "showdownMarkup": "Inteleon-Gmax",
+        "showdownData": "inteleongmax",
+        "serebii": "inteleon-gmax",
+        "bulbapedia": "Inteleon"
+    },
     "baseSpecies": "inteleon",
     "baseForms": [
         "inteleon"

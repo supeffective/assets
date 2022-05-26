@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PYUKUMUKU",
+        "veekunDb": "pyukumuku",
+        "showdownMarkup": "Pyukumuku",
+        "showdownData": "pyukumuku",
+        "serebii": "pyukumuku",
+        "bulbapedia": "Pyukumuku"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

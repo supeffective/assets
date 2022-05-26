@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LAPRAS_GMAX",
+        "veekunDb": "lapras-gmax",
+        "showdownMarkup": "Lapras-Gmax",
+        "showdownData": "laprasgmax",
+        "serebii": "lapras-gmax",
+        "bulbapedia": "Lapras"
+    },
     "baseSpecies": "lapras",
     "baseForms": [
         "lapras"

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PILOSWINE_F",
+        "veekunDb": "piloswine-f",
+        "showdownMarkup": "Piloswine-F",
+        "showdownData": "piloswinef",
+        "serebii": "piloswine-f",
+        "bulbapedia": "Piloswine"
+    },
     "baseSpecies": "piloswine",
     "baseForms": [],
     "forms": null,

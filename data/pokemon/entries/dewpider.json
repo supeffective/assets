@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DEWPIDER",
+        "veekunDb": "dewpider",
+        "showdownMarkup": "Dewpider",
+        "showdownData": "dewpider",
+        "serebii": "dewpider",
+        "bulbapedia": "Dewpider"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

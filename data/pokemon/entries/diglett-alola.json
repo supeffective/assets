@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DIGLETT_ALOLA",
+        "veekunDb": "diglett-alola",
+        "showdownMarkup": "Diglett-Alola",
+        "showdownData": "diglettalola",
+        "serebii": "diglett-alola",
+        "bulbapedia": "Diglett"
+    },
     "baseSpecies": "diglett",
     "baseForms": [],
     "forms": null,

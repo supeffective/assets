@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SILVALLY_ELECTRIC",
+        "veekunDb": "silvally-electric",
+        "showdownMarkup": "Silvally-Electric",
+        "showdownData": "silvallyelectric",
+        "serebii": "silvally-electric",
+        "bulbapedia": "Silvally"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

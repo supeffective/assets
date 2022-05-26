@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TORNADUS",
+        "veekunDb": "tornadus",
+        "showdownMarkup": "Tornadus",
+        "showdownData": "tornadus",
+        "serebii": "tornadus",
+        "bulbapedia": "Tornadus"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

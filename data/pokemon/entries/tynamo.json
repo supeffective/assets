@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TYNAMO",
+        "veekunDb": "tynamo",
+        "showdownMarkup": "Tynamo",
+        "showdownData": "tynamo",
+        "serebii": "tynamo",
+        "bulbapedia": "Tynamo"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CRAWDAUNT",
+        "veekunDb": "crawdaunt",
+        "showdownMarkup": "Crawdaunt",
+        "showdownData": "crawdaunt",
+        "serebii": "crawdaunt",
+        "bulbapedia": "Crawdaunt"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

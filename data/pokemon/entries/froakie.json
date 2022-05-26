@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FROAKIE",
+        "veekunDb": "froakie",
+        "showdownMarkup": "Froakie",
+        "showdownData": "froakie",
+        "serebii": "froakie",
+        "bulbapedia": "Froakie"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TYROGUE",
+        "veekunDb": "tyrogue",
+        "showdownMarkup": "Tyrogue",
+        "showdownData": "tyrogue",
+        "serebii": "tyrogue",
+        "bulbapedia": "Tyrogue"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

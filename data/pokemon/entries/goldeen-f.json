@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GOLDEEN_F",
+        "veekunDb": "goldeen-f",
+        "showdownMarkup": "Goldeen-F",
+        "showdownData": "goldeenf",
+        "serebii": "goldeen-f",
+        "bulbapedia": "Goldeen"
+    },
     "baseSpecies": "goldeen",
     "baseForms": [],
     "forms": null,

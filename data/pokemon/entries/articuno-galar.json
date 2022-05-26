@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ARTICUNO_GALAR",
+        "veekunDb": "articuno-galar",
+        "showdownMarkup": "Articuno-Galar",
+        "showdownData": "articunogalar",
+        "serebii": "articuno-galar",
+        "bulbapedia": "Articuno"
+    },
     "baseSpecies": "articuno",
     "baseForms": [],
     "forms": null,

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "EXCADRILL",
+        "veekunDb": "excadrill",
+        "showdownMarkup": "Excadrill",
+        "showdownData": "excadrill",
+        "serebii": "excadrill",
+        "bulbapedia": "Excadrill"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SNEASEL_F",
+        "veekunDb": "sneasel-f",
+        "showdownMarkup": "Sneasel-F",
+        "showdownData": "sneaself",
+        "serebii": "sneasel-f",
+        "bulbapedia": "Sneasel"
+    },
     "baseSpecies": "sneasel",
     "baseForms": [],
     "forms": null,

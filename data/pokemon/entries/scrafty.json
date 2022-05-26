@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SCRAFTY",
+        "veekunDb": "scrafty",
+        "showdownMarkup": "Scrafty",
+        "showdownData": "scrafty",
+        "serebii": "scrafty",
+        "bulbapedia": "Scrafty"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GUMSHOOS",
+        "veekunDb": "gumshoos",
+        "showdownMarkup": "Gumshoos",
+        "showdownData": "gumshoos",
+        "serebii": "gumshoos",
+        "bulbapedia": "Gumshoos"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

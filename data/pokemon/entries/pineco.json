@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PINECO",
+        "veekunDb": "pineco",
+        "showdownMarkup": "Pineco",
+        "showdownData": "pineco",
+        "serebii": "pineco",
+        "bulbapedia": "Pineco"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

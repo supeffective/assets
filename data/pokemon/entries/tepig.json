@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TEPIG",
+        "veekunDb": "tepig",
+        "showdownMarkup": "Tepig",
+        "showdownData": "tepig",
+        "serebii": "tepig",
+        "bulbapedia": "Tepig"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

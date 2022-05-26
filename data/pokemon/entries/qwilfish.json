@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "QWILFISH",
+        "veekunDb": "qwilfish",
+        "showdownMarkup": "Qwilfish",
+        "showdownData": "qwilfish",
+        "serebii": "qwilfish",
+        "bulbapedia": "Qwilfish"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

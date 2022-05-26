@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HOUNDOUR",
+        "veekunDb": "houndour",
+        "showdownMarkup": "Houndour",
+        "showdownData": "houndour",
+        "serebii": "houndour",
+        "bulbapedia": "Houndour"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -1,3 +1,4 @@
 *.log
 *.lock
 *.tmp.json
+*-tmp/

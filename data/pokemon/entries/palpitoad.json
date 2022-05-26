@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PALPITOAD",
+        "veekunDb": "palpitoad",
+        "showdownMarkup": "Palpitoad",
+        "showdownData": "palpitoad",
+        "serebii": "palpitoad",
+        "bulbapedia": "Palpitoad"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

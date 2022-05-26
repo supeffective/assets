@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ARBOK",
+        "veekunDb": "arbok",
+        "showdownMarkup": "Arbok",
+        "showdownData": "arbok",
+        "serebii": "arbok",
+        "bulbapedia": "Arbok"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

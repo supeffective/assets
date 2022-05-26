@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FLORGES_WHITE",
+        "veekunDb": "florges-white",
+        "showdownMarkup": "Florges-White",
+        "showdownData": "florgeswhite",
+        "serebii": "florges-white",
+        "bulbapedia": "Florges"
+    },
     "baseSpecies": "florges",
     "baseForms": [],
     "forms": null,

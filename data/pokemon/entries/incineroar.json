@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "INCINEROAR",
+        "veekunDb": "incineroar",
+        "showdownMarkup": "Incineroar",
+        "showdownData": "incineroar",
+        "serebii": "incineroar",
+        "bulbapedia": "Incineroar"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

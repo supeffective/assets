@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ARCEUS_POISON",
+        "veekunDb": "arceus-poison",
+        "showdownMarkup": "Arceus-Poison",
+        "showdownData": "arceuspoison",
+        "serebii": "arceus-poison",
+        "bulbapedia": "Arceus"
+    },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"

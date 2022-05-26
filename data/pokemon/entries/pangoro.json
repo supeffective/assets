@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PANGORO",
+        "veekunDb": "pangoro",
+        "showdownMarkup": "Pangoro",
+        "showdownData": "pangoro",
+        "serebii": "pangoro",
+        "bulbapedia": "Pangoro"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

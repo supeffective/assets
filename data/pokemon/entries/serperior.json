@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SERPERIOR",
+        "veekunDb": "serperior",
+        "showdownMarkup": "Serperior",
+        "showdownData": "serperior",
+        "serebii": "serperior",
+        "bulbapedia": "Serperior"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

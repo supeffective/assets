@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DOTTLER",
+        "veekunDb": "dottler",
+        "showdownMarkup": "Dottler",
+        "showdownData": "dottler",
+        "serebii": "dottler",
+        "bulbapedia": "Dottler"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

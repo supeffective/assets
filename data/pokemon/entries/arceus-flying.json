@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ARCEUS_FLYING",
+        "veekunDb": "arceus-flying",
+        "showdownMarkup": "Arceus-Flying",
+        "showdownData": "arceusflying",
+        "serebii": "arceus-flying",
+        "bulbapedia": "Arceus"
+    },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"

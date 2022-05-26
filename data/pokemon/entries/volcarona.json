@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VOLCARONA",
+        "veekunDb": "volcarona",
+        "showdownMarkup": "Volcarona",
+        "showdownData": "volcarona",
+        "serebii": "volcarona",
+        "bulbapedia": "Volcarona"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

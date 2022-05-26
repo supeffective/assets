@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GENGAR_MEGA",
+        "veekunDb": "gengar-mega",
+        "showdownMarkup": "Gengar-Mega",
+        "showdownData": "gengarmega",
+        "serebii": "gengar-mega",
+        "bulbapedia": "Gengar"
+    },
     "baseSpecies": "gengar",
     "baseForms": [
         "gengar"

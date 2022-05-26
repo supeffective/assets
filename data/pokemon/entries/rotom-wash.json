@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ROTOM_WASH",
+        "veekunDb": "rotom-wash",
+        "showdownMarkup": "Rotom-Wash",
+        "showdownData": "rotomwash",
+        "serebii": "rotom-wash",
+        "bulbapedia": "Rotom"
+    },
     "baseSpecies": "rotom",
     "baseForms": [
         "rotom"

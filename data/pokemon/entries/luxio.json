@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LUXIO",
+        "veekunDb": "luxio",
+        "showdownMarkup": "Luxio",
+        "showdownData": "luxio",
+        "serebii": "luxio",
+        "bulbapedia": "Luxio"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

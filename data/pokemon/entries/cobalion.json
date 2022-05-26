@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "COBALION",
+        "veekunDb": "cobalion",
+        "showdownMarkup": "Cobalion",
+        "showdownData": "cobalion",
+        "serebii": "cobalion",
+        "bulbapedia": "Cobalion"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

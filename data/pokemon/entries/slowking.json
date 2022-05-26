@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SLOWKING",
+        "veekunDb": "slowking",
+        "showdownMarkup": "Slowking",
+        "showdownData": "slowking",
+        "serebii": "slowking",
+        "bulbapedia": "Slowking"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

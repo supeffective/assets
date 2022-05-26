@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DRUDDIGON",
+        "veekunDb": "druddigon",
+        "showdownMarkup": "Druddigon",
+        "showdownData": "druddigon",
+        "serebii": "druddigon",
+        "bulbapedia": "Druddigon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

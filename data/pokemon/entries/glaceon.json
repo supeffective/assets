@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GLACEON",
+        "veekunDb": "glaceon",
+        "showdownMarkup": "Glaceon",
+        "showdownData": "glaceon",
+        "serebii": "glaceon",
+        "bulbapedia": "Glaceon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

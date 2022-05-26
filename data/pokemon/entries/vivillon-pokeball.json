@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VIVILLON_POKEBALL",
+        "veekunDb": "vivillon-pokeball",
+        "showdownMarkup": "Vivillon-Pokeball",
+        "showdownData": "vivillonpokeball",
+        "serebii": "vivillon-pokeball",
+        "bulbapedia": "Vivillon"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

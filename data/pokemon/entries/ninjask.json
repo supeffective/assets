@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "NINJASK",
+        "veekunDb": "ninjask",
+        "showdownMarkup": "Ninjask",
+        "showdownData": "ninjask",
+        "serebii": "ninjask",
+        "bulbapedia": "Ninjask"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

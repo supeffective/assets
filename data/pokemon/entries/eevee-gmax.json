@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "EEVEE_GMAX",
+        "veekunDb": "eevee-gmax",
+        "showdownMarkup": "Eevee-Gmax",
+        "showdownData": "eeveegmax",
+        "serebii": "eevee-gmax",
+        "bulbapedia": "Eevee"
+    },
     "baseSpecies": "eevee",
     "baseForms": [
         "eevee"

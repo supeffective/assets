@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SAMUROTT",
+        "veekunDb": "samurott",
+        "showdownMarkup": "Samurott",
+        "showdownData": "samurott",
+        "serebii": "samurott",
+        "bulbapedia": "Samurott"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

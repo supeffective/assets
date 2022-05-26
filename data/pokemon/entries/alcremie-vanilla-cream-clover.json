@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ALCREMIE_VANILLA_CREAM_CLOVER",
+        "veekunDb": "alcremie-vanilla-cream-clover",
+        "showdownMarkup": "Alcremie-Vanilla-Cream-Clover",
+        "showdownData": "alcremievanillacreamclover",
+        "serebii": "alcremie-vanilla-cream-clover",
+        "bulbapedia": "Alcremie"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

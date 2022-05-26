@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SANDSHREW_ALOLA",
+        "veekunDb": "sandshrew-alola",
+        "showdownMarkup": "Sandshrew-Alola",
+        "showdownData": "sandshrewalola",
+        "serebii": "sandshrew-alola",
+        "bulbapedia": "Sandshrew"
+    },
     "baseSpecies": "sandshrew",
     "baseForms": [],
     "forms": null,

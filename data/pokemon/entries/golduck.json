@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GOLDUCK",
+        "veekunDb": "golduck",
+        "showdownMarkup": "Golduck",
+        "showdownData": "golduck",
+        "serebii": "golduck",
+        "bulbapedia": "Golduck"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

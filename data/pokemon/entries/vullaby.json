@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VULLABY",
+        "veekunDb": "vullaby",
+        "showdownMarkup": "Vullaby",
+        "showdownData": "vullaby",
+        "serebii": "vullaby",
+        "bulbapedia": "Vullaby"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

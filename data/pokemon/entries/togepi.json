@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TOGEPI",
+        "veekunDb": "togepi",
+        "showdownMarkup": "Togepi",
+        "showdownData": "togepi",
+        "serebii": "togepi",
+        "bulbapedia": "Togepi"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

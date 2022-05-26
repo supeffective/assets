@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ALCREMIE_VANILLA_CREAM_STAR",
+        "veekunDb": "alcremie-vanilla-cream-star",
+        "showdownMarkup": "Alcremie-Vanilla-Cream-Star",
+        "showdownData": "alcremievanillacreamstar",
+        "serebii": "alcremie-vanilla-cream-star",
+        "bulbapedia": "Alcremie"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

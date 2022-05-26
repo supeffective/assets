@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ZARUDE_DADA",
+        "veekunDb": "zarude-dada",
+        "showdownMarkup": "Zarude-Dada",
+        "showdownData": "zarudedada",
+        "serebii": "zarude-dada",
+        "bulbapedia": "Zarude"
+    },
     "baseSpecies": "zarude",
     "baseForms": [],
     "forms": null,

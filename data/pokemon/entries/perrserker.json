@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PERRSERKER",
+        "veekunDb": "perrserker",
+        "showdownMarkup": "Perrserker",
+        "showdownData": "perrserker",
+        "serebii": "perrserker",
+        "bulbapedia": "Perrserker"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CARRACOSTA",
+        "veekunDb": "carracosta",
+        "showdownMarkup": "Carracosta",
+        "showdownData": "carracosta",
+        "serebii": "carracosta",
+        "bulbapedia": "Carracosta"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

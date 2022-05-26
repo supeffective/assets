@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GENESECT_DOUSE",
+        "veekunDb": "genesect-douse",
+        "showdownMarkup": "Genesect-Douse",
+        "showdownData": "genesectdouse",
+        "serebii": "genesect-douse",
+        "bulbapedia": "Genesect"
+    },
     "baseSpecies": "genesect",
     "baseForms": [
         "genesect"

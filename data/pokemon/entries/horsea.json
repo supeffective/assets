@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HORSEA",
+        "veekunDb": "horsea",
+        "showdownMarkup": "Horsea",
+        "showdownData": "horsea",
+        "serebii": "horsea",
+        "bulbapedia": "Horsea"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

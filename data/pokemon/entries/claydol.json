@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CLAYDOL",
+        "veekunDb": "claydol",
+        "showdownMarkup": "Claydol",
+        "showdownData": "claydol",
+        "serebii": "claydol",
+        "bulbapedia": "Claydol"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

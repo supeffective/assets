@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GOURGEIST_SMALL",
+        "veekunDb": "gourgeist-small",
+        "showdownMarkup": "Gourgeist-Small",
+        "showdownData": "gourgeistsmall",
+        "serebii": "gourgeist-small",
+        "bulbapedia": "Gourgeist"
+    },
     "baseSpecies": "gourgeist",
     "baseForms": [],
     "forms": null,

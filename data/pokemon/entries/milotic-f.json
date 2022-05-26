@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MILOTIC_F",
+        "veekunDb": "milotic-f",
+        "showdownMarkup": "Milotic-F",
+        "showdownData": "miloticf",
+        "serebii": "milotic-f",
+        "bulbapedia": "Milotic"
+    },
     "baseSpecies": "milotic",
     "baseForms": [],
     "forms": null,

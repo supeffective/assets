@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VENUSAUR_MEGA",
+        "veekunDb": "venusaur-mega",
+        "showdownMarkup": "Venusaur-Mega",
+        "showdownData": "venusaurmega",
+        "serebii": "venusaur-mega",
+        "bulbapedia": "Venusaur"
+    },
     "baseSpecies": "venusaur",
     "baseForms": [
         "venusaur",

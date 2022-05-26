@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "NIDORANF",
+        "veekunDb": "nidoranf",
+        "showdownMarkup": "Nidoranf",
+        "showdownData": "nidoranf",
+        "serebii": "nidoranf",
+        "bulbapedia": "Nidoran♀"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

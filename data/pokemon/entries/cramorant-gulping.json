@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CRAMORANT_GULPING",
+        "veekunDb": "cramorant-gulping",
+        "showdownMarkup": "Cramorant-Gulping",
+        "showdownData": "cramorantgulping",
+        "serebii": "cramorant-gulping",
+        "bulbapedia": "Cramorant"
+    },
     "baseSpecies": "cramorant",
     "baseForms": [
         "cramorant"

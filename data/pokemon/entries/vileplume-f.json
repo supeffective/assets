@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VILEPLUME_F",
+        "veekunDb": "vileplume-f",
+        "showdownMarkup": "Vileplume-F",
+        "showdownData": "vileplumef",
+        "serebii": "vileplume-f",
+        "bulbapedia": "Vileplume"
+    },
     "baseSpecies": "vileplume",
     "baseForms": [],
     "forms": null,

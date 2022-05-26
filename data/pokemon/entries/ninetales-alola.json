@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "NINETALES_ALOLA",
+        "veekunDb": "ninetales-alola",
+        "showdownMarkup": "Ninetales-Alola",
+        "showdownData": "ninetalesalola",
+        "serebii": "ninetales-alola",
+        "bulbapedia": "Ninetales"
+    },
     "baseSpecies": "ninetales",
     "baseForms": [],
     "forms": null,

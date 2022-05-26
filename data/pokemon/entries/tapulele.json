@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TAPULELE",
+        "veekunDb": "tapulele",
+        "showdownMarkup": "Tapulele",
+        "showdownData": "tapulele",
+        "serebii": "tapulele",
+        "bulbapedia": "Tapu Lele"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

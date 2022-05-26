@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LILLIPUP",
+        "veekunDb": "lillipup",
+        "showdownMarkup": "Lillipup",
+        "showdownData": "lillipup",
+        "serebii": "lillipup",
+        "bulbapedia": "Lillipup"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

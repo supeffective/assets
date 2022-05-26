@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ARCEUS_PSYCHIC",
+        "veekunDb": "arceus-psychic",
+        "showdownMarkup": "Arceus-Psychic",
+        "showdownData": "arceuspsychic",
+        "serebii": "arceus-psychic",
+        "bulbapedia": "Arceus"
+    },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"

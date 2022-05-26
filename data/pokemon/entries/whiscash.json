@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "WHISCASH",
+        "veekunDb": "whiscash",
+        "showdownMarkup": "Whiscash",
+        "showdownData": "whiscash",
+        "serebii": "whiscash",
+        "bulbapedia": "Whiscash"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

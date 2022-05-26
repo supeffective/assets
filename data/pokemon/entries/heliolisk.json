@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HELIOLISK",
+        "veekunDb": "heliolisk",
+        "showdownMarkup": "Heliolisk",
+        "showdownData": "heliolisk",
+        "serebii": "heliolisk",
+        "bulbapedia": "Heliolisk"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

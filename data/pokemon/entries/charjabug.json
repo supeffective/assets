@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CHARJABUG",
+        "veekunDb": "charjabug",
+        "showdownMarkup": "Charjabug",
+        "showdownData": "charjabug",
+        "serebii": "charjabug",
+        "bulbapedia": "Charjabug"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

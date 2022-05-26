@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "NIDOQUEEN",
+        "veekunDb": "nidoqueen",
+        "showdownMarkup": "Nidoqueen",
+        "showdownData": "nidoqueen",
+        "serebii": "nidoqueen",
+        "bulbapedia": "Nidoqueen"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

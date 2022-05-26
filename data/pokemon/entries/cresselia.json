@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CRESSELIA",
+        "veekunDb": "cresselia",
+        "showdownMarkup": "Cresselia",
+        "showdownData": "cresselia",
+        "serebii": "cresselia",
+        "bulbapedia": "Cresselia"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

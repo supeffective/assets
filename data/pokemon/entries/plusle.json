@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PLUSLE",
+        "veekunDb": "plusle",
+        "showdownMarkup": "Plusle",
+        "showdownData": "plusle",
+        "serebii": "plusle",
+        "bulbapedia": "Plusle"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

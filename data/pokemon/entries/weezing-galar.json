@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "WEEZING_GALAR",
+        "veekunDb": "weezing-galar",
+        "showdownMarkup": "Weezing-Galar",
+        "showdownData": "weezinggalar",
+        "serebii": "weezing-galar",
+        "bulbapedia": "Weezing"
+    },
     "baseSpecies": "weezing",
     "baseForms": [],
     "forms": null,

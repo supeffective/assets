@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TENTACRUEL",
+        "veekunDb": "tentacruel",
+        "showdownMarkup": "Tentacruel",
+        "showdownData": "tentacruel",
+        "serebii": "tentacruel",
+        "bulbapedia": "Tentacruel"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

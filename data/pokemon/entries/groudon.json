@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GROUDON",
+        "veekunDb": "groudon",
+        "showdownMarkup": "Groudon",
+        "showdownData": "groudon",
+        "serebii": "groudon",
+        "bulbapedia": "Groudon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

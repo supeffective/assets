@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BRONZONG",
+        "veekunDb": "bronzong",
+        "showdownMarkup": "Bronzong",
+        "showdownData": "bronzong",
+        "serebii": "bronzong",
+        "bulbapedia": "Bronzong"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

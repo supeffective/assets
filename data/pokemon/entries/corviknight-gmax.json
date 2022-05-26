@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CORVIKNIGHT_GMAX",
+        "veekunDb": "corviknight-gmax",
+        "showdownMarkup": "Corviknight-Gmax",
+        "showdownData": "corviknightgmax",
+        "serebii": "corviknight-gmax",
+        "bulbapedia": "Corviknight"
+    },
     "baseSpecies": "corviknight",
     "baseForms": [
         "corviknight"

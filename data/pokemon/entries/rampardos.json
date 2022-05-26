@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "RAMPARDOS",
+        "veekunDb": "rampardos",
+        "showdownMarkup": "Rampardos",
+        "showdownData": "rampardos",
+        "serebii": "rampardos",
+        "bulbapedia": "Rampardos"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GOLISOPOD",
+        "veekunDb": "golisopod",
+        "showdownMarkup": "Golisopod",
+        "showdownData": "golisopod",
+        "serebii": "golisopod",
+        "bulbapedia": "Golisopod"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

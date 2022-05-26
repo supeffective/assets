@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SLAKING",
+        "veekunDb": "slaking",
+        "showdownMarkup": "Slaking",
+        "showdownData": "slaking",
+        "serebii": "slaking",
+        "bulbapedia": "Slaking"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

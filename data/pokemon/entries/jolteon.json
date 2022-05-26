@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "JOLTEON",
+        "veekunDb": "jolteon",
+        "showdownMarkup": "Jolteon",
+        "showdownData": "jolteon",
+        "serebii": "jolteon",
+        "bulbapedia": "Jolteon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "WOOPER_F",
+        "veekunDb": "wooper-f",
+        "showdownMarkup": "Wooper-F",
+        "showdownData": "wooperf",
+        "serebii": "wooper-f",
+        "bulbapedia": "Wooper"
+    },
     "baseSpecies": "wooper",
     "baseForms": [],
     "forms": null,

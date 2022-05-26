@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VIVILLON_SANDSTORM",
+        "veekunDb": "vivillon-sandstorm",
+        "showdownMarkup": "Vivillon-Sandstorm",
+        "showdownData": "vivillonsandstorm",
+        "serebii": "vivillon-sandstorm",
+        "bulbapedia": "Vivillon"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

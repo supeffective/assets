@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "AMAURA",
+        "veekunDb": "amaura",
+        "showdownMarkup": "Amaura",
+        "showdownData": "amaura",
+        "serebii": "amaura",
+        "bulbapedia": "Amaura"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

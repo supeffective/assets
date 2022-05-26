@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ROSERADE_F",
+        "veekunDb": "roserade-f",
+        "showdownMarkup": "Roserade-F",
+        "showdownData": "roseradef",
+        "serebii": "roserade-f",
+        "bulbapedia": "Roserade"
+    },
     "baseSpecies": "roserade",
     "baseForms": [],
     "forms": null,

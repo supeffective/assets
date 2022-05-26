@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ROTOM_HEAT",
+        "veekunDb": "rotom-heat",
+        "showdownMarkup": "Rotom-Heat",
+        "showdownData": "rotomheat",
+        "serebii": "rotom-heat",
+        "bulbapedia": "Rotom"
+    },
     "baseSpecies": "rotom",
     "baseForms": [
         "rotom"

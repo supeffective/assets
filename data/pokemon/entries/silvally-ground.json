@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SILVALLY_GROUND",
+        "veekunDb": "silvally-ground",
+        "showdownMarkup": "Silvally-Ground",
+        "showdownData": "silvallyground",
+        "serebii": "silvally-ground",
+        "bulbapedia": "Silvally"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

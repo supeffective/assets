@@ -74,6 +74,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "NECROZMA_ULTRA",
+        "veekunDb": "necrozma-ultra",
+        "showdownMarkup": "Necrozma-Ultra",
+        "showdownData": "necrozmaultra",
+        "serebii": "necrozma-ultra",
+        "bulbapedia": "Necrozma"
+    },
     "baseSpecies": "necrozma",
     "baseForms": [
         "necrozma-dusk-mane",

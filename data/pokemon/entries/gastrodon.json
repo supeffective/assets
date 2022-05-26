@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GASTRODON",
+        "veekunDb": "gastrodon",
+        "showdownMarkup": "Gastrodon",
+        "showdownData": "gastrodon",
+        "serebii": "gastrodon",
+        "bulbapedia": "Gastrodon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

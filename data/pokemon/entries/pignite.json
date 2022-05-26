@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PIGNITE",
+        "veekunDb": "pignite",
+        "showdownMarkup": "Pignite",
+        "showdownData": "pignite",
+        "serebii": "pignite",
+        "bulbapedia": "Pignite"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

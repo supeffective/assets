@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SNOM",
+        "veekunDb": "snom",
+        "showdownMarkup": "Snom",
+        "showdownData": "snom",
+        "serebii": "snom",
+        "bulbapedia": "Snom"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MIENFOO",
+        "veekunDb": "mienfoo",
+        "showdownMarkup": "Mienfoo",
+        "showdownData": "mienfoo",
+        "serebii": "mienfoo",
+        "bulbapedia": "Mienfoo"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

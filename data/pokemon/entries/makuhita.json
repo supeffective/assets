@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MAKUHITA",
+        "veekunDb": "makuhita",
+        "showdownMarkup": "Makuhita",
+        "showdownData": "makuhita",
+        "serebii": "makuhita",
+        "bulbapedia": "Makuhita"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

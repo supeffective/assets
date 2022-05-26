@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CHIMECHO",
+        "veekunDb": "chimecho",
+        "showdownMarkup": "Chimecho",
+        "showdownData": "chimecho",
+        "serebii": "chimecho",
+        "bulbapedia": "Chimecho"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

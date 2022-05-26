@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SCEPTILE_MEGA",
+        "veekunDb": "sceptile-mega",
+        "showdownMarkup": "Sceptile-Mega",
+        "showdownData": "sceptilemega",
+        "serebii": "sceptile-mega",
+        "bulbapedia": "Sceptile"
+    },
     "baseSpecies": "sceptile",
     "baseForms": [
         "sceptile"

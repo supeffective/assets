@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ALCREMIE_SALTED_CREAM_FLOWER",
+        "veekunDb": "alcremie-salted-cream-flower",
+        "showdownMarkup": "Alcremie-Salted-Cream-Flower",
+        "showdownData": "alcremiesaltedcreamflower",
+        "serebii": "alcremie-salted-cream-flower",
+        "bulbapedia": "Alcremie"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

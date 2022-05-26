@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VIVILLON_ELEGANT",
+        "veekunDb": "vivillon-elegant",
+        "showdownMarkup": "Vivillon-Elegant",
+        "showdownData": "vivillonelegant",
+        "serebii": "vivillon-elegant",
+        "bulbapedia": "Vivillon"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

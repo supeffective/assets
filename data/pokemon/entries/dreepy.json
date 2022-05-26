@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DREEPY",
+        "veekunDb": "dreepy",
+        "showdownMarkup": "Dreepy",
+        "showdownData": "dreepy",
+        "serebii": "dreepy",
+        "bulbapedia": "Dreepy"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

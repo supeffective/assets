@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SHAYMIN",
+        "veekunDb": "shaymin",
+        "showdownMarkup": "Shaymin",
+        "showdownData": "shaymin",
+        "serebii": "shaymin",
+        "bulbapedia": "Shaymin"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

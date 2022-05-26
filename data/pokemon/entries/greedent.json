@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GREEDENT",
+        "veekunDb": "greedent",
+        "showdownMarkup": "Greedent",
+        "showdownData": "greedent",
+        "serebii": "greedent",
+        "bulbapedia": "Greedent"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

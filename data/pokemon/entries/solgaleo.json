@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SOLGALEO",
+        "veekunDb": "solgaleo",
+        "showdownMarkup": "Solgaleo",
+        "showdownData": "solgaleo",
+        "serebii": "solgaleo",
+        "bulbapedia": "Solgaleo"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

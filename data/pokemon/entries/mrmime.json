@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MRMIME",
+        "veekunDb": "mrmime",
+        "showdownMarkup": "Mrmime",
+        "showdownData": "mrmime",
+        "serebii": "mrmime",
+        "bulbapedia": "Mr. Mime"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BLAZIKEN_MEGA",
+        "veekunDb": "blaziken-mega",
+        "showdownMarkup": "Blaziken-Mega",
+        "showdownData": "blazikenmega",
+        "serebii": "blaziken-mega",
+        "bulbapedia": "Blaziken"
+    },
     "baseSpecies": "blaziken",
     "baseForms": [
         "blaziken"

@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SILVALLY_DRAGON",
+        "veekunDb": "silvally-dragon",
+        "showdownMarkup": "Silvally-Dragon",
+        "showdownData": "silvallydragon",
+        "serebii": "silvally-dragon",
+        "bulbapedia": "Silvally"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

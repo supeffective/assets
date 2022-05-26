@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ARROKUDA",
+        "veekunDb": "arrokuda",
+        "showdownMarkup": "Arrokuda",
+        "showdownData": "arrokuda",
+        "serebii": "arrokuda",
+        "bulbapedia": "Arrokuda"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

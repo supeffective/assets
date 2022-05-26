@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SEAKING",
+        "veekunDb": "seaking",
+        "showdownMarkup": "Seaking",
+        "showdownData": "seaking",
+        "serebii": "seaking",
+        "bulbapedia": "Seaking"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

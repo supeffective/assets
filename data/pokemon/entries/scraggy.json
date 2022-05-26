@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SCRAGGY",
+        "veekunDb": "scraggy",
+        "showdownMarkup": "Scraggy",
+        "showdownData": "scraggy",
+        "serebii": "scraggy",
+        "bulbapedia": "Scraggy"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

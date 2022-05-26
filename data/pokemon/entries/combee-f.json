@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "COMBEE_F",
+        "veekunDb": "combee-f",
+        "showdownMarkup": "Combee-F",
+        "showdownData": "combeef",
+        "serebii": "combee-f",
+        "bulbapedia": "Combee"
+    },
     "baseSpecies": "combee",
     "baseForms": [],
     "forms": null,

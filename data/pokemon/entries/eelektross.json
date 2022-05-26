@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "EELEKTROSS",
+        "veekunDb": "eelektross",
+        "showdownMarkup": "Eelektross",
+        "showdownData": "eelektross",
+        "serebii": "eelektross",
+        "bulbapedia": "Eelektross"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

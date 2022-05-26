@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KROKOROK",
+        "veekunDb": "krokorok",
+        "showdownMarkup": "Krokorok",
+        "showdownData": "krokorok",
+        "serebii": "krokorok",
+        "bulbapedia": "Krokorok"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

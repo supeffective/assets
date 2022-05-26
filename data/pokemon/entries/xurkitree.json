@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "XURKITREE",
+        "veekunDb": "xurkitree",
+        "showdownMarkup": "Xurkitree",
+        "showdownData": "xurkitree",
+        "serebii": "xurkitree",
+        "bulbapedia": "Xurkitree"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HERACROSS",
+        "veekunDb": "heracross",
+        "showdownMarkup": "Heracross",
+        "showdownData": "heracross",
+        "serebii": "heracross",
+        "bulbapedia": "Heracross"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

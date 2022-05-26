@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ONIX",
+        "veekunDb": "onix",
+        "showdownMarkup": "Onix",
+        "showdownData": "onix",
+        "serebii": "onix",
+        "bulbapedia": "Onix"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

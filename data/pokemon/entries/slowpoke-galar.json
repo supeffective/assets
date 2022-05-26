@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SLOWPOKE_GALAR",
+        "veekunDb": "slowpoke-galar",
+        "showdownMarkup": "Slowpoke-Galar",
+        "showdownData": "slowpokegalar",
+        "serebii": "slowpoke-galar",
+        "bulbapedia": "Slowpoke"
+    },
     "baseSpecies": "slowpoke",
     "baseForms": [],
     "forms": null,

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KARTANA",
+        "veekunDb": "kartana",
+        "showdownMarkup": "Kartana",
+        "showdownData": "kartana",
+        "serebii": "kartana",
+        "bulbapedia": "Kartana"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

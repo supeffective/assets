@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KUBFU",
+        "veekunDb": "kubfu",
+        "showdownMarkup": "Kubfu",
+        "showdownData": "kubfu",
+        "serebii": "kubfu",
+        "bulbapedia": "Kubfu"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

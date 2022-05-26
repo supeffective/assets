@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SPEAROW",
+        "veekunDb": "spearow",
+        "showdownMarkup": "Spearow",
+        "showdownData": "spearow",
+        "serebii": "spearow",
+        "bulbapedia": "Spearow"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

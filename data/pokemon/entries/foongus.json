@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FOONGUS",
+        "veekunDb": "foongus",
+        "showdownMarkup": "Foongus",
+        "showdownData": "foongus",
+        "serebii": "foongus",
+        "bulbapedia": "Foongus"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

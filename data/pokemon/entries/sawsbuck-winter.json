@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SAWSBUCK_WINTER",
+        "veekunDb": "sawsbuck-winter",
+        "showdownMarkup": "Sawsbuck-Winter",
+        "showdownData": "sawsbuckwinter",
+        "serebii": "sawsbuck-winter",
+        "bulbapedia": "Sawsbuck"
+    },
     "baseSpecies": "sawsbuck",
     "baseForms": [],
     "forms": null,

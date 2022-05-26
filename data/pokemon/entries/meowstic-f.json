@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MEOWSTIC_F",
+        "veekunDb": "meowstic-f",
+        "showdownMarkup": "Meowstic-F",
+        "showdownData": "meowsticf",
+        "serebii": "meowstic-f",
+        "bulbapedia": "Meowstic"
+    },
     "baseSpecies": "meowstic",
     "baseForms": [],
     "forms": null,

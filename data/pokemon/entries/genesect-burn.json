@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GENESECT_BURN",
+        "veekunDb": "genesect-burn",
+        "showdownMarkup": "Genesect-Burn",
+        "showdownData": "genesectburn",
+        "serebii": "genesect-burn",
+        "bulbapedia": "Genesect"
+    },
     "baseSpecies": "genesect",
     "baseForms": [
         "genesect"

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FLABEBE_ORANGE",
+        "veekunDb": "flabebe-orange",
+        "showdownMarkup": "Flabebe-Orange",
+        "showdownData": "flabebeorange",
+        "serebii": "flabebe-orange",
+        "bulbapedia": "Flabebe"
+    },
     "baseSpecies": "flabebe",
     "baseForms": [],
     "forms": null,

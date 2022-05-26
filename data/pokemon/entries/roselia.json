@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ROSELIA",
+        "veekunDb": "roselia",
+        "showdownMarkup": "Roselia",
+        "showdownData": "roselia",
+        "serebii": "roselia",
+        "bulbapedia": "Roselia"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

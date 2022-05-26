@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HAUNTER",
+        "veekunDb": "haunter",
+        "showdownMarkup": "Haunter",
+        "showdownData": "haunter",
+        "serebii": "haunter",
+        "bulbapedia": "Haunter"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

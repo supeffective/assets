@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ZORUA",
+        "veekunDb": "zorua",
+        "showdownMarkup": "Zorua",
+        "showdownData": "zorua",
+        "serebii": "zorua",
+        "bulbapedia": "Zorua"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

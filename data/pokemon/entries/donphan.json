@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DONPHAN",
+        "veekunDb": "donphan",
+        "showdownMarkup": "Donphan",
+        "showdownData": "donphan",
+        "serebii": "donphan",
+        "bulbapedia": "Donphan"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BARBARACLE",
+        "veekunDb": "barbaracle",
+        "showdownMarkup": "Barbaracle",
+        "showdownData": "barbaracle",
+        "serebii": "barbaracle",
+        "bulbapedia": "Barbaracle"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LANTURN",
+        "veekunDb": "lanturn",
+        "showdownMarkup": "Lanturn",
+        "showdownData": "lanturn",
+        "serebii": "lanturn",
+        "bulbapedia": "Lanturn"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

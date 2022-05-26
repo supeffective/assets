@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FRAXURE",
+        "veekunDb": "fraxure",
+        "showdownMarkup": "Fraxure",
+        "showdownData": "fraxure",
+        "serebii": "fraxure",
+        "bulbapedia": "Fraxure"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

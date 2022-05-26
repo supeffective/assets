@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CUFANT",
+        "veekunDb": "cufant",
+        "showdownMarkup": "Cufant",
+        "showdownData": "cufant",
+        "serebii": "cufant",
+        "bulbapedia": "Cufant"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

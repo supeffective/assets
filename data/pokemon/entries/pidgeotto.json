@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PIDGEOTTO",
+        "veekunDb": "pidgeotto",
+        "showdownMarkup": "Pidgeotto",
+        "showdownData": "pidgeotto",
+        "serebii": "pidgeotto",
+        "bulbapedia": "Pidgeotto"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

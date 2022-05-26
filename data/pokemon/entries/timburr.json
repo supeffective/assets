@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TIMBURR",
+        "veekunDb": "timburr",
+        "showdownMarkup": "Timburr",
+        "showdownData": "timburr",
+        "serebii": "timburr",
+        "bulbapedia": "Timburr"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

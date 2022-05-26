@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DUSTOX_F",
+        "veekunDb": "dustox-f",
+        "showdownMarkup": "Dustox-F",
+        "showdownData": "dustoxf",
+        "serebii": "dustox-f",
+        "bulbapedia": "Dustox"
+    },
     "baseSpecies": "dustox",
     "baseForms": [],
     "forms": null,

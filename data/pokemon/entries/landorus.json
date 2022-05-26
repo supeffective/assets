@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LANDORUS",
+        "veekunDb": "landorus",
+        "showdownMarkup": "Landorus",
+        "showdownData": "landorus",
+        "serebii": "landorus",
+        "bulbapedia": "Landorus"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

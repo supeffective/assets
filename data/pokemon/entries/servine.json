@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SERVINE",
+        "veekunDb": "servine",
+        "showdownMarkup": "Servine",
+        "showdownData": "servine",
+        "serebii": "servine",
+        "bulbapedia": "Servine"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

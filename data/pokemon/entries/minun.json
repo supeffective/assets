@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MINUN",
+        "veekunDb": "minun",
+        "showdownMarkup": "Minun",
+        "showdownData": "minun",
+        "serebii": "minun",
+        "bulbapedia": "Minun"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

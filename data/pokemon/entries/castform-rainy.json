@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CASTFORM_RAINY",
+        "veekunDb": "castform-rainy",
+        "showdownMarkup": "Castform-Rainy",
+        "showdownData": "castformrainy",
+        "serebii": "castform-rainy",
+        "bulbapedia": "Castform"
+    },
     "baseSpecies": "castform",
     "baseForms": [
         "castform"

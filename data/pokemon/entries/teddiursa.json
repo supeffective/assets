@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TEDDIURSA",
+        "veekunDb": "teddiursa",
+        "showdownMarkup": "Teddiursa",
+        "showdownData": "teddiursa",
+        "serebii": "teddiursa",
+        "bulbapedia": "Teddiursa"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

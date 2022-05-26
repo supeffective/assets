@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CONKELDURR",
+        "veekunDb": "conkeldurr",
+        "showdownMarkup": "Conkeldurr",
+        "showdownData": "conkeldurr",
+        "serebii": "conkeldurr",
+        "bulbapedia": "Conkeldurr"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

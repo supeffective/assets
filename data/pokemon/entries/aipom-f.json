@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "AIPOM_F",
+        "veekunDb": "aipom-f",
+        "showdownMarkup": "Aipom-F",
+        "showdownData": "aipomf",
+        "serebii": "aipom-f",
+        "bulbapedia": "Aipom"
+    },
     "baseSpecies": "aipom",
     "baseForms": [],
     "forms": null,

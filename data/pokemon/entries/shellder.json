@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SHELLDER",
+        "veekunDb": "shellder",
+        "showdownMarkup": "Shellder",
+        "showdownData": "shellder",
+        "serebii": "shellder",
+        "bulbapedia": "Shellder"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

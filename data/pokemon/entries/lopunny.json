@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LOPUNNY",
+        "veekunDb": "lopunny",
+        "showdownMarkup": "Lopunny",
+        "showdownData": "lopunny",
+        "serebii": "lopunny",
+        "bulbapedia": "Lopunny"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

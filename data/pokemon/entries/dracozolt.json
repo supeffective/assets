@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DRACOZOLT",
+        "veekunDb": "dracozolt",
+        "showdownMarkup": "Dracozolt",
+        "showdownData": "dracozolt",
+        "serebii": "dracozolt",
+        "bulbapedia": "Dracozolt"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

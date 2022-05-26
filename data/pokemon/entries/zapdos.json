@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ZAPDOS",
+        "veekunDb": "zapdos",
+        "showdownMarkup": "Zapdos",
+        "showdownData": "zapdos",
+        "serebii": "zapdos",
+        "bulbapedia": "Zapdos"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

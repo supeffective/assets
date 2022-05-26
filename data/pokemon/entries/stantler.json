@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "STANTLER",
+        "veekunDb": "stantler",
+        "showdownMarkup": "Stantler",
+        "showdownData": "stantler",
+        "serebii": "stantler",
+        "bulbapedia": "Stantler"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

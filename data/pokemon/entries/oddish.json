@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ODDISH",
+        "veekunDb": "oddish",
+        "showdownMarkup": "Oddish",
+        "showdownData": "oddish",
+        "serebii": "oddish",
+        "bulbapedia": "Oddish"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

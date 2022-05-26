@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "POLIWHIRL",
+        "veekunDb": "poliwhirl",
+        "showdownMarkup": "Poliwhirl",
+        "showdownData": "poliwhirl",
+        "serebii": "poliwhirl",
+        "bulbapedia": "Poliwhirl"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

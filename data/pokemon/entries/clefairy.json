@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CLEFAIRY",
+        "veekunDb": "clefairy",
+        "showdownMarkup": "Clefairy",
+        "showdownData": "clefairy",
+        "serebii": "clefairy",
+        "bulbapedia": "Clefairy"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

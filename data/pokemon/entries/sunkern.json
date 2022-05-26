@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SUNKERN",
+        "veekunDb": "sunkern",
+        "showdownMarkup": "Sunkern",
+        "showdownData": "sunkern",
+        "serebii": "sunkern",
+        "bulbapedia": "Sunkern"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

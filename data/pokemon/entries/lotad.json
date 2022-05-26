@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LOTAD",
+        "veekunDb": "lotad",
+        "showdownMarkup": "Lotad",
+        "showdownData": "lotad",
+        "serebii": "lotad",
+        "bulbapedia": "Lotad"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

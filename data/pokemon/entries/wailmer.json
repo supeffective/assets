@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "WAILMER",
+        "veekunDb": "wailmer",
+        "showdownMarkup": "Wailmer",
+        "showdownData": "wailmer",
+        "serebii": "wailmer",
+        "bulbapedia": "Wailmer"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GROOKEY",
+        "veekunDb": "grookey",
+        "showdownMarkup": "Grookey",
+        "showdownData": "grookey",
+        "serebii": "grookey",
+        "bulbapedia": "Grookey"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

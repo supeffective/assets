@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CASTFORM_SNOWY",
+        "veekunDb": "castform-snowy",
+        "showdownMarkup": "Castform-Snowy",
+        "showdownData": "castformsnowy",
+        "serebii": "castform-snowy",
+        "bulbapedia": "Castform"
+    },
     "baseSpecies": "castform",
     "baseForms": [
         "castform"

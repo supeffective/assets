@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HAPPINY",
+        "veekunDb": "happiny",
+        "showdownMarkup": "Happiny",
+        "showdownData": "happiny",
+        "serebii": "happiny",
+        "bulbapedia": "Happiny"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

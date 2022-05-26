@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MARACTUS",
+        "veekunDb": "maractus",
+        "showdownMarkup": "Maractus",
+        "showdownData": "maractus",
+        "serebii": "maractus",
+        "bulbapedia": "Maractus"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

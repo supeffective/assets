@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DARMANITAN",
+        "veekunDb": "darmanitan",
+        "showdownMarkup": "Darmanitan",
+        "showdownData": "darmanitan",
+        "serebii": "darmanitan",
+        "bulbapedia": "Darmanitan"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

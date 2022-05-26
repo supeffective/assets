@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ANORITH",
+        "veekunDb": "anorith",
+        "showdownMarkup": "Anorith",
+        "showdownData": "anorith",
+        "serebii": "anorith",
+        "bulbapedia": "Anorith"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

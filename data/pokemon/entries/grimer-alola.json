@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GRIMER_ALOLA",
+        "veekunDb": "grimer-alola",
+        "showdownMarkup": "Grimer-Alola",
+        "showdownData": "grimeralola",
+        "serebii": "grimer-alola",
+        "bulbapedia": "Grimer"
+    },
     "baseSpecies": "grimer",
     "baseForms": [],
     "forms": null,

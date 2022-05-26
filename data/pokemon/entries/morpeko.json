@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MORPEKO",
+        "veekunDb": "morpeko",
+        "showdownMarkup": "Morpeko",
+        "showdownData": "morpeko",
+        "serebii": "morpeko",
+        "bulbapedia": "Morpeko"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

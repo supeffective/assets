@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ARCEUS_FIGHTING",
+        "veekunDb": "arceus-fighting",
+        "showdownMarkup": "Arceus-Fighting",
+        "showdownData": "arceusfighting",
+        "serebii": "arceus-fighting",
+        "bulbapedia": "Arceus"
+    },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"

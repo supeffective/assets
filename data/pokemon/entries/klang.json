@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KLANG",
+        "veekunDb": "klang",
+        "showdownMarkup": "Klang",
+        "showdownData": "klang",
+        "serebii": "klang",
+        "bulbapedia": "Klang"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

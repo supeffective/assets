@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GOODRA",
+        "veekunDb": "goodra",
+        "showdownMarkup": "Goodra",
+        "showdownData": "goodra",
+        "serebii": "goodra",
+        "bulbapedia": "Goodra"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

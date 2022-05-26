@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HIPPOPOTAS_F",
+        "veekunDb": "hippopotas-f",
+        "showdownMarkup": "Hippopotas-F",
+        "showdownData": "hippopotasf",
+        "serebii": "hippopotas-f",
+        "bulbapedia": "Hippopotas"
+    },
     "baseSpecies": "hippopotas",
     "baseForms": [],
     "forms": null,

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SPECTRIER",
+        "veekunDb": "spectrier",
+        "showdownMarkup": "Spectrier",
+        "showdownData": "spectrier",
+        "serebii": "spectrier",
+        "bulbapedia": "Spectrier"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

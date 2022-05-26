@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CINDERACE_GMAX",
+        "veekunDb": "cinderace-gmax",
+        "showdownMarkup": "Cinderace-Gmax",
+        "showdownData": "cinderacegmax",
+        "serebii": "cinderace-gmax",
+        "bulbapedia": "Cinderace"
+    },
     "baseSpecies": "cinderace",
     "baseForms": [
         "cinderace"

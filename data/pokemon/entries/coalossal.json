@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "COALOSSAL",
+        "veekunDb": "coalossal",
+        "showdownMarkup": "Coalossal",
+        "showdownData": "coalossal",
+        "serebii": "coalossal",
+        "bulbapedia": "Coalossal"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

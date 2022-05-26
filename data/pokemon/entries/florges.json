@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FLORGES",
+        "veekunDb": "florges",
+        "showdownMarkup": "Florges",
+        "showdownData": "florges",
+        "serebii": "florges",
+        "bulbapedia": "Florges"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

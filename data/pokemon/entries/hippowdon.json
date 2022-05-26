@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HIPPOWDON",
+        "veekunDb": "hippowdon",
+        "showdownMarkup": "Hippowdon",
+        "showdownData": "hippowdon",
+        "serebii": "hippowdon",
+        "bulbapedia": "Hippowdon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

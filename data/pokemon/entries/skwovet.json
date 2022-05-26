@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SKWOVET",
+        "veekunDb": "skwovet",
+        "showdownMarkup": "Skwovet",
+        "showdownData": "skwovet",
+        "serebii": "skwovet",
+        "bulbapedia": "Skwovet"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

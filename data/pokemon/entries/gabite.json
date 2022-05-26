@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GABITE",
+        "veekunDb": "gabite",
+        "showdownMarkup": "Gabite",
+        "showdownData": "gabite",
+        "serebii": "gabite",
+        "bulbapedia": "Gabite"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

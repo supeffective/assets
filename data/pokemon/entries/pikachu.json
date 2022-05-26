@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PIKACHU",
+        "veekunDb": "pikachu",
+        "showdownMarkup": "Pikachu",
+        "showdownData": "pikachu",
+        "serebii": "pikachu",
+        "bulbapedia": "Pikachu"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

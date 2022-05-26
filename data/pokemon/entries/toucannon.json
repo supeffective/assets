@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TOUCANNON",
+        "veekunDb": "toucannon",
+        "showdownMarkup": "Toucannon",
+        "showdownData": "toucannon",
+        "serebii": "toucannon",
+        "bulbapedia": "Toucannon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

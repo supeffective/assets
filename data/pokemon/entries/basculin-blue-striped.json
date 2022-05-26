@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BASCULIN_BLUE_STRIPED",
+        "veekunDb": "basculin-blue-striped",
+        "showdownMarkup": "Basculin-Blue-Striped",
+        "showdownData": "basculinbluestriped",
+        "serebii": "basculin-blue-striped",
+        "bulbapedia": "Basculin"
+    },
     "baseSpecies": "basculin",
     "baseForms": [],
     "forms": null,

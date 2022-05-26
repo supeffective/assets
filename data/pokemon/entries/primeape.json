@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PRIMEAPE",
+        "veekunDb": "primeape",
+        "showdownMarkup": "Primeape",
+        "showdownData": "primeape",
+        "serebii": "primeape",
+        "bulbapedia": "Primeape"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

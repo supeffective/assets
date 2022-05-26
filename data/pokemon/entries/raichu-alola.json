@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "RAICHU_ALOLA",
+        "veekunDb": "raichu-alola",
+        "showdownMarkup": "Raichu-Alola",
+        "showdownData": "raichualola",
+        "serebii": "raichu-alola",
+        "bulbapedia": "Raichu"
+    },
     "baseSpecies": "raichu",
     "baseForms": [],
     "forms": null,

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SHELLOS_EAST",
+        "veekunDb": "shellos-east",
+        "showdownMarkup": "Shellos-East",
+        "showdownData": "shelloseast",
+        "serebii": "shellos-east",
+        "bulbapedia": "Shellos"
+    },
     "baseSpecies": "shellos",
     "baseForms": [],
     "forms": null,

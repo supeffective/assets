@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PERSIAN_ALOLA",
+        "veekunDb": "persian-alola",
+        "showdownMarkup": "Persian-Alola",
+        "showdownData": "persianalola",
+        "serebii": "persian-alola",
+        "bulbapedia": "Persian"
+    },
     "baseSpecies": "persian",
     "baseForms": [],
     "forms": null,

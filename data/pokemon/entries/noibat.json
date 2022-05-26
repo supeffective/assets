@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "NOIBAT",
+        "veekunDb": "noibat",
+        "showdownMarkup": "Noibat",
+        "showdownData": "noibat",
+        "serebii": "noibat",
+        "bulbapedia": "Noibat"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DRATINI",
+        "veekunDb": "dratini",
+        "showdownMarkup": "Dratini",
+        "showdownData": "dratini",
+        "serebii": "dratini",
+        "bulbapedia": "Dratini"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

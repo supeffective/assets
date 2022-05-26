@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ZANGOOSE",
+        "veekunDb": "zangoose",
+        "showdownMarkup": "Zangoose",
+        "showdownData": "zangoose",
+        "serebii": "zangoose",
+        "bulbapedia": "Zangoose"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

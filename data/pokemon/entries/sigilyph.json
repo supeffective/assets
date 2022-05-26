@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SIGILYPH",
+        "veekunDb": "sigilyph",
+        "showdownMarkup": "Sigilyph",
+        "showdownData": "sigilyph",
+        "serebii": "sigilyph",
+        "bulbapedia": "Sigilyph"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

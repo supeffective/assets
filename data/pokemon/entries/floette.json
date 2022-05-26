@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FLOETTE",
+        "veekunDb": "floette",
+        "showdownMarkup": "Floette",
+        "showdownData": "floette",
+        "serebii": "floette",
+        "bulbapedia": "Floette"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

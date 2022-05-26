@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DUGTRIO_ALOLA",
+        "veekunDb": "dugtrio-alola",
+        "showdownMarkup": "Dugtrio-Alola",
+        "showdownData": "dugtrioalola",
+        "serebii": "dugtrio-alola",
+        "bulbapedia": "Dugtrio"
+    },
     "baseSpecies": "dugtrio",
     "baseForms": [],
     "forms": null,

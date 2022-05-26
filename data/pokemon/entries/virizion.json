@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VIRIZION",
+        "veekunDb": "virizion",
+        "showdownMarkup": "Virizion",
+        "showdownData": "virizion",
+        "serebii": "virizion",
+        "bulbapedia": "Virizion"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

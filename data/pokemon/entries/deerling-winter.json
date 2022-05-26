@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DEERLING_WINTER",
+        "veekunDb": "deerling-winter",
+        "showdownMarkup": "Deerling-Winter",
+        "showdownData": "deerlingwinter",
+        "serebii": "deerling-winter",
+        "bulbapedia": "Deerling"
+    },
     "baseSpecies": "deerling",
     "baseForms": [],
     "forms": null,

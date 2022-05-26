@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SHEDINJA",
+        "veekunDb": "shedinja",
+        "showdownMarkup": "Shedinja",
+        "showdownData": "shedinja",
+        "serebii": "shedinja",
+        "bulbapedia": "Shedinja"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

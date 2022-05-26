@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MALAMAR",
+        "veekunDb": "malamar",
+        "showdownMarkup": "Malamar",
+        "showdownData": "malamar",
+        "serebii": "malamar",
+        "bulbapedia": "Malamar"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

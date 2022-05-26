@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CARKOL",
+        "veekunDb": "carkol",
+        "showdownMarkup": "Carkol",
+        "showdownData": "carkol",
+        "serebii": "carkol",
+        "bulbapedia": "Carkol"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FRILLISH",
+        "veekunDb": "frillish",
+        "showdownMarkup": "Frillish",
+        "showdownData": "frillish",
+        "serebii": "frillish",
+        "bulbapedia": "Frillish"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LARVESTA",
+        "veekunDb": "larvesta",
+        "showdownMarkup": "Larvesta",
+        "showdownData": "larvesta",
+        "serebii": "larvesta",
+        "bulbapedia": "Larvesta"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

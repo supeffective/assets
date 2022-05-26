@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CARVANHA",
+        "veekunDb": "carvanha",
+        "showdownMarkup": "Carvanha",
+        "showdownData": "carvanha",
+        "serebii": "carvanha",
+        "bulbapedia": "Carvanha"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

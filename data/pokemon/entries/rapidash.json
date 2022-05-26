@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "RAPIDASH",
+        "veekunDb": "rapidash",
+        "showdownMarkup": "Rapidash",
+        "showdownData": "rapidash",
+        "serebii": "rapidash",
+        "bulbapedia": "Rapidash"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "POOCHYENA",
+        "veekunDb": "poochyena",
+        "showdownMarkup": "Poochyena",
+        "showdownData": "poochyena",
+        "serebii": "poochyena",
+        "bulbapedia": "Poochyena"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

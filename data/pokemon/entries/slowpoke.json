@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SLOWPOKE",
+        "veekunDb": "slowpoke",
+        "showdownMarkup": "Slowpoke",
+        "showdownData": "slowpoke",
+        "serebii": "slowpoke",
+        "bulbapedia": "Slowpoke"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

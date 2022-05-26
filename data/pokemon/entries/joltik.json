@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "JOLTIK",
+        "veekunDb": "joltik",
+        "showdownMarkup": "Joltik",
+        "showdownData": "joltik",
+        "serebii": "joltik",
+        "bulbapedia": "Joltik"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

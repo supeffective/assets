@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ZWEILOUS",
+        "veekunDb": "zweilous",
+        "showdownMarkup": "Zweilous",
+        "showdownData": "zweilous",
+        "serebii": "zweilous",
+        "bulbapedia": "Zweilous"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

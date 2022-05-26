@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SWELLOW",
+        "veekunDb": "swellow",
+        "showdownMarkup": "Swellow",
+        "showdownData": "swellow",
+        "serebii": "swellow",
+        "bulbapedia": "Swellow"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

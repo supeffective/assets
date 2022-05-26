@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GYARADOS_MEGA",
+        "veekunDb": "gyarados-mega",
+        "showdownMarkup": "Gyarados-Mega",
+        "showdownData": "gyaradosmega",
+        "serebii": "gyarados-mega",
+        "bulbapedia": "Gyarados"
+    },
     "baseSpecies": "gyarados",
     "baseForms": [
         "gyarados"

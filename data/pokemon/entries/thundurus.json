@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "THUNDURUS",
+        "veekunDb": "thundurus",
+        "showdownMarkup": "Thundurus",
+        "showdownData": "thundurus",
+        "serebii": "thundurus",
+        "bulbapedia": "Thundurus"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

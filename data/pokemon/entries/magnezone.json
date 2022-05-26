@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MAGNEZONE",
+        "veekunDb": "magnezone",
+        "showdownMarkup": "Magnezone",
+        "showdownData": "magnezone",
+        "serebii": "magnezone",
+        "bulbapedia": "Magnezone"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HITMONCHAN",
+        "veekunDb": "hitmonchan",
+        "showdownMarkup": "Hitmonchan",
+        "showdownData": "hitmonchan",
+        "serebii": "hitmonchan",
+        "bulbapedia": "Hitmonchan"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

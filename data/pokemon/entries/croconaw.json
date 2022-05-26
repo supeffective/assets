@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CROCONAW",
+        "veekunDb": "croconaw",
+        "showdownMarkup": "Croconaw",
+        "showdownData": "croconaw",
+        "serebii": "croconaw",
+        "bulbapedia": "Croconaw"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

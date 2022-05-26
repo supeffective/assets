@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CROAGUNK_F",
+        "veekunDb": "croagunk-f",
+        "showdownMarkup": "Croagunk-F",
+        "showdownData": "croagunkf",
+        "serebii": "croagunk-f",
+        "bulbapedia": "Croagunk"
+    },
     "baseSpecies": "croagunk",
     "baseForms": [],
     "forms": null,

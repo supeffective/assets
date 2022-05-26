@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BUZZWOLE",
+        "veekunDb": "buzzwole",
+        "showdownMarkup": "Buzzwole",
+        "showdownData": "buzzwole",
+        "serebii": "buzzwole",
+        "bulbapedia": "Buzzwole"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

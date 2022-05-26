@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MAGNEMITE",
+        "veekunDb": "magnemite",
+        "showdownMarkup": "Magnemite",
+        "showdownData": "magnemite",
+        "serebii": "magnemite",
+        "bulbapedia": "Magnemite"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

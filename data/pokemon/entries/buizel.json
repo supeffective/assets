@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BUIZEL",
+        "veekunDb": "buizel",
+        "showdownMarkup": "Buizel",
+        "showdownData": "buizel",
+        "serebii": "buizel",
+        "bulbapedia": "Buizel"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

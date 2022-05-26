@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TYRANITAR_MEGA",
+        "veekunDb": "tyranitar-mega",
+        "showdownMarkup": "Tyranitar-Mega",
+        "showdownData": "tyranitarmega",
+        "serebii": "tyranitar-mega",
+        "bulbapedia": "Tyranitar"
+    },
     "baseSpecies": "tyranitar",
     "baseForms": [
         "tyranitar"

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "YANMEGA",
+        "veekunDb": "yanmega",
+        "showdownMarkup": "Yanmega",
+        "showdownData": "yanmega",
+        "serebii": "yanmega",
+        "bulbapedia": "Yanmega"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

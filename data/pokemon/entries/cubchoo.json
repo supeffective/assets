@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CUBCHOO",
+        "veekunDb": "cubchoo",
+        "showdownMarkup": "Cubchoo",
+        "showdownData": "cubchoo",
+        "serebii": "cubchoo",
+        "bulbapedia": "Cubchoo"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

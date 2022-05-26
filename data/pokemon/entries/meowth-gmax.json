@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MEOWTH_GMAX",
+        "veekunDb": "meowth-gmax",
+        "showdownMarkup": "Meowth-Gmax",
+        "showdownData": "meowthgmax",
+        "serebii": "meowth-gmax",
+        "bulbapedia": "Meowth"
+    },
     "baseSpecies": "meowth",
     "baseForms": [
         "meowth"

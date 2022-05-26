@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "UXIE",
+        "veekunDb": "uxie",
+        "showdownMarkup": "Uxie",
+        "showdownData": "uxie",
+        "serebii": "uxie",
+        "bulbapedia": "Uxie"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

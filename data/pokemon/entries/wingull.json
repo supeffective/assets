@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "WINGULL",
+        "veekunDb": "wingull",
+        "showdownMarkup": "Wingull",
+        "showdownData": "wingull",
+        "serebii": "wingull",
+        "bulbapedia": "Wingull"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

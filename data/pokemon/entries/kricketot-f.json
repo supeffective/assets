@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KRICKETOT_F",
+        "veekunDb": "kricketot-f",
+        "showdownMarkup": "Kricketot-F",
+        "showdownData": "kricketotf",
+        "serebii": "kricketot-f",
+        "bulbapedia": "Kricketot"
+    },
     "baseSpecies": "kricketot",
     "baseForms": [],
     "forms": null,

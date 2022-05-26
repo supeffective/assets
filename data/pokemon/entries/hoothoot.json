@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HOOTHOOT",
+        "veekunDb": "hoothoot",
+        "showdownMarkup": "Hoothoot",
+        "showdownData": "hoothoot",
+        "serebii": "hoothoot",
+        "bulbapedia": "Hoothoot"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

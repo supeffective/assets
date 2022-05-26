@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "POLIWRATH",
+        "veekunDb": "poliwrath",
+        "showdownMarkup": "Poliwrath",
+        "showdownData": "poliwrath",
+        "serebii": "poliwrath",
+        "bulbapedia": "Poliwrath"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

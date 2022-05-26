@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MELMETAL",
+        "veekunDb": "melmetal",
+        "showdownMarkup": "Melmetal",
+        "showdownData": "melmetal",
+        "serebii": "melmetal",
+        "bulbapedia": "Melmetal"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

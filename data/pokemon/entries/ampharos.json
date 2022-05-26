@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "AMPHAROS",
+        "veekunDb": "ampharos",
+        "showdownMarkup": "Ampharos",
+        "showdownData": "ampharos",
+        "serebii": "ampharos",
+        "bulbapedia": "Ampharos"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

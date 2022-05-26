@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SHIFTRY_F",
+        "veekunDb": "shiftry-f",
+        "showdownMarkup": "Shiftry-F",
+        "showdownData": "shiftryf",
+        "serebii": "shiftry-f",
+        "bulbapedia": "Shiftry"
+    },
     "baseSpecies": "shiftry",
     "baseForms": [],
     "forms": null,

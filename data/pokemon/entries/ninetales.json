@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "NINETALES",
+        "veekunDb": "ninetales",
+        "showdownMarkup": "Ninetales",
+        "showdownData": "ninetales",
+        "serebii": "ninetales",
+        "bulbapedia": "Ninetales"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

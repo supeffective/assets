@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CRYOGONAL",
+        "veekunDb": "cryogonal",
+        "showdownMarkup": "Cryogonal",
+        "showdownData": "cryogonal",
+        "serebii": "cryogonal",
+        "bulbapedia": "Cryogonal"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

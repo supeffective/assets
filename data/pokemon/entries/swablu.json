@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SWABLU",
+        "veekunDb": "swablu",
+        "showdownMarkup": "Swablu",
+        "showdownData": "swablu",
+        "serebii": "swablu",
+        "bulbapedia": "Swablu"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

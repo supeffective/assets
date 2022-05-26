@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "YAMASK_GALAR",
+        "veekunDb": "yamask-galar",
+        "showdownMarkup": "Yamask-Galar",
+        "showdownData": "yamaskgalar",
+        "serebii": "yamask-galar",
+        "bulbapedia": "Yamask"
+    },
     "baseSpecies": "yamask",
     "baseForms": [],
     "forms": null,

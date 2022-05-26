@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MACHOKE",
+        "veekunDb": "machoke",
+        "showdownMarkup": "Machoke",
+        "showdownData": "machoke",
+        "serebii": "machoke",
+        "bulbapedia": "Machoke"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

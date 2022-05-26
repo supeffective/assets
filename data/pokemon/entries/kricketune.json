@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KRICKETUNE",
+        "veekunDb": "kricketune",
+        "showdownMarkup": "Kricketune",
+        "showdownData": "kricketune",
+        "serebii": "kricketune",
+        "bulbapedia": "Kricketune"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ELDEGOSS",
+        "veekunDb": "eldegoss",
+        "showdownMarkup": "Eldegoss",
+        "showdownData": "eldegoss",
+        "serebii": "eldegoss",
+        "bulbapedia": "Eldegoss"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

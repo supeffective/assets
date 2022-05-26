@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ARCEUS_FIRE",
+        "veekunDb": "arceus-fire",
+        "showdownMarkup": "Arceus-Fire",
+        "showdownData": "arceusfire",
+        "serebii": "arceus-fire",
+        "bulbapedia": "Arceus"
+    },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"

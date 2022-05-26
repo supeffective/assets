@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BRAVIARY",
+        "veekunDb": "braviary",
+        "showdownMarkup": "Braviary",
+        "showdownData": "braviary",
+        "serebii": "braviary",
+        "bulbapedia": "Braviary"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

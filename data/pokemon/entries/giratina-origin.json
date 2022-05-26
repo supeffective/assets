@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GIRATINA_ORIGIN",
+        "veekunDb": "giratina-origin",
+        "showdownMarkup": "Giratina-Origin",
+        "showdownData": "giratinaorigin",
+        "serebii": "giratina-origin",
+        "bulbapedia": "Giratina"
+    },
     "baseSpecies": "giratina",
     "baseForms": [
         "giratina"

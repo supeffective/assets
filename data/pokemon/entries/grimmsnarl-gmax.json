@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GRIMMSNARL_GMAX",
+        "veekunDb": "grimmsnarl-gmax",
+        "showdownMarkup": "Grimmsnarl-Gmax",
+        "showdownData": "grimmsnarlgmax",
+        "serebii": "grimmsnarl-gmax",
+        "bulbapedia": "Grimmsnarl"
+    },
     "baseSpecies": "grimmsnarl",
     "baseForms": [
         "grimmsnarl"

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BANETTE",
+        "veekunDb": "banette",
+        "showdownMarkup": "Banette",
+        "showdownData": "banette",
+        "serebii": "banette",
+        "bulbapedia": "Banette"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

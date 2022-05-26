@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "CORSOLA",
+        "veekunDb": "corsola",
+        "showdownMarkup": "Corsola",
+        "showdownData": "corsola",
+        "serebii": "corsola",
+        "bulbapedia": "Corsola"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

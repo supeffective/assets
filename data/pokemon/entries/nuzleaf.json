@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "NUZLEAF",
+        "veekunDb": "nuzleaf",
+        "showdownMarkup": "Nuzleaf",
+        "showdownData": "nuzleaf",
+        "serebii": "nuzleaf",
+        "bulbapedia": "Nuzleaf"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

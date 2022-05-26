@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MEW",
+        "veekunDb": "mew",
+        "showdownMarkup": "Mew",
+        "showdownData": "mew",
+        "serebii": "mew",
+        "bulbapedia": "Mew"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

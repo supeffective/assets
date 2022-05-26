@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "PIDGEOT_MEGA",
+        "veekunDb": "pidgeot-mega",
+        "showdownMarkup": "Pidgeot-Mega",
+        "showdownData": "pidgeotmega",
+        "serebii": "pidgeot-mega",
+        "bulbapedia": "Pidgeot"
+    },
     "baseSpecies": "pidgeot",
     "baseForms": [
         "pidgeot"

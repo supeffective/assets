@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TYRUNT",
+        "veekunDb": "tyrunt",
+        "showdownMarkup": "Tyrunt",
+        "showdownData": "tyrunt",
+        "serebii": "tyrunt",
+        "bulbapedia": "Tyrunt"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

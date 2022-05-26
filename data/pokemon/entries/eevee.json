@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "EEVEE",
+        "veekunDb": "eevee",
+        "showdownMarkup": "Eevee",
+        "showdownData": "eevee",
+        "serebii": "eevee",
+        "bulbapedia": "Eevee"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

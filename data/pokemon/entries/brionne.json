@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BRIONNE",
+        "veekunDb": "brionne",
+        "showdownMarkup": "Brionne",
+        "showdownData": "brionne",
+        "serebii": "brionne",
+        "bulbapedia": "Brionne"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

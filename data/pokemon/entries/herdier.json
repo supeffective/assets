@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "HERDIER",
+        "veekunDb": "herdier",
+        "showdownMarkup": "Herdier",
+        "showdownData": "herdier",
+        "serebii": "herdier",
+        "bulbapedia": "Herdier"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BRUXISH",
+        "veekunDb": "bruxish",
+        "showdownMarkup": "Bruxish",
+        "showdownData": "bruxish",
+        "serebii": "bruxish",
+        "bulbapedia": "Bruxish"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

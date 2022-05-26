@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "DUSKNOIR",
+        "veekunDb": "dusknoir",
+        "showdownMarkup": "Dusknoir",
+        "showdownData": "dusknoir",
+        "serebii": "dusknoir",
+        "bulbapedia": "Dusknoir"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

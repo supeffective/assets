@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TANGELA",
+        "veekunDb": "tangela",
+        "showdownMarkup": "Tangela",
+        "showdownData": "tangela",
+        "serebii": "tangela",
+        "bulbapedia": "Tangela"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

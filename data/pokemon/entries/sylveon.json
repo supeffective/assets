@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SYLVEON",
+        "veekunDb": "sylveon",
+        "showdownMarkup": "Sylveon",
+        "showdownData": "sylveon",
+        "serebii": "sylveon",
+        "bulbapedia": "Sylveon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

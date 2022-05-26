@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "FURFROU_PHARAOH",
+        "veekunDb": "furfrou-pharaoh",
+        "showdownMarkup": "Furfrou-Pharaoh",
+        "showdownData": "furfroupharaoh",
+        "serebii": "furfrou-pharaoh",
+        "bulbapedia": "Furfrou"
+    },
     "baseSpecies": "furfrou",
     "baseForms": [
         "furfrou"

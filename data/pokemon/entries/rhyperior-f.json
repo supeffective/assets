@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "RHYPERIOR_F",
+        "veekunDb": "rhyperior-f",
+        "showdownMarkup": "Rhyperior-F",
+        "showdownData": "rhyperiorf",
+        "serebii": "rhyperior-f",
+        "bulbapedia": "Rhyperior"
+    },
     "baseSpecies": "rhyperior",
     "baseForms": [],
     "forms": null,

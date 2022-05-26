@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "KECLEON",
+        "veekunDb": "kecleon",
+        "showdownMarkup": "Kecleon",
+        "showdownData": "kecleon",
+        "serebii": "kecleon",
+        "bulbapedia": "Kecleon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

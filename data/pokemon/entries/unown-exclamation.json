@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "UNOWN_EXCLAMATION",
+        "veekunDb": "unown-exclamation",
+        "showdownMarkup": "Unown-Exclamation",
+        "showdownData": "unownexclamation",
+        "serebii": "unown-exclamation",
+        "bulbapedia": "Unown"
+    },
     "baseSpecies": "unown",
     "baseForms": [],
     "forms": null,

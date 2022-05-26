@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "MUDKIP",
+        "veekunDb": "mudkip",
+        "showdownMarkup": "Mudkip",
+        "showdownData": "mudkip",
+        "serebii": "mudkip",
+        "bulbapedia": "Mudkip"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "RILLABOOM_GMAX",
+        "veekunDb": "rillaboom-gmax",
+        "showdownMarkup": "Rillaboom-Gmax",
+        "showdownData": "rillaboomgmax",
+        "serebii": "rillaboom-gmax",
+        "bulbapedia": "Rillaboom"
+    },
     "baseSpecies": "rillaboom",
     "baseForms": [
         "rillaboom"

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "BLITZLE",
+        "veekunDb": "blitzle",
+        "showdownMarkup": "Blitzle",
+        "showdownData": "blitzle",
+        "serebii": "blitzle",
+        "bulbapedia": "Blitzle"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "LUMINEON",
+        "veekunDb": "lumineon",
+        "showdownMarkup": "Lumineon",
+        "showdownData": "lumineon",
+        "serebii": "lumineon",
+        "bulbapedia": "Lumineon"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

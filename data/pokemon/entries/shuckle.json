@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SHUCKLE",
+        "veekunDb": "shuckle",
+        "showdownMarkup": "Shuckle",
+        "showdownData": "shuckle",
+        "serebii": "shuckle",
+        "bulbapedia": "Shuckle"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

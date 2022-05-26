@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SKRELP",
+        "veekunDb": "skrelp",
+        "showdownMarkup": "Skrelp",
+        "showdownData": "skrelp",
+        "serebii": "skrelp",
+        "bulbapedia": "Skrelp"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

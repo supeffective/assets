@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "RAICHU_F",
+        "veekunDb": "raichu-f",
+        "showdownMarkup": "Raichu-F",
+        "showdownData": "raichuf",
+        "serebii": "raichu-f",
+        "bulbapedia": "Raichu"
+    },
     "baseSpecies": "raichu",
     "baseForms": [],
     "forms": null,

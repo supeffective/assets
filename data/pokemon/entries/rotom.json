@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ROTOM",
+        "veekunDb": "rotom",
+        "showdownMarkup": "Rotom",
+        "showdownData": "rotom",
+        "serebii": "rotom",
+        "bulbapedia": "Rotom"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

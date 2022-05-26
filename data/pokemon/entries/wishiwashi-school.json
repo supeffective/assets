@@ -65,6 +65,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "WISHIWASHI_SCHOOL",
+        "veekunDb": "wishiwashi-school",
+        "showdownMarkup": "Wishiwashi-School",
+        "showdownData": "wishiwashischool",
+        "serebii": "wishiwashi-school",
+        "bulbapedia": "Wishiwashi"
+    },
     "baseSpecies": "wishiwashi",
     "baseForms": [
         "wishiwashi"

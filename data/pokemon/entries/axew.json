@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "AXEW",
+        "veekunDb": "axew",
+        "showdownMarkup": "Axew",
+        "showdownData": "axew",
+        "serebii": "axew",
+        "bulbapedia": "Axew"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

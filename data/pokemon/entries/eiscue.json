@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "EISCUE",
+        "veekunDb": "eiscue",
+        "showdownMarkup": "Eiscue",
+        "showdownData": "eiscue",
+        "serebii": "eiscue",
+        "bulbapedia": "Eiscue"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

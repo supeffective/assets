@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "VOLTORB",
+        "veekunDb": "voltorb",
+        "showdownMarkup": "Voltorb",
+        "showdownData": "voltorb",
+        "serebii": "voltorb",
+        "bulbapedia": "Voltorb"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

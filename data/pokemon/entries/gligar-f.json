@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GLIGAR_F",
+        "veekunDb": "gligar-f",
+        "showdownMarkup": "Gligar-F",
+        "showdownData": "gligarf",
+        "serebii": "gligar-f",
+        "bulbapedia": "Gligar"
+    },
     "baseSpecies": "gligar",
     "baseForms": [],
     "forms": null,

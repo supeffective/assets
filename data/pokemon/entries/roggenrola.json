@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "ROGGENROLA",
+        "veekunDb": "roggenrola",
+        "showdownMarkup": "Roggenrola",
+        "showdownData": "roggenrola",
+        "serebii": "roggenrola",
+        "bulbapedia": "Roggenrola"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

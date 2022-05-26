@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "SPHEAL",
+        "veekunDb": "spheal",
+        "showdownMarkup": "Spheal",
+        "showdownData": "spheal",
+        "serebii": "spheal",
+        "bulbapedia": "Spheal"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

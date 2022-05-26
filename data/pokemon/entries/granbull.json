@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "GRANBULL",
+        "veekunDb": "granbull",
+        "showdownMarkup": "Granbull",
+        "showdownData": "granbull",
+        "serebii": "granbull",
+        "bulbapedia": "Granbull"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

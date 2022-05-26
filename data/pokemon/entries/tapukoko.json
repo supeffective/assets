@@ -67,6 +67,14 @@
     },
     "maleRate": -1,
     "femaleRate": -1,
+    "refs": {
+        "pogo": "TAPUKOKO",
+        "veekunDb": "tapukoko",
+        "showdownMarkup": "Tapukoko",
+        "showdownData": "tapukoko",
+        "serebii": "tapukoko",
+        "bulbapedia": "Tapu Koko"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
