@@ -1,0 +1,598 @@
+{
+    "rby": {
+        "name": "Red, Blue and Yellow",
+        "generation": 1,
+        "platforms": [
+            "gb"
+        ],
+        "series": "main",
+        "region": "kanto",
+        "releases": {
+            "rb": {
+                "name": "Red and Blue",
+                "codename": null,
+                "release_date": "1996-02-27",
+                "games": {
+                    "r": "Red",
+                    "b": "Blue"
+                },
+                "pokedexes": [
+                    "kanto"
+                ],
+                "national_dex": {
+                    "available": true,
+                    "max_id": 151
+                }
+            },
+            "y": {
+                "name": "Yellow",
+                "codename": null,
+                "release_date": "1998-09-12",
+                "games": {
+                    "y": "Yellow"
+                },
+                "pokedexes": [
+                    "kanto"
+                ],
+                "national_dex": {
+                    "available": true,
+                    "max_id": 151
+                }
+            }
+        }
+    },
+    "gsc": {
+        "name": "Gold, Silver and Crystal",
+        "generation": 2,
+        "platforms": [
+            "gbc"
+        ],
+        "series": "main",
+        "region": "johto",
+        "releases": {
+            "gs": {
+                "name": "Gold and Silver",
+                "codename": null,
+                "release_date": "1999-11-21",
+                "games": {
+                    "g": "Gold",
+                    "s": "Silver"
+                },
+                "pokedexes": [
+                    "national",
+                    "johto"
+                ],
+                "national_dex": {
+                    "available": true,
+                    "max_id": 251
+                }
+            },
+            "c": {
+                "name": "Crystal",
+                "codename": null,
+                "release_date": "2000-12-14",
+                "games": {
+                    "c": "Crystal"
+                },
+                "pokedexes": [
+                    "national",
+                    "johto"
+                ],
+                "national_dex": {
+                    "available": true,
+                    "max_id": 251
+                }
+            }
+        }
+    },
+    "rse": {
+        "name": "Ruby, Sapphire and Emerald",
+        "generation": 3,
+        "platforms": [
+            "gba"
+        ],
+        "series": "main",
+        "region": "hoenn",
+        "releases": {
+            "rs": {
+                "name": "Ruby and Sapphire",
+                "codename": null,
+                "release_date": "2002-11-21",
+                "games": {
+                    "r": "Ruby",
+                    "s": "Sapphire"
+                },
+                "pokedexes": [
+                    "national",
+                    "hoenn"
+                ],
+                "national_dex": {
+                    "available": true,
+                    "max_id": 386
+                }
+            },
+            "e": {
+                "name": "Emerald",
+                "codename": null,
+                "release_date": "2004-09-16",
+                "games": {
+                    "e": "Emerald"
+                },
+                "pokedexes": [
+                    "national",
+                    "hoenn"
+                ],
+                "national_dex": {
+                    "available": true,
+                    "max_id": 386
+                }
+            }
+        }
+    },
+    "frlg": {
+        "name": "Fire Red and Leaf Green",
+        "generation": 3,
+        "platforms": [
+            "gba"
+        ],
+        "series": "main",
+        "region": "kanto",
+        "releases": {
+            "frlg": {
+                "name": "Fire Red and Leaf Green",
+                "codename": null,
+                "release_date": "2004-01-29",
+                "games": {
+                    "fr": "Fire Red",
+                    "lg": "Leaf Green"
+                },
+                "pokedexes": [
+                    "national",
+                    "kanto"
+                ],
+                "national_dex": {
+                    "available": true,
+                    "max_id": 386
+                }
+            }
+        }
+    },
+    "dppt": {
+        "name": "Diamond, Pearl and Platinum",
+        "generation": 4,
+        "platforms": [
+            "nds"
+        ],
+        "series": "main",
+        "region": "sinnoh",
+        "releases": {
+            "dp": {
+                "name": "Diamond and Pearl",
+                "codename": null,
+                "release_date": "2006-09-28",
+                "games": {
+                    "d": "Diamond",
+                    "p": "Pearl"
+                },
+                "pokedexes": [
+                    "national",
+                    "sinnoh"
+                ],
+                "national_dex": {
+                    "available": true,
+                    "max_id": 493
+                }
+            },
+            "pt": {
+                "name": "Platinum",
+                "codename": null,
+                "release_date": "2008-09-13",
+                "games": {
+                    "pt": "Platinum"
+                },
+                "pokedexes": [
+                    "national",
+                    "sinnoh-pt"
+                ],
+                "national_dex": {
+                    "available": true,
+                    "max_id": 493
+                }
+            }
+        }
+    },
+    "hgss": {
+        "name": "Heart Gold and Soul Silver",
+        "generation": 4,
+        "platforms": [
+            "nds"
+        ],
+        "series": "main",
+        "region": "johto",
+        "releases": {
+            "hgss": {
+                "name": "Heart Gold and Soul Silver",
+                "codename": null,
+                "release_date": "2009-09-12",
+                "games": {
+                    "hg": "Heart Gold",
+                    "ss": "Soul Silver"
+                },
+                "pokedexes": [
+                    "national",
+                    "johto-hgss"
+                ],
+                "national_dex": {
+                    "available": true,
+                    "max_id": 493
+                }
+            }
+        }
+    },
+    "bwb2w2": {
+        "name": "Black, White, Black 2 and White 2",
+        "generation": 5,
+        "platforms": [
+            "nds"
+        ],
+        "series": "main",
+        "region": "unova",
+        "releases": {
+            "bw": {
+                "name": "Black and White",
+                "codename": null,
+                "release_date": "2010-09-18",
+                "games": {
+                    "b": "Black",
+                    "w": "White"
+                },
+                "pokedexes": [
+                    "national",
+                    "unova"
+                ],
+                "national_dex": {
+                    "available": true,
+                    "max_id": 649
+                }
+            },
+            "b2w2": {
+                "name": "Black 2 and White 2",
+                "codename": "Swan",
+                "release_date": "2012-06-23",
+                "games": {
+                    "b2": "Black 2",
+                    "w2": "White 2"
+                },
+                "pokedexes": [
+                    "national",
+                    "unova-b2w2"
+                ],
+                "national_dex": {
+                    "available": true,
+                    "max_id": 649
+                }
+            }
+        }
+    },
+    "xy": {
+        "name": "X and Y",
+        "generation": 6,
+        "platforms": [
+            "3ds"
+        ],
+        "series": "main",
+        "region": "kalos",
+        "releases": {
+            "xy": {
+                "name": "X and Y",
+                "codename": "Kujira",
+                "release_date": "2013-10-12",
+                "games": {
+                    "x": "X",
+                    "y": "Y"
+                },
+                "pokedexes": [
+                    "national",
+                    "kalos-central",
+                    "kalos-coastal",
+                    "kalos-mountain"
+                ],
+                "national_dex": {
+                    "available": true,
+                    "max_id": 721
+                }
+            }
+        }
+    },
+    "oras": {
+        "name": "Omega Ruby and Alpha Sapphire",
+        "generation": 6,
+        "platforms": [
+            "3ds"
+        ],
+        "series": "main",
+        "region": "hoenn",
+        "releases": {
+            "oras": {
+                "name": "Omega Ruby and Alpha Sapphire",
+                "codename": "Sango",
+                "release_date": "2014-11-21",
+                "games": {
+                    "or": "Omega Ruby",
+                    "as": "Alpha Sapphire"
+                },
+                "pokedexes": [
+                    "national",
+                    "hoenn-oras"
+                ],
+                "national_dex": {
+                    "available": true,
+                    "max_id": 721
+                }
+            }
+        }
+    },
+    "go": {
+        "name": "GO",
+        "generation": 0,
+        "platforms": [
+            "mobile"
+        ],
+        "series": "go",
+        "region": "other",
+        "releases": {
+            "go": {
+                "name": "GO",
+                "codename": null,
+                "release_date": "2016-07-06",
+                "games": {
+                    "go": "GO"
+                },
+                "pokedexes": [
+                    "national"
+                ],
+                "national_dex": {
+                    "available": true,
+                    "max_id": 999
+                }
+            }
+        }
+    },
+    "smusum": {
+        "name": "Sun, Moon, Ultra Sun and Ultra Moon",
+        "generation": 7,
+        "platforms": [
+            "3ds"
+        ],
+        "series": "main",
+        "region": "alola",
+        "releases": {
+            "sm": {
+                "name": "Sun and Moon",
+                "codename": "Niji",
+                "release_date": "2016-11-18",
+                "games": {
+                    "s": "Sun",
+                    "m": "Moon"
+                },
+                "pokedexes": [
+                    "national",
+                    "alola",
+                    "alola-melemele",
+                    "alola-akala",
+                    "alola-ulaula",
+                    "alola-poni"
+                ],
+                "national_dex": null
+            },
+            "usum": {
+                "name": "Ultra Sun and Ultra Moon",
+                "codename": "Momiji",
+                "release_date": "2017-11-17",
+                "games": {
+                    "us": "Ultra Sun",
+                    "um": "Ultra Moon"
+                },
+                "pokedexes": [
+                    "national",
+                    "alola-usum",
+                    "alola-melemele-usum",
+                    "alola-akala-usum",
+                    "alola-ulaula-usum",
+                    "alola-poni-usum"
+                ],
+                "national_dex": null
+            }
+        }
+    },
+    "lgpe": {
+        "name": "Let's Go! Pikachu and Let's Go! Eevee",
+        "generation": 7,
+        "platforms": [
+            "switch"
+        ],
+        "series": "letsgo",
+        "region": "kanto",
+        "releases": {
+            "lgpe": {
+                "name": "Let's Go! Pikachu and Let's Go! Eevee",
+                "codename": "Beluga",
+                "release_date": "2018-11-16",
+                "games": {
+                    "lgp": "Let's Go, Pikachu!",
+                    "lge": "Let's Go, Eevee!"
+                },
+                "pokedexes": [
+                    "national",
+                    "kanto-lgpe"
+                ],
+                "national_dex": null
+            }
+        }
+    },
+    "swshex": {
+        "name": "Sword and Shield + Expansion Pass",
+        "generation": 8,
+        "platforms": [
+            "switch"
+        ],
+        "series": "main",
+        "region": "galar",
+        "releases": {
+            "swsh": {
+                "name": "Sword and Shield",
+                "codename": "Orion",
+                "release_date": "2019-11-15",
+                "games": {
+                    "sw": "Sword",
+                    "sh": "Shield"
+                },
+                "pokedexes": [
+                    "galar"
+                ],
+                "national_dex": null
+            },
+            "swshex": {
+                "name": "Sword and Shield Expansion Pass",
+                "codename": "Rigel",
+                "release_date": "2020-10-01",
+                "games": {
+                    "swex": "Sword Expansion Pass",
+                    "shex": "Shield Expansion Pass"
+                },
+                "pokedexes": [
+                    "galar",
+                    "galar-isle-armor",
+                    "galar-crown-tundra"
+                ],
+                "national_dex": null
+            }
+        }
+    },
+    "home": {
+        "name": "Home",
+        "generation": 0,
+        "platforms": [
+            "mobile",
+            "switch"
+        ],
+        "series": "storage",
+        "region": "other",
+        "releases": {
+            "home": {
+                "name": "Home",
+                "codename": null,
+                "release_date": "2020-02-12",
+                "games": {
+                    "home": "Home"
+                },
+                "pokedexes": [
+                    "national"
+                ],
+                "national_dex": {
+                    "available": true,
+                    "max_id": 999
+                }
+            }
+        }
+    },
+    "unite": {
+        "name": "UNITE",
+        "generation": 0,
+        "platforms": [
+            "mobile",
+            "switch"
+        ],
+        "series": "unite",
+        "region": "other",
+        "releases": {
+            "unite": {
+                "name": "UNITE",
+                "codename": null,
+                "release_date": "2021-07-21",
+                "games": {
+                    "unite": "UNITE"
+                },
+                "pokedexes": [],
+                "national_dex": null
+            }
+        }
+    },
+    "bdsp": {
+        "name": "Brilliant Diamond and Shining Pearl",
+        "generation": 8,
+        "platforms": [
+            "switch"
+        ],
+        "series": "main",
+        "region": "sinnoh",
+        "releases": {
+            "bdsp": {
+                "name": "Brilliant Diamond and Shining Pearl",
+                "codename": "Delphis",
+                "release_date": "2021-11-19",
+                "games": {
+                    "bd": "Brilliant Diamond",
+                    "sp": "Shining Pearl"
+                },
+                "pokedexes": [
+                    "national",
+                    "sinnoh"
+                ],
+                "national_dex": {
+                    "available": true,
+                    "max_id": 493
+                }
+            }
+        }
+    },
+    "pla": {
+        "name": "Pokémon Legends: Arceus",
+        "generation": 8,
+        "platforms": [
+            "switch"
+        ],
+        "series": "legends",
+        "region": "hisui",
+        "releases": {
+            "pla": {
+                "name": "Pokémon Legends: Arceus",
+                "codename": "Hayabusa",
+                "release_date": "2022-01-28",
+                "games": {
+                    "pla": "Pokémon Legends: Arceus"
+                },
+                "pokedexes": [
+                    "hisui",
+                    "hisui-obsidian",
+                    "hisui-crimson",
+                    "hisui-cobalt",
+                    "hisui-coronet",
+                    "hisui-alabaster"
+                ],
+                "national_dex": null
+            }
+        }
+    },
+    "sv": {
+        "name": "Scarlet and Violet",
+        "generation": 9,
+        "platforms": [
+            "switch"
+        ],
+        "series": "main",
+        "region": "_titan_",
+        "releases": {
+            "sv": {
+                "name": "Scarlet and Violet",
+                "codename": "Titan",
+                "release_date": "2022-11-18",
+                "games": {
+                    "s": "Scarlet",
+                    "v": "Violet"
+                },
+                "national_dex": null
+            }
+        }
+    }
+}

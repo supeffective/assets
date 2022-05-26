@@ -1899,13 +1899,13 @@
         "formName": "Female",
         "region": "kanto",
         "generation": 1,
-        "type1": null,
+        "type1": "electric",
         "type2": null,
-        "color": null,
+        "color": "yellow",
         "abilities": {
-            "primary": null,
+            "primary": "static",
             "secondary": null,
-            "hidden": null
+            "hidden": "lightning-rod"
         },
         "isLegendary": false,
         "isMythical": false,
@@ -1923,16 +1923,19 @@
         "isPrimal": false,
         "isRegional": false,
         "isGmax": false,
-        "canGmax": false,
+        "canGmax": true,
         "canDynamax": true,
-        "canBeAlpha": false,
+        "canBeAlpha": true,
         "obtainableIn": [],
         "transferableTo": [
             "home"
         ],
         "baseSpecies": "pikachu",
         "baseForms": [],
-        "forms": null
+        "forms": null,
+        "evolutions": [
+            "raichu-f"
+        ]
     },
     {
         "id": "pikachu-gmax",

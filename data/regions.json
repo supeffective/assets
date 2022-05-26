@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Other",
+        "slug": "other"
+    },
+    {
+        "name": "Kanto",
+        "slug": "kanto"
+    },
+    {
+        "name": "Johto",
+        "slug": "johto"
+    },
+    {
+        "name": "Hoenn",
+        "slug": "hoenn"
+    },
+    {
+        "name": "Orre",
+        "slug": "orre"
+    },
+    {
+        "name": "Sinnoh",
+        "slug": "sinnoh"
+    },
+    {
+        "name": "Unova",
+        "slug": "unova"
+    },
+    {
+        "name": "Kalos",
+        "slug": "kalos"
+    },
+    {
+        "name": "Alola",
+        "slug": "alola"
+    },
+    {
+        "name": "Galar",
+        "slug": "galar"
+    },
+    {
+        "name": "Hisui",
+        "slug": "hisui"
+    },
+    {
+        "name": "(Titan)",
+        "slug": "_titan_"
+    }
+]

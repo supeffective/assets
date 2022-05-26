@@ -7,7 +7,7 @@ declare(strict_types=1);
 (static function () {
     error_reporting(-1);
     $storablePokemonList = json_decode(
-        file_get_contents(__DIR__ . '/../data/livingdex/pokemon-list-storable.min.json'),
+        file_get_contents(__DIR__ . '/../data/livingdex/storable-pokemon/home/pokemon-list-storable.min.json'),
         true,
         512,
         JSON_THROW_ON_ERROR
