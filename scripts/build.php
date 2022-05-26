@@ -90,14 +90,15 @@ require_once __DIR__ . '/_bootstrap.php';
         sgg_data_save('pokemon/gigantamaxable-pokemon.min.json', $newDataSet, false);
     };
 
-    $generateAlphaPokemonList = static function () use ($dataSet): void {
+    $generateAlphaPokemonList = static function () use ($dataSetById): void {
         $newDataSet = [];
+        $hisuiPkm = sgg_get_dex_pokemon_ids('pla', 'hisui');
 
-        foreach ($dataSet as $pkm) {
-            if (!$pkm['canBeAlpha']) {  // TODO set alphas properly in pokemon.json
-                continue;
+        foreach ($hisuiPkm as $pkmId) {
+            $pkm = $dataSetById[$pkmId];
+            if ($pkm['canBeAlpha']) {
+                $newDataSet[] = $pkm['id'];
             }
-            $newDataSet[] = $pkm['id'];
         }
 
         sgg_data_save('pokemon/alpha-pokemon.min.json', $newDataSet, false);
@@ -187,6 +188,7 @@ require_once __DIR__ . '/_bootstrap.php';
     };
 
     // TASKS runner:
+    // TODO generate national dex
 
     $saveMergedPokemonEntries();
     $generatePokemonEntriesMinimal();
@@ -195,7 +197,7 @@ require_once __DIR__ . '/_bootstrap.php';
     $generateFullySortedHomePreset();
     //$generateMegaPokemonList();
     $generateGmaxPokemonList();
-    //$generateAlphaPokemonList();
+    $generateAlphaPokemonList();
 
     $generateHisuiBoxesPreset();
 

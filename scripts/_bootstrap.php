@@ -111,6 +111,24 @@ function sgg_get_sorted_pokemon_ids(): array
     return sgg_data_load('pokemon.json');
 }
 
+function sgg_get_dex(string $game, string $dexId): array
+{
+    return sgg_data_load('pokedexes/' . $game . '/' . $dexId . '-dex.json');
+}
+
+function sgg_get_dex_pokemon_ids(string $game, string $dexId): array
+{
+    $ids = [];
+    $dex = sgg_data_load('pokedexes/' . $game . '/' . $dexId . '-dex.json');
+    foreach ($dex as $dexPkm) {
+        foreach ($dexPkm['forms'] as $pkmId) {
+            $ids[] = $pkmId;
+        }
+    }
+
+    return $ids;
+}
+
 function sgg_get_merged_pkm_entries(bool $failOnError = true): array
 {
     $sortedPokemonList = sgg_get_sorted_pokemon_ids();
