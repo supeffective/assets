@@ -18,8 +18,9 @@ require_once __DIR__ . '/_bootstrap.php';
         $dataSetById[$data['id']] = $data;
     }
 
-    $saveMergedPokemonEntries = static function () use ($dataSet) {
+    $saveMergedPokemonEntries = static function () use ($dataSet, $dataSetById) {
         sgg_data_save(SGG_PKM_ENTRIES_FILE, $dataSet, true);
+        sgg_data_save(SGG_PKM_ENTRIES_BY_ID_FILE, $dataSetById, true);
     };
 
     $generateStorablePokemonList = static function () use ($dataSet): void {
