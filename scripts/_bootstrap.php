@@ -4,6 +4,7 @@
 error_reporting(-1);
 
 const SGG_PKM_ENTRIES_BASE_FILENAME = 'pokemon/pokemon-entries';
+const SGG_SUPPORTED_GAMES = ['home', 'pla', 'swsh', 'bdsp', 'lgpe', 'go'];
 
 function sgg_get_data_path(?string $relativePath = null): string
 {

@@ -41,16 +41,19 @@ require_once __DIR__ . '/_bootstrap.php';
     };
 
     $generateStorablePokemonList = static function () use ($dataSet): void {
-        $newDataSet = [];
+        $storableByGame = [];
 
-        foreach ($dataSet as $pkm) {
-            if (!in_array('home', $pkm['storableIn'], true)) { // TODO, support all games, using nested loop
-                continue;
+        foreach (SGG_SUPPORTED_GAMES as $game) {
+            foreach ($dataSet as $pkm) {
+                if (in_array($game, $pkm['storableIn'], true)) {
+                    $storableByGame[$game][] = $pkm['id'];
+                }
             }
-            $newDataSet[] = $pkm['id'];
         }
 
-        sgg_data_save('livingdex/storable-pokemon/home/storable-pokemon.min.json', $newDataSet, false);
+        foreach ($storableByGame as $game => $pkmIds) {
+            sgg_data_save('livingdex/storable-pokemon/' . $game . '/storable-pokemon.min.json', $pkmIds, false);
+        }
     };
 
     $generateMegaPokemonList = static function () use ($dataSet): void {
