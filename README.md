@@ -2,6 +2,10 @@
 
 Pokémon datasets used in the SuperEffective.gg website.
 
+```
+npm i itsjavi/supereffective-dataset
+```
+
 ## How to contribute
 
 You are welcome to contribute to this project by submitting a Pull Request to fix any mistakes
