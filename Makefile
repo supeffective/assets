@@ -6,3 +6,6 @@ build:
 
 validate:
 	php scripts/validate.php
+
+migrate:
+	php scripts/migrate.php

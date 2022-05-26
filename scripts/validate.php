@@ -18,7 +18,7 @@ require_once __DIR__ . '/_bootstrap.php';
         $presetId = $dexPreset['id'];
         $pokemonInBoxes = [];
         $errors = [];
-        $allowedDuplicates = ["unown", "vivillon", "alcremie"];
+        $allowedDuplicates = ["unown", "vivillon", "alcremie"]; // TODO have a better workaround for this hack
         foreach ($dexPreset['boxes'] as $i => $box) {
             if (count($box['pokemon']) > 30) {
                 $errors[] = "Box '$i' in preset '$presetId' has more than 30 pokemon";

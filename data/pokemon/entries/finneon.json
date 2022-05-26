@@ -35,7 +35,7 @@
     "canDynamax": true,
     "canBeAlpha": true,
     "obtainableIn": [],
-    "transferableTo": [
+    "storableIn": [
         "home"
     ],
     "shinyReleased": null,

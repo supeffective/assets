@@ -27,7 +27,7 @@ require_once __DIR__ . '/_bootstrap.php';
         $newDataSet = [];
 
         foreach ($dataSet as $pkm) {
-            if (!in_array('home', $pkm['transferableTo'], true)) { // TODO, support all games, using nested loop
+            if (!in_array('home', $pkm['storableIn'], true)) { // TODO, support all games, using nested loop
                 continue;
             }
             $newDataSet[] = $pkm['id'];
@@ -109,7 +109,7 @@ require_once __DIR__ . '/_bootstrap.php';
         $maxPkmPerBox = 30;
         $currentBox = 0;
         foreach ($dataSet as $i => $pkm) {
-            if (!in_array('home', $pkm['transferableTo'], true)) { // TODO, support all games, using nested loop
+            if (!in_array('home', $pkm['storableIn'], true)) { // TODO, support all games, using nested loop
                 continue;
             }
             if (
