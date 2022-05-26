@@ -129,7 +129,7 @@ require_once __DIR__ . '/_bootstrap.php';
         $maxPkmPerBox = 30;
         $currentBox = 0;
         foreach ($dataSet as $i => $pkm) {
-            if (!in_array('home', $pkm['storableIn'], true)) { // TODO, support all games, using nested loop
+            if (!in_array('home', $pkm['storableIn'], true)) {
                 continue;
             }
             if (
