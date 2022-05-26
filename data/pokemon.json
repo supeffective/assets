@@ -1880,14 +1880,14 @@
             "pikachu-libre",
             "pikachu-starter",
             "pikachu-gmax",
-            "pikachu-original-cap",
-            "pikachu-hoenn-cap",
-            "pikachu-sinnoh-cap",
-            "pikachu-unova-cap",
-            "pikachu-kalos-cap",
-            "pikachu-alola-cap",
-            "pikachu-partner-cap",
-            "pikachu-world-cap"
+            "pikachu-original",
+            "pikachu-hoenn",
+            "pikachu-sinnoh",
+            "pikachu-unova",
+            "pikachu-kalos",
+            "pikachu-alola",
+            "pikachu-partner",
+            "pikachu-world"
         ]
     },
     {
@@ -1983,10 +1983,10 @@
         "forms": null
     },
     {
-        "id": "pikachu-original-cap",
-        "nid": "0025-original-cap",
+        "id": "pikachu-original",
+        "nid": "0025-original",
         "dexNum": 25,
-        "formId": "original-cap",
+        "formId": "original",
         "name": "Pikachu Original Cap",
         "formName": "Original Cap",
         "region": "alola",
@@ -2027,10 +2027,10 @@
         "forms": null
     },
     {
-        "id": "pikachu-hoenn-cap",
-        "nid": "0025-hoenn-cap",
+        "id": "pikachu-hoenn",
+        "nid": "0025-hoenn",
         "dexNum": 25,
-        "formId": "hoenn-cap",
+        "formId": "hoenn",
         "name": "Pikachu Hoenn Cap",
         "formName": "Hoenn Cap",
         "region": "alola",
@@ -2071,10 +2071,10 @@
         "forms": null
     },
     {
-        "id": "pikachu-sinnoh-cap",
-        "nid": "0025-sinnoh-cap",
+        "id": "pikachu-sinnoh",
+        "nid": "0025-sinnoh",
         "dexNum": 25,
-        "formId": "sinnoh-cap",
+        "formId": "sinnoh",
         "name": "Pikachu Sinnoh Cap",
         "formName": "Sinnoh Cap",
         "region": "alola",
@@ -2115,10 +2115,10 @@
         "forms": null
     },
     {
-        "id": "pikachu-unova-cap",
-        "nid": "0025-unova-cap",
+        "id": "pikachu-unova",
+        "nid": "0025-unova",
         "dexNum": 25,
-        "formId": "unova-cap",
+        "formId": "unova",
         "name": "Pikachu Unova Cap",
         "formName": "Unova Cap",
         "region": "alola",
@@ -2159,10 +2159,10 @@
         "forms": null
     },
     {
-        "id": "pikachu-kalos-cap",
-        "nid": "0025-kalos-cap",
+        "id": "pikachu-kalos",
+        "nid": "0025-kalos",
         "dexNum": 25,
-        "formId": "kalos-cap",
+        "formId": "kalos",
         "name": "Pikachu Kalos Cap",
         "formName": "Kalos Cap",
         "region": "alola",
@@ -2203,10 +2203,10 @@
         "forms": null
     },
     {
-        "id": "pikachu-alola-cap",
-        "nid": "0025-alola-cap",
+        "id": "pikachu-alola",
+        "nid": "0025-alola",
         "dexNum": 25,
-        "formId": "alola-cap",
+        "formId": "alola",
         "name": "Pikachu Alola Cap",
         "formName": "Alola Cap",
         "region": "alola",
@@ -2247,10 +2247,10 @@
         "forms": null
     },
     {
-        "id": "pikachu-partner-cap",
-        "nid": "0025-partner-cap",
+        "id": "pikachu-partner",
+        "nid": "0025-partner",
         "dexNum": 25,
-        "formId": "partner-cap",
+        "formId": "partner",
         "name": "Pikachu Partner Cap",
         "formName": "Partner Cap",
         "region": "alola",
@@ -2291,10 +2291,10 @@
         "forms": null
     },
     {
-        "id": "pikachu-world-cap",
-        "nid": "0025-world-cap",
+        "id": "pikachu-world",
+        "nid": "0025-world",
         "dexNum": 25,
-        "formId": "world-cap",
+        "formId": "world",
         "name": "Pikachu World Cap",
         "formName": "World Cap",
         "region": "galar",
@@ -52620,7 +52620,7 @@
         "nid": "0774",
         "dexNum": 774,
         "formId": "meteor",
-        "name": "Minior",
+        "name": "Minior Meteor Form",
         "formName": "Meteor Form",
         "region": "alola",
         "generation": 7,
@@ -52649,7 +52649,7 @@
         "isRegional": false,
         "isGmax": false,
         "canGmax": false,
-        "canDynamax": true,
+        "canDynamax": false,
         "canBeAlpha": false,
         "obtainableIn": [],
         "transferableTo": [],

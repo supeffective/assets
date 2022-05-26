@@ -11,14 +11,24 @@ declare(strict_types=1);
     error_reporting(-1);
     $jsonEncodeFlags = JSON_THROW_ON_ERROR | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE;
     $inputFile = __DIR__ . '/../data/pokemon.json';
-    $inputFileMin = __DIR__ . '/../data/pokemon.min.json';
     $dataSet = json_decode(file_get_contents($inputFile), true, 512, JSON_THROW_ON_ERROR);
     $dataSetById = [];
     foreach ($dataSet as $data) {
         $dataSetById[$data['id']] = $data;
     }
 
-    $detectDuplicates = static function () use ($dataSet, $jsonEncodeFlags): void {
+    $jsonEncodeMin = static function (array $data) {
+        return json_encode($data, JSON_THROW_ON_ERROR | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+    };
+
+    $jsonEncodePretty = static function (array $data) {
+        return json_encode(
+            $data,
+            JSON_THROW_ON_ERROR | JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE
+        );
+    };
+
+    $detectDuplicates = static function () use ($dataSet): void {
         $processed = [];
 
         foreach ($dataSet as $pkm) {
@@ -33,7 +43,7 @@ declare(strict_types=1);
         }
     };
 
-    $generatePokemonList = static function () use ($dataSet, $jsonEncodeFlags): void {
+    $generatePokemonList = static function () use ($dataSet, $jsonEncodePretty): void {
         $outputFile = __DIR__ . '/../data/pokemon/pokemon-sorted.min.json';
         $newDataSet = [];
 
@@ -41,14 +51,11 @@ declare(strict_types=1);
             $newDataSet[] = $pkm['id'];
         }
 
-        file_put_contents(
-            $outputFile,
-            json_encode($newDataSet, JSON_PRETTY_PRINT | $jsonEncodeFlags)
-        );
+        file_put_contents($outputFile, $jsonEncodePretty($newDataSet));
     };
 
-    $generateStorablePokemonList = static function () use ($dataSet, $jsonEncodeFlags): void {
-        $outputFile = __DIR__ . '/../data/livingdex/storable-pokemon/home/pokemon-list-storable.min.json';
+    $generateStorablePokemonList = static function () use ($dataSet, $jsonEncodePretty): void {
+        $outputFile = __DIR__ . '/../data/livingdex/storable-pokemon/home/storable-pokemon.min.json';
         $newDataSet = [];
 
         foreach ($dataSet as $pkm) {
@@ -58,13 +65,10 @@ declare(strict_types=1);
             $newDataSet[] = $pkm['id'];
         }
 
-        file_put_contents(
-            $outputFile,
-            json_encode($newDataSet, JSON_PRETTY_PRINT | $jsonEncodeFlags)
-        );
+        file_put_contents($outputFile, $jsonEncodePretty($newDataSet));
     };
 
-    $generateMegaPokemonList = static function () use ($dataSet, $jsonEncodeFlags): void {
+    $generateMegaPokemonList = static function () use ($dataSet, $jsonEncodePretty): void {
         $outputFile = __DIR__ . '/../data/pokemon/mega-pokemon.min.json';
         $newDataSet = [];
 
@@ -75,14 +79,11 @@ declare(strict_types=1);
             $newDataSet[] = $pkm['id'];
         }
 
-        file_put_contents(
-            $outputFile,
-            json_encode($newDataSet, JSON_PRETTY_PRINT | $jsonEncodeFlags)
-        );
+        file_put_contents($outputFile, $jsonEncodePretty($newDataSet));
     };
 
-    $generateGmaxPokemonList = static function () use ($dataSet, $dataSetById, $jsonEncodeFlags): void {
-        $outputFile = __DIR__ . '/../data/pokemon/gigantamax-pokemon.min.json';
+    $generateGmaxPokemonList = static function () use ($dataSet, $dataSetById, $jsonEncodePretty): void {
+        $outputFile = __DIR__ . '/../data/pokemon/gigantamaxable-pokemon.min.json';
         $newDataSet = [];
 
         foreach ($dataSet as $pkm) {
@@ -101,13 +102,10 @@ declare(strict_types=1);
             throw new \RuntimeException('Gmax count mismatch');
         }
 
-        file_put_contents(
-            $outputFile,
-            json_encode($newDataSet['canGmax'], JSON_PRETTY_PRINT | $jsonEncodeFlags)
-        );
+        file_put_contents($outputFile, $jsonEncodePretty($newDataSet['canGmax']));
     };
 
-    $generateAlphaPokemonList = static function () use ($dataSet, $jsonEncodeFlags): void {
+    $generateAlphaPokemonList = static function () use ($dataSet, $jsonEncodePretty): void {
         $outputFile = __DIR__ . '/../data/pokemon/alpha-pokemon.min.json';
         $newDataSet = [];
 
@@ -118,13 +116,10 @@ declare(strict_types=1);
             $newDataSet[] = $pkm['id'];
         }
 
-        file_put_contents(
-            $outputFile,
-            json_encode($newDataSet, JSON_PRETTY_PRINT | $jsonEncodeFlags)
-        );
+        file_put_contents($outputFile, $jsonEncodePretty($newDataSet));
     };
 
-    $prettifyAndMinifyAllJsonFiles = static function () use ($jsonEncodeFlags): void {
+    $prettifyAndMinifyAllJsonFiles = static function () use ($jsonEncodePretty, $jsonEncodeMin): void {
         /** @var SplFileInfo[] $iterator */
         $iterator = new \RecursiveIteratorIterator(
             new \RecursiveDirectoryIterator(__DIR__ . '/../data', \RecursiveDirectoryIterator::SKIP_DOTS),
@@ -141,17 +136,57 @@ declare(strict_types=1);
             }
             $minFile = str_replace('.json', '.min.json', $file);
             $data = json_decode(file_get_contents($file), true, 512, JSON_THROW_ON_ERROR);
-            file_put_contents($file, json_encode($data, JSON_PRETTY_PRINT | $jsonEncodeFlags));
-            file_put_contents($minFile, json_encode($data, $jsonEncodeFlags));
+            file_put_contents($file, $jsonEncodePretty($data));
+            file_put_contents($minFile, $jsonEncodeMin($data));
         }
     };
 
+    $generateFullySortedHomePreset = static function () use ($dataSet, $jsonEncodePretty): void {
+        $outputFile = __DIR__ . '/../data/livingdex/box-presets/home/fully-sorted.json';
+        $preset = [
+            'id' => 'fully-sorted',
+            'name' => 'Fully Sorted',
+            //'shortDescription' => 'Sorted by Species and their Forms, in their HOME order.',
+            "description" => "Pokémon Boxes sorted by Species and Forms, following original Pokémon HOME order.\n"
+                . "Every newly introduced form will alter the order of all the following Pokémon.",
+            "boxes" => [],
+
+        ];
+        $maxPkmPerBox = 30;
+        $currentBox = 0;
+        foreach ($dataSet as $i => $pkm) {
+            if (!in_array('home', $pkm['transferableTo'], true)) { // TODO, support all games, using nested loop
+                continue;
+            }
+            if (
+                isset($preset['boxes'][$currentBox])
+                && (count($preset['boxes'][$currentBox]['pokemon']) >= $maxPkmPerBox)
+            ) {
+                $currentBox++;
+            }
+            if (!isset($preset['boxes'][$currentBox])) {
+                $preset['boxes'][$currentBox] = [
+                    'title' => 'Box ' . ($currentBox + 1),
+                    'pokemon' => [],
+                ];
+            }
+            $preset['boxes'][$currentBox]['pokemon'][] = $pkm['id'];
+        }
+
+        file_put_contents($outputFile, $jsonEncodePretty($preset));
+    };
+
+
     $detectDuplicates();
+
     $generatePokemonList();
     $generateStorablePokemonList();
+    $generateFullySortedHomePreset();
     //$generateMegaPokemonList();
     $generateGmaxPokemonList();
     $generateAlphaPokemonList();
+
+
     $prettifyAndMinifyAllJsonFiles();
 
     echo "[OK] Build finished!\n";

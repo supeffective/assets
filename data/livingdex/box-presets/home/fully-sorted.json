@@ -1,7 +1,7 @@
 {
     "id": "fully-sorted",
-    "name": "Sorted by Species and their Forms",
-    "description": "Pokémon Boxes sorted by Species and Forms order, following original Pokémon HOME order. Every newly introduced form will alter the order of all the following Pokémon.",
+    "name": "Fully Sorted",
+    "description": "Pokémon Boxes sorted by Species and Forms, following original Pokémon HOME order.\nEvery newly introduced form will alter the order of all the following Pokémon.",
     "boxes": [
         {
             "title": "Box 1",
@@ -784,6 +784,7 @@
                 "manaphy",
                 "darkrai",
                 "shaymin",
+                "shaymin-sky",
                 "arceus",
                 "victini",
                 "snivy",
@@ -804,13 +805,13 @@
                 "liepard",
                 "pansage",
                 "simisage",
-                "pansear",
-                "simisear"
+                "pansear"
             ]
         },
         {
             "title": "Box 24",
             "pokemon": [
+                "simisear",
                 "panpour",
                 "simipour",
                 "munna",
@@ -839,13 +840,13 @@
                 "sawk",
                 "sewaddle",
                 "swadloon",
-                "leavanny",
-                "venipede"
+                "leavanny"
             ]
         },
         {
             "title": "Box 25",
             "pokemon": [
+                "venipede",
                 "whirlipede",
                 "scolipede",
                 "cottonee",
@@ -874,13 +875,13 @@
                 "carracosta",
                 "archen",
                 "archeops",
-                "trubbish",
-                "garbodor"
+                "trubbish"
             ]
         },
         {
             "title": "Box 26",
             "pokemon": [
+                "garbodor",
                 "zorua",
                 "zoroark",
                 "minccino",
@@ -909,13 +910,13 @@
                 "escavalier",
                 "foongus",
                 "amoonguss",
-                "frillish",
-                "frillish-f"
+                "frillish"
             ]
         },
         {
             "title": "Box 27",
             "pokemon": [
+                "frillish-f",
                 "jellicent",
                 "jellicent-f",
                 "alomomola",
@@ -944,13 +945,13 @@
                 "accelgor",
                 "stunfisk",
                 "stunfisk-galar",
-                "mienfoo",
-                "mienshao"
+                "mienfoo"
             ]
         },
         {
             "title": "Box 28",
             "pokemon": [
+                "mienshao",
                 "druddigon",
                 "golett",
                 "golurk",
@@ -979,13 +980,13 @@
                 "zekrom",
                 "landorus",
                 "landorus-therian",
-                "kyurem",
-                "keldeo"
+                "kyurem"
             ]
         },
         {
             "title": "Box 29",
             "pokemon": [
+                "keldeo",
                 "keldeo-resolute",
                 "meloetta",
                 "genesect",
@@ -1006,21 +1007,21 @@
                 "talonflame",
                 "scatterbug",
                 "spewpa",
-                "vivillon-icy-snow",
+                "vivillon",
+                "vivillon-meadow",
                 "vivillon-polar",
                 "vivillon-tundra",
                 "vivillon-continental",
                 "vivillon-garden",
                 "vivillon-elegant",
-                "vivillon",
                 "vivillon-modern",
-                "vivillon-marine",
-                "vivillon-archipelago"
+                "vivillon-marine"
             ]
         },
         {
             "title": "Box 30",
             "pokemon": [
+                "vivillon-archipelago",
                 "vivillon-high-plains",
                 "vivillon-sandstorm",
                 "vivillon-river",
@@ -1035,27 +1036,27 @@
                 "pyroar",
                 "pyroar-f",
                 "flabebe",
-                "flabebe-yellow",
-                "flabebe-orange",
                 "flabebe-blue",
+                "flabebe-orange",
                 "flabebe-white",
+                "flabebe-yellow",
                 "floette",
-                "floette-yellow",
-                "floette-orange",
                 "floette-blue",
+                "floette-orange",
                 "floette-white",
+                "floette-yellow",
                 "florges",
-                "florges-yellow",
-                "florges-orange",
                 "florges-blue",
+                "florges-orange",
                 "florges-white",
-                "skiddo",
-                "gogoat"
+                "florges-yellow",
+                "skiddo"
             ]
         },
         {
             "title": "Box 31",
             "pokemon": [
+                "gogoat",
                 "pancham",
                 "pangoro",
                 "furfrou",
@@ -1084,13 +1085,13 @@
                 "barbaracle",
                 "skrelp",
                 "dragalge",
-                "clauncher",
-                "clawitzer"
+                "clauncher"
             ]
         },
         {
             "title": "Box 32",
             "pokemon": [
+                "clawitzer",
                 "helioptile",
                 "heliolisk",
                 "tyrunt",
@@ -1119,13 +1120,13 @@
                 "avalugg",
                 "noibat",
                 "noivern",
-                "xerneas",
-                "yveltal"
+                "xerneas"
             ]
         },
         {
             "title": "Box 33",
             "pokemon": [
+                "yveltal",
                 "zygarde",
                 "zygarde-power-construct",
                 "zygarde-10",
@@ -1154,13 +1155,13 @@
                 "crabrawler",
                 "crabominable",
                 "oricorio",
-                "oricorio-pom-pom",
-                "oricorio-pau"
+                "oricorio-pom-pom"
             ]
         },
         {
             "title": "Box 34",
             "pokemon": [
+                "oricorio-pau",
                 "oricorio-sensu",
                 "cutiefly",
                 "ribombee",
@@ -1189,20 +1190,20 @@
                 "tsareena",
                 "comfey",
                 "oranguru",
-                "passimian",
-                "wimpod"
+                "passimian"
             ]
         },
         {
             "title": "Box 35",
             "pokemon": [
+                "wimpod",
                 "golisopod",
                 "sandygast",
                 "palossand",
                 "pyukumuku",
                 "typenull",
                 "silvally",
-                "minior",
+                "minior-red",
                 "minior-orange",
                 "minior-yellow",
                 "minior-green",
@@ -1224,13 +1225,13 @@
                 "tapubulu",
                 "tapufini",
                 "cosmog",
-                "cosmoem",
-                "solgaleo"
+                "cosmoem"
             ]
         },
         {
             "title": "Box 36",
             "pokemon": [
+                "solgaleo",
                 "lunala",
                 "nihilego",
                 "buzzwole",
@@ -1259,13 +1260,13 @@
                 "sobble",
                 "drizzile",
                 "inteleon",
-                "skwovet",
-                "greedent"
+                "skwovet"
             ]
         },
         {
             "title": "Box 37",
             "pokemon": [
+                "greedent",
                 "rookidee",
                 "corvisquire",
                 "corviknight",
@@ -1294,13 +1295,13 @@
                 "arrokuda",
                 "barraskewda",
                 "toxel",
-                "toxtricity",
-                "toxtricity-low-key"
+                "toxtricity"
             ]
         },
         {
             "title": "Box 38",
             "pokemon": [
+                "toxtricity-low-key",
                 "sizzlipede",
                 "centiskorch",
                 "clobbopus",
@@ -1329,13 +1330,13 @@
                 "alcremie-vanilla-cream-clover",
                 "alcremie-vanilla-cream-flower",
                 "alcremie-vanilla-cream-ribbon",
-                "alcremie-ruby-cream-strawberry",
-                "alcremie-ruby-cream-berry"
+                "alcremie-ruby-cream-strawberry"
             ]
         },
         {
             "title": "Box 39",
             "pokemon": [
+                "alcremie-ruby-cream-berry",
                 "alcremie-ruby-cream-love",
                 "alcremie-ruby-cream-star",
                 "alcremie-ruby-cream-clover",
@@ -1364,13 +1365,13 @@
                 "alcremie-lemon-cream-ribbon",
                 "alcremie-salted-cream-strawberry",
                 "alcremie-salted-cream-berry",
-                "alcremie-salted-cream-love",
-                "alcremie-salted-cream-star"
+                "alcremie-salted-cream-love"
             ]
         },
         {
             "title": "Box 40",
             "pokemon": [
+                "alcremie-salted-cream-star",
                 "alcremie-salted-cream-clover",
                 "alcremie-salted-cream-flower",
                 "alcremie-salted-cream-ribbon",
@@ -1399,13 +1400,13 @@
                 "pincurchin",
                 "snom",
                 "frosmoth",
-                "stonjourner",
-                "eiscue"
+                "stonjourner"
             ]
         },
         {
             "title": "Box 41",
             "pokemon": [
+                "eiscue",
                 "indeedee",
                 "indeedee-f",
                 "morpeko",

@@ -1076,10 +1076,7 @@
         {
             "title": "Kalos Alt. 1",
             "pokemon": [
-                [
-                    "greninja",
-                    "battle-bond"
-                ],
+                "greninja-battle-bond",
                 "pyroar-f",
                 "meowstic-f",
                 "pumpkaboo-small",
@@ -1114,28 +1111,22 @@
         {
             "title": "Kalos Alt. 2",
             "pokemon": [
-                [
-                    "zygarde",
-                    "power-construct"
-                ],
+                "zygarde-power-construct",
                 "zygarde-10",
-                [
-                    "zygarde-10",
-                    "power-construct"
-                ],
+                "zygarde-10-power-construct",
                 "hoopa-unbound"
             ]
         },
         {
             "title": "Vivillon Patt.",
             "pokemon": [
-                "vivillon-icy-snow",
+                "vivillon",
                 "vivillon-polar",
                 "vivillon-tundra",
                 "vivillon-continental",
                 "vivillon-garden",
                 "vivillon-elegant",
-                "vivillon",
+                "vivillon-meadow",
                 "vivillon-modern",
                 "vivillon-marine",
                 "vivillon-archipelago",
@@ -1211,7 +1202,7 @@
                 "pyukumuku",
                 "typenull",
                 "silvally",
-                "minior",
+                "minior-red",
                 "komala",
                 "turtonator",
                 "togedemaru",
@@ -1258,10 +1249,7 @@
                 "oricorio-pom-pom",
                 "oricorio-pau",
                 "oricorio-sensu",
-                [
-                    "rockruff",
-                    "own-tempo"
-                ],
+                "rockruff-own-tempo",
                 "lycanroc-midnight",
                 "lycanroc-dusk",
                 "minior-orange",
@@ -1524,16 +1512,20 @@
             "title": "Gigantamax 1",
             "pokemon": [
                 "venusaur",
+                "venusaur-f",
                 "charizard",
                 "blastoise",
                 "butterfree",
+                "butterfree-f",
                 "pikachu",
+                "pikachu-f",
                 "meowth",
                 "machamp",
                 "gengar",
                 "kingler",
                 "lapras",
                 "eevee",
+                "eevee-f",
                 "snorlax",
                 "garbodor",
                 "melmetal",
@@ -1548,16 +1540,16 @@
                 "appletun",
                 "sandaconda",
                 "toxtricity",
-                "toxtricity-low-key",
-                "centiskorch",
-                "hatterene",
-                "grimmsnarl",
-                "alcremie"
+                "toxtricity-low-key"
             ]
         },
         {
             "title": "Gigantamax 2",
             "pokemon": [
+                "centiskorch",
+                "hatterene",
+                "grimmsnarl",
+                "alcremie",
                 "copperajah",
                 "duraludon",
                 "urshifu",
