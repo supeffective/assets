@@ -3,6 +3,8 @@
 // _bootstrap.php: Base code for all other PHP scripts
 error_reporting(-1);
 
+const SGG_PKM_ENTRIES_FILE = 'pokemon/pokemon-entries.min.json';
+
 function sgg_get_data_path(?string $relativePath = null): string
 {
     $basePath = dirname(__DIR__) . '/data';
@@ -101,4 +103,48 @@ function sgg_json_files_in_dir_tree(?string $relativeDataPath = null, bool $igno
     }
 
     return $found;
+}
+
+function sgg_get_merged_pkm_entries(): array
+{
+    $sortedPokemonList = sgg_data_load('pokemon.json');
+
+    $existingPkmEntries = array_map(static function ($fileName) {
+        return pathinfo($fileName, PATHINFO_FILENAME);
+    }, sgg_json_files_in_dir_tree('pokemon/entries', true));
+
+    $existingPkmEntriesMap = array_combine($existingPkmEntries, $existingPkmEntries);
+    $sortedPokemonListMap = [];
+
+    foreach ($sortedPokemonList as $pkmId) {
+        // find duplicates in sorted list
+        if (isset($sortedPokemonListMap[$pkmId])) {
+            throw new \RuntimeException('Duplicated pokemon in Pokemon list: ' . $pkmId);
+        }
+
+        // check if some pokemon in the sorted list is missing its entry file
+        if (!isset($existingPkmEntriesMap[$pkmId])) {
+            throw new \RuntimeException('Missing pokemon entry: ' . $pkmId);
+        }
+        $sortedPokemonListMap[$pkmId] = $pkmId;
+    }
+
+    // check if some entry is missing in sorted list
+    foreach ($existingPkmEntriesMap as $pkmId) {
+        if (!isset($sortedPokemonListMap[$pkmId])) {
+            throw new \RuntimeException('Unknown entry: Pokemon not found in full pokemon list: ' . $pkmId);
+        }
+    }
+
+    $fullEntries = [];
+    // Collect all entries and save them in a single file
+    foreach ($sortedPokemonList as $pkmId) {
+        if (!isset($existingPkmEntriesMap[$pkmId])) {
+            throw new \RuntimeException('Missing pokemon entry: ' . $pkmId);
+        }
+        $entryData = sgg_data_load('pokemon/entries/' . $pkmId . '.json');
+        $fullEntries[] = $entryData;
+    }
+
+    return $fullEntries;
 }

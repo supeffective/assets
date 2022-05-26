@@ -11,21 +11,23 @@ require_once __DIR__ . '/_bootstrap.php';
 
 (static function () {
     error_reporting(-1);
-    $baseDir = __DIR__ . '/../data/livingdex';
-    $inputFile = $baseDir . '/pokemon.json';
-    $outputFile = $baseDir . '/pokemon-tmp.json'; // rename to pokemon.json after migration is successful
-    $dataSet = json_decode(file_get_contents($inputFile), true, 512, JSON_THROW_ON_ERROR);
-    $newDataSet = [];
+    $dataSet = sgg_get_merged_pkm_entries();
 
     foreach ($dataSet as $i => $pkm) {
-        /* --- START $pkm data transformation */
-        // TODO: transform data here
-        /* --- END $pkm data transformation */
-        $newDataSet[] = $pkm;
-    }
+        $pkmId = $pkm['id'];
 
-    $jsonFlags = JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE;
-    file_put_contents($outputFile, json_encode($newDataSet, JSON_THROW_ON_ERROR | $jsonFlags));
+        $outputFile = sgg_get_data_path(
+        // TODO rename entries-tmp to entries if changes are ok
+            'pokemon/entries-tmp/' . $pkmId . '.json'
+        );
+
+        $newPkm = $pkm;
+        /* --- START $newPkm data transformation */
+        // TODO: transform data here
+        /* --- END $newPkm data transformation */
+        // save pkm entry
+        sgg_data_save($outputFile, $newPkm, false);
+    }
 
     echo "[OK] Build finished!\n";
 })();

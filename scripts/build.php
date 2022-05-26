@@ -4,7 +4,7 @@ declare(strict_types=1);
 require_once __DIR__ . '/_bootstrap.php';
 
 //
-// Splits the big pokemon.json file into smaller files, more memory-friendly for the front-end.
+// Splits the big pokemon.json file into smaller files, and generates other kinds of lists, and other tasks.
 //
 // Do not edit manually the .min.json files, use the build.php script instead.
 //
@@ -12,55 +12,15 @@ require_once __DIR__ . '/_bootstrap.php';
 (static function () {
     error_reporting(-1);
 
-    $mergePokemonEntries = static function (): array {
-        $sortedPokemonList = sgg_data_load('pokemon.json');
-
-        $existingPkmEntries = array_map(static function ($fileName) {
-            return pathinfo($fileName, PATHINFO_FILENAME);
-        }, sgg_json_files_in_dir_tree('pokemon/entries', true));
-
-        $existingPkmEntriesMap = array_combine($existingPkmEntries, $existingPkmEntries);
-        $sortedPokemonListMap = [];
-
-        foreach ($sortedPokemonList as $pkmId) {
-            // find duplicates in sorted list
-            if (isset($sortedPokemonListMap[$pkmId])) {
-                throw new \RuntimeException('Duplicated pokemon in Pokemon list: ' . $pkmId);
-            }
-
-            // check if some pokemon in the sorted list is missing its entry file
-            if (!isset($existingPkmEntriesMap[$pkmId])) {
-                throw new \RuntimeException('Missing pokemon entry: ' . $pkmId);
-            }
-            $sortedPokemonListMap[$pkmId] = $pkmId;
-        }
-
-        // check if some entry is missing in sorted list
-        foreach ($existingPkmEntriesMap as $pkmId) {
-            if (!isset($sortedPokemonListMap[$pkmId])) {
-                throw new \RuntimeException('Unknown entry: Pokemon not found in full pokemon list: ' . $pkmId);
-            }
-        }
-
-        $fullEntries = [];
-        // Collect all entries and save them in a single file
-        foreach ($sortedPokemonList as $pkmId) {
-            if (!isset($existingPkmEntriesMap[$pkmId])) {
-                throw new \RuntimeException('Missing pokemon entry: ' . $pkmId);
-            }
-            $entryData = sgg_data_load('pokemon/entries/' . $pkmId . '.json');
-            $fullEntries[] = $entryData;
-        }
-        sgg_data_save('pokemon/pokemon-entries.min.json', $fullEntries, true);
-
-        return $fullEntries;
-    };
-
-    $dataSet = $mergePokemonEntries();
+    $dataSet = sgg_get_merged_pkm_entries();
     $dataSetById = [];
     foreach ($dataSet as $data) {
         $dataSetById[$data['id']] = $data;
     }
+
+    $saveMergedPokemonEntries = static function () use ($dataSet) {
+        sgg_data_save(SGG_PKM_ENTRIES_FILE, $dataSet, true);
+    };
 
     $generateStorablePokemonList = static function () use ($dataSet): void {
         $newDataSet = [];
@@ -168,6 +128,9 @@ require_once __DIR__ . '/_bootstrap.php';
         sgg_json_encode($preset, false, $outputFile); // prettified
     };
 
+    // TASKS runner:
+
+    $saveMergedPokemonEntries();
 
     $generateStorablePokemonList();
     $generateFullySortedHomePreset();
