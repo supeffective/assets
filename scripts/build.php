@@ -120,6 +120,7 @@ require_once __DIR__ . '/_bootstrap.php';
         $preset = [
             'id' => 'fully-sorted',
             'name' => 'Fully Sorted',
+            'version' => 2,
             'game' => 'home',
             //'shortDescription' => 'Sorted by Species and their Forms, in their HOME order.',
             "description" => "Pokémon Boxes sorted by Species and Forms, following original Pokémon HOME order.\n"
@@ -156,6 +157,7 @@ require_once __DIR__ . '/_bootstrap.php';
         $preset = [
             'id' => 'fully-sorted',
             'name' => 'Fully Sorted',
+            'version' => 1,
             'game' => 'pla',
             //'shortDescription' => 'Sorted by Species and their Forms, in their HOME order.',
             "description" => "Pokémon Boxes sorted by Species and Forms, following original Legends Arceus order.",
