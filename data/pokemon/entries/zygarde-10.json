@@ -81,6 +81,8 @@
     },
     "baseSpecies": "zygarde",
     "baseForms": [],
-    "forms": null,
+    "forms": [
+        "zygarde-10--power-construct"
+    ],
     "evolutions": []
 }

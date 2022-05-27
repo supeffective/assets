@@ -1078,7 +1078,7 @@
         {
             "title": "Kalos Alt. 1",
             "pokemon": [
-                "greninja-battle-bond",
+                "greninja--battle-bond",
                 "pyroar-f",
                 "meowstic-f",
                 "pumpkaboo-small",
@@ -1113,9 +1113,9 @@
         {
             "title": "Kalos Alt. 2",
             "pokemon": [
-                "zygarde-power-construct",
+                "zygarde--power-construct",
                 "zygarde-10",
-                "zygarde-10-power-construct",
+                "zygarde-10--power-construct",
                 "hoopa-unbound"
             ]
         },
@@ -1251,7 +1251,7 @@
                 "oricorio-pom-pom",
                 "oricorio-pau",
                 "oricorio-sensu",
-                "rockruff-own-tempo",
+                "rockruff--own-tempo",
                 "lycanroc-midnight",
                 "lycanroc-dusk",
                 "minior-orange",

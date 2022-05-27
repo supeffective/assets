@@ -1,6 +1,6 @@
 {
-    "id": "greninja-battle-bond",
-    "nid": "0658-battle-bond",
+    "id": "greninja--battle-bond",
+    "nid": "0658--battle-bond",
     "dexNum": 658,
     "formId": "battle-bond",
     "name": "Greninja (Battle Bond Ability)",
@@ -76,8 +76,8 @@
         "showdownData": "greninjabattlebond",
         "serebii": "greninja-battle-bond",
         "bulbapedia": "Greninja",
-        "homeSprite": "greninja-battle-bond",
-        "miniSprite": "greninja-battle-bond"
+        "homeSprite": "greninja--battle-bond",
+        "miniSprite": "greninja--battle-bond"
     },
     "baseSpecies": "greninja",
     "baseForms": [],

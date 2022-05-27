@@ -1,8 +1,8 @@
 {
-    "id": "zygarde-10-power-construct",
-    "nid": "0718-10-power-construct",
+    "id": "zygarde-10--power-construct",
+    "nid": "0718-10--power-construct",
     "dexNum": 718,
-    "formId": "10-power-construct",
+    "formId": "10--power-construct",
     "name": "Zygarde 10% Forme (Power Construct Ability)",
     "formName": "10% Forme (Power Construct Ability)",
     "region": "alola",
@@ -76,11 +76,15 @@
         "showdownData": "zygarde10powerconstruct",
         "serebii": "zygarde-10-power-construct",
         "bulbapedia": "Zygarde",
-        "homeSprite": "zygarde-10-power-construct",
-        "miniSprite": "zygarde-10-power-construct"
+        "homeSprite": "zygarde-10--power-construct",
+        "miniSprite": "zygarde-10--power-construct"
     },
     "baseSpecies": "zygarde",
-    "baseForms": [],
-    "forms": null,
+    "baseForms": [
+        "zygarde-10"
+    ],
+    "forms": [
+        "zygarde-complete"
+    ],
     "evolutions": []
 }
