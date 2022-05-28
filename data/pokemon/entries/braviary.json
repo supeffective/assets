@@ -23,7 +23,7 @@
     "isForm": false,
     "isSpecialAbilityForm": false,
     "isCosmeticForm": false,
-    "isFemale": false,
+    "isFemaleForm": false,
     "hasGenderDifferences": false,
     "isBattleOnlyForm": false,
     "isSwitchableForm": false,
@@ -82,7 +82,8 @@
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
-        "braviary"
+        "braviary",
+        "braviary-hisui"
     ],
     "evolutions": []
 }

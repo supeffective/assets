@@ -23,7 +23,7 @@
     "isForm": true,
     "isSpecialAbilityForm": false,
     "isCosmeticForm": false,
-    "isFemale": false,
+    "isFemaleForm": false,
     "hasGenderDifferences": true,
     "isBattleOnlyForm": false,
     "isSwitchableForm": false,
@@ -37,11 +37,11 @@
     "canDynamax": false,
     "canBeAlpha": true,
     "obtainableIn": [
-        "pla"
+        "la"
     ],
     "storableIn": [
         "home",
-        "pla"
+        "la"
     ],
     "shinyReleased": false,
     "baseStats": {

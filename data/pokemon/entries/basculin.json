@@ -23,7 +23,7 @@
     "isForm": false,
     "isSpecialAbilityForm": false,
     "isCosmeticForm": false,
-    "isFemale": false,
+    "isFemaleForm": false,
     "hasGenderDifferences": true,
     "isBattleOnlyForm": false,
     "isSwitchableForm": false,
@@ -83,7 +83,8 @@
     "baseForms": [],
     "forms": [
         "basculin",
-        "basculin-blue-striped"
+        "basculin-blue-striped",
+        "basculin-white-striped"
     ],
     "evolutions": []
 }

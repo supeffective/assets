@@ -7,8 +7,8 @@ require_once __DIR__ . '/_bootstrap.php';
 
 (static function () {
     error_reporting(-1);
-    $pokemonById = sgg_data_load('pokemon/pokemon-entries-byid.min.json');
-    $storablePokemonList = sgg_data_load('livingdex/storable-pokemon/home/storable-pokemon.min.json');
+    $pokemonById = sgg_data_load('pokemon/pokemon-entries-byid.build.json');
+    $storablePokemonList = sgg_data_load('livingdex/storable-pokemon/home/storable-pokemon.build.json');
 
     $validateHomeDexPreset = static function (array $dexPreset) use ($storablePokemonList, $pokemonById): array {
         $presetId = $dexPreset['id'];
@@ -66,7 +66,7 @@ require_once __DIR__ . '/_bootstrap.php';
         $errors = [];
         $warnings = [];
         foreach ($files as $file) {
-            if (str_contains($file, '.min.json')) {
+            if (str_contains($file, '.min.json') || str_contains($file, '.build.json')) {
                 continue;
             }
             $json = file_get_contents($file);

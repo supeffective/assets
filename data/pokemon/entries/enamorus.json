@@ -19,11 +19,11 @@
     "isMythical": false,
     "isUltraBeast": false,
     "ultraBeastCode": null,
-    "isDefault": false,
+    "isDefault": true,
     "isForm": false,
     "isSpecialAbilityForm": false,
     "isCosmeticForm": false,
-    "isFemale": false,
+    "isFemaleForm": false,
     "hasGenderDifferences": false,
     "isBattleOnlyForm": false,
     "isSwitchableForm": false,
@@ -37,11 +37,11 @@
     "canDynamax": false,
     "canBeAlpha": false,
     "obtainableIn": [
-        "pla"
+        "la"
     ],
     "storableIn": [
         "home",
-        "pla"
+        "la"
     ],
     "shinyReleased": false,
     "baseStats": {
@@ -70,20 +70,23 @@
         "max": "-1m",
         "alpha": "-1m"
     },
-    "maleRate": -1,
-    "femaleRate": -1,
+    "maleRate": 0,
+    "femaleRate": 100,
     "refs": {
-        "pogo": null,
-        "veekunDb": null,
-        "showdownMarkup": null,
-        "showdownData": null,
-        "serebii": null,
-        "bulbapedia": null,
+        "pogo": "ENAMORUS",
+        "veekunDb": "enamorus",
+        "showdownMarkup": "Enamorus",
+        "showdownData": "enamorus",
+        "serebii": "enamorus",
+        "bulbapedia": "Enamorus",
         "homeSprite": "enamorus",
         "miniSprite": "enamorus"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "enamorus",
+        "enamorus-therian"
+    ],
     "evolutions": []
 }

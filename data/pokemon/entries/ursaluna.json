@@ -19,11 +19,11 @@
     "isMythical": false,
     "isUltraBeast": false,
     "ultraBeastCode": null,
-    "isDefault": false,
+    "isDefault": true,
     "isForm": false,
     "isSpecialAbilityForm": false,
     "isCosmeticForm": false,
-    "isFemale": false,
+    "isFemaleForm": false,
     "hasGenderDifferences": false,
     "isBattleOnlyForm": false,
     "isSwitchableForm": false,
@@ -37,11 +37,11 @@
     "canDynamax": false,
     "canBeAlpha": true,
     "obtainableIn": [
-        "pla"
+        "la"
     ],
     "storableIn": [
         "home",
-        "pla"
+        "la"
     ],
     "shinyReleased": false,
     "baseStats": {
@@ -73,17 +73,19 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": null,
-        "veekunDb": null,
-        "showdownMarkup": null,
-        "showdownData": null,
-        "serebii": null,
-        "bulbapedia": null,
+        "pogo": "URSALUNA",
+        "veekunDb": "ursaluna",
+        "showdownMarkup": "Ursaluna",
+        "showdownData": "ursaluna",
+        "serebii": "ursaluna",
+        "bulbapedia": "Ursaluna",
         "homeSprite": "ursaluna",
         "miniSprite": "ursaluna"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "ursaluna"
+    ],
     "evolutions": []
 }

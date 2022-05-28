@@ -23,7 +23,7 @@
     "isForm": false,
     "isSpecialAbilityForm": false,
     "isCosmeticForm": false,
-    "isFemale": false,
+    "isFemaleForm": false,
     "hasGenderDifferences": true,
     "isBattleOnlyForm": false,
     "isSwitchableForm": false,
@@ -37,11 +37,11 @@
     "canDynamax": true,
     "canBeAlpha": true,
     "obtainableIn": [
-        "pla"
+        "la"
     ],
     "storableIn": [
         "home",
-        "pla"
+        "la"
     ],
     "shinyReleased": null,
     "baseStats": {
@@ -86,7 +86,9 @@
     "baseForms": [],
     "forms": [
         "sneasel",
-        "sneasel-f"
+        "sneasel-f",
+        "sneasel-hisui",
+        "sneasel-hisui-f"
     ],
     "evolutions": []
 }

@@ -23,7 +23,7 @@
     "isForm": true,
     "isSpecialAbilityForm": false,
     "isCosmeticForm": false,
-    "isFemale": true,
+    "isFemaleForm": true,
     "hasGenderDifferences": true,
     "isBattleOnlyForm": false,
     "isSwitchableForm": false,
@@ -37,11 +37,11 @@
     "canDynamax": false,
     "canBeAlpha": true,
     "obtainableIn": [
-        "pla"
+        "la"
     ],
     "storableIn": [
         "home",
-        "pla"
+        "la"
     ],
     "shinyReleased": false,
     "baseStats": {
@@ -73,12 +73,12 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": null,
-        "veekunDb": null,
-        "showdownMarkup": null,
-        "showdownData": null,
-        "serebii": null,
-        "bulbapedia": null,
+        "pogo": "BASCULEGION-F",
+        "veekunDb": "basculegion-f",
+        "showdownMarkup": "Basculegion-F",
+        "showdownData": "basculegionf",
+        "serebii": "basculegion",
+        "bulbapedia": "Basculegion",
         "homeSprite": "basculegion-f",
         "miniSprite": "basculegion-f"
     },

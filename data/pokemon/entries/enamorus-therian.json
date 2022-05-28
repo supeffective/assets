@@ -23,10 +23,10 @@
     "isForm": true,
     "isSpecialAbilityForm": false,
     "isCosmeticForm": false,
-    "isFemale": false,
+    "isFemaleForm": false,
     "hasGenderDifferences": false,
     "isBattleOnlyForm": false,
-    "isSwitchableForm": false,
+    "isSwitchableForm": true,
     "isFusion": false,
     "fusedWith": null,
     "isMega": false,
@@ -37,11 +37,11 @@
     "canDynamax": false,
     "canBeAlpha": false,
     "obtainableIn": [
-        "pla"
+        "la"
     ],
     "storableIn": [
         "home",
-        "pla"
+        "la"
     ],
     "shinyReleased": false,
     "baseStats": {
@@ -70,15 +70,15 @@
         "max": "-1m",
         "alpha": "-1m"
     },
-    "maleRate": -1,
-    "femaleRate": -1,
+    "maleRate": 0,
+    "femaleRate": 100,
     "refs": {
-        "pogo": null,
-        "veekunDb": null,
-        "showdownMarkup": null,
-        "showdownData": null,
-        "serebii": null,
-        "bulbapedia": null,
+        "pogo": "ENAMORUS_THERIAN",
+        "veekunDb": "enamorus-therian",
+        "showdownMarkup": "Enamorus-Therian",
+        "showdownData": "enamorustherian",
+        "serebii": "enamorus",
+        "bulbapedia": "Enamorus",
         "homeSprite": "enamorus-therian",
         "miniSprite": "enamorus-therian"
     },
