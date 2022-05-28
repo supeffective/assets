@@ -19,7 +19,7 @@ You will need Linux or MacOS for the scripts to work, with PHP 8.1 or greater.
 
 ## Data Sources
 
-This project has reused these other existing projects to generate the initial set data:
+This project has reused these other existing projects to generate the initial set of data:
 
 - Pokémon Showdown data
 - Veekun DB data
