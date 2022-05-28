@@ -8,9 +8,8 @@ require_once __DIR__ . '/_bootstrap.php';
 (static function () {
     error_reporting(-1);
     $pokemonById = sgg_data_load('pokemon/pokemon-entries-byid.build.json');
-    $storablePokemonList = sgg_data_load('livingdex/storable-pokemon/home/storable-pokemon.build.json');
 
-    $validateHomeDexPreset = static function (array $dexPreset) use ($storablePokemonList, $pokemonById): array {
+    $validateDexPreset = static function (array $dexPreset, array $storablePokemonList) use ($pokemonById): array {
         $presetId = $dexPreset['id'];
         $pokemonInBoxes = [];
         $errors = [];
@@ -55,43 +54,39 @@ require_once __DIR__ . '/_bootstrap.php';
         return [$errors, $warnings];
     };
 
-    $validateHomeDexPresets = static function () use ($validateHomeDexPreset): void {
-        // find all json files from ./home and iterate over them
-        $files = [];
-        $games = ['home']; // TODO add validation for other games
-        foreach ($games as $game) {
-            $gameFiles = glob(__DIR__ . '/../data/livingdex/box-presets/' . $game . '/*.json');
-            $files = array_merge($files, $gameFiles);
-        }
+    $validateDexPresets = static function () use ($validateDexPreset): void {
+        $presetsByGame = sgg_data_load('livingdex/box-presets.build.json');
         $errors = [];
         $warnings = [];
-        foreach ($files as $file) {
-            if (str_contains($file, '.min.json') || str_contains($file, '.build.json')) {
-                continue;
-            }
-            $json = file_get_contents($file);
-            $data = json_decode($json, true, 512, JSON_THROW_ON_ERROR);
-            if ($data === null) {
-                throw new \RuntimeException("Error: file '$file' has malformed JSON\n");
-            }
-            [$fileErrors, $fileWarnings] = $validateHomeDexPreset($data);
-            $errorCount = count($fileErrors);
-            if ($errorCount > 0) {
-                //sort($fileErrors);
-                $errors[] = (
-                    "\n>  Preset '{$file}' has $errorCount errors: \n" . implode("\n", $fileErrors) . "\n"
-                );
-            }
-            $warningCount = count($fileWarnings);
-            if ($warningCount > 0) {
-                //sort($fileWarnings);
-                $warnings[] = (
-                    "\n>  Preset '{$file}' has $warningCount warnings: \n" . implode("\n", $fileWarnings) . "\n"
-                );
-            }
 
-            if ($errorCount === 0 && $warningCount === 0) {
-                echo ">  Preset '{$file}' is valid\n";
+        foreach ($presetsByGame as $gameId => $presets) {
+            foreach ($presets as $presetId => $preset) {
+                $presetPath = "{$gameId}.{$presetId}";
+                $storablePokemonList = sgg_data_load(
+                    'livingdex/storable-pokemon/' . $gameId . '/storable-pokemon.build.json'
+                );
+                [$fileErrors, $fileWarnings] = $validateDexPreset($preset, $storablePokemonList);
+                $errorCount = count($fileErrors);
+                if ($errorCount > 0) {
+                    //sort($fileErrors);
+                    $errors[] = (
+                        "\n>  Preset '$presetPath' has $errorCount errors: \n" . implode("\n", $fileErrors) . "\n"
+                    );
+                }
+                $warningCount = count($fileWarnings);
+                if ($warningCount > 0) {
+                    //sort($fileWarnings);
+                    $warnings[] = (
+                        "\n>  Preset '{$presetPath}' has $warningCount warnings: \n" . implode(
+                            "\n",
+                            $fileWarnings
+                        ) . "\n"
+                    );
+                }
+
+                if ($errorCount === 0 && $warningCount === 0) {
+                    echo ">  Preset '{$presetPath}' is valid\n";
+                }
             }
         }
 
@@ -109,7 +104,7 @@ require_once __DIR__ . '/_bootstrap.php';
         }
     };
 
-    $validateHomeDexPresets();
+    $validateDexPresets();
 
     echo "[OK] All data is correct!\n";
 })();
