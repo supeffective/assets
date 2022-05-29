@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "MELMETAL_GMAX",
         "veekunDb": "melmetal-gmax",
-        "showdownMarkup": "Melmetal-Gmax",
-        "showdownData": "melmetalgmax",
-        "serebii": "melmetal-gmax",
+        "serebii": "melmetal",
         "bulbapedia": "Melmetal",
         "homeSprite": "melmetal-gmax",
-        "miniSprite": "melmetal-gmax"
+        "miniSprite": "melmetal-gmax",
+        "showdown": "melmetalgmax",
+        "showdownDef": "Melmetal-Gmax",
+        "smogon": "melmetal-gmax"
     },
     "baseSpecies": "melmetal",
     "baseForms": [

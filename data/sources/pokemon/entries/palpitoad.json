@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "PALPITOAD",
         "veekunDb": "palpitoad",
-        "showdownMarkup": "Palpitoad",
-        "showdownData": "palpitoad",
         "serebii": "palpitoad",
         "bulbapedia": "Palpitoad",
         "homeSprite": "palpitoad",
-        "miniSprite": "palpitoad"
+        "miniSprite": "palpitoad",
+        "showdown": "palpitoad",
+        "showdownDef": "Palpitoad",
+        "smogon": "palpitoad"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "LUDICOLO",
         "veekunDb": "ludicolo",
-        "showdownMarkup": "Ludicolo",
-        "showdownData": "ludicolo",
         "serebii": "ludicolo",
         "bulbapedia": "Ludicolo",
         "homeSprite": "ludicolo",
-        "miniSprite": "ludicolo"
+        "miniSprite": "ludicolo",
+        "showdown": "ludicolo",
+        "showdownDef": "Ludicolo",
+        "smogon": "ludicolo"
     },
     "baseSpecies": null,
     "baseForms": [],

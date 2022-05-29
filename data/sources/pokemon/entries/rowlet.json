@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "ROWLET",
         "veekunDb": "rowlet",
-        "showdownMarkup": "Rowlet",
-        "showdownData": "rowlet",
         "serebii": "rowlet",
         "bulbapedia": "Rowlet",
         "homeSprite": "rowlet",
-        "miniSprite": "rowlet"
+        "miniSprite": "rowlet",
+        "showdown": "rowlet",
+        "showdownDef": "Rowlet",
+        "smogon": "rowlet"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -75,12 +75,13 @@
     "refs": {
         "pogo": null,
         "veekunDb": null,
-        "showdownMarkup": null,
-        "showdownData": null,
-        "serebii": null,
+        "serebii": "goodra",
         "bulbapedia": null,
         "homeSprite": "goodra-hisui",
-        "miniSprite": "goodra-hisui"
+        "miniSprite": "goodra-hisui",
+        "showdown": null,
+        "showdownDef": null,
+        "smogon": "goodra-hisui"
     },
     "baseSpecies": "goodra",
     "baseForms": [],

@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "BASCULEGION-F",
         "veekunDb": "basculegion-f",
-        "showdownMarkup": "Basculegion-F",
-        "showdownData": "basculegionf",
         "serebii": "basculegion",
         "bulbapedia": "Basculegion",
         "homeSprite": "basculegion-f",
-        "miniSprite": "basculegion-f"
+        "miniSprite": "basculegion-f",
+        "showdown": "basculegionf",
+        "showdownDef": "Basculegion-F",
+        "smogon": "basculegion-f"
     },
     "baseSpecies": "basculegion",
     "baseForms": [],

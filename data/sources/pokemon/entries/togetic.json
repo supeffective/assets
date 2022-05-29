@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "TOGETIC",
         "veekunDb": "togetic",
-        "showdownMarkup": "Togetic",
-        "showdownData": "togetic",
         "serebii": "togetic",
         "bulbapedia": "Togetic",
         "homeSprite": "togetic",
-        "miniSprite": "togetic"
+        "miniSprite": "togetic",
+        "showdown": "togetic",
+        "showdownDef": "Togetic",
+        "smogon": "togetic"
     },
     "baseSpecies": null,
     "baseForms": [],

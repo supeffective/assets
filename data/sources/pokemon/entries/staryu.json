@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "STARYU",
         "veekunDb": "staryu",
-        "showdownMarkup": "Staryu",
-        "showdownData": "staryu",
         "serebii": "staryu",
         "bulbapedia": "Staryu",
         "homeSprite": "staryu",
-        "miniSprite": "staryu"
+        "miniSprite": "staryu",
+        "showdown": "staryu",
+        "showdownDef": "Staryu",
+        "smogon": "staryu"
     },
     "baseSpecies": null,
     "baseForms": [],

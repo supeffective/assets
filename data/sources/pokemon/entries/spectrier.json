@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SPECTRIER",
         "veekunDb": "spectrier",
-        "showdownMarkup": "Spectrier",
-        "showdownData": "spectrier",
         "serebii": "spectrier",
         "bulbapedia": "Spectrier",
         "homeSprite": "spectrier",
-        "miniSprite": "spectrier"
+        "miniSprite": "spectrier",
+        "showdown": "spectrier",
+        "showdownDef": "Spectrier",
+        "smogon": "spectrier"
     },
     "baseSpecies": null,
     "baseForms": [],

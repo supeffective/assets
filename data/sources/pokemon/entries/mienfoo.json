@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MIENFOO",
         "veekunDb": "mienfoo",
-        "showdownMarkup": "Mienfoo",
-        "showdownData": "mienfoo",
         "serebii": "mienfoo",
         "bulbapedia": "Mienfoo",
         "homeSprite": "mienfoo",
-        "miniSprite": "mienfoo"
+        "miniSprite": "mienfoo",
+        "showdown": "mienfoo",
+        "showdownDef": "Mienfoo",
+        "smogon": "mienfoo"
     },
     "baseSpecies": null,
     "baseForms": [],

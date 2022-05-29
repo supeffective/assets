@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "RELICANTH_F",
         "veekunDb": "relicanth-f",
-        "showdownMarkup": "Relicanth-F",
-        "showdownData": "relicanthf",
-        "serebii": "relicanth-f",
+        "serebii": "relicanth",
         "bulbapedia": "Relicanth",
         "homeSprite": "relicanth-f",
-        "miniSprite": "relicanth-f"
+        "miniSprite": "relicanth-f",
+        "showdown": "relicanthf",
+        "showdownDef": "Relicanth-F",
+        "smogon": "relicanth-f"
     },
     "baseSpecies": "relicanth",
     "baseForms": [],

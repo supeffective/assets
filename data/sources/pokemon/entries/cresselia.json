@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "CRESSELIA",
         "veekunDb": "cresselia",
-        "showdownMarkup": "Cresselia",
-        "showdownData": "cresselia",
         "serebii": "cresselia",
         "bulbapedia": "Cresselia",
         "homeSprite": "cresselia",
-        "miniSprite": "cresselia"
+        "miniSprite": "cresselia",
+        "showdown": "cresselia",
+        "showdownDef": "Cresselia",
+        "smogon": "cresselia"
     },
     "baseSpecies": null,
     "baseForms": [],

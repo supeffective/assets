@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "GRANBULL",
         "veekunDb": "granbull",
-        "showdownMarkup": "Granbull",
-        "showdownData": "granbull",
         "serebii": "granbull",
         "bulbapedia": "Granbull",
         "homeSprite": "granbull",
-        "miniSprite": "granbull"
+        "miniSprite": "granbull",
+        "showdown": "granbull",
+        "showdownDef": "Granbull",
+        "smogon": "granbull"
     },
     "baseSpecies": null,
     "baseForms": [],

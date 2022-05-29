@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "BRAVIARY",
         "veekunDb": "braviary",
-        "showdownMarkup": "Braviary",
-        "showdownData": "braviary",
         "serebii": "braviary",
         "bulbapedia": "Braviary",
         "homeSprite": "braviary",
-        "miniSprite": "braviary"
+        "miniSprite": "braviary",
+        "showdown": "braviary",
+        "showdownDef": "Braviary",
+        "smogon": "braviary"
     },
     "baseSpecies": null,
     "baseForms": [],

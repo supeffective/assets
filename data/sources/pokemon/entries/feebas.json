@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "FEEBAS",
         "veekunDb": "feebas",
-        "showdownMarkup": "Feebas",
-        "showdownData": "feebas",
         "serebii": "feebas",
         "bulbapedia": "Feebas",
         "homeSprite": "feebas",
-        "miniSprite": "feebas"
+        "miniSprite": "feebas",
+        "showdown": "feebas",
+        "showdownDef": "Feebas",
+        "smogon": "feebas"
     },
     "baseSpecies": null,
     "baseForms": [],

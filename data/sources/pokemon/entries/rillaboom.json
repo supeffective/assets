@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "RILLABOOM",
         "veekunDb": "rillaboom",
-        "showdownMarkup": "Rillaboom",
-        "showdownData": "rillaboom",
         "serebii": "rillaboom",
         "bulbapedia": "Rillaboom",
         "homeSprite": "rillaboom",
-        "miniSprite": "rillaboom"
+        "miniSprite": "rillaboom",
+        "showdown": "rillaboom",
+        "showdownDef": "Rillaboom",
+        "smogon": "rillaboom"
     },
     "baseSpecies": null,
     "baseForms": [],

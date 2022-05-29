@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "EELEKTRIK",
         "veekunDb": "eelektrik",
-        "showdownMarkup": "Eelektrik",
-        "showdownData": "eelektrik",
         "serebii": "eelektrik",
         "bulbapedia": "Eelektrik",
         "homeSprite": "eelektrik",
-        "miniSprite": "eelektrik"
+        "miniSprite": "eelektrik",
+        "showdown": "eelektrik",
+        "showdownDef": "Eelektrik",
+        "smogon": "eelektrik"
     },
     "baseSpecies": null,
     "baseForms": [],

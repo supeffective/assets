@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "BLITZLE",
         "veekunDb": "blitzle",
-        "showdownMarkup": "Blitzle",
-        "showdownData": "blitzle",
         "serebii": "blitzle",
         "bulbapedia": "Blitzle",
         "homeSprite": "blitzle",
-        "miniSprite": "blitzle"
+        "miniSprite": "blitzle",
+        "showdown": "blitzle",
+        "showdownDef": "Blitzle",
+        "smogon": "blitzle"
     },
     "baseSpecies": null,
     "baseForms": [],

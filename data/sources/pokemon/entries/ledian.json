@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "LEDIAN",
         "veekunDb": "ledian",
-        "showdownMarkup": "Ledian",
-        "showdownData": "ledian",
         "serebii": "ledian",
         "bulbapedia": "Ledian",
         "homeSprite": "ledian",
-        "miniSprite": "ledian"
+        "miniSprite": "ledian",
+        "showdown": "ledian",
+        "showdownDef": "Ledian",
+        "smogon": "ledian"
     },
     "baseSpecies": null,
     "baseForms": [],

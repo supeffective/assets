@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "PORYGONZ",
         "veekunDb": "porygonz",
-        "showdownMarkup": "Porygonz",
-        "showdownData": "porygonz",
         "serebii": "porygonz",
         "bulbapedia": "Porygon-Z",
         "homeSprite": "porygonz",
-        "miniSprite": "porygonz"
+        "miniSprite": "porygonz",
+        "showdown": "porygonz",
+        "showdownDef": "Porygonz",
+        "smogon": "porygonz"
     },
     "baseSpecies": null,
     "baseForms": [],

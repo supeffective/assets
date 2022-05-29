@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "PETILIL",
         "veekunDb": "petilil",
-        "showdownMarkup": "Petilil",
-        "showdownData": "petilil",
         "serebii": "petilil",
         "bulbapedia": "Petilil",
         "homeSprite": "petilil",
-        "miniSprite": "petilil"
+        "miniSprite": "petilil",
+        "showdown": "petilil",
+        "showdownDef": "Petilil",
+        "smogon": "petilil"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VICTINI",
         "veekunDb": "victini",
-        "showdownMarkup": "Victini",
-        "showdownData": "victini",
         "serebii": "victini",
         "bulbapedia": "Victini",
         "homeSprite": "victini",
-        "miniSprite": "victini"
+        "miniSprite": "victini",
+        "showdown": "victini",
+        "showdownDef": "Victini",
+        "smogon": "victini"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -74,12 +74,13 @@
     "refs": {
         "pogo": "ARCEUS_GHOST",
         "veekunDb": "arceus-ghost",
-        "showdownMarkup": "Arceus-Ghost",
-        "showdownData": "arceusghost",
-        "serebii": "arceus-ghost",
+        "serebii": "arceus",
         "bulbapedia": "Arceus",
         "homeSprite": "arceus-ghost",
-        "miniSprite": "arceus-ghost"
+        "miniSprite": "arceus-ghost",
+        "showdown": "arceusghost",
+        "showdownDef": "Arceus-Ghost",
+        "smogon": "arceus-ghost"
     },
     "baseSpecies": "arceus",
     "baseForms": [

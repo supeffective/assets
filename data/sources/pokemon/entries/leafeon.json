@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "LEAFEON",
         "veekunDb": "leafeon",
-        "showdownMarkup": "Leafeon",
-        "showdownData": "leafeon",
         "serebii": "leafeon",
         "bulbapedia": "Leafeon",
         "homeSprite": "leafeon",
-        "miniSprite": "leafeon"
+        "miniSprite": "leafeon",
+        "showdown": "leafeon",
+        "showdownDef": "Leafeon",
+        "smogon": "leafeon"
     },
     "baseSpecies": null,
     "baseForms": [],

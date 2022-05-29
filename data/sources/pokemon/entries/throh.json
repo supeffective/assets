@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "THROH",
         "veekunDb": "throh",
-        "showdownMarkup": "Throh",
-        "showdownData": "throh",
         "serebii": "throh",
         "bulbapedia": "Throh",
         "homeSprite": "throh",
-        "miniSprite": "throh"
+        "miniSprite": "throh",
+        "showdown": "throh",
+        "showdownDef": "Throh",
+        "smogon": "throh"
     },
     "baseSpecies": null,
     "baseForms": [],

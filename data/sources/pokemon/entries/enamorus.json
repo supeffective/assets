@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "ENAMORUS",
         "veekunDb": "enamorus",
-        "showdownMarkup": "Enamorus",
-        "showdownData": "enamorus",
         "serebii": "enamorus",
         "bulbapedia": "Enamorus",
         "homeSprite": "enamorus",
-        "miniSprite": "enamorus"
+        "miniSprite": "enamorus",
+        "showdown": "enamorus",
+        "showdownDef": "Enamorus",
+        "smogon": "enamorus"
     },
     "baseSpecies": null,
     "baseForms": [],

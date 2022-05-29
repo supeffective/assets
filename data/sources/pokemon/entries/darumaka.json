@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DARUMAKA",
         "veekunDb": "darumaka",
-        "showdownMarkup": "Darumaka",
-        "showdownData": "darumaka",
         "serebii": "darumaka",
         "bulbapedia": "Darumaka",
         "homeSprite": "darumaka",
-        "miniSprite": "darumaka"
+        "miniSprite": "darumaka",
+        "showdown": "darumaka",
+        "showdownDef": "Darumaka",
+        "smogon": "darumaka"
     },
     "baseSpecies": null,
     "baseForms": [],

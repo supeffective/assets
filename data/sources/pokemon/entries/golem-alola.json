@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "GOLEM_ALOLA",
         "veekunDb": "golem-alola",
-        "showdownMarkup": "Golem-Alola",
-        "showdownData": "golemalola",
-        "serebii": "golem-alola",
+        "serebii": "golem",
         "bulbapedia": "Golem",
         "homeSprite": "golem-alola",
-        "miniSprite": "golem-alola"
+        "miniSprite": "golem-alola",
+        "showdown": "golemalola",
+        "showdownDef": "Golem-Alola",
+        "smogon": "golem-alola"
     },
     "baseSpecies": "golem",
     "baseForms": [],

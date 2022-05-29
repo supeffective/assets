@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "ARCEUS",
         "veekunDb": "arceus",
-        "showdownMarkup": "Arceus",
-        "showdownData": "arceus",
         "serebii": "arceus",
         "bulbapedia": "Arceus",
         "homeSprite": "arceus",
-        "miniSprite": "arceus"
+        "miniSprite": "arceus",
+        "showdown": "arceus",
+        "showdownDef": "Arceus",
+        "smogon": "arceus"
     },
     "baseSpecies": null,
     "baseForms": [],

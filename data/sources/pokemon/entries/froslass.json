@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "FROSLASS",
         "veekunDb": "froslass",
-        "showdownMarkup": "Froslass",
-        "showdownData": "froslass",
         "serebii": "froslass",
         "bulbapedia": "Froslass",
         "homeSprite": "froslass",
-        "miniSprite": "froslass"
+        "miniSprite": "froslass",
+        "showdown": "froslass",
+        "showdownDef": "Froslass",
+        "smogon": "froslass"
     },
     "baseSpecies": null,
     "baseForms": [],

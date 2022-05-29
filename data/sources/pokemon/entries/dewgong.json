@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DEWGONG",
         "veekunDb": "dewgong",
-        "showdownMarkup": "Dewgong",
-        "showdownData": "dewgong",
         "serebii": "dewgong",
         "bulbapedia": "Dewgong",
         "homeSprite": "dewgong",
-        "miniSprite": "dewgong"
+        "miniSprite": "dewgong",
+        "showdown": "dewgong",
+        "showdownDef": "Dewgong",
+        "smogon": "dewgong"
     },
     "baseSpecies": null,
     "baseForms": [],

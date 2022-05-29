@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "WEEPINBELL",
         "veekunDb": "weepinbell",
-        "showdownMarkup": "Weepinbell",
-        "showdownData": "weepinbell",
         "serebii": "weepinbell",
         "bulbapedia": "Weepinbell",
         "homeSprite": "weepinbell",
-        "miniSprite": "weepinbell"
+        "miniSprite": "weepinbell",
+        "showdown": "weepinbell",
+        "showdownDef": "Weepinbell",
+        "smogon": "weepinbell"
     },
     "baseSpecies": null,
     "baseForms": [],

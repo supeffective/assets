@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "SILVALLY_GRASS",
         "veekunDb": "silvally-grass",
-        "showdownMarkup": "Silvally-Grass",
-        "showdownData": "silvallygrass",
-        "serebii": "silvally-grass",
+        "serebii": "silvally",
         "bulbapedia": "Silvally",
         "homeSprite": "silvally-grass",
-        "miniSprite": "silvally-grass"
+        "miniSprite": "silvally-grass",
+        "showdown": "silvallygrass",
+        "showdownDef": "Silvally-Grass",
+        "smogon": "silvally-grass"
     },
     "baseSpecies": "silvally",
     "baseForms": [

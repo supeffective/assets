@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DEERLING_WINTER",
         "veekunDb": "deerling-winter",
-        "showdownMarkup": "Deerling-Winter",
-        "showdownData": "deerlingwinter",
-        "serebii": "deerling-winter",
+        "serebii": "deerling",
         "bulbapedia": "Deerling",
         "homeSprite": "deerling-winter",
-        "miniSprite": "deerling-winter"
+        "miniSprite": "deerling-winter",
+        "showdown": "deerlingwinter",
+        "showdownDef": "Deerling-Winter",
+        "smogon": "deerling-winter"
     },
     "baseSpecies": "deerling",
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "FARFETCHD",
         "veekunDb": "farfetchd",
-        "showdownMarkup": "Farfetchd",
-        "showdownData": "farfetchd",
         "serebii": "farfetchd",
         "bulbapedia": "Farfetch’d",
         "homeSprite": "farfetchd",
-        "miniSprite": "farfetchd"
+        "miniSprite": "farfetchd",
+        "showdown": "farfetchd",
+        "showdownDef": "Farfetchd",
+        "smogon": "farfetchd"
     },
     "baseSpecies": null,
     "baseForms": [],

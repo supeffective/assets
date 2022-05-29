@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ARMALDO",
         "veekunDb": "armaldo",
-        "showdownMarkup": "Armaldo",
-        "showdownData": "armaldo",
         "serebii": "armaldo",
         "bulbapedia": "Armaldo",
         "homeSprite": "armaldo",
-        "miniSprite": "armaldo"
+        "miniSprite": "armaldo",
+        "showdown": "armaldo",
+        "showdownDef": "Armaldo",
+        "smogon": "armaldo"
     },
     "baseSpecies": null,
     "baseForms": [],

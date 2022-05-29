@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "RATTATA_ALOLA",
         "veekunDb": "rattata-alola",
-        "showdownMarkup": "Rattata-Alola",
-        "showdownData": "rattataalola",
-        "serebii": "rattata-alola",
+        "serebii": "rattata",
         "bulbapedia": "Rattata",
         "homeSprite": "rattata-alola",
-        "miniSprite": "rattata-alola"
+        "miniSprite": "rattata-alola",
+        "showdown": "rattataalola",
+        "showdownDef": "Rattata-Alola",
+        "smogon": "rattata-alola"
     },
     "baseSpecies": "rattata",
     "baseForms": [],

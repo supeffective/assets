@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "COMFEY",
         "veekunDb": "comfey",
-        "showdownMarkup": "Comfey",
-        "showdownData": "comfey",
         "serebii": "comfey",
         "bulbapedia": "Comfey",
         "homeSprite": "comfey",
-        "miniSprite": "comfey"
+        "miniSprite": "comfey",
+        "showdown": "comfey",
+        "showdownDef": "Comfey",
+        "smogon": "comfey"
     },
     "baseSpecies": null,
     "baseForms": [],

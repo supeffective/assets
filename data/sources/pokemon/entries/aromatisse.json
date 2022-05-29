@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "AROMATISSE",
         "veekunDb": "aromatisse",
-        "showdownMarkup": "Aromatisse",
-        "showdownData": "aromatisse",
         "serebii": "aromatisse",
         "bulbapedia": "Aromatisse",
         "homeSprite": "aromatisse",
-        "miniSprite": "aromatisse"
+        "miniSprite": "aromatisse",
+        "showdown": "aromatisse",
+        "showdownDef": "Aromatisse",
+        "smogon": "aromatisse"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "TEDDIURSA",
         "veekunDb": "teddiursa",
-        "showdownMarkup": "Teddiursa",
-        "showdownData": "teddiursa",
         "serebii": "teddiursa",
         "bulbapedia": "Teddiursa",
         "homeSprite": "teddiursa",
-        "miniSprite": "teddiursa"
+        "miniSprite": "teddiursa",
+        "showdown": "teddiursa",
+        "showdownDef": "Teddiursa",
+        "smogon": "teddiursa"
     },
     "baseSpecies": null,
     "baseForms": [],

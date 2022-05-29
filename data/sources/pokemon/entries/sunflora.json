@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SUNFLORA",
         "veekunDb": "sunflora",
-        "showdownMarkup": "Sunflora",
-        "showdownData": "sunflora",
         "serebii": "sunflora",
         "bulbapedia": "Sunflora",
         "homeSprite": "sunflora",
-        "miniSprite": "sunflora"
+        "miniSprite": "sunflora",
+        "showdown": "sunflora",
+        "showdownDef": "Sunflora",
+        "smogon": "sunflora"
     },
     "baseSpecies": null,
     "baseForms": [],

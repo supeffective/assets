@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "TOTODILE",
         "veekunDb": "totodile",
-        "showdownMarkup": "Totodile",
-        "showdownData": "totodile",
         "serebii": "totodile",
         "bulbapedia": "Totodile",
         "homeSprite": "totodile",
-        "miniSprite": "totodile"
+        "miniSprite": "totodile",
+        "showdown": "totodile",
+        "showdownDef": "Totodile",
+        "smogon": "totodile"
     },
     "baseSpecies": null,
     "baseForms": [],

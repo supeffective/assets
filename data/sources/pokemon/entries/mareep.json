@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MAREEP",
         "veekunDb": "mareep",
-        "showdownMarkup": "Mareep",
-        "showdownData": "mareep",
         "serebii": "mareep",
         "bulbapedia": "Mareep",
         "homeSprite": "mareep",
-        "miniSprite": "mareep"
+        "miniSprite": "mareep",
+        "showdown": "mareep",
+        "showdownDef": "Mareep",
+        "smogon": "mareep"
     },
     "baseSpecies": null,
     "baseForms": [],

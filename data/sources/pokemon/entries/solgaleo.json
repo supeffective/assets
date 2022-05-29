@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SOLGALEO",
         "veekunDb": "solgaleo",
-        "showdownMarkup": "Solgaleo",
-        "showdownData": "solgaleo",
         "serebii": "solgaleo",
         "bulbapedia": "Solgaleo",
         "homeSprite": "solgaleo",
-        "miniSprite": "solgaleo"
+        "miniSprite": "solgaleo",
+        "showdown": "solgaleo",
+        "showdownDef": "Solgaleo",
+        "smogon": "solgaleo"
     },
     "baseSpecies": null,
     "baseForms": [],

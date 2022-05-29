@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VOLTORB",
         "veekunDb": "voltorb",
-        "showdownMarkup": "Voltorb",
-        "showdownData": "voltorb",
         "serebii": "voltorb",
         "bulbapedia": "Voltorb",
         "homeSprite": "voltorb",
-        "miniSprite": "voltorb"
+        "miniSprite": "voltorb",
+        "showdown": "voltorb",
+        "showdownDef": "Voltorb",
+        "smogon": "voltorb"
     },
     "baseSpecies": null,
     "baseForms": [],

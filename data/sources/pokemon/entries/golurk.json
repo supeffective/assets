@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "GOLURK",
         "veekunDb": "golurk",
-        "showdownMarkup": "Golurk",
-        "showdownData": "golurk",
         "serebii": "golurk",
         "bulbapedia": "Golurk",
         "homeSprite": "golurk",
-        "miniSprite": "golurk"
+        "miniSprite": "golurk",
+        "showdown": "golurk",
+        "showdownDef": "Golurk",
+        "smogon": "golurk"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "TOXTRICITY_LOW_KEY",
         "veekunDb": "toxtricity-low-key",
-        "showdownMarkup": "Toxtricity-Low-Key",
-        "showdownData": "toxtricitylowkey",
-        "serebii": "toxtricity-low-key",
+        "serebii": "toxtricity",
         "bulbapedia": "Toxtricity",
         "homeSprite": "toxtricity-low-key",
-        "miniSprite": "toxtricity-low-key"
+        "miniSprite": "toxtricity-low-key",
+        "showdown": "toxtricitylowkey",
+        "showdownDef": "Toxtricity-Low-Key",
+        "smogon": "toxtricity-low-key"
     },
     "baseSpecies": "toxtricity",
     "baseForms": [],

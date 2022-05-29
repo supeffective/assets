@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "REGICE",
         "veekunDb": "regice",
-        "showdownMarkup": "Regice",
-        "showdownData": "regice",
         "serebii": "regice",
         "bulbapedia": "Regice",
         "homeSprite": "regice",
-        "miniSprite": "regice"
+        "miniSprite": "regice",
+        "showdown": "regice",
+        "showdownDef": "Regice",
+        "smogon": "regice"
     },
     "baseSpecies": null,
     "baseForms": [],

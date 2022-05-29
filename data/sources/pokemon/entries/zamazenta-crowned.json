@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "ZAMAZENTA_CROWNED",
         "veekunDb": "zamazenta-crowned",
-        "showdownMarkup": "Zamazenta-Crowned",
-        "showdownData": "zamazentacrowned",
-        "serebii": "zamazenta-crowned",
+        "serebii": "zamazenta",
         "bulbapedia": "Zamazenta",
         "homeSprite": "zamazenta-crowned",
-        "miniSprite": "zamazenta-crowned"
+        "miniSprite": "zamazenta-crowned",
+        "showdown": "zamazentacrowned",
+        "showdownDef": "Zamazenta-Crowned",
+        "smogon": "zamazenta-crowned"
     },
     "baseSpecies": "zamazenta",
     "baseForms": [

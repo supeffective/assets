@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CHINCHOU",
         "veekunDb": "chinchou",
-        "showdownMarkup": "Chinchou",
-        "showdownData": "chinchou",
         "serebii": "chinchou",
         "bulbapedia": "Chinchou",
         "homeSprite": "chinchou",
-        "miniSprite": "chinchou"
+        "miniSprite": "chinchou",
+        "showdown": "chinchou",
+        "showdownDef": "Chinchou",
+        "smogon": "chinchou"
     },
     "baseSpecies": null,
     "baseForms": [],

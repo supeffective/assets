@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SIRFETCHD",
         "veekunDb": "sirfetchd",
-        "showdownMarkup": "Sirfetchd",
-        "showdownData": "sirfetchd",
         "serebii": "sirfetchd",
         "bulbapedia": "Sirfetch’d",
         "homeSprite": "sirfetchd",
-        "miniSprite": "sirfetchd"
+        "miniSprite": "sirfetchd",
+        "showdown": "sirfetchd",
+        "showdownDef": "Sirfetchd",
+        "smogon": "sirfetchd"
     },
     "baseSpecies": null,
     "baseForms": [],

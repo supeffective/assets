@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "STAKATAKA",
         "veekunDb": "stakataka",
-        "showdownMarkup": "Stakataka",
-        "showdownData": "stakataka",
         "serebii": "stakataka",
         "bulbapedia": "Stakataka",
         "homeSprite": "stakataka",
-        "miniSprite": "stakataka"
+        "miniSprite": "stakataka",
+        "showdown": "stakataka",
+        "showdownDef": "Stakataka",
+        "smogon": "stakataka"
     },
     "baseSpecies": null,
     "baseForms": [],

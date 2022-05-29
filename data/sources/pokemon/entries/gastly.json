@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "GASTLY",
         "veekunDb": "gastly",
-        "showdownMarkup": "Gastly",
-        "showdownData": "gastly",
         "serebii": "gastly",
         "bulbapedia": "Gastly",
         "homeSprite": "gastly",
-        "miniSprite": "gastly"
+        "miniSprite": "gastly",
+        "showdown": "gastly",
+        "showdownDef": "Gastly",
+        "smogon": "gastly"
     },
     "baseSpecies": null,
     "baseForms": [],

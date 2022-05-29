@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "LUNATONE",
         "veekunDb": "lunatone",
-        "showdownMarkup": "Lunatone",
-        "showdownData": "lunatone",
         "serebii": "lunatone",
         "bulbapedia": "Lunatone",
         "homeSprite": "lunatone",
-        "miniSprite": "lunatone"
+        "miniSprite": "lunatone",
+        "showdown": "lunatone",
+        "showdownDef": "Lunatone",
+        "smogon": "lunatone"
     },
     "baseSpecies": null,
     "baseForms": [],

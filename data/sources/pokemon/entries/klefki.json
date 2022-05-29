@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "KLEFKI",
         "veekunDb": "klefki",
-        "showdownMarkup": "Klefki",
-        "showdownData": "klefki",
         "serebii": "klefki",
         "bulbapedia": "Klefki",
         "homeSprite": "klefki",
-        "miniSprite": "klefki"
+        "miniSprite": "klefki",
+        "showdown": "klefki",
+        "showdownDef": "Klefki",
+        "smogon": "klefki"
     },
     "baseSpecies": null,
     "baseForms": [],

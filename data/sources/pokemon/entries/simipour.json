@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SIMIPOUR",
         "veekunDb": "simipour",
-        "showdownMarkup": "Simipour",
-        "showdownData": "simipour",
         "serebii": "simipour",
         "bulbapedia": "Simipour",
         "homeSprite": "simipour",
-        "miniSprite": "simipour"
+        "miniSprite": "simipour",
+        "showdown": "simipour",
+        "showdownDef": "Simipour",
+        "smogon": "simipour"
     },
     "baseSpecies": null,
     "baseForms": [],

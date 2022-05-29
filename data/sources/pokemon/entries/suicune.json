@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SUICUNE",
         "veekunDb": "suicune",
-        "showdownMarkup": "Suicune",
-        "showdownData": "suicune",
         "serebii": "suicune",
         "bulbapedia": "Suicune",
         "homeSprite": "suicune",
-        "miniSprite": "suicune"
+        "miniSprite": "suicune",
+        "showdown": "suicune",
+        "showdownDef": "Suicune",
+        "smogon": "suicune"
     },
     "baseSpecies": null,
     "baseForms": [],

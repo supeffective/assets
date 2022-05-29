@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "MURKROW",
         "veekunDb": "murkrow",
-        "showdownMarkup": "Murkrow",
-        "showdownData": "murkrow",
         "serebii": "murkrow",
         "bulbapedia": "Murkrow",
         "homeSprite": "murkrow",
-        "miniSprite": "murkrow"
+        "miniSprite": "murkrow",
+        "showdown": "murkrow",
+        "showdownDef": "Murkrow",
+        "smogon": "murkrow"
     },
     "baseSpecies": null,
     "baseForms": [],

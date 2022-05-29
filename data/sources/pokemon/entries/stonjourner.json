@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "STONJOURNER",
         "veekunDb": "stonjourner",
-        "showdownMarkup": "Stonjourner",
-        "showdownData": "stonjourner",
         "serebii": "stonjourner",
         "bulbapedia": "Stonjourner",
         "homeSprite": "stonjourner",
-        "miniSprite": "stonjourner"
+        "miniSprite": "stonjourner",
+        "showdown": "stonjourner",
+        "showdownDef": "Stonjourner",
+        "smogon": "stonjourner"
     },
     "baseSpecies": null,
     "baseForms": [],

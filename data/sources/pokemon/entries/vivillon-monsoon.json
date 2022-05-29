@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VIVILLON_MONSOON",
         "veekunDb": "vivillon-monsoon",
-        "showdownMarkup": "Vivillon-Monsoon",
-        "showdownData": "vivillonmonsoon",
-        "serebii": "vivillon-monsoon",
+        "serebii": "vivillon",
         "bulbapedia": "Vivillon",
         "homeSprite": "vivillon-monsoon",
-        "miniSprite": "vivillon-monsoon"
+        "miniSprite": "vivillon-monsoon",
+        "showdown": "vivillonmonsoon",
+        "showdownDef": "Vivillon-Monsoon",
+        "smogon": "vivillon-monsoon"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

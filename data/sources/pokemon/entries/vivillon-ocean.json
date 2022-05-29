@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VIVILLON_OCEAN",
         "veekunDb": "vivillon-ocean",
-        "showdownMarkup": "Vivillon-Ocean",
-        "showdownData": "vivillonocean",
-        "serebii": "vivillon-ocean",
+        "serebii": "vivillon",
         "bulbapedia": "Vivillon",
         "homeSprite": "vivillon-ocean",
-        "miniSprite": "vivillon-ocean"
+        "miniSprite": "vivillon-ocean",
+        "showdown": "vivillonocean",
+        "showdownDef": "Vivillon-Ocean",
+        "smogon": "vivillon-ocean"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

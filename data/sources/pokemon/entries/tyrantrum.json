@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "TYRANTRUM",
         "veekunDb": "tyrantrum",
-        "showdownMarkup": "Tyrantrum",
-        "showdownData": "tyrantrum",
         "serebii": "tyrantrum",
         "bulbapedia": "Tyrantrum",
         "homeSprite": "tyrantrum",
-        "miniSprite": "tyrantrum"
+        "miniSprite": "tyrantrum",
+        "showdown": "tyrantrum",
+        "showdownDef": "Tyrantrum",
+        "smogon": "tyrantrum"
     },
     "baseSpecies": null,
     "baseForms": [],

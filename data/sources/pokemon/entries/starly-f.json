@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "STARLY_F",
         "veekunDb": "starly-f",
-        "showdownMarkup": "Starly-F",
-        "showdownData": "starlyf",
-        "serebii": "starly-f",
+        "serebii": "starly",
         "bulbapedia": "Starly",
         "homeSprite": "starly-f",
-        "miniSprite": "starly-f"
+        "miniSprite": "starly-f",
+        "showdown": "starlyf",
+        "showdownDef": "Starly-F",
+        "smogon": "starly-f"
     },
     "baseSpecies": "starly",
     "baseForms": [],

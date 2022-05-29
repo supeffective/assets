@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "GARBODOR",
         "veekunDb": "garbodor",
-        "showdownMarkup": "Garbodor",
-        "showdownData": "garbodor",
         "serebii": "garbodor",
         "bulbapedia": "Garbodor",
         "homeSprite": "garbodor",
-        "miniSprite": "garbodor"
+        "miniSprite": "garbodor",
+        "showdown": "garbodor",
+        "showdownDef": "Garbodor",
+        "smogon": "garbodor"
     },
     "baseSpecies": null,
     "baseForms": [],

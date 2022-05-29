@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ZARUDE_DADA",
         "veekunDb": "zarude-dada",
-        "showdownMarkup": "Zarude-Dada",
-        "showdownData": "zarudedada",
-        "serebii": "zarude-dada",
+        "serebii": "zarude",
         "bulbapedia": "Zarude",
         "homeSprite": "zarude-dada",
-        "miniSprite": "zarude-dada"
+        "miniSprite": "zarude-dada",
+        "showdown": "zarudedada",
+        "showdownDef": "Zarude-Dada",
+        "smogon": "zarude-dada"
     },
     "baseSpecies": "zarude",
     "baseForms": [],

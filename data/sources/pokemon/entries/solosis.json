@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SOLOSIS",
         "veekunDb": "solosis",
-        "showdownMarkup": "Solosis",
-        "showdownData": "solosis",
         "serebii": "solosis",
         "bulbapedia": "Solosis",
         "homeSprite": "solosis",
-        "miniSprite": "solosis"
+        "miniSprite": "solosis",
+        "showdown": "solosis",
+        "showdownDef": "Solosis",
+        "smogon": "solosis"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "TOUCANNON",
         "veekunDb": "toucannon",
-        "showdownMarkup": "Toucannon",
-        "showdownData": "toucannon",
         "serebii": "toucannon",
         "bulbapedia": "Toucannon",
         "homeSprite": "toucannon",
-        "miniSprite": "toucannon"
+        "miniSprite": "toucannon",
+        "showdown": "toucannon",
+        "showdownDef": "Toucannon",
+        "smogon": "toucannon"
     },
     "baseSpecies": null,
     "baseForms": [],

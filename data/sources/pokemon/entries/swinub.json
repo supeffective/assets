@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "SWINUB",
         "veekunDb": "swinub",
-        "showdownMarkup": "Swinub",
-        "showdownData": "swinub",
         "serebii": "swinub",
         "bulbapedia": "Swinub",
         "homeSprite": "swinub",
-        "miniSprite": "swinub"
+        "miniSprite": "swinub",
+        "showdown": "swinub",
+        "showdownDef": "Swinub",
+        "smogon": "swinub"
     },
     "baseSpecies": null,
     "baseForms": [],

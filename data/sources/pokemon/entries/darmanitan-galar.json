@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DARMANITAN_GALAR",
         "veekunDb": "darmanitan-galar",
-        "showdownMarkup": "Darmanitan-Galar",
-        "showdownData": "darmanitangalar",
-        "serebii": "darmanitan-galar",
+        "serebii": "darmanitan",
         "bulbapedia": "Darmanitan",
         "homeSprite": "darmanitan-galar",
-        "miniSprite": "darmanitan-galar"
+        "miniSprite": "darmanitan-galar",
+        "showdown": "darmanitangalar",
+        "showdownDef": "Darmanitan-Galar",
+        "smogon": "darmanitan-galar"
     },
     "baseSpecies": "darmanitan",
     "baseForms": [],

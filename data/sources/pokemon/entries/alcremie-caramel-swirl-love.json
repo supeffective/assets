@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ALCREMIE_CARAMEL_SWIRL_LOVE",
         "veekunDb": "alcremie-caramel-swirl-love",
-        "showdownMarkup": "Alcremie-Caramel-Swirl-Love",
-        "showdownData": "alcremiecaramelswirllove",
-        "serebii": "alcremie-caramel-swirl-love",
+        "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "alcremie-caramel-swirl-love",
-        "miniSprite": "alcremie-caramel-swirl-love"
+        "miniSprite": "alcremie-caramel-swirl-love",
+        "showdown": "alcremiecaramelswirllove",
+        "showdownDef": "Alcremie-Caramel-Swirl-Love",
+        "smogon": "alcremie-caramel-swirl-love"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

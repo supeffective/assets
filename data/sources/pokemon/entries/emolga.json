@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "EMOLGA",
         "veekunDb": "emolga",
-        "showdownMarkup": "Emolga",
-        "showdownData": "emolga",
         "serebii": "emolga",
         "bulbapedia": "Emolga",
         "homeSprite": "emolga",
-        "miniSprite": "emolga"
+        "miniSprite": "emolga",
+        "showdown": "emolga",
+        "showdownDef": "Emolga",
+        "smogon": "emolga"
     },
     "baseSpecies": null,
     "baseForms": [],

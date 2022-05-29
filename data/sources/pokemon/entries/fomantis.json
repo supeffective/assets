@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "FOMANTIS",
         "veekunDb": "fomantis",
-        "showdownMarkup": "Fomantis",
-        "showdownData": "fomantis",
         "serebii": "fomantis",
         "bulbapedia": "Fomantis",
         "homeSprite": "fomantis",
-        "miniSprite": "fomantis"
+        "miniSprite": "fomantis",
+        "showdown": "fomantis",
+        "showdownDef": "Fomantis",
+        "smogon": "fomantis"
     },
     "baseSpecies": null,
     "baseForms": [],

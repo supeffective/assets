@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "SCIZOR",
         "veekunDb": "scizor",
-        "showdownMarkup": "Scizor",
-        "showdownData": "scizor",
         "serebii": "scizor",
         "bulbapedia": "Scizor",
         "homeSprite": "scizor",
-        "miniSprite": "scizor"
+        "miniSprite": "scizor",
+        "showdown": "scizor",
+        "showdownDef": "Scizor",
+        "smogon": "scizor"
     },
     "baseSpecies": null,
     "baseForms": [],

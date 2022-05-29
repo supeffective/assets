@@ -74,12 +74,13 @@
     "refs": {
         "pogo": "GIRATINA_ORIGIN",
         "veekunDb": "giratina-origin",
-        "showdownMarkup": "Giratina-Origin",
-        "showdownData": "giratinaorigin",
-        "serebii": "giratina-origin",
+        "serebii": "giratina",
         "bulbapedia": "Giratina",
         "homeSprite": "giratina-origin",
-        "miniSprite": "giratina-origin"
+        "miniSprite": "giratina-origin",
+        "showdown": "giratinaorigin",
+        "showdownDef": "Giratina-Origin",
+        "smogon": "giratina-origin"
     },
     "baseSpecies": "giratina",
     "baseForms": [

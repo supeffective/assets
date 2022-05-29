@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "SCEPTILE_MEGA",
         "veekunDb": "sceptile-mega",
-        "showdownMarkup": "Sceptile-Mega",
-        "showdownData": "sceptilemega",
-        "serebii": "sceptile-mega",
+        "serebii": "sceptile",
         "bulbapedia": "Sceptile",
         "homeSprite": "sceptile-mega",
-        "miniSprite": "sceptile-mega"
+        "miniSprite": "sceptile-mega",
+        "showdown": "sceptilemega",
+        "showdownDef": "Sceptile-Mega",
+        "smogon": "sceptile-mega"
     },
     "baseSpecies": "sceptile",
     "baseForms": [

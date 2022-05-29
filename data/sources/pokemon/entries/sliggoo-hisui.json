@@ -75,12 +75,13 @@
     "refs": {
         "pogo": null,
         "veekunDb": null,
-        "showdownMarkup": null,
-        "showdownData": null,
-        "serebii": null,
+        "serebii": "sliggoo",
         "bulbapedia": null,
         "homeSprite": "sliggoo-hisui",
-        "miniSprite": "sliggoo-hisui"
+        "miniSprite": "sliggoo-hisui",
+        "showdown": null,
+        "showdownDef": null,
+        "smogon": "sliggoo-hisui"
     },
     "baseSpecies": "sliggoo",
     "baseForms": [],

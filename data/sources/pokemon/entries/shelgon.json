@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SHELGON",
         "veekunDb": "shelgon",
-        "showdownMarkup": "Shelgon",
-        "showdownData": "shelgon",
         "serebii": "shelgon",
         "bulbapedia": "Shelgon",
         "homeSprite": "shelgon",
-        "miniSprite": "shelgon"
+        "miniSprite": "shelgon",
+        "showdown": "shelgon",
+        "showdownDef": "Shelgon",
+        "smogon": "shelgon"
     },
     "baseSpecies": null,
     "baseForms": [],

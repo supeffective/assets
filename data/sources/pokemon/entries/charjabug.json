@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CHARJABUG",
         "veekunDb": "charjabug",
-        "showdownMarkup": "Charjabug",
-        "showdownData": "charjabug",
         "serebii": "charjabug",
         "bulbapedia": "Charjabug",
         "homeSprite": "charjabug",
-        "miniSprite": "charjabug"
+        "miniSprite": "charjabug",
+        "showdown": "charjabug",
+        "showdownDef": "Charjabug",
+        "smogon": "charjabug"
     },
     "baseSpecies": null,
     "baseForms": [],

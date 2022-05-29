@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "WHISMUR",
         "veekunDb": "whismur",
-        "showdownMarkup": "Whismur",
-        "showdownData": "whismur",
         "serebii": "whismur",
         "bulbapedia": "Whismur",
         "homeSprite": "whismur",
-        "miniSprite": "whismur"
+        "miniSprite": "whismur",
+        "showdown": "whismur",
+        "showdownDef": "Whismur",
+        "smogon": "whismur"
     },
     "baseSpecies": null,
     "baseForms": [],

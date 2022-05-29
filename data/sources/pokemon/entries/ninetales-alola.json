@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "NINETALES_ALOLA",
         "veekunDb": "ninetales-alola",
-        "showdownMarkup": "Ninetales-Alola",
-        "showdownData": "ninetalesalola",
-        "serebii": "ninetales-alola",
+        "serebii": "ninetales",
         "bulbapedia": "Ninetales",
         "homeSprite": "ninetales-alola",
-        "miniSprite": "ninetales-alola"
+        "miniSprite": "ninetales-alola",
+        "showdown": "ninetalesalola",
+        "showdownDef": "Ninetales-Alola",
+        "smogon": "ninetales-alola"
     },
     "baseSpecies": "ninetales",
     "baseForms": [],

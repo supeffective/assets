@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "GLALIE_MEGA",
         "veekunDb": "glalie-mega",
-        "showdownMarkup": "Glalie-Mega",
-        "showdownData": "glaliemega",
-        "serebii": "glalie-mega",
+        "serebii": "glalie",
         "bulbapedia": "Glalie",
         "homeSprite": "glalie-mega",
-        "miniSprite": "glalie-mega"
+        "miniSprite": "glalie-mega",
+        "showdown": "glaliemega",
+        "showdownDef": "Glalie-Mega",
+        "smogon": "glalie-mega"
     },
     "baseSpecies": "glalie",
     "baseForms": [

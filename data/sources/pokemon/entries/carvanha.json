@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CARVANHA",
         "veekunDb": "carvanha",
-        "showdownMarkup": "Carvanha",
-        "showdownData": "carvanha",
         "serebii": "carvanha",
         "bulbapedia": "Carvanha",
         "homeSprite": "carvanha",
-        "miniSprite": "carvanha"
+        "miniSprite": "carvanha",
+        "showdown": "carvanha",
+        "showdownDef": "Carvanha",
+        "smogon": "carvanha"
     },
     "baseSpecies": null,
     "baseForms": [],

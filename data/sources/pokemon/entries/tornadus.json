@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "TORNADUS",
         "veekunDb": "tornadus",
-        "showdownMarkup": "Tornadus",
-        "showdownData": "tornadus",
         "serebii": "tornadus",
         "bulbapedia": "Tornadus",
         "homeSprite": "tornadus",
-        "miniSprite": "tornadus"
+        "miniSprite": "tornadus",
+        "showdown": "tornadus",
+        "showdownDef": "Tornadus",
+        "smogon": "tornadus"
     },
     "baseSpecies": null,
     "baseForms": [],

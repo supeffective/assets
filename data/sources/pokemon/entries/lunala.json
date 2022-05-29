@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "LUNALA",
         "veekunDb": "lunala",
-        "showdownMarkup": "Lunala",
-        "showdownData": "lunala",
         "serebii": "lunala",
         "bulbapedia": "Lunala",
         "homeSprite": "lunala",
-        "miniSprite": "lunala"
+        "miniSprite": "lunala",
+        "showdown": "lunala",
+        "showdownDef": "Lunala",
+        "smogon": "lunala"
     },
     "baseSpecies": null,
     "baseForms": [],

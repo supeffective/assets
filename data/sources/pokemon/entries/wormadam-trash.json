@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "WORMADAM_TRASH",
         "veekunDb": "wormadam-trash",
-        "showdownMarkup": "Wormadam-Trash",
-        "showdownData": "wormadamtrash",
-        "serebii": "wormadam-trash",
+        "serebii": "wormadam",
         "bulbapedia": "Wormadam",
         "homeSprite": "wormadam-trash",
-        "miniSprite": "wormadam-trash"
+        "miniSprite": "wormadam-trash",
+        "showdown": "wormadamtrash",
+        "showdownDef": "Wormadam-Trash",
+        "smogon": "wormadam-trash"
     },
     "baseSpecies": "wormadam",
     "baseForms": [],

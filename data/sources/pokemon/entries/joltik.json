@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "JOLTIK",
         "veekunDb": "joltik",
-        "showdownMarkup": "Joltik",
-        "showdownData": "joltik",
         "serebii": "joltik",
         "bulbapedia": "Joltik",
         "homeSprite": "joltik",
-        "miniSprite": "joltik"
+        "miniSprite": "joltik",
+        "showdown": "joltik",
+        "showdownDef": "Joltik",
+        "smogon": "joltik"
     },
     "baseSpecies": null,
     "baseForms": [],

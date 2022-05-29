@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ZAMAZENTA",
         "veekunDb": "zamazenta",
-        "showdownMarkup": "Zamazenta",
-        "showdownData": "zamazenta",
         "serebii": "zamazenta",
         "bulbapedia": "Zamazenta",
         "homeSprite": "zamazenta",
-        "miniSprite": "zamazenta"
+        "miniSprite": "zamazenta",
+        "showdown": "zamazenta",
+        "showdownDef": "Zamazenta",
+        "smogon": "zamazenta"
     },
     "baseSpecies": null,
     "baseForms": [],

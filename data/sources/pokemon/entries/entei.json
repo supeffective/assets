@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ENTEI",
         "veekunDb": "entei",
-        "showdownMarkup": "Entei",
-        "showdownData": "entei",
         "serebii": "entei",
         "bulbapedia": "Entei",
         "homeSprite": "entei",
-        "miniSprite": "entei"
+        "miniSprite": "entei",
+        "showdown": "entei",
+        "showdownDef": "Entei",
+        "smogon": "entei"
     },
     "baseSpecies": null,
     "baseForms": [],

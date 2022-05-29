@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "GOURGEIST_LARGE",
         "veekunDb": "gourgeist-large",
-        "showdownMarkup": "Gourgeist-Large",
-        "showdownData": "gourgeistlarge",
-        "serebii": "gourgeist-large",
+        "serebii": "gourgeist",
         "bulbapedia": "Gourgeist",
         "homeSprite": "gourgeist-large",
-        "miniSprite": "gourgeist-large"
+        "miniSprite": "gourgeist-large",
+        "showdown": "gourgeistlarge",
+        "showdownDef": "Gourgeist-Large",
+        "smogon": "gourgeist-large"
     },
     "baseSpecies": "gourgeist",
     "baseForms": [],

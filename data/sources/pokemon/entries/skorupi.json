@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "SKORUPI",
         "veekunDb": "skorupi",
-        "showdownMarkup": "Skorupi",
-        "showdownData": "skorupi",
         "serebii": "skorupi",
         "bulbapedia": "Skorupi",
         "homeSprite": "skorupi",
-        "miniSprite": "skorupi"
+        "miniSprite": "skorupi",
+        "showdown": "skorupi",
+        "showdownDef": "Skorupi",
+        "smogon": "skorupi"
     },
     "baseSpecies": null,
     "baseForms": [],

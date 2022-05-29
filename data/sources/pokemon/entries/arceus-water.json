@@ -74,12 +74,13 @@
     "refs": {
         "pogo": "ARCEUS_WATER",
         "veekunDb": "arceus-water",
-        "showdownMarkup": "Arceus-Water",
-        "showdownData": "arceuswater",
-        "serebii": "arceus-water",
+        "serebii": "arceus",
         "bulbapedia": "Arceus",
         "homeSprite": "arceus-water",
-        "miniSprite": "arceus-water"
+        "miniSprite": "arceus-water",
+        "showdown": "arceuswater",
+        "showdownDef": "Arceus-Water",
+        "smogon": "arceus-water"
     },
     "baseSpecies": "arceus",
     "baseForms": [

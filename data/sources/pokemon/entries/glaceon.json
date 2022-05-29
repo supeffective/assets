@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "GLACEON",
         "veekunDb": "glaceon",
-        "showdownMarkup": "Glaceon",
-        "showdownData": "glaceon",
         "serebii": "glaceon",
         "bulbapedia": "Glaceon",
         "homeSprite": "glaceon",
-        "miniSprite": "glaceon"
+        "miniSprite": "glaceon",
+        "showdown": "glaceon",
+        "showdownDef": "Glaceon",
+        "smogon": "glaceon"
     },
     "baseSpecies": null,
     "baseForms": [],

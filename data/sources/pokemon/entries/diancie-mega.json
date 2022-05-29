@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "DIANCIE_MEGA",
         "veekunDb": "diancie-mega",
-        "showdownMarkup": "Diancie-Mega",
-        "showdownData": "dianciemega",
-        "serebii": "diancie-mega",
+        "serebii": "diancie",
         "bulbapedia": "Diancie",
         "homeSprite": "diancie-mega",
-        "miniSprite": "diancie-mega"
+        "miniSprite": "diancie-mega",
+        "showdown": "dianciemega",
+        "showdownDef": "Diancie-Mega",
+        "smogon": "diancie-mega"
     },
     "baseSpecies": "diancie",
     "baseForms": [

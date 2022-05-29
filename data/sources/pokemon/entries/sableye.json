@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SABLEYE",
         "veekunDb": "sableye",
-        "showdownMarkup": "Sableye",
-        "showdownData": "sableye",
         "serebii": "sableye",
         "bulbapedia": "Sableye",
         "homeSprite": "sableye",
-        "miniSprite": "sableye"
+        "miniSprite": "sableye",
+        "showdown": "sableye",
+        "showdownDef": "Sableye",
+        "smogon": "sableye"
     },
     "baseSpecies": null,
     "baseForms": [],

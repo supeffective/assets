@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "PRIMEAPE",
         "veekunDb": "primeape",
-        "showdownMarkup": "Primeape",
-        "showdownData": "primeape",
         "serebii": "primeape",
         "bulbapedia": "Primeape",
         "homeSprite": "primeape",
-        "miniSprite": "primeape"
+        "miniSprite": "primeape",
+        "showdown": "primeape",
+        "showdownDef": "Primeape",
+        "smogon": "primeape"
     },
     "baseSpecies": null,
     "baseForms": [],

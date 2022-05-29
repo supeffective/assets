@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "KLANG",
         "veekunDb": "klang",
-        "showdownMarkup": "Klang",
-        "showdownData": "klang",
         "serebii": "klang",
         "bulbapedia": "Klang",
         "homeSprite": "klang",
-        "miniSprite": "klang"
+        "miniSprite": "klang",
+        "showdown": "klang",
+        "showdownDef": "Klang",
+        "smogon": "klang"
     },
     "baseSpecies": null,
     "baseForms": [],

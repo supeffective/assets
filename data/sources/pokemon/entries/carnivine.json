@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "CARNIVINE",
         "veekunDb": "carnivine",
-        "showdownMarkup": "Carnivine",
-        "showdownData": "carnivine",
         "serebii": "carnivine",
         "bulbapedia": "Carnivine",
         "homeSprite": "carnivine",
-        "miniSprite": "carnivine"
+        "miniSprite": "carnivine",
+        "showdown": "carnivine",
+        "showdownDef": "Carnivine",
+        "smogon": "carnivine"
     },
     "baseSpecies": null,
     "baseForms": [],

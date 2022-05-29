@@ -75,12 +75,13 @@
     "refs": {
         "pogo": null,
         "veekunDb": null,
-        "showdownMarkup": null,
-        "showdownData": null,
-        "serebii": null,
+        "serebii": "typhlosion",
         "bulbapedia": null,
         "homeSprite": "typhlosion-hisui",
-        "miniSprite": "typhlosion-hisui"
+        "miniSprite": "typhlosion-hisui",
+        "showdown": null,
+        "showdownDef": null,
+        "smogon": "typhlosion-hisui"
     },
     "baseSpecies": "typhlosion",
     "baseForms": [],

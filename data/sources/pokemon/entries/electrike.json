@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ELECTRIKE",
         "veekunDb": "electrike",
-        "showdownMarkup": "Electrike",
-        "showdownData": "electrike",
         "serebii": "electrike",
         "bulbapedia": "Electrike",
         "homeSprite": "electrike",
-        "miniSprite": "electrike"
+        "miniSprite": "electrike",
+        "showdown": "electrike",
+        "showdownDef": "Electrike",
+        "smogon": "electrike"
     },
     "baseSpecies": null,
     "baseForms": [],

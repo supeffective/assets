@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "FROSMOTH",
         "veekunDb": "frosmoth",
-        "showdownMarkup": "Frosmoth",
-        "showdownData": "frosmoth",
         "serebii": "frosmoth",
         "bulbapedia": "Frosmoth",
         "homeSprite": "frosmoth",
-        "miniSprite": "frosmoth"
+        "miniSprite": "frosmoth",
+        "showdown": "frosmoth",
+        "showdownDef": "Frosmoth",
+        "smogon": "frosmoth"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "PANCHAM",
         "veekunDb": "pancham",
-        "showdownMarkup": "Pancham",
-        "showdownData": "pancham",
         "serebii": "pancham",
         "bulbapedia": "Pancham",
         "homeSprite": "pancham",
-        "miniSprite": "pancham"
+        "miniSprite": "pancham",
+        "showdown": "pancham",
+        "showdownDef": "Pancham",
+        "smogon": "pancham"
     },
     "baseSpecies": null,
     "baseForms": [],

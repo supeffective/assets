@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ROOKIDEE",
         "veekunDb": "rookidee",
-        "showdownMarkup": "Rookidee",
-        "showdownData": "rookidee",
         "serebii": "rookidee",
         "bulbapedia": "Rookidee",
         "homeSprite": "rookidee",
-        "miniSprite": "rookidee"
+        "miniSprite": "rookidee",
+        "showdown": "rookidee",
+        "showdownDef": "Rookidee",
+        "smogon": "rookidee"
     },
     "baseSpecies": null,
     "baseForms": [],

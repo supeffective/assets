@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "UNFEZANT",
         "veekunDb": "unfezant",
-        "showdownMarkup": "Unfezant",
-        "showdownData": "unfezant",
         "serebii": "unfezant",
         "bulbapedia": "Unfezant",
         "homeSprite": "unfezant",
-        "miniSprite": "unfezant"
+        "miniSprite": "unfezant",
+        "showdown": "unfezant",
+        "showdownDef": "Unfezant",
+        "smogon": "unfezant"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ORANGURU",
         "veekunDb": "oranguru",
-        "showdownMarkup": "Oranguru",
-        "showdownData": "oranguru",
         "serebii": "oranguru",
         "bulbapedia": "Oranguru",
         "homeSprite": "oranguru",
-        "miniSprite": "oranguru"
+        "miniSprite": "oranguru",
+        "showdown": "oranguru",
+        "showdownDef": "Oranguru",
+        "smogon": "oranguru"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "TAILLOW",
         "veekunDb": "taillow",
-        "showdownMarkup": "Taillow",
-        "showdownData": "taillow",
         "serebii": "taillow",
         "bulbapedia": "Taillow",
         "homeSprite": "taillow",
-        "miniSprite": "taillow"
+        "miniSprite": "taillow",
+        "showdown": "taillow",
+        "showdownDef": "Taillow",
+        "smogon": "taillow"
     },
     "baseSpecies": null,
     "baseForms": [],

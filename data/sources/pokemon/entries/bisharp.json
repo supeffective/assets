@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "BISHARP",
         "veekunDb": "bisharp",
-        "showdownMarkup": "Bisharp",
-        "showdownData": "bisharp",
         "serebii": "bisharp",
         "bulbapedia": "Bisharp",
         "homeSprite": "bisharp",
-        "miniSprite": "bisharp"
+        "miniSprite": "bisharp",
+        "showdown": "bisharp",
+        "showdownDef": "Bisharp",
+        "smogon": "bisharp"
     },
     "baseSpecies": null,
     "baseForms": [],

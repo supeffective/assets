@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "STUNFISK",
         "veekunDb": "stunfisk",
-        "showdownMarkup": "Stunfisk",
-        "showdownData": "stunfisk",
         "serebii": "stunfisk",
         "bulbapedia": "Stunfisk",
         "homeSprite": "stunfisk",
-        "miniSprite": "stunfisk"
+        "miniSprite": "stunfisk",
+        "showdown": "stunfisk",
+        "showdownDef": "Stunfisk",
+        "smogon": "stunfisk"
     },
     "baseSpecies": null,
     "baseForms": [],

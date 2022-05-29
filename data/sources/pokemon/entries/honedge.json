@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "HONEDGE",
         "veekunDb": "honedge",
-        "showdownMarkup": "Honedge",
-        "showdownData": "honedge",
         "serebii": "honedge",
         "bulbapedia": "Honedge",
         "homeSprite": "honedge",
-        "miniSprite": "honedge"
+        "miniSprite": "honedge",
+        "showdown": "honedge",
+        "showdownDef": "Honedge",
+        "smogon": "honedge"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "WHIRLIPEDE",
         "veekunDb": "whirlipede",
-        "showdownMarkup": "Whirlipede",
-        "showdownData": "whirlipede",
         "serebii": "whirlipede",
         "bulbapedia": "Whirlipede",
         "homeSprite": "whirlipede",
-        "miniSprite": "whirlipede"
+        "miniSprite": "whirlipede",
+        "showdown": "whirlipede",
+        "showdownDef": "Whirlipede",
+        "smogon": "whirlipede"
     },
     "baseSpecies": null,
     "baseForms": [],

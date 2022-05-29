@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VIVILLON_SAVANNA",
         "veekunDb": "vivillon-savanna",
-        "showdownMarkup": "Vivillon-Savanna",
-        "showdownData": "vivillonsavanna",
-        "serebii": "vivillon-savanna",
+        "serebii": "vivillon",
         "bulbapedia": "Vivillon",
         "homeSprite": "vivillon-savanna",
-        "miniSprite": "vivillon-savanna"
+        "miniSprite": "vivillon-savanna",
+        "showdown": "vivillonsavanna",
+        "showdownDef": "Vivillon-Savanna",
+        "smogon": "vivillon-savanna"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

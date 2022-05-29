@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "ESPEON",
         "veekunDb": "espeon",
-        "showdownMarkup": "Espeon",
-        "showdownData": "espeon",
         "serebii": "espeon",
         "bulbapedia": "Espeon",
         "homeSprite": "espeon",
-        "miniSprite": "espeon"
+        "miniSprite": "espeon",
+        "showdown": "espeon",
+        "showdownDef": "Espeon",
+        "smogon": "espeon"
     },
     "baseSpecies": null,
     "baseForms": [],

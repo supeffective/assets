@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "WEEZING_GALAR",
         "veekunDb": "weezing-galar",
-        "showdownMarkup": "Weezing-Galar",
-        "showdownData": "weezinggalar",
-        "serebii": "weezing-galar",
+        "serebii": "weezing",
         "bulbapedia": "Weezing",
         "homeSprite": "weezing-galar",
-        "miniSprite": "weezing-galar"
+        "miniSprite": "weezing-galar",
+        "showdown": "weezinggalar",
+        "showdownDef": "Weezing-Galar",
+        "smogon": "weezing-galar"
     },
     "baseSpecies": "weezing",
     "baseForms": [],

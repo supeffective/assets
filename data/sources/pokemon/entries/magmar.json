@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "MAGMAR",
         "veekunDb": "magmar",
-        "showdownMarkup": "Magmar",
-        "showdownData": "magmar",
         "serebii": "magmar",
         "bulbapedia": "Magmar",
         "homeSprite": "magmar",
-        "miniSprite": "magmar"
+        "miniSprite": "magmar",
+        "showdown": "magmar",
+        "showdownDef": "Magmar",
+        "smogon": "magmar"
     },
     "baseSpecies": null,
     "baseForms": [],

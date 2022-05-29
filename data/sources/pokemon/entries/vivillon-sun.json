@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VIVILLON_SUN",
         "veekunDb": "vivillon-sun",
-        "showdownMarkup": "Vivillon-Sun",
-        "showdownData": "vivillonsun",
-        "serebii": "vivillon-sun",
+        "serebii": "vivillon",
         "bulbapedia": "Vivillon",
         "homeSprite": "vivillon-sun",
-        "miniSprite": "vivillon-sun"
+        "miniSprite": "vivillon-sun",
+        "showdown": "vivillonsun",
+        "showdownDef": "Vivillon-Sun",
+        "smogon": "vivillon-sun"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

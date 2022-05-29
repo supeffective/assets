@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CRAMORANT",
         "veekunDb": "cramorant",
-        "showdownMarkup": "Cramorant",
-        "showdownData": "cramorant",
         "serebii": "cramorant",
         "bulbapedia": "Cramorant",
         "homeSprite": "cramorant",
-        "miniSprite": "cramorant"
+        "miniSprite": "cramorant",
+        "showdown": "cramorant",
+        "showdownDef": "Cramorant",
+        "smogon": "cramorant"
     },
     "baseSpecies": null,
     "baseForms": [],

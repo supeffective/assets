@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "STEELIX_F",
         "veekunDb": "steelix-f",
-        "showdownMarkup": "Steelix-F",
-        "showdownData": "steelixf",
-        "serebii": "steelix-f",
+        "serebii": "steelix",
         "bulbapedia": "Steelix",
         "homeSprite": "steelix-f",
-        "miniSprite": "steelix-f"
+        "miniSprite": "steelix-f",
+        "showdown": "steelixf",
+        "showdownDef": "Steelix-F",
+        "smogon": "steelix-f"
     },
     "baseSpecies": "steelix",
     "baseForms": [],

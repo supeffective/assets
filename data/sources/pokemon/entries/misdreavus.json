@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "MISDREAVUS",
         "veekunDb": "misdreavus",
-        "showdownMarkup": "Misdreavus",
-        "showdownData": "misdreavus",
         "serebii": "misdreavus",
         "bulbapedia": "Misdreavus",
         "homeSprite": "misdreavus",
-        "miniSprite": "misdreavus"
+        "miniSprite": "misdreavus",
+        "showdown": "misdreavus",
+        "showdownDef": "Misdreavus",
+        "smogon": "misdreavus"
     },
     "baseSpecies": null,
     "baseForms": [],

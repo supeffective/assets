@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MARSHADOW",
         "veekunDb": "marshadow",
-        "showdownMarkup": "Marshadow",
-        "showdownData": "marshadow",
         "serebii": "marshadow",
         "bulbapedia": "Marshadow",
         "homeSprite": "marshadow",
-        "miniSprite": "marshadow"
+        "miniSprite": "marshadow",
+        "showdown": "marshadow",
+        "showdownDef": "Marshadow",
+        "smogon": "marshadow"
     },
     "baseSpecies": null,
     "baseForms": [],

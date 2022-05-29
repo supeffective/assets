@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ALCREMIE_RUBY_SWIRL_FLOWER",
         "veekunDb": "alcremie-ruby-swirl-flower",
-        "showdownMarkup": "Alcremie-Ruby-Swirl-Flower",
-        "showdownData": "alcremierubyswirlflower",
-        "serebii": "alcremie-ruby-swirl-flower",
+        "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "alcremie-ruby-swirl-flower",
-        "miniSprite": "alcremie-ruby-swirl-flower"
+        "miniSprite": "alcremie-ruby-swirl-flower",
+        "showdown": "alcremierubyswirlflower",
+        "showdownDef": "Alcremie-Ruby-Swirl-Flower",
+        "smogon": "alcremie-ruby-swirl-flower"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SKIDDO",
         "veekunDb": "skiddo",
-        "showdownMarkup": "Skiddo",
-        "showdownData": "skiddo",
         "serebii": "skiddo",
         "bulbapedia": "Skiddo",
         "homeSprite": "skiddo",
-        "miniSprite": "skiddo"
+        "miniSprite": "skiddo",
+        "showdown": "skiddo",
+        "showdownDef": "Skiddo",
+        "smogon": "skiddo"
     },
     "baseSpecies": null,
     "baseForms": [],

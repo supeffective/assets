@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "HOOPA_UNBOUND",
         "veekunDb": "hoopa-unbound",
-        "showdownMarkup": "Hoopa-Unbound",
-        "showdownData": "hoopaunbound",
-        "serebii": "hoopa-unbound",
+        "serebii": "hoopa",
         "bulbapedia": "Hoopa",
         "homeSprite": "hoopa-unbound",
-        "miniSprite": "hoopa-unbound"
+        "miniSprite": "hoopa-unbound",
+        "showdown": "hoopaunbound",
+        "showdownDef": "Hoopa-Unbound",
+        "smogon": "hoopa-unbound"
     },
     "baseSpecies": "hoopa",
     "baseForms": [

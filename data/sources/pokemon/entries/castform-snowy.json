@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "CASTFORM_SNOWY",
         "veekunDb": "castform-snowy",
-        "showdownMarkup": "Castform-Snowy",
-        "showdownData": "castformsnowy",
-        "serebii": "castform-snowy",
+        "serebii": "castform",
         "bulbapedia": "Castform",
         "homeSprite": "castform-snowy",
-        "miniSprite": "castform-snowy"
+        "miniSprite": "castform-snowy",
+        "showdown": "castformsnowy",
+        "showdownDef": "Castform-Snowy",
+        "smogon": "castform-snowy"
     },
     "baseSpecies": "castform",
     "baseForms": [

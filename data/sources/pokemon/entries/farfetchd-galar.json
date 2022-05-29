@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "FARFETCHD_GALAR",
         "veekunDb": "farfetchd-galar",
-        "showdownMarkup": "Farfetchd-Galar",
-        "showdownData": "farfetchdgalar",
-        "serebii": "farfetchd-galar",
+        "serebii": "farfetchd",
         "bulbapedia": "Farfetchd",
         "homeSprite": "farfetchd-galar",
-        "miniSprite": "farfetchd-galar"
+        "miniSprite": "farfetchd-galar",
+        "showdown": "farfetchdgalar",
+        "showdownDef": "Farfetchd-Galar",
+        "smogon": "farfetchd-galar"
     },
     "baseSpecies": "farfetchd",
     "baseForms": [],

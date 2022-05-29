@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "TERRAKION",
         "veekunDb": "terrakion",
-        "showdownMarkup": "Terrakion",
-        "showdownData": "terrakion",
         "serebii": "terrakion",
         "bulbapedia": "Terrakion",
         "homeSprite": "terrakion",
-        "miniSprite": "terrakion"
+        "miniSprite": "terrakion",
+        "showdown": "terrakion",
+        "showdownDef": "Terrakion",
+        "smogon": "terrakion"
     },
     "baseSpecies": null,
     "baseForms": [],

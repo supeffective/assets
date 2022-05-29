@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CACTURNE",
         "veekunDb": "cacturne",
-        "showdownMarkup": "Cacturne",
-        "showdownData": "cacturne",
         "serebii": "cacturne",
         "bulbapedia": "Cacturne",
         "homeSprite": "cacturne",
-        "miniSprite": "cacturne"
+        "miniSprite": "cacturne",
+        "showdown": "cacturne",
+        "showdownDef": "Cacturne",
+        "smogon": "cacturne"
     },
     "baseSpecies": null,
     "baseForms": [],

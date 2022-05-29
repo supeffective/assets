@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "GABITE",
         "veekunDb": "gabite",
-        "showdownMarkup": "Gabite",
-        "showdownData": "gabite",
         "serebii": "gabite",
         "bulbapedia": "Gabite",
         "homeSprite": "gabite",
-        "miniSprite": "gabite"
+        "miniSprite": "gabite",
+        "showdown": "gabite",
+        "showdownDef": "Gabite",
+        "smogon": "gabite"
     },
     "baseSpecies": null,
     "baseForms": [],

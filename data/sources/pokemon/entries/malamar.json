@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MALAMAR",
         "veekunDb": "malamar",
-        "showdownMarkup": "Malamar",
-        "showdownData": "malamar",
         "serebii": "malamar",
         "bulbapedia": "Malamar",
         "homeSprite": "malamar",
-        "miniSprite": "malamar"
+        "miniSprite": "malamar",
+        "showdown": "malamar",
+        "showdownDef": "Malamar",
+        "smogon": "malamar"
     },
     "baseSpecies": null,
     "baseForms": [],

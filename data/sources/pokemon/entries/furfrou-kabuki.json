@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "FURFROU_KABUKI",
         "veekunDb": "furfrou-kabuki",
-        "showdownMarkup": "Furfrou-Kabuki",
-        "showdownData": "furfroukabuki",
-        "serebii": "furfrou-kabuki",
+        "serebii": "furfrou",
         "bulbapedia": "Furfrou",
         "homeSprite": "furfrou-kabuki",
-        "miniSprite": "furfrou-kabuki"
+        "miniSprite": "furfrou-kabuki",
+        "showdown": "furfroukabuki",
+        "showdownDef": "Furfrou-Kabuki",
+        "smogon": "furfrou-kabuki"
     },
     "baseSpecies": "furfrou",
     "baseForms": [

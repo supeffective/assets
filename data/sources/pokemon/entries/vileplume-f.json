@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VILEPLUME_F",
         "veekunDb": "vileplume-f",
-        "showdownMarkup": "Vileplume-F",
-        "showdownData": "vileplumef",
-        "serebii": "vileplume-f",
+        "serebii": "vileplume",
         "bulbapedia": "Vileplume",
         "homeSprite": "vileplume-f",
-        "miniSprite": "vileplume-f"
+        "miniSprite": "vileplume-f",
+        "showdown": "vileplumef",
+        "showdownDef": "Vileplume-F",
+        "smogon": "vileplume-f"
     },
     "baseSpecies": "vileplume",
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VENONAT",
         "veekunDb": "venonat",
-        "showdownMarkup": "Venonat",
-        "showdownData": "venonat",
         "serebii": "venonat",
         "bulbapedia": "Venonat",
         "homeSprite": "venonat",
-        "miniSprite": "venonat"
+        "miniSprite": "venonat",
+        "showdown": "venonat",
+        "showdownDef": "Venonat",
+        "smogon": "venonat"
     },
     "baseSpecies": null,
     "baseForms": [],

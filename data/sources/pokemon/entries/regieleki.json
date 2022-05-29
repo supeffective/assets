@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "REGIELEKI",
         "veekunDb": "regieleki",
-        "showdownMarkup": "Regieleki",
-        "showdownData": "regieleki",
         "serebii": "regieleki",
         "bulbapedia": "Regieleki",
         "homeSprite": "regieleki",
-        "miniSprite": "regieleki"
+        "miniSprite": "regieleki",
+        "showdown": "regieleki",
+        "showdownDef": "Regieleki",
+        "smogon": "regieleki"
     },
     "baseSpecies": null,
     "baseForms": [],

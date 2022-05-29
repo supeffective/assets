@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "SILVALLY_DARK",
         "veekunDb": "silvally-dark",
-        "showdownMarkup": "Silvally-Dark",
-        "showdownData": "silvallydark",
-        "serebii": "silvally-dark",
+        "serebii": "silvally",
         "bulbapedia": "Silvally",
         "homeSprite": "silvally-dark",
-        "miniSprite": "silvally-dark"
+        "miniSprite": "silvally-dark",
+        "showdown": "silvallydark",
+        "showdownDef": "Silvally-Dark",
+        "smogon": "silvally-dark"
     },
     "baseSpecies": "silvally",
     "baseForms": [

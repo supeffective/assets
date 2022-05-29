@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SPOINK",
         "veekunDb": "spoink",
-        "showdownMarkup": "Spoink",
-        "showdownData": "spoink",
         "serebii": "spoink",
         "bulbapedia": "Spoink",
         "homeSprite": "spoink",
-        "miniSprite": "spoink"
+        "miniSprite": "spoink",
+        "showdown": "spoink",
+        "showdownDef": "Spoink",
+        "smogon": "spoink"
     },
     "baseSpecies": null,
     "baseForms": [],

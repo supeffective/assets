@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "GRIMER_ALOLA",
         "veekunDb": "grimer-alola",
-        "showdownMarkup": "Grimer-Alola",
-        "showdownData": "grimeralola",
-        "serebii": "grimer-alola",
+        "serebii": "grimer",
         "bulbapedia": "Grimer",
         "homeSprite": "grimer-alola",
-        "miniSprite": "grimer-alola"
+        "miniSprite": "grimer-alola",
+        "showdown": "grimeralola",
+        "showdownDef": "Grimer-Alola",
+        "smogon": "grimer-alola"
     },
     "baseSpecies": "grimer",
     "baseForms": [],

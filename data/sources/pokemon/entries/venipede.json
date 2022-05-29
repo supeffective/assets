@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VENIPEDE",
         "veekunDb": "venipede",
-        "showdownMarkup": "Venipede",
-        "showdownData": "venipede",
         "serebii": "venipede",
         "bulbapedia": "Venipede",
         "homeSprite": "venipede",
-        "miniSprite": "venipede"
+        "miniSprite": "venipede",
+        "showdown": "venipede",
+        "showdownDef": "Venipede",
+        "smogon": "venipede"
     },
     "baseSpecies": null,
     "baseForms": [],

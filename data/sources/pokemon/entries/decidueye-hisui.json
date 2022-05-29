@@ -75,12 +75,13 @@
     "refs": {
         "pogo": null,
         "veekunDb": null,
-        "showdownMarkup": null,
-        "showdownData": null,
-        "serebii": null,
+        "serebii": "decidueye",
         "bulbapedia": null,
         "homeSprite": "decidueye-hisui",
-        "miniSprite": "decidueye-hisui"
+        "miniSprite": "decidueye-hisui",
+        "showdown": null,
+        "showdownDef": null,
+        "smogon": "decidueye-hisui"
     },
     "baseSpecies": "decidueye",
     "baseForms": [],

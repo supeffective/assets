@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "SABLEYE_MEGA",
         "veekunDb": "sableye-mega",
-        "showdownMarkup": "Sableye-Mega",
-        "showdownData": "sableyemega",
-        "serebii": "sableye-mega",
+        "serebii": "sableye",
         "bulbapedia": "Sableye",
         "homeSprite": "sableye-mega",
-        "miniSprite": "sableye-mega"
+        "miniSprite": "sableye-mega",
+        "showdown": "sableyemega",
+        "showdownDef": "Sableye-Mega",
+        "smogon": "sableye-mega"
     },
     "baseSpecies": "sableye",
     "baseForms": [

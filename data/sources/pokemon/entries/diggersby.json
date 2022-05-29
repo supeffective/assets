@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DIGGERSBY",
         "veekunDb": "diggersby",
-        "showdownMarkup": "Diggersby",
-        "showdownData": "diggersby",
         "serebii": "diggersby",
         "bulbapedia": "Diggersby",
         "homeSprite": "diggersby",
-        "miniSprite": "diggersby"
+        "miniSprite": "diggersby",
+        "showdown": "diggersby",
+        "showdownDef": "Diggersby",
+        "smogon": "diggersby"
     },
     "baseSpecies": null,
     "baseForms": [],

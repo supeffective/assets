@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "BEEDRILL_MEGA",
         "veekunDb": "beedrill-mega",
-        "showdownMarkup": "Beedrill-Mega",
-        "showdownData": "beedrillmega",
-        "serebii": "beedrill-mega",
+        "serebii": "beedrill",
         "bulbapedia": "Beedrill",
         "homeSprite": "beedrill-mega",
-        "miniSprite": "beedrill-mega"
+        "miniSprite": "beedrill-mega",
+        "showdown": "beedrillmega",
+        "showdownDef": "Beedrill-Mega",
+        "smogon": "beedrill-mega"
     },
     "baseSpecies": "beedrill",
     "baseForms": [

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SANDACONDA",
         "veekunDb": "sandaconda",
-        "showdownMarkup": "Sandaconda",
-        "showdownData": "sandaconda",
         "serebii": "sandaconda",
         "bulbapedia": "Sandaconda",
         "homeSprite": "sandaconda",
-        "miniSprite": "sandaconda"
+        "miniSprite": "sandaconda",
+        "showdown": "sandaconda",
+        "showdownDef": "Sandaconda",
+        "smogon": "sandaconda"
     },
     "baseSpecies": null,
     "baseForms": [],

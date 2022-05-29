@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "GROUDON_PRIMAL",
         "veekunDb": "groudon-primal",
-        "showdownMarkup": "Groudon-Primal",
-        "showdownData": "groudonprimal",
-        "serebii": "groudon-primal",
+        "serebii": "groudon",
         "bulbapedia": "Groudon",
         "homeSprite": "groudon-primal",
-        "miniSprite": "groudon-primal"
+        "miniSprite": "groudon-primal",
+        "showdown": "groudonprimal",
+        "showdownDef": "Groudon-Primal",
+        "smogon": "groudon-primal"
     },
     "baseSpecies": "groudon",
     "baseForms": [

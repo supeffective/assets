@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "AZUMARILL",
         "veekunDb": "azumarill",
-        "showdownMarkup": "Azumarill",
-        "showdownData": "azumarill",
         "serebii": "azumarill",
         "bulbapedia": "Azumarill",
         "homeSprite": "azumarill",
-        "miniSprite": "azumarill"
+        "miniSprite": "azumarill",
+        "showdown": "azumarill",
+        "showdownDef": "Azumarill",
+        "smogon": "azumarill"
     },
     "baseSpecies": null,
     "baseForms": [],

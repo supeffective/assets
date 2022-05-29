@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "LOPUNNY_MEGA",
         "veekunDb": "lopunny-mega",
-        "showdownMarkup": "Lopunny-Mega",
-        "showdownData": "lopunnymega",
-        "serebii": "lopunny-mega",
+        "serebii": "lopunny",
         "bulbapedia": "Lopunny",
         "homeSprite": "lopunny-mega",
-        "miniSprite": "lopunny-mega"
+        "miniSprite": "lopunny-mega",
+        "showdown": "lopunnymega",
+        "showdownDef": "Lopunny-Mega",
+        "smogon": "lopunny-mega"
     },
     "baseSpecies": "lopunny",
     "baseForms": [

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CACNEA",
         "veekunDb": "cacnea",
-        "showdownMarkup": "Cacnea",
-        "showdownData": "cacnea",
         "serebii": "cacnea",
         "bulbapedia": "Cacnea",
         "homeSprite": "cacnea",
-        "miniSprite": "cacnea"
+        "miniSprite": "cacnea",
+        "showdown": "cacnea",
+        "showdownDef": "Cacnea",
+        "smogon": "cacnea"
     },
     "baseSpecies": null,
     "baseForms": [],

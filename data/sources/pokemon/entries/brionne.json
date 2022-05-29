@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "BRIONNE",
         "veekunDb": "brionne",
-        "showdownMarkup": "Brionne",
-        "showdownData": "brionne",
         "serebii": "brionne",
         "bulbapedia": "Brionne",
         "homeSprite": "brionne",
-        "miniSprite": "brionne"
+        "miniSprite": "brionne",
+        "showdown": "brionne",
+        "showdownDef": "Brionne",
+        "smogon": "brionne"
     },
     "baseSpecies": null,
     "baseForms": [],

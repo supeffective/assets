@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "PIPLUP",
         "veekunDb": "piplup",
-        "showdownMarkup": "Piplup",
-        "showdownData": "piplup",
         "serebii": "piplup",
         "bulbapedia": "Piplup",
         "homeSprite": "piplup",
-        "miniSprite": "piplup"
+        "miniSprite": "piplup",
+        "showdown": "piplup",
+        "showdownDef": "Piplup",
+        "smogon": "piplup"
     },
     "baseSpecies": null,
     "baseForms": [],

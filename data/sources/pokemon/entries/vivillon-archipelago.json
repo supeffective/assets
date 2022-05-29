@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VIVILLON_ARCHIPELAGO",
         "veekunDb": "vivillon-archipelago",
-        "showdownMarkup": "Vivillon-Archipelago",
-        "showdownData": "vivillonarchipelago",
-        "serebii": "vivillon-archipelago",
+        "serebii": "vivillon",
         "bulbapedia": "Vivillon",
         "homeSprite": "vivillon-archipelago",
-        "miniSprite": "vivillon-archipelago"
+        "miniSprite": "vivillon-archipelago",
+        "showdown": "vivillonarchipelago",
+        "showdownDef": "Vivillon-Archipelago",
+        "smogon": "vivillon-archipelago"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

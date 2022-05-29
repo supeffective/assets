@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "KADABRA_F",
         "veekunDb": "kadabra-f",
-        "showdownMarkup": "Kadabra-F",
-        "showdownData": "kadabraf",
-        "serebii": "kadabra-f",
+        "serebii": "kadabra",
         "bulbapedia": "Kadabra",
         "homeSprite": "kadabra-f",
-        "miniSprite": "kadabra-f"
+        "miniSprite": "kadabra-f",
+        "showdown": "kadabraf",
+        "showdownDef": "Kadabra-F",
+        "smogon": "kadabra-f"
     },
     "baseSpecies": "kadabra",
     "baseForms": [],

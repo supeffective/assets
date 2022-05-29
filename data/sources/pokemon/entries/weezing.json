@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "WEEZING",
         "veekunDb": "weezing",
-        "showdownMarkup": "Weezing",
-        "showdownData": "weezing",
         "serebii": "weezing",
         "bulbapedia": "Weezing",
         "homeSprite": "weezing",
-        "miniSprite": "weezing"
+        "miniSprite": "weezing",
+        "showdown": "weezing",
+        "showdownDef": "Weezing",
+        "smogon": "weezing"
     },
     "baseSpecies": null,
     "baseForms": [],

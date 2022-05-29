@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "COFAGRIGUS",
         "veekunDb": "cofagrigus",
-        "showdownMarkup": "Cofagrigus",
-        "showdownData": "cofagrigus",
         "serebii": "cofagrigus",
         "bulbapedia": "Cofagrigus",
         "homeSprite": "cofagrigus",
-        "miniSprite": "cofagrigus"
+        "miniSprite": "cofagrigus",
+        "showdown": "cofagrigus",
+        "showdownDef": "Cofagrigus",
+        "smogon": "cofagrigus"
     },
     "baseSpecies": null,
     "baseForms": [],

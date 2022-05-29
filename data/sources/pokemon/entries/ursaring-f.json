@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "URSARING_F",
         "veekunDb": "ursaring-f",
-        "showdownMarkup": "Ursaring-F",
-        "showdownData": "ursaringf",
-        "serebii": "ursaring-f",
+        "serebii": "ursaring",
         "bulbapedia": "Ursaring",
         "homeSprite": "ursaring-f",
-        "miniSprite": "ursaring-f"
+        "miniSprite": "ursaring-f",
+        "showdown": "ursaringf",
+        "showdownDef": "Ursaring-F",
+        "smogon": "ursaring-f"
     },
     "baseSpecies": "ursaring",
     "baseForms": [],

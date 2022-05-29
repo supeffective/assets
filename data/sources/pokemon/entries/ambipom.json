@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "AMBIPOM",
         "veekunDb": "ambipom",
-        "showdownMarkup": "Ambipom",
-        "showdownData": "ambipom",
         "serebii": "ambipom",
         "bulbapedia": "Ambipom",
         "homeSprite": "ambipom",
-        "miniSprite": "ambipom"
+        "miniSprite": "ambipom",
+        "showdown": "ambipom",
+        "showdownDef": "Ambipom",
+        "smogon": "ambipom"
     },
     "baseSpecies": null,
     "baseForms": [],

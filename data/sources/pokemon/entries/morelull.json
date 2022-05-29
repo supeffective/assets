@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MORELULL",
         "veekunDb": "morelull",
-        "showdownMarkup": "Morelull",
-        "showdownData": "morelull",
         "serebii": "morelull",
         "bulbapedia": "Morelull",
         "homeSprite": "morelull",
-        "miniSprite": "morelull"
+        "miniSprite": "morelull",
+        "showdown": "morelull",
+        "showdownDef": "Morelull",
+        "smogon": "morelull"
     },
     "baseSpecies": null,
     "baseForms": [],

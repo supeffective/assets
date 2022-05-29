@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "BARBARACLE",
         "veekunDb": "barbaracle",
-        "showdownMarkup": "Barbaracle",
-        "showdownData": "barbaracle",
         "serebii": "barbaracle",
         "bulbapedia": "Barbaracle",
         "homeSprite": "barbaracle",
-        "miniSprite": "barbaracle"
+        "miniSprite": "barbaracle",
+        "showdown": "barbaracle",
+        "showdownDef": "Barbaracle",
+        "smogon": "barbaracle"
     },
     "baseSpecies": null,
     "baseForms": [],

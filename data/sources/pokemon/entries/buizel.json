@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "BUIZEL",
         "veekunDb": "buizel",
-        "showdownMarkup": "Buizel",
-        "showdownData": "buizel",
         "serebii": "buizel",
         "bulbapedia": "Buizel",
         "homeSprite": "buizel",
-        "miniSprite": "buizel"
+        "miniSprite": "buizel",
+        "showdown": "buizel",
+        "showdownDef": "Buizel",
+        "smogon": "buizel"
     },
     "baseSpecies": null,
     "baseForms": [],

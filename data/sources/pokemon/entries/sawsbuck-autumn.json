@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SAWSBUCK_AUTUMN",
         "veekunDb": "sawsbuck-autumn",
-        "showdownMarkup": "Sawsbuck-Autumn",
-        "showdownData": "sawsbuckautumn",
-        "serebii": "sawsbuck-autumn",
+        "serebii": "sawsbuck",
         "bulbapedia": "Sawsbuck",
         "homeSprite": "sawsbuck-autumn",
-        "miniSprite": "sawsbuck-autumn"
+        "miniSprite": "sawsbuck-autumn",
+        "showdown": "sawsbuckautumn",
+        "showdownDef": "Sawsbuck-Autumn",
+        "smogon": "sawsbuck-autumn"
     },
     "baseSpecies": "sawsbuck",
     "baseForms": [],

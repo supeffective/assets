@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "BARRASKEWDA",
         "veekunDb": "barraskewda",
-        "showdownMarkup": "Barraskewda",
-        "showdownData": "barraskewda",
         "serebii": "barraskewda",
         "bulbapedia": "Barraskewda",
         "homeSprite": "barraskewda",
-        "miniSprite": "barraskewda"
+        "miniSprite": "barraskewda",
+        "showdown": "barraskewda",
+        "showdownDef": "Barraskewda",
+        "smogon": "barraskewda"
     },
     "baseSpecies": null,
     "baseForms": [],

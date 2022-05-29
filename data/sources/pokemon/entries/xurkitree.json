@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "XURKITREE",
         "veekunDb": "xurkitree",
-        "showdownMarkup": "Xurkitree",
-        "showdownData": "xurkitree",
         "serebii": "xurkitree",
         "bulbapedia": "Xurkitree",
         "homeSprite": "xurkitree",
-        "miniSprite": "xurkitree"
+        "miniSprite": "xurkitree",
+        "showdown": "xurkitree",
+        "showdownDef": "Xurkitree",
+        "smogon": "xurkitree"
     },
     "baseSpecies": null,
     "baseForms": [],

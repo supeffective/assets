@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "XATU_F",
         "veekunDb": "xatu-f",
-        "showdownMarkup": "Xatu-F",
-        "showdownData": "xatuf",
-        "serebii": "xatu-f",
+        "serebii": "xatu",
         "bulbapedia": "Xatu",
         "homeSprite": "xatu-f",
-        "miniSprite": "xatu-f"
+        "miniSprite": "xatu-f",
+        "showdown": "xatuf",
+        "showdownDef": "Xatu-F",
+        "smogon": "xatu-f"
     },
     "baseSpecies": "xatu",
     "baseForms": [],

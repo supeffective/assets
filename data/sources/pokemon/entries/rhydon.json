@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "RHYDON",
         "veekunDb": "rhydon",
-        "showdownMarkup": "Rhydon",
-        "showdownData": "rhydon",
         "serebii": "rhydon",
         "bulbapedia": "Rhydon",
         "homeSprite": "rhydon",
-        "miniSprite": "rhydon"
+        "miniSprite": "rhydon",
+        "showdown": "rhydon",
+        "showdownDef": "Rhydon",
+        "smogon": "rhydon"
     },
     "baseSpecies": null,
     "baseForms": [],

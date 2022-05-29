@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "RATTATA_F",
         "veekunDb": "rattata-f",
-        "showdownMarkup": "Rattata-F",
-        "showdownData": "rattataf",
-        "serebii": "rattata-f",
+        "serebii": "rattata",
         "bulbapedia": "Rattata",
         "homeSprite": "rattata-f",
-        "miniSprite": "rattata-f"
+        "miniSprite": "rattata-f",
+        "showdown": "rattataf",
+        "showdownDef": "Rattata-F",
+        "smogon": "rattata-f"
     },
     "baseSpecies": "rattata",
     "baseForms": [],

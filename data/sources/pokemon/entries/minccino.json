@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MINCCINO",
         "veekunDb": "minccino",
-        "showdownMarkup": "Minccino",
-        "showdownData": "minccino",
         "serebii": "minccino",
         "bulbapedia": "Minccino",
         "homeSprite": "minccino",
-        "miniSprite": "minccino"
+        "miniSprite": "minccino",
+        "showdown": "minccino",
+        "showdownDef": "Minccino",
+        "smogon": "minccino"
     },
     "baseSpecies": null,
     "baseForms": [],

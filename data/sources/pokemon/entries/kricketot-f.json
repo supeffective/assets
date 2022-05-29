@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "KRICKETOT_F",
         "veekunDb": "kricketot-f",
-        "showdownMarkup": "Kricketot-F",
-        "showdownData": "kricketotf",
-        "serebii": "kricketot-f",
+        "serebii": "kricketot",
         "bulbapedia": "Kricketot",
         "homeSprite": "kricketot-f",
-        "miniSprite": "kricketot-f"
+        "miniSprite": "kricketot-f",
+        "showdown": "kricketotf",
+        "showdownDef": "Kricketot-F",
+        "smogon": "kricketot-f"
     },
     "baseSpecies": "kricketot",
     "baseForms": [],

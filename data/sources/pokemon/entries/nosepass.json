@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "NOSEPASS",
         "veekunDb": "nosepass",
-        "showdownMarkup": "Nosepass",
-        "showdownData": "nosepass",
         "serebii": "nosepass",
         "bulbapedia": "Nosepass",
         "homeSprite": "nosepass",
-        "miniSprite": "nosepass"
+        "miniSprite": "nosepass",
+        "showdown": "nosepass",
+        "showdownDef": "Nosepass",
+        "smogon": "nosepass"
     },
     "baseSpecies": null,
     "baseForms": [],

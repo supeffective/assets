@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "LAMPENT",
         "veekunDb": "lampent",
-        "showdownMarkup": "Lampent",
-        "showdownData": "lampent",
         "serebii": "lampent",
         "bulbapedia": "Lampent",
         "homeSprite": "lampent",
-        "miniSprite": "lampent"
+        "miniSprite": "lampent",
+        "showdown": "lampent",
+        "showdownDef": "Lampent",
+        "smogon": "lampent"
     },
     "baseSpecies": null,
     "baseForms": [],

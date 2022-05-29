@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "BEAUTIFLY",
         "veekunDb": "beautifly",
-        "showdownMarkup": "Beautifly",
-        "showdownData": "beautifly",
         "serebii": "beautifly",
         "bulbapedia": "Beautifly",
         "homeSprite": "beautifly",
-        "miniSprite": "beautifly"
+        "miniSprite": "beautifly",
+        "showdown": "beautifly",
+        "showdownDef": "Beautifly",
+        "smogon": "beautifly"
     },
     "baseSpecies": null,
     "baseForms": [],

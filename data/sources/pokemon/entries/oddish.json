@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ODDISH",
         "veekunDb": "oddish",
-        "showdownMarkup": "Oddish",
-        "showdownData": "oddish",
         "serebii": "oddish",
         "bulbapedia": "Oddish",
         "homeSprite": "oddish",
-        "miniSprite": "oddish"
+        "miniSprite": "oddish",
+        "showdown": "oddish",
+        "showdownDef": "Oddish",
+        "smogon": "oddish"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DREEPY",
         "veekunDb": "dreepy",
-        "showdownMarkup": "Dreepy",
-        "showdownData": "dreepy",
         "serebii": "dreepy",
         "bulbapedia": "Dreepy",
         "homeSprite": "dreepy",
-        "miniSprite": "dreepy"
+        "miniSprite": "dreepy",
+        "showdown": "dreepy",
+        "showdownDef": "Dreepy",
+        "smogon": "dreepy"
     },
     "baseSpecies": null,
     "baseForms": [],

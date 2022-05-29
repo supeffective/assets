@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SANDSHREW_ALOLA",
         "veekunDb": "sandshrew-alola",
-        "showdownMarkup": "Sandshrew-Alola",
-        "showdownData": "sandshrewalola",
-        "serebii": "sandshrew-alola",
+        "serebii": "sandshrew",
         "bulbapedia": "Sandshrew",
         "homeSprite": "sandshrew-alola",
-        "miniSprite": "sandshrew-alola"
+        "miniSprite": "sandshrew-alola",
+        "showdown": "sandshrewalola",
+        "showdownDef": "Sandshrew-Alola",
+        "smogon": "sandshrew-alola"
     },
     "baseSpecies": "sandshrew",
     "baseForms": [],

@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "CROAGUNK_F",
         "veekunDb": "croagunk-f",
-        "showdownMarkup": "Croagunk-F",
-        "showdownData": "croagunkf",
-        "serebii": "croagunk-f",
+        "serebii": "croagunk",
         "bulbapedia": "Croagunk",
         "homeSprite": "croagunk-f",
-        "miniSprite": "croagunk-f"
+        "miniSprite": "croagunk-f",
+        "showdown": "croagunkf",
+        "showdownDef": "Croagunk-F",
+        "smogon": "croagunk-f"
     },
     "baseSpecies": "croagunk",
     "baseForms": [],

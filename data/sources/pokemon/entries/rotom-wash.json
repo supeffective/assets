@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "ROTOM_WASH",
         "veekunDb": "rotom-wash",
-        "showdownMarkup": "Rotom-Wash",
-        "showdownData": "rotomwash",
-        "serebii": "rotom-wash",
+        "serebii": "rotom",
         "bulbapedia": "Rotom",
         "homeSprite": "rotom-wash",
-        "miniSprite": "rotom-wash"
+        "miniSprite": "rotom-wash",
+        "showdown": "rotomwash",
+        "showdownDef": "Rotom-Wash",
+        "smogon": "rotom-wash"
     },
     "baseSpecies": "rotom",
     "baseForms": [

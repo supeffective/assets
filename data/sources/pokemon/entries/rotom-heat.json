@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "ROTOM_HEAT",
         "veekunDb": "rotom-heat",
-        "showdownMarkup": "Rotom-Heat",
-        "showdownData": "rotomheat",
-        "serebii": "rotom-heat",
+        "serebii": "rotom",
         "bulbapedia": "Rotom",
         "homeSprite": "rotom-heat",
-        "miniSprite": "rotom-heat"
+        "miniSprite": "rotom-heat",
+        "showdown": "rotomheat",
+        "showdownDef": "Rotom-Heat",
+        "smogon": "rotom-heat"
     },
     "baseSpecies": "rotom",
     "baseForms": [

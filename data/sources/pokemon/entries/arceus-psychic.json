@@ -74,12 +74,13 @@
     "refs": {
         "pogo": "ARCEUS_PSYCHIC",
         "veekunDb": "arceus-psychic",
-        "showdownMarkup": "Arceus-Psychic",
-        "showdownData": "arceuspsychic",
-        "serebii": "arceus-psychic",
+        "serebii": "arceus",
         "bulbapedia": "Arceus",
         "homeSprite": "arceus-psychic",
-        "miniSprite": "arceus-psychic"
+        "miniSprite": "arceus-psychic",
+        "showdown": "arceuspsychic",
+        "showdownDef": "Arceus-Psychic",
+        "smogon": "arceus-psychic"
     },
     "baseSpecies": "arceus",
     "baseForms": [

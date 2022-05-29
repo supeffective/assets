@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "GREEDENT",
         "veekunDb": "greedent",
-        "showdownMarkup": "Greedent",
-        "showdownData": "greedent",
         "serebii": "greedent",
         "bulbapedia": "Greedent",
         "homeSprite": "greedent",
-        "miniSprite": "greedent"
+        "miniSprite": "greedent",
+        "showdown": "greedent",
+        "showdownDef": "Greedent",
+        "smogon": "greedent"
     },
     "baseSpecies": null,
     "baseForms": [],

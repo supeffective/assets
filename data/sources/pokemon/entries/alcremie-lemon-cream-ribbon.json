@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ALCREMIE_LEMON_CREAM_RIBBON",
         "veekunDb": "alcremie-lemon-cream-ribbon",
-        "showdownMarkup": "Alcremie-Lemon-Cream-Ribbon",
-        "showdownData": "alcremielemoncreamribbon",
-        "serebii": "alcremie-lemon-cream-ribbon",
+        "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "alcremie-lemon-cream-ribbon",
-        "miniSprite": "alcremie-lemon-cream-ribbon"
+        "miniSprite": "alcremie-lemon-cream-ribbon",
+        "showdown": "alcremielemoncreamribbon",
+        "showdownDef": "Alcremie-Lemon-Cream-Ribbon",
+        "smogon": "alcremie-lemon-cream-ribbon"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "PURUGLY",
         "veekunDb": "purugly",
-        "showdownMarkup": "Purugly",
-        "showdownData": "purugly",
         "serebii": "purugly",
         "bulbapedia": "Purugly",
         "homeSprite": "purugly",
-        "miniSprite": "purugly"
+        "miniSprite": "purugly",
+        "showdown": "purugly",
+        "showdownDef": "Purugly",
+        "smogon": "purugly"
     },
     "baseSpecies": null,
     "baseForms": [],

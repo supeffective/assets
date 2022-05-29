@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SERVINE",
         "veekunDb": "servine",
-        "showdownMarkup": "Servine",
-        "showdownData": "servine",
         "serebii": "servine",
         "bulbapedia": "Servine",
         "homeSprite": "servine",
-        "miniSprite": "servine"
+        "miniSprite": "servine",
+        "showdown": "servine",
+        "showdownDef": "Servine",
+        "smogon": "servine"
     },
     "baseSpecies": null,
     "baseForms": [],

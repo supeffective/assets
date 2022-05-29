@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "LUXIO_F",
         "veekunDb": "luxio-f",
-        "showdownMarkup": "Luxio-F",
-        "showdownData": "luxiof",
-        "serebii": "luxio-f",
+        "serebii": "luxio",
         "bulbapedia": "Luxio",
         "homeSprite": "luxio-f",
-        "miniSprite": "luxio-f"
+        "miniSprite": "luxio-f",
+        "showdown": "luxiof",
+        "showdownDef": "Luxio-F",
+        "smogon": "luxio-f"
     },
     "baseSpecies": "luxio",
     "baseForms": [],

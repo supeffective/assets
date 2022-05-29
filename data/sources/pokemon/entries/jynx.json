@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "JYNX",
         "veekunDb": "jynx",
-        "showdownMarkup": "Jynx",
-        "showdownData": "jynx",
         "serebii": "jynx",
         "bulbapedia": "Jynx",
         "homeSprite": "jynx",
-        "miniSprite": "jynx"
+        "miniSprite": "jynx",
+        "showdown": "jynx",
+        "showdownDef": "Jynx",
+        "smogon": "jynx"
     },
     "baseSpecies": null,
     "baseForms": [],

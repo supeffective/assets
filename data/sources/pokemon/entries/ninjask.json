@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "NINJASK",
         "veekunDb": "ninjask",
-        "showdownMarkup": "Ninjask",
-        "showdownData": "ninjask",
         "serebii": "ninjask",
         "bulbapedia": "Ninjask",
         "homeSprite": "ninjask",
-        "miniSprite": "ninjask"
+        "miniSprite": "ninjask",
+        "showdown": "ninjask",
+        "showdownDef": "Ninjask",
+        "smogon": "ninjask"
     },
     "baseSpecies": null,
     "baseForms": [],

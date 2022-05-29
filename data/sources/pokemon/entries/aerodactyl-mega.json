@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "AERODACTYL_MEGA",
         "veekunDb": "aerodactyl-mega",
-        "showdownMarkup": "Aerodactyl-Mega",
-        "showdownData": "aerodactylmega",
-        "serebii": "aerodactyl-mega",
+        "serebii": "aerodactyl",
         "bulbapedia": "Aerodactyl",
         "homeSprite": "aerodactyl-mega",
-        "miniSprite": "aerodactyl-mega"
+        "miniSprite": "aerodactyl-mega",
+        "showdown": "aerodactylmega",
+        "showdownDef": "Aerodactyl-Mega",
+        "smogon": "aerodactyl-mega"
     },
     "baseSpecies": "aerodactyl",
     "baseForms": [

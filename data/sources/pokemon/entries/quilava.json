@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "QUILAVA",
         "veekunDb": "quilava",
-        "showdownMarkup": "Quilava",
-        "showdownData": "quilava",
         "serebii": "quilava",
         "bulbapedia": "Quilava",
         "homeSprite": "quilava",
-        "miniSprite": "quilava"
+        "miniSprite": "quilava",
+        "showdown": "quilava",
+        "showdownDef": "Quilava",
+        "smogon": "quilava"
     },
     "baseSpecies": null,
     "baseForms": [],

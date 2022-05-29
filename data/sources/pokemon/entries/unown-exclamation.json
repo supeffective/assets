@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "UNOWN_EXCLAMATION",
         "veekunDb": "unown-exclamation",
-        "showdownMarkup": "Unown-Exclamation",
-        "showdownData": "unownexclamation",
-        "serebii": "unown-exclamation",
+        "serebii": "unown",
         "bulbapedia": "Unown",
         "homeSprite": "unown-exclamation",
-        "miniSprite": "unown-exclamation"
+        "miniSprite": "unown-exclamation",
+        "showdown": "unownexclamation",
+        "showdownDef": "Unown-Exclamation",
+        "smogon": "unown-exclamation"
     },
     "baseSpecies": "unown",
     "baseForms": [],

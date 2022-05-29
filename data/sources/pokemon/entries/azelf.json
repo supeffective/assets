@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "AZELF",
         "veekunDb": "azelf",
-        "showdownMarkup": "Azelf",
-        "showdownData": "azelf",
         "serebii": "azelf",
         "bulbapedia": "Azelf",
         "homeSprite": "azelf",
-        "miniSprite": "azelf"
+        "miniSprite": "azelf",
+        "showdown": "azelf",
+        "showdownDef": "Azelf",
+        "smogon": "azelf"
     },
     "baseSpecies": null,
     "baseForms": [],

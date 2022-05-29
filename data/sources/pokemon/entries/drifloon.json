@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "DRIFLOON",
         "veekunDb": "drifloon",
-        "showdownMarkup": "Drifloon",
-        "showdownData": "drifloon",
         "serebii": "drifloon",
         "bulbapedia": "Drifloon",
         "homeSprite": "drifloon",
-        "miniSprite": "drifloon"
+        "miniSprite": "drifloon",
+        "showdown": "drifloon",
+        "showdownDef": "Drifloon",
+        "smogon": "drifloon"
     },
     "baseSpecies": null,
     "baseForms": [],

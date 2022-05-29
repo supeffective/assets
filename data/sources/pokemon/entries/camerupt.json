@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CAMERUPT",
         "veekunDb": "camerupt",
-        "showdownMarkup": "Camerupt",
-        "showdownData": "camerupt",
         "serebii": "camerupt",
         "bulbapedia": "Camerupt",
         "homeSprite": "camerupt",
-        "miniSprite": "camerupt"
+        "miniSprite": "camerupt",
+        "showdown": "camerupt",
+        "showdownDef": "Camerupt",
+        "smogon": "camerupt"
     },
     "baseSpecies": null,
     "baseForms": [],

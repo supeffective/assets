@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "FRILLISH_F",
         "veekunDb": "frillish-f",
-        "showdownMarkup": "Frillish-F",
-        "showdownData": "frillishf",
-        "serebii": "frillish-f",
+        "serebii": "frillish",
         "bulbapedia": "Frillish",
         "homeSprite": "frillish-f",
-        "miniSprite": "frillish-f"
+        "miniSprite": "frillish-f",
+        "showdown": "frillishf",
+        "showdownDef": "Frillish-F",
+        "smogon": "frillish-f"
     },
     "baseSpecies": "frillish",
     "baseForms": [],

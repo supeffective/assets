@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "WIGGLYTUFF",
         "veekunDb": "wigglytuff",
-        "showdownMarkup": "Wigglytuff",
-        "showdownData": "wigglytuff",
         "serebii": "wigglytuff",
         "bulbapedia": "Wigglytuff",
         "homeSprite": "wigglytuff",
-        "miniSprite": "wigglytuff"
+        "miniSprite": "wigglytuff",
+        "showdown": "wigglytuff",
+        "showdownDef": "Wigglytuff",
+        "smogon": "wigglytuff"
     },
     "baseSpecies": null,
     "baseForms": [],

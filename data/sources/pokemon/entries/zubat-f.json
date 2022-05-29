@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "ZUBAT_F",
         "veekunDb": "zubat-f",
-        "showdownMarkup": "Zubat-F",
-        "showdownData": "zubatf",
-        "serebii": "zubat-f",
+        "serebii": "zubat",
         "bulbapedia": "Zubat",
         "homeSprite": "zubat-f",
-        "miniSprite": "zubat-f"
+        "miniSprite": "zubat-f",
+        "showdown": "zubatf",
+        "showdownDef": "Zubat-F",
+        "smogon": "zubat-f"
     },
     "baseSpecies": "zubat",
     "baseForms": [],

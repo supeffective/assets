@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CELEBI",
         "veekunDb": "celebi",
-        "showdownMarkup": "Celebi",
-        "showdownData": "celebi",
         "serebii": "celebi",
         "bulbapedia": "Celebi",
         "homeSprite": "celebi",
-        "miniSprite": "celebi"
+        "miniSprite": "celebi",
+        "showdown": "celebi",
+        "showdownDef": "Celebi",
+        "smogon": "celebi"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "CHINGLING",
         "veekunDb": "chingling",
-        "showdownMarkup": "Chingling",
-        "showdownData": "chingling",
         "serebii": "chingling",
         "bulbapedia": "Chingling",
         "homeSprite": "chingling",
-        "miniSprite": "chingling"
+        "miniSprite": "chingling",
+        "showdown": "chingling",
+        "showdownDef": "Chingling",
+        "smogon": "chingling"
     },
     "baseSpecies": null,
     "baseForms": [],

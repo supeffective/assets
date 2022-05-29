@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VIVILLON_ELEGANT",
         "veekunDb": "vivillon-elegant",
-        "showdownMarkup": "Vivillon-Elegant",
-        "showdownData": "vivillonelegant",
-        "serebii": "vivillon-elegant",
+        "serebii": "vivillon",
         "bulbapedia": "Vivillon",
         "homeSprite": "vivillon-elegant",
-        "miniSprite": "vivillon-elegant"
+        "miniSprite": "vivillon-elegant",
+        "showdown": "vivillonelegant",
+        "showdownDef": "Vivillon-Elegant",
+        "smogon": "vivillon-elegant"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

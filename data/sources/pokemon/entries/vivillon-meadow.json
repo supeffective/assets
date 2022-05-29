@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VIVILLON_MEADOW",
         "veekunDb": "vivillon-meadow",
-        "showdownMarkup": "Vivillon-Meadow",
-        "showdownData": "vivillonmeadow",
-        "serebii": "vivillon-meadow",
+        "serebii": "vivillon",
         "bulbapedia": "Vivillon",
         "homeSprite": "vivillon-meadow",
-        "miniSprite": "vivillon-meadow"
+        "miniSprite": "vivillon-meadow",
+        "showdown": "vivillonmeadow",
+        "showdownDef": "Vivillon-Meadow",
+        "smogon": "vivillon-meadow"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

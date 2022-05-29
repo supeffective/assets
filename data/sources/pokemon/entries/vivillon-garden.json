@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VIVILLON_GARDEN",
         "veekunDb": "vivillon-garden",
-        "showdownMarkup": "Vivillon-Garden",
-        "showdownData": "vivillongarden",
-        "serebii": "vivillon-garden",
+        "serebii": "vivillon",
         "bulbapedia": "Vivillon",
         "homeSprite": "vivillon-garden",
-        "miniSprite": "vivillon-garden"
+        "miniSprite": "vivillon-garden",
+        "showdown": "vivillongarden",
+        "showdownDef": "Vivillon-Garden",
+        "smogon": "vivillon-garden"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

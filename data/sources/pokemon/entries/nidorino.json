@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "NIDORINO",
         "veekunDb": "nidorino",
-        "showdownMarkup": "Nidorino",
-        "showdownData": "nidorino",
         "serebii": "nidorino",
         "bulbapedia": "Nidorino",
         "homeSprite": "nidorino",
-        "miniSprite": "nidorino"
+        "miniSprite": "nidorino",
+        "showdown": "nidorino",
+        "showdownDef": "Nidorino",
+        "smogon": "nidorino"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "GENESECT",
         "veekunDb": "genesect",
-        "showdownMarkup": "Genesect",
-        "showdownData": "genesect",
         "serebii": "genesect",
         "bulbapedia": "Genesect",
         "homeSprite": "genesect",
-        "miniSprite": "genesect"
+        "miniSprite": "genesect",
+        "showdown": "genesect",
+        "showdownDef": "Genesect",
+        "smogon": "genesect"
     },
     "baseSpecies": null,
     "baseForms": [],

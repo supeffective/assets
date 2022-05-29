@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "NUMEL",
         "veekunDb": "numel",
-        "showdownMarkup": "Numel",
-        "showdownData": "numel",
         "serebii": "numel",
         "bulbapedia": "Numel",
         "homeSprite": "numel",
-        "miniSprite": "numel"
+        "miniSprite": "numel",
+        "showdown": "numel",
+        "showdownDef": "Numel",
+        "smogon": "numel"
     },
     "baseSpecies": null,
     "baseForms": [],

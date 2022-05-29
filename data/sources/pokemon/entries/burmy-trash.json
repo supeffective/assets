@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "BURMY_TRASH",
         "veekunDb": "burmy-trash",
-        "showdownMarkup": "Burmy-Trash",
-        "showdownData": "burmytrash",
-        "serebii": "burmy-trash",
+        "serebii": "burmy",
         "bulbapedia": "Burmy",
         "homeSprite": "burmy-trash",
-        "miniSprite": "burmy-trash"
+        "miniSprite": "burmy-trash",
+        "showdown": "burmytrash",
+        "showdownDef": "Burmy-Trash",
+        "smogon": "burmy-trash"
     },
     "baseSpecies": "burmy",
     "baseForms": [

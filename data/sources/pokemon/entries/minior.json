@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "MINIOR",
         "veekunDb": "minior",
-        "showdownMarkup": "Minior",
-        "showdownData": "minior",
         "serebii": "minior",
         "bulbapedia": "Minior Meteor Form",
         "homeSprite": "minior",
-        "miniSprite": "minior"
+        "miniSprite": "minior",
+        "showdown": "minior",
+        "showdownDef": "Minior",
+        "smogon": "minior"
     },
     "baseSpecies": null,
     "baseForms": [

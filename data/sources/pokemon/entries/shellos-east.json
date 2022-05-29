@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "SHELLOS_EAST",
         "veekunDb": "shellos-east",
-        "showdownMarkup": "Shellos-East",
-        "showdownData": "shelloseast",
-        "serebii": "shellos-east",
+        "serebii": "shellos",
         "bulbapedia": "Shellos",
         "homeSprite": "shellos-east",
-        "miniSprite": "shellos-east"
+        "miniSprite": "shellos-east",
+        "showdown": "shelloseast",
+        "showdownDef": "Shellos-East",
+        "smogon": "shellos-east"
     },
     "baseSpecies": "shellos",
     "baseForms": [],

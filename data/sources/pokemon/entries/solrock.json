@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SOLROCK",
         "veekunDb": "solrock",
-        "showdownMarkup": "Solrock",
-        "showdownData": "solrock",
         "serebii": "solrock",
         "bulbapedia": "Solrock",
         "homeSprite": "solrock",
-        "miniSprite": "solrock"
+        "miniSprite": "solrock",
+        "showdown": "solrock",
+        "showdownDef": "Solrock",
+        "smogon": "solrock"
     },
     "baseSpecies": null,
     "baseForms": [],

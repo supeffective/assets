@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "PELIPPER",
         "veekunDb": "pelipper",
-        "showdownMarkup": "Pelipper",
-        "showdownData": "pelipper",
         "serebii": "pelipper",
         "bulbapedia": "Pelipper",
         "homeSprite": "pelipper",
-        "miniSprite": "pelipper"
+        "miniSprite": "pelipper",
+        "showdown": "pelipper",
+        "showdownDef": "Pelipper",
+        "smogon": "pelipper"
     },
     "baseSpecies": null,
     "baseForms": [],

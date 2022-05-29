@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ELGYEM",
         "veekunDb": "elgyem",
-        "showdownMarkup": "Elgyem",
-        "showdownData": "elgyem",
         "serebii": "elgyem",
         "bulbapedia": "Elgyem",
         "homeSprite": "elgyem",
-        "miniSprite": "elgyem"
+        "miniSprite": "elgyem",
+        "showdown": "elgyem",
+        "showdownDef": "Elgyem",
+        "smogon": "elgyem"
     },
     "baseSpecies": null,
     "baseForms": [],

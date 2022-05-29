@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DODUO_F",
         "veekunDb": "doduo-f",
-        "showdownMarkup": "Doduo-F",
-        "showdownData": "doduof",
-        "serebii": "doduo-f",
+        "serebii": "doduo",
         "bulbapedia": "Doduo",
         "homeSprite": "doduo-f",
-        "miniSprite": "doduo-f"
+        "miniSprite": "doduo-f",
+        "showdown": "doduof",
+        "showdownDef": "Doduo-F",
+        "smogon": "doduo-f"
     },
     "baseSpecies": "doduo",
     "baseForms": [],

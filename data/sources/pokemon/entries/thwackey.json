@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "THWACKEY",
         "veekunDb": "thwackey",
-        "showdownMarkup": "Thwackey",
-        "showdownData": "thwackey",
         "serebii": "thwackey",
         "bulbapedia": "Thwackey",
         "homeSprite": "thwackey",
-        "miniSprite": "thwackey"
+        "miniSprite": "thwackey",
+        "showdown": "thwackey",
+        "showdownDef": "Thwackey",
+        "smogon": "thwackey"
     },
     "baseSpecies": null,
     "baseForms": [],

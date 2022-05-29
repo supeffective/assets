@@ -74,12 +74,13 @@
     "refs": {
         "pogo": "ARCEUS_BUG",
         "veekunDb": "arceus-bug",
-        "showdownMarkup": "Arceus-Bug",
-        "showdownData": "arceusbug",
-        "serebii": "arceus-bug",
+        "serebii": "arceus",
         "bulbapedia": "Arceus",
         "homeSprite": "arceus-bug",
-        "miniSprite": "arceus-bug"
+        "miniSprite": "arceus-bug",
+        "showdown": "arceusbug",
+        "showdownDef": "Arceus-Bug",
+        "smogon": "arceus-bug"
     },
     "baseSpecies": "arceus",
     "baseForms": [

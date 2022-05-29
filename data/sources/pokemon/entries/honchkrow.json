@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "HONCHKROW",
         "veekunDb": "honchkrow",
-        "showdownMarkup": "Honchkrow",
-        "showdownData": "honchkrow",
         "serebii": "honchkrow",
         "bulbapedia": "Honchkrow",
         "homeSprite": "honchkrow",
-        "miniSprite": "honchkrow"
+        "miniSprite": "honchkrow",
+        "showdown": "honchkrow",
+        "showdownDef": "Honchkrow",
+        "smogon": "honchkrow"
     },
     "baseSpecies": null,
     "baseForms": [],

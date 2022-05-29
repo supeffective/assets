@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MEW",
         "veekunDb": "mew",
-        "showdownMarkup": "Mew",
-        "showdownData": "mew",
         "serebii": "mew",
         "bulbapedia": "Mew",
         "homeSprite": "mew",
-        "miniSprite": "mew"
+        "miniSprite": "mew",
+        "showdown": "mew",
+        "showdownDef": "Mew",
+        "smogon": "mew"
     },
     "baseSpecies": null,
     "baseForms": [],

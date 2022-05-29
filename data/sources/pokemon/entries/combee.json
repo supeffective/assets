@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "COMBEE",
         "veekunDb": "combee",
-        "showdownMarkup": "Combee",
-        "showdownData": "combee",
         "serebii": "combee",
         "bulbapedia": "Combee",
         "homeSprite": "combee",
-        "miniSprite": "combee"
+        "miniSprite": "combee",
+        "showdown": "combee",
+        "showdownDef": "Combee",
+        "smogon": "combee"
     },
     "baseSpecies": null,
     "baseForms": [],

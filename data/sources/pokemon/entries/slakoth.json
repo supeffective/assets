@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SLAKOTH",
         "veekunDb": "slakoth",
-        "showdownMarkup": "Slakoth",
-        "showdownData": "slakoth",
         "serebii": "slakoth",
         "bulbapedia": "Slakoth",
         "homeSprite": "slakoth",
-        "miniSprite": "slakoth"
+        "miniSprite": "slakoth",
+        "showdown": "slakoth",
+        "showdownDef": "Slakoth",
+        "smogon": "slakoth"
     },
     "baseSpecies": null,
     "baseForms": [],

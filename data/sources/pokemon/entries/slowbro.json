@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SLOWBRO",
         "veekunDb": "slowbro",
-        "showdownMarkup": "Slowbro",
-        "showdownData": "slowbro",
         "serebii": "slowbro",
         "bulbapedia": "Slowbro",
         "homeSprite": "slowbro",
-        "miniSprite": "slowbro"
+        "miniSprite": "slowbro",
+        "showdown": "slowbro",
+        "showdownDef": "Slowbro",
+        "smogon": "slowbro"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "SNORLAX_GMAX",
         "veekunDb": "snorlax-gmax",
-        "showdownMarkup": "Snorlax-Gmax",
-        "showdownData": "snorlaxgmax",
-        "serebii": "snorlax-gmax",
+        "serebii": "snorlax",
         "bulbapedia": "Snorlax",
         "homeSprite": "snorlax-gmax",
-        "miniSprite": "snorlax-gmax"
+        "miniSprite": "snorlax-gmax",
+        "showdown": "snorlaxgmax",
+        "showdownDef": "Snorlax-Gmax",
+        "smogon": "snorlax-gmax"
     },
     "baseSpecies": "snorlax",
     "baseForms": [

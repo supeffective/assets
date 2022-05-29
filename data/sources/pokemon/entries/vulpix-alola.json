@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "VULPIX_ALOLA",
         "veekunDb": "vulpix-alola",
-        "showdownMarkup": "Vulpix-Alola",
-        "showdownData": "vulpixalola",
-        "serebii": "vulpix-alola",
+        "serebii": "vulpix",
         "bulbapedia": "Vulpix",
         "homeSprite": "vulpix-alola",
-        "miniSprite": "vulpix-alola"
+        "miniSprite": "vulpix-alola",
+        "showdown": "vulpixalola",
+        "showdownDef": "Vulpix-Alola",
+        "smogon": "vulpix-alola"
     },
     "baseSpecies": "vulpix",
     "baseForms": [],

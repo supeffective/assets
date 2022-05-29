@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MELMETAL",
         "veekunDb": "melmetal",
-        "showdownMarkup": "Melmetal",
-        "showdownData": "melmetal",
         "serebii": "melmetal",
         "bulbapedia": "Melmetal",
         "homeSprite": "melmetal",
-        "miniSprite": "melmetal"
+        "miniSprite": "melmetal",
+        "showdown": "melmetal",
+        "showdownDef": "Melmetal",
+        "smogon": "melmetal"
     },
     "baseSpecies": null,
     "baseForms": [],

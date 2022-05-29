@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "WHISCASH",
         "veekunDb": "whiscash",
-        "showdownMarkup": "Whiscash",
-        "showdownData": "whiscash",
         "serebii": "whiscash",
         "bulbapedia": "Whiscash",
         "homeSprite": "whiscash",
-        "miniSprite": "whiscash"
+        "miniSprite": "whiscash",
+        "showdown": "whiscash",
+        "showdownDef": "Whiscash",
+        "smogon": "whiscash"
     },
     "baseSpecies": null,
     "baseForms": [],

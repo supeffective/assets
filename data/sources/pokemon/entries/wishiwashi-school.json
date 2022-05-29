@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "WISHIWASHI_SCHOOL",
         "veekunDb": "wishiwashi-school",
-        "showdownMarkup": "Wishiwashi-School",
-        "showdownData": "wishiwashischool",
-        "serebii": "wishiwashi-school",
+        "serebii": "wishiwashi",
         "bulbapedia": "Wishiwashi",
         "homeSprite": "wishiwashi-school",
-        "miniSprite": "wishiwashi-school"
+        "miniSprite": "wishiwashi-school",
+        "showdown": "wishiwashischool",
+        "showdownDef": "Wishiwashi-School",
+        "smogon": "wishiwashi-school"
     },
     "baseSpecies": "wishiwashi",
     "baseForms": [

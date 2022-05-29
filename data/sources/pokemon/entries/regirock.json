@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "REGIROCK",
         "veekunDb": "regirock",
-        "showdownMarkup": "Regirock",
-        "showdownData": "regirock",
         "serebii": "regirock",
         "bulbapedia": "Regirock",
         "homeSprite": "regirock",
-        "miniSprite": "regirock"
+        "miniSprite": "regirock",
+        "showdown": "regirock",
+        "showdownDef": "Regirock",
+        "smogon": "regirock"
     },
     "baseSpecies": null,
     "baseForms": [],

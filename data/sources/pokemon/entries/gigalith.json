@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "GIGALITH",
         "veekunDb": "gigalith",
-        "showdownMarkup": "Gigalith",
-        "showdownData": "gigalith",
         "serebii": "gigalith",
         "bulbapedia": "Gigalith",
         "homeSprite": "gigalith",
-        "miniSprite": "gigalith"
+        "miniSprite": "gigalith",
+        "showdown": "gigalith",
+        "showdownDef": "Gigalith",
+        "smogon": "gigalith"
     },
     "baseSpecies": null,
     "baseForms": [],

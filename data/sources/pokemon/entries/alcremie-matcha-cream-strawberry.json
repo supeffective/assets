@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ALCREMIE_MATCHA_CREAM_STRAWBERRY",
         "veekunDb": "alcremie-matcha-cream-strawberry",
-        "showdownMarkup": "Alcremie-Matcha-Cream-Strawberry",
-        "showdownData": "alcremiematchacreamstrawberry",
-        "serebii": "alcremie-matcha-cream-strawberry",
+        "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "alcremie-matcha-cream-strawberry",
-        "miniSprite": "alcremie-matcha-cream-strawberry"
+        "miniSprite": "alcremie-matcha-cream-strawberry",
+        "showdown": "alcremiematchacreamstrawberry",
+        "showdownDef": "Alcremie-Matcha-Cream-Strawberry",
+        "smogon": "alcremie-matcha-cream-strawberry"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

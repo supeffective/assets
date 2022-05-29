@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "RESHIRAM",
         "veekunDb": "reshiram",
-        "showdownMarkup": "Reshiram",
-        "showdownData": "reshiram",
         "serebii": "reshiram",
         "bulbapedia": "Reshiram",
         "homeSprite": "reshiram",
-        "miniSprite": "reshiram"
+        "miniSprite": "reshiram",
+        "showdown": "reshiram",
+        "showdownDef": "Reshiram",
+        "smogon": "reshiram"
     },
     "baseSpecies": null,
     "baseForms": [],

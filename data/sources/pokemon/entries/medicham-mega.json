@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "MEDICHAM_MEGA",
         "veekunDb": "medicham-mega",
-        "showdownMarkup": "Medicham-Mega",
-        "showdownData": "medichammega",
-        "serebii": "medicham-mega",
+        "serebii": "medicham",
         "bulbapedia": "Medicham",
         "homeSprite": "medicham-mega",
-        "miniSprite": "medicham-mega"
+        "miniSprite": "medicham-mega",
+        "showdown": "medichammega",
+        "showdownDef": "Medicham-Mega",
+        "smogon": "medicham-mega"
     },
     "baseSpecies": "medicham",
     "baseForms": [

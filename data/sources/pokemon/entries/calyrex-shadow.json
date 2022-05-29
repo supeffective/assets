@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "CALYREX_SHADOW",
         "veekunDb": "calyrex-shadow",
-        "showdownMarkup": "Calyrex-Shadow",
-        "showdownData": "calyrexshadow",
-        "serebii": "calyrex-shadow",
+        "serebii": "calyrex",
         "bulbapedia": "Calyrex",
         "homeSprite": "calyrex-shadow",
-        "miniSprite": "calyrex-shadow"
+        "miniSprite": "calyrex-shadow",
+        "showdown": "calyrexshadow",
+        "showdownDef": "Calyrex-Shadow",
+        "smogon": "calyrex-shadow"
     },
     "baseSpecies": "calyrex",
     "baseForms": [

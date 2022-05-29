@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MEDITITE",
         "veekunDb": "meditite",
-        "showdownMarkup": "Meditite",
-        "showdownData": "meditite",
         "serebii": "meditite",
         "bulbapedia": "Meditite",
         "homeSprite": "meditite",
-        "miniSprite": "meditite"
+        "miniSprite": "meditite",
+        "showdown": "meditite",
+        "showdownDef": "Meditite",
+        "smogon": "meditite"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "BOLTUND",
         "veekunDb": "boltund",
-        "showdownMarkup": "Boltund",
-        "showdownData": "boltund",
         "serebii": "boltund",
         "bulbapedia": "Boltund",
         "homeSprite": "boltund",
-        "miniSprite": "boltund"
+        "miniSprite": "boltund",
+        "showdown": "boltund",
+        "showdownDef": "Boltund",
+        "smogon": "boltund"
     },
     "baseSpecies": null,
     "baseForms": [],

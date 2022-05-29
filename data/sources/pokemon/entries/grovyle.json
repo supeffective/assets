@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "GROVYLE",
         "veekunDb": "grovyle",
-        "showdownMarkup": "Grovyle",
-        "showdownData": "grovyle",
         "serebii": "grovyle",
         "bulbapedia": "Grovyle",
         "homeSprite": "grovyle",
-        "miniSprite": "grovyle"
+        "miniSprite": "grovyle",
+        "showdown": "grovyle",
+        "showdownDef": "Grovyle",
+        "smogon": "grovyle"
     },
     "baseSpecies": null,
     "baseForms": [],

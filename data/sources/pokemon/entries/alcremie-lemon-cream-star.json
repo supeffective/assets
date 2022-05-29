@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ALCREMIE_LEMON_CREAM_STAR",
         "veekunDb": "alcremie-lemon-cream-star",
-        "showdownMarkup": "Alcremie-Lemon-Cream-Star",
-        "showdownData": "alcremielemoncreamstar",
-        "serebii": "alcremie-lemon-cream-star",
+        "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "alcremie-lemon-cream-star",
-        "miniSprite": "alcremie-lemon-cream-star"
+        "miniSprite": "alcremie-lemon-cream-star",
+        "showdown": "alcremielemoncreamstar",
+        "showdownDef": "Alcremie-Lemon-Cream-Star",
+        "smogon": "alcremie-lemon-cream-star"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

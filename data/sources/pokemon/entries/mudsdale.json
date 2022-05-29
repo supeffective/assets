@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MUDSDALE",
         "veekunDb": "mudsdale",
-        "showdownMarkup": "Mudsdale",
-        "showdownData": "mudsdale",
         "serebii": "mudsdale",
         "bulbapedia": "Mudsdale",
         "homeSprite": "mudsdale",
-        "miniSprite": "mudsdale"
+        "miniSprite": "mudsdale",
+        "showdown": "mudsdale",
+        "showdownDef": "Mudsdale",
+        "smogon": "mudsdale"
     },
     "baseSpecies": null,
     "baseForms": [],

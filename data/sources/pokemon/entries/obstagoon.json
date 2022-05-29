@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "OBSTAGOON",
         "veekunDb": "obstagoon",
-        "showdownMarkup": "Obstagoon",
-        "showdownData": "obstagoon",
         "serebii": "obstagoon",
         "bulbapedia": "Obstagoon",
         "homeSprite": "obstagoon",
-        "miniSprite": "obstagoon"
+        "miniSprite": "obstagoon",
+        "showdown": "obstagoon",
+        "showdownDef": "Obstagoon",
+        "smogon": "obstagoon"
     },
     "baseSpecies": null,
     "baseForms": [],

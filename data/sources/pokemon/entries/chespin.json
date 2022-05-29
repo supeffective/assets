@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CHESPIN",
         "veekunDb": "chespin",
-        "showdownMarkup": "Chespin",
-        "showdownData": "chespin",
         "serebii": "chespin",
         "bulbapedia": "Chespin",
         "homeSprite": "chespin",
-        "miniSprite": "chespin"
+        "miniSprite": "chespin",
+        "showdown": "chespin",
+        "showdownDef": "Chespin",
+        "smogon": "chespin"
     },
     "baseSpecies": null,
     "baseForms": [],

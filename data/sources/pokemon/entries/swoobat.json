@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SWOOBAT",
         "veekunDb": "swoobat",
-        "showdownMarkup": "Swoobat",
-        "showdownData": "swoobat",
         "serebii": "swoobat",
         "bulbapedia": "Swoobat",
         "homeSprite": "swoobat",
-        "miniSprite": "swoobat"
+        "miniSprite": "swoobat",
+        "showdown": "swoobat",
+        "showdownDef": "Swoobat",
+        "smogon": "swoobat"
     },
     "baseSpecies": null,
     "baseForms": [],

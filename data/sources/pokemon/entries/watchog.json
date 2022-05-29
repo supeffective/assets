@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "WATCHOG",
         "veekunDb": "watchog",
-        "showdownMarkup": "Watchog",
-        "showdownData": "watchog",
         "serebii": "watchog",
         "bulbapedia": "Watchog",
         "homeSprite": "watchog",
-        "miniSprite": "watchog"
+        "miniSprite": "watchog",
+        "showdown": "watchog",
+        "showdownDef": "Watchog",
+        "smogon": "watchog"
     },
     "baseSpecies": null,
     "baseForms": [],

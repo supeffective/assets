@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "FLABEBE_ORANGE",
         "veekunDb": "flabebe-orange",
-        "showdownMarkup": "Flabebe-Orange",
-        "showdownData": "flabebeorange",
-        "serebii": "flabebe-orange",
+        "serebii": "flabebe",
         "bulbapedia": "Flabebe",
         "homeSprite": "flabebe-orange",
-        "miniSprite": "flabebe-orange"
+        "miniSprite": "flabebe-orange",
+        "showdown": "flabebeorange",
+        "showdownDef": "Flabebe-Orange",
+        "smogon": "flabebe-orange"
     },
     "baseSpecies": "flabebe",
     "baseForms": [],

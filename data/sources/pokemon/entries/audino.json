@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "AUDINO",
         "veekunDb": "audino",
-        "showdownMarkup": "Audino",
-        "showdownData": "audino",
         "serebii": "audino",
         "bulbapedia": "Audino",
         "homeSprite": "audino",
-        "miniSprite": "audino"
+        "miniSprite": "audino",
+        "showdown": "audino",
+        "showdownDef": "Audino",
+        "smogon": "audino"
     },
     "baseSpecies": null,
     "baseForms": [],

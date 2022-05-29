@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CARKOL",
         "veekunDb": "carkol",
-        "showdownMarkup": "Carkol",
-        "showdownData": "carkol",
         "serebii": "carkol",
         "bulbapedia": "Carkol",
         "homeSprite": "carkol",
-        "miniSprite": "carkol"
+        "miniSprite": "carkol",
+        "showdown": "carkol",
+        "showdownDef": "Carkol",
+        "smogon": "carkol"
     },
     "baseSpecies": null,
     "baseForms": [],

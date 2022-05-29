@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "KAKUNA",
         "veekunDb": "kakuna",
-        "showdownMarkup": "Kakuna",
-        "showdownData": "kakuna",
         "serebii": "kakuna",
         "bulbapedia": "Kakuna",
         "homeSprite": "kakuna",
-        "miniSprite": "kakuna"
+        "miniSprite": "kakuna",
+        "showdown": "kakuna",
+        "showdownDef": "Kakuna",
+        "smogon": "kakuna"
     },
     "baseSpecies": null,
     "baseForms": [],

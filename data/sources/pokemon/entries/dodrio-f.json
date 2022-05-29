@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DODRIO_F",
         "veekunDb": "dodrio-f",
-        "showdownMarkup": "Dodrio-F",
-        "showdownData": "dodriof",
-        "serebii": "dodrio-f",
+        "serebii": "dodrio",
         "bulbapedia": "Dodrio",
         "homeSprite": "dodrio-f",
-        "miniSprite": "dodrio-f"
+        "miniSprite": "dodrio-f",
+        "showdown": "dodriof",
+        "showdownDef": "Dodrio-F",
+        "smogon": "dodrio-f"
     },
     "baseSpecies": "dodrio",
     "baseForms": [],

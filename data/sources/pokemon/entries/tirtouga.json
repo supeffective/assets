@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "TIRTOUGA",
         "veekunDb": "tirtouga",
-        "showdownMarkup": "Tirtouga",
-        "showdownData": "tirtouga",
         "serebii": "tirtouga",
         "bulbapedia": "Tirtouga",
         "homeSprite": "tirtouga",
-        "miniSprite": "tirtouga"
+        "miniSprite": "tirtouga",
+        "showdown": "tirtouga",
+        "showdownDef": "Tirtouga",
+        "smogon": "tirtouga"
     },
     "baseSpecies": null,
     "baseForms": [],

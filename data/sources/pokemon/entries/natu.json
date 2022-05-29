@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "NATU",
         "veekunDb": "natu",
-        "showdownMarkup": "Natu",
-        "showdownData": "natu",
         "serebii": "natu",
         "bulbapedia": "Natu",
         "homeSprite": "natu",
-        "miniSprite": "natu"
+        "miniSprite": "natu",
+        "showdown": "natu",
+        "showdownDef": "Natu",
+        "smogon": "natu"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SWELLOW",
         "veekunDb": "swellow",
-        "showdownMarkup": "Swellow",
-        "showdownData": "swellow",
         "serebii": "swellow",
         "bulbapedia": "Swellow",
         "homeSprite": "swellow",
-        "miniSprite": "swellow"
+        "miniSprite": "swellow",
+        "showdown": "swellow",
+        "showdownDef": "Swellow",
+        "smogon": "swellow"
     },
     "baseSpecies": null,
     "baseForms": [],

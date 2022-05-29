@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MUK",
         "veekunDb": "muk",
-        "showdownMarkup": "Muk",
-        "showdownData": "muk",
         "serebii": "muk",
         "bulbapedia": "Muk",
         "homeSprite": "muk",
-        "miniSprite": "muk"
+        "miniSprite": "muk",
+        "showdown": "muk",
+        "showdownDef": "Muk",
+        "smogon": "muk"
     },
     "baseSpecies": null,
     "baseForms": [],

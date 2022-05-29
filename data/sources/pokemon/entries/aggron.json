@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "AGGRON",
         "veekunDb": "aggron",
-        "showdownMarkup": "Aggron",
-        "showdownData": "aggron",
         "serebii": "aggron",
         "bulbapedia": "Aggron",
         "homeSprite": "aggron",
-        "miniSprite": "aggron"
+        "miniSprite": "aggron",
+        "showdown": "aggron",
+        "showdownDef": "Aggron",
+        "smogon": "aggron"
     },
     "baseSpecies": null,
     "baseForms": [],

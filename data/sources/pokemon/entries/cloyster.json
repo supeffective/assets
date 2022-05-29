@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CLOYSTER",
         "veekunDb": "cloyster",
-        "showdownMarkup": "Cloyster",
-        "showdownData": "cloyster",
         "serebii": "cloyster",
         "bulbapedia": "Cloyster",
         "homeSprite": "cloyster",
-        "miniSprite": "cloyster"
+        "miniSprite": "cloyster",
+        "showdown": "cloyster",
+        "showdownDef": "Cloyster",
+        "smogon": "cloyster"
     },
     "baseSpecies": null,
     "baseForms": [],

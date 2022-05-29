@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CORSOLA_GALAR",
         "veekunDb": "corsola-galar",
-        "showdownMarkup": "Corsola-Galar",
-        "showdownData": "corsolagalar",
-        "serebii": "corsola-galar",
+        "serebii": "corsola",
         "bulbapedia": "Corsola",
         "homeSprite": "corsola-galar",
-        "miniSprite": "corsola-galar"
+        "miniSprite": "corsola-galar",
+        "showdown": "corsolagalar",
+        "showdownDef": "Corsola-Galar",
+        "smogon": "corsola-galar"
     },
     "baseSpecies": "corsola",
     "baseForms": [],

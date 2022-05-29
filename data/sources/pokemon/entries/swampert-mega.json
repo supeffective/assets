@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "SWAMPERT_MEGA",
         "veekunDb": "swampert-mega",
-        "showdownMarkup": "Swampert-Mega",
-        "showdownData": "swampertmega",
-        "serebii": "swampert-mega",
+        "serebii": "swampert",
         "bulbapedia": "Swampert",
         "homeSprite": "swampert-mega",
-        "miniSprite": "swampert-mega"
+        "miniSprite": "swampert-mega",
+        "showdown": "swampertmega",
+        "showdownDef": "Swampert-Mega",
+        "smogon": "swampert-mega"
     },
     "baseSpecies": "swampert",
     "baseForms": [

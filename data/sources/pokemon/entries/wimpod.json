@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "WIMPOD",
         "veekunDb": "wimpod",
-        "showdownMarkup": "Wimpod",
-        "showdownData": "wimpod",
         "serebii": "wimpod",
         "bulbapedia": "Wimpod",
         "homeSprite": "wimpod",
-        "miniSprite": "wimpod"
+        "miniSprite": "wimpod",
+        "showdown": "wimpod",
+        "showdownDef": "Wimpod",
+        "smogon": "wimpod"
     },
     "baseSpecies": null,
     "baseForms": [],

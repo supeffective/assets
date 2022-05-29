@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "SUDOWOODO_F",
         "veekunDb": "sudowoodo-f",
-        "showdownMarkup": "Sudowoodo-F",
-        "showdownData": "sudowoodof",
-        "serebii": "sudowoodo-f",
+        "serebii": "sudowoodo",
         "bulbapedia": "Sudowoodo",
         "homeSprite": "sudowoodo-f",
-        "miniSprite": "sudowoodo-f"
+        "miniSprite": "sudowoodo-f",
+        "showdown": "sudowoodof",
+        "showdownDef": "Sudowoodo-F",
+        "smogon": "sudowoodo-f"
     },
     "baseSpecies": "sudowoodo",
     "baseForms": [],

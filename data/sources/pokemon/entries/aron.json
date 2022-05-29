@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ARON",
         "veekunDb": "aron",
-        "showdownMarkup": "Aron",
-        "showdownData": "aron",
         "serebii": "aron",
         "bulbapedia": "Aron",
         "homeSprite": "aron",
-        "miniSprite": "aron"
+        "miniSprite": "aron",
+        "showdown": "aron",
+        "showdownDef": "Aron",
+        "smogon": "aron"
     },
     "baseSpecies": null,
     "baseForms": [],

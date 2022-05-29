@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "EEVEE_GMAX",
         "veekunDb": "eevee-gmax",
-        "showdownMarkup": "Eevee-Gmax",
-        "showdownData": "eeveegmax",
-        "serebii": "eevee-gmax",
+        "serebii": "eevee",
         "bulbapedia": "Eevee",
         "homeSprite": "eevee-gmax",
-        "miniSprite": "eevee-gmax"
+        "miniSprite": "eevee-gmax",
+        "showdown": "eeveegmax",
+        "showdownDef": "Eevee-Gmax",
+        "smogon": "eevee-gmax"
     },
     "baseSpecies": "eevee",
     "baseForms": [

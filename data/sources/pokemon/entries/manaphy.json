@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "MANAPHY",
         "veekunDb": "manaphy",
-        "showdownMarkup": "Manaphy",
-        "showdownData": "manaphy",
         "serebii": "manaphy",
         "bulbapedia": "Manaphy",
         "homeSprite": "manaphy",
-        "miniSprite": "manaphy"
+        "miniSprite": "manaphy",
+        "showdown": "manaphy",
+        "showdownDef": "Manaphy",
+        "smogon": "manaphy"
     },
     "baseSpecies": null,
     "baseForms": [],

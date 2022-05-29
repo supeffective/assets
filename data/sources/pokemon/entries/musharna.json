@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MUSHARNA",
         "veekunDb": "musharna",
-        "showdownMarkup": "Musharna",
-        "showdownData": "musharna",
         "serebii": "musharna",
         "bulbapedia": "Musharna",
         "homeSprite": "musharna",
-        "miniSprite": "musharna"
+        "miniSprite": "musharna",
+        "showdown": "musharna",
+        "showdownDef": "Musharna",
+        "smogon": "musharna"
     },
     "baseSpecies": null,
     "baseForms": [],

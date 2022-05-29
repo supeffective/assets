@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "PIDOVE",
         "veekunDb": "pidove",
-        "showdownMarkup": "Pidove",
-        "showdownData": "pidove",
         "serebii": "pidove",
         "bulbapedia": "Pidove",
         "homeSprite": "pidove",
-        "miniSprite": "pidove"
+        "miniSprite": "pidove",
+        "showdown": "pidove",
+        "showdownDef": "Pidove",
+        "smogon": "pidove"
     },
     "baseSpecies": null,
     "baseForms": [],

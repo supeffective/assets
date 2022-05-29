@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "FURFROU_PHARAOH",
         "veekunDb": "furfrou-pharaoh",
-        "showdownMarkup": "Furfrou-Pharaoh",
-        "showdownData": "furfroupharaoh",
-        "serebii": "furfrou-pharaoh",
+        "serebii": "furfrou",
         "bulbapedia": "Furfrou",
         "homeSprite": "furfrou-pharaoh",
-        "miniSprite": "furfrou-pharaoh"
+        "miniSprite": "furfrou-pharaoh",
+        "showdown": "furfroupharaoh",
+        "showdownDef": "Furfrou-Pharaoh",
+        "smogon": "furfrou-pharaoh"
     },
     "baseSpecies": "furfrou",
     "baseForms": [

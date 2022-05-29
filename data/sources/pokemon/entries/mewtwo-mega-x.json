@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "MEWTWO_MEGA_X",
         "veekunDb": "mewtwo-mega-x",
-        "showdownMarkup": "Mewtwo-Mega-X",
-        "showdownData": "mewtwomegax",
-        "serebii": "mewtwo-mega-x",
+        "serebii": "mewtwo",
         "bulbapedia": "Mewtwo",
         "homeSprite": "mewtwo-mega-x",
-        "miniSprite": "mewtwo-mega-x"
+        "miniSprite": "mewtwo-mega-x",
+        "showdown": "mewtwomegax",
+        "showdownDef": "Mewtwo-Mega-X",
+        "smogon": "mewtwo-mega-x"
     },
     "baseSpecies": "mewtwo",
     "baseForms": [

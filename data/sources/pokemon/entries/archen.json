@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ARCHEN",
         "veekunDb": "archen",
-        "showdownMarkup": "Archen",
-        "showdownData": "archen",
         "serebii": "archen",
         "bulbapedia": "Archen",
         "homeSprite": "archen",
-        "miniSprite": "archen"
+        "miniSprite": "archen",
+        "showdown": "archen",
+        "showdownDef": "Archen",
+        "smogon": "archen"
     },
     "baseSpecies": null,
     "baseForms": [],

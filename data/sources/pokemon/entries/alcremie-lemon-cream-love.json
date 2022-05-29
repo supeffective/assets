@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ALCREMIE_LEMON_CREAM_LOVE",
         "veekunDb": "alcremie-lemon-cream-love",
-        "showdownMarkup": "Alcremie-Lemon-Cream-Love",
-        "showdownData": "alcremielemoncreamlove",
-        "serebii": "alcremie-lemon-cream-love",
+        "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "alcremie-lemon-cream-love",
-        "miniSprite": "alcremie-lemon-cream-love"
+        "miniSprite": "alcremie-lemon-cream-love",
+        "showdown": "alcremielemoncreamlove",
+        "showdownDef": "Alcremie-Lemon-Cream-Love",
+        "smogon": "alcremie-lemon-cream-love"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

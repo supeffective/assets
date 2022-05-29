@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VIVILLON_JUNGLE",
         "veekunDb": "vivillon-jungle",
-        "showdownMarkup": "Vivillon-Jungle",
-        "showdownData": "vivillonjungle",
-        "serebii": "vivillon-jungle",
+        "serebii": "vivillon",
         "bulbapedia": "Vivillon",
         "homeSprite": "vivillon-jungle",
-        "miniSprite": "vivillon-jungle"
+        "miniSprite": "vivillon-jungle",
+        "showdown": "vivillonjungle",
+        "showdownDef": "Vivillon-Jungle",
+        "smogon": "vivillon-jungle"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

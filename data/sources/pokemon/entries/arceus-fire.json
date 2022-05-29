@@ -74,12 +74,13 @@
     "refs": {
         "pogo": "ARCEUS_FIRE",
         "veekunDb": "arceus-fire",
-        "showdownMarkup": "Arceus-Fire",
-        "showdownData": "arceusfire",
-        "serebii": "arceus-fire",
+        "serebii": "arceus",
         "bulbapedia": "Arceus",
         "homeSprite": "arceus-fire",
-        "miniSprite": "arceus-fire"
+        "miniSprite": "arceus-fire",
+        "showdown": "arceusfire",
+        "showdownDef": "Arceus-Fire",
+        "smogon": "arceus-fire"
     },
     "baseSpecies": "arceus",
     "baseForms": [

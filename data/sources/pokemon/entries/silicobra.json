@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SILICOBRA",
         "veekunDb": "silicobra",
-        "showdownMarkup": "Silicobra",
-        "showdownData": "silicobra",
         "serebii": "silicobra",
         "bulbapedia": "Silicobra",
         "homeSprite": "silicobra",
-        "miniSprite": "silicobra"
+        "miniSprite": "silicobra",
+        "showdown": "silicobra",
+        "showdownDef": "Silicobra",
+        "smogon": "silicobra"
     },
     "baseSpecies": null,
     "baseForms": [],

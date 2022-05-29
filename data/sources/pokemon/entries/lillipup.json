@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "LILLIPUP",
         "veekunDb": "lillipup",
-        "showdownMarkup": "Lillipup",
-        "showdownData": "lillipup",
         "serebii": "lillipup",
         "bulbapedia": "Lillipup",
         "homeSprite": "lillipup",
-        "miniSprite": "lillipup"
+        "miniSprite": "lillipup",
+        "showdown": "lillipup",
+        "showdownDef": "Lillipup",
+        "smogon": "lillipup"
     },
     "baseSpecies": null,
     "baseForms": [],

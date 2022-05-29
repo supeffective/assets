@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CORVIKNIGHT",
         "veekunDb": "corviknight",
-        "showdownMarkup": "Corviknight",
-        "showdownData": "corviknight",
         "serebii": "corviknight",
         "bulbapedia": "Corviknight",
         "homeSprite": "corviknight",
-        "miniSprite": "corviknight"
+        "miniSprite": "corviknight",
+        "showdown": "corviknight",
+        "showdownDef": "Corviknight",
+        "smogon": "corviknight"
     },
     "baseSpecies": null,
     "baseForms": [],

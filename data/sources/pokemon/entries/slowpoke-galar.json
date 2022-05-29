@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SLOWPOKE_GALAR",
         "veekunDb": "slowpoke-galar",
-        "showdownMarkup": "Slowpoke-Galar",
-        "showdownData": "slowpokegalar",
-        "serebii": "slowpoke-galar",
+        "serebii": "slowpoke",
         "bulbapedia": "Slowpoke",
         "homeSprite": "slowpoke-galar",
-        "miniSprite": "slowpoke-galar"
+        "miniSprite": "slowpoke-galar",
+        "showdown": "slowpokegalar",
+        "showdownDef": "Slowpoke-Galar",
+        "smogon": "slowpoke-galar"
     },
     "baseSpecies": "slowpoke",
     "baseForms": [],

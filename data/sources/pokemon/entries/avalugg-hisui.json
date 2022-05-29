@@ -75,12 +75,13 @@
     "refs": {
         "pogo": null,
         "veekunDb": null,
-        "showdownMarkup": null,
-        "showdownData": null,
-        "serebii": null,
+        "serebii": "avalugg",
         "bulbapedia": null,
         "homeSprite": "avalugg-hisui",
-        "miniSprite": "avalugg-hisui"
+        "miniSprite": "avalugg-hisui",
+        "showdown": null,
+        "showdownDef": null,
+        "smogon": "avalugg-hisui"
     },
     "baseSpecies": "avalugg",
     "baseForms": [],

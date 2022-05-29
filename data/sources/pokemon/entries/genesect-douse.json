@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "GENESECT_DOUSE",
         "veekunDb": "genesect-douse",
-        "showdownMarkup": "Genesect-Douse",
-        "showdownData": "genesectdouse",
-        "serebii": "genesect-douse",
+        "serebii": "genesect",
         "bulbapedia": "Genesect",
         "homeSprite": "genesect-douse",
-        "miniSprite": "genesect-douse"
+        "miniSprite": "genesect-douse",
+        "showdown": "genesectdouse",
+        "showdownDef": "Genesect-Douse",
+        "smogon": "genesect-douse"
     },
     "baseSpecies": "genesect",
     "baseForms": [

@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "COPPERAJAH_GMAX",
         "veekunDb": "copperajah-gmax",
-        "showdownMarkup": "Copperajah-Gmax",
-        "showdownData": "copperajahgmax",
-        "serebii": "copperajah-gmax",
+        "serebii": "copperajah",
         "bulbapedia": "Copperajah",
         "homeSprite": "copperajah-gmax",
-        "miniSprite": "copperajah-gmax"
+        "miniSprite": "copperajah-gmax",
+        "showdown": "copperajahgmax",
+        "showdownDef": "Copperajah-Gmax",
+        "smogon": "copperajah-gmax"
     },
     "baseSpecies": "copperajah",
     "baseForms": [

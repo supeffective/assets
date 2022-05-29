@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ARCHEOPS",
         "veekunDb": "archeops",
-        "showdownMarkup": "Archeops",
-        "showdownData": "archeops",
         "serebii": "archeops",
         "bulbapedia": "Archeops",
         "homeSprite": "archeops",
-        "miniSprite": "archeops"
+        "miniSprite": "archeops",
+        "showdown": "archeops",
+        "showdownDef": "Archeops",
+        "smogon": "archeops"
     },
     "baseSpecies": null,
     "baseForms": [],

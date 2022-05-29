@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "RUNERIGUS",
         "veekunDb": "runerigus",
-        "showdownMarkup": "Runerigus",
-        "showdownData": "runerigus",
         "serebii": "runerigus",
         "bulbapedia": "Runerigus",
         "homeSprite": "runerigus",
-        "miniSprite": "runerigus"
+        "miniSprite": "runerigus",
+        "showdown": "runerigus",
+        "showdownDef": "Runerigus",
+        "smogon": "runerigus"
     },
     "baseSpecies": null,
     "baseForms": [],

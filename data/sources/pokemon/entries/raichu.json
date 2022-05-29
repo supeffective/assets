@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "RAICHU",
         "veekunDb": "raichu",
-        "showdownMarkup": "Raichu",
-        "showdownData": "raichu",
         "serebii": "raichu",
         "bulbapedia": "Raichu",
         "homeSprite": "raichu",
-        "miniSprite": "raichu"
+        "miniSprite": "raichu",
+        "showdown": "raichu",
+        "showdownDef": "Raichu",
+        "smogon": "raichu"
     },
     "baseSpecies": null,
     "baseForms": [],

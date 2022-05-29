@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "MAGBY",
         "veekunDb": "magby",
-        "showdownMarkup": "Magby",
-        "showdownData": "magby",
         "serebii": "magby",
         "bulbapedia": "Magby",
         "homeSprite": "magby",
-        "miniSprite": "magby"
+        "miniSprite": "magby",
+        "showdown": "magby",
+        "showdownDef": "Magby",
+        "smogon": "magby"
     },
     "baseSpecies": null,
     "baseForms": [],

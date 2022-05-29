@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "MEOWTH_GMAX",
         "veekunDb": "meowth-gmax",
-        "showdownMarkup": "Meowth-Gmax",
-        "showdownData": "meowthgmax",
-        "serebii": "meowth-gmax",
+        "serebii": "meowth",
         "bulbapedia": "Meowth",
         "homeSprite": "meowth-gmax",
-        "miniSprite": "meowth-gmax"
+        "miniSprite": "meowth-gmax",
+        "showdown": "meowthgmax",
+        "showdownDef": "Meowth-Gmax",
+        "smogon": "meowth-gmax"
     },
     "baseSpecies": "meowth",
     "baseForms": [

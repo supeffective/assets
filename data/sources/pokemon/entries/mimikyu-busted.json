@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "MIMIKYU_BUSTED",
         "veekunDb": "mimikyu-busted",
-        "showdownMarkup": "Mimikyu-Busted",
-        "showdownData": "mimikyubusted",
-        "serebii": "mimikyu-busted",
+        "serebii": "mimikyu",
         "bulbapedia": "Mimikyu",
         "homeSprite": "mimikyu-busted",
-        "miniSprite": "mimikyu-busted"
+        "miniSprite": "mimikyu-busted",
+        "showdown": "mimikyubusted",
+        "showdownDef": "Mimikyu-Busted",
+        "smogon": "mimikyu-busted"
     },
     "baseSpecies": "mimikyu",
     "baseForms": [

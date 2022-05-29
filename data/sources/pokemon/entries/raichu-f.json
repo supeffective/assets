@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "RAICHU_F",
         "veekunDb": "raichu-f",
-        "showdownMarkup": "Raichu-F",
-        "showdownData": "raichuf",
-        "serebii": "raichu-f",
+        "serebii": "raichu",
         "bulbapedia": "Raichu",
         "homeSprite": "raichu-f",
-        "miniSprite": "raichu-f"
+        "miniSprite": "raichu-f",
+        "showdown": "raichuf",
+        "showdownDef": "Raichu-F",
+        "smogon": "raichu-f"
     },
     "baseSpecies": "raichu",
     "baseForms": [],

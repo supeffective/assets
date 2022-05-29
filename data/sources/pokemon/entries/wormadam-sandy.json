@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "WORMADAM_SANDY",
         "veekunDb": "wormadam-sandy",
-        "showdownMarkup": "Wormadam-Sandy",
-        "showdownData": "wormadamsandy",
-        "serebii": "wormadam-sandy",
+        "serebii": "wormadam",
         "bulbapedia": "Wormadam",
         "homeSprite": "wormadam-sandy",
-        "miniSprite": "wormadam-sandy"
+        "miniSprite": "wormadam-sandy",
+        "showdown": "wormadamsandy",
+        "showdownDef": "Wormadam-Sandy",
+        "smogon": "wormadam-sandy"
     },
     "baseSpecies": "wormadam",
     "baseForms": [],

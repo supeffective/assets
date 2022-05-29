@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MILTANK",
         "veekunDb": "miltank",
-        "showdownMarkup": "Miltank",
-        "showdownData": "miltank",
         "serebii": "miltank",
         "bulbapedia": "Miltank",
         "homeSprite": "miltank",
-        "miniSprite": "miltank"
+        "miniSprite": "miltank",
+        "showdown": "miltank",
+        "showdownDef": "Miltank",
+        "smogon": "miltank"
     },
     "baseSpecies": null,
     "baseForms": [],

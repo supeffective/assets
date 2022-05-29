@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "YAMASK",
         "veekunDb": "yamask",
-        "showdownMarkup": "Yamask",
-        "showdownData": "yamask",
         "serebii": "yamask",
         "bulbapedia": "Yamask",
         "homeSprite": "yamask",
-        "miniSprite": "yamask"
+        "miniSprite": "yamask",
+        "showdown": "yamask",
+        "showdownDef": "Yamask",
+        "smogon": "yamask"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "KROKOROK",
         "veekunDb": "krokorok",
-        "showdownMarkup": "Krokorok",
-        "showdownData": "krokorok",
         "serebii": "krokorok",
         "bulbapedia": "Krokorok",
         "homeSprite": "krokorok",
-        "miniSprite": "krokorok"
+        "miniSprite": "krokorok",
+        "showdown": "krokorok",
+        "showdownDef": "Krokorok",
+        "smogon": "krokorok"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "CHARIZARD_GMAX",
         "veekunDb": "charizard-gmax",
-        "showdownMarkup": "Charizard-Gmax",
-        "showdownData": "charizardgmax",
-        "serebii": "charizard-gmax",
+        "serebii": "charizard",
         "bulbapedia": "Charizard",
         "homeSprite": "charizard-gmax",
-        "miniSprite": "charizard-gmax"
+        "miniSprite": "charizard-gmax",
+        "showdown": "charizardgmax",
+        "showdownDef": "Charizard-Gmax",
+        "smogon": "charizard-gmax"
     },
     "baseSpecies": "charizard",
     "baseForms": [

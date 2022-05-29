@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "EXEGGUTOR",
         "veekunDb": "exeggutor",
-        "showdownMarkup": "Exeggutor",
-        "showdownData": "exeggutor",
         "serebii": "exeggutor",
         "bulbapedia": "Exeggutor",
         "homeSprite": "exeggutor",
-        "miniSprite": "exeggutor"
+        "miniSprite": "exeggutor",
+        "showdown": "exeggutor",
+        "showdownDef": "Exeggutor",
+        "smogon": "exeggutor"
     },
     "baseSpecies": null,
     "baseForms": [],

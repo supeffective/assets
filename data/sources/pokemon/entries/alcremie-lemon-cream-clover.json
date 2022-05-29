@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ALCREMIE_LEMON_CREAM_CLOVER",
         "veekunDb": "alcremie-lemon-cream-clover",
-        "showdownMarkup": "Alcremie-Lemon-Cream-Clover",
-        "showdownData": "alcremielemoncreamclover",
-        "serebii": "alcremie-lemon-cream-clover",
+        "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "alcremie-lemon-cream-clover",
-        "miniSprite": "alcremie-lemon-cream-clover"
+        "miniSprite": "alcremie-lemon-cream-clover",
+        "showdown": "alcremielemoncreamclover",
+        "showdownDef": "Alcremie-Lemon-Cream-Clover",
+        "smogon": "alcremie-lemon-cream-clover"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

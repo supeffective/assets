@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "GYARADOS_F",
         "veekunDb": "gyarados-f",
-        "showdownMarkup": "Gyarados-F",
-        "showdownData": "gyaradosf",
-        "serebii": "gyarados-f",
+        "serebii": "gyarados",
         "bulbapedia": "Gyarados",
         "homeSprite": "gyarados-f",
-        "miniSprite": "gyarados-f"
+        "miniSprite": "gyarados-f",
+        "showdown": "gyaradosf",
+        "showdownDef": "Gyarados-F",
+        "smogon": "gyarados-f"
     },
     "baseSpecies": "gyarados",
     "baseForms": [],

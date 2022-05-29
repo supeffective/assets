@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DEOXYS_DEFENSE",
         "veekunDb": "deoxys-defense",
-        "showdownMarkup": "Deoxys-Defense",
-        "showdownData": "deoxysdefense",
-        "serebii": "deoxys-defense",
+        "serebii": "deoxys",
         "bulbapedia": "Deoxys",
         "homeSprite": "deoxys-defense",
-        "miniSprite": "deoxys-defense"
+        "miniSprite": "deoxys-defense",
+        "showdown": "deoxysdefense",
+        "showdownDef": "Deoxys-Defense",
+        "smogon": "deoxys-defense"
     },
     "baseSpecies": "deoxys",
     "baseForms": [

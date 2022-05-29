@@ -74,12 +74,13 @@
     "refs": {
         "pogo": null,
         "veekunDb": null,
-        "showdownMarkup": null,
-        "showdownData": null,
-        "serebii": null,
+        "serebii": "dialga",
         "bulbapedia": null,
         "homeSprite": "dialga-origin",
-        "miniSprite": "dialga-origin"
+        "miniSprite": "dialga-origin",
+        "showdown": null,
+        "showdownDef": null,
+        "smogon": "dialga-origin"
     },
     "baseSpecies": "dialga",
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ESCAVALIER",
         "veekunDb": "escavalier",
-        "showdownMarkup": "Escavalier",
-        "showdownData": "escavalier",
         "serebii": "escavalier",
         "bulbapedia": "Escavalier",
         "homeSprite": "escavalier",
-        "miniSprite": "escavalier"
+        "miniSprite": "escavalier",
+        "showdown": "escavalier",
+        "showdownDef": "Escavalier",
+        "smogon": "escavalier"
     },
     "baseSpecies": null,
     "baseForms": [],

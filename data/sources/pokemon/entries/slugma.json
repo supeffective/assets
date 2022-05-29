@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SLUGMA",
         "veekunDb": "slugma",
-        "showdownMarkup": "Slugma",
-        "showdownData": "slugma",
         "serebii": "slugma",
         "bulbapedia": "Slugma",
         "homeSprite": "slugma",
-        "miniSprite": "slugma"
+        "miniSprite": "slugma",
+        "showdown": "slugma",
+        "showdownDef": "Slugma",
+        "smogon": "slugma"
     },
     "baseSpecies": null,
     "baseForms": [],

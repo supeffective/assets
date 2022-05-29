@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "LILEEP",
         "veekunDb": "lileep",
-        "showdownMarkup": "Lileep",
-        "showdownData": "lileep",
         "serebii": "lileep",
         "bulbapedia": "Lileep",
         "homeSprite": "lileep",
-        "miniSprite": "lileep"
+        "miniSprite": "lileep",
+        "showdown": "lileep",
+        "showdownDef": "Lileep",
+        "smogon": "lileep"
     },
     "baseSpecies": null,
     "baseForms": [],

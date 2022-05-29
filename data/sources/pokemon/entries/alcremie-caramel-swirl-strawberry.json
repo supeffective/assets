@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ALCREMIE_CARAMEL_SWIRL_STRAWBERRY",
         "veekunDb": "alcremie-caramel-swirl-strawberry",
-        "showdownMarkup": "Alcremie-Caramel-Swirl-Strawberry",
-        "showdownData": "alcremiecaramelswirlstrawberry",
-        "serebii": "alcremie-caramel-swirl-strawberry",
+        "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "alcremie-caramel-swirl-strawberry",
-        "miniSprite": "alcremie-caramel-swirl-strawberry"
+        "miniSprite": "alcremie-caramel-swirl-strawberry",
+        "showdown": "alcremiecaramelswirlstrawberry",
+        "showdownDef": "Alcremie-Caramel-Swirl-Strawberry",
+        "smogon": "alcremie-caramel-swirl-strawberry"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "LILLIGANT",
         "veekunDb": "lilligant",
-        "showdownMarkup": "Lilligant",
-        "showdownData": "lilligant",
         "serebii": "lilligant",
         "bulbapedia": "Lilligant",
         "homeSprite": "lilligant",
-        "miniSprite": "lilligant"
+        "miniSprite": "lilligant",
+        "showdown": "lilligant",
+        "showdownDef": "Lilligant",
+        "smogon": "lilligant"
     },
     "baseSpecies": null,
     "baseForms": [],

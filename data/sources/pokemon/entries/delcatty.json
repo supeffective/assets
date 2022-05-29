@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DELCATTY",
         "veekunDb": "delcatty",
-        "showdownMarkup": "Delcatty",
-        "showdownData": "delcatty",
         "serebii": "delcatty",
         "bulbapedia": "Delcatty",
         "homeSprite": "delcatty",
-        "miniSprite": "delcatty"
+        "miniSprite": "delcatty",
+        "showdown": "delcatty",
+        "showdownDef": "Delcatty",
+        "smogon": "delcatty"
     },
     "baseSpecies": null,
     "baseForms": [],

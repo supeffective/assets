@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "KRICKETUNE",
         "veekunDb": "kricketune",
-        "showdownMarkup": "Kricketune",
-        "showdownData": "kricketune",
         "serebii": "kricketune",
         "bulbapedia": "Kricketune",
         "homeSprite": "kricketune",
-        "miniSprite": "kricketune"
+        "miniSprite": "kricketune",
+        "showdown": "kricketune",
+        "showdownDef": "Kricketune",
+        "smogon": "kricketune"
     },
     "baseSpecies": null,
     "baseForms": [],

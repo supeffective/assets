@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MEDICHAM_F",
         "veekunDb": "medicham-f",
-        "showdownMarkup": "Medicham-F",
-        "showdownData": "medichamf",
-        "serebii": "medicham-f",
+        "serebii": "medicham",
         "bulbapedia": "Medicham",
         "homeSprite": "medicham-f",
-        "miniSprite": "medicham-f"
+        "miniSprite": "medicham-f",
+        "showdown": "medichamf",
+        "showdownDef": "Medicham-F",
+        "smogon": "medicham-f"
     },
     "baseSpecies": "medicham",
     "baseForms": [],

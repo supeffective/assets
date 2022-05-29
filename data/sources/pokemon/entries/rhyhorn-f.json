@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "RHYHORN_F",
         "veekunDb": "rhyhorn-f",
-        "showdownMarkup": "Rhyhorn-F",
-        "showdownData": "rhyhornf",
-        "serebii": "rhyhorn-f",
+        "serebii": "rhyhorn",
         "bulbapedia": "Rhyhorn",
         "homeSprite": "rhyhorn-f",
-        "miniSprite": "rhyhorn-f"
+        "miniSprite": "rhyhorn-f",
+        "showdown": "rhyhornf",
+        "showdownDef": "Rhyhorn-F",
+        "smogon": "rhyhorn-f"
     },
     "baseSpecies": "rhyhorn",
     "baseForms": [],

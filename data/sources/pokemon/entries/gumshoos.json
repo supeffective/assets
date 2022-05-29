@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "GUMSHOOS",
         "veekunDb": "gumshoos",
-        "showdownMarkup": "Gumshoos",
-        "showdownData": "gumshoos",
         "serebii": "gumshoos",
         "bulbapedia": "Gumshoos",
         "homeSprite": "gumshoos",
-        "miniSprite": "gumshoos"
+        "miniSprite": "gumshoos",
+        "showdown": "gumshoos",
+        "showdownDef": "Gumshoos",
+        "smogon": "gumshoos"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "GLOOM",
         "veekunDb": "gloom",
-        "showdownMarkup": "Gloom",
-        "showdownData": "gloom",
         "serebii": "gloom",
         "bulbapedia": "Gloom",
         "homeSprite": "gloom",
-        "miniSprite": "gloom"
+        "miniSprite": "gloom",
+        "showdown": "gloom",
+        "showdownDef": "Gloom",
+        "smogon": "gloom"
     },
     "baseSpecies": null,
     "baseForms": [],

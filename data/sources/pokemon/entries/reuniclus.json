@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "REUNICLUS",
         "veekunDb": "reuniclus",
-        "showdownMarkup": "Reuniclus",
-        "showdownData": "reuniclus",
         "serebii": "reuniclus",
         "bulbapedia": "Reuniclus",
         "homeSprite": "reuniclus",
-        "miniSprite": "reuniclus"
+        "miniSprite": "reuniclus",
+        "showdown": "reuniclus",
+        "showdownDef": "Reuniclus",
+        "smogon": "reuniclus"
     },
     "baseSpecies": null,
     "baseForms": [],

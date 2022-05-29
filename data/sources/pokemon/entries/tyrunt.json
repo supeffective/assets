@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "TYRUNT",
         "veekunDb": "tyrunt",
-        "showdownMarkup": "Tyrunt",
-        "showdownData": "tyrunt",
         "serebii": "tyrunt",
         "bulbapedia": "Tyrunt",
         "homeSprite": "tyrunt",
-        "miniSprite": "tyrunt"
+        "miniSprite": "tyrunt",
+        "showdown": "tyrunt",
+        "showdownDef": "Tyrunt",
+        "smogon": "tyrunt"
     },
     "baseSpecies": null,
     "baseForms": [],

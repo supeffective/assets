@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "LOPUNNY",
         "veekunDb": "lopunny",
-        "showdownMarkup": "Lopunny",
-        "showdownData": "lopunny",
         "serebii": "lopunny",
         "bulbapedia": "Lopunny",
         "homeSprite": "lopunny",
-        "miniSprite": "lopunny"
+        "miniSprite": "lopunny",
+        "showdown": "lopunny",
+        "showdownDef": "Lopunny",
+        "smogon": "lopunny"
     },
     "baseSpecies": null,
     "baseForms": [],

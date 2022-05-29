@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ZANGOOSE",
         "veekunDb": "zangoose",
-        "showdownMarkup": "Zangoose",
-        "showdownData": "zangoose",
         "serebii": "zangoose",
         "bulbapedia": "Zangoose",
         "homeSprite": "zangoose",
-        "miniSprite": "zangoose"
+        "miniSprite": "zangoose",
+        "showdown": "zangoose",
+        "showdownDef": "Zangoose",
+        "smogon": "zangoose"
     },
     "baseSpecies": null,
     "baseForms": [],

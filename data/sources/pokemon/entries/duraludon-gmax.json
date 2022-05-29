@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "DURALUDON_GMAX",
         "veekunDb": "duraludon-gmax",
-        "showdownMarkup": "Duraludon-Gmax",
-        "showdownData": "duraludongmax",
-        "serebii": "duraludon-gmax",
+        "serebii": "duraludon",
         "bulbapedia": "Duraludon",
         "homeSprite": "duraludon-gmax",
-        "miniSprite": "duraludon-gmax"
+        "miniSprite": "duraludon-gmax",
+        "showdown": "duraludongmax",
+        "showdownDef": "Duraludon-Gmax",
+        "smogon": "duraludon-gmax"
     },
     "baseSpecies": "duraludon",
     "baseForms": [

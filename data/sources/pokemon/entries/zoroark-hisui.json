@@ -75,12 +75,13 @@
     "refs": {
         "pogo": null,
         "veekunDb": null,
-        "showdownMarkup": null,
-        "showdownData": null,
-        "serebii": null,
+        "serebii": "zoroark",
         "bulbapedia": null,
         "homeSprite": "zoroark-hisui",
-        "miniSprite": "zoroark-hisui"
+        "miniSprite": "zoroark-hisui",
+        "showdown": null,
+        "showdownDef": null,
+        "smogon": "zoroark-hisui"
     },
     "baseSpecies": "zoroark",
     "baseForms": [],

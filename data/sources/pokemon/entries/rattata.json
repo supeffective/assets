@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "RATTATA",
         "veekunDb": "rattata",
-        "showdownMarkup": "Rattata",
-        "showdownData": "rattata",
         "serebii": "rattata",
         "bulbapedia": "Rattata",
         "homeSprite": "rattata",
-        "miniSprite": "rattata"
+        "miniSprite": "rattata",
+        "showdown": "rattata",
+        "showdownDef": "Rattata",
+        "smogon": "rattata"
     },
     "baseSpecies": null,
     "baseForms": [],

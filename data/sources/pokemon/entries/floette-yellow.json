@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "FLOETTE_YELLOW",
         "veekunDb": "floette-yellow",
-        "showdownMarkup": "Floette-Yellow",
-        "showdownData": "floetteyellow",
-        "serebii": "floette-yellow",
+        "serebii": "floette",
         "bulbapedia": "Floette",
         "homeSprite": "floette-yellow",
-        "miniSprite": "floette-yellow"
+        "miniSprite": "floette-yellow",
+        "showdown": "floetteyellow",
+        "showdownDef": "Floette-Yellow",
+        "smogon": "floette-yellow"
     },
     "baseSpecies": "floette",
     "baseForms": [],

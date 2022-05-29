@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ALCREMIE_RUBY_SWIRL_LOVE",
         "veekunDb": "alcremie-ruby-swirl-love",
-        "showdownMarkup": "Alcremie-Ruby-Swirl-Love",
-        "showdownData": "alcremierubyswirllove",
-        "serebii": "alcremie-ruby-swirl-love",
+        "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "alcremie-ruby-swirl-love",
-        "miniSprite": "alcremie-ruby-swirl-love"
+        "miniSprite": "alcremie-ruby-swirl-love",
+        "showdown": "alcremierubyswirllove",
+        "showdownDef": "Alcremie-Ruby-Swirl-Love",
+        "smogon": "alcremie-ruby-swirl-love"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

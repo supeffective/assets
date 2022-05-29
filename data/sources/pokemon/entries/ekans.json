@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "EKANS",
         "veekunDb": "ekans",
-        "showdownMarkup": "Ekans",
-        "showdownData": "ekans",
         "serebii": "ekans",
         "bulbapedia": "Ekans",
         "homeSprite": "ekans",
-        "miniSprite": "ekans"
+        "miniSprite": "ekans",
+        "showdown": "ekans",
+        "showdownDef": "Ekans",
+        "smogon": "ekans"
     },
     "baseSpecies": null,
     "baseForms": [],

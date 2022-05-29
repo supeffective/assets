@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "GOLDEEN",
         "veekunDb": "goldeen",
-        "showdownMarkup": "Goldeen",
-        "showdownData": "goldeen",
         "serebii": "goldeen",
         "bulbapedia": "Goldeen",
         "homeSprite": "goldeen",
-        "miniSprite": "goldeen"
+        "miniSprite": "goldeen",
+        "showdown": "goldeen",
+        "showdownDef": "Goldeen",
+        "smogon": "goldeen"
     },
     "baseSpecies": null,
     "baseForms": [],

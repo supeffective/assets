@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "THUNDURUS_THERIAN",
         "veekunDb": "thundurus-therian",
-        "showdownMarkup": "Thundurus-Therian",
-        "showdownData": "thundurustherian",
-        "serebii": "thundurus-therian",
+        "serebii": "thundurus",
         "bulbapedia": "Thundurus",
         "homeSprite": "thundurus-therian",
-        "miniSprite": "thundurus-therian"
+        "miniSprite": "thundurus-therian",
+        "showdown": "thundurustherian",
+        "showdownDef": "Thundurus-Therian",
+        "smogon": "thundurus-therian"
     },
     "baseSpecies": "thundurus",
     "baseForms": [

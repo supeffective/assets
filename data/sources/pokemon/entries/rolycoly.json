@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ROLYCOLY",
         "veekunDb": "rolycoly",
-        "showdownMarkup": "Rolycoly",
-        "showdownData": "rolycoly",
         "serebii": "rolycoly",
         "bulbapedia": "Rolycoly",
         "homeSprite": "rolycoly",
-        "miniSprite": "rolycoly"
+        "miniSprite": "rolycoly",
+        "showdown": "rolycoly",
+        "showdownDef": "Rolycoly",
+        "smogon": "rolycoly"
     },
     "baseSpecies": null,
     "baseForms": [],

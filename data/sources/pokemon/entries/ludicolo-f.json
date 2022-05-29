@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "LUDICOLO_F",
         "veekunDb": "ludicolo-f",
-        "showdownMarkup": "Ludicolo-F",
-        "showdownData": "ludicolof",
-        "serebii": "ludicolo-f",
+        "serebii": "ludicolo",
         "bulbapedia": "Ludicolo",
         "homeSprite": "ludicolo-f",
-        "miniSprite": "ludicolo-f"
+        "miniSprite": "ludicolo-f",
+        "showdown": "ludicolof",
+        "showdownDef": "Ludicolo-F",
+        "smogon": "ludicolo-f"
     },
     "baseSpecies": "ludicolo",
     "baseForms": [],

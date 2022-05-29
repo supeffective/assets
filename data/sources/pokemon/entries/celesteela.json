@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CELESTEELA",
         "veekunDb": "celesteela",
-        "showdownMarkup": "Celesteela",
-        "showdownData": "celesteela",
         "serebii": "celesteela",
         "bulbapedia": "Celesteela",
         "homeSprite": "celesteela",
-        "miniSprite": "celesteela"
+        "miniSprite": "celesteela",
+        "showdown": "celesteela",
+        "showdownDef": "Celesteela",
+        "smogon": "celesteela"
     },
     "baseSpecies": null,
     "baseForms": [],

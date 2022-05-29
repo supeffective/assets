@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "IGGLYBUFF",
         "veekunDb": "igglybuff",
-        "showdownMarkup": "Igglybuff",
-        "showdownData": "igglybuff",
         "serebii": "igglybuff",
         "bulbapedia": "Igglybuff",
         "homeSprite": "igglybuff",
-        "miniSprite": "igglybuff"
+        "miniSprite": "igglybuff",
+        "showdown": "igglybuff",
+        "showdownDef": "Igglybuff",
+        "smogon": "igglybuff"
     },
     "baseSpecies": null,
     "baseForms": [],

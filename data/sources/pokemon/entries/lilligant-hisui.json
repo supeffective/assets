@@ -75,12 +75,13 @@
     "refs": {
         "pogo": null,
         "veekunDb": null,
-        "showdownMarkup": null,
-        "showdownData": null,
-        "serebii": null,
+        "serebii": "lilligant",
         "bulbapedia": null,
         "homeSprite": "lilligant-hisui",
-        "miniSprite": "lilligant-hisui"
+        "miniSprite": "lilligant-hisui",
+        "showdown": null,
+        "showdownDef": null,
+        "smogon": "lilligant-hisui"
     },
     "baseSpecies": "lilligant",
     "baseForms": [],

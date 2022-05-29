@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "GURDURR",
         "veekunDb": "gurdurr",
-        "showdownMarkup": "Gurdurr",
-        "showdownData": "gurdurr",
         "serebii": "gurdurr",
         "bulbapedia": "Gurdurr",
         "homeSprite": "gurdurr",
-        "miniSprite": "gurdurr"
+        "miniSprite": "gurdurr",
+        "showdown": "gurdurr",
+        "showdownDef": "Gurdurr",
+        "smogon": "gurdurr"
     },
     "baseSpecies": null,
     "baseForms": [],

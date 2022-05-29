@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "LANTURN",
         "veekunDb": "lanturn",
-        "showdownMarkup": "Lanturn",
-        "showdownData": "lanturn",
         "serebii": "lanturn",
         "bulbapedia": "Lanturn",
         "homeSprite": "lanturn",
-        "miniSprite": "lanturn"
+        "miniSprite": "lanturn",
+        "showdown": "lanturn",
+        "showdownDef": "Lanturn",
+        "smogon": "lanturn"
     },
     "baseSpecies": null,
     "baseForms": [],

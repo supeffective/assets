@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VICTREEBEL",
         "veekunDb": "victreebel",
-        "showdownMarkup": "Victreebel",
-        "showdownData": "victreebel",
         "serebii": "victreebel",
         "bulbapedia": "Victreebel",
         "homeSprite": "victreebel",
-        "miniSprite": "victreebel"
+        "miniSprite": "victreebel",
+        "showdown": "victreebel",
+        "showdownDef": "Victreebel",
+        "smogon": "victreebel"
     },
     "baseSpecies": null,
     "baseForms": [],

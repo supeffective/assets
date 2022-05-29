@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "GOGOAT",
         "veekunDb": "gogoat",
-        "showdownMarkup": "Gogoat",
-        "showdownData": "gogoat",
         "serebii": "gogoat",
         "bulbapedia": "Gogoat",
         "homeSprite": "gogoat",
-        "miniSprite": "gogoat"
+        "miniSprite": "gogoat",
+        "showdown": "gogoat",
+        "showdownDef": "Gogoat",
+        "smogon": "gogoat"
     },
     "baseSpecies": null,
     "baseForms": [],

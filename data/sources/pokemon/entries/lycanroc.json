@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "LYCANROC",
         "veekunDb": "lycanroc",
-        "showdownMarkup": "Lycanroc",
-        "showdownData": "lycanroc",
         "serebii": "lycanroc",
         "bulbapedia": "Lycanroc",
         "homeSprite": "lycanroc",
-        "miniSprite": "lycanroc"
+        "miniSprite": "lycanroc",
+        "showdown": "lycanroc",
+        "showdownDef": "Lycanroc",
+        "smogon": "lycanroc"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "KINGLER_GMAX",
         "veekunDb": "kingler-gmax",
-        "showdownMarkup": "Kingler-Gmax",
-        "showdownData": "kinglergmax",
-        "serebii": "kingler-gmax",
+        "serebii": "kingler",
         "bulbapedia": "Kingler",
         "homeSprite": "kingler-gmax",
-        "miniSprite": "kingler-gmax"
+        "miniSprite": "kingler-gmax",
+        "showdown": "kinglergmax",
+        "showdownDef": "Kingler-Gmax",
+        "smogon": "kingler-gmax"
     },
     "baseSpecies": "kingler",
     "baseForms": [

@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "MAGNEMITE",
         "veekunDb": "magnemite",
-        "showdownMarkup": "Magnemite",
-        "showdownData": "magnemite",
         "serebii": "magnemite",
         "bulbapedia": "Magnemite",
         "homeSprite": "magnemite",
-        "miniSprite": "magnemite"
+        "miniSprite": "magnemite",
+        "showdown": "magnemite",
+        "showdownDef": "Magnemite",
+        "smogon": "magnemite"
     },
     "baseSpecies": null,
     "baseForms": [],

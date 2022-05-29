@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "LAIRON",
         "veekunDb": "lairon",
-        "showdownMarkup": "Lairon",
-        "showdownData": "lairon",
         "serebii": "lairon",
         "bulbapedia": "Lairon",
         "homeSprite": "lairon",
-        "miniSprite": "lairon"
+        "miniSprite": "lairon",
+        "showdown": "lairon",
+        "showdownDef": "Lairon",
+        "smogon": "lairon"
     },
     "baseSpecies": null,
     "baseForms": [],

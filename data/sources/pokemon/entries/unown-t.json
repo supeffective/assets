@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "UNOWN_T",
         "veekunDb": "unown-t",
-        "showdownMarkup": "Unown-T",
-        "showdownData": "unownt",
-        "serebii": "unown-t",
+        "serebii": "unown",
         "bulbapedia": "Unown",
         "homeSprite": "unown-t",
-        "miniSprite": "unown-t"
+        "miniSprite": "unown-t",
+        "showdown": "unownt",
+        "showdownDef": "Unown-T",
+        "smogon": "unown-t"
     },
     "baseSpecies": "unown",
     "baseForms": [],

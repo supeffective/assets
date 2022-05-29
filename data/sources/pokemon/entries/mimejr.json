@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "MIMEJR",
         "veekunDb": "mimejr",
-        "showdownMarkup": "Mimejr",
-        "showdownData": "mimejr",
         "serebii": "mimejr",
         "bulbapedia": "Mime Jr.",
         "homeSprite": "mimejr",
-        "miniSprite": "mimejr"
+        "miniSprite": "mimejr",
+        "showdown": "mimejr",
+        "showdownDef": "Mimejr",
+        "smogon": "mimejr"
     },
     "baseSpecies": null,
     "baseForms": [],

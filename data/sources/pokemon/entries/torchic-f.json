@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "TORCHIC_F",
         "veekunDb": "torchic-f",
-        "showdownMarkup": "Torchic-F",
-        "showdownData": "torchicf",
-        "serebii": "torchic-f",
+        "serebii": "torchic",
         "bulbapedia": "Torchic",
         "homeSprite": "torchic-f",
-        "miniSprite": "torchic-f"
+        "miniSprite": "torchic-f",
+        "showdown": "torchicf",
+        "showdownDef": "Torchic-F",
+        "smogon": "torchic-f"
     },
     "baseSpecies": "torchic",
     "baseForms": [],

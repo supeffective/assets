@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SLOWKING_GALAR",
         "veekunDb": "slowking-galar",
-        "showdownMarkup": "Slowking-Galar",
-        "showdownData": "slowkinggalar",
-        "serebii": "slowking-galar",
+        "serebii": "slowking",
         "bulbapedia": "Slowking",
         "homeSprite": "slowking-galar",
-        "miniSprite": "slowking-galar"
+        "miniSprite": "slowking-galar",
+        "showdown": "slowkinggalar",
+        "showdownDef": "Slowking-Galar",
+        "smogon": "slowking-galar"
     },
     "baseSpecies": "slowking",
     "baseForms": [],

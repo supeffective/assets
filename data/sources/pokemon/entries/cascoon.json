@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "CASCOON",
         "veekunDb": "cascoon",
-        "showdownMarkup": "Cascoon",
-        "showdownData": "cascoon",
         "serebii": "cascoon",
         "bulbapedia": "Cascoon",
         "homeSprite": "cascoon",
-        "miniSprite": "cascoon"
+        "miniSprite": "cascoon",
+        "showdown": "cascoon",
+        "showdownDef": "Cascoon",
+        "smogon": "cascoon"
     },
     "baseSpecies": null,
     "baseForms": [],

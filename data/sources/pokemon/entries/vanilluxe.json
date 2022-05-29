@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VANILLUXE",
         "veekunDb": "vanilluxe",
-        "showdownMarkup": "Vanilluxe",
-        "showdownData": "vanilluxe",
         "serebii": "vanilluxe",
         "bulbapedia": "Vanilluxe",
         "homeSprite": "vanilluxe",
-        "miniSprite": "vanilluxe"
+        "miniSprite": "vanilluxe",
+        "showdown": "vanilluxe",
+        "showdownDef": "Vanilluxe",
+        "smogon": "vanilluxe"
     },
     "baseSpecies": null,
     "baseForms": [],

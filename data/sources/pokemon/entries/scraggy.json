@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SCRAGGY",
         "veekunDb": "scraggy",
-        "showdownMarkup": "Scraggy",
-        "showdownData": "scraggy",
         "serebii": "scraggy",
         "bulbapedia": "Scraggy",
         "homeSprite": "scraggy",
-        "miniSprite": "scraggy"
+        "miniSprite": "scraggy",
+        "showdown": "scraggy",
+        "showdownDef": "Scraggy",
+        "smogon": "scraggy"
     },
     "baseSpecies": null,
     "baseForms": [],

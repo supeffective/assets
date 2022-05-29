@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "THIEVUL",
         "veekunDb": "thievul",
-        "showdownMarkup": "Thievul",
-        "showdownData": "thievul",
         "serebii": "thievul",
         "bulbapedia": "Thievul",
         "homeSprite": "thievul",
-        "miniSprite": "thievul"
+        "miniSprite": "thievul",
+        "showdown": "thievul",
+        "showdownDef": "Thievul",
+        "smogon": "thievul"
     },
     "baseSpecies": null,
     "baseForms": [],

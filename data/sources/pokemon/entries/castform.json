@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CASTFORM",
         "veekunDb": "castform",
-        "showdownMarkup": "Castform",
-        "showdownData": "castform",
         "serebii": "castform",
         "bulbapedia": "Castform",
         "homeSprite": "castform",
-        "miniSprite": "castform"
+        "miniSprite": "castform",
+        "showdown": "castform",
+        "showdownDef": "Castform",
+        "smogon": "castform"
     },
     "baseSpecies": null,
     "baseForms": [],

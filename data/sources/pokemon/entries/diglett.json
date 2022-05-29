@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DIGLETT",
         "veekunDb": "diglett",
-        "showdownMarkup": "Diglett",
-        "showdownData": "diglett",
         "serebii": "diglett",
         "bulbapedia": "Diglett",
         "homeSprite": "diglett",
-        "miniSprite": "diglett"
+        "miniSprite": "diglett",
+        "showdown": "diglett",
+        "showdownDef": "Diglett",
+        "smogon": "diglett"
     },
     "baseSpecies": null,
     "baseForms": [],

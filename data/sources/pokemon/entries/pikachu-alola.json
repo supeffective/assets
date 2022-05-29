@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "PIKACHU_ALOLA",
         "veekunDb": "pikachu-alola",
-        "showdownMarkup": "Pikachu-Alola",
-        "showdownData": "pikachualola",
-        "serebii": "pikachu-alola",
+        "serebii": "pikachu",
         "bulbapedia": "Pikachu",
         "homeSprite": "pikachu-alola",
-        "miniSprite": "pikachu-alola"
+        "miniSprite": "pikachu-alola",
+        "showdown": "pikachualola",
+        "showdownDef": "Pikachu-Alola",
+        "smogon": "pikachu-alola"
     },
     "baseSpecies": "pikachu",
     "baseForms": [],

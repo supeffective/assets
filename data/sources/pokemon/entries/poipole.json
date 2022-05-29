@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "POIPOLE",
         "veekunDb": "poipole",
-        "showdownMarkup": "Poipole",
-        "showdownData": "poipole",
         "serebii": "poipole",
         "bulbapedia": "Poipole",
         "homeSprite": "poipole",
-        "miniSprite": "poipole"
+        "miniSprite": "poipole",
+        "showdown": "poipole",
+        "showdownDef": "Poipole",
+        "smogon": "poipole"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "FLETCHINDER",
         "veekunDb": "fletchinder",
-        "showdownMarkup": "Fletchinder",
-        "showdownData": "fletchinder",
         "serebii": "fletchinder",
         "bulbapedia": "Fletchinder",
         "homeSprite": "fletchinder",
-        "miniSprite": "fletchinder"
+        "miniSprite": "fletchinder",
+        "showdown": "fletchinder",
+        "showdownDef": "Fletchinder",
+        "smogon": "fletchinder"
     },
     "baseSpecies": null,
     "baseForms": [],

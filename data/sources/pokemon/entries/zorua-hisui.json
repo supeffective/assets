@@ -75,12 +75,13 @@
     "refs": {
         "pogo": null,
         "veekunDb": null,
-        "showdownMarkup": null,
-        "showdownData": null,
-        "serebii": null,
+        "serebii": "zorua",
         "bulbapedia": null,
         "homeSprite": "zorua-hisui",
-        "miniSprite": "zorua-hisui"
+        "miniSprite": "zorua-hisui",
+        "showdown": null,
+        "showdownDef": null,
+        "smogon": "zorua-hisui"
     },
     "baseSpecies": "zorua",
     "baseForms": [],

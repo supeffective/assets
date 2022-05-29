@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "PANSEAR",
         "veekunDb": "pansear",
-        "showdownMarkup": "Pansear",
-        "showdownData": "pansear",
         "serebii": "pansear",
         "bulbapedia": "Pansear",
         "homeSprite": "pansear",
-        "miniSprite": "pansear"
+        "miniSprite": "pansear",
+        "showdown": "pansear",
+        "showdownDef": "Pansear",
+        "smogon": "pansear"
     },
     "baseSpecies": null,
     "baseForms": [],

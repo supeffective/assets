@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ZIGZAGOON_GALAR",
         "veekunDb": "zigzagoon-galar",
-        "showdownMarkup": "Zigzagoon-Galar",
-        "showdownData": "zigzagoongalar",
-        "serebii": "zigzagoon-galar",
+        "serebii": "zigzagoon",
         "bulbapedia": "Zigzagoon",
         "homeSprite": "zigzagoon-galar",
-        "miniSprite": "zigzagoon-galar"
+        "miniSprite": "zigzagoon-galar",
+        "showdown": "zigzagoongalar",
+        "showdownDef": "Zigzagoon-Galar",
+        "smogon": "zigzagoon-galar"
     },
     "baseSpecies": "zigzagoon",
     "baseForms": [],

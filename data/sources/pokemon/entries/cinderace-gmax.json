@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "CINDERACE_GMAX",
         "veekunDb": "cinderace-gmax",
-        "showdownMarkup": "Cinderace-Gmax",
-        "showdownData": "cinderacegmax",
-        "serebii": "cinderace-gmax",
+        "serebii": "cinderace",
         "bulbapedia": "Cinderace",
         "homeSprite": "cinderace-gmax",
-        "miniSprite": "cinderace-gmax"
+        "miniSprite": "cinderace-gmax",
+        "showdown": "cinderacegmax",
+        "showdownDef": "Cinderace-Gmax",
+        "smogon": "cinderace-gmax"
     },
     "baseSpecies": "cinderace",
     "baseForms": [

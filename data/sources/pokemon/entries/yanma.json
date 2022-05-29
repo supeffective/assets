@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "YANMA",
         "veekunDb": "yanma",
-        "showdownMarkup": "Yanma",
-        "showdownData": "yanma",
         "serebii": "yanma",
         "bulbapedia": "Yanma",
         "homeSprite": "yanma",
-        "miniSprite": "yanma"
+        "miniSprite": "yanma",
+        "showdown": "yanma",
+        "showdownDef": "Yanma",
+        "smogon": "yanma"
     },
     "baseSpecies": null,
     "baseForms": [],

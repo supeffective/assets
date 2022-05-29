@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SCEPTILE",
         "veekunDb": "sceptile",
-        "showdownMarkup": "Sceptile",
-        "showdownData": "sceptile",
         "serebii": "sceptile",
         "bulbapedia": "Sceptile",
         "homeSprite": "sceptile",
-        "miniSprite": "sceptile"
+        "miniSprite": "sceptile",
+        "showdown": "sceptile",
+        "showdownDef": "Sceptile",
+        "smogon": "sceptile"
     },
     "baseSpecies": null,
     "baseForms": [],

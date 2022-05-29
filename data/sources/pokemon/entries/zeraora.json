@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ZERAORA",
         "veekunDb": "zeraora",
-        "showdownMarkup": "Zeraora",
-        "showdownData": "zeraora",
         "serebii": "zeraora",
         "bulbapedia": "Zeraora",
         "homeSprite": "zeraora",
-        "miniSprite": "zeraora"
+        "miniSprite": "zeraora",
+        "showdown": "zeraora",
+        "showdownDef": "Zeraora",
+        "smogon": "zeraora"
     },
     "baseSpecies": null,
     "baseForms": [],

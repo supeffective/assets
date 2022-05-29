@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MAWILE",
         "veekunDb": "mawile",
-        "showdownMarkup": "Mawile",
-        "showdownData": "mawile",
         "serebii": "mawile",
         "bulbapedia": "Mawile",
         "homeSprite": "mawile",
-        "miniSprite": "mawile"
+        "miniSprite": "mawile",
+        "showdown": "mawile",
+        "showdownDef": "Mawile",
+        "smogon": "mawile"
     },
     "baseSpecies": null,
     "baseForms": [],

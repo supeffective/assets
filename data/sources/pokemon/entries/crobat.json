@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "CROBAT",
         "veekunDb": "crobat",
-        "showdownMarkup": "Crobat",
-        "showdownData": "crobat",
         "serebii": "crobat",
         "bulbapedia": "Crobat",
         "homeSprite": "crobat",
-        "miniSprite": "crobat"
+        "miniSprite": "crobat",
+        "showdown": "crobat",
+        "showdownDef": "Crobat",
+        "smogon": "crobat"
     },
     "baseSpecies": null,
     "baseForms": [],

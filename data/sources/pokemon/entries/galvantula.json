@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "GALVANTULA",
         "veekunDb": "galvantula",
-        "showdownMarkup": "Galvantula",
-        "showdownData": "galvantula",
         "serebii": "galvantula",
         "bulbapedia": "Galvantula",
         "homeSprite": "galvantula",
-        "miniSprite": "galvantula"
+        "miniSprite": "galvantula",
+        "showdown": "galvantula",
+        "showdownDef": "Galvantula",
+        "smogon": "galvantula"
     },
     "baseSpecies": null,
     "baseForms": [],

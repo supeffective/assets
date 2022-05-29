@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "NIDORANM",
         "veekunDb": "nidoranm",
-        "showdownMarkup": "Nidoranm",
-        "showdownData": "nidoranm",
         "serebii": "nidoranm",
         "bulbapedia": "Nidoran♂",
         "homeSprite": "nidoranm",
-        "miniSprite": "nidoranm"
+        "miniSprite": "nidoranm",
+        "showdown": "nidoranm",
+        "showdownDef": "Nidoranm",
+        "smogon": "nidoranm"
     },
     "baseSpecies": null,
     "baseForms": [],

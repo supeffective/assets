@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ALCREMIE_LEMON_CREAM_FLOWER",
         "veekunDb": "alcremie-lemon-cream-flower",
-        "showdownMarkup": "Alcremie-Lemon-Cream-Flower",
-        "showdownData": "alcremielemoncreamflower",
-        "serebii": "alcremie-lemon-cream-flower",
+        "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "alcremie-lemon-cream-flower",
-        "miniSprite": "alcremie-lemon-cream-flower"
+        "miniSprite": "alcremie-lemon-cream-flower",
+        "showdown": "alcremielemoncreamflower",
+        "showdownDef": "Alcremie-Lemon-Cream-Flower",
+        "smogon": "alcremie-lemon-cream-flower"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

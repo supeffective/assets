@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "BEARTIC",
         "veekunDb": "beartic",
-        "showdownMarkup": "Beartic",
-        "showdownData": "beartic",
         "serebii": "beartic",
         "bulbapedia": "Beartic",
         "homeSprite": "beartic",
-        "miniSprite": "beartic"
+        "miniSprite": "beartic",
+        "showdown": "beartic",
+        "showdownDef": "Beartic",
+        "smogon": "beartic"
     },
     "baseSpecies": null,
     "baseForms": [],

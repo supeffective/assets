@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "MESPRIT",
         "veekunDb": "mesprit",
-        "showdownMarkup": "Mesprit",
-        "showdownData": "mesprit",
         "serebii": "mesprit",
         "bulbapedia": "Mesprit",
         "homeSprite": "mesprit",
-        "miniSprite": "mesprit"
+        "miniSprite": "mesprit",
+        "showdown": "mesprit",
+        "showdownDef": "Mesprit",
+        "smogon": "mesprit"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "SPIRITOMB",
         "veekunDb": "spiritomb",
-        "showdownMarkup": "Spiritomb",
-        "showdownData": "spiritomb",
         "serebii": "spiritomb",
         "bulbapedia": "Spiritomb",
         "homeSprite": "spiritomb",
-        "miniSprite": "spiritomb"
+        "miniSprite": "spiritomb",
+        "showdown": "spiritomb",
+        "showdownDef": "Spiritomb",
+        "smogon": "spiritomb"
     },
     "baseSpecies": null,
     "baseForms": [],

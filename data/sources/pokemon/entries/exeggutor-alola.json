@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "EXEGGUTOR_ALOLA",
         "veekunDb": "exeggutor-alola",
-        "showdownMarkup": "Exeggutor-Alola",
-        "showdownData": "exeggutoralola",
-        "serebii": "exeggutor-alola",
+        "serebii": "exeggutor",
         "bulbapedia": "Exeggutor",
         "homeSprite": "exeggutor-alola",
-        "miniSprite": "exeggutor-alola"
+        "miniSprite": "exeggutor-alola",
+        "showdown": "exeggutoralola",
+        "showdownDef": "Exeggutor-Alola",
+        "smogon": "exeggutor-alola"
     },
     "baseSpecies": "exeggutor",
     "baseForms": [],

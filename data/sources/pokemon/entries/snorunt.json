@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "SNORUNT",
         "veekunDb": "snorunt",
-        "showdownMarkup": "Snorunt",
-        "showdownData": "snorunt",
         "serebii": "snorunt",
         "bulbapedia": "Snorunt",
         "homeSprite": "snorunt",
-        "miniSprite": "snorunt"
+        "miniSprite": "snorunt",
+        "showdown": "snorunt",
+        "showdownDef": "Snorunt",
+        "smogon": "snorunt"
     },
     "baseSpecies": null,
     "baseForms": [],

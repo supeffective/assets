@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "CLEFABLE",
         "veekunDb": "clefable",
-        "showdownMarkup": "Clefable",
-        "showdownData": "clefable",
         "serebii": "clefable",
         "bulbapedia": "Clefable",
         "homeSprite": "clefable",
-        "miniSprite": "clefable"
+        "miniSprite": "clefable",
+        "showdown": "clefable",
+        "showdownDef": "Clefable",
+        "smogon": "clefable"
     },
     "baseSpecies": null,
     "baseForms": [],

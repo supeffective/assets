@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "FLOETTE_ORANGE",
         "veekunDb": "floette-orange",
-        "showdownMarkup": "Floette-Orange",
-        "showdownData": "floetteorange",
-        "serebii": "floette-orange",
+        "serebii": "floette",
         "bulbapedia": "Floette",
         "homeSprite": "floette-orange",
-        "miniSprite": "floette-orange"
+        "miniSprite": "floette-orange",
+        "showdown": "floetteorange",
+        "showdownDef": "Floette-Orange",
+        "smogon": "floette-orange"
     },
     "baseSpecies": "floette",
     "baseForms": [],

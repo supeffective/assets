@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "GRIMER",
         "veekunDb": "grimer",
-        "showdownMarkup": "Grimer",
-        "showdownData": "grimer",
         "serebii": "grimer",
         "bulbapedia": "Grimer",
         "homeSprite": "grimer",
-        "miniSprite": "grimer"
+        "miniSprite": "grimer",
+        "showdown": "grimer",
+        "showdownDef": "Grimer",
+        "smogon": "grimer"
     },
     "baseSpecies": null,
     "baseForms": [],

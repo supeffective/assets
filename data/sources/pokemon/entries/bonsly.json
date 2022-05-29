@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "BONSLY",
         "veekunDb": "bonsly",
-        "showdownMarkup": "Bonsly",
-        "showdownData": "bonsly",
         "serebii": "bonsly",
         "bulbapedia": "Bonsly",
         "homeSprite": "bonsly",
-        "miniSprite": "bonsly"
+        "miniSprite": "bonsly",
+        "showdown": "bonsly",
+        "showdownDef": "Bonsly",
+        "smogon": "bonsly"
     },
     "baseSpecies": null,
     "baseForms": [],

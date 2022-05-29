@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "AMPHAROS_MEGA",
         "veekunDb": "ampharos-mega",
-        "showdownMarkup": "Ampharos-Mega",
-        "showdownData": "ampharosmega",
-        "serebii": "ampharos-mega",
+        "serebii": "ampharos",
         "bulbapedia": "Ampharos",
         "homeSprite": "ampharos-mega",
-        "miniSprite": "ampharos-mega"
+        "miniSprite": "ampharos-mega",
+        "showdown": "ampharosmega",
+        "showdownDef": "Ampharos-Mega",
+        "smogon": "ampharos-mega"
     },
     "baseSpecies": "ampharos",
     "baseForms": [

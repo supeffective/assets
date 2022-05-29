@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "PIKACHU_UNOVA",
         "veekunDb": "pikachu-unova",
-        "showdownMarkup": "Pikachu-Unova",
-        "showdownData": "pikachuunova",
-        "serebii": "pikachu-unova",
+        "serebii": "pikachu",
         "bulbapedia": "Pikachu",
         "homeSprite": "pikachu-unova",
-        "miniSprite": "pikachu-unova"
+        "miniSprite": "pikachu-unova",
+        "showdown": "pikachuunova",
+        "showdownDef": "Pikachu-Unova",
+        "smogon": "pikachu-unova"
     },
     "baseSpecies": "pikachu",
     "baseForms": [],

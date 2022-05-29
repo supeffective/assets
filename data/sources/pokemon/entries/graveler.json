@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "GRAVELER",
         "veekunDb": "graveler",
-        "showdownMarkup": "Graveler",
-        "showdownData": "graveler",
         "serebii": "graveler",
         "bulbapedia": "Graveler",
         "homeSprite": "graveler",
-        "miniSprite": "graveler"
+        "miniSprite": "graveler",
+        "showdown": "graveler",
+        "showdownDef": "Graveler",
+        "smogon": "graveler"
     },
     "baseSpecies": null,
     "baseForms": [],

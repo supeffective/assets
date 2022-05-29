@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SEADRA",
         "veekunDb": "seadra",
-        "showdownMarkup": "Seadra",
-        "showdownData": "seadra",
         "serebii": "seadra",
         "bulbapedia": "Seadra",
         "homeSprite": "seadra",
-        "miniSprite": "seadra"
+        "miniSprite": "seadra",
+        "showdown": "seadra",
+        "showdownDef": "Seadra",
+        "smogon": "seadra"
     },
     "baseSpecies": null,
     "baseForms": [],

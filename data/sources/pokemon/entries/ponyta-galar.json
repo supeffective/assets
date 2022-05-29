@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "PONYTA_GALAR",
         "veekunDb": "ponyta-galar",
-        "showdownMarkup": "Ponyta-Galar",
-        "showdownData": "ponytagalar",
-        "serebii": "ponyta-galar",
+        "serebii": "ponyta",
         "bulbapedia": "Ponyta",
         "homeSprite": "ponyta-galar",
-        "miniSprite": "ponyta-galar"
+        "miniSprite": "ponyta-galar",
+        "showdown": "ponytagalar",
+        "showdownDef": "Ponyta-Galar",
+        "smogon": "ponyta-galar"
     },
     "baseSpecies": "ponyta",
     "baseForms": [],

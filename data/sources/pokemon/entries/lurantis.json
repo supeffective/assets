@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "LURANTIS",
         "veekunDb": "lurantis",
-        "showdownMarkup": "Lurantis",
-        "showdownData": "lurantis",
         "serebii": "lurantis",
         "bulbapedia": "Lurantis",
         "homeSprite": "lurantis",
-        "miniSprite": "lurantis"
+        "miniSprite": "lurantis",
+        "showdown": "lurantis",
+        "showdownDef": "Lurantis",
+        "smogon": "lurantis"
     },
     "baseSpecies": null,
     "baseForms": [],

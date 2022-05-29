@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CRUSTLE",
         "veekunDb": "crustle",
-        "showdownMarkup": "Crustle",
-        "showdownData": "crustle",
         "serebii": "crustle",
         "bulbapedia": "Crustle",
         "homeSprite": "crustle",
-        "miniSprite": "crustle"
+        "miniSprite": "crustle",
+        "showdown": "crustle",
+        "showdownDef": "Crustle",
+        "smogon": "crustle"
     },
     "baseSpecies": null,
     "baseForms": [],

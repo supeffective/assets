@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ALCREMIE_SALTED_CREAM_STRAWBERRY",
         "veekunDb": "alcremie-salted-cream-strawberry",
-        "showdownMarkup": "Alcremie-Salted-Cream-Strawberry",
-        "showdownData": "alcremiesaltedcreamstrawberry",
-        "serebii": "alcremie-salted-cream-strawberry",
+        "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "alcremie-salted-cream-strawberry",
-        "miniSprite": "alcremie-salted-cream-strawberry"
+        "miniSprite": "alcremie-salted-cream-strawberry",
+        "showdown": "alcremiesaltedcreamstrawberry",
+        "showdownDef": "Alcremie-Salted-Cream-Strawberry",
+        "smogon": "alcremie-salted-cream-strawberry"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

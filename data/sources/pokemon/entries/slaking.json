@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SLAKING",
         "veekunDb": "slaking",
-        "showdownMarkup": "Slaking",
-        "showdownData": "slaking",
         "serebii": "slaking",
         "bulbapedia": "Slaking",
         "homeSprite": "slaking",
-        "miniSprite": "slaking"
+        "miniSprite": "slaking",
+        "showdown": "slaking",
+        "showdownDef": "Slaking",
+        "smogon": "slaking"
     },
     "baseSpecies": null,
     "baseForms": [],

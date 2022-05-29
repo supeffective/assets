@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "SILVALLY_DRAGON",
         "veekunDb": "silvally-dragon",
-        "showdownMarkup": "Silvally-Dragon",
-        "showdownData": "silvallydragon",
-        "serebii": "silvally-dragon",
+        "serebii": "silvally",
         "bulbapedia": "Silvally",
         "homeSprite": "silvally-dragon",
-        "miniSprite": "silvally-dragon"
+        "miniSprite": "silvally-dragon",
+        "showdown": "silvallydragon",
+        "showdownDef": "Silvally-Dragon",
+        "smogon": "silvally-dragon"
     },
     "baseSpecies": "silvally",
     "baseForms": [

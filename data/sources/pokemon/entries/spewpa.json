@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SPEWPA",
         "veekunDb": "spewpa",
-        "showdownMarkup": "Spewpa",
-        "showdownData": "spewpa",
         "serebii": "spewpa",
         "bulbapedia": "Spewpa",
         "homeSprite": "spewpa",
-        "miniSprite": "spewpa"
+        "miniSprite": "spewpa",
+        "showdown": "spewpa",
+        "showdownDef": "Spewpa",
+        "smogon": "spewpa"
     },
     "baseSpecies": null,
     "baseForms": [],

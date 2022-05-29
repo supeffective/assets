@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VIVILLON_SANDSTORM",
         "veekunDb": "vivillon-sandstorm",
-        "showdownMarkup": "Vivillon-Sandstorm",
-        "showdownData": "vivillonsandstorm",
-        "serebii": "vivillon-sandstorm",
+        "serebii": "vivillon",
         "bulbapedia": "Vivillon",
         "homeSprite": "vivillon-sandstorm",
-        "miniSprite": "vivillon-sandstorm"
+        "miniSprite": "vivillon-sandstorm",
+        "showdown": "vivillonsandstorm",
+        "showdownDef": "Vivillon-Sandstorm",
+        "smogon": "vivillon-sandstorm"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

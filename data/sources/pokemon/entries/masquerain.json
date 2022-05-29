@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MASQUERAIN",
         "veekunDb": "masquerain",
-        "showdownMarkup": "Masquerain",
-        "showdownData": "masquerain",
         "serebii": "masquerain",
         "bulbapedia": "Masquerain",
         "homeSprite": "masquerain",
-        "miniSprite": "masquerain"
+        "miniSprite": "masquerain",
+        "showdown": "masquerain",
+        "showdownDef": "Masquerain",
+        "smogon": "masquerain"
     },
     "baseSpecies": null,
     "baseForms": [],

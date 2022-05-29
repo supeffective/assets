@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "REGIGIGAS",
         "veekunDb": "regigigas",
-        "showdownMarkup": "Regigigas",
-        "showdownData": "regigigas",
         "serebii": "regigigas",
         "bulbapedia": "Regigigas",
         "homeSprite": "regigigas",
-        "miniSprite": "regigigas"
+        "miniSprite": "regigigas",
+        "showdown": "regigigas",
+        "showdownDef": "Regigigas",
+        "smogon": "regigigas"
     },
     "baseSpecies": null,
     "baseForms": [],

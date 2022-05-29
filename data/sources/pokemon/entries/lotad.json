@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "LOTAD",
         "veekunDb": "lotad",
-        "showdownMarkup": "Lotad",
-        "showdownData": "lotad",
         "serebii": "lotad",
         "bulbapedia": "Lotad",
         "homeSprite": "lotad",
-        "miniSprite": "lotad"
+        "miniSprite": "lotad",
+        "showdown": "lotad",
+        "showdownDef": "Lotad",
+        "smogon": "lotad"
     },
     "baseSpecies": null,
     "baseForms": [],

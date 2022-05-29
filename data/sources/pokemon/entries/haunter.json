@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "HAUNTER",
         "veekunDb": "haunter",
-        "showdownMarkup": "Haunter",
-        "showdownData": "haunter",
         "serebii": "haunter",
         "bulbapedia": "Haunter",
         "homeSprite": "haunter",
-        "miniSprite": "haunter"
+        "miniSprite": "haunter",
+        "showdown": "haunter",
+        "showdownDef": "Haunter",
+        "smogon": "haunter"
     },
     "baseSpecies": null,
     "baseForms": [],

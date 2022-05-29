@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "DUSCLOPS",
         "veekunDb": "dusclops",
-        "showdownMarkup": "Dusclops",
-        "showdownData": "dusclops",
         "serebii": "dusclops",
         "bulbapedia": "Dusclops",
         "homeSprite": "dusclops",
-        "miniSprite": "dusclops"
+        "miniSprite": "dusclops",
+        "showdown": "dusclops",
+        "showdownDef": "Dusclops",
+        "smogon": "dusclops"
     },
     "baseSpecies": null,
     "baseForms": [],

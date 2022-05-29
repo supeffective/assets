@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "KOFFING",
         "veekunDb": "koffing",
-        "showdownMarkup": "Koffing",
-        "showdownData": "koffing",
         "serebii": "koffing",
         "bulbapedia": "Koffing",
         "homeSprite": "koffing",
-        "miniSprite": "koffing"
+        "miniSprite": "koffing",
+        "showdown": "koffing",
+        "showdownDef": "Koffing",
+        "smogon": "koffing"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "VAPOREON",
         "veekunDb": "vaporeon",
-        "showdownMarkup": "Vaporeon",
-        "showdownData": "vaporeon",
         "serebii": "vaporeon",
         "bulbapedia": "Vaporeon",
         "homeSprite": "vaporeon",
-        "miniSprite": "vaporeon"
+        "miniSprite": "vaporeon",
+        "showdown": "vaporeon",
+        "showdownDef": "Vaporeon",
+        "smogon": "vaporeon"
     },
     "baseSpecies": null,
     "baseForms": [],

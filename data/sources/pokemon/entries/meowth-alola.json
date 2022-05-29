@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MEOWTH_ALOLA",
         "veekunDb": "meowth-alola",
-        "showdownMarkup": "Meowth-Alola",
-        "showdownData": "meowthalola",
-        "serebii": "meowth-alola",
+        "serebii": "meowth",
         "bulbapedia": "Meowth",
         "homeSprite": "meowth-alola",
-        "miniSprite": "meowth-alola"
+        "miniSprite": "meowth-alola",
+        "showdown": "meowthalola",
+        "showdownDef": "Meowth-Alola",
+        "smogon": "meowth-alola"
     },
     "baseSpecies": "meowth",
     "baseForms": [],

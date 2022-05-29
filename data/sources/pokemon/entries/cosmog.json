@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "COSMOG",
         "veekunDb": "cosmog",
-        "showdownMarkup": "Cosmog",
-        "showdownData": "cosmog",
         "serebii": "cosmog",
         "bulbapedia": "Cosmog",
         "homeSprite": "cosmog",
-        "miniSprite": "cosmog"
+        "miniSprite": "cosmog",
+        "showdown": "cosmog",
+        "showdownDef": "Cosmog",
+        "smogon": "cosmog"
     },
     "baseSpecies": null,
     "baseForms": [],

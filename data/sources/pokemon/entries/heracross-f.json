@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "HERACROSS_F",
         "veekunDb": "heracross-f",
-        "showdownMarkup": "Heracross-F",
-        "showdownData": "heracrossf",
-        "serebii": "heracross-f",
+        "serebii": "heracross",
         "bulbapedia": "Heracross",
         "homeSprite": "heracross-f",
-        "miniSprite": "heracross-f"
+        "miniSprite": "heracross-f",
+        "showdown": "heracrossf",
+        "showdownDef": "Heracross-F",
+        "smogon": "heracross-f"
     },
     "baseSpecies": "heracross",
     "baseForms": [],

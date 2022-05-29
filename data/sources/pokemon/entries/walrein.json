@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "WALREIN",
         "veekunDb": "walrein",
-        "showdownMarkup": "Walrein",
-        "showdownData": "walrein",
         "serebii": "walrein",
         "bulbapedia": "Walrein",
         "homeSprite": "walrein",
-        "miniSprite": "walrein"
+        "miniSprite": "walrein",
+        "showdown": "walrein",
+        "showdownDef": "Walrein",
+        "smogon": "walrein"
     },
     "baseSpecies": null,
     "baseForms": [],

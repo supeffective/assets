@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "VESPIQUEN",
         "veekunDb": "vespiquen",
-        "showdownMarkup": "Vespiquen",
-        "showdownData": "vespiquen",
         "serebii": "vespiquen",
         "bulbapedia": "Vespiquen",
         "homeSprite": "vespiquen",
-        "miniSprite": "vespiquen"
+        "miniSprite": "vespiquen",
+        "showdown": "vespiquen",
+        "showdownDef": "Vespiquen",
+        "smogon": "vespiquen"
     },
     "baseSpecies": null,
     "baseForms": [],

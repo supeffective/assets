@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "GOLBAT",
         "veekunDb": "golbat",
-        "showdownMarkup": "Golbat",
-        "showdownData": "golbat",
         "serebii": "golbat",
         "bulbapedia": "Golbat",
         "homeSprite": "golbat",
-        "miniSprite": "golbat"
+        "miniSprite": "golbat",
+        "showdown": "golbat",
+        "showdownDef": "Golbat",
+        "smogon": "golbat"
     },
     "baseSpecies": null,
     "baseForms": [],

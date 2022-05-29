@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "TOGEKISS",
         "veekunDb": "togekiss",
-        "showdownMarkup": "Togekiss",
-        "showdownData": "togekiss",
         "serebii": "togekiss",
         "bulbapedia": "Togekiss",
         "homeSprite": "togekiss",
-        "miniSprite": "togekiss"
+        "miniSprite": "togekiss",
+        "showdown": "togekiss",
+        "showdownDef": "Togekiss",
+        "smogon": "togekiss"
     },
     "baseSpecies": null,
     "baseForms": [],

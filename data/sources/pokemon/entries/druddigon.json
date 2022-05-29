@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DRUDDIGON",
         "veekunDb": "druddigon",
-        "showdownMarkup": "Druddigon",
-        "showdownData": "druddigon",
         "serebii": "druddigon",
         "bulbapedia": "Druddigon",
         "homeSprite": "druddigon",
-        "miniSprite": "druddigon"
+        "miniSprite": "druddigon",
+        "showdown": "druddigon",
+        "showdownDef": "Druddigon",
+        "smogon": "druddigon"
     },
     "baseSpecies": null,
     "baseForms": [],

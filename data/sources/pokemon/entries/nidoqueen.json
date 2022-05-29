@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "NIDOQUEEN",
         "veekunDb": "nidoqueen",
-        "showdownMarkup": "Nidoqueen",
-        "showdownData": "nidoqueen",
         "serebii": "nidoqueen",
         "bulbapedia": "Nidoqueen",
         "homeSprite": "nidoqueen",
-        "miniSprite": "nidoqueen"
+        "miniSprite": "nidoqueen",
+        "showdown": "nidoqueen",
+        "showdownDef": "Nidoqueen",
+        "smogon": "nidoqueen"
     },
     "baseSpecies": null,
     "baseForms": [],

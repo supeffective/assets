@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "HYDREIGON",
         "veekunDb": "hydreigon",
-        "showdownMarkup": "Hydreigon",
-        "showdownData": "hydreigon",
         "serebii": "hydreigon",
         "bulbapedia": "Hydreigon",
         "homeSprite": "hydreigon",
-        "miniSprite": "hydreigon"
+        "miniSprite": "hydreigon",
+        "showdown": "hydreigon",
+        "showdownDef": "Hydreigon",
+        "smogon": "hydreigon"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "BUTTERFREE_F",
         "veekunDb": "butterfree-f",
-        "showdownMarkup": "Butterfree-F",
-        "showdownData": "butterfreef",
-        "serebii": "butterfree-f",
+        "serebii": "butterfree",
         "bulbapedia": "Butterfree",
         "homeSprite": "butterfree-f",
-        "miniSprite": "butterfree-f"
+        "miniSprite": "butterfree-f",
+        "showdown": "butterfreef",
+        "showdownDef": "Butterfree-F",
+        "smogon": "butterfree-f"
     },
     "baseSpecies": "butterfree",
     "baseForms": [],

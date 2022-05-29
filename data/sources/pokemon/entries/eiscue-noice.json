@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "EISCUE_NOICE",
         "veekunDb": "eiscue-noice",
-        "showdownMarkup": "Eiscue-Noice",
-        "showdownData": "eiscuenoice",
-        "serebii": "eiscue-noice",
+        "serebii": "eiscue",
         "bulbapedia": "Eiscue",
         "homeSprite": "eiscue-noice",
-        "miniSprite": "eiscue-noice"
+        "miniSprite": "eiscue-noice",
+        "showdown": "eiscuenoice",
+        "showdownDef": "Eiscue-Noice",
+        "smogon": "eiscue-noice"
     },
     "baseSpecies": "eiscue",
     "baseForms": [

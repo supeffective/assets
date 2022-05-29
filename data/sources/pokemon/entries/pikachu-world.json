@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "PIKACHU_WORLD",
         "veekunDb": "pikachu-world",
-        "showdownMarkup": "Pikachu-World",
-        "showdownData": "pikachuworld",
-        "serebii": "pikachu-world",
+        "serebii": "pikachu",
         "bulbapedia": "Pikachu",
         "homeSprite": "pikachu-world",
-        "miniSprite": "pikachu-world"
+        "miniSprite": "pikachu-world",
+        "showdown": "pikachuworld",
+        "showdownDef": "Pikachu-World",
+        "smogon": "pikachu-world"
     },
     "baseSpecies": "pikachu",
     "baseForms": [],

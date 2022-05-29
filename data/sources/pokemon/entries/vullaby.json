@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VULLABY",
         "veekunDb": "vullaby",
-        "showdownMarkup": "Vullaby",
-        "showdownData": "vullaby",
         "serebii": "vullaby",
         "bulbapedia": "Vullaby",
         "homeSprite": "vullaby",
-        "miniSprite": "vullaby"
+        "miniSprite": "vullaby",
+        "showdown": "vullaby",
+        "showdownDef": "Vullaby",
+        "smogon": "vullaby"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "GROTLE",
         "veekunDb": "grotle",
-        "showdownMarkup": "Grotle",
-        "showdownData": "grotle",
         "serebii": "grotle",
         "bulbapedia": "Grotle",
         "homeSprite": "grotle",
-        "miniSprite": "grotle"
+        "miniSprite": "grotle",
+        "showdown": "grotle",
+        "showdownDef": "Grotle",
+        "smogon": "grotle"
     },
     "baseSpecies": null,
     "baseForms": [],

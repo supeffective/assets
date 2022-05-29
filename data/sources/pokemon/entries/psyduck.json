@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "PSYDUCK",
         "veekunDb": "psyduck",
-        "showdownMarkup": "Psyduck",
-        "showdownData": "psyduck",
         "serebii": "psyduck",
         "bulbapedia": "Psyduck",
         "homeSprite": "psyduck",
-        "miniSprite": "psyduck"
+        "miniSprite": "psyduck",
+        "showdown": "psyduck",
+        "showdownDef": "Psyduck",
+        "smogon": "psyduck"
     },
     "baseSpecies": null,
     "baseForms": [],

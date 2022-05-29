@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "OSHAWOTT",
         "veekunDb": "oshawott",
-        "showdownMarkup": "Oshawott",
-        "showdownData": "oshawott",
         "serebii": "oshawott",
         "bulbapedia": "Oshawott",
         "homeSprite": "oshawott",
-        "miniSprite": "oshawott"
+        "miniSprite": "oshawott",
+        "showdown": "oshawott",
+        "showdownDef": "Oshawott",
+        "smogon": "oshawott"
     },
     "baseSpecies": null,
     "baseForms": [],

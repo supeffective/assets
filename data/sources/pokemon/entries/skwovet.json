@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SKWOVET",
         "veekunDb": "skwovet",
-        "showdownMarkup": "Skwovet",
-        "showdownData": "skwovet",
         "serebii": "skwovet",
         "bulbapedia": "Skwovet",
         "homeSprite": "skwovet",
-        "miniSprite": "skwovet"
+        "miniSprite": "skwovet",
+        "showdown": "skwovet",
+        "showdownDef": "Skwovet",
+        "smogon": "skwovet"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "TROPIUS",
         "veekunDb": "tropius",
-        "showdownMarkup": "Tropius",
-        "showdownData": "tropius",
         "serebii": "tropius",
         "bulbapedia": "Tropius",
         "homeSprite": "tropius",
-        "miniSprite": "tropius"
+        "miniSprite": "tropius",
+        "showdown": "tropius",
+        "showdownDef": "Tropius",
+        "smogon": "tropius"
     },
     "baseSpecies": null,
     "baseForms": [],

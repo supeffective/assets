@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "THUNDURUS",
         "veekunDb": "thundurus",
-        "showdownMarkup": "Thundurus",
-        "showdownData": "thundurus",
         "serebii": "thundurus",
         "bulbapedia": "Thundurus",
         "homeSprite": "thundurus",
-        "miniSprite": "thundurus"
+        "miniSprite": "thundurus",
+        "showdown": "thundurus",
+        "showdownDef": "Thundurus",
+        "smogon": "thundurus"
     },
     "baseSpecies": null,
     "baseForms": [],

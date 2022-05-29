@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "BOUNSWEET",
         "veekunDb": "bounsweet",
-        "showdownMarkup": "Bounsweet",
-        "showdownData": "bounsweet",
         "serebii": "bounsweet",
         "bulbapedia": "Bounsweet",
         "homeSprite": "bounsweet",
-        "miniSprite": "bounsweet"
+        "miniSprite": "bounsweet",
+        "showdown": "bounsweet",
+        "showdownDef": "Bounsweet",
+        "smogon": "bounsweet"
     },
     "baseSpecies": null,
     "baseForms": [],

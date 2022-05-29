@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SHARPEDO",
         "veekunDb": "sharpedo",
-        "showdownMarkup": "Sharpedo",
-        "showdownData": "sharpedo",
         "serebii": "sharpedo",
         "bulbapedia": "Sharpedo",
         "homeSprite": "sharpedo",
-        "miniSprite": "sharpedo"
+        "miniSprite": "sharpedo",
+        "showdown": "sharpedo",
+        "showdownDef": "Sharpedo",
+        "smogon": "sharpedo"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "KLINK",
         "veekunDb": "klink",
-        "showdownMarkup": "Klink",
-        "showdownData": "klink",
         "serebii": "klink",
         "bulbapedia": "Klink",
         "homeSprite": "klink",
-        "miniSprite": "klink"
+        "miniSprite": "klink",
+        "showdown": "klink",
+        "showdownDef": "Klink",
+        "smogon": "klink"
     },
     "baseSpecies": null,
     "baseForms": [],

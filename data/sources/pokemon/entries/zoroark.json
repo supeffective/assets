@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ZOROARK",
         "veekunDb": "zoroark",
-        "showdownMarkup": "Zoroark",
-        "showdownData": "zoroark",
         "serebii": "zoroark",
         "bulbapedia": "Zoroark",
         "homeSprite": "zoroark",
-        "miniSprite": "zoroark"
+        "miniSprite": "zoroark",
+        "showdown": "zoroark",
+        "showdownDef": "Zoroark",
+        "smogon": "zoroark"
     },
     "baseSpecies": null,
     "baseForms": [],

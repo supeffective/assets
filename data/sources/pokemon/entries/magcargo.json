@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MAGCARGO",
         "veekunDb": "magcargo",
-        "showdownMarkup": "Magcargo",
-        "showdownData": "magcargo",
         "serebii": "magcargo",
         "bulbapedia": "Magcargo",
         "homeSprite": "magcargo",
-        "miniSprite": "magcargo"
+        "miniSprite": "magcargo",
+        "showdown": "magcargo",
+        "showdownDef": "Magcargo",
+        "smogon": "magcargo"
     },
     "baseSpecies": null,
     "baseForms": [],

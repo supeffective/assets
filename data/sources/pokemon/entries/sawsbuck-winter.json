@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SAWSBUCK_WINTER",
         "veekunDb": "sawsbuck-winter",
-        "showdownMarkup": "Sawsbuck-Winter",
-        "showdownData": "sawsbuckwinter",
-        "serebii": "sawsbuck-winter",
+        "serebii": "sawsbuck",
         "bulbapedia": "Sawsbuck",
         "homeSprite": "sawsbuck-winter",
-        "miniSprite": "sawsbuck-winter"
+        "miniSprite": "sawsbuck-winter",
+        "showdown": "sawsbuckwinter",
+        "showdownDef": "Sawsbuck-Winter",
+        "smogon": "sawsbuck-winter"
     },
     "baseSpecies": "sawsbuck",
     "baseForms": [],

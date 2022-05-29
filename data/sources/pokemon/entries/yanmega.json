@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "YANMEGA",
         "veekunDb": "yanmega",
-        "showdownMarkup": "Yanmega",
-        "showdownData": "yanmega",
         "serebii": "yanmega",
         "bulbapedia": "Yanmega",
         "homeSprite": "yanmega",
-        "miniSprite": "yanmega"
+        "miniSprite": "yanmega",
+        "showdown": "yanmega",
+        "showdownDef": "Yanmega",
+        "smogon": "yanmega"
     },
     "baseSpecies": null,
     "baseForms": [],

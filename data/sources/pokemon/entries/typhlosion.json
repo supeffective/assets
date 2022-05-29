@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "TYPHLOSION",
         "veekunDb": "typhlosion",
-        "showdownMarkup": "Typhlosion",
-        "showdownData": "typhlosion",
         "serebii": "typhlosion",
         "bulbapedia": "Typhlosion",
         "homeSprite": "typhlosion",
-        "miniSprite": "typhlosion"
+        "miniSprite": "typhlosion",
+        "showdown": "typhlosion",
+        "showdownDef": "Typhlosion",
+        "smogon": "typhlosion"
     },
     "baseSpecies": null,
     "baseForms": [],

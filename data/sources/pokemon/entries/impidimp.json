@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "IMPIDIMP",
         "veekunDb": "impidimp",
-        "showdownMarkup": "Impidimp",
-        "showdownData": "impidimp",
         "serebii": "impidimp",
         "bulbapedia": "Impidimp",
         "homeSprite": "impidimp",
-        "miniSprite": "impidimp"
+        "miniSprite": "impidimp",
+        "showdown": "impidimp",
+        "showdownDef": "Impidimp",
+        "smogon": "impidimp"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DRATINI",
         "veekunDb": "dratini",
-        "showdownMarkup": "Dratini",
-        "showdownData": "dratini",
         "serebii": "dratini",
         "bulbapedia": "Dratini",
         "homeSprite": "dratini",
-        "miniSprite": "dratini"
+        "miniSprite": "dratini",
+        "showdown": "dratini",
+        "showdownDef": "Dratini",
+        "smogon": "dratini"
     },
     "baseSpecies": null,
     "baseForms": [],

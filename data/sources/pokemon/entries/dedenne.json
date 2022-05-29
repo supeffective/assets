@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DEDENNE",
         "veekunDb": "dedenne",
-        "showdownMarkup": "Dedenne",
-        "showdownData": "dedenne",
         "serebii": "dedenne",
         "bulbapedia": "Dedenne",
         "homeSprite": "dedenne",
-        "miniSprite": "dedenne"
+        "miniSprite": "dedenne",
+        "showdown": "dedenne",
+        "showdownDef": "Dedenne",
+        "smogon": "dedenne"
     },
     "baseSpecies": null,
     "baseForms": [],

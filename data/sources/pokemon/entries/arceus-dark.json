@@ -74,12 +74,13 @@
     "refs": {
         "pogo": "ARCEUS_DARK",
         "veekunDb": "arceus-dark",
-        "showdownMarkup": "Arceus-Dark",
-        "showdownData": "arceusdark",
-        "serebii": "arceus-dark",
+        "serebii": "arceus",
         "bulbapedia": "Arceus",
         "homeSprite": "arceus-dark",
-        "miniSprite": "arceus-dark"
+        "miniSprite": "arceus-dark",
+        "showdown": "arceusdark",
+        "showdownDef": "Arceus-Dark",
+        "smogon": "arceus-dark"
     },
     "baseSpecies": "arceus",
     "baseForms": [

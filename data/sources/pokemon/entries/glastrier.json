@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "GLASTRIER",
         "veekunDb": "glastrier",
-        "showdownMarkup": "Glastrier",
-        "showdownData": "glastrier",
         "serebii": "glastrier",
         "bulbapedia": "Glastrier",
         "homeSprite": "glastrier",
-        "miniSprite": "glastrier"
+        "miniSprite": "glastrier",
+        "showdown": "glastrier",
+        "showdownDef": "Glastrier",
+        "smogon": "glastrier"
     },
     "baseSpecies": null,
     "baseForms": [],

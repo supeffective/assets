@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CROCONAW",
         "veekunDb": "croconaw",
-        "showdownMarkup": "Croconaw",
-        "showdownData": "croconaw",
         "serebii": "croconaw",
         "bulbapedia": "Croconaw",
         "homeSprite": "croconaw",
-        "miniSprite": "croconaw"
+        "miniSprite": "croconaw",
+        "showdown": "croconaw",
+        "showdownDef": "Croconaw",
+        "smogon": "croconaw"
     },
     "baseSpecies": null,
     "baseForms": [],

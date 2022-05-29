@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "TENTACRUEL",
         "veekunDb": "tentacruel",
-        "showdownMarkup": "Tentacruel",
-        "showdownData": "tentacruel",
         "serebii": "tentacruel",
         "bulbapedia": "Tentacruel",
         "homeSprite": "tentacruel",
-        "miniSprite": "tentacruel"
+        "miniSprite": "tentacruel",
+        "showdown": "tentacruel",
+        "showdownDef": "Tentacruel",
+        "smogon": "tentacruel"
     },
     "baseSpecies": null,
     "baseForms": [],

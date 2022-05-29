@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DELIBIRD",
         "veekunDb": "delibird",
-        "showdownMarkup": "Delibird",
-        "showdownData": "delibird",
         "serebii": "delibird",
         "bulbapedia": "Delibird",
         "homeSprite": "delibird",
-        "miniSprite": "delibird"
+        "miniSprite": "delibird",
+        "showdown": "delibird",
+        "showdownDef": "Delibird",
+        "smogon": "delibird"
     },
     "baseSpecies": null,
     "baseForms": [],

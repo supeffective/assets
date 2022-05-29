@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "GULPIN",
         "veekunDb": "gulpin",
-        "showdownMarkup": "Gulpin",
-        "showdownData": "gulpin",
         "serebii": "gulpin",
         "bulbapedia": "Gulpin",
         "homeSprite": "gulpin",
-        "miniSprite": "gulpin"
+        "miniSprite": "gulpin",
+        "showdown": "gulpin",
+        "showdownDef": "Gulpin",
+        "smogon": "gulpin"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "OCTILLERY_F",
         "veekunDb": "octillery-f",
-        "showdownMarkup": "Octillery-F",
-        "showdownData": "octilleryf",
-        "serebii": "octillery-f",
+        "serebii": "octillery",
         "bulbapedia": "Octillery",
         "homeSprite": "octillery-f",
-        "miniSprite": "octillery-f"
+        "miniSprite": "octillery-f",
+        "showdown": "octilleryf",
+        "showdownDef": "Octillery-F",
+        "smogon": "octillery-f"
     },
     "baseSpecies": "octillery",
     "baseForms": [],

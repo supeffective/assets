@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "STUFFUL",
         "veekunDb": "stufful",
-        "showdownMarkup": "Stufful",
-        "showdownData": "stufful",
         "serebii": "stufful",
         "bulbapedia": "Stufful",
         "homeSprite": "stufful",
-        "miniSprite": "stufful"
+        "miniSprite": "stufful",
+        "showdown": "stufful",
+        "showdownDef": "Stufful",
+        "smogon": "stufful"
     },
     "baseSpecies": null,
     "baseForms": [],

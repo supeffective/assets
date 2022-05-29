@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "FLAAFFY",
         "veekunDb": "flaaffy",
-        "showdownMarkup": "Flaaffy",
-        "showdownData": "flaaffy",
         "serebii": "flaaffy",
         "bulbapedia": "Flaaffy",
         "homeSprite": "flaaffy",
-        "miniSprite": "flaaffy"
+        "miniSprite": "flaaffy",
+        "showdown": "flaaffy",
+        "showdownDef": "Flaaffy",
+        "smogon": "flaaffy"
     },
     "baseSpecies": null,
     "baseForms": [],

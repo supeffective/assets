@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "MRMIME",
         "veekunDb": "mrmime",
-        "showdownMarkup": "Mrmime",
-        "showdownData": "mrmime",
         "serebii": "mrmime",
         "bulbapedia": "Mr. Mime",
         "homeSprite": "mrmime",
-        "miniSprite": "mrmime"
+        "miniSprite": "mrmime",
+        "showdown": "mrmime",
+        "showdownDef": "Mrmime",
+        "smogon": "mrmime"
     },
     "baseSpecies": null,
     "baseForms": [],

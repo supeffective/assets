@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ARIADOS",
         "veekunDb": "ariados",
-        "showdownMarkup": "Ariados",
-        "showdownData": "ariados",
         "serebii": "ariados",
         "bulbapedia": "Ariados",
         "homeSprite": "ariados",
-        "miniSprite": "ariados"
+        "miniSprite": "ariados",
+        "showdown": "ariados",
+        "showdownDef": "Ariados",
+        "smogon": "ariados"
     },
     "baseSpecies": null,
     "baseForms": [],

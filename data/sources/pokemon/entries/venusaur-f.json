@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VENUSAUR_F",
         "veekunDb": "venusaur-f",
-        "showdownMarkup": "Venusaur-F",
-        "showdownData": "venusaurf",
-        "serebii": "venusaur-f",
+        "serebii": "venusaur",
         "bulbapedia": "Venusaur",
         "homeSprite": "venusaur-f",
-        "miniSprite": "venusaur-f"
+        "miniSprite": "venusaur-f",
+        "showdown": "venusaurf",
+        "showdownDef": "Venusaur-F",
+        "smogon": "venusaur-f"
     },
     "baseSpecies": "venusaur",
     "baseForms": [],

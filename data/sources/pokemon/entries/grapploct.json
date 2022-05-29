@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "GRAPPLOCT",
         "veekunDb": "grapploct",
-        "showdownMarkup": "Grapploct",
-        "showdownData": "grapploct",
         "serebii": "grapploct",
         "bulbapedia": "Grapploct",
         "homeSprite": "grapploct",
-        "miniSprite": "grapploct"
+        "miniSprite": "grapploct",
+        "showdown": "grapploct",
+        "showdownDef": "Grapploct",
+        "smogon": "grapploct"
     },
     "baseSpecies": null,
     "baseForms": [],

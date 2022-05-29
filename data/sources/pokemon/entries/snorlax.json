@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "SNORLAX",
         "veekunDb": "snorlax",
-        "showdownMarkup": "Snorlax",
-        "showdownData": "snorlax",
         "serebii": "snorlax",
         "bulbapedia": "Snorlax",
         "homeSprite": "snorlax",
-        "miniSprite": "snorlax"
+        "miniSprite": "snorlax",
+        "showdown": "snorlax",
+        "showdownDef": "Snorlax",
+        "smogon": "snorlax"
     },
     "baseSpecies": null,
     "baseForms": [],

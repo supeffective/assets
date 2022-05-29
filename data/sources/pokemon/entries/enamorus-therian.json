@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "ENAMORUS_THERIAN",
         "veekunDb": "enamorus-therian",
-        "showdownMarkup": "Enamorus-Therian",
-        "showdownData": "enamorustherian",
         "serebii": "enamorus",
         "bulbapedia": "Enamorus",
         "homeSprite": "enamorus-therian",
-        "miniSprite": "enamorus-therian"
+        "miniSprite": "enamorus-therian",
+        "showdown": "enamorustherian",
+        "showdownDef": "Enamorus-Therian",
+        "smogon": "enamorus-therian"
     },
     "baseSpecies": "enamorus",
     "baseForms": [],

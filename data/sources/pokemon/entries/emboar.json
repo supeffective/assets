@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "EMBOAR",
         "veekunDb": "emboar",
-        "showdownMarkup": "Emboar",
-        "showdownData": "emboar",
         "serebii": "emboar",
         "bulbapedia": "Emboar",
         "homeSprite": "emboar",
-        "miniSprite": "emboar"
+        "miniSprite": "emboar",
+        "showdown": "emboar",
+        "showdownDef": "Emboar",
+        "smogon": "emboar"
     },
     "baseSpecies": null,
     "baseForms": [],

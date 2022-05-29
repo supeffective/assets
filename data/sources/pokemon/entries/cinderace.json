@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CINDERACE",
         "veekunDb": "cinderace",
-        "showdownMarkup": "Cinderace",
-        "showdownData": "cinderace",
         "serebii": "cinderace",
         "bulbapedia": "Cinderace",
         "homeSprite": "cinderace",
-        "miniSprite": "cinderace"
+        "miniSprite": "cinderace",
+        "showdown": "cinderace",
+        "showdownDef": "Cinderace",
+        "smogon": "cinderace"
     },
     "baseSpecies": null,
     "baseForms": [],

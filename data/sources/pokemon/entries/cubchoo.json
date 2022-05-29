@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CUBCHOO",
         "veekunDb": "cubchoo",
-        "showdownMarkup": "Cubchoo",
-        "showdownData": "cubchoo",
         "serebii": "cubchoo",
         "bulbapedia": "Cubchoo",
         "homeSprite": "cubchoo",
-        "miniSprite": "cubchoo"
+        "miniSprite": "cubchoo",
+        "showdown": "cubchoo",
+        "showdownDef": "Cubchoo",
+        "smogon": "cubchoo"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CHARIZARD",
         "veekunDb": "charizard",
-        "showdownMarkup": "Charizard",
-        "showdownData": "charizard",
         "serebii": "charizard",
         "bulbapedia": "Charizard",
         "homeSprite": "charizard",
-        "miniSprite": "charizard"
+        "miniSprite": "charizard",
+        "showdown": "charizard",
+        "showdownDef": "Charizard",
+        "smogon": "charizard"
     },
     "baseSpecies": null,
     "baseForms": [],

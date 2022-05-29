@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "TRUBBISH",
         "veekunDb": "trubbish",
-        "showdownMarkup": "Trubbish",
-        "showdownData": "trubbish",
         "serebii": "trubbish",
         "bulbapedia": "Trubbish",
         "homeSprite": "trubbish",
-        "miniSprite": "trubbish"
+        "miniSprite": "trubbish",
+        "showdown": "trubbish",
+        "showdownDef": "Trubbish",
+        "smogon": "trubbish"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "SILVALLY_ICE",
         "veekunDb": "silvally-ice",
-        "showdownMarkup": "Silvally-Ice",
-        "showdownData": "silvallyice",
-        "serebii": "silvally-ice",
+        "serebii": "silvally",
         "bulbapedia": "Silvally",
         "homeSprite": "silvally-ice",
-        "miniSprite": "silvally-ice"
+        "miniSprite": "silvally-ice",
+        "showdown": "silvallyice",
+        "showdownDef": "Silvally-Ice",
+        "smogon": "silvally-ice"
     },
     "baseSpecies": "silvally",
     "baseForms": [

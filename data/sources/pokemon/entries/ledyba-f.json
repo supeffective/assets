@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "LEDYBA_F",
         "veekunDb": "ledyba-f",
-        "showdownMarkup": "Ledyba-F",
-        "showdownData": "ledybaf",
-        "serebii": "ledyba-f",
+        "serebii": "ledyba",
         "bulbapedia": "Ledyba",
         "homeSprite": "ledyba-f",
-        "miniSprite": "ledyba-f"
+        "miniSprite": "ledyba-f",
+        "showdown": "ledybaf",
+        "showdownDef": "Ledyba-F",
+        "smogon": "ledyba-f"
     },
     "baseSpecies": "ledyba",
     "baseForms": [],

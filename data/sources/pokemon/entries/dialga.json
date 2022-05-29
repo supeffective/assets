@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "DIALGA",
         "veekunDb": "dialga",
-        "showdownMarkup": "Dialga",
-        "showdownData": "dialga",
         "serebii": "dialga",
         "bulbapedia": "Dialga",
         "homeSprite": "dialga",
-        "miniSprite": "dialga"
+        "miniSprite": "dialga",
+        "showdown": "dialga",
+        "showdownDef": "Dialga",
+        "smogon": "dialga"
     },
     "baseSpecies": null,
     "baseForms": [],

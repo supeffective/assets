@@ -75,12 +75,13 @@
     "refs": {
         "pogo": null,
         "veekunDb": null,
-        "showdownMarkup": null,
-        "showdownData": null,
-        "serebii": null,
+        "serebii": "qwilfish",
         "bulbapedia": null,
         "homeSprite": "qwilfish-hisui",
-        "miniSprite": "qwilfish-hisui"
+        "miniSprite": "qwilfish-hisui",
+        "showdown": null,
+        "showdownDef": null,
+        "smogon": "qwilfish-hisui"
     },
     "baseSpecies": "qwilfish",
     "baseForms": [],

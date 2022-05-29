@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MINIOR_RED",
         "veekunDb": "minior-red",
-        "showdownMarkup": "Minior-Red",
-        "showdownData": "miniorred",
-        "serebii": "minior-red",
+        "serebii": "minior",
         "bulbapedia": "Minior",
         "homeSprite": "minior-red",
-        "miniSprite": "minior-red"
+        "miniSprite": "minior-red",
+        "showdown": "miniorred",
+        "showdownDef": "Minior-Red",
+        "smogon": "minior-red"
     },
     "baseSpecies": "minior",
     "baseForms": [

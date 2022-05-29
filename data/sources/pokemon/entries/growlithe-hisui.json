@@ -75,12 +75,13 @@
     "refs": {
         "pogo": null,
         "veekunDb": null,
-        "showdownMarkup": null,
-        "showdownData": null,
-        "serebii": null,
+        "serebii": "growlithe",
         "bulbapedia": null,
         "homeSprite": "growlithe-hisui",
-        "miniSprite": "growlithe-hisui"
+        "miniSprite": "growlithe-hisui",
+        "showdown": null,
+        "showdownDef": null,
+        "smogon": "growlithe-hisui"
     },
     "baseSpecies": "growlithe",
     "baseForms": [],

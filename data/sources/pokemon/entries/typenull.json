@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "TYPENULL",
         "veekunDb": "typenull",
-        "showdownMarkup": "Typenull",
-        "showdownData": "typenull",
         "serebii": "typenull",
         "bulbapedia": "Type: Null",
         "homeSprite": "typenull",
-        "miniSprite": "typenull"
+        "miniSprite": "typenull",
+        "showdown": "typenull",
+        "showdownDef": "Typenull",
+        "smogon": "typenull"
     },
     "baseSpecies": null,
     "baseForms": [],

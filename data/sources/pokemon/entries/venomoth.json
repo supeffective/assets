@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VENOMOTH",
         "veekunDb": "venomoth",
-        "showdownMarkup": "Venomoth",
-        "showdownData": "venomoth",
         "serebii": "venomoth",
         "bulbapedia": "Venomoth",
         "homeSprite": "venomoth",
-        "miniSprite": "venomoth"
+        "miniSprite": "venomoth",
+        "showdown": "venomoth",
+        "showdownDef": "Venomoth",
+        "smogon": "venomoth"
     },
     "baseSpecies": null,
     "baseForms": [],

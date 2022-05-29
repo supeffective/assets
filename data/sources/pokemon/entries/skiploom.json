@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SKIPLOOM",
         "veekunDb": "skiploom",
-        "showdownMarkup": "Skiploom",
-        "showdownData": "skiploom",
         "serebii": "skiploom",
         "bulbapedia": "Skiploom",
         "homeSprite": "skiploom",
-        "miniSprite": "skiploom"
+        "miniSprite": "skiploom",
+        "showdown": "skiploom",
+        "showdownDef": "Skiploom",
+        "smogon": "skiploom"
     },
     "baseSpecies": null,
     "baseForms": [],

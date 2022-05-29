@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VIGOROTH",
         "veekunDb": "vigoroth",
-        "showdownMarkup": "Vigoroth",
-        "showdownData": "vigoroth",
         "serebii": "vigoroth",
         "bulbapedia": "Vigoroth",
         "homeSprite": "vigoroth",
-        "miniSprite": "vigoroth"
+        "miniSprite": "vigoroth",
+        "showdown": "vigoroth",
+        "showdownDef": "Vigoroth",
+        "smogon": "vigoroth"
     },
     "baseSpecies": null,
     "baseForms": [],

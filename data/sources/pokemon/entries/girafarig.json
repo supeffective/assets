@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "GIRAFARIG",
         "veekunDb": "girafarig",
-        "showdownMarkup": "Girafarig",
-        "showdownData": "girafarig",
         "serebii": "girafarig",
         "bulbapedia": "Girafarig",
         "homeSprite": "girafarig",
-        "miniSprite": "girafarig"
+        "miniSprite": "girafarig",
+        "showdown": "girafarig",
+        "showdownDef": "Girafarig",
+        "smogon": "girafarig"
     },
     "baseSpecies": null,
     "baseForms": [],

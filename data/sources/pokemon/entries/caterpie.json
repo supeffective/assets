@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CATERPIE",
         "veekunDb": "caterpie",
-        "showdownMarkup": "Caterpie",
-        "showdownData": "caterpie",
         "serebii": "caterpie",
         "bulbapedia": "Caterpie",
         "homeSprite": "caterpie",
-        "miniSprite": "caterpie"
+        "miniSprite": "caterpie",
+        "showdown": "caterpie",
+        "showdownDef": "Caterpie",
+        "smogon": "caterpie"
     },
     "baseSpecies": null,
     "baseForms": [],

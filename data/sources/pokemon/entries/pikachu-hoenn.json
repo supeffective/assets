@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "PIKACHU_HOENN",
         "veekunDb": "pikachu-hoenn",
-        "showdownMarkup": "Pikachu-Hoenn",
-        "showdownData": "pikachuhoenn",
-        "serebii": "pikachu-hoenn",
+        "serebii": "pikachu",
         "bulbapedia": "Pikachu",
         "homeSprite": "pikachu-hoenn",
-        "miniSprite": "pikachu-hoenn"
+        "miniSprite": "pikachu-hoenn",
+        "showdown": "pikachuhoenn",
+        "showdownDef": "Pikachu-Hoenn",
+        "smogon": "pikachu-hoenn"
     },
     "baseSpecies": "pikachu",
     "baseForms": [],

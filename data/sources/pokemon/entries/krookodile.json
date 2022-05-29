@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "KROOKODILE",
         "veekunDb": "krookodile",
-        "showdownMarkup": "Krookodile",
-        "showdownData": "krookodile",
         "serebii": "krookodile",
         "bulbapedia": "Krookodile",
         "homeSprite": "krookodile",
-        "miniSprite": "krookodile"
+        "miniSprite": "krookodile",
+        "showdown": "krookodile",
+        "showdownDef": "Krookodile",
+        "smogon": "krookodile"
     },
     "baseSpecies": null,
     "baseForms": [],

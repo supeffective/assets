@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "NECROZMA_DAWN_WINGS",
         "veekunDb": "necrozma-dawn-wings",
-        "showdownMarkup": "Necrozma-Dawn-Wings",
-        "showdownData": "necrozmadawnwings",
-        "serebii": "necrozma-dawn-wings",
+        "serebii": "necrozma",
         "bulbapedia": "Necrozma",
         "homeSprite": "necrozma-dawn-wings",
-        "miniSprite": "necrozma-dawn-wings"
+        "miniSprite": "necrozma-dawn-wings",
+        "showdown": "necrozmadawnwings",
+        "showdownDef": "Necrozma-Dawn-Wings",
+        "smogon": "necrozma-dawn-wings"
     },
     "baseSpecies": "necrozma",
     "baseForms": [

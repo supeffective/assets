@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "BRAIXEN",
         "veekunDb": "braixen",
-        "showdownMarkup": "Braixen",
-        "showdownData": "braixen",
         "serebii": "braixen",
         "bulbapedia": "Braixen",
         "homeSprite": "braixen",
-        "miniSprite": "braixen"
+        "miniSprite": "braixen",
+        "showdown": "braixen",
+        "showdownDef": "Braixen",
+        "smogon": "braixen"
     },
     "baseSpecies": null,
     "baseForms": [],

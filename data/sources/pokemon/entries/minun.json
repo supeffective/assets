@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MINUN",
         "veekunDb": "minun",
-        "showdownMarkup": "Minun",
-        "showdownData": "minun",
         "serebii": "minun",
         "bulbapedia": "Minun",
         "homeSprite": "minun",
-        "miniSprite": "minun"
+        "miniSprite": "minun",
+        "showdown": "minun",
+        "showdownDef": "Minun",
+        "smogon": "minun"
     },
     "baseSpecies": null,
     "baseForms": [],

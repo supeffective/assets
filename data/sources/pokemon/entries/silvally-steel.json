@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "SILVALLY_STEEL",
         "veekunDb": "silvally-steel",
-        "showdownMarkup": "Silvally-Steel",
-        "showdownData": "silvallysteel",
-        "serebii": "silvally-steel",
+        "serebii": "silvally",
         "bulbapedia": "Silvally",
         "homeSprite": "silvally-steel",
-        "miniSprite": "silvally-steel"
+        "miniSprite": "silvally-steel",
+        "showdown": "silvallysteel",
+        "showdownDef": "Silvally-Steel",
+        "smogon": "silvally-steel"
     },
     "baseSpecies": "silvally",
     "baseForms": [

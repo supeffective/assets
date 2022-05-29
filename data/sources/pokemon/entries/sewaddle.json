@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SEWADDLE",
         "veekunDb": "sewaddle",
-        "showdownMarkup": "Sewaddle",
-        "showdownData": "sewaddle",
         "serebii": "sewaddle",
         "bulbapedia": "Sewaddle",
         "homeSprite": "sewaddle",
-        "miniSprite": "sewaddle"
+        "miniSprite": "sewaddle",
+        "showdown": "sewaddle",
+        "showdownDef": "Sewaddle",
+        "smogon": "sewaddle"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DRIZZILE",
         "veekunDb": "drizzile",
-        "showdownMarkup": "Drizzile",
-        "showdownData": "drizzile",
         "serebii": "drizzile",
         "bulbapedia": "Drizzile",
         "homeSprite": "drizzile",
-        "miniSprite": "drizzile"
+        "miniSprite": "drizzile",
+        "showdown": "drizzile",
+        "showdownDef": "Drizzile",
+        "smogon": "drizzile"
     },
     "baseSpecies": null,
     "baseForms": [],

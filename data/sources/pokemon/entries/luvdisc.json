@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "LUVDISC",
         "veekunDb": "luvdisc",
-        "showdownMarkup": "Luvdisc",
-        "showdownData": "luvdisc",
         "serebii": "luvdisc",
         "bulbapedia": "Luvdisc",
         "homeSprite": "luvdisc",
-        "miniSprite": "luvdisc"
+        "miniSprite": "luvdisc",
+        "showdown": "luvdisc",
+        "showdownDef": "Luvdisc",
+        "smogon": "luvdisc"
     },
     "baseSpecies": null,
     "baseForms": [],

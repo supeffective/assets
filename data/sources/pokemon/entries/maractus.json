@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MARACTUS",
         "veekunDb": "maractus",
-        "showdownMarkup": "Maractus",
-        "showdownData": "maractus",
         "serebii": "maractus",
         "bulbapedia": "Maractus",
         "homeSprite": "maractus",
-        "miniSprite": "maractus"
+        "miniSprite": "maractus",
+        "showdown": "maractus",
+        "showdownDef": "Maractus",
+        "smogon": "maractus"
     },
     "baseSpecies": null,
     "baseForms": [],

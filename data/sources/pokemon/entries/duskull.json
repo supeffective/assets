@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "DUSKULL",
         "veekunDb": "duskull",
-        "showdownMarkup": "Duskull",
-        "showdownData": "duskull",
         "serebii": "duskull",
         "bulbapedia": "Duskull",
         "homeSprite": "duskull",
-        "miniSprite": "duskull"
+        "miniSprite": "duskull",
+        "showdown": "duskull",
+        "showdownDef": "Duskull",
+        "smogon": "duskull"
     },
     "baseSpecies": null,
     "baseForms": [],

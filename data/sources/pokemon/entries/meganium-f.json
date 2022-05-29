@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MEGANIUM_F",
         "veekunDb": "meganium-f",
-        "showdownMarkup": "Meganium-F",
-        "showdownData": "meganiumf",
-        "serebii": "meganium-f",
+        "serebii": "meganium",
         "bulbapedia": "Meganium",
         "homeSprite": "meganium-f",
-        "miniSprite": "meganium-f"
+        "miniSprite": "meganium-f",
+        "showdown": "meganiumf",
+        "showdownDef": "Meganium-F",
+        "smogon": "meganium-f"
     },
     "baseSpecies": "meganium",
     "baseForms": [],

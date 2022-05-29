@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "KLEAVOR",
         "veekunDb": "kleavor",
-        "showdownMarkup": "Kleavor",
-        "showdownData": "kleavor",
         "serebii": "kleavor",
         "bulbapedia": "Kleavor",
         "homeSprite": "kleavor",
-        "miniSprite": "kleavor"
+        "miniSprite": "kleavor",
+        "showdown": "kleavor",
+        "showdownDef": "Kleavor",
+        "smogon": "kleavor"
     },
     "baseSpecies": null,
     "baseForms": [],

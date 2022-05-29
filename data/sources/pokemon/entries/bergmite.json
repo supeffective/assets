@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "BERGMITE",
         "veekunDb": "bergmite",
-        "showdownMarkup": "Bergmite",
-        "showdownData": "bergmite",
         "serebii": "bergmite",
         "bulbapedia": "Bergmite",
         "homeSprite": "bergmite",
-        "miniSprite": "bergmite"
+        "miniSprite": "bergmite",
+        "showdown": "bergmite",
+        "showdownDef": "Bergmite",
+        "smogon": "bergmite"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "FLETCHLING",
         "veekunDb": "fletchling",
-        "showdownMarkup": "Fletchling",
-        "showdownData": "fletchling",
         "serebii": "fletchling",
         "bulbapedia": "Fletchling",
         "homeSprite": "fletchling",
-        "miniSprite": "fletchling"
+        "miniSprite": "fletchling",
+        "showdown": "fletchling",
+        "showdownDef": "Fletchling",
+        "smogon": "fletchling"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "BLISSEY",
         "veekunDb": "blissey",
-        "showdownMarkup": "Blissey",
-        "showdownData": "blissey",
         "serebii": "blissey",
         "bulbapedia": "Blissey",
         "homeSprite": "blissey",
-        "miniSprite": "blissey"
+        "miniSprite": "blissey",
+        "showdown": "blissey",
+        "showdownDef": "Blissey",
+        "smogon": "blissey"
     },
     "baseSpecies": null,
     "baseForms": [],

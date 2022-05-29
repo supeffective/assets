@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "PALOSSAND",
         "veekunDb": "palossand",
-        "showdownMarkup": "Palossand",
-        "showdownData": "palossand",
         "serebii": "palossand",
         "bulbapedia": "Palossand",
         "homeSprite": "palossand",
-        "miniSprite": "palossand"
+        "miniSprite": "palossand",
+        "showdown": "palossand",
+        "showdownDef": "Palossand",
+        "smogon": "palossand"
     },
     "baseSpecies": null,
     "baseForms": [],

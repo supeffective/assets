@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DRAMPA",
         "veekunDb": "drampa",
-        "showdownMarkup": "Drampa",
-        "showdownData": "drampa",
         "serebii": "drampa",
         "bulbapedia": "Drampa",
         "homeSprite": "drampa",
-        "miniSprite": "drampa"
+        "miniSprite": "drampa",
+        "showdown": "drampa",
+        "showdownDef": "Drampa",
+        "smogon": "drampa"
     },
     "baseSpecies": null,
     "baseForms": [],

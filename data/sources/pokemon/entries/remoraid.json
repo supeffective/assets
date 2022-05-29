@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "REMORAID",
         "veekunDb": "remoraid",
-        "showdownMarkup": "Remoraid",
-        "showdownData": "remoraid",
         "serebii": "remoraid",
         "bulbapedia": "Remoraid",
         "homeSprite": "remoraid",
-        "miniSprite": "remoraid"
+        "miniSprite": "remoraid",
+        "showdown": "remoraid",
+        "showdownDef": "Remoraid",
+        "smogon": "remoraid"
     },
     "baseSpecies": null,
     "baseForms": [],

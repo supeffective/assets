@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "GABITE_F",
         "veekunDb": "gabite-f",
-        "showdownMarkup": "Gabite-F",
-        "showdownData": "gabitef",
-        "serebii": "gabite-f",
+        "serebii": "gabite",
         "bulbapedia": "Gabite",
         "homeSprite": "gabite-f",
-        "miniSprite": "gabite-f"
+        "miniSprite": "gabite-f",
+        "showdown": "gabitef",
+        "showdownDef": "Gabite-F",
+        "smogon": "gabite-f"
     },
     "baseSpecies": "gabite",
     "baseForms": [],

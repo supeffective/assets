@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "INTELEON",
         "veekunDb": "inteleon",
-        "showdownMarkup": "Inteleon",
-        "showdownData": "inteleon",
         "serebii": "inteleon",
         "bulbapedia": "Inteleon",
         "homeSprite": "inteleon",
-        "miniSprite": "inteleon"
+        "miniSprite": "inteleon",
+        "showdown": "inteleon",
+        "showdownDef": "Inteleon",
+        "smogon": "inteleon"
     },
     "baseSpecies": null,
     "baseForms": [],

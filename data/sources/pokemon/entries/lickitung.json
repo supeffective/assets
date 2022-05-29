@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "LICKITUNG",
         "veekunDb": "lickitung",
-        "showdownMarkup": "Lickitung",
-        "showdownData": "lickitung",
         "serebii": "lickitung",
         "bulbapedia": "Lickitung",
         "homeSprite": "lickitung",
-        "miniSprite": "lickitung"
+        "miniSprite": "lickitung",
+        "showdown": "lickitung",
+        "showdownDef": "Lickitung",
+        "smogon": "lickitung"
     },
     "baseSpecies": null,
     "baseForms": [],

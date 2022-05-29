@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "KRABBY",
         "veekunDb": "krabby",
-        "showdownMarkup": "Krabby",
-        "showdownData": "krabby",
         "serebii": "krabby",
         "bulbapedia": "Krabby",
         "homeSprite": "krabby",
-        "miniSprite": "krabby"
+        "miniSprite": "krabby",
+        "showdown": "krabby",
+        "showdownDef": "Krabby",
+        "smogon": "krabby"
     },
     "baseSpecies": null,
     "baseForms": [],

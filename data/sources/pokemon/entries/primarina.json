@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "PRIMARINA",
         "veekunDb": "primarina",
-        "showdownMarkup": "Primarina",
-        "showdownData": "primarina",
         "serebii": "primarina",
         "bulbapedia": "Primarina",
         "homeSprite": "primarina",
-        "miniSprite": "primarina"
+        "miniSprite": "primarina",
+        "showdown": "primarina",
+        "showdownDef": "Primarina",
+        "smogon": "primarina"
     },
     "baseSpecies": null,
     "baseForms": [],

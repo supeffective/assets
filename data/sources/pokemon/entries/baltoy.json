@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "BALTOY",
         "veekunDb": "baltoy",
-        "showdownMarkup": "Baltoy",
-        "showdownData": "baltoy",
         "serebii": "baltoy",
         "bulbapedia": "Baltoy",
         "homeSprite": "baltoy",
-        "miniSprite": "baltoy"
+        "miniSprite": "baltoy",
+        "showdown": "baltoy",
+        "showdownDef": "Baltoy",
+        "smogon": "baltoy"
     },
     "baseSpecies": null,
     "baseForms": [],

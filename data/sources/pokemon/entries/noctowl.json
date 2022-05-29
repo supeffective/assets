@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "NOCTOWL",
         "veekunDb": "noctowl",
-        "showdownMarkup": "Noctowl",
-        "showdownData": "noctowl",
         "serebii": "noctowl",
         "bulbapedia": "Noctowl",
         "homeSprite": "noctowl",
-        "miniSprite": "noctowl"
+        "miniSprite": "noctowl",
+        "showdown": "noctowl",
+        "showdownDef": "Noctowl",
+        "smogon": "noctowl"
     },
     "baseSpecies": null,
     "baseForms": [],

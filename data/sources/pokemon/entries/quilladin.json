@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "QUILLADIN",
         "veekunDb": "quilladin",
-        "showdownMarkup": "Quilladin",
-        "showdownData": "quilladin",
         "serebii": "quilladin",
         "bulbapedia": "Quilladin",
         "homeSprite": "quilladin",
-        "miniSprite": "quilladin"
+        "miniSprite": "quilladin",
+        "showdown": "quilladin",
+        "showdownDef": "Quilladin",
+        "smogon": "quilladin"
     },
     "baseSpecies": null,
     "baseForms": [],

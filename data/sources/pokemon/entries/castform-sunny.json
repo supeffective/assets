@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "CASTFORM_SUNNY",
         "veekunDb": "castform-sunny",
-        "showdownMarkup": "Castform-Sunny",
-        "showdownData": "castformsunny",
-        "serebii": "castform-sunny",
+        "serebii": "castform",
         "bulbapedia": "Castform",
         "homeSprite": "castform-sunny",
-        "miniSprite": "castform-sunny"
+        "miniSprite": "castform-sunny",
+        "showdown": "castformsunny",
+        "showdownDef": "Castform-Sunny",
+        "smogon": "castform-sunny"
     },
     "baseSpecies": "castform",
     "baseForms": [

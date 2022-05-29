@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "SILVALLY_FAIRY",
         "veekunDb": "silvally-fairy",
-        "showdownMarkup": "Silvally-Fairy",
-        "showdownData": "silvallyfairy",
-        "serebii": "silvally-fairy",
+        "serebii": "silvally",
         "bulbapedia": "Silvally",
         "homeSprite": "silvally-fairy",
-        "miniSprite": "silvally-fairy"
+        "miniSprite": "silvally-fairy",
+        "showdown": "silvallyfairy",
+        "showdownDef": "Silvally-Fairy",
+        "smogon": "silvally-fairy"
     },
     "baseSpecies": "silvally",
     "baseForms": [

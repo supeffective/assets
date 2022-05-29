@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "PHIONE",
         "veekunDb": "phione",
-        "showdownMarkup": "Phione",
-        "showdownData": "phione",
         "serebii": "phione",
         "bulbapedia": "Phione",
         "homeSprite": "phione",
-        "miniSprite": "phione"
+        "miniSprite": "phione",
+        "showdown": "phione",
+        "showdownDef": "Phione",
+        "smogon": "phione"
     },
     "baseSpecies": null,
     "baseForms": [],

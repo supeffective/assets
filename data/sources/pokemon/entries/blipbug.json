@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "BLIPBUG",
         "veekunDb": "blipbug",
-        "showdownMarkup": "Blipbug",
-        "showdownData": "blipbug",
         "serebii": "blipbug",
         "bulbapedia": "Blipbug",
         "homeSprite": "blipbug",
-        "miniSprite": "blipbug"
+        "miniSprite": "blipbug",
+        "showdown": "blipbug",
+        "showdownDef": "Blipbug",
+        "smogon": "blipbug"
     },
     "baseSpecies": null,
     "baseForms": [],

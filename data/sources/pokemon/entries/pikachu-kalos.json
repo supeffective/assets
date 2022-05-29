@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "PIKACHU_KALOS",
         "veekunDb": "pikachu-kalos",
-        "showdownMarkup": "Pikachu-Kalos",
-        "showdownData": "pikachukalos",
-        "serebii": "pikachu-kalos",
+        "serebii": "pikachu",
         "bulbapedia": "Pikachu",
         "homeSprite": "pikachu-kalos",
-        "miniSprite": "pikachu-kalos"
+        "miniSprite": "pikachu-kalos",
+        "showdown": "pikachukalos",
+        "showdownDef": "Pikachu-Kalos",
+        "smogon": "pikachu-kalos"
     },
     "baseSpecies": "pikachu",
     "baseForms": [],

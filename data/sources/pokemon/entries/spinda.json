@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SPINDA",
         "veekunDb": "spinda",
-        "showdownMarkup": "Spinda",
-        "showdownData": "spinda",
         "serebii": "spinda",
         "bulbapedia": "Spinda",
         "homeSprite": "spinda",
-        "miniSprite": "spinda"
+        "miniSprite": "spinda",
+        "showdown": "spinda",
+        "showdownDef": "Spinda",
+        "smogon": "spinda"
     },
     "baseSpecies": null,
     "baseForms": [],

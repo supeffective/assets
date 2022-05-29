@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "LATIAS",
         "veekunDb": "latias",
-        "showdownMarkup": "Latias",
-        "showdownData": "latias",
         "serebii": "latias",
         "bulbapedia": "Latias",
         "homeSprite": "latias",
-        "miniSprite": "latias"
+        "miniSprite": "latias",
+        "showdown": "latias",
+        "showdownDef": "Latias",
+        "smogon": "latias"
     },
     "baseSpecies": null,
     "baseForms": [],

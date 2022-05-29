@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "HATENNA",
         "veekunDb": "hatenna",
-        "showdownMarkup": "Hatenna",
-        "showdownData": "hatenna",
         "serebii": "hatenna",
         "bulbapedia": "Hatenna",
         "homeSprite": "hatenna",
-        "miniSprite": "hatenna"
+        "miniSprite": "hatenna",
+        "showdown": "hatenna",
+        "showdownDef": "Hatenna",
+        "smogon": "hatenna"
     },
     "baseSpecies": null,
     "baseForms": [],

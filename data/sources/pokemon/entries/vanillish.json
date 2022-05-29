@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VANILLISH",
         "veekunDb": "vanillish",
-        "showdownMarkup": "Vanillish",
-        "showdownData": "vanillish",
         "serebii": "vanillish",
         "bulbapedia": "Vanillish",
         "homeSprite": "vanillish",
-        "miniSprite": "vanillish"
+        "miniSprite": "vanillish",
+        "showdown": "vanillish",
+        "showdownDef": "Vanillish",
+        "smogon": "vanillish"
     },
     "baseSpecies": null,
     "baseForms": [],

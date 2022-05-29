@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "LEAVANNY",
         "veekunDb": "leavanny",
-        "showdownMarkup": "Leavanny",
-        "showdownData": "leavanny",
         "serebii": "leavanny",
         "bulbapedia": "Leavanny",
         "homeSprite": "leavanny",
-        "miniSprite": "leavanny"
+        "miniSprite": "leavanny",
+        "showdown": "leavanny",
+        "showdownDef": "Leavanny",
+        "smogon": "leavanny"
     },
     "baseSpecies": null,
     "baseForms": [],

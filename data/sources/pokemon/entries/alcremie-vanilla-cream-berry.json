@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ALCREMIE_VANILLA_CREAM_BERRY",
         "veekunDb": "alcremie-vanilla-cream-berry",
-        "showdownMarkup": "Alcremie-Vanilla-Cream-Berry",
-        "showdownData": "alcremievanillacreamberry",
-        "serebii": "alcremie-vanilla-cream-berry",
+        "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "alcremie-vanilla-cream-berry",
-        "miniSprite": "alcremie-vanilla-cream-berry"
+        "miniSprite": "alcremie-vanilla-cream-berry",
+        "showdown": "alcremievanillacreamberry",
+        "showdownDef": "Alcremie-Vanilla-Cream-Berry",
+        "smogon": "alcremie-vanilla-cream-berry"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

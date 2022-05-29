@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MINIOR_ORANGE",
         "veekunDb": "minior-orange",
-        "showdownMarkup": "Minior-Orange",
-        "showdownData": "miniororange",
-        "serebii": "minior-orange",
+        "serebii": "minior",
         "bulbapedia": "Minior",
         "homeSprite": "minior-orange",
-        "miniSprite": "minior-orange"
+        "miniSprite": "minior-orange",
+        "showdown": "miniororange",
+        "showdownDef": "Minior-Orange",
+        "smogon": "minior-orange"
     },
     "baseSpecies": "minior",
     "baseForms": [

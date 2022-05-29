@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "BINACLE",
         "veekunDb": "binacle",
-        "showdownMarkup": "Binacle",
-        "showdownData": "binacle",
         "serebii": "binacle",
         "bulbapedia": "Binacle",
         "homeSprite": "binacle",
-        "miniSprite": "binacle"
+        "miniSprite": "binacle",
+        "showdown": "binacle",
+        "showdownDef": "Binacle",
+        "smogon": "binacle"
     },
     "baseSpecies": null,
     "baseForms": [],

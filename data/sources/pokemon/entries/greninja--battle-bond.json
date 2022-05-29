@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "GRENINJA_BATTLE_BOND",
         "veekunDb": "greninja-battle-bond",
-        "showdownMarkup": "Greninja-Battle-Bond",
-        "showdownData": "greninjabattlebond",
-        "serebii": "greninja-battle-bond",
+        "serebii": "greninja",
         "bulbapedia": "Greninja",
         "homeSprite": "greninja--battle-bond",
-        "miniSprite": "greninja--battle-bond"
+        "miniSprite": "greninja--battle-bond",
+        "showdown": "greninjabattlebond",
+        "showdownDef": "Greninja-Battle-Bond",
+        "smogon": "greninja--battle-bond"
     },
     "baseSpecies": "greninja",
     "baseForms": [],

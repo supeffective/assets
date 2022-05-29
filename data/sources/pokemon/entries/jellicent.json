@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "JELLICENT",
         "veekunDb": "jellicent",
-        "showdownMarkup": "Jellicent",
-        "showdownData": "jellicent",
         "serebii": "jellicent",
         "bulbapedia": "Jellicent",
         "homeSprite": "jellicent",
-        "miniSprite": "jellicent"
+        "miniSprite": "jellicent",
+        "showdown": "jellicent",
+        "showdownDef": "Jellicent",
+        "smogon": "jellicent"
     },
     "baseSpecies": null,
     "baseForms": [],

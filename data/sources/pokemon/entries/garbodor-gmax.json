@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "GARBODOR_GMAX",
         "veekunDb": "garbodor-gmax",
-        "showdownMarkup": "Garbodor-Gmax",
-        "showdownData": "garbodorgmax",
-        "serebii": "garbodor-gmax",
+        "serebii": "garbodor",
         "bulbapedia": "Garbodor",
         "homeSprite": "garbodor-gmax",
-        "miniSprite": "garbodor-gmax"
+        "miniSprite": "garbodor-gmax",
+        "showdown": "garbodorgmax",
+        "showdownDef": "Garbodor-Gmax",
+        "smogon": "garbodor-gmax"
     },
     "baseSpecies": "garbodor",
     "baseForms": [

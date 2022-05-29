@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "TREVENANT",
         "veekunDb": "trevenant",
-        "showdownMarkup": "Trevenant",
-        "showdownData": "trevenant",
         "serebii": "trevenant",
         "bulbapedia": "Trevenant",
         "homeSprite": "trevenant",
-        "miniSprite": "trevenant"
+        "miniSprite": "trevenant",
+        "showdown": "trevenant",
+        "showdownDef": "Trevenant",
+        "smogon": "trevenant"
     },
     "baseSpecies": null,
     "baseForms": [],

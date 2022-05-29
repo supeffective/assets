@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "RUFFLET",
         "veekunDb": "rufflet",
-        "showdownMarkup": "Rufflet",
-        "showdownData": "rufflet",
         "serebii": "rufflet",
         "bulbapedia": "Rufflet",
         "homeSprite": "rufflet",
-        "miniSprite": "rufflet"
+        "miniSprite": "rufflet",
+        "showdown": "rufflet",
+        "showdownDef": "Rufflet",
+        "smogon": "rufflet"
     },
     "baseSpecies": null,
     "baseForms": [],

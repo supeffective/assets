@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "PIDGEY",
         "veekunDb": "pidgey",
-        "showdownMarkup": "Pidgey",
-        "showdownData": "pidgey",
         "serebii": "pidgey",
         "bulbapedia": "Pidgey",
         "homeSprite": "pidgey",
-        "miniSprite": "pidgey"
+        "miniSprite": "pidgey",
+        "showdown": "pidgey",
+        "showdownDef": "Pidgey",
+        "smogon": "pidgey"
     },
     "baseSpecies": null,
     "baseForms": [],

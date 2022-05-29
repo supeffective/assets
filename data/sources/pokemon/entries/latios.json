@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "LATIOS",
         "veekunDb": "latios",
-        "showdownMarkup": "Latios",
-        "showdownData": "latios",
         "serebii": "latios",
         "bulbapedia": "Latios",
         "homeSprite": "latios",
-        "miniSprite": "latios"
+        "miniSprite": "latios",
+        "showdown": "latios",
+        "showdownDef": "Latios",
+        "smogon": "latios"
     },
     "baseSpecies": null,
     "baseForms": [],

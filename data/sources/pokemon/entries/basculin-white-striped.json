@@ -75,12 +75,13 @@
     "refs": {
         "pogo": null,
         "veekunDb": null,
-        "showdownMarkup": null,
-        "showdownData": null,
-        "serebii": null,
+        "serebii": "basculin",
         "bulbapedia": null,
         "homeSprite": "basculin-white-striped",
-        "miniSprite": "basculin-white-striped"
+        "miniSprite": "basculin-white-striped",
+        "showdown": null,
+        "showdownDef": null,
+        "smogon": "basculin-white-striped"
     },
     "baseSpecies": "basculin",
     "baseForms": [],

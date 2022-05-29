@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "NECROZMA_DUSK_MANE",
         "veekunDb": "necrozma-dusk-mane",
-        "showdownMarkup": "Necrozma-Dusk-Mane",
-        "showdownData": "necrozmaduskmane",
-        "serebii": "necrozma-dusk-mane",
+        "serebii": "necrozma",
         "bulbapedia": "Necrozma",
         "homeSprite": "necrozma-dusk-mane",
-        "miniSprite": "necrozma-dusk-mane"
+        "miniSprite": "necrozma-dusk-mane",
+        "showdown": "necrozmaduskmane",
+        "showdownDef": "Necrozma-Dusk-Mane",
+        "smogon": "necrozma-dusk-mane"
     },
     "baseSpecies": "necrozma",
     "baseForms": [

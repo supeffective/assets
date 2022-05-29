@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MAROWAK",
         "veekunDb": "marowak",
-        "showdownMarkup": "Marowak",
-        "showdownData": "marowak",
         "serebii": "marowak",
         "bulbapedia": "Marowak",
         "homeSprite": "marowak",
-        "miniSprite": "marowak"
+        "miniSprite": "marowak",
+        "showdown": "marowak",
+        "showdownDef": "Marowak",
+        "smogon": "marowak"
     },
     "baseSpecies": null,
     "baseForms": [],

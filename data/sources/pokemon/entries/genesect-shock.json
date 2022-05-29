@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "GENESECT_SHOCK",
         "veekunDb": "genesect-shock",
-        "showdownMarkup": "Genesect-Shock",
-        "showdownData": "genesectshock",
-        "serebii": "genesect-shock",
+        "serebii": "genesect",
         "bulbapedia": "Genesect",
         "homeSprite": "genesect-shock",
-        "miniSprite": "genesect-shock"
+        "miniSprite": "genesect-shock",
+        "showdown": "genesectshock",
+        "showdownDef": "Genesect-Shock",
+        "smogon": "genesect-shock"
     },
     "baseSpecies": "genesect",
     "baseForms": [

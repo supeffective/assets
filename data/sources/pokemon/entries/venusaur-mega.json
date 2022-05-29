@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "VENUSAUR_MEGA",
         "veekunDb": "venusaur-mega",
-        "showdownMarkup": "Venusaur-Mega",
-        "showdownData": "venusaurmega",
-        "serebii": "venusaur-mega",
+        "serebii": "venusaur",
         "bulbapedia": "Venusaur",
         "homeSprite": "venusaur-mega",
-        "miniSprite": "venusaur-mega"
+        "miniSprite": "venusaur-mega",
+        "showdown": "venusaurmega",
+        "showdownDef": "Venusaur-Mega",
+        "smogon": "venusaur-mega"
     },
     "baseSpecies": "venusaur",
     "baseForms": [

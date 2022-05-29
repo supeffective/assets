@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "GOTHITELLE",
         "veekunDb": "gothitelle",
-        "showdownMarkup": "Gothitelle",
-        "showdownData": "gothitelle",
         "serebii": "gothitelle",
         "bulbapedia": "Gothitelle",
         "homeSprite": "gothitelle",
-        "miniSprite": "gothitelle"
+        "miniSprite": "gothitelle",
+        "showdown": "gothitelle",
+        "showdownDef": "Gothitelle",
+        "smogon": "gothitelle"
     },
     "baseSpecies": null,
     "baseForms": [],

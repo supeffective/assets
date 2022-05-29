@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "PUPITAR",
         "veekunDb": "pupitar",
-        "showdownMarkup": "Pupitar",
-        "showdownData": "pupitar",
         "serebii": "pupitar",
         "bulbapedia": "Pupitar",
         "homeSprite": "pupitar",
-        "miniSprite": "pupitar"
+        "miniSprite": "pupitar",
+        "showdown": "pupitar",
+        "showdownDef": "Pupitar",
+        "smogon": "pupitar"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "INDEEDEE",
         "veekunDb": "indeedee",
-        "showdownMarkup": "Indeedee",
-        "showdownData": "indeedee",
         "serebii": "indeedee",
         "bulbapedia": "Indeedee",
         "homeSprite": "indeedee",
-        "miniSprite": "indeedee"
+        "miniSprite": "indeedee",
+        "showdown": "indeedee",
+        "showdownDef": "Indeedee",
+        "smogon": "indeedee"
     },
     "baseSpecies": null,
     "baseForms": [],

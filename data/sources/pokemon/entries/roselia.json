@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "ROSELIA",
         "veekunDb": "roselia",
-        "showdownMarkup": "Roselia",
-        "showdownData": "roselia",
         "serebii": "roselia",
         "bulbapedia": "Roselia",
         "homeSprite": "roselia",
-        "miniSprite": "roselia"
+        "miniSprite": "roselia",
+        "showdown": "roselia",
+        "showdownDef": "Roselia",
+        "smogon": "roselia"
     },
     "baseSpecies": null,
     "baseForms": [],

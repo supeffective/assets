@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "WHIMSICOTT",
         "veekunDb": "whimsicott",
-        "showdownMarkup": "Whimsicott",
-        "showdownData": "whimsicott",
         "serebii": "whimsicott",
         "bulbapedia": "Whimsicott",
         "homeSprite": "whimsicott",
-        "miniSprite": "whimsicott"
+        "miniSprite": "whimsicott",
+        "showdown": "whimsicott",
+        "showdownDef": "Whimsicott",
+        "smogon": "whimsicott"
     },
     "baseSpecies": null,
     "baseForms": [],

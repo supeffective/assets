@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "KYOGRE_PRIMAL",
         "veekunDb": "kyogre-primal",
-        "showdownMarkup": "Kyogre-Primal",
-        "showdownData": "kyogreprimal",
-        "serebii": "kyogre-primal",
+        "serebii": "kyogre",
         "bulbapedia": "Kyogre",
         "homeSprite": "kyogre-primal",
-        "miniSprite": "kyogre-primal"
+        "miniSprite": "kyogre-primal",
+        "showdown": "kyogreprimal",
+        "showdownDef": "Kyogre-Primal",
+        "smogon": "kyogre-primal"
     },
     "baseSpecies": "kyogre",
     "baseForms": [

@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "CHARIZARD_MEGA_X",
         "veekunDb": "charizard-mega-x",
-        "showdownMarkup": "Charizard-Mega-X",
-        "showdownData": "charizardmegax",
-        "serebii": "charizard-mega-x",
+        "serebii": "charizard",
         "bulbapedia": "Charizard",
         "homeSprite": "charizard-mega-x",
-        "miniSprite": "charizard-mega-x"
+        "miniSprite": "charizard-mega-x",
+        "showdown": "charizardmegax",
+        "showdownDef": "Charizard-Mega-X",
+        "smogon": "charizard-mega-x"
     },
     "baseSpecies": "charizard",
     "baseForms": [

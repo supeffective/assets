@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "SILVALLY_FLYING",
         "veekunDb": "silvally-flying",
-        "showdownMarkup": "Silvally-Flying",
-        "showdownData": "silvallyflying",
-        "serebii": "silvally-flying",
+        "serebii": "silvally",
         "bulbapedia": "Silvally",
         "homeSprite": "silvally-flying",
-        "miniSprite": "silvally-flying"
+        "miniSprite": "silvally-flying",
+        "showdown": "silvallyflying",
+        "showdownDef": "Silvally-Flying",
+        "smogon": "silvally-flying"
     },
     "baseSpecies": "silvally",
     "baseForms": [

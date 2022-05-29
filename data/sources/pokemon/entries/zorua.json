@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ZORUA",
         "veekunDb": "zorua",
-        "showdownMarkup": "Zorua",
-        "showdownData": "zorua",
         "serebii": "zorua",
         "bulbapedia": "Zorua",
         "homeSprite": "zorua",
-        "miniSprite": "zorua"
+        "miniSprite": "zorua",
+        "showdown": "zorua",
+        "showdownDef": "Zorua",
+        "smogon": "zorua"
     },
     "baseSpecies": null,
     "baseForms": [],

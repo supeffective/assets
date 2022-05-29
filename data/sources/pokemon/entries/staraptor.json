@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "STARAPTOR",
         "veekunDb": "staraptor",
-        "showdownMarkup": "Staraptor",
-        "showdownData": "staraptor",
         "serebii": "staraptor",
         "bulbapedia": "Staraptor",
         "homeSprite": "staraptor",
-        "miniSprite": "staraptor"
+        "miniSprite": "staraptor",
+        "showdown": "staraptor",
+        "showdownDef": "Staraptor",
+        "smogon": "staraptor"
     },
     "baseSpecies": null,
     "baseForms": [],

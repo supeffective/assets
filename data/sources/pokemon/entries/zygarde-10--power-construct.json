@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ZYGARDE_10_POWER_CONSTRUCT",
         "veekunDb": "zygarde-10-power-construct",
-        "showdownMarkup": "Zygarde-10-Power-Construct",
-        "showdownData": "zygarde10powerconstruct",
-        "serebii": "zygarde-10-power-construct",
+        "serebii": "zygarde",
         "bulbapedia": "Zygarde",
         "homeSprite": "zygarde-10--power-construct",
-        "miniSprite": "zygarde-10--power-construct"
+        "miniSprite": "zygarde-10--power-construct",
+        "showdown": "zygarde10powerconstruct",
+        "showdownDef": "Zygarde-10-Power-Construct",
+        "smogon": "zygarde-10--power-construct"
     },
     "baseSpecies": "zygarde",
     "baseForms": [

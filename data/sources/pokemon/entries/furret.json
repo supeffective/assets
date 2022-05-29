@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "FURRET",
         "veekunDb": "furret",
-        "showdownMarkup": "Furret",
-        "showdownData": "furret",
         "serebii": "furret",
         "bulbapedia": "Furret",
         "homeSprite": "furret",
-        "miniSprite": "furret"
+        "miniSprite": "furret",
+        "showdown": "furret",
+        "showdownDef": "Furret",
+        "smogon": "furret"
     },
     "baseSpecies": null,
     "baseForms": [],

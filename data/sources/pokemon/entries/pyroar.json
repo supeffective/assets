@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "PYROAR",
         "veekunDb": "pyroar",
-        "showdownMarkup": "Pyroar",
-        "showdownData": "pyroar",
         "serebii": "pyroar",
         "bulbapedia": "Pyroar",
         "homeSprite": "pyroar",
-        "miniSprite": "pyroar"
+        "miniSprite": "pyroar",
+        "showdown": "pyroar",
+        "showdownDef": "Pyroar",
+        "smogon": "pyroar"
     },
     "baseSpecies": null,
     "baseForms": [],

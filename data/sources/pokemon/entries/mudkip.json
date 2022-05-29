@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MUDKIP",
         "veekunDb": "mudkip",
-        "showdownMarkup": "Mudkip",
-        "showdownData": "mudkip",
         "serebii": "mudkip",
         "bulbapedia": "Mudkip",
         "homeSprite": "mudkip",
-        "miniSprite": "mudkip"
+        "miniSprite": "mudkip",
+        "showdown": "mudkip",
+        "showdownDef": "Mudkip",
+        "smogon": "mudkip"
     },
     "baseSpecies": null,
     "baseForms": [],

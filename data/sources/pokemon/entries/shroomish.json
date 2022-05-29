@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SHROOMISH",
         "veekunDb": "shroomish",
-        "showdownMarkup": "Shroomish",
-        "showdownData": "shroomish",
         "serebii": "shroomish",
         "bulbapedia": "Shroomish",
         "homeSprite": "shroomish",
-        "miniSprite": "shroomish"
+        "miniSprite": "shroomish",
+        "showdown": "shroomish",
+        "showdownDef": "Shroomish",
+        "smogon": "shroomish"
     },
     "baseSpecies": null,
     "baseForms": [],

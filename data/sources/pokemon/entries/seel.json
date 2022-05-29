@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SEEL",
         "veekunDb": "seel",
-        "showdownMarkup": "Seel",
-        "showdownData": "seel",
         "serebii": "seel",
         "bulbapedia": "Seel",
         "homeSprite": "seel",
-        "miniSprite": "seel"
+        "miniSprite": "seel",
+        "showdown": "seel",
+        "showdownDef": "Seel",
+        "smogon": "seel"
     },
     "baseSpecies": null,
     "baseForms": [],

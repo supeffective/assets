@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "MORPEKO_HANGRY",
         "veekunDb": "morpeko-hangry",
-        "showdownMarkup": "Morpeko-Hangry",
-        "showdownData": "morpekohangry",
-        "serebii": "morpeko-hangry",
+        "serebii": "morpeko",
         "bulbapedia": "Morpeko",
         "homeSprite": "morpeko-hangry",
-        "miniSprite": "morpeko-hangry"
+        "miniSprite": "morpeko-hangry",
+        "showdown": "morpekohangry",
+        "showdownDef": "Morpeko-Hangry",
+        "smogon": "morpeko-hangry"
     },
     "baseSpecies": "morpeko",
     "baseForms": [

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "KECLEON",
         "veekunDb": "kecleon",
-        "showdownMarkup": "Kecleon",
-        "showdownData": "kecleon",
         "serebii": "kecleon",
         "bulbapedia": "Kecleon",
         "homeSprite": "kecleon",
-        "miniSprite": "kecleon"
+        "miniSprite": "kecleon",
+        "showdown": "kecleon",
+        "showdownDef": "Kecleon",
+        "smogon": "kecleon"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "SNOVER",
         "veekunDb": "snover",
-        "showdownMarkup": "Snover",
-        "showdownData": "snover",
         "serebii": "snover",
         "bulbapedia": "Snover",
         "homeSprite": "snover",
-        "miniSprite": "snover"
+        "miniSprite": "snover",
+        "showdown": "snover",
+        "showdownDef": "Snover",
+        "smogon": "snover"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "VULPIX",
         "veekunDb": "vulpix",
-        "showdownMarkup": "Vulpix",
-        "showdownData": "vulpix",
         "serebii": "vulpix",
         "bulbapedia": "Vulpix",
         "homeSprite": "vulpix",
-        "miniSprite": "vulpix"
+        "miniSprite": "vulpix",
+        "showdown": "vulpix",
+        "showdownDef": "Vulpix",
+        "smogon": "vulpix"
     },
     "baseSpecies": null,
     "baseForms": [],

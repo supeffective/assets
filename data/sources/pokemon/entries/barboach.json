@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "BARBOACH",
         "veekunDb": "barboach",
-        "showdownMarkup": "Barboach",
-        "showdownData": "barboach",
         "serebii": "barboach",
         "bulbapedia": "Barboach",
         "homeSprite": "barboach",
-        "miniSprite": "barboach"
+        "miniSprite": "barboach",
+        "showdown": "barboach",
+        "showdownDef": "Barboach",
+        "smogon": "barboach"
     },
     "baseSpecies": null,
     "baseForms": [],

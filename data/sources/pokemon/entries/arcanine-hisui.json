@@ -75,12 +75,13 @@
     "refs": {
         "pogo": null,
         "veekunDb": null,
-        "showdownMarkup": null,
-        "showdownData": null,
-        "serebii": null,
+        "serebii": "arcanine",
         "bulbapedia": null,
         "homeSprite": "arcanine-hisui",
-        "miniSprite": "arcanine-hisui"
+        "miniSprite": "arcanine-hisui",
+        "showdown": null,
+        "showdownDef": null,
+        "smogon": "arcanine-hisui"
     },
     "baseSpecies": "arcanine",
     "baseForms": [],

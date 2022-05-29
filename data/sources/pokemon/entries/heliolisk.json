@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "HELIOLISK",
         "veekunDb": "heliolisk",
-        "showdownMarkup": "Heliolisk",
-        "showdownData": "heliolisk",
         "serebii": "heliolisk",
         "bulbapedia": "Heliolisk",
         "homeSprite": "heliolisk",
-        "miniSprite": "heliolisk"
+        "miniSprite": "heliolisk",
+        "showdown": "heliolisk",
+        "showdownDef": "Heliolisk",
+        "smogon": "heliolisk"
     },
     "baseSpecies": null,
     "baseForms": [],

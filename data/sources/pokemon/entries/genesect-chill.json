@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "GENESECT_CHILL",
         "veekunDb": "genesect-chill",
-        "showdownMarkup": "Genesect-Chill",
-        "showdownData": "genesectchill",
-        "serebii": "genesect-chill",
+        "serebii": "genesect",
         "bulbapedia": "Genesect",
         "homeSprite": "genesect-chill",
-        "miniSprite": "genesect-chill"
+        "miniSprite": "genesect-chill",
+        "showdown": "genesectchill",
+        "showdownDef": "Genesect-Chill",
+        "smogon": "genesect-chill"
     },
     "baseSpecies": "genesect",
     "baseForms": [

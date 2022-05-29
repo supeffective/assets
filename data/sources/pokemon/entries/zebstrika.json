@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ZEBSTRIKA",
         "veekunDb": "zebstrika",
-        "showdownMarkup": "Zebstrika",
-        "showdownData": "zebstrika",
         "serebii": "zebstrika",
         "bulbapedia": "Zebstrika",
         "homeSprite": "zebstrika",
-        "miniSprite": "zebstrika"
+        "miniSprite": "zebstrika",
+        "showdown": "zebstrika",
+        "showdownDef": "Zebstrika",
+        "smogon": "zebstrika"
     },
     "baseSpecies": null,
     "baseForms": [],

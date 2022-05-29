@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MRMIME_GALAR",
         "veekunDb": "mrmime-galar",
-        "showdownMarkup": "Mrmime-Galar",
-        "showdownData": "mrmimegalar",
-        "serebii": "mrmime-galar",
+        "serebii": "mrmime",
         "bulbapedia": "Mrmime",
         "homeSprite": "mrmime-galar",
-        "miniSprite": "mrmime-galar"
+        "miniSprite": "mrmime-galar",
+        "showdown": "mrmimegalar",
+        "showdownDef": "Mrmime-Galar",
+        "smogon": "mrmime-galar"
     },
     "baseSpecies": "mrmime",
     "baseForms": [],

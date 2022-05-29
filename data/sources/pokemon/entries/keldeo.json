@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "KELDEO",
         "veekunDb": "keldeo",
-        "showdownMarkup": "Keldeo",
-        "showdownData": "keldeo",
         "serebii": "keldeo",
         "bulbapedia": "Keldeo",
         "homeSprite": "keldeo",
-        "miniSprite": "keldeo"
+        "miniSprite": "keldeo",
+        "showdown": "keldeo",
+        "showdownDef": "Keldeo",
+        "smogon": "keldeo"
     },
     "baseSpecies": null,
     "baseForms": [],

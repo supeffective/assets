@@ -74,12 +74,13 @@
     "refs": {
         "pogo": "ARCEUS_DRAGON",
         "veekunDb": "arceus-dragon",
-        "showdownMarkup": "Arceus-Dragon",
-        "showdownData": "arceusdragon",
-        "serebii": "arceus-dragon",
+        "serebii": "arceus",
         "bulbapedia": "Arceus",
         "homeSprite": "arceus-dragon",
-        "miniSprite": "arceus-dragon"
+        "miniSprite": "arceus-dragon",
+        "showdown": "arceusdragon",
+        "showdownDef": "Arceus-Dragon",
+        "smogon": "arceus-dragon"
     },
     "baseSpecies": "arceus",
     "baseForms": [

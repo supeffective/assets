@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "GUZZLORD",
         "veekunDb": "guzzlord",
-        "showdownMarkup": "Guzzlord",
-        "showdownData": "guzzlord",
         "serebii": "guzzlord",
         "bulbapedia": "Guzzlord",
         "homeSprite": "guzzlord",
-        "miniSprite": "guzzlord"
+        "miniSprite": "guzzlord",
+        "showdown": "guzzlord",
+        "showdownDef": "Guzzlord",
+        "smogon": "guzzlord"
     },
     "baseSpecies": null,
     "baseForms": [],

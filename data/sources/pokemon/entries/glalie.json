@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "GLALIE",
         "veekunDb": "glalie",
-        "showdownMarkup": "Glalie",
-        "showdownData": "glalie",
         "serebii": "glalie",
         "bulbapedia": "Glalie",
         "homeSprite": "glalie",
-        "miniSprite": "glalie"
+        "miniSprite": "glalie",
+        "showdown": "glalie",
+        "showdownDef": "Glalie",
+        "smogon": "glalie"
     },
     "baseSpecies": null,
     "baseForms": [],

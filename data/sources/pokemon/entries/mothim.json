@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "MOTHIM",
         "veekunDb": "mothim",
-        "showdownMarkup": "Mothim",
-        "showdownData": "mothim",
         "serebii": "mothim",
         "bulbapedia": "Mothim",
         "homeSprite": "mothim",
-        "miniSprite": "mothim"
+        "miniSprite": "mothim",
+        "showdown": "mothim",
+        "showdownDef": "Mothim",
+        "smogon": "mothim"
     },
     "baseSpecies": null,
     "baseForms": [],

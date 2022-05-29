@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ORICORIO",
         "veekunDb": "oricorio",
-        "showdownMarkup": "Oricorio",
-        "showdownData": "oricorio",
         "serebii": "oricorio",
         "bulbapedia": "Oricorio",
         "homeSprite": "oricorio",
-        "miniSprite": "oricorio"
+        "miniSprite": "oricorio",
+        "showdown": "oricorio",
+        "showdownDef": "Oricorio",
+        "smogon": "oricorio"
     },
     "baseSpecies": null,
     "baseForms": [],

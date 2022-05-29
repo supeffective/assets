@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "KANGASKHAN_MEGA",
         "veekunDb": "kangaskhan-mega",
-        "showdownMarkup": "Kangaskhan-Mega",
-        "showdownData": "kangaskhanmega",
-        "serebii": "kangaskhan-mega",
+        "serebii": "kangaskhan",
         "bulbapedia": "Kangaskhan",
         "homeSprite": "kangaskhan-mega",
-        "miniSprite": "kangaskhan-mega"
+        "miniSprite": "kangaskhan-mega",
+        "showdown": "kangaskhanmega",
+        "showdownDef": "Kangaskhan-Mega",
+        "smogon": "kangaskhan-mega"
     },
     "baseSpecies": "kangaskhan",
     "baseForms": [

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "HELIOPTILE",
         "veekunDb": "helioptile",
-        "showdownMarkup": "Helioptile",
-        "showdownData": "helioptile",
         "serebii": "helioptile",
         "bulbapedia": "Helioptile",
         "homeSprite": "helioptile",
-        "miniSprite": "helioptile"
+        "miniSprite": "helioptile",
+        "showdown": "helioptile",
+        "showdownDef": "Helioptile",
+        "smogon": "helioptile"
     },
     "baseSpecies": null,
     "baseForms": [],

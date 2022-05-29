@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "AEGISLASH",
         "veekunDb": "aegislash",
-        "showdownMarkup": "Aegislash",
-        "showdownData": "aegislash",
         "serebii": "aegislash",
         "bulbapedia": "Aegislash",
         "homeSprite": "aegislash",
-        "miniSprite": "aegislash"
+        "miniSprite": "aegislash",
+        "showdown": "aegislash",
+        "showdownDef": "Aegislash",
+        "smogon": "aegislash"
     },
     "baseSpecies": null,
     "baseForms": [],

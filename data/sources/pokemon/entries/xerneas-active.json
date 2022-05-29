@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "XERNEAS_ACTIVE",
         "veekunDb": "xerneas-active",
-        "showdownMarkup": "Xerneas-Active",
-        "showdownData": "xerneasactive",
-        "serebii": "xerneas-active",
+        "serebii": "xerneas",
         "bulbapedia": "Xerneas",
         "homeSprite": "xerneas-active",
-        "miniSprite": "xerneas-active"
+        "miniSprite": "xerneas-active",
+        "showdown": "xerneasactive",
+        "showdownDef": "Xerneas-Active",
+        "smogon": "xerneas-active"
     },
     "baseSpecies": "xerneas",
     "baseForms": [

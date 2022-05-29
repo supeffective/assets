@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "METAPOD",
         "veekunDb": "metapod",
-        "showdownMarkup": "Metapod",
-        "showdownData": "metapod",
         "serebii": "metapod",
         "bulbapedia": "Metapod",
         "homeSprite": "metapod",
-        "miniSprite": "metapod"
+        "miniSprite": "metapod",
+        "showdown": "metapod",
+        "showdownDef": "Metapod",
+        "smogon": "metapod"
     },
     "baseSpecies": null,
     "baseForms": [],

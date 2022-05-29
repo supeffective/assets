@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "GENESECT_BURN",
         "veekunDb": "genesect-burn",
-        "showdownMarkup": "Genesect-Burn",
-        "showdownData": "genesectburn",
-        "serebii": "genesect-burn",
+        "serebii": "genesect",
         "bulbapedia": "Genesect",
         "homeSprite": "genesect-burn",
-        "miniSprite": "genesect-burn"
+        "miniSprite": "genesect-burn",
+        "showdown": "genesectburn",
+        "showdownDef": "Genesect-Burn",
+        "smogon": "genesect-burn"
     },
     "baseSpecies": "genesect",
     "baseForms": [

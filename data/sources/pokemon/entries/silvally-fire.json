@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "SILVALLY_FIRE",
         "veekunDb": "silvally-fire",
-        "showdownMarkup": "Silvally-Fire",
-        "showdownData": "silvallyfire",
-        "serebii": "silvally-fire",
+        "serebii": "silvally",
         "bulbapedia": "Silvally",
         "homeSprite": "silvally-fire",
-        "miniSprite": "silvally-fire"
+        "miniSprite": "silvally-fire",
+        "showdown": "silvallyfire",
+        "showdownDef": "Silvally-Fire",
+        "smogon": "silvally-fire"
     },
     "baseSpecies": "silvally",
     "baseForms": [

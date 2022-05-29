@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "HIPPOWDON_F",
         "veekunDb": "hippowdon-f",
-        "showdownMarkup": "Hippowdon-F",
-        "showdownData": "hippowdonf",
-        "serebii": "hippowdon-f",
+        "serebii": "hippowdon",
         "bulbapedia": "Hippowdon",
         "homeSprite": "hippowdon-f",
-        "miniSprite": "hippowdon-f"
+        "miniSprite": "hippowdon-f",
+        "showdown": "hippowdonf",
+        "showdownDef": "Hippowdon-F",
+        "smogon": "hippowdon-f"
     },
     "baseSpecies": "hippowdon",
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MRRIME",
         "veekunDb": "mrrime",
-        "showdownMarkup": "Mrrime",
-        "showdownData": "mrrime",
         "serebii": "mrrime",
         "bulbapedia": "Mr. Rime",
         "homeSprite": "mrrime",
-        "miniSprite": "mrrime"
+        "miniSprite": "mrrime",
+        "showdown": "mrrime",
+        "showdownDef": "Mrrime",
+        "smogon": "mrrime"
     },
     "baseSpecies": null,
     "baseForms": [],

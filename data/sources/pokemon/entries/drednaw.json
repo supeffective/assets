@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DREDNAW",
         "veekunDb": "drednaw",
-        "showdownMarkup": "Drednaw",
-        "showdownData": "drednaw",
         "serebii": "drednaw",
         "bulbapedia": "Drednaw",
         "homeSprite": "drednaw",
-        "miniSprite": "drednaw"
+        "miniSprite": "drednaw",
+        "showdown": "drednaw",
+        "showdownDef": "Drednaw",
+        "smogon": "drednaw"
     },
     "baseSpecies": null,
     "baseForms": [],

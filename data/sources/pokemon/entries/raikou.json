@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "RAIKOU",
         "veekunDb": "raikou",
-        "showdownMarkup": "Raikou",
-        "showdownData": "raikou",
         "serebii": "raikou",
         "bulbapedia": "Raikou",
         "homeSprite": "raikou",
-        "miniSprite": "raikou"
+        "miniSprite": "raikou",
+        "showdown": "raikou",
+        "showdownDef": "Raikou",
+        "smogon": "raikou"
     },
     "baseSpecies": null,
     "baseForms": [],

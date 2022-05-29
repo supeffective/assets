@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "SILVALLY_GROUND",
         "veekunDb": "silvally-ground",
-        "showdownMarkup": "Silvally-Ground",
-        "showdownData": "silvallyground",
-        "serebii": "silvally-ground",
+        "serebii": "silvally",
         "bulbapedia": "Silvally",
         "homeSprite": "silvally-ground",
-        "miniSprite": "silvally-ground"
+        "miniSprite": "silvally-ground",
+        "showdown": "silvallyground",
+        "showdownDef": "Silvally-Ground",
+        "smogon": "silvally-ground"
     },
     "baseSpecies": "silvally",
     "baseForms": [

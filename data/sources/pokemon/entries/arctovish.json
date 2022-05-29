@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ARCTOVISH",
         "veekunDb": "arctovish",
-        "showdownMarkup": "Arctovish",
-        "showdownData": "arctovish",
         "serebii": "arctovish",
         "bulbapedia": "Arctovish",
         "homeSprite": "arctovish",
-        "miniSprite": "arctovish"
+        "miniSprite": "arctovish",
+        "showdown": "arctovish",
+        "showdownDef": "Arctovish",
+        "smogon": "arctovish"
     },
     "baseSpecies": null,
     "baseForms": [],

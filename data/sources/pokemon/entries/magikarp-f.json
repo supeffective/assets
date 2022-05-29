@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "MAGIKARP_F",
         "veekunDb": "magikarp-f",
-        "showdownMarkup": "Magikarp-F",
-        "showdownData": "magikarpf",
-        "serebii": "magikarp-f",
+        "serebii": "magikarp",
         "bulbapedia": "Magikarp",
         "homeSprite": "magikarp-f",
-        "miniSprite": "magikarp-f"
+        "miniSprite": "magikarp-f",
+        "showdown": "magikarpf",
+        "showdownDef": "Magikarp-F",
+        "smogon": "magikarp-f"
     },
     "baseSpecies": "magikarp",
     "baseForms": [],

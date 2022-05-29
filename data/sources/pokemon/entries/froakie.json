@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "FROAKIE",
         "veekunDb": "froakie",
-        "showdownMarkup": "Froakie",
-        "showdownData": "froakie",
         "serebii": "froakie",
         "bulbapedia": "Froakie",
         "homeSprite": "froakie",
-        "miniSprite": "froakie"
+        "miniSprite": "froakie",
+        "showdown": "froakie",
+        "showdownDef": "Froakie",
+        "smogon": "froakie"
     },
     "baseSpecies": null,
     "baseForms": [],

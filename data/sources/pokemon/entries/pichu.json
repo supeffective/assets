@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "PICHU",
         "veekunDb": "pichu",
-        "showdownMarkup": "Pichu",
-        "showdownData": "pichu",
         "serebii": "pichu",
         "bulbapedia": "Pichu",
         "homeSprite": "pichu",
-        "miniSprite": "pichu"
+        "miniSprite": "pichu",
+        "showdown": "pichu",
+        "showdownDef": "Pichu",
+        "smogon": "pichu"
     },
     "baseSpecies": null,
     "baseForms": [],

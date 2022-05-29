@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "BELLSPROUT",
         "veekunDb": "bellsprout",
-        "showdownMarkup": "Bellsprout",
-        "showdownData": "bellsprout",
         "serebii": "bellsprout",
         "bulbapedia": "Bellsprout",
         "homeSprite": "bellsprout",
-        "miniSprite": "bellsprout"
+        "miniSprite": "bellsprout",
+        "showdown": "bellsprout",
+        "showdownDef": "Bellsprout",
+        "smogon": "bellsprout"
     },
     "baseSpecies": null,
     "baseForms": [],

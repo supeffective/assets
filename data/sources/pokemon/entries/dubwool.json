@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DUBWOOL",
         "veekunDb": "dubwool",
-        "showdownMarkup": "Dubwool",
-        "showdownData": "dubwool",
         "serebii": "dubwool",
         "bulbapedia": "Dubwool",
         "homeSprite": "dubwool",
-        "miniSprite": "dubwool"
+        "miniSprite": "dubwool",
+        "showdown": "dubwool",
+        "showdownDef": "Dubwool",
+        "smogon": "dubwool"
     },
     "baseSpecies": null,
     "baseForms": [],

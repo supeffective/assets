@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "SILVALLY_ELECTRIC",
         "veekunDb": "silvally-electric",
-        "showdownMarkup": "Silvally-Electric",
-        "showdownData": "silvallyelectric",
-        "serebii": "silvally-electric",
+        "serebii": "silvally",
         "bulbapedia": "Silvally",
         "homeSprite": "silvally-electric",
-        "miniSprite": "silvally-electric"
+        "miniSprite": "silvally-electric",
+        "showdown": "silvallyelectric",
+        "showdownDef": "Silvally-Electric",
+        "smogon": "silvally-electric"
     },
     "baseSpecies": "silvally",
     "baseForms": [

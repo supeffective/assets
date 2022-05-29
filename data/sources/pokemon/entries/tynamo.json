@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "TYNAMO",
         "veekunDb": "tynamo",
-        "showdownMarkup": "Tynamo",
-        "showdownData": "tynamo",
         "serebii": "tynamo",
         "bulbapedia": "Tynamo",
         "homeSprite": "tynamo",
-        "miniSprite": "tynamo"
+        "miniSprite": "tynamo",
+        "showdown": "tynamo",
+        "showdownDef": "Tynamo",
+        "smogon": "tynamo"
     },
     "baseSpecies": null,
     "baseForms": [],

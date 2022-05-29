@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MELOETTA",
         "veekunDb": "meloetta",
-        "showdownMarkup": "Meloetta",
-        "showdownData": "meloetta",
         "serebii": "meloetta",
         "bulbapedia": "Meloetta",
         "homeSprite": "meloetta",
-        "miniSprite": "meloetta"
+        "miniSprite": "meloetta",
+        "showdown": "meloetta",
+        "showdownDef": "Meloetta",
+        "smogon": "meloetta"
     },
     "baseSpecies": null,
     "baseForms": [],

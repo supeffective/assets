@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "GARCHOMP_MEGA",
         "veekunDb": "garchomp-mega",
-        "showdownMarkup": "Garchomp-Mega",
-        "showdownData": "garchompmega",
-        "serebii": "garchomp-mega",
+        "serebii": "garchomp",
         "bulbapedia": "Garchomp",
         "homeSprite": "garchomp-mega",
-        "miniSprite": "garchomp-mega"
+        "miniSprite": "garchomp-mega",
+        "showdown": "garchompmega",
+        "showdownDef": "Garchomp-Mega",
+        "smogon": "garchomp-mega"
     },
     "baseSpecies": "garchomp",
     "baseForms": [

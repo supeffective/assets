@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "CRAMORANT_GULPING",
         "veekunDb": "cramorant-gulping",
-        "showdownMarkup": "Cramorant-Gulping",
-        "showdownData": "cramorantgulping",
-        "serebii": "cramorant-gulping",
+        "serebii": "cramorant",
         "bulbapedia": "Cramorant",
         "homeSprite": "cramorant-gulping",
-        "miniSprite": "cramorant-gulping"
+        "miniSprite": "cramorant-gulping",
+        "showdown": "cramorantgulping",
+        "showdownDef": "Cramorant-Gulping",
+        "smogon": "cramorant-gulping"
     },
     "baseSpecies": "cramorant",
     "baseForms": [

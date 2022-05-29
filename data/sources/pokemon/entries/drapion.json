@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "DRAPION",
         "veekunDb": "drapion",
-        "showdownMarkup": "Drapion",
-        "showdownData": "drapion",
         "serebii": "drapion",
         "bulbapedia": "Drapion",
         "homeSprite": "drapion",
-        "miniSprite": "drapion"
+        "miniSprite": "drapion",
+        "showdown": "drapion",
+        "showdownDef": "Drapion",
+        "smogon": "drapion"
     },
     "baseSpecies": null,
     "baseForms": [],

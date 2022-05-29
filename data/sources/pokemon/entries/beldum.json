@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "BELDUM",
         "veekunDb": "beldum",
-        "showdownMarkup": "Beldum",
-        "showdownData": "beldum",
         "serebii": "beldum",
         "bulbapedia": "Beldum",
         "homeSprite": "beldum",
-        "miniSprite": "beldum"
+        "miniSprite": "beldum",
+        "showdown": "beldum",
+        "showdownDef": "Beldum",
+        "smogon": "beldum"
     },
     "baseSpecies": null,
     "baseForms": [],

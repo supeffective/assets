@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "TAPUFINI",
         "veekunDb": "tapufini",
-        "showdownMarkup": "Tapufini",
-        "showdownData": "tapufini",
         "serebii": "tapufini",
         "bulbapedia": "Tapu Fini",
         "homeSprite": "tapufini",
-        "miniSprite": "tapufini"
+        "miniSprite": "tapufini",
+        "showdown": "tapufini",
+        "showdownDef": "Tapufini",
+        "smogon": "tapufini"
     },
     "baseSpecies": null,
     "baseForms": [],

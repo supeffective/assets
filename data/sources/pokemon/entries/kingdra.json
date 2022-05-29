@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "KINGDRA",
         "veekunDb": "kingdra",
-        "showdownMarkup": "Kingdra",
-        "showdownData": "kingdra",
         "serebii": "kingdra",
         "bulbapedia": "Kingdra",
         "homeSprite": "kingdra",
-        "miniSprite": "kingdra"
+        "miniSprite": "kingdra",
+        "showdown": "kingdra",
+        "showdownDef": "Kingdra",
+        "smogon": "kingdra"
     },
     "baseSpecies": null,
     "baseForms": [],

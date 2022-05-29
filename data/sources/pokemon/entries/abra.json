@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "ABRA",
         "veekunDb": "abra",
-        "showdownMarkup": "Abra",
-        "showdownData": "abra",
         "serebii": "abra",
         "bulbapedia": "Abra",
         "homeSprite": "abra",
-        "miniSprite": "abra"
+        "miniSprite": "abra",
+        "showdown": "abra",
+        "showdownDef": "Abra",
+        "smogon": "abra"
     },
     "baseSpecies": null,
     "baseForms": [],

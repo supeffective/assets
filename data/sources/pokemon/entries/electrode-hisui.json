@@ -75,12 +75,13 @@
     "refs": {
         "pogo": null,
         "veekunDb": null,
-        "showdownMarkup": null,
-        "showdownData": null,
-        "serebii": null,
+        "serebii": "electrode",
         "bulbapedia": null,
         "homeSprite": "electrode-hisui",
-        "miniSprite": "electrode-hisui"
+        "miniSprite": "electrode-hisui",
+        "showdown": null,
+        "showdownDef": null,
+        "smogon": "electrode-hisui"
     },
     "baseSpecies": "electrode",
     "baseForms": [],

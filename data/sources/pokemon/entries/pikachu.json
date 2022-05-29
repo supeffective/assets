@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "PIKACHU",
         "veekunDb": "pikachu",
-        "showdownMarkup": "Pikachu",
-        "showdownData": "pikachu",
         "serebii": "pikachu",
         "bulbapedia": "Pikachu",
         "homeSprite": "pikachu",
-        "miniSprite": "pikachu"
+        "miniSprite": "pikachu",
+        "showdown": "pikachu",
+        "showdownDef": "Pikachu",
+        "smogon": "pikachu"
     },
     "baseSpecies": null,
     "baseForms": [],

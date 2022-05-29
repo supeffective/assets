@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CHERRIM_SUNSHINE",
         "veekunDb": "cherrim-sunshine",
-        "showdownMarkup": "Cherrim-Sunshine",
-        "showdownData": "cherrimsunshine",
-        "serebii": "cherrim-sunshine",
+        "serebii": "cherrim",
         "bulbapedia": "Cherrim",
         "homeSprite": "cherrim-sunshine",
-        "miniSprite": "cherrim-sunshine"
+        "miniSprite": "cherrim-sunshine",
+        "showdown": "cherrimsunshine",
+        "showdownDef": "Cherrim-Sunshine",
+        "smogon": "cherrim-sunshine"
     },
     "baseSpecies": "cherrim",
     "baseForms": [

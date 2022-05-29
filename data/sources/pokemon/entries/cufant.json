@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CUFANT",
         "veekunDb": "cufant",
-        "showdownMarkup": "Cufant",
-        "showdownData": "cufant",
         "serebii": "cufant",
         "bulbapedia": "Cufant",
         "homeSprite": "cufant",
-        "miniSprite": "cufant"
+        "miniSprite": "cufant",
+        "showdown": "cufant",
+        "showdownDef": "Cufant",
+        "smogon": "cufant"
     },
     "baseSpecies": null,
     "baseForms": [],

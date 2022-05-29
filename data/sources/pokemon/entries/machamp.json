@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "MACHAMP",
         "veekunDb": "machamp",
-        "showdownMarkup": "Machamp",
-        "showdownData": "machamp",
         "serebii": "machamp",
         "bulbapedia": "Machamp",
         "homeSprite": "machamp",
-        "miniSprite": "machamp"
+        "miniSprite": "machamp",
+        "showdown": "machamp",
+        "showdownDef": "Machamp",
+        "smogon": "machamp"
     },
     "baseSpecies": null,
     "baseForms": [],

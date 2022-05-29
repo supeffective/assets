@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "SHAYMIN",
         "veekunDb": "shaymin",
-        "showdownMarkup": "Shaymin",
-        "showdownData": "shaymin",
         "serebii": "shaymin",
         "bulbapedia": "Shaymin",
         "homeSprite": "shaymin",
-        "miniSprite": "shaymin"
+        "miniSprite": "shaymin",
+        "showdown": "shaymin",
+        "showdownDef": "Shaymin",
+        "smogon": "shaymin"
     },
     "baseSpecies": null,
     "baseForms": [],

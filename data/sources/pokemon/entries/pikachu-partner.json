@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "PIKACHU_PARTNER",
         "veekunDb": "pikachu-partner",
-        "showdownMarkup": "Pikachu-Partner",
-        "showdownData": "pikachupartner",
-        "serebii": "pikachu-partner",
+        "serebii": "pikachu",
         "bulbapedia": "Pikachu",
         "homeSprite": "pikachu-partner",
-        "miniSprite": "pikachu-partner"
+        "miniSprite": "pikachu-partner",
+        "showdown": "pikachupartner",
+        "showdownDef": "Pikachu-Partner",
+        "smogon": "pikachu-partner"
     },
     "baseSpecies": "pikachu",
     "baseForms": [],

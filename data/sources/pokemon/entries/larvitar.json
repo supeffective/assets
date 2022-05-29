@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "LARVITAR",
         "veekunDb": "larvitar",
-        "showdownMarkup": "Larvitar",
-        "showdownData": "larvitar",
         "serebii": "larvitar",
         "bulbapedia": "Larvitar",
         "homeSprite": "larvitar",
-        "miniSprite": "larvitar"
+        "miniSprite": "larvitar",
+        "showdown": "larvitar",
+        "showdownDef": "Larvitar",
+        "smogon": "larvitar"
     },
     "baseSpecies": null,
     "baseForms": [],

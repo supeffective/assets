@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "WOBBUFFET",
         "veekunDb": "wobbuffet",
-        "showdownMarkup": "Wobbuffet",
-        "showdownData": "wobbuffet",
         "serebii": "wobbuffet",
         "bulbapedia": "Wobbuffet",
         "homeSprite": "wobbuffet",
-        "miniSprite": "wobbuffet"
+        "miniSprite": "wobbuffet",
+        "showdown": "wobbuffet",
+        "showdownDef": "Wobbuffet",
+        "smogon": "wobbuffet"
     },
     "baseSpecies": null,
     "baseForms": [],

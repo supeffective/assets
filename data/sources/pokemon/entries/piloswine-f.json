@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "PILOSWINE_F",
         "veekunDb": "piloswine-f",
-        "showdownMarkup": "Piloswine-F",
-        "showdownData": "piloswinef",
-        "serebii": "piloswine-f",
+        "serebii": "piloswine",
         "bulbapedia": "Piloswine",
         "homeSprite": "piloswine-f",
-        "miniSprite": "piloswine-f"
+        "miniSprite": "piloswine-f",
+        "showdown": "piloswinef",
+        "showdownDef": "Piloswine-F",
+        "smogon": "piloswine-f"
     },
     "baseSpecies": "piloswine",
     "baseForms": [],

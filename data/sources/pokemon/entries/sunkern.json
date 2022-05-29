@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SUNKERN",
         "veekunDb": "sunkern",
-        "showdownMarkup": "Sunkern",
-        "showdownData": "sunkern",
         "serebii": "sunkern",
         "bulbapedia": "Sunkern",
         "homeSprite": "sunkern",
-        "miniSprite": "sunkern"
+        "miniSprite": "sunkern",
+        "showdown": "sunkern",
+        "showdownDef": "Sunkern",
+        "smogon": "sunkern"
     },
     "baseSpecies": null,
     "baseForms": [],

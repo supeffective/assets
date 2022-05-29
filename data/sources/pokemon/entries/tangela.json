@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "TANGELA",
         "veekunDb": "tangela",
-        "showdownMarkup": "Tangela",
-        "showdownData": "tangela",
         "serebii": "tangela",
         "bulbapedia": "Tangela",
         "homeSprite": "tangela",
-        "miniSprite": "tangela"
+        "miniSprite": "tangela",
+        "showdown": "tangela",
+        "showdownDef": "Tangela",
+        "smogon": "tangela"
     },
     "baseSpecies": null,
     "baseForms": [],

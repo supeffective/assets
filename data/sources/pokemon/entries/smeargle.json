@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SMEARGLE",
         "veekunDb": "smeargle",
-        "showdownMarkup": "Smeargle",
-        "showdownData": "smeargle",
         "serebii": "smeargle",
         "bulbapedia": "Smeargle",
         "homeSprite": "smeargle",
-        "miniSprite": "smeargle"
+        "miniSprite": "smeargle",
+        "showdown": "smeargle",
+        "showdownDef": "Smeargle",
+        "smogon": "smeargle"
     },
     "baseSpecies": null,
     "baseForms": [],

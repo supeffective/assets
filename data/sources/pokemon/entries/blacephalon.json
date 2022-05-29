@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "BLACEPHALON",
         "veekunDb": "blacephalon",
-        "showdownMarkup": "Blacephalon",
-        "showdownData": "blacephalon",
         "serebii": "blacephalon",
         "bulbapedia": "Blacephalon",
         "homeSprite": "blacephalon",
-        "miniSprite": "blacephalon"
+        "miniSprite": "blacephalon",
+        "showdown": "blacephalon",
+        "showdownDef": "Blacephalon",
+        "smogon": "blacephalon"
     },
     "baseSpecies": null,
     "baseForms": [],

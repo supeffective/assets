@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "STOUTLAND",
         "veekunDb": "stoutland",
-        "showdownMarkup": "Stoutland",
-        "showdownData": "stoutland",
         "serebii": "stoutland",
         "bulbapedia": "Stoutland",
         "homeSprite": "stoutland",
-        "miniSprite": "stoutland"
+        "miniSprite": "stoutland",
+        "showdown": "stoutland",
+        "showdownDef": "Stoutland",
+        "smogon": "stoutland"
     },
     "baseSpecies": null,
     "baseForms": [],

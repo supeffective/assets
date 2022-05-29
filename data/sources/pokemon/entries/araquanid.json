@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ARAQUANID",
         "veekunDb": "araquanid",
-        "showdownMarkup": "Araquanid",
-        "showdownData": "araquanid",
         "serebii": "araquanid",
         "bulbapedia": "Araquanid",
         "homeSprite": "araquanid",
-        "miniSprite": "araquanid"
+        "miniSprite": "araquanid",
+        "showdown": "araquanid",
+        "showdownDef": "Araquanid",
+        "smogon": "araquanid"
     },
     "baseSpecies": null,
     "baseForms": [],

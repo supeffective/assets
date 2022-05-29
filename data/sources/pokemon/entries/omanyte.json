@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "OMANYTE",
         "veekunDb": "omanyte",
-        "showdownMarkup": "Omanyte",
-        "showdownData": "omanyte",
         "serebii": "omanyte",
         "bulbapedia": "Omanyte",
         "homeSprite": "omanyte",
-        "miniSprite": "omanyte"
+        "miniSprite": "omanyte",
+        "showdown": "omanyte",
+        "showdownDef": "Omanyte",
+        "smogon": "omanyte"
     },
     "baseSpecies": null,
     "baseForms": [],

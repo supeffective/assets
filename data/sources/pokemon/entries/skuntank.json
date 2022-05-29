@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "SKUNTANK",
         "veekunDb": "skuntank",
-        "showdownMarkup": "Skuntank",
-        "showdownData": "skuntank",
         "serebii": "skuntank",
         "bulbapedia": "Skuntank",
         "homeSprite": "skuntank",
-        "miniSprite": "skuntank"
+        "miniSprite": "skuntank",
+        "showdown": "skuntank",
+        "showdownDef": "Skuntank",
+        "smogon": "skuntank"
     },
     "baseSpecies": null,
     "baseForms": [],

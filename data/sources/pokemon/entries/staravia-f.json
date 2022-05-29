@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "STARAVIA_F",
         "veekunDb": "staravia-f",
-        "showdownMarkup": "Staravia-F",
-        "showdownData": "staraviaf",
-        "serebii": "staravia-f",
+        "serebii": "staravia",
         "bulbapedia": "Staravia",
         "homeSprite": "staravia-f",
-        "miniSprite": "staravia-f"
+        "miniSprite": "staravia-f",
+        "showdown": "staraviaf",
+        "showdownDef": "Staravia-F",
+        "smogon": "staravia-f"
     },
     "baseSpecies": "staravia",
     "baseForms": [],

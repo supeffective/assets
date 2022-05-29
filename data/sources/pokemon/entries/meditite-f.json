@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MEDITITE_F",
         "veekunDb": "meditite-f",
-        "showdownMarkup": "Meditite-F",
-        "showdownData": "medititef",
-        "serebii": "meditite-f",
+        "serebii": "meditite",
         "bulbapedia": "Meditite",
         "homeSprite": "meditite-f",
-        "miniSprite": "meditite-f"
+        "miniSprite": "meditite-f",
+        "showdown": "medititef",
+        "showdownDef": "Meditite-F",
+        "smogon": "meditite-f"
     },
     "baseSpecies": "meditite",
     "baseForms": [],

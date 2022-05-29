@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "FLORGES_BLUE",
         "veekunDb": "florges-blue",
-        "showdownMarkup": "Florges-Blue",
-        "showdownData": "florgesblue",
-        "serebii": "florges-blue",
+        "serebii": "florges",
         "bulbapedia": "Florges",
         "homeSprite": "florges-blue",
-        "miniSprite": "florges-blue"
+        "miniSprite": "florges-blue",
+        "showdown": "florgesblue",
+        "showdownDef": "Florges-Blue",
+        "smogon": "florges-blue"
     },
     "baseSpecies": "florges",
     "baseForms": [],

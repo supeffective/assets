@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MELTAN",
         "veekunDb": "meltan",
-        "showdownMarkup": "Meltan",
-        "showdownData": "meltan",
         "serebii": "meltan",
         "bulbapedia": "Meltan",
         "homeSprite": "meltan",
-        "miniSprite": "meltan"
+        "miniSprite": "meltan",
+        "showdown": "meltan",
+        "showdownDef": "Meltan",
+        "smogon": "meltan"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "SCIZOR_MEGA",
         "veekunDb": "scizor-mega",
-        "showdownMarkup": "Scizor-Mega",
-        "showdownData": "scizormega",
-        "serebii": "scizor-mega",
+        "serebii": "scizor",
         "bulbapedia": "Scizor",
         "homeSprite": "scizor-mega",
-        "miniSprite": "scizor-mega"
+        "miniSprite": "scizor-mega",
+        "showdown": "scizormega",
+        "showdownDef": "Scizor-Mega",
+        "smogon": "scizor-mega"
     },
     "baseSpecies": "scizor",
     "baseForms": [

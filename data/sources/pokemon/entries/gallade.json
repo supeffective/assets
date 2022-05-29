@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "GALLADE",
         "veekunDb": "gallade",
-        "showdownMarkup": "Gallade",
-        "showdownData": "gallade",
         "serebii": "gallade",
         "bulbapedia": "Gallade",
         "homeSprite": "gallade",
-        "miniSprite": "gallade"
+        "miniSprite": "gallade",
+        "showdown": "gallade",
+        "showdownDef": "Gallade",
+        "smogon": "gallade"
     },
     "baseSpecies": null,
     "baseForms": [],

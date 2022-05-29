@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "NECROZMA",
         "veekunDb": "necrozma",
-        "showdownMarkup": "Necrozma",
-        "showdownData": "necrozma",
         "serebii": "necrozma",
         "bulbapedia": "Necrozma",
         "homeSprite": "necrozma",
-        "miniSprite": "necrozma"
+        "miniSprite": "necrozma",
+        "showdown": "necrozma",
+        "showdownDef": "Necrozma",
+        "smogon": "necrozma"
     },
     "baseSpecies": null,
     "baseForms": [],

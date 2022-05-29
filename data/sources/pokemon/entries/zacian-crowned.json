@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "ZACIAN_CROWNED",
         "veekunDb": "zacian-crowned",
-        "showdownMarkup": "Zacian-Crowned",
-        "showdownData": "zaciancrowned",
-        "serebii": "zacian-crowned",
+        "serebii": "zacian",
         "bulbapedia": "Zacian",
         "homeSprite": "zacian-crowned",
-        "miniSprite": "zacian-crowned"
+        "miniSprite": "zacian-crowned",
+        "showdown": "zaciancrowned",
+        "showdownDef": "Zacian-Crowned",
+        "smogon": "zacian-crowned"
     },
     "baseSpecies": "zacian",
     "baseForms": [

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "PIGNITE",
         "veekunDb": "pignite",
-        "showdownMarkup": "Pignite",
-        "showdownData": "pignite",
         "serebii": "pignite",
         "bulbapedia": "Pignite",
         "homeSprite": "pignite",
-        "miniSprite": "pignite"
+        "miniSprite": "pignite",
+        "showdown": "pignite",
+        "showdownDef": "Pignite",
+        "smogon": "pignite"
     },
     "baseSpecies": null,
     "baseForms": [],

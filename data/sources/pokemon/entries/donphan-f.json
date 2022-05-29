@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DONPHAN_F",
         "veekunDb": "donphan-f",
-        "showdownMarkup": "Donphan-F",
-        "showdownData": "donphanf",
-        "serebii": "donphan-f",
+        "serebii": "donphan",
         "bulbapedia": "Donphan",
         "homeSprite": "donphan-f",
-        "miniSprite": "donphan-f"
+        "miniSprite": "donphan-f",
+        "showdown": "donphanf",
+        "showdownDef": "Donphan-F",
+        "smogon": "donphan-f"
     },
     "baseSpecies": "donphan",
     "baseForms": [],

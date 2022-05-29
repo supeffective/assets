@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DARUMAKA_GALAR",
         "veekunDb": "darumaka-galar",
-        "showdownMarkup": "Darumaka-Galar",
-        "showdownData": "darumakagalar",
-        "serebii": "darumaka-galar",
+        "serebii": "darumaka",
         "bulbapedia": "Darumaka",
         "homeSprite": "darumaka-galar",
-        "miniSprite": "darumaka-galar"
+        "miniSprite": "darumaka-galar",
+        "showdown": "darumakagalar",
+        "showdownDef": "Darumaka-Galar",
+        "smogon": "darumaka-galar"
     },
     "baseSpecies": "darumaka",
     "baseForms": [],

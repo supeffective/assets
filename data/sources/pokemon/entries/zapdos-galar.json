@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ZAPDOS_GALAR",
         "veekunDb": "zapdos-galar",
-        "showdownMarkup": "Zapdos-Galar",
-        "showdownData": "zapdosgalar",
-        "serebii": "zapdos-galar",
+        "serebii": "zapdos",
         "bulbapedia": "Zapdos",
         "homeSprite": "zapdos-galar",
-        "miniSprite": "zapdos-galar"
+        "miniSprite": "zapdos-galar",
+        "showdown": "zapdosgalar",
+        "showdownDef": "Zapdos-Galar",
+        "smogon": "zapdos-galar"
     },
     "baseSpecies": "zapdos",
     "baseForms": [],

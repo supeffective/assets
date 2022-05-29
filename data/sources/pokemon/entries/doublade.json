@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DOUBLADE",
         "veekunDb": "doublade",
-        "showdownMarkup": "Doublade",
-        "showdownData": "doublade",
         "serebii": "doublade",
         "bulbapedia": "Doublade",
         "homeSprite": "doublade",
-        "miniSprite": "doublade"
+        "miniSprite": "doublade",
+        "showdown": "doublade",
+        "showdownDef": "Doublade",
+        "smogon": "doublade"
     },
     "baseSpecies": null,
     "baseForms": [],

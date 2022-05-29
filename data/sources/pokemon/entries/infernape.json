@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "INFERNAPE",
         "veekunDb": "infernape",
-        "showdownMarkup": "Infernape",
-        "showdownData": "infernape",
         "serebii": "infernape",
         "bulbapedia": "Infernape",
         "homeSprite": "infernape",
-        "miniSprite": "infernape"
+        "miniSprite": "infernape",
+        "showdown": "infernape",
+        "showdownDef": "Infernape",
+        "smogon": "infernape"
     },
     "baseSpecies": null,
     "baseForms": [],

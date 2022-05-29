@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "CASTFORM_RAINY",
         "veekunDb": "castform-rainy",
-        "showdownMarkup": "Castform-Rainy",
-        "showdownData": "castformrainy",
-        "serebii": "castform-rainy",
+        "serebii": "castform",
         "bulbapedia": "Castform",
         "homeSprite": "castform-rainy",
-        "miniSprite": "castform-rainy"
+        "miniSprite": "castform-rainy",
+        "showdown": "castformrainy",
+        "showdownDef": "Castform-Rainy",
+        "smogon": "castform-rainy"
     },
     "baseSpecies": "castform",
     "baseForms": [

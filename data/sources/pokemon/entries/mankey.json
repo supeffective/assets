@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MANKEY",
         "veekunDb": "mankey",
-        "showdownMarkup": "Mankey",
-        "showdownData": "mankey",
         "serebii": "mankey",
         "bulbapedia": "Mankey",
         "homeSprite": "mankey",
-        "miniSprite": "mankey"
+        "miniSprite": "mankey",
+        "showdown": "mankey",
+        "showdownDef": "Mankey",
+        "smogon": "mankey"
     },
     "baseSpecies": null,
     "baseForms": [],

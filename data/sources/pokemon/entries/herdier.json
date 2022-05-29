@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "HERDIER",
         "veekunDb": "herdier",
-        "showdownMarkup": "Herdier",
-        "showdownData": "herdier",
         "serebii": "herdier",
         "bulbapedia": "Herdier",
         "homeSprite": "herdier",
-        "miniSprite": "herdier"
+        "miniSprite": "herdier",
+        "showdown": "herdier",
+        "showdownDef": "Herdier",
+        "smogon": "herdier"
     },
     "baseSpecies": null,
     "baseForms": [],

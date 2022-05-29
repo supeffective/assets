@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "FLABEBE_WHITE",
         "veekunDb": "flabebe-white",
-        "showdownMarkup": "Flabebe-White",
-        "showdownData": "flabebewhite",
-        "serebii": "flabebe-white",
+        "serebii": "flabebe",
         "bulbapedia": "Flabebe",
         "homeSprite": "flabebe-white",
-        "miniSprite": "flabebe-white"
+        "miniSprite": "flabebe-white",
+        "showdown": "flabebewhite",
+        "showdownDef": "Flabebe-White",
+        "smogon": "flabebe-white"
     },
     "baseSpecies": "flabebe",
     "baseForms": [],

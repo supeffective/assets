@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "MAMOSWINE_F",
         "veekunDb": "mamoswine-f",
-        "showdownMarkup": "Mamoswine-F",
-        "showdownData": "mamoswinef",
-        "serebii": "mamoswine-f",
+        "serebii": "mamoswine",
         "bulbapedia": "Mamoswine",
         "homeSprite": "mamoswine-f",
-        "miniSprite": "mamoswine-f"
+        "miniSprite": "mamoswine-f",
+        "showdown": "mamoswinef",
+        "showdownDef": "Mamoswine-F",
+        "smogon": "mamoswine-f"
     },
     "baseSpecies": "mamoswine",
     "baseForms": [],

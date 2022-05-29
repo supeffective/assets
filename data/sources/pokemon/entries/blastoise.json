@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "BLASTOISE",
         "veekunDb": "blastoise",
-        "showdownMarkup": "Blastoise",
-        "showdownData": "blastoise",
         "serebii": "blastoise",
         "bulbapedia": "Blastoise",
         "homeSprite": "blastoise",
-        "miniSprite": "blastoise"
+        "miniSprite": "blastoise",
+        "showdown": "blastoise",
+        "showdownDef": "Blastoise",
+        "smogon": "blastoise"
     },
     "baseSpecies": null,
     "baseForms": [],

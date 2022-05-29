@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "MACHAMP_GMAX",
         "veekunDb": "machamp-gmax",
-        "showdownMarkup": "Machamp-Gmax",
-        "showdownData": "machampgmax",
-        "serebii": "machamp-gmax",
+        "serebii": "machamp",
         "bulbapedia": "Machamp",
         "homeSprite": "machamp-gmax",
-        "miniSprite": "machamp-gmax"
+        "miniSprite": "machamp-gmax",
+        "showdown": "machampgmax",
+        "showdownDef": "Machamp-Gmax",
+        "smogon": "machamp-gmax"
     },
     "baseSpecies": "machamp",
     "baseForms": [

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "PINECO",
         "veekunDb": "pineco",
-        "showdownMarkup": "Pineco",
-        "showdownData": "pineco",
         "serebii": "pineco",
         "bulbapedia": "Pineco",
         "homeSprite": "pineco",
-        "miniSprite": "pineco"
+        "miniSprite": "pineco",
+        "showdown": "pineco",
+        "showdownDef": "Pineco",
+        "smogon": "pineco"
     },
     "baseSpecies": null,
     "baseForms": [],

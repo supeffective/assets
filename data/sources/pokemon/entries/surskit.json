@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SURSKIT",
         "veekunDb": "surskit",
-        "showdownMarkup": "Surskit",
-        "showdownData": "surskit",
         "serebii": "surskit",
         "bulbapedia": "Surskit",
         "homeSprite": "surskit",
-        "miniSprite": "surskit"
+        "miniSprite": "surskit",
+        "showdown": "surskit",
+        "showdownDef": "Surskit",
+        "smogon": "surskit"
     },
     "baseSpecies": null,
     "baseForms": [],

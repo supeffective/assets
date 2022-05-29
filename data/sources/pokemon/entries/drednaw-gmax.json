@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "DREDNAW_GMAX",
         "veekunDb": "drednaw-gmax",
-        "showdownMarkup": "Drednaw-Gmax",
-        "showdownData": "drednawgmax",
-        "serebii": "drednaw-gmax",
+        "serebii": "drednaw",
         "bulbapedia": "Drednaw",
         "homeSprite": "drednaw-gmax",
-        "miniSprite": "drednaw-gmax"
+        "miniSprite": "drednaw-gmax",
+        "showdown": "drednawgmax",
+        "showdownDef": "Drednaw-Gmax",
+        "smogon": "drednaw-gmax"
     },
     "baseSpecies": "drednaw",
     "baseForms": [

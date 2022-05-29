@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "LATIOS_MEGA",
         "veekunDb": "latios-mega",
-        "showdownMarkup": "Latios-Mega",
-        "showdownData": "latiosmega",
-        "serebii": "latios-mega",
+        "serebii": "latios",
         "bulbapedia": "Latios",
         "homeSprite": "latios-mega",
-        "miniSprite": "latios-mega"
+        "miniSprite": "latios-mega",
+        "showdown": "latiosmega",
+        "showdownDef": "Latios-Mega",
+        "smogon": "latios-mega"
     },
     "baseSpecies": "latios",
     "baseForms": [

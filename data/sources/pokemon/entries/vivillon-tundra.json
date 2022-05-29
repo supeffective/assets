@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VIVILLON_TUNDRA",
         "veekunDb": "vivillon-tundra",
-        "showdownMarkup": "Vivillon-Tundra",
-        "showdownData": "vivillontundra",
-        "serebii": "vivillon-tundra",
+        "serebii": "vivillon",
         "bulbapedia": "Vivillon",
         "homeSprite": "vivillon-tundra",
-        "miniSprite": "vivillon-tundra"
+        "miniSprite": "vivillon-tundra",
+        "showdown": "vivillontundra",
+        "showdownDef": "Vivillon-Tundra",
+        "smogon": "vivillon-tundra"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CHARMELEON",
         "veekunDb": "charmeleon",
-        "showdownMarkup": "Charmeleon",
-        "showdownData": "charmeleon",
         "serebii": "charmeleon",
         "bulbapedia": "Charmeleon",
         "homeSprite": "charmeleon",
-        "miniSprite": "charmeleon"
+        "miniSprite": "charmeleon",
+        "showdown": "charmeleon",
+        "showdownDef": "Charmeleon",
+        "smogon": "charmeleon"
     },
     "baseSpecies": null,
     "baseForms": [],

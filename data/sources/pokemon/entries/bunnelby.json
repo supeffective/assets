@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "BUNNELBY",
         "veekunDb": "bunnelby",
-        "showdownMarkup": "Bunnelby",
-        "showdownData": "bunnelby",
         "serebii": "bunnelby",
         "bulbapedia": "Bunnelby",
         "homeSprite": "bunnelby",
-        "miniSprite": "bunnelby"
+        "miniSprite": "bunnelby",
+        "showdown": "bunnelby",
+        "showdownDef": "Bunnelby",
+        "smogon": "bunnelby"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "BRONZOR",
         "veekunDb": "bronzor",
-        "showdownMarkup": "Bronzor",
-        "showdownData": "bronzor",
         "serebii": "bronzor",
         "bulbapedia": "Bronzor",
         "homeSprite": "bronzor",
-        "miniSprite": "bronzor"
+        "miniSprite": "bronzor",
+        "showdown": "bronzor",
+        "showdownDef": "Bronzor",
+        "smogon": "bronzor"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "FLAPPLE",
         "veekunDb": "flapple",
-        "showdownMarkup": "Flapple",
-        "showdownData": "flapple",
         "serebii": "flapple",
         "bulbapedia": "Flapple",
         "homeSprite": "flapple",
-        "miniSprite": "flapple"
+        "miniSprite": "flapple",
+        "showdown": "flapple",
+        "showdownDef": "Flapple",
+        "smogon": "flapple"
     },
     "baseSpecies": null,
     "baseForms": [],

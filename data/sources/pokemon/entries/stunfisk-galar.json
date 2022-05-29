@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "STUNFISK_GALAR",
         "veekunDb": "stunfisk-galar",
-        "showdownMarkup": "Stunfisk-Galar",
-        "showdownData": "stunfiskgalar",
-        "serebii": "stunfisk-galar",
+        "serebii": "stunfisk",
         "bulbapedia": "Stunfisk",
         "homeSprite": "stunfisk-galar",
-        "miniSprite": "stunfisk-galar"
+        "miniSprite": "stunfisk-galar",
+        "showdown": "stunfiskgalar",
+        "showdownDef": "Stunfisk-Galar",
+        "smogon": "stunfisk-galar"
     },
     "baseSpecies": "stunfisk",
     "baseForms": [],

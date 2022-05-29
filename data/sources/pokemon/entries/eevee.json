@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "EEVEE",
         "veekunDb": "eevee",
-        "showdownMarkup": "Eevee",
-        "showdownData": "eevee",
         "serebii": "eevee",
         "bulbapedia": "Eevee",
         "homeSprite": "eevee",
-        "miniSprite": "eevee"
+        "miniSprite": "eevee",
+        "showdown": "eevee",
+        "showdownDef": "Eevee",
+        "smogon": "eevee"
     },
     "baseSpecies": null,
     "baseForms": [],

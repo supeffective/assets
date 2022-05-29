@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DEOXYS_SPEED",
         "veekunDb": "deoxys-speed",
-        "showdownMarkup": "Deoxys-Speed",
-        "showdownData": "deoxysspeed",
-        "serebii": "deoxys-speed",
+        "serebii": "deoxys",
         "bulbapedia": "Deoxys",
         "homeSprite": "deoxys-speed",
-        "miniSprite": "deoxys-speed"
+        "miniSprite": "deoxys-speed",
+        "showdown": "deoxysspeed",
+        "showdownDef": "Deoxys-Speed",
+        "smogon": "deoxys-speed"
     },
     "baseSpecies": "deoxys",
     "baseForms": [

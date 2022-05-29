@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ROCKRUFF_OWN_TEMPO",
         "veekunDb": "rockruff-own-tempo",
-        "showdownMarkup": "Rockruff-Own-Tempo",
-        "showdownData": "rockruffowntempo",
         "serebii": "rockruff",
         "bulbapedia": "Rockruff",
         "homeSprite": "rockruff--own-tempo",
-        "miniSprite": "rockruff--own-tempo"
+        "miniSprite": "rockruff--own-tempo",
+        "showdown": "rockruffowntempo",
+        "showdownDef": "Rockruff-Own-Tempo",
+        "smogon": "rockruff--own-tempo"
     },
     "baseSpecies": "rockruff",
     "baseForms": [],

@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "SALAMENCE_MEGA",
         "veekunDb": "salamence-mega",
-        "showdownMarkup": "Salamence-Mega",
-        "showdownData": "salamencemega",
-        "serebii": "salamence-mega",
+        "serebii": "salamence",
         "bulbapedia": "Salamence",
         "homeSprite": "salamence-mega",
-        "miniSprite": "salamence-mega"
+        "miniSprite": "salamence-mega",
+        "showdown": "salamencemega",
+        "showdownDef": "Salamence-Mega",
+        "smogon": "salamence-mega"
     },
     "baseSpecies": "salamence",
     "baseForms": [

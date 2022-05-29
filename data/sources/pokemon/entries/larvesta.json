@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "LARVESTA",
         "veekunDb": "larvesta",
-        "showdownMarkup": "Larvesta",
-        "showdownData": "larvesta",
         "serebii": "larvesta",
         "bulbapedia": "Larvesta",
         "homeSprite": "larvesta",
-        "miniSprite": "larvesta"
+        "miniSprite": "larvesta",
+        "showdown": "larvesta",
+        "showdownDef": "Larvesta",
+        "smogon": "larvesta"
     },
     "baseSpecies": null,
     "baseForms": [],

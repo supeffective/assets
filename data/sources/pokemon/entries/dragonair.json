@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DRAGONAIR",
         "veekunDb": "dragonair",
-        "showdownMarkup": "Dragonair",
-        "showdownData": "dragonair",
         "serebii": "dragonair",
         "bulbapedia": "Dragonair",
         "homeSprite": "dragonair",
-        "miniSprite": "dragonair"
+        "miniSprite": "dragonair",
+        "showdown": "dragonair",
+        "showdownDef": "Dragonair",
+        "smogon": "dragonair"
     },
     "baseSpecies": null,
     "baseForms": [],

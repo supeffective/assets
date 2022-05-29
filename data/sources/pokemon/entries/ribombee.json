@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "RIBOMBEE",
         "veekunDb": "ribombee",
-        "showdownMarkup": "Ribombee",
-        "showdownData": "ribombee",
         "serebii": "ribombee",
         "bulbapedia": "Ribombee",
         "homeSprite": "ribombee",
-        "miniSprite": "ribombee"
+        "miniSprite": "ribombee",
+        "showdown": "ribombee",
+        "showdownDef": "Ribombee",
+        "smogon": "ribombee"
     },
     "baseSpecies": null,
     "baseForms": [],

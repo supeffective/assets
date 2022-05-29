@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "COSMOEM",
         "veekunDb": "cosmoem",
-        "showdownMarkup": "Cosmoem",
-        "showdownData": "cosmoem",
         "serebii": "cosmoem",
         "bulbapedia": "Cosmoem",
         "homeSprite": "cosmoem",
-        "miniSprite": "cosmoem"
+        "miniSprite": "cosmoem",
+        "showdown": "cosmoem",
+        "showdownDef": "Cosmoem",
+        "smogon": "cosmoem"
     },
     "baseSpecies": null,
     "baseForms": [],

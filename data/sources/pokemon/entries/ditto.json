@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DITTO",
         "veekunDb": "ditto",
-        "showdownMarkup": "Ditto",
-        "showdownData": "ditto",
         "serebii": "ditto",
         "bulbapedia": "Ditto",
         "homeSprite": "ditto",
-        "miniSprite": "ditto"
+        "miniSprite": "ditto",
+        "showdown": "ditto",
+        "showdownDef": "Ditto",
+        "smogon": "ditto"
     },
     "baseSpecies": null,
     "baseForms": [],

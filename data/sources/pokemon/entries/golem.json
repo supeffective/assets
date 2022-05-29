@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "GOLEM",
         "veekunDb": "golem",
-        "showdownMarkup": "Golem",
-        "showdownData": "golem",
         "serebii": "golem",
         "bulbapedia": "Golem",
         "homeSprite": "golem",
-        "miniSprite": "golem"
+        "miniSprite": "golem",
+        "showdown": "golem",
+        "showdownDef": "Golem",
+        "smogon": "golem"
     },
     "baseSpecies": null,
     "baseForms": [],

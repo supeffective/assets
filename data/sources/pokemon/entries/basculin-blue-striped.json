@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "BASCULIN_BLUE_STRIPED",
         "veekunDb": "basculin-blue-striped",
-        "showdownMarkup": "Basculin-Blue-Striped",
-        "showdownData": "basculinbluestriped",
-        "serebii": "basculin-blue-striped",
+        "serebii": "basculin",
         "bulbapedia": "Basculin",
         "homeSprite": "basculin-blue-striped",
-        "miniSprite": "basculin-blue-striped"
+        "miniSprite": "basculin-blue-striped",
+        "showdown": "basculinbluestriped",
+        "showdownDef": "Basculin-Blue-Striped",
+        "smogon": "basculin-blue-striped"
     },
     "baseSpecies": "basculin",
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ARTICUNO_GALAR",
         "veekunDb": "articuno-galar",
-        "showdownMarkup": "Articuno-Galar",
-        "showdownData": "articunogalar",
-        "serebii": "articuno-galar",
+        "serebii": "articuno",
         "bulbapedia": "Articuno",
         "homeSprite": "articuno-galar",
-        "miniSprite": "articuno-galar"
+        "miniSprite": "articuno-galar",
+        "showdown": "articunogalar",
+        "showdownDef": "Articuno-Galar",
+        "smogon": "articuno-galar"
     },
     "baseSpecies": "articuno",
     "baseForms": [],

@@ -74,12 +74,13 @@
     "refs": {
         "pogo": "ARCEUS_ICE",
         "veekunDb": "arceus-ice",
-        "showdownMarkup": "Arceus-Ice",
-        "showdownData": "arceusice",
-        "serebii": "arceus-ice",
+        "serebii": "arceus",
         "bulbapedia": "Arceus",
         "homeSprite": "arceus-ice",
-        "miniSprite": "arceus-ice"
+        "miniSprite": "arceus-ice",
+        "showdown": "arceusice",
+        "showdownDef": "Arceus-Ice",
+        "smogon": "arceus-ice"
     },
     "baseSpecies": "arceus",
     "baseForms": [

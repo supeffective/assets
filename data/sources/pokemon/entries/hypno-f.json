@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "HYPNO_F",
         "veekunDb": "hypno-f",
-        "showdownMarkup": "Hypno-F",
-        "showdownData": "hypnof",
-        "serebii": "hypno-f",
+        "serebii": "hypno",
         "bulbapedia": "Hypno",
         "homeSprite": "hypno-f",
-        "miniSprite": "hypno-f"
+        "miniSprite": "hypno-f",
+        "showdown": "hypnof",
+        "showdownDef": "Hypno-F",
+        "smogon": "hypno-f"
     },
     "baseSpecies": "hypno",
     "baseForms": [],

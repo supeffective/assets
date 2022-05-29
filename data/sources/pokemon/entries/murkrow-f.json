@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "MURKROW_F",
         "veekunDb": "murkrow-f",
-        "showdownMarkup": "Murkrow-F",
-        "showdownData": "murkrowf",
-        "serebii": "murkrow-f",
+        "serebii": "murkrow",
         "bulbapedia": "Murkrow",
         "homeSprite": "murkrow-f",
-        "miniSprite": "murkrow-f"
+        "miniSprite": "murkrow-f",
+        "showdown": "murkrowf",
+        "showdownDef": "Murkrow-F",
+        "smogon": "murkrow-f"
     },
     "baseSpecies": "murkrow",
     "baseForms": [],

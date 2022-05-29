@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "RILLABOOM_GMAX",
         "veekunDb": "rillaboom-gmax",
-        "showdownMarkup": "Rillaboom-Gmax",
-        "showdownData": "rillaboomgmax",
-        "serebii": "rillaboom-gmax",
+        "serebii": "rillaboom",
         "bulbapedia": "Rillaboom",
         "homeSprite": "rillaboom-gmax",
-        "miniSprite": "rillaboom-gmax"
+        "miniSprite": "rillaboom-gmax",
+        "showdown": "rillaboomgmax",
+        "showdownDef": "Rillaboom-Gmax",
+        "smogon": "rillaboom-gmax"
     },
     "baseSpecies": "rillaboom",
     "baseForms": [

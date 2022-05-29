@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "HOOTHOOT",
         "veekunDb": "hoothoot",
-        "showdownMarkup": "Hoothoot",
-        "showdownData": "hoothoot",
         "serebii": "hoothoot",
         "bulbapedia": "Hoothoot",
         "homeSprite": "hoothoot",
-        "miniSprite": "hoothoot"
+        "miniSprite": "hoothoot",
+        "showdown": "hoothoot",
+        "showdownDef": "Hoothoot",
+        "smogon": "hoothoot"
     },
     "baseSpecies": null,
     "baseForms": [],

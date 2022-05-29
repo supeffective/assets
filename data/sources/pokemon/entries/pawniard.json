@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "PAWNIARD",
         "veekunDb": "pawniard",
-        "showdownMarkup": "Pawniard",
-        "showdownData": "pawniard",
         "serebii": "pawniard",
         "bulbapedia": "Pawniard",
         "homeSprite": "pawniard",
-        "miniSprite": "pawniard"
+        "miniSprite": "pawniard",
+        "showdown": "pawniard",
+        "showdownDef": "Pawniard",
+        "smogon": "pawniard"
     },
     "baseSpecies": null,
     "baseForms": [],

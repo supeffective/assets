@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "PACHIRISU",
         "veekunDb": "pachirisu",
-        "showdownMarkup": "Pachirisu",
-        "showdownData": "pachirisu",
         "serebii": "pachirisu",
         "bulbapedia": "Pachirisu",
         "homeSprite": "pachirisu",
-        "miniSprite": "pachirisu"
+        "miniSprite": "pachirisu",
+        "showdown": "pachirisu",
+        "showdownDef": "Pachirisu",
+        "smogon": "pachirisu"
     },
     "baseSpecies": null,
     "baseForms": [],

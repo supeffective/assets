@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "LUCARIO",
         "veekunDb": "lucario",
-        "showdownMarkup": "Lucario",
-        "showdownData": "lucario",
         "serebii": "lucario",
         "bulbapedia": "Lucario",
         "homeSprite": "lucario",
-        "miniSprite": "lucario"
+        "miniSprite": "lucario",
+        "showdown": "lucario",
+        "showdownDef": "Lucario",
+        "smogon": "lucario"
     },
     "baseSpecies": null,
     "baseForms": [],

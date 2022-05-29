@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DRACOZOLT",
         "veekunDb": "dracozolt",
-        "showdownMarkup": "Dracozolt",
-        "showdownData": "dracozolt",
         "serebii": "dracozolt",
         "bulbapedia": "Dracozolt",
         "homeSprite": "dracozolt",
-        "miniSprite": "dracozolt"
+        "miniSprite": "dracozolt",
+        "showdown": "dracozolt",
+        "showdownDef": "Dracozolt",
+        "smogon": "dracozolt"
     },
     "baseSpecies": null,
     "baseForms": [],

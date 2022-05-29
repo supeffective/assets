@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MAGEARNA",
         "veekunDb": "magearna",
-        "showdownMarkup": "Magearna",
-        "showdownData": "magearna",
         "serebii": "magearna",
         "bulbapedia": "Magearna",
         "homeSprite": "magearna",
-        "miniSprite": "magearna"
+        "miniSprite": "magearna",
+        "showdown": "magearna",
+        "showdownDef": "Magearna",
+        "smogon": "magearna"
     },
     "baseSpecies": null,
     "baseForms": [],

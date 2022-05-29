@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "CLEFFA",
         "veekunDb": "cleffa",
-        "showdownMarkup": "Cleffa",
-        "showdownData": "cleffa",
         "serebii": "cleffa",
         "bulbapedia": "Cleffa",
         "homeSprite": "cleffa",
-        "miniSprite": "cleffa"
+        "miniSprite": "cleffa",
+        "showdown": "cleffa",
+        "showdownDef": "Cleffa",
+        "smogon": "cleffa"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SALANDIT",
         "veekunDb": "salandit",
-        "showdownMarkup": "Salandit",
-        "showdownData": "salandit",
         "serebii": "salandit",
         "bulbapedia": "Salandit",
         "homeSprite": "salandit",
-        "miniSprite": "salandit"
+        "miniSprite": "salandit",
+        "showdown": "salandit",
+        "showdownDef": "Salandit",
+        "smogon": "salandit"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "INKAY",
         "veekunDb": "inkay",
-        "showdownMarkup": "Inkay",
-        "showdownData": "inkay",
         "serebii": "inkay",
         "bulbapedia": "Inkay",
         "homeSprite": "inkay",
-        "miniSprite": "inkay"
+        "miniSprite": "inkay",
+        "showdown": "inkay",
+        "showdownDef": "Inkay",
+        "smogon": "inkay"
     },
     "baseSpecies": null,
     "baseForms": [],

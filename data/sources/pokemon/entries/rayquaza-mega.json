@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "RAYQUAZA_MEGA",
         "veekunDb": "rayquaza-mega",
-        "showdownMarkup": "Rayquaza-Mega",
-        "showdownData": "rayquazamega",
-        "serebii": "rayquaza-mega",
+        "serebii": "rayquaza",
         "bulbapedia": "Rayquaza",
         "homeSprite": "rayquaza-mega",
-        "miniSprite": "rayquaza-mega"
+        "miniSprite": "rayquaza-mega",
+        "showdown": "rayquazamega",
+        "showdownDef": "Rayquaza-Mega",
+        "smogon": "rayquaza-mega"
     },
     "baseSpecies": "rayquaza",
     "baseForms": [

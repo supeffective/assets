@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "TAPUKOKO",
         "veekunDb": "tapukoko",
-        "showdownMarkup": "Tapukoko",
-        "showdownData": "tapukoko",
         "serebii": "tapukoko",
         "bulbapedia": "Tapu Koko",
         "homeSprite": "tapukoko",
-        "miniSprite": "tapukoko"
+        "miniSprite": "tapukoko",
+        "showdown": "tapukoko",
+        "showdownDef": "Tapukoko",
+        "smogon": "tapukoko"
     },
     "baseSpecies": null,
     "baseForms": [],

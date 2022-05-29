@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "QUAGSIRE_F",
         "veekunDb": "quagsire-f",
-        "showdownMarkup": "Quagsire-F",
-        "showdownData": "quagsiref",
-        "serebii": "quagsire-f",
+        "serebii": "quagsire",
         "bulbapedia": "Quagsire",
         "homeSprite": "quagsire-f",
-        "miniSprite": "quagsire-f"
+        "miniSprite": "quagsire-f",
+        "showdown": "quagsiref",
+        "showdownDef": "Quagsire-F",
+        "smogon": "quagsire-f"
     },
     "baseSpecies": "quagsire",
     "baseForms": [],

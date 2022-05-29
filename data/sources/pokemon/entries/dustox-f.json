@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "DUSTOX_F",
         "veekunDb": "dustox-f",
-        "showdownMarkup": "Dustox-F",
-        "showdownData": "dustoxf",
-        "serebii": "dustox-f",
+        "serebii": "dustox",
         "bulbapedia": "Dustox",
         "homeSprite": "dustox-f",
-        "miniSprite": "dustox-f"
+        "miniSprite": "dustox-f",
+        "showdown": "dustoxf",
+        "showdownDef": "Dustox-F",
+        "smogon": "dustox-f"
     },
     "baseSpecies": "dustox",
     "baseForms": [],

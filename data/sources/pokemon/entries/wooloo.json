@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "WOOLOO",
         "veekunDb": "wooloo",
-        "showdownMarkup": "Wooloo",
-        "showdownData": "wooloo",
         "serebii": "wooloo",
         "bulbapedia": "Wooloo",
         "homeSprite": "wooloo",
-        "miniSprite": "wooloo"
+        "miniSprite": "wooloo",
+        "showdown": "wooloo",
+        "showdownDef": "Wooloo",
+        "smogon": "wooloo"
     },
     "baseSpecies": null,
     "baseForms": [],

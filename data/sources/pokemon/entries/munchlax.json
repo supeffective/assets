@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "MUNCHLAX",
         "veekunDb": "munchlax",
-        "showdownMarkup": "Munchlax",
-        "showdownData": "munchlax",
         "serebii": "munchlax",
         "bulbapedia": "Munchlax",
         "homeSprite": "munchlax",
-        "miniSprite": "munchlax"
+        "miniSprite": "munchlax",
+        "showdown": "munchlax",
+        "showdownDef": "Munchlax",
+        "smogon": "munchlax"
     },
     "baseSpecies": null,
     "baseForms": [],

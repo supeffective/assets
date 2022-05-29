@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "LANDORUS",
         "veekunDb": "landorus",
-        "showdownMarkup": "Landorus",
-        "showdownData": "landorus",
         "serebii": "landorus",
         "bulbapedia": "Landorus",
         "homeSprite": "landorus",
-        "miniSprite": "landorus"
+        "miniSprite": "landorus",
+        "showdown": "landorus",
+        "showdownDef": "Landorus",
+        "smogon": "landorus"
     },
     "baseSpecies": null,
     "baseForms": [],

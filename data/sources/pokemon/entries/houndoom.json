@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "HOUNDOOM",
         "veekunDb": "houndoom",
-        "showdownMarkup": "Houndoom",
-        "showdownData": "houndoom",
         "serebii": "houndoom",
         "bulbapedia": "Houndoom",
         "homeSprite": "houndoom",
-        "miniSprite": "houndoom"
+        "miniSprite": "houndoom",
+        "showdown": "houndoom",
+        "showdownDef": "Houndoom",
+        "smogon": "houndoom"
     },
     "baseSpecies": null,
     "baseForms": [],

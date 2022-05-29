@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "CHIMCHAR",
         "veekunDb": "chimchar",
-        "showdownMarkup": "Chimchar",
-        "showdownData": "chimchar",
         "serebii": "chimchar",
         "bulbapedia": "Chimchar",
         "homeSprite": "chimchar",
-        "miniSprite": "chimchar"
+        "miniSprite": "chimchar",
+        "showdown": "chimchar",
+        "showdownDef": "Chimchar",
+        "smogon": "chimchar"
     },
     "baseSpecies": null,
     "baseForms": [],

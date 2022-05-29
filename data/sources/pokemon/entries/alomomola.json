@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ALOMOMOLA",
         "veekunDb": "alomomola",
-        "showdownMarkup": "Alomomola",
-        "showdownData": "alomomola",
         "serebii": "alomomola",
         "bulbapedia": "Alomomola",
         "homeSprite": "alomomola",
-        "miniSprite": "alomomola"
+        "miniSprite": "alomomola",
+        "showdown": "alomomola",
+        "showdownDef": "Alomomola",
+        "smogon": "alomomola"
     },
     "baseSpecies": null,
     "baseForms": [],

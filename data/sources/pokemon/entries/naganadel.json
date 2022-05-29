@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "NAGANADEL",
         "veekunDb": "naganadel",
-        "showdownMarkup": "Naganadel",
-        "showdownData": "naganadel",
         "serebii": "naganadel",
         "bulbapedia": "Naganadel",
         "homeSprite": "naganadel",
-        "miniSprite": "naganadel"
+        "miniSprite": "naganadel",
+        "showdown": "naganadel",
+        "showdownDef": "Naganadel",
+        "smogon": "naganadel"
     },
     "baseSpecies": null,
     "baseForms": [],

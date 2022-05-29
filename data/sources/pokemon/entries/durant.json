@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DURANT",
         "veekunDb": "durant",
-        "showdownMarkup": "Durant",
-        "showdownData": "durant",
         "serebii": "durant",
         "bulbapedia": "Durant",
         "homeSprite": "durant",
-        "miniSprite": "durant"
+        "miniSprite": "durant",
+        "showdown": "durant",
+        "showdownDef": "Durant",
+        "smogon": "durant"
     },
     "baseSpecies": null,
     "baseForms": [],

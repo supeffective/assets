@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SCATTERBUG",
         "veekunDb": "scatterbug",
-        "showdownMarkup": "Scatterbug",
-        "showdownData": "scatterbug",
         "serebii": "scatterbug",
         "bulbapedia": "Scatterbug",
         "homeSprite": "scatterbug",
-        "miniSprite": "scatterbug"
+        "miniSprite": "scatterbug",
+        "showdown": "scatterbug",
+        "showdownDef": "Scatterbug",
+        "smogon": "scatterbug"
     },
     "baseSpecies": null,
     "baseForms": [],

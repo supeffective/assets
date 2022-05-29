@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "MAGMORTAR",
         "veekunDb": "magmortar",
-        "showdownMarkup": "Magmortar",
-        "showdownData": "magmortar",
         "serebii": "magmortar",
         "bulbapedia": "Magmortar",
         "homeSprite": "magmortar",
-        "miniSprite": "magmortar"
+        "miniSprite": "magmortar",
+        "showdown": "magmortar",
+        "showdownDef": "Magmortar",
+        "smogon": "magmortar"
     },
     "baseSpecies": null,
     "baseForms": [],

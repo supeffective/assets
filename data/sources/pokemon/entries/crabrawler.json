@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CRABRAWLER",
         "veekunDb": "crabrawler",
-        "showdownMarkup": "Crabrawler",
-        "showdownData": "crabrawler",
         "serebii": "crabrawler",
         "bulbapedia": "Crabrawler",
         "homeSprite": "crabrawler",
-        "miniSprite": "crabrawler"
+        "miniSprite": "crabrawler",
+        "showdown": "crabrawler",
+        "showdownDef": "Crabrawler",
+        "smogon": "crabrawler"
     },
     "baseSpecies": null,
     "baseForms": [],

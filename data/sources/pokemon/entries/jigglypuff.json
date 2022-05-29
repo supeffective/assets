@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "JIGGLYPUFF",
         "veekunDb": "jigglypuff",
-        "showdownMarkup": "Jigglypuff",
-        "showdownData": "jigglypuff",
         "serebii": "jigglypuff",
         "bulbapedia": "Jigglypuff",
         "homeSprite": "jigglypuff",
-        "miniSprite": "jigglypuff"
+        "miniSprite": "jigglypuff",
+        "showdown": "jigglypuff",
+        "showdownDef": "Jigglypuff",
+        "smogon": "jigglypuff"
     },
     "baseSpecies": null,
     "baseForms": [],

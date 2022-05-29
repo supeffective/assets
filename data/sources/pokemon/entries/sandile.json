@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SANDILE",
         "veekunDb": "sandile",
-        "showdownMarkup": "Sandile",
-        "showdownData": "sandile",
         "serebii": "sandile",
         "bulbapedia": "Sandile",
         "homeSprite": "sandile",
-        "miniSprite": "sandile"
+        "miniSprite": "sandile",
+        "showdown": "sandile",
+        "showdownDef": "Sandile",
+        "smogon": "sandile"
     },
     "baseSpecies": null,
     "baseForms": [],

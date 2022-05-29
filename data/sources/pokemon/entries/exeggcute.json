@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "EXEGGCUTE",
         "veekunDb": "exeggcute",
-        "showdownMarkup": "Exeggcute",
-        "showdownData": "exeggcute",
         "serebii": "exeggcute",
         "bulbapedia": "Exeggcute",
         "homeSprite": "exeggcute",
-        "miniSprite": "exeggcute"
+        "miniSprite": "exeggcute",
+        "showdown": "exeggcute",
+        "showdownDef": "Exeggcute",
+        "smogon": "exeggcute"
     },
     "baseSpecies": null,
     "baseForms": [],

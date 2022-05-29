@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "NICKIT",
         "veekunDb": "nickit",
-        "showdownMarkup": "Nickit",
-        "showdownData": "nickit",
         "serebii": "nickit",
         "bulbapedia": "Nickit",
         "homeSprite": "nickit",
-        "miniSprite": "nickit"
+        "miniSprite": "nickit",
+        "showdown": "nickit",
+        "showdownDef": "Nickit",
+        "smogon": "nickit"
     },
     "baseSpecies": null,
     "baseForms": [],

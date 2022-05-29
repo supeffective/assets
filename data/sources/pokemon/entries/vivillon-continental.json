@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VIVILLON_CONTINENTAL",
         "veekunDb": "vivillon-continental",
-        "showdownMarkup": "Vivillon-Continental",
-        "showdownData": "vivilloncontinental",
-        "serebii": "vivillon-continental",
+        "serebii": "vivillon",
         "bulbapedia": "Vivillon",
         "homeSprite": "vivillon-continental",
-        "miniSprite": "vivillon-continental"
+        "miniSprite": "vivillon-continental",
+        "showdown": "vivilloncontinental",
+        "showdownDef": "Vivillon-Continental",
+        "smogon": "vivillon-continental"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

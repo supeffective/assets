@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CONKELDURR",
         "veekunDb": "conkeldurr",
-        "showdownMarkup": "Conkeldurr",
-        "showdownData": "conkeldurr",
         "serebii": "conkeldurr",
         "bulbapedia": "Conkeldurr",
         "homeSprite": "conkeldurr",
-        "miniSprite": "conkeldurr"
+        "miniSprite": "conkeldurr",
+        "showdown": "conkeldurr",
+        "showdownDef": "Conkeldurr",
+        "smogon": "conkeldurr"
     },
     "baseSpecies": null,
     "baseForms": [],

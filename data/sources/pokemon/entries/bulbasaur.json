@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "BULBASAUR",
         "veekunDb": "bulbasaur",
-        "showdownMarkup": "Bulbasaur",
-        "showdownData": "bulbasaur",
         "serebii": "bulbasaur",
         "bulbapedia": "Bulbasaur",
         "homeSprite": "bulbasaur",
-        "miniSprite": "bulbasaur"
+        "miniSprite": "bulbasaur",
+        "showdown": "bulbasaur",
+        "showdownDef": "Bulbasaur",
+        "smogon": "bulbasaur"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ALCREMIE",
         "veekunDb": "alcremie",
-        "showdownMarkup": "Alcremie",
-        "showdownData": "alcremie",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "alcremie",
-        "miniSprite": "alcremie"
+        "miniSprite": "alcremie",
+        "showdown": "alcremie",
+        "showdownDef": "Alcremie",
+        "smogon": "alcremie"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "TIMBURR",
         "veekunDb": "timburr",
-        "showdownMarkup": "Timburr",
-        "showdownData": "timburr",
         "serebii": "timburr",
         "bulbapedia": "Timburr",
         "homeSprite": "timburr",
-        "miniSprite": "timburr"
+        "miniSprite": "timburr",
+        "showdown": "timburr",
+        "showdownDef": "Timburr",
+        "smogon": "timburr"
     },
     "baseSpecies": null,
     "baseForms": [],

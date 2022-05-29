@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ALCREMIE_SALTED_CREAM_CLOVER",
         "veekunDb": "alcremie-salted-cream-clover",
-        "showdownMarkup": "Alcremie-Salted-Cream-Clover",
-        "showdownData": "alcremiesaltedcreamclover",
-        "serebii": "alcremie-salted-cream-clover",
+        "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "alcremie-salted-cream-clover",
-        "miniSprite": "alcremie-salted-cream-clover"
+        "miniSprite": "alcremie-salted-cream-clover",
+        "showdown": "alcremiesaltedcreamclover",
+        "showdownDef": "Alcremie-Salted-Cream-Clover",
+        "smogon": "alcremie-salted-cream-clover"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

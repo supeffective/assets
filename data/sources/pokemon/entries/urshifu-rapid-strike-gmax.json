@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "URSHIFU_RAPID_STRIKE_GMAX",
         "veekunDb": "urshifu-rapid-strike-gmax",
-        "showdownMarkup": "Urshifu-Rapid-Strike-Gmax",
-        "showdownData": "urshifurapidstrikegmax",
-        "serebii": "urshifu-rapid-strike-gmax",
+        "serebii": "urshifu",
         "bulbapedia": "Urshifu",
         "homeSprite": "urshifu-rapid-strike-gmax",
-        "miniSprite": "urshifu-rapid-strike-gmax"
+        "miniSprite": "urshifu-rapid-strike-gmax",
+        "showdown": "urshifurapidstrikegmax",
+        "showdownDef": "Urshifu-Rapid-Strike-Gmax",
+        "smogon": "urshifu-rapid-strike-gmax"
     },
     "baseSpecies": "urshifu",
     "baseForms": [

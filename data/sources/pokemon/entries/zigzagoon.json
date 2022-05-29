@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ZIGZAGOON",
         "veekunDb": "zigzagoon",
-        "showdownMarkup": "Zigzagoon",
-        "showdownData": "zigzagoon",
         "serebii": "zigzagoon",
         "bulbapedia": "Zigzagoon",
         "homeSprite": "zigzagoon",
-        "miniSprite": "zigzagoon"
+        "miniSprite": "zigzagoon",
+        "showdown": "zigzagoon",
+        "showdownDef": "Zigzagoon",
+        "smogon": "zigzagoon"
     },
     "baseSpecies": null,
     "baseForms": [],

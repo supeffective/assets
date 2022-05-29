@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "TRANQUILL",
         "veekunDb": "tranquill",
-        "showdownMarkup": "Tranquill",
-        "showdownData": "tranquill",
         "serebii": "tranquill",
         "bulbapedia": "Tranquill",
         "homeSprite": "tranquill",
-        "miniSprite": "tranquill"
+        "miniSprite": "tranquill",
+        "showdown": "tranquill",
+        "showdownDef": "Tranquill",
+        "smogon": "tranquill"
     },
     "baseSpecies": null,
     "baseForms": [],

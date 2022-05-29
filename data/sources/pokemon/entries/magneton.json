@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "MAGNETON",
         "veekunDb": "magneton",
-        "showdownMarkup": "Magneton",
-        "showdownData": "magneton",
         "serebii": "magneton",
         "bulbapedia": "Magneton",
         "homeSprite": "magneton",
-        "miniSprite": "magneton"
+        "miniSprite": "magneton",
+        "showdown": "magneton",
+        "showdownDef": "Magneton",
+        "smogon": "magneton"
     },
     "baseSpecies": null,
     "baseForms": [],

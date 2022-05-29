@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "PERSIAN_ALOLA",
         "veekunDb": "persian-alola",
-        "showdownMarkup": "Persian-Alola",
-        "showdownData": "persianalola",
-        "serebii": "persian-alola",
+        "serebii": "persian",
         "bulbapedia": "Persian",
         "homeSprite": "persian-alola",
-        "miniSprite": "persian-alola"
+        "miniSprite": "persian-alola",
+        "showdown": "persianalola",
+        "showdownDef": "Persian-Alola",
+        "smogon": "persian-alola"
     },
     "baseSpecies": "persian",
     "baseForms": [],

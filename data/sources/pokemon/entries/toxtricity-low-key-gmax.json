@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "TOXTRICITY_LOW_KEY_GMAX",
         "veekunDb": "toxtricity-low-key-gmax",
-        "showdownMarkup": "Toxtricity-Low-Key-Gmax",
-        "showdownData": "toxtricitylowkeygmax",
-        "serebii": "toxtricity-low-key-gmax",
+        "serebii": "toxtricity",
         "bulbapedia": "Toxtricity",
         "homeSprite": "toxtricity-low-key-gmax",
-        "miniSprite": "toxtricity-low-key-gmax"
+        "miniSprite": "toxtricity-low-key-gmax",
+        "showdown": "toxtricitylowkeygmax",
+        "showdownDef": "Toxtricity-Low-Key-Gmax",
+        "smogon": "toxtricity-low-key-gmax"
     },
     "baseSpecies": "toxtricity",
     "baseForms": [

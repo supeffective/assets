@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DIGLETT_ALOLA",
         "veekunDb": "diglett-alola",
-        "showdownMarkup": "Diglett-Alola",
-        "showdownData": "diglettalola",
-        "serebii": "diglett-alola",
+        "serebii": "diglett",
         "bulbapedia": "Diglett",
         "homeSprite": "diglett-alola",
-        "miniSprite": "diglett-alola"
+        "miniSprite": "diglett-alola",
+        "showdown": "diglettalola",
+        "showdownDef": "Diglett-Alola",
+        "smogon": "diglett-alola"
     },
     "baseSpecies": "diglett",
     "baseForms": [],

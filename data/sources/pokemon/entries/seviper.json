@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SEVIPER",
         "veekunDb": "seviper",
-        "showdownMarkup": "Seviper",
-        "showdownData": "seviper",
         "serebii": "seviper",
         "bulbapedia": "Seviper",
         "homeSprite": "seviper",
-        "miniSprite": "seviper"
+        "miniSprite": "seviper",
+        "showdown": "seviper",
+        "showdownDef": "Seviper",
+        "smogon": "seviper"
     },
     "baseSpecies": null,
     "baseForms": [],

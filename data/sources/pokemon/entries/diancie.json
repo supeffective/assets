@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DIANCIE",
         "veekunDb": "diancie",
-        "showdownMarkup": "Diancie",
-        "showdownData": "diancie",
         "serebii": "diancie",
         "bulbapedia": "Diancie",
         "homeSprite": "diancie",
-        "miniSprite": "diancie"
+        "miniSprite": "diancie",
+        "showdown": "diancie",
+        "showdownDef": "Diancie",
+        "smogon": "diancie"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MIMIKYU",
         "veekunDb": "mimikyu",
-        "showdownMarkup": "Mimikyu",
-        "showdownData": "mimikyu",
         "serebii": "mimikyu",
         "bulbapedia": "Mimikyu",
         "homeSprite": "mimikyu",
-        "miniSprite": "mimikyu"
+        "miniSprite": "mimikyu",
+        "showdown": "mimikyu",
+        "showdownDef": "Mimikyu",
+        "smogon": "mimikyu"
     },
     "baseSpecies": null,
     "baseForms": [],

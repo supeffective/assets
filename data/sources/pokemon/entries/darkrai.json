@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "DARKRAI",
         "veekunDb": "darkrai",
-        "showdownMarkup": "Darkrai",
-        "showdownData": "darkrai",
         "serebii": "darkrai",
         "bulbapedia": "Darkrai",
         "homeSprite": "darkrai",
-        "miniSprite": "darkrai"
+        "miniSprite": "darkrai",
+        "showdown": "darkrai",
+        "showdownDef": "Darkrai",
+        "smogon": "darkrai"
     },
     "baseSpecies": null,
     "baseForms": [],

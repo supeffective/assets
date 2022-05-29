@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "DRAGALGE",
         "veekunDb": "dragalge",
-        "showdownMarkup": "Dragalge",
-        "showdownData": "dragalge",
         "serebii": "dragalge",
         "bulbapedia": "Dragalge",
         "homeSprite": "dragalge",
-        "miniSprite": "dragalge"
+        "miniSprite": "dragalge",
+        "showdown": "dragalge",
+        "showdownDef": "Dragalge",
+        "smogon": "dragalge"
     },
     "baseSpecies": null,
     "baseForms": [],

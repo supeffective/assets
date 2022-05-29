@@ -70,12 +70,13 @@
     "refs": {
         "pogo": "SHARPEDO_MEGA",
         "veekunDb": "sharpedo-mega",
-        "showdownMarkup": "Sharpedo-Mega",
-        "showdownData": "sharpedomega",
-        "serebii": "sharpedo-mega",
+        "serebii": "sharpedo",
         "bulbapedia": "Sharpedo",
         "homeSprite": "sharpedo-mega",
-        "miniSprite": "sharpedo-mega"
+        "miniSprite": "sharpedo-mega",
+        "showdown": "sharpedomega",
+        "showdownDef": "Sharpedo-Mega",
+        "smogon": "sharpedo-mega"
     },
     "baseSpecies": "sharpedo",
     "baseForms": [

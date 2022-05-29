@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MEOWSTIC",
         "veekunDb": "meowstic",
-        "showdownMarkup": "Meowstic",
-        "showdownData": "meowstic",
         "serebii": "meowstic",
         "bulbapedia": "Meowstic",
         "homeSprite": "meowstic",
-        "miniSprite": "meowstic"
+        "miniSprite": "meowstic",
+        "showdown": "meowstic",
+        "showdownDef": "Meowstic",
+        "smogon": "meowstic"
     },
     "baseSpecies": null,
     "baseForms": [],

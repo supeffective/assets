@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "CALYREX_ICE",
         "veekunDb": "calyrex-ice",
-        "showdownMarkup": "Calyrex-Ice",
-        "showdownData": "calyrexice",
-        "serebii": "calyrex-ice",
+        "serebii": "calyrex",
         "bulbapedia": "Calyrex",
         "homeSprite": "calyrex-ice",
-        "miniSprite": "calyrex-ice"
+        "miniSprite": "calyrex-ice",
+        "showdown": "calyrexice",
+        "showdownDef": "Calyrex-Ice",
+        "smogon": "calyrex-ice"
     },
     "baseSpecies": "calyrex",
     "baseForms": [

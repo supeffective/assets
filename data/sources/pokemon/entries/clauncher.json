@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CLAUNCHER",
         "veekunDb": "clauncher",
-        "showdownMarkup": "Clauncher",
-        "showdownData": "clauncher",
         "serebii": "clauncher",
         "bulbapedia": "Clauncher",
         "homeSprite": "clauncher",
-        "miniSprite": "clauncher"
+        "miniSprite": "clauncher",
+        "showdown": "clauncher",
+        "showdownDef": "Clauncher",
+        "smogon": "clauncher"
     },
     "baseSpecies": null,
     "baseForms": [],

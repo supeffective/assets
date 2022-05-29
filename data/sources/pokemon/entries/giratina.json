@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "GIRATINA",
         "veekunDb": "giratina",
-        "showdownMarkup": "Giratina",
-        "showdownData": "giratina",
         "serebii": "giratina",
         "bulbapedia": "Giratina",
         "homeSprite": "giratina",
-        "miniSprite": "giratina"
+        "miniSprite": "giratina",
+        "showdown": "giratina",
+        "showdownDef": "Giratina",
+        "smogon": "giratina"
     },
     "baseSpecies": null,
     "baseForms": [],

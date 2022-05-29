@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "JANGMOO",
         "veekunDb": "jangmoo",
-        "showdownMarkup": "Jangmoo",
-        "showdownData": "jangmoo",
         "serebii": "jangmoo",
         "bulbapedia": "Jangmo-o",
         "homeSprite": "jangmoo",
-        "miniSprite": "jangmoo"
+        "miniSprite": "jangmoo",
+        "showdown": "jangmoo",
+        "showdownDef": "Jangmoo",
+        "smogon": "jangmoo"
     },
     "baseSpecies": null,
     "baseForms": [],

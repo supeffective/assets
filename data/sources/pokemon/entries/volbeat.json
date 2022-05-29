@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VOLBEAT",
         "veekunDb": "volbeat",
-        "showdownMarkup": "Volbeat",
-        "showdownData": "volbeat",
         "serebii": "volbeat",
         "bulbapedia": "Volbeat",
         "homeSprite": "volbeat",
-        "miniSprite": "volbeat"
+        "miniSprite": "volbeat",
+        "showdown": "volbeat",
+        "showdownDef": "Volbeat",
+        "smogon": "volbeat"
     },
     "baseSpecies": null,
     "baseForms": [],

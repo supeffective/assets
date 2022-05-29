@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "ROTOM_MOW",
         "veekunDb": "rotom-mow",
-        "showdownMarkup": "Rotom-Mow",
-        "showdownData": "rotommow",
-        "serebii": "rotom-mow",
+        "serebii": "rotom",
         "bulbapedia": "Rotom",
         "homeSprite": "rotom-mow",
-        "miniSprite": "rotom-mow"
+        "miniSprite": "rotom-mow",
+        "showdown": "rotommow",
+        "showdownDef": "Rotom-Mow",
+        "smogon": "rotom-mow"
     },
     "baseSpecies": "rotom",
     "baseForms": [

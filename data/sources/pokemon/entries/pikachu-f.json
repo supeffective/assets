@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "PIKACHU_F",
         "veekunDb": "pikachu-f",
-        "showdownMarkup": "Pikachu-F",
-        "showdownData": "pikachuf",
-        "serebii": "pikachu-f",
+        "serebii": "pikachu",
         "bulbapedia": "Pikachu",
         "homeSprite": "pikachu-f",
-        "miniSprite": "pikachu-f"
+        "miniSprite": "pikachu-f",
+        "showdown": "pikachuf",
+        "showdownDef": "Pikachu-F",
+        "smogon": "pikachu-f"
     },
     "baseSpecies": "pikachu",
     "baseForms": [],

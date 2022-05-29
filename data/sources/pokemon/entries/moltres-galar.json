@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "MOLTRES_GALAR",
         "veekunDb": "moltres-galar",
-        "showdownMarkup": "Moltres-Galar",
-        "showdownData": "moltresgalar",
-        "serebii": "moltres-galar",
+        "serebii": "moltres",
         "bulbapedia": "Moltres",
         "homeSprite": "moltres-galar",
-        "miniSprite": "moltres-galar"
+        "miniSprite": "moltres-galar",
+        "showdown": "moltresgalar",
+        "showdownDef": "Moltres-Galar",
+        "smogon": "moltres-galar"
     },
     "baseSpecies": "moltres",
     "baseForms": [],

@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "URSHIFU",
         "veekunDb": "urshifu",
-        "showdownMarkup": "Urshifu",
-        "showdownData": "urshifu",
         "serebii": "urshifu",
         "bulbapedia": "Urshifu",
         "homeSprite": "urshifu",
-        "miniSprite": "urshifu"
+        "miniSprite": "urshifu",
+        "showdown": "urshifu",
+        "showdownDef": "Urshifu",
+        "smogon": "urshifu"
     },
     "baseSpecies": null,
     "baseForms": [],

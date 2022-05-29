@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "SWALOT_F",
         "veekunDb": "swalot-f",
-        "showdownMarkup": "Swalot-F",
-        "showdownData": "swalotf",
-        "serebii": "swalot-f",
+        "serebii": "swalot",
         "bulbapedia": "Swalot",
         "homeSprite": "swalot-f",
-        "miniSprite": "swalot-f"
+        "miniSprite": "swalot-f",
+        "showdown": "swalotf",
+        "showdownDef": "Swalot-F",
+        "smogon": "swalot-f"
     },
     "baseSpecies": "swalot",
     "baseForms": [],

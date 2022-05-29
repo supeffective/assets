@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "ALCREMIE_MINT_CREAM_FLOWER",
         "veekunDb": "alcremie-mint-cream-flower",
-        "showdownMarkup": "Alcremie-Mint-Cream-Flower",
-        "showdownData": "alcremiemintcreamflower",
-        "serebii": "alcremie-mint-cream-flower",
+        "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "alcremie-mint-cream-flower",
-        "miniSprite": "alcremie-mint-cream-flower"
+        "miniSprite": "alcremie-mint-cream-flower",
+        "showdown": "alcremiemintcreamflower",
+        "showdownDef": "Alcremie-Mint-Cream-Flower",
+        "smogon": "alcremie-mint-cream-flower"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

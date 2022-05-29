@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "CENTISKORCH",
         "veekunDb": "centiskorch",
-        "showdownMarkup": "Centiskorch",
-        "showdownData": "centiskorch",
         "serebii": "centiskorch",
         "bulbapedia": "Centiskorch",
         "homeSprite": "centiskorch",
-        "miniSprite": "centiskorch"
+        "miniSprite": "centiskorch",
+        "showdown": "centiskorch",
+        "showdownDef": "Centiskorch",
+        "smogon": "centiskorch"
     },
     "baseSpecies": null,
     "baseForms": [],

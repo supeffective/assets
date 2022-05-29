@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "LITTEN",
         "veekunDb": "litten",
-        "showdownMarkup": "Litten",
-        "showdownData": "litten",
         "serebii": "litten",
         "bulbapedia": "Litten",
         "homeSprite": "litten",
-        "miniSprite": "litten"
+        "miniSprite": "litten",
+        "showdown": "litten",
+        "showdownDef": "Litten",
+        "smogon": "litten"
     },
     "baseSpecies": null,
     "baseForms": [],

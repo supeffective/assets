@@ -75,12 +75,13 @@
     "refs": {
         "pogo": "BEAUTIFLY_F",
         "veekunDb": "beautifly-f",
-        "showdownMarkup": "Beautifly-F",
-        "showdownData": "beautiflyf",
-        "serebii": "beautifly-f",
+        "serebii": "beautifly",
         "bulbapedia": "Beautifly",
         "homeSprite": "beautifly-f",
-        "miniSprite": "beautifly-f"
+        "miniSprite": "beautifly-f",
+        "showdown": "beautiflyf",
+        "showdownDef": "Beautifly-F",
+        "smogon": "beautifly-f"
     },
     "baseSpecies": "beautifly",
     "baseForms": [],

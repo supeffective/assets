@@ -72,12 +72,13 @@
     "refs": {
         "pogo": "VIBRAVA",
         "veekunDb": "vibrava",
-        "showdownMarkup": "Vibrava",
-        "showdownData": "vibrava",
         "serebii": "vibrava",
         "bulbapedia": "Vibrava",
         "homeSprite": "vibrava",
-        "miniSprite": "vibrava"
+        "miniSprite": "vibrava",
+        "showdown": "vibrava",
+        "showdownDef": "Vibrava",
+        "smogon": "vibrava"
     },
     "baseSpecies": null,
     "baseForms": [],
