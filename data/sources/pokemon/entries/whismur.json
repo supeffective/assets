@@ -37,11 +37,13 @@
     "canDynamax": true,
     "canBeAlpha": false,
     "obtainableIn": [
-        "bdsp"
+        "bdsp",
+        "swsh"
     ],
     "storableIn": [
+        "bdsp",
         "home",
-        "bdsp"
+        "swsh"
     ],
     "shinyReleased": null,
     "baseStats": {

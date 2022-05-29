@@ -38,12 +38,14 @@
     "canBeAlpha": false,
     "obtainableIn": [
         "la",
-        "lgpe"
+        "lgpe",
+        "swsh"
     ],
     "storableIn": [
         "home",
         "la",
-        "lgpe"
+        "lgpe",
+        "swsh"
     ],
     "shinyReleased": null,
     "baseStats": {

@@ -134,7 +134,7 @@ JSON;
         $newPkm = array_merge($dataTemplateArr, $pkm);
 
         foreach ($storables as $gameSetId => $storablePkmIds) {
-            if (in_array($pkmId, $newPkm['storableIn'], true)) {
+            if (in_array($gameSetId, $newPkm['storableIn'], true)) {
                 continue;
             }
 

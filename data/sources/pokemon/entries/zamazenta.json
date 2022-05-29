@@ -36,9 +36,12 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "obtainableIn": [],
+    "obtainableIn": [
+        "swsh"
+    ],
     "storableIn": [
-        "home"
+        "home",
+        "swsh"
     ],
     "shinyReleased": null,
     "baseStats": {
