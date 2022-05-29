@@ -104,14 +104,33 @@ require_once __DIR__ . '/_bootstrap.php';
         sgg_data_save('pokemon/alpha-pokemon.build.json', $newDataSet, false);
     };
 
-    $prettifyAndMinifyAllJsonFiles = static function (): void {
-        $files = sgg_json_files_in_dir_tree(null, true);
+    $prettifyAllJsonFiles = static function (): void {
+        $files = sgg_json_files_in_dir_tree(null, false);
 
         foreach ($files as $fileName) {
-            $minFile = str_replace('.json', '.min.json', $fileName);
-            $data = sgg_json_decode_file($fileName);
-            sgg_json_encode($data, false, $fileName); // prettify
-            // sgg_json_encode($data, true, $minFile); // minify
+            if (
+                str_contains($fileName, 'minified/')
+                || str_contains($fileName, 'min.json')
+                || str_contains($fileName, 'build.json')) {
+                continue;
+            }
+
+            sgg_json_encode(sgg_json_decode_file($fileName), false, $fileName); // prettify
+        }
+    };
+
+    $minifyAllJsonFiles = static function (): void {
+        $files = sgg_json_files_in_dir_tree(null, false);
+
+        foreach ($files as $fileName) {
+            if (
+                str_contains($fileName, 'minified/')
+                || str_contains($fileName, 'min.json')) {
+                continue;
+            }
+            $dataPath = rtrim(sgg_get_data_path(), '/');
+            $newFilename = str_replace(['.json', $dataPath], ['.min.json', $dataPath . '/minified'], $fileName);
+            sgg_json_encode(sgg_json_decode_file($fileName), true, $newFilename); // minify
         }
     };
 
@@ -257,7 +276,8 @@ require_once __DIR__ . '/_bootstrap.php';
     $mergeAllBoxPresets();
     $generateNationalPokedex();
 
-    $prettifyAndMinifyAllJsonFiles();
+    $prettifyAllJsonFiles();
+    $minifyAllJsonFiles();
 
     echo "[OK] Build finished!\n";
 })();

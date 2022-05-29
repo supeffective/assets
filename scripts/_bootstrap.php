@@ -8,7 +8,7 @@ const SGG_SUPPORTED_GAMES = ['home', 'la', 'swsh', 'bdsp', 'lgpe', 'go'];
 
 function sgg_get_data_path(?string $relativePath = null): string
 {
-    $basePath = dirname(__DIR__) . '/data';
+    $basePath = realpath(dirname(__DIR__) . '/data');
     if (!$relativePath) {
         return $basePath;
     }
