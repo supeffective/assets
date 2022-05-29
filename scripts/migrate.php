@@ -34,11 +34,13 @@ require_once __DIR__ . '/_bootstrap.php';
     },
     "isLegendary": false,
     "isMythical": false,
+    "isUltraBeast": false,
+    "ultraBeastCode": null,
     "isDefault": false,
     "isForm": false,
     "isSpecialAbilityForm": false,
     "isCosmeticForm": false,
-    "isFemale": false,
+    "isFemaleForm": false,
     "hasGenderDifferences": false,
     "isBattleOnlyForm": false,
     "isSwitchableForm": false,
@@ -85,6 +87,7 @@ require_once __DIR__ . '/_bootstrap.php';
     "refs": {
         "pogo": null,
         "veekunDb": null,
+        "smogon": null,
         "showdownMarkup": null,
         "showdownData": null,
         "serebii": null,
@@ -104,7 +107,7 @@ JSON;
 
     foreach ($pokemonIds as $pkmId) {
         // Quick placeholder entry generator for missing pokes that are present in the sorted list, but don't have an entry
-        $pkmFile = 'pokemon/entries/' . $pkmId . '.json';
+        $pkmFile = 'sources/pokemon/entries/' . $pkmId . '.json';
         if (!file_exists(sgg_get_data_path($pkmFile))) {
             $newPkm = $dataTemplateArr;
             $newPkm['id'] = $pkmId;
@@ -118,7 +121,7 @@ JSON;
     foreach ($dataSet as $i => $pkm) {
         $pkmId = $pkm['id'];
 
-        $outputFile = 'pokemon/entries/' . $pkmId . '.json';
+        $outputFile = 'sources/pokemon/entries/' . $pkmId . '.json';
 
         /* --- START $newPkm data transformation */
 
