@@ -696,13 +696,13 @@
     },
     {
         "id": "la",
-        "name": "Pokémon Legends: Arceus",
+        "name": "Legends: Arceus",
         "codename": "Hayabusa",
         "group": "la",
         "generation": 8,
         "releaseDate": "2022-01-28",
         "games": {
-            "la": "Pokémon Legends: Arceus"
+            "la": "Legends: Arceus"
         },
         "platforms": [
             "switch"
