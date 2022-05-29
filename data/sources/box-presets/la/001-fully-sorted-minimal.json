@@ -2,7 +2,7 @@
     "id": "fully-sorted-minimal",
     "name": "Fully Sorted - Minimal",
     "version": 1,
-    "gameRelease": "la",
+    "gameSet": "la",
     "description": "Pokémon Boxes sorted by Species and Forms (except legendary forms), following original Legends Arceus order.",
     "boxes": [
         {

@@ -221,6 +221,82 @@ require_once __DIR__ . '/_bootstrap.php';
         sgg_data_save('builds/box-presets/la/100-fully-sorted.json', $preset, minify: false);
     };
 
+    $generateGamesetBoxesPreset = static function (
+        string $gameSetId,
+        int $maxPkmPerBox = 30,
+        bool $createMinimal = true
+    ) use ($dataSetById): void {
+        $gameSetIdUpper = strtoupper($gameSetId);
+        $storables = sgg_data_load("builds/pokemon/storable/storable-pokemon-{$gameSetId}.json");
+        $preset = [
+            'id' => 'fully-sorted',
+            'name' => 'Fully Sorted',
+            'version' => 1,
+            'gameSet' => $gameSetId,
+            //'shortDescription' => 'Sorted by Species and their Forms, in their HOME order.',
+            "description" => "Pokémon Boxes sorted by Species and Forms, following {$gameSetIdUpper}'s fullest dex order.",
+            "boxes" => [],
+        ];
+        $presetMinimal = [
+            'id' => 'fully-sorted-minimal',
+            'name' => 'Fully Sorted - Minimal',
+            'version' => 1,
+            'gameSet' => $gameSetId,
+            //'shortDescription' => 'Sorted by Species and their Forms, in their HOME order.',
+            "description" => "Pokémon Boxes sorted by Species and Forms (without legendary forms), following {$gameSetIdUpper}'s fullest dex order.",
+            "boxes" => [],
+        ];
+        $currentBox = 0;
+        $currentBoxMinimal = 0;
+        $total = 0;
+        $minimalTotal = 0;
+        foreach ($storables as $pkmId) {
+            $pkm = $dataSetById[$pkmId];
+            if (!in_array($gameSetId, $pkm['storableIn'], true)) {
+                continue;
+            }
+            if (
+                isset($preset['boxes'][$currentBox])
+                && (count($preset['boxes'][$currentBox]['pokemon']) >= $maxPkmPerBox)
+            ) {
+                $currentBox++;
+            }
+            if (
+                isset($presetMinimal['boxes'][$currentBoxMinimal])
+                && (count($presetMinimal['boxes'][$currentBoxMinimal]['pokemon']) >= $maxPkmPerBox)
+            ) {
+                $currentBoxMinimal++;
+            }
+            if (!isset($preset['boxes'][$currentBox])) {
+                $preset['boxes'][$currentBox] = [
+                    'title' => 'Box ' . ($currentBox + 1),
+                    'pokemon' => [],
+                ];
+            }
+            if (!isset($preset['boxes'][$currentBoxMinimal])) {
+                $preset['boxes'][$currentBoxMinimal] = [
+                    'title' => 'Box ' . ($currentBoxMinimal + 1),
+                    'pokemon' => [],
+                ];
+            }
+            $preset['boxes'][$currentBox]['pokemon'][] = $pkm['id'];
+            $total++;
+            $isLegendaryForm = ($pkm['isLegendary'] || $pkm['isMythical']) && $pkm['isForm'];
+            if (!$isLegendaryForm) {
+                $minimalTotal++;
+                $presetMinimal['boxes'][$currentBoxMinimal]['pokemon'][] = $pkm['id'];
+            }
+        }
+        if ($createMinimal && ($total !== $minimalTotal)) {
+            sgg_data_save(
+                "builds/box-presets/{$gameSetId}/100-fully-sorted-minimal.json",
+                $presetMinimal,
+                minify: false
+            );
+        }
+        sgg_data_save("builds/box-presets/{$gameSetId}/101-fully-sorted.json", $preset, minify: false);
+    };
+
     $mergeAllBoxPresets = static function (): void {
         $buildBoxPresetFiles = sgg_json_files_in_dir_tree('builds/box-presets', false);
         $sourceBoxPresetFiles = sgg_json_files_in_dir_tree('sources/box-presets', false);
@@ -292,12 +368,15 @@ require_once __DIR__ . '/_bootstrap.php';
     $generatePokemonEntriesMinimal();
 
     $generateStorablePokemonList();
-    $generateFullySortedHomePreset();
     //$generateMegaPokemonList();
     $generateGmaxPokemonList();
     $generateAlphaPokemonList();
 
+    $generateFullySortedHomePreset();
     $generateHisuiBoxesPreset();
+    $generateGamesetBoxesPreset('bdsp', 30);
+    $generateGamesetBoxesPreset('lgpe', 1000);
+
     $generateGameGamesList();
     $mergeAllBoxPresets();
     $generateNationalPokedex();

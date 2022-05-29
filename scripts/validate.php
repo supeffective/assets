@@ -17,7 +17,7 @@ require_once __DIR__ . '/_bootstrap.php';
 
         foreach ($dexPreset['boxes'] as $i => $box) {
             if (count($box['pokemon']) > 30) {
-                $errors[] = "Box '$i' in preset '$presetId' has more than 30 pokemon";
+                $warnings[] = "Warning: Box '$i' in preset '$presetId' has more than 30 pokemon";
             }
             foreach ($box['pokemon'] as $j => $pokemon) {
                 if ($pokemon === null) {

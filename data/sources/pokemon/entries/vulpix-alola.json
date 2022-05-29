@@ -37,11 +37,13 @@
     "canDynamax": true,
     "canBeAlpha": false,
     "obtainableIn": [
-        "la"
+        "la",
+        "lgpe"
     ],
     "storableIn": [
         "home",
-        "la"
+        "la",
+        "lgpe"
     ],
     "shinyReleased": null,
     "baseStats": {

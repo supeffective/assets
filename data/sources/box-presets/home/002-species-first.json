@@ -2,7 +2,7 @@
     "id": "species-first",
     "name": "Grouped by Species and Forms",
     "version": 2,
-    "gameRelease": "home",
+    "gameSet": "home",
     "description": "Grouped with the Species first and the Forms after all of them, grouped by generation and categories. You may need to alter the order of your form boxes if there are a lot of species introduced in a new game.",
     "boxes": [
         {
