@@ -3,7 +3,7 @@
 // _bootstrap.php: Base code for all other PHP scripts
 error_reporting(-1);
 
-const SGG_PKM_ENTRIES_BASE_FILENAME = 'pokemon/pokemon-entries';
+const SGG_PKM_ENTRIES_BASE_FILENAME = 'builds/pokemon/pokemon-entries';
 const SGG_SUPPORTED_GAMES = ['home', 'la', 'swsh', 'bdsp', 'lgpe', 'go'];
 
 function sgg_get_data_path(?string $relativePath = null): string
@@ -97,7 +97,7 @@ function sgg_json_files_in_dir_tree(?string $relativeDataPath = null, bool $igno
         if (!str_ends_with($file, '.json')) {
             continue;
         }
-        if ($ignoreBuildFiles && (str_ends_with($file, '.min.json') || str_ends_with($file, '.build.json'))) {
+        if ($ignoreBuildFiles && (str_ends_with($file, '.min.json'))) {
             continue;
         }
         $found[] = $file;
@@ -108,18 +108,18 @@ function sgg_json_files_in_dir_tree(?string $relativeDataPath = null, bool $igno
 
 function sgg_get_sorted_pokemon_ids(): array
 {
-    return sgg_data_load('pokemon.json');
+    return sgg_data_load('sources/pokemon.json');
 }
 
 function sgg_get_dex(string $dexId): array
 {
-    return sgg_data_load('pokedexes/' . $dexId . '.json');
+    return sgg_data_load('sources/pokedexes/' . $dexId . '.json');
 }
 
 function sgg_get_dex_pokemon_ids(string $dexId): array
 {
     $ids = [];
-    $dex = sgg_data_load('pokedexes/' . $dexId . '.json');
+    $dex = sgg_data_load('sources/pokedexes/' . $dexId . '.json');
     foreach ($dex as $dexPkm) {
         foreach ($dexPkm['forms'] as $pkmId) {
             $ids[] = $pkmId;
@@ -135,7 +135,7 @@ function sgg_get_merged_pkm_entries(bool $failOnError = true): array
 
     $existingPkmEntries = array_map(static function ($fileName) {
         return pathinfo($fileName, PATHINFO_FILENAME);
-    }, sgg_json_files_in_dir_tree('pokemon/entries', true));
+    }, sgg_json_files_in_dir_tree('sources/pokemon/entries', true));
 
     $existingPkmEntriesMap = array_combine($existingPkmEntries, $existingPkmEntries);
     $sortedPokemonListMap = [];
@@ -166,7 +166,7 @@ function sgg_get_merged_pkm_entries(bool $failOnError = true): array
         if ($failOnError && !isset($existingPkmEntriesMap[$pkmId])) {
             throw new \RuntimeException('Missing pokemon entry: ' . $pkmId);
         }
-        $entryData = sgg_data_load('pokemon/entries/' . $pkmId . '.json');
+        $entryData = sgg_data_load('sources/pokemon/entries/' . $pkmId . '.json');
         $fullEntries[] = $entryData;
     }
 

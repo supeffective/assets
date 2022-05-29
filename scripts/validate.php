@@ -7,7 +7,7 @@ require_once __DIR__ . '/_bootstrap.php';
 
 (static function () {
     error_reporting(-1);
-    $pokemonById = sgg_data_load('pokemon/pokemon-entries-map.build.json');
+    $pokemonById = sgg_data_load('builds/pokemon/pokemon-entries-map.json');
 
     $validateDexPreset = static function (array $dexPreset, array $storablePokemonList) use ($pokemonById): array {
         $presetId = $dexPreset['id'];
@@ -55,15 +55,15 @@ require_once __DIR__ . '/_bootstrap.php';
     };
 
     $validateDexPresets = static function () use ($validateDexPreset): void {
-        $presetsByGame = sgg_data_load('livingdex/box-presets.build.json');
+        $presetsByGameSet = sgg_data_load('builds/box-presets-full.json');
         $errors = [];
         $warnings = [];
 
-        foreach ($presetsByGame as $gameId => $presets) {
+        foreach ($presetsByGameSet as $gameSetId => $presets) {
             foreach ($presets as $presetId => $preset) {
-                $presetPath = "{$gameId}.{$presetId}";
+                $presetPath = "{$gameSetId}.{$presetId}";
                 $storablePokemonList = sgg_data_load(
-                    'livingdex/storable-pokemon/' . $gameId . '/storable-pokemon.build.json'
+                    "builds/pokemon/storable/storable-pokemon-{$gameSetId}.json"
                 );
                 [$fileErrors, $fileWarnings] = $validateDexPreset($preset, $storablePokemonList);
                 $errorCount = count($fileErrors);

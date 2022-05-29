@@ -1,6 +1,7 @@
 default: build
 
 build:
+	# rm -rf data/builds
 	php scripts/build.php
 	make validate
 

@@ -19,8 +19,8 @@ require_once __DIR__ . '/_bootstrap.php';
     }
 
     $saveMergedPokemonEntries = static function () use ($dataSet, $dataSetById) {
-        sgg_data_save(SGG_PKM_ENTRIES_BASE_FILENAME . '.build.json', $dataSet, false);
-        sgg_data_save(SGG_PKM_ENTRIES_BASE_FILENAME . '-map.build.json', $dataSetById, false);
+        sgg_data_save(SGG_PKM_ENTRIES_BASE_FILENAME . '.json', $dataSet, minify: false);
+        sgg_data_save(SGG_PKM_ENTRIES_BASE_FILENAME . '-map.json', $dataSetById, minify: false);
     };
 
     $generatePokemonEntriesMinimal = static function () use ($dataSet) {
@@ -37,7 +37,7 @@ require_once __DIR__ . '/_bootstrap.php';
                 'baseForms' => $pkm['baseForms'],
             ];
         }
-        sgg_data_save(SGG_PKM_ENTRIES_BASE_FILENAME . '-minimal.build.json', $minimalDataSet, false);
+        sgg_data_save(SGG_PKM_ENTRIES_BASE_FILENAME . '-minimal.json', $minimalDataSet, minify: false);
     };
 
     $generateStorablePokemonList = static function () use ($dataSet): void {
@@ -52,7 +52,7 @@ require_once __DIR__ . '/_bootstrap.php';
         }
 
         foreach ($storableByGame as $game => $pkmIds) {
-            sgg_data_save('livingdex/storable-pokemon/' . $game . '/storable-pokemon.build.json', $pkmIds, false);
+            sgg_data_save("builds/pokemon/storable/storable-pokemon-{$game}.json", $pkmIds, minify: false);
         }
     };
 
@@ -66,7 +66,7 @@ require_once __DIR__ . '/_bootstrap.php';
             $newDataSet[] = $pkm['id'];
         }
 
-        sgg_data_save('pokemon/mega-pokemon.build.json', $newDataSet, false);
+        sgg_data_save('builds/pokemon/mega-pokemon.json', $newDataSet, minify: false);
     };
 
     $generateGmaxPokemonList = static function () use ($dataSet, $dataSetById): void {
@@ -87,7 +87,7 @@ require_once __DIR__ . '/_bootstrap.php';
             $newDataSet[] = $pkm['id'];
         }
 
-        sgg_data_save('pokemon/gigantamaxable-pokemon.build.json', $newDataSet, false);
+        sgg_data_save('builds/pokemon/gigantamaxable-pokemon.json', $newDataSet, minify: false);
     };
 
     $generateAlphaPokemonList = static function () use ($dataSetById): void {
@@ -101,16 +101,15 @@ require_once __DIR__ . '/_bootstrap.php';
             }
         }
 
-        sgg_data_save('pokemon/alpha-pokemon.build.json', $newDataSet, false);
+        sgg_data_save('builds/pokemon/alpha-pokemon.json', $newDataSet, minify: false);
     };
 
     $prettifyAllJsonFiles = static function (): void {
-        $files = sgg_json_files_in_dir_tree(null, false);
+        $files = sgg_json_files_in_dir_tree('/sources/', false);
 
         foreach ($files as $fileName) {
             if (
-                str_contains($fileName, 'minified/')
-                || str_contains($fileName, 'min.json')
+                str_contains($fileName, 'min.json')
                 || str_contains($fileName, 'build.json')) {
                 continue;
             }
@@ -120,44 +119,42 @@ require_once __DIR__ . '/_bootstrap.php';
     };
 
     $minifyAllJsonFiles = static function (): void {
-        $files = sgg_json_files_in_dir_tree(null, false);
+        $files = sgg_json_files_in_dir_tree('/builds/', false);
 
         foreach ($files as $fileName) {
             if (
-                str_contains($fileName, 'minified/')
-                || str_contains($fileName, 'min.json')) {
+                str_contains($fileName, 'min.json')) {
                 continue;
             }
-            $dataPath = rtrim(sgg_get_data_path(), '/');
-            $newFilename = str_replace(['.json', $dataPath], ['.min.json', $dataPath . '/minified'], $fileName);
+            // $dataPath = rtrim(sgg_get_data_path(), '/');
+            $newFilename = str_replace(['.json'], ['.min.json'], $fileName);
             sgg_json_encode(sgg_json_decode_file($fileName), true, $newFilename); // minify
         }
     };
 
     $generateGameGamesList = static function (): void {
-        $gameReleases = sgg_data_load('game-releases.json');
+        $gameSets = sgg_data_load('sources/games/game-sets.json');
         $gameList = [];
 
-        foreach ($gameReleases as $data) {
+        foreach ($gameSets as $data) {
             foreach ($data['games'] as $gameId => $gameName) {
                 $gameList[] = [
                     'id' => $gameId,
                     'name' => $gameName,
-                    'releaseId' => $data['id'],
-                    'releaseGroupId' => $data['group'],
+                    'setId' => $data['id'],
+                    'supersetId' => $data['superset'],
                 ];
             }
         }
-        sgg_json_encode($gameList, false, __DIR__ . '/../data/games.build.json');
+        sgg_data_save('builds/games.json', $gameList, minify: false);
     };
 
     $generateFullySortedHomePreset = static function () use ($dataSet): void {
-        $outputFile = __DIR__ . '/../data/livingdex/box-presets/home/fully-sorted.build.json';
         $preset = [
             'id' => 'fully-sorted',
             'name' => 'Fully Sorted',
             'version' => 2,
-            'game' => 'home',
+            'gameSet' => 'home',
             //'shortDescription' => 'Sorted by Species and their Forms, in their HOME order.',
             "description" => "Pokémon Boxes sorted by Species and Forms, following original Pokémon HOME order.\n"
                 . "Every newly introduced form will alter the order of all the following Pokémon.",
@@ -184,17 +181,16 @@ require_once __DIR__ . '/_bootstrap.php';
             }
             $preset['boxes'][$currentBox]['pokemon'][] = $pkm['id'];
         }
-        sgg_json_encode($preset, false, $outputFile); // prettified
+        sgg_data_save('builds/box-presets/home/100-fully-sorted.json', $preset, minify: false); // prettified
     };
 
     $generateHisuiBoxesPreset = static function () use ($dataSetById): void {
-        $outputFile = __DIR__ . '/../data/livingdex/box-presets/la/fully-sorted.build.json';
-        $hisuiDex = sgg_data_load('pokedexes/hisui.json');
+        $hisuiDex = sgg_data_load('sources/pokedexes/hisui.json');
         $preset = [
             'id' => 'fully-sorted',
             'name' => 'Fully Sorted',
             'version' => 1,
-            'game' => 'la',
+            'gameSet' => 'la',
             //'shortDescription' => 'Sorted by Species and their Forms, in their HOME order.',
             "description" => "Pokémon Boxes sorted by Species and Forms, following original Legends Arceus order.",
             "boxes" => [],
@@ -222,18 +218,48 @@ require_once __DIR__ . '/_bootstrap.php';
                 $preset['boxes'][$currentBox]['pokemon'][] = $pkm['id'];
             }
         }
-        sgg_json_encode($preset, false, $outputFile); // prettified
+        sgg_data_save('builds/box-presets/la/100-fully-sorted.json', $preset, minify: false);
     };
 
     $mergeAllBoxPresets = static function (): void {
-        $files = sgg_json_files_in_dir_tree('livingdex/box-presets', false);
-        $presetsByGame = [];
+        $buildBoxPresetFiles = sgg_json_files_in_dir_tree('builds/box-presets', false);
+        $sourceBoxPresetFiles = sgg_json_files_in_dir_tree('sources/box-presets', false);
+        $presetsByGameSet = [];
+        $unsortedFiles = [];
+        $sortedFiles = [];
 
-        foreach ($files as $fileName) {
-            $data = sgg_json_decode_file($fileName);
-            $presetsByGame[$data['game']][$data['id']] = $data;
+        // Get all preset files from sources
+        foreach ($sourceBoxPresetFiles as $fileName) {
+            $presetKey = basename($fileName, '.json');
+            $gameSet = basename(dirname($fileName));
+            $unsortedFiles[$gameSet][$presetKey] = $fileName;
         }
-        sgg_json_encode($presetsByGame, false, 'data/livingdex/box-presets.build.json'); // prettified
+
+        // Get all preset files from builds
+        foreach ($buildBoxPresetFiles as $fileName) {
+            $presetKey = basename($fileName, '.json');
+            $gameSet = basename(dirname($fileName));
+            $unsortedFiles[$gameSet][$presetKey] = $fileName;
+        }
+
+        // Sort preset key alphabetically on every game
+        foreach ($unsortedFiles as $gameSet => $presets) {
+            $presetKeys = array_keys($presets);
+            sort($presetKeys);
+            foreach ($presetKeys as $presetKey) {
+                $sortedFiles[$gameSet][] = $presets[$presetKey];
+            }
+        }
+
+        // Merge all presets
+        foreach ($sortedFiles as $gameSet => $presetFiles) {
+            foreach ($presetFiles as $presetFile) {
+                $data = sgg_json_decode_file($presetFile);
+                $data['gameSet'] = $gameSet;
+                $presetsByGameSet[$gameSet][$data['id']] = $data;
+            }
+        }
+        sgg_data_save('builds/box-presets-full.json', $presetsByGameSet, minify: false); // prettified
     };
 
     $generateNationalPokedex = static function (): void {
@@ -242,8 +268,8 @@ require_once __DIR__ . '/_bootstrap.php';
 
         $dexNum = 0;
         foreach ($pokemonIds as $pokemonId) {
-            $fileName = 'data/pokemon/entries/' . $pokemonId . '.json';
-            $data = sgg_json_decode_file($fileName);
+            $fileName = 'sources/pokemon/entries/' . $pokemonId . '.json';
+            $data = sgg_data_load($fileName);
             if ($data['id'] !== $pokemonId) {
                 throw new \RuntimeException('ID mismatch: ' . $pokemonId . ' vs ' . $data['id']);
             }
@@ -256,7 +282,7 @@ require_once __DIR__ . '/_bootstrap.php';
                 ];
             }
         }
-        sgg_json_encode($dex, false, 'data/pokedexes/national.build.json'); // prettified
+        sgg_data_save('builds/pokedexes/national.json', $dex, minify: false); // prettified
     };
 
     // TASKS runner:
