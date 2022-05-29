@@ -7,7 +7,7 @@ require_once __DIR__ . '/_bootstrap.php';
 
 (static function () {
     error_reporting(-1);
-    $pokemonById = sgg_data_load('pokemon/pokemon-entries-byid.build.json');
+    $pokemonById = sgg_data_load('pokemon/pokemon-entries-map.build.json');
 
     $validateDexPreset = static function (array $dexPreset, array $storablePokemonList) use ($pokemonById): array {
         $presetId = $dexPreset['id'];

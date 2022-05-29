@@ -21,7 +21,7 @@ function sgg_data_load(string $filename): array
     return sgg_json_decode_file(sgg_get_data_path($filename));
 }
 
-function sgg_data_save(string $filename, array $data, bool $minify = true): void
+function sgg_data_save(string $filename, array $data, bool $minify = false): void
 {
     sgg_json_encode($data, $minify, sgg_get_data_path($filename));
 }

@@ -19,8 +19,8 @@ require_once __DIR__ . '/_bootstrap.php';
     }
 
     $saveMergedPokemonEntries = static function () use ($dataSet, $dataSetById) {
-        sgg_data_save(SGG_PKM_ENTRIES_BASE_FILENAME . '.build.json', $dataSet, true);
-        sgg_data_save(SGG_PKM_ENTRIES_BASE_FILENAME . '-byid.build.json', $dataSetById, true);
+        sgg_data_save(SGG_PKM_ENTRIES_BASE_FILENAME . '.build.json', $dataSet, false);
+        sgg_data_save(SGG_PKM_ENTRIES_BASE_FILENAME . '-map.build.json', $dataSetById, false);
     };
 
     $generatePokemonEntriesMinimal = static function () use ($dataSet) {
@@ -37,7 +37,7 @@ require_once __DIR__ . '/_bootstrap.php';
                 'baseForms' => $pkm['baseForms'],
             ];
         }
-        sgg_data_save(SGG_PKM_ENTRIES_BASE_FILENAME . '-minimal.build.json', $minimalDataSet, true);
+        sgg_data_save(SGG_PKM_ENTRIES_BASE_FILENAME . '-minimal.build.json', $minimalDataSet, false);
     };
 
     $generateStorablePokemonList = static function () use ($dataSet): void {
