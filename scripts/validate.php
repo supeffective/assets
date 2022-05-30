@@ -16,6 +16,8 @@ require_once __DIR__ . '/_bootstrap.php';
         $warnings = [];
 
         foreach ($dexPreset['boxes'] as $i => $box) {
+            $isGmaxBox = str_contains(strtolower($box['title'] ?? ''), 'gigantamax');
+
             if (count($box['pokemon']) > 30) {
                 $warnings[] = "Warning: Box '$i' in preset '$presetId' has more than 30 pokemon";
             }
@@ -37,7 +39,7 @@ require_once __DIR__ . '/_bootstrap.php';
                     $errors[] = "Unregistered pokemon detected '$pokemon' in preset '$presetId' at box/pokemon $i/$j";
                     continue;
                 }
-                if (($pokemonInBoxes[$pokemon] ?? false)) {
+                if (!$isGmaxBox && ($pokemonInBoxes[$pokemon] ?? false)) {
                     $warnings[] = "Warning: duplicate pokemon detected '$pokemon' in preset '$presetId' at box/pokemon $i/$j";
                     continue;
                 }
@@ -45,9 +47,12 @@ require_once __DIR__ . '/_bootstrap.php';
             }
         }
 
-        foreach ($storablePokemonList as $pokemon) {
-            if (!isset($pokemonInBoxes[$pokemon])) {
-                $errors[] = "Missing storable pokemon '$pokemon' in preset '$presetId'";
+        if ($presetId !== 'fully-sorted-minimal') {
+            // detect missing
+            foreach ($storablePokemonList as $pokemon) {
+                if (!isset($pokemonInBoxes[$pokemon])) {
+                    $errors[] = "Missing storable pokemon '$pokemon' in preset '$presetId'";
+                }
             }
         }
 
@@ -106,5 +111,5 @@ require_once __DIR__ . '/_bootstrap.php';
 
     $validateDexPresets();
 
-    echo "[OK] All data is correct!\n";
+    echo "\n\n[OK] All data looks almost fine!\n";
 })();
