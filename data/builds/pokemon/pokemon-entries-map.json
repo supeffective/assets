@@ -428,7 +428,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -516,7 +518,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -901,7 +905,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -988,7 +994,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -1075,7 +1083,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -1458,7 +1468,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -1545,7 +1557,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -2024,7 +2038,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -2401,7 +2417,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -2777,7 +2795,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -4034,7 +4054,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -4731,7 +4753,9 @@
         "canGmax": false,
         "canDynamax": true,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [
             "home"
         ],
@@ -8815,7 +8839,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -9587,7 +9613,8 @@
         "canDynamax": false,
         "canBeAlpha": true,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "home",
@@ -9776,7 +9803,8 @@
         "canDynamax": false,
         "canBeAlpha": true,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "home",
@@ -10654,7 +10682,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -11042,7 +11072,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -12867,7 +12899,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -14887,7 +14921,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -14974,7 +15010,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -15645,7 +15683,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -17971,7 +18011,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -19623,7 +19665,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -20203,7 +20247,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -20389,7 +20435,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -20775,7 +20823,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -21753,7 +21803,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -21941,7 +21993,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -22989,7 +23043,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -23076,7 +23132,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -23924,7 +23982,8 @@
         "canDynamax": false,
         "canBeAlpha": true,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "home",
@@ -26584,7 +26643,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -32858,7 +32919,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -33231,7 +33294,8 @@
         "canDynamax": false,
         "canBeAlpha": true,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "home",
@@ -33514,7 +33578,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -33893,7 +33959,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -34178,7 +34246,8 @@
         "canDynamax": false,
         "canBeAlpha": true,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "home",
@@ -34268,7 +34337,8 @@
         "canDynamax": false,
         "canBeAlpha": true,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "home",
@@ -36173,7 +36243,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -38180,7 +38252,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -38844,7 +38918,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -39499,7 +39575,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -39875,7 +39953,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -42728,7 +42808,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -44714,7 +44796,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -44898,7 +44982,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -45274,7 +45360,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -45736,7 +45824,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -46016,7 +46106,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -47239,7 +47331,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -47893,7 +47987,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -49120,7 +49216,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -51489,7 +51587,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -52059,7 +52159,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -52439,7 +52541,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -53674,7 +53778,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -54050,7 +54156,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -54522,7 +54630,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -54706,7 +54816,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -55258,7 +55370,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -62074,7 +62188,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -64101,7 +64217,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -64483,7 +64601,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -66505,7 +66625,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -68441,7 +68563,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -69807,7 +69931,8 @@
         "canDynamax": false,
         "canBeAlpha": false,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "la"
@@ -69995,7 +70120,8 @@
         "canDynamax": false,
         "canBeAlpha": false,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "la"
@@ -70572,13 +70698,13 @@
         "canDynamax": true,
         "canBeAlpha": false,
         "obtainableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "storableIn": [
+            "bdsp",
             "home",
-            "la",
-            "bdsp"
+            "la"
         ],
         "shinyReleased": true,
         "baseStats": {
@@ -70666,13 +70792,13 @@
         "canDynamax": true,
         "canBeAlpha": false,
         "obtainableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "storableIn": [
+            "bdsp",
             "home",
-            "la",
-            "bdsp"
+            "la"
         ],
         "shinyReleased": true,
         "baseStats": {
@@ -71049,13 +71175,13 @@
         "canDynamax": true,
         "canBeAlpha": false,
         "obtainableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "storableIn": [
+            "bdsp",
             "home",
-            "la",
-            "bdsp"
+            "la"
         ],
         "shinyReleased": true,
         "baseStats": {
@@ -71161,12 +71287,12 @@
         "canDynamax": true,
         "canBeAlpha": false,
         "obtainableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "storableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "shinyReleased": true,
         "baseStats": {
@@ -71254,12 +71380,12 @@
         "canDynamax": true,
         "canBeAlpha": false,
         "obtainableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "storableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "shinyReleased": true,
         "baseStats": {
@@ -71347,12 +71473,12 @@
         "canDynamax": true,
         "canBeAlpha": false,
         "obtainableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "storableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "shinyReleased": true,
         "baseStats": {
@@ -71440,12 +71566,12 @@
         "canDynamax": true,
         "canBeAlpha": false,
         "obtainableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "storableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "shinyReleased": true,
         "baseStats": {
@@ -71533,12 +71659,12 @@
         "canDynamax": true,
         "canBeAlpha": false,
         "obtainableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "storableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "shinyReleased": true,
         "baseStats": {
@@ -71626,12 +71752,12 @@
         "canDynamax": true,
         "canBeAlpha": false,
         "obtainableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "storableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "shinyReleased": true,
         "baseStats": {
@@ -71719,12 +71845,12 @@
         "canDynamax": true,
         "canBeAlpha": false,
         "obtainableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "storableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "shinyReleased": true,
         "baseStats": {
@@ -71812,12 +71938,12 @@
         "canDynamax": true,
         "canBeAlpha": false,
         "obtainableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "storableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "shinyReleased": true,
         "baseStats": {
@@ -71905,12 +72031,12 @@
         "canDynamax": true,
         "canBeAlpha": false,
         "obtainableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "storableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "shinyReleased": true,
         "baseStats": {
@@ -71998,12 +72124,12 @@
         "canDynamax": true,
         "canBeAlpha": false,
         "obtainableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "storableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "shinyReleased": true,
         "baseStats": {
@@ -72091,12 +72217,12 @@
         "canDynamax": true,
         "canBeAlpha": false,
         "obtainableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "storableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "shinyReleased": true,
         "baseStats": {
@@ -72184,12 +72310,12 @@
         "canDynamax": true,
         "canBeAlpha": false,
         "obtainableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "storableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "shinyReleased": true,
         "baseStats": {
@@ -72277,12 +72403,12 @@
         "canDynamax": true,
         "canBeAlpha": false,
         "obtainableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "storableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "shinyReleased": true,
         "baseStats": {
@@ -72370,12 +72496,12 @@
         "canDynamax": true,
         "canBeAlpha": false,
         "obtainableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "storableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "shinyReleased": true,
         "baseStats": {
@@ -72463,12 +72589,12 @@
         "canDynamax": true,
         "canBeAlpha": false,
         "obtainableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "storableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "shinyReleased": true,
         "baseStats": {
@@ -72556,12 +72682,12 @@
         "canDynamax": true,
         "canBeAlpha": false,
         "obtainableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "storableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "shinyReleased": true,
         "baseStats": {
@@ -72649,12 +72775,12 @@
         "canDynamax": true,
         "canBeAlpha": false,
         "obtainableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "storableIn": [
-            "la",
-            "bdsp"
+            "bdsp",
+            "la"
         ],
         "shinyReleased": true,
         "baseStats": {
@@ -72742,7 +72868,8 @@
         "canDynamax": true,
         "canBeAlpha": false,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "la"
@@ -73760,7 +73887,8 @@
         "canDynamax": false,
         "canBeAlpha": true,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "home",
@@ -76555,7 +76683,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -78332,7 +78462,8 @@
         "canDynamax": false,
         "canBeAlpha": true,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "home",
@@ -78610,7 +78741,8 @@
         "canDynamax": false,
         "canBeAlpha": true,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "home",
@@ -79265,7 +79397,9 @@
         "canGmax": false,
         "canDynamax": true,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -79444,7 +79578,9 @@
         "canGmax": false,
         "canDynamax": true,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -80941,7 +81077,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -81122,7 +81260,8 @@
         "canDynamax": false,
         "canBeAlpha": true,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "home",
@@ -81305,7 +81444,8 @@
         "canDynamax": false,
         "canBeAlpha": true,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "home",
@@ -87565,7 +87705,8 @@
         "canDynamax": false,
         "canBeAlpha": true,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "home",
@@ -97570,7 +97711,9 @@
         "canGmax": false,
         "canDynamax": true,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -99903,7 +100046,8 @@
         "canDynamax": false,
         "canBeAlpha": true,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "home",
@@ -100088,7 +100232,8 @@
         "canDynamax": false,
         "canBeAlpha": true,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "home",
@@ -101397,7 +101542,8 @@
         "canDynamax": false,
         "canBeAlpha": true,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "home",
@@ -101769,7 +101915,10 @@
         "canGmax": false,
         "canDynamax": true,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go",
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -102324,7 +102473,9 @@
         "canGmax": false,
         "canDynamax": true,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -102505,7 +102656,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "go"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -103157,7 +103310,8 @@
         "canDynamax": false,
         "canBeAlpha": true,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "home",
@@ -105829,7 +105983,9 @@
         "canGmax": false,
         "canDynamax": true,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -111079,7 +111235,9 @@
         "canGmax": false,
         "canDynamax": true,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -113406,7 +113564,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -114422,7 +114582,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": false,
         "baseStats": {
@@ -114786,7 +114948,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -115150,7 +115314,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -115514,7 +115680,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -116066,7 +116234,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -116430,7 +116600,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -117258,7 +117430,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -117806,7 +117980,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -118078,7 +118254,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -118258,7 +118436,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -118530,7 +118710,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -118711,7 +118893,9 @@
         "canGmax": false,
         "canDynamax": true,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -118798,7 +118982,9 @@
         "canGmax": false,
         "canDynamax": true,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -119346,7 +119532,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -119433,7 +119621,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -119705,7 +119895,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -120619,7 +120811,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -120983,7 +121177,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -127459,7 +127655,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -128163,7 +128361,9 @@
         "canGmax": false,
         "canDynamax": true,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -128526,7 +128726,9 @@
         "canGmax": false,
         "canDynamax": true,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -128798,7 +129000,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -129346,7 +129550,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -129804,7 +130010,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -129986,7 +130194,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": true,
         "baseStats": {
@@ -130166,7 +130376,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": false,
         "baseStats": {
@@ -130530,7 +130742,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": false,
         "baseStats": {
@@ -130617,7 +130831,9 @@
         "canGmax": false,
         "canDynamax": false,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": false,
         "baseStats": {
@@ -131356,7 +131572,9 @@
         "canGmax": false,
         "canDynamax": true,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": false,
         "baseStats": {
@@ -131448,7 +131666,9 @@
         "canGmax": false,
         "canDynamax": true,
         "canBeAlpha": false,
-        "obtainableIn": [],
+        "obtainableIn": [
+            "swsh"
+        ],
         "storableIn": [],
         "shinyReleased": false,
         "baseStats": {
@@ -131536,7 +131756,8 @@
         "canDynamax": false,
         "canBeAlpha": true,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "home",
@@ -131628,7 +131849,8 @@
         "canDynamax": false,
         "canBeAlpha": true,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "home",
@@ -131720,7 +131942,8 @@
         "canDynamax": false,
         "canBeAlpha": true,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "home",
@@ -131812,7 +132035,8 @@
         "canDynamax": false,
         "canBeAlpha": true,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "home",
@@ -131905,7 +132129,8 @@
         "canDynamax": false,
         "canBeAlpha": true,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "home",
@@ -131995,7 +132220,8 @@
         "canDynamax": false,
         "canBeAlpha": true,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "home",
@@ -132087,7 +132313,8 @@
         "canDynamax": false,
         "canBeAlpha": true,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "home",
@@ -132179,7 +132406,8 @@
         "canDynamax": false,
         "canBeAlpha": false,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "home",
@@ -132272,7 +132500,8 @@
         "canDynamax": false,
         "canBeAlpha": false,
         "obtainableIn": [
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "home",

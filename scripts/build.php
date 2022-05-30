@@ -285,8 +285,8 @@ require_once __DIR__ . '/_bootstrap.php';
         }
         if ($createMinimal && ($total !== $minimalTotal)) {
             sgg_data_save(
-                "builds/box-presets/{$gameSetId}/100-fully-sorted-minimal.json",
-                $presetMinimal,
+                        "builds/box-presets/{$gameSetId}/100-fully-sorted-minimal.json",
+                        $presetMinimal,
                 minify: false
             );
         }
@@ -357,6 +357,30 @@ require_once __DIR__ . '/_bootstrap.php';
         sgg_data_save('builds/pokedexes/national.json', $dex, minify: false); // prettified
     };
 
+    $generatePokemonAvailabilities = static function () use ($dataSet): void {
+        $availability = [];
+        $unobtainable = [];
+        $unobtainableShiny = [];
+
+        foreach ($dataSet as $pkm) {
+            $availability[$pkm['id']] = [
+                'obtainableIn' => $pkm['obtainableIn'],
+                'storableIn' => $pkm['storableIn'],
+                'shinyReleased' => $pkm['shinyReleased'],
+            ];
+            if (empty($pkm['obtainableIn'])) {
+                $unobtainable[] = $pkm['id'];
+            }
+            if (!$pkm['shinyReleased']) {
+                $unobtainableShiny[] = $pkm['id'];
+            }
+        }
+
+        sgg_data_save('builds/pokemon/pokemon-availability.json', $availability, minify: false);
+        sgg_data_save('builds/pokemon/pokemon-unobtainable.json', $unobtainable, minify: false);
+        sgg_data_save('builds/pokemon/pokemon-unobtainable-shiny.json', $unobtainableShiny, minify: false);
+    };
+
     // TASKS runner:
     // TODO generate national dex
 
@@ -374,6 +398,7 @@ require_once __DIR__ . '/_bootstrap.php';
     $generateGamesetBoxesPreset('lgpe', 1000);
     $generateGamesetBoxesPreset('swsh', 30);
     $generateGamesetBoxesPreset('go', 9999);
+    $generatePokemonAvailabilities();
 
     $generateGameGamesList();
     $mergeAllBoxPresets();
