@@ -38,11 +38,13 @@
     "canBeAlpha": false,
     "obtainableIn": [
         "bdsp",
+        "go",
         "lgpe",
         "swsh"
     ],
     "storableIn": [
         "bdsp",
+        "go",
         "home",
         "lgpe",
         "swsh"

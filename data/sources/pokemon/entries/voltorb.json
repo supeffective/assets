@@ -38,11 +38,13 @@
     "canBeAlpha": false,
     "obtainableIn": [
         "bdsp",
+        "go",
         "lgpe"
     ],
     "storableIn": [
-        "home",
         "bdsp",
+        "go",
+        "home",
         "lgpe"
     ],
     "shinyReleased": true,

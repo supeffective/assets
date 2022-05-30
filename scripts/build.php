@@ -373,6 +373,7 @@ require_once __DIR__ . '/_bootstrap.php';
     $generateGamesetBoxesPreset('bdsp', 30);
     $generateGamesetBoxesPreset('lgpe', 1000);
     $generateGamesetBoxesPreset('swsh', 30);
+    $generateGamesetBoxesPreset('go', 9999);
 
     $generateGameGamesList();
     $mergeAllBoxPresets();

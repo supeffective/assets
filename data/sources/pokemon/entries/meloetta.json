@@ -36,8 +36,11 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
-    "obtainableIn": [],
+    "obtainableIn": [
+        "go"
+    ],
     "storableIn": [
+        "go",
         "home"
     ],
     "shinyReleased": false,

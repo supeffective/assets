@@ -37,9 +37,12 @@
     "canDynamax": true,
     "canBeAlpha": true,
     "obtainableIn": [
+        "go",
         "la"
     ],
-    "storableIn": [],
+    "storableIn": [
+        "go"
+    ],
     "shinyReleased": true,
     "baseStats": {
         "hp": -1,

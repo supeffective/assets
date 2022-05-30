@@ -37,9 +37,11 @@
     "canDynamax": true,
     "canBeAlpha": false,
     "obtainableIn": [
+        "go",
         "lgpe"
     ],
     "storableIn": [
+        "go",
         "home",
         "lgpe"
     ],
