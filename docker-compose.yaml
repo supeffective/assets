@@ -1,0 +1,34 @@
+version: "3.8"
+services:
+  dumper-pogo:
+    build:
+      context: ./
+      target: dumper-pogo
+    command: [ "true" ]
+    environment:
+      - OUTPUT_DIR=/usr/src/app-build/pogo
+    volumes:
+      - './build/:/usr/src/app-build:delegated'
+      - './scripts/pogo-dumper:/usr/src/app'
+#
+#  dumper-showdown:
+#    build:
+#      context: ./
+#      target: dumper-showdown
+#    command: [ "true" ]
+#    environment:
+#      - OUTPUT_DIR=/usr/src/app-build/showdown
+#    volumes:
+#      - './build/:/usr/src/app-build:delegated'
+#      - './scripts/showdown-dumper:/usr/src/app'
+#
+#  dumper-veekun:
+#    build:
+#      context: ./
+#      target: dumper-veekun
+#    command: [ "true" ]
+#    environment:
+#      - OUTPUT_DIR=/usr/src/app-build/veekun
+#    volumes:
+#      - './build/:/usr/src/app-build:delegated'
+#      - './scripts/veekun-dumper:/usr/src/app'

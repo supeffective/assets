@@ -118,6 +118,7 @@ JSON;
     }
 
     $dataSet = sgg_get_merged_pkm_entries();
+    $cannotBeShiny = sgg_data_load('sources/pokemon/shiny-unavailable.json');
     foreach ($dataSet as $i => $pkm) {
         $pkmId = $pkm['id'];
 
@@ -127,6 +128,7 @@ JSON;
 
         // TODO modify $newPkm here, e.g.:
         $newPkm = array_merge($dataTemplateArr, $pkm);
+        $newPkm['shinyReleased'] = !in_array($pkmId, $cannotBeShiny, true);
 
         /* --- END $newPkm data transformation */
         // save pkm entry
