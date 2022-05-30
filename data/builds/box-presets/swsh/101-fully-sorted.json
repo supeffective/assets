@@ -6,7 +6,6 @@
     "description": "Pokémon Boxes sorted by Species and Forms, following SWSH's fullest dex order.",
     "boxes": [
         {
-            "title": "Box 1",
             "pokemon": [
                 "bulbasaur",
                 "ivysaur",
@@ -41,7 +40,6 @@
             ]
         },
         {
-            "title": "Box 2",
             "pokemon": [
                 "vulpix",
                 "vulpix-alola",
@@ -76,7 +74,6 @@
             ]
         },
         {
-            "title": "Box 3",
             "pokemon": [
                 "machop",
                 "machoke",
@@ -111,7 +108,6 @@
             ]
         },
         {
-            "title": "Box 4",
             "pokemon": [
                 "marowak-alola",
                 "hitmonlee",
@@ -146,7 +142,6 @@
             ]
         },
         {
-            "title": "Box 5",
             "pokemon": [
                 "eevee",
                 "eevee-f",
@@ -181,7 +176,6 @@
             ]
         },
         {
-            "title": "Box 6",
             "pokemon": [
                 "igglybuff",
                 "togepi",
@@ -216,7 +210,6 @@
             ]
         },
         {
-            "title": "Box 7",
             "pokemon": [
                 "corsola",
                 "corsola-galar",
@@ -251,7 +244,6 @@
             ]
         },
         {
-            "title": "Box 8",
             "pokemon": [
                 "blaziken",
                 "mudkip",
@@ -286,7 +278,6 @@
             ]
         },
         {
-            "title": "Box 9",
             "pokemon": [
                 "aggron",
                 "electrike",
@@ -321,7 +312,6 @@
             ]
         },
         {
-            "title": "Box 10",
             "pokemon": [
                 "absol",
                 "wynaut",
@@ -356,7 +346,6 @@
             ]
         },
         {
-            "title": "Box 11",
             "pokemon": [
                 "cherubi",
                 "cherrim",
@@ -391,7 +380,6 @@
             ]
         },
         {
-            "title": "Box 12",
             "pokemon": [
                 "croagunk",
                 "toxicroak",
@@ -426,7 +414,6 @@
             ]
         },
         {
-            "title": "Box 13",
             "pokemon": [
                 "dialga",
                 "palkia",
@@ -461,7 +448,6 @@
             ]
         },
         {
-            "title": "Box 14",
             "pokemon": [
                 "palpitoad",
                 "seismitoad",
@@ -496,7 +482,6 @@
             ]
         },
         {
-            "title": "Box 15",
             "pokemon": [
                 "carracosta",
                 "archen",
@@ -531,7 +516,6 @@
             ]
         },
         {
-            "title": "Box 16",
             "pokemon": [
                 "ferrothorn",
                 "klink",
@@ -566,7 +550,6 @@
             ]
         },
         {
-            "title": "Box 17",
             "pokemon": [
                 "mandibuzz",
                 "heatmor",
@@ -601,7 +584,6 @@
             ]
         },
         {
-            "title": "Box 18",
             "pokemon": [
                 "pancham",
                 "pangoro",
@@ -636,7 +618,6 @@
             ]
         },
         {
-            "title": "Box 19",
             "pokemon": [
                 "goomy",
                 "sliggoo",
@@ -671,7 +652,6 @@
             ]
         },
         {
-            "title": "Box 20",
             "pokemon": [
                 "torracat",
                 "incineroar",
@@ -706,7 +686,6 @@
             ]
         },
         {
-            "title": "Box 21",
             "pokemon": [
                 "steenee",
                 "tsareena",
@@ -741,7 +720,6 @@
             ]
         },
         {
-            "title": "Box 22",
             "pokemon": [
                 "togedemaru",
                 "mimikyu",
@@ -776,7 +754,6 @@
             ]
         },
         {
-            "title": "Box 23",
             "pokemon": [
                 "stakataka",
                 "blacephalon",
@@ -811,7 +788,6 @@
             ]
         },
         {
-            "title": "Box 24",
             "pokemon": [
                 "yamper",
                 "boltund",
@@ -846,7 +822,6 @@
             ]
         },
         {
-            "title": "Box 25",
             "pokemon": [
                 "obstagoon",
                 "perrserker",
@@ -881,7 +856,6 @@
             ]
         },
         {
-            "title": "Box 26",
             "pokemon": [
                 "alcremie-mint-cream-love",
                 "alcremie-mint-cream-star",
@@ -916,7 +890,6 @@
             ]
         },
         {
-            "title": "Box 27",
             "pokemon": [
                 "alcremie-caramel-swirl-clover",
                 "alcremie-caramel-swirl-flower",
@@ -951,7 +924,6 @@
             ]
         },
         {
-            "title": "Box 28",
             "pokemon": [
                 "zamazenta",
                 "eternatus",

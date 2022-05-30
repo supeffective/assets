@@ -175,7 +175,6 @@ require_once __DIR__ . '/_bootstrap.php';
             }
             if (!isset($preset['boxes'][$currentBox])) {
                 $preset['boxes'][$currentBox] = [
-                    'title' => 'Box ' . ($currentBox + 1),
                     'pokemon' => [],
                 ];
             }
@@ -211,7 +210,6 @@ require_once __DIR__ . '/_bootstrap.php';
                 }
                 if (!isset($preset['boxes'][$currentBox])) {
                     $preset['boxes'][$currentBox] = [
-                        'title' => 'Pasture ' . ($currentBox + 1),
                         'pokemon' => [],
                     ];
                 }
@@ -269,13 +267,11 @@ require_once __DIR__ . '/_bootstrap.php';
             }
             if (!isset($preset['boxes'][$currentBox])) {
                 $preset['boxes'][$currentBox] = [
-                    'title' => 'Box ' . ($currentBox + 1),
                     'pokemon' => [],
                 ];
             }
             if (!isset($preset['boxes'][$currentBoxMinimal])) {
                 $preset['boxes'][$currentBoxMinimal] = [
-                    'title' => 'Box ' . ($currentBoxMinimal + 1),
                     'pokemon' => [],
                 ];
             }

@@ -6,7 +6,6 @@
     "description": "Pokémon Boxes sorted by Species and Forms, following BDSP's fullest dex order.",
     "boxes": [
         {
-            "title": "Box 1",
             "pokemon": [
                 "bulbasaur",
                 "ivysaur",
@@ -41,7 +40,6 @@
             ]
         },
         {
-            "title": "Box 2",
             "pokemon": [
                 "raichu",
                 "raichu-f",
@@ -76,7 +74,6 @@
             ]
         },
         {
-            "title": "Box 3",
             "pokemon": [
                 "dugtrio",
                 "meowth",
@@ -111,7 +108,6 @@
             ]
         },
         {
-            "title": "Box 4",
             "pokemon": [
                 "slowpoke",
                 "slowbro",
@@ -146,7 +142,6 @@
             ]
         },
         {
-            "title": "Box 5",
             "pokemon": [
                 "hitmonlee",
                 "hitmonchan",
@@ -181,7 +176,6 @@
             ]
         },
         {
-            "title": "Box 6",
             "pokemon": [
                 "gyarados",
                 "gyarados-f",
@@ -216,7 +210,6 @@
             ]
         },
         {
-            "title": "Box 7",
             "pokemon": [
                 "typhlosion",
                 "totodile",
@@ -251,7 +244,6 @@
             ]
         },
         {
-            "title": "Box 8",
             "pokemon": [
                 "azumarill",
                 "sudowoodo",
@@ -286,7 +278,6 @@
             ]
         },
         {
-            "title": "Box 9",
             "pokemon": [
                 "unown-h",
                 "unown-i",
@@ -321,7 +312,6 @@
             ]
         },
         {
-            "title": "Box 10",
             "pokemon": [
                 "steelix",
                 "steelix-f",
@@ -356,7 +346,6 @@
             ]
         },
         {
-            "title": "Box 11",
             "pokemon": [
                 "kingdra",
                 "phanpy",
@@ -391,7 +380,6 @@
             ]
         },
         {
-            "title": "Box 12",
             "pokemon": [
                 "blaziken",
                 "blaziken-f",
@@ -426,7 +414,6 @@
             ]
         },
         {
-            "title": "Box 13",
             "pokemon": [
                 "kirlia",
                 "gardevoir",
@@ -461,7 +448,6 @@
             ]
         },
         {
-            "title": "Box 14",
             "pokemon": [
                 "electrike",
                 "manectric",
@@ -496,7 +482,6 @@
             ]
         },
         {
-            "title": "Box 15",
             "pokemon": [
                 "swablu",
                 "altaria",
@@ -531,7 +516,6 @@
             ]
         },
         {
-            "title": "Box 16",
             "pokemon": [
                 "glalie",
                 "spheal",
@@ -566,7 +550,6 @@
             ]
         },
         {
-            "title": "Box 17",
             "pokemon": [
                 "grotle",
                 "torterra",
@@ -601,7 +584,6 @@
             ]
         },
         {
-            "title": "Box 18",
             "pokemon": [
                 "roserade-f",
                 "cranidos",
@@ -636,7 +618,6 @@
             ]
         },
         {
-            "title": "Box 19",
             "pokemon": [
                 "drifblim",
                 "buneary",
@@ -671,7 +652,6 @@
             ]
         },
         {
-            "title": "Box 20",
             "pokemon": [
                 "skorupi",
                 "drapion",
@@ -706,7 +686,6 @@
             ]
         },
         {
-            "title": "Box 21",
             "pokemon": [
                 "gliscor",
                 "mamoswine",
@@ -741,7 +720,6 @@
             ]
         },
         {
-            "title": "Box 22",
             "pokemon": [
                 "arceus-fighting",
                 "arceus-flying",

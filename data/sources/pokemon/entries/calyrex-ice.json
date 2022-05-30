@@ -43,7 +43,7 @@
     "canBeAlpha": false,
     "obtainableIn": [],
     "storableIn": [],
-    "shinyReleased": null,
+    "shinyReleased": false,
     "baseStats": {
         "hp": -1,
         "atk": -1,

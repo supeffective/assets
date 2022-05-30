@@ -6,7 +6,6 @@
     "description": "Pokémon Boxes sorted by Species and Forms, following original Pokémon HOME order.\nEvery newly introduced form will alter the order of all the following Pokémon.",
     "boxes": [
         {
-            "title": "Box 1",
             "pokemon": [
                 "bulbasaur",
                 "ivysaur",
@@ -41,7 +40,6 @@
             ]
         },
         {
-            "title": "Box 2",
             "pokemon": [
                 "pikachu",
                 "pikachu-f",
@@ -76,7 +74,6 @@
             ]
         },
         {
-            "title": "Box 3",
             "pokemon": [
                 "wigglytuff",
                 "zubat",
@@ -111,7 +108,6 @@
             ]
         },
         {
-            "title": "Box 4",
             "pokemon": [
                 "arcanine-hisui",
                 "poliwag",
@@ -146,7 +142,6 @@
             ]
         },
         {
-            "title": "Box 5",
             "pokemon": [
                 "slowbro-galar",
                 "magnemite",
@@ -181,7 +176,6 @@
             ]
         },
         {
-            "title": "Box 6",
             "pokemon": [
                 "exeggcute",
                 "exeggutor",
@@ -216,7 +210,6 @@
             ]
         },
         {
-            "title": "Box 7",
             "pokemon": [
                 "scyther-f",
                 "jynx",
@@ -251,7 +244,6 @@
             ]
         },
         {
-            "title": "Box 8",
             "pokemon": [
                 "dratini",
                 "dragonair",
@@ -286,7 +278,6 @@
             ]
         },
         {
-            "title": "Box 9",
             "pokemon": [
                 "cleffa",
                 "igglybuff",
@@ -321,7 +312,6 @@
             ]
         },
         {
-            "title": "Box 10",
             "pokemon": [
                 "umbreon",
                 "murkrow",
@@ -356,7 +346,6 @@
             ]
         },
         {
-            "title": "Box 11",
             "pokemon": [
                 "unown-y",
                 "unown-z",
@@ -391,7 +380,6 @@
             ]
         },
         {
-            "title": "Box 12",
             "pokemon": [
                 "ursaring-f",
                 "slugma",
@@ -426,7 +414,6 @@
             ]
         },
         {
-            "title": "Box 13",
             "pokemon": [
                 "blissey",
                 "raikou",
@@ -461,7 +448,6 @@
             ]
         },
         {
-            "title": "Box 14",
             "pokemon": [
                 "beautifly",
                 "beautifly-f",
@@ -496,7 +482,6 @@
             ]
         },
         {
-            "title": "Box 15",
             "pokemon": [
                 "shedinja",
                 "whismur",
@@ -531,7 +516,6 @@
             ]
         },
         {
-            "title": "Box 16",
             "pokemon": [
                 "swalot-f",
                 "carvanha",
@@ -566,7 +550,6 @@
             ]
         },
         {
-            "title": "Box 17",
             "pokemon": [
                 "claydol",
                 "lileep",
@@ -601,7 +584,6 @@
             ]
         },
         {
-            "title": "Box 18",
             "pokemon": [
                 "shelgon",
                 "salamence",
@@ -636,7 +618,6 @@
             ]
         },
         {
-            "title": "Box 19",
             "pokemon": [
                 "staravia-f",
                 "staraptor",
@@ -671,7 +652,6 @@
             ]
         },
         {
-            "title": "Box 20",
             "pokemon": [
                 "mothim",
                 "combee",
@@ -706,7 +686,6 @@
             ]
         },
         {
-            "title": "Box 21",
             "pokemon": [
                 "bronzong",
                 "bonsly",
@@ -741,7 +720,6 @@
             ]
         },
         {
-            "title": "Box 22",
             "pokemon": [
                 "mantyke",
                 "snover",
@@ -776,7 +754,6 @@
             ]
         },
         {
-            "title": "Box 23",
             "pokemon": [
                 "rotom-frost",
                 "rotom-fan",
@@ -811,7 +788,6 @@
             ]
         },
         {
-            "title": "Box 24",
             "pokemon": [
                 "watchog",
                 "lillipup",
@@ -846,7 +822,6 @@
             ]
         },
         {
-            "title": "Box 25",
             "pokemon": [
                 "conkeldurr",
                 "tympole",
@@ -881,7 +856,6 @@
             ]
         },
         {
-            "title": "Box 26",
             "pokemon": [
                 "scraggy",
                 "scrafty",
@@ -916,7 +890,6 @@
             ]
         },
         {
-            "title": "Box 27",
             "pokemon": [
                 "deerling-summer",
                 "deerling-autumn",
@@ -951,7 +924,6 @@
             ]
         },
         {
-            "title": "Box 28",
             "pokemon": [
                 "lampent",
                 "chandelure",
@@ -986,7 +958,6 @@
             ]
         },
         {
-            "title": "Box 29",
             "pokemon": [
                 "larvesta",
                 "volcarona",
@@ -1021,7 +992,6 @@
             ]
         },
         {
-            "title": "Box 30",
             "pokemon": [
                 "fletchling",
                 "fletchinder",
@@ -1056,7 +1026,6 @@
             ]
         },
         {
-            "title": "Box 31",
             "pokemon": [
                 "flabebe-orange",
                 "flabebe-white",
@@ -1091,7 +1060,6 @@
             ]
         },
         {
-            "title": "Box 32",
             "pokemon": [
                 "honedge",
                 "doublade",
@@ -1126,7 +1094,6 @@
             ]
         },
         {
-            "title": "Box 33",
             "pokemon": [
                 "klefki",
                 "phantump",
@@ -1161,7 +1128,6 @@
             ]
         },
         {
-            "title": "Box 34",
             "pokemon": [
                 "litten",
                 "torracat",
@@ -1196,7 +1162,6 @@
             ]
         },
         {
-            "title": "Box 35",
             "pokemon": [
                 "mudbray",
                 "mudsdale",
@@ -1231,7 +1196,6 @@
             ]
         },
         {
-            "title": "Box 36",
             "pokemon": [
                 "minior-indigo",
                 "minior-violet",
@@ -1266,7 +1230,6 @@
             ]
         },
         {
-            "title": "Box 37",
             "pokemon": [
                 "marshadow",
                 "poipole",
@@ -1301,7 +1264,6 @@
             ]
         },
         {
-            "title": "Box 38",
             "pokemon": [
                 "dubwool",
                 "chewtle",
@@ -1336,7 +1298,6 @@
             ]
         },
         {
-            "title": "Box 39",
             "pokemon": [
                 "impidimp",
                 "morgrem",
@@ -1371,7 +1332,6 @@
             ]
         },
         {
-            "title": "Box 40",
             "pokemon": [
                 "alcremie-matcha-cream-ribbon",
                 "alcremie-mint-cream-strawberry",
@@ -1406,7 +1366,6 @@
             ]
         },
         {
-            "title": "Box 41",
             "pokemon": [
                 "alcremie-caramel-swirl-berry",
                 "alcremie-caramel-swirl-love",
@@ -1441,7 +1400,6 @@
             ]
         },
         {
-            "title": "Box 42",
             "pokemon": [
                 "drakloak",
                 "dragapult",

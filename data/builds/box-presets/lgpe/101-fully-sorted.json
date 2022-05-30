@@ -6,7 +6,6 @@
     "description": "Pokémon Boxes sorted by Species and Forms, following LGPE's fullest dex order.",
     "boxes": [
         {
-            "title": "Box 1",
             "pokemon": [
                 "bulbasaur",
                 "ivysaur",

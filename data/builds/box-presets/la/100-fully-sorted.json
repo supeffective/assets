@@ -6,7 +6,6 @@
     "description": "Pokémon Boxes sorted by Species and Forms, following original Legends Arceus order.",
     "boxes": [
         {
-            "title": "Pasture 1",
             "pokemon": [
                 "rowlet",
                 "dartrix",
@@ -41,7 +40,6 @@
             ]
         },
         {
-            "title": "Pasture 2",
             "pokemon": [
                 "dustox",
                 "dustox-f",
@@ -76,7 +74,6 @@
             ]
         },
         {
-            "title": "Pasture 3",
             "pokemon": [
                 "burmy-sandy",
                 "burmy-trash",
@@ -111,7 +108,6 @@
             ]
         },
         {
-            "title": "Pasture 4",
             "pokemon": [
                 "cherubi",
                 "cherrim",
@@ -146,7 +142,6 @@
             ]
         },
         {
-            "title": "Pasture 5",
             "pokemon": [
                 "happiny",
                 "chansey",
@@ -181,7 +176,6 @@
             ]
         },
         {
-            "title": "Pasture 6",
             "pokemon": [
                 "pachirisu",
                 "pachirisu-f",
@@ -216,7 +210,6 @@
             ]
         },
         {
-            "title": "Pasture 7",
             "pokemon": [
                 "torterra",
                 "porygon",
@@ -251,7 +244,6 @@
             ]
         },
         {
-            "title": "Pasture 8",
             "pokemon": [
                 "unown-t",
                 "unown-u",
@@ -286,7 +278,6 @@
             ]
         },
         {
-            "title": "Pasture 9",
             "pokemon": [
                 "empoleon",
                 "mantyke",
@@ -321,7 +312,6 @@
             ]
         },
         {
-            "title": "Pasture 10",
             "pokemon": [
                 "gible",
                 "gible-f",
@@ -356,7 +346,6 @@
             ]
         },
         {
-            "title": "Pasture 11",
             "pokemon": [
                 "snorunt",
                 "glalie",
@@ -391,7 +380,6 @@
             ]
         },
         {
-            "title": "Pasture 12",
             "pokemon": [
                 "tornadus",
                 "tornadus-therian",
@@ -426,7 +414,6 @@
             ]
         },
         {
-            "title": "Pasture 13",
             "pokemon": [
                 "arceus-dark",
                 "arceus-fairy",
