@@ -1,9 +1,9 @@
 {
     "id": "grouped",
-    "name": "Regional: Grouped by Species, then forms",
+    "name": "Regional: Sorted by Species, then form groups",
     "version": 1,
     "gameSet": "la",
-    "description": "Pokémon Boxes are grouped separating Species and Forms. First you will find all the species, then all the forms (leaving gaps among different form categories).",
+    "description": "Pokémon Boxes are grouped separating Species and Forms. First you will find all the species, then all the forms by groups (leaving gaps among different form categories).",
     "boxes": [
         {
             "pokemon": [

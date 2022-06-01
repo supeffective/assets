@@ -8923,7 +8923,7 @@
     "la": {
         "fully-sorted-minimal": {
             "id": "fully-sorted-minimal",
-            "name": "Sorted by Forms, Minimal",
+            "name": "Regional: Sorted by Forms, Minimal",
             "version": 1,
             "gameSet": "la",
             "description": "Pokémon Boxes are sorted by Species and Forms together (except legendary forms), following original Legends: Arceus Pokédex order.",
@@ -9767,10 +9767,10 @@
         },
         "grouped": {
             "id": "grouped",
-            "name": "Regional: Grouped by Species, then forms",
+            "name": "Regional: Sorted by Species, then form groups",
             "version": 1,
             "gameSet": "la",
-            "description": "Pokémon Boxes are grouped separating Species and Forms. First you will find all the species, then all the forms (leaving gaps among different form categories).",
+            "description": "Pokémon Boxes are grouped separating Species and Forms. First you will find all the species, then all the forms by groups (leaving gaps among different form categories).",
             "boxes": [
                 {
                     "pokemon": [
@@ -10200,7 +10200,7 @@
         },
         "fully-sorted": {
             "id": "fully-sorted",
-            "name": "Sorted by Forms",
+            "name": "Regional: Sorted by Forms",
             "version": 1,
             "gameSet": "la",
             "description": "(Recommended) Pokémon Boxes are sorted by Species and Forms together, following original Legends: Arceus Pokédex order.",

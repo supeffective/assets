@@ -187,7 +187,7 @@ require_once __DIR__ . '/_bootstrap.php';
         $hisuiDex = sgg_data_load('sources/pokedexes/hisui.json');
         $preset = [
             'id' => 'fully-sorted',
-            'name' => 'Sorted by Forms',
+            'name' => 'Regional: Sorted by Forms',
             'version' => 1,
             'gameSet' => 'la',
             //'shortDescription' => 'Sorted by Species and their Forms, in their HOME order.',
