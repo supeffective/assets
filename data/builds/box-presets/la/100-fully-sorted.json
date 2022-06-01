@@ -1,9 +1,9 @@
 {
     "id": "fully-sorted",
-    "name": "Fully Sorted",
+    "name": "Sorted by Forms",
     "version": 1,
     "gameSet": "la",
-    "description": "Pokémon Boxes sorted by Species and Forms, following original Legends Arceus order.",
+    "description": "(Recommended) Pokémon Boxes are sorted by Species and Forms together, following original Legends: Arceus Pokédex order.",
     "boxes": [
         {
             "pokemon": [

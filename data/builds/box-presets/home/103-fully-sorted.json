@@ -1,9 +1,9 @@
 {
     "id": "fully-sorted",
-    "name": "National Dex Order",
+    "name": "National: Sorted by Forms",
     "version": 1,
     "gameSet": "home",
-    "description": "Pokémon Boxes sorted by National Dex order, mixing Species and Forms.",
+    "description": "Pokémon Boxes are sorted following HOME's National Dex order, mixing Species and Forms together.",
     "boxes": [
         {
             "pokemon": [

@@ -1,9 +1,9 @@
 {
     "id": "fully-sorted-minimal",
-    "name": "National Dex Order (Minimal)",
+    "name": "National: Sorted by Forms (Minimal)",
     "version": 1,
     "gameSet": "swsh",
-    "description": "Pokémon Boxes sorted by National Dex order, mixing Species and Forms, but without Legendary or Mythical Pokémon forms.",
+    "description": "Pokémon Boxes are sorted following HOME's National Dex order mixing Species and Forms, but Legendary or Mythical Pokémon forms (like Hoopa Unbound, etc) will be excluded.",
     "boxes": [
         {
             "pokemon": [

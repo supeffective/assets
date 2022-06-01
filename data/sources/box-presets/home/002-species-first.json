@@ -1,9 +1,9 @@
 {
     "id": "species-first",
-    "name": "Grouped by Species and Forms",
+    "name": "National: Grouped by Species, then Forms",
     "version": 2,
     "gameSet": "home",
-    "description": "Grouped with the Species first and the Forms after all of them, grouped by generation and categories. You may need to alter the order of your form boxes if there are a lot of species introduced in a new game.",
+    "description": "Grouped with the Species first and the Forms after all of them, grouped by generation and categories. You may need to alter the order of your form boxes if there are a lot of species introduced in a new game. This mode also adds many duplicated Pokémon, to visualize all the forms together, including the base form.",
     "boxes": [
         {
             "title": "Species 1",

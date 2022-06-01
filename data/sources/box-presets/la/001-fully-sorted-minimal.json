@@ -1,9 +1,9 @@
 {
     "id": "fully-sorted-minimal",
-    "name": "Fully Sorted - Minimal",
+    "name": "Sorted by Forms, Minimal",
     "version": 1,
     "gameSet": "la",
-    "description": "Pokémon Boxes sorted by Species and Forms (except legendary forms), following original Legends Arceus Pokédex order.",
+    "description": "Pokémon Boxes are sorted by Species and Forms together (except legendary forms), following original Legends: Arceus Pokédex order.",
     "boxes": [
         {
             "title": "Pasture 1",

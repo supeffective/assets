@@ -149,49 +149,49 @@ require_once __DIR__ . '/_bootstrap.php';
         sgg_data_save('builds/games.json', $gameList, minify: false);
     };
 
-    $generateFullySortedHomePreset = static function () use ($dataSet): void {
-        $preset = [
-            'id' => 'fully-sorted',
-            'name' => 'Fully Sorted',
-            'version' => 2,
-            'gameSet' => 'home',
-            //'shortDescription' => 'Sorted by Species and their Forms, in their HOME order.',
-            "description" => "Pokémon Boxes sorted by Species and Forms, following original Pokémon HOME order.\n"
-                . "Every newly introduced form will alter the order of all the following Pokémon.",
-            "boxes" => [],
-
-        ];
-        $maxPkmPerBox = 30;
-        $currentBox = 0;
-        foreach ($dataSet as $i => $pkm) {
-            if (!in_array('home', $pkm['storableIn'], true)) {
-                continue;
-            }
-            if (
-                isset($preset['boxes'][$currentBox])
-                && (count($preset['boxes'][$currentBox]['pokemon']) >= $maxPkmPerBox)
-            ) {
-                $currentBox++;
-            }
-            if (!isset($preset['boxes'][$currentBox])) {
-                $preset['boxes'][$currentBox] = [
-                    'pokemon' => [],
-                ];
-            }
-            $preset['boxes'][$currentBox]['pokemon'][] = $pkm['id'];
-        }
-        sgg_data_save('builds/box-presets/home/100-fully-sorted.json', $preset, minify: false); // prettified
-    };
+//    $generateFullySortedHomePreset = static function () use ($dataSet): void {
+//        $preset = [
+//            'id' => 'fully-sorted',
+//            'name' => 'Fully Sorted',
+//            'version' => 2,
+//            'gameSet' => 'home',
+//            //'shortDescription' => 'Sorted by Species and their Forms, in their HOME order.',
+//            "description" => "Pokémon Boxes sorted by Species and Forms, following original Pokémon HOME order.\n"
+//                . "Every newly introduced form will alter the order of all the following Pokémon.",
+//            "boxes" => [],
+//
+//        ];
+//        $maxPkmPerBox = 30;
+//        $currentBox = 0;
+//        foreach ($dataSet as $i => $pkm) {
+//            if (!in_array('home', $pkm['storableIn'], true)) {
+//                continue;
+//            }
+//            if (
+//                isset($preset['boxes'][$currentBox])
+//                && (count($preset['boxes'][$currentBox]['pokemon']) >= $maxPkmPerBox)
+//            ) {
+//                $currentBox++;
+//            }
+//            if (!isset($preset['boxes'][$currentBox])) {
+//                $preset['boxes'][$currentBox] = [
+//                    'pokemon' => [],
+//                ];
+//            }
+//            $preset['boxes'][$currentBox]['pokemon'][] = $pkm['id'];
+//        }
+//        sgg_data_save('builds/box-presets/home/100-fully-sorted.json', $preset, minify: false); // prettified
+//    };
 
     $generateHisuiBoxesPreset = static function () use ($dataSetById): void {
         $hisuiDex = sgg_data_load('sources/pokedexes/hisui.json');
         $preset = [
             'id' => 'fully-sorted',
-            'name' => 'Fully Sorted',
+            'name' => 'Sorted by Forms',
             'version' => 1,
             'gameSet' => 'la',
             //'shortDescription' => 'Sorted by Species and their Forms, in their HOME order.',
-            "description" => "Pokémon Boxes sorted by Species and Forms, following original Legends Arceus order.",
+            "description" => "(Recommended) Pokémon Boxes are sorted by Species and Forms together, following original Legends: Arceus Pokédex order.",
             "boxes" => [],
         ];
         $maxPkmPerBox = 30;
@@ -227,34 +227,34 @@ require_once __DIR__ . '/_bootstrap.php';
         $storables = sgg_data_load("builds/pokemon/storable/storable-pokemon-{$gameSetId}.json");
         $preset = [
             'id' => 'fully-sorted',
-            'name' => 'National Dex Order',
+            'name' => 'National: Sorted by Forms',
             'version' => 1,
             'gameSet' => $gameSetId,
-            "description" => "Pokémon Boxes sorted by National Dex order, mixing Species and Forms.",
+            "description" => "Pokémon Boxes are sorted following HOME's National Dex order, mixing Species and Forms together.",
             "boxes" => [],
         ];
         $presetMinimal = [
             'id' => 'fully-sorted-minimal',
-            'name' => 'National Dex Order (Minimal)',
+            'name' => 'National: Sorted by Forms (Minimal)',
             'version' => 1,
             'gameSet' => $gameSetId,
-            "description" => "Pokémon Boxes sorted by National Dex order, mixing Species and Forms, but without Legendary or Mythical Pokémon forms.",
+            "description" => "Pokémon Boxes are sorted following HOME's National Dex order mixing Species and Forms, but Legendary or Mythical Pokémon forms (like Hoopa Unbound, etc) will be excluded.",
             "boxes" => [],
         ];
         $presetBySpecies = [
             'id' => 'sorted-species',
-            'name' => 'National Dex Order (with Species first)',
+            'name' => 'National: Sorted by Species',
             'version' => 1,
             'gameSet' => $gameSetId,
-            "description" => "Pokémon Boxes sorted by National Dex order, separating Species and Forms.",
+            "description" => "(Recommended) Pokémon Boxes are sorted following HOME's National Dex order, separating Species and Forms. First you will find all the species, then all the forms starting in a new box (leaving a gap with the species).",
             "boxes" => [],
         ];
         $presetBySpeciesMinimal = [
             'id' => 'sorted-species-minimal',
-            'name' => 'National Dex Order (with Species first, Minimal)',
+            'name' => 'National: Sorted by Species (Minimal)',
             'version' => 1,
             'gameSet' => $gameSetId,
-            "description" => "Pokémon Boxes sorted by National Dex order, separating Species and Forms, but without Legendary or Mythical Pokémon forms.",
+            "description" => "Pokémon Boxes are sorted following HOME's National Dex order separating Species and Forms, but Legendary or Mythical Pokémon forms (like Magearna Original Color, etc) will be excluded. First you will find all the species, then all the forms starting in a new box (leaving a gap with the species).",
             "boxes" => [],
         ];
         $currentBox = 0;
