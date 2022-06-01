@@ -1,9 +1,9 @@
 {
-    "id": "fully-sorted-minimal",
-    "name": "Fully Sorted - Minimal",
+    "id": "fully-sorted",
+    "name": "National Dex Order",
     "version": 1,
     "gameSet": "bdsp",
-    "description": "Pokémon Boxes sorted by Species and Forms (without legendary forms), following BDSP's fullest dex order.",
+    "description": "Pokémon Boxes sorted by National Dex order, mixing Species and Forms.",
     "boxes": [
         {
             "pokemon": [
@@ -543,14 +543,17 @@
                 "rayquaza",
                 "jirachi",
                 "deoxys",
-                "turtwig",
-                "grotle",
-                "torterra",
-                "chimchar"
+                "deoxys-attack",
+                "deoxys-defense",
+                "deoxys-speed",
+                "turtwig"
             ]
         },
         {
             "pokemon": [
+                "grotle",
+                "torterra",
+                "chimchar",
                 "monferno",
                 "infernape",
                 "piplup",
@@ -577,14 +580,14 @@
                 "luxray",
                 "luxray-f",
                 "budew",
-                "roserade",
-                "roserade-f",
-                "cranidos",
-                "rampardos"
+                "roserade"
             ]
         },
         {
             "pokemon": [
+                "roserade-f",
+                "cranidos",
+                "rampardos",
                 "shieldon",
                 "bastiodon",
                 "burmy",
@@ -611,14 +614,14 @@
                 "gastrodon-east",
                 "ambipom",
                 "ambipom-f",
-                "drifloon",
-                "drifblim",
-                "buneary",
-                "lopunny"
+                "drifloon"
             ]
         },
         {
             "pokemon": [
+                "drifblim",
+                "buneary",
+                "lopunny",
                 "mismagius",
                 "honchkrow",
                 "glameow",
@@ -645,14 +648,14 @@
                 "hippopotas",
                 "hippopotas-f",
                 "hippowdon",
-                "hippowdon-f",
-                "skorupi",
-                "drapion",
-                "croagunk"
+                "hippowdon-f"
             ]
         },
         {
             "pokemon": [
+                "skorupi",
+                "drapion",
+                "croagunk",
                 "croagunk-f",
                 "toxicroak",
                 "toxicroak-f",
@@ -679,14 +682,14 @@
                 "togekiss",
                 "yanmega",
                 "leafeon",
-                "glaceon",
-                "gliscor",
-                "mamoswine",
-                "mamoswine-f"
+                "glaceon"
             ]
         },
         {
             "pokemon": [
+                "gliscor",
+                "mamoswine",
+                "mamoswine-f",
                 "porygonz",
                 "gallade",
                 "probopass",
@@ -706,12 +709,35 @@
                 "heatran",
                 "regigigas",
                 "giratina",
+                "giratina-origin",
                 "cresselia",
                 "phione",
                 "manaphy",
                 "darkrai",
                 "shaymin",
+                "shaymin-sky",
                 "arceus"
+            ]
+        },
+        {
+            "pokemon": [
+                "arceus-fighting",
+                "arceus-flying",
+                "arceus-poison",
+                "arceus-ground",
+                "arceus-rock",
+                "arceus-bug",
+                "arceus-ghost",
+                "arceus-steel",
+                "arceus-fire",
+                "arceus-water",
+                "arceus-grass",
+                "arceus-electric",
+                "arceus-psychic",
+                "arceus-ice",
+                "arceus-dragon",
+                "arceus-dark",
+                "arceus-fairy"
             ]
         }
     ]

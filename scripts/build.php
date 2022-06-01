@@ -224,30 +224,44 @@ require_once __DIR__ . '/_bootstrap.php';
         int $maxPkmPerBox = 30,
         bool $createMinimal = true
     ) use ($dataSetById): void {
-        $gameSetIdUpper = strtoupper($gameSetId);
         $storables = sgg_data_load("builds/pokemon/storable/storable-pokemon-{$gameSetId}.json");
         $preset = [
             'id' => 'fully-sorted',
-            'name' => 'Fully Sorted',
+            'name' => 'National Dex Order',
             'version' => 1,
             'gameSet' => $gameSetId,
-            //'shortDescription' => 'Sorted by Species and their Forms, in their HOME order.',
-            "description" => "Pokémon Boxes sorted by Species and Forms, following {$gameSetIdUpper}'s fullest dex order.",
+            "description" => "Pokémon Boxes sorted by National Dex order, mixing Species and Forms.",
             "boxes" => [],
         ];
         $presetMinimal = [
             'id' => 'fully-sorted-minimal',
-            'name' => 'Fully Sorted - Minimal',
+            'name' => 'National Dex Order (Minimal)',
             'version' => 1,
             'gameSet' => $gameSetId,
-            //'shortDescription' => 'Sorted by Species and their Forms, in their HOME order.',
-            "description" => "Pokémon Boxes sorted by Species and Forms (without legendary forms), following {$gameSetIdUpper}'s fullest dex order.",
+            "description" => "Pokémon Boxes sorted by National Dex order, mixing Species and Forms, but without Legendary or Mythical Pokémon forms.",
+            "boxes" => [],
+        ];
+        $presetBySpecies = [
+            'id' => 'sorted-species',
+            'name' => 'National Dex Order (with Species first)',
+            'version' => 1,
+            'gameSet' => $gameSetId,
+            "description" => "Pokémon Boxes sorted by National Dex order, separating Species and Forms.",
+            "boxes" => [],
+        ];
+        $presetBySpeciesMinimal = [
+            'id' => 'sorted-species-minimal',
+            'name' => 'National Dex Order (with Species first, Minimal)',
+            'version' => 1,
+            'gameSet' => $gameSetId,
+            "description" => "Pokémon Boxes sorted by National Dex order, separating Species and Forms, but without Legendary or Mythical Pokémon forms.",
             "boxes" => [],
         ];
         $currentBox = 0;
         $currentBoxMinimal = 0;
         $total = 0;
         $minimalTotal = 0;
+
         foreach ($storables as $pkmId) {
             $pkm = $dataSetById[$pkmId];
             if (!in_array($gameSetId, $pkm['storableIn'], true)) {
@@ -283,14 +297,106 @@ require_once __DIR__ . '/_bootstrap.php';
                 $presetMinimal['boxes'][$currentBoxMinimal]['pokemon'][] = $pkm['id'];
             }
         }
+
+        // Loop for separated species
+
+        $species = [];
+        $forms = [];
+        foreach ($storables as $pkmId) {
+            $pkm = $dataSetById[$pkmId];
+            if (!in_array($gameSetId, $pkm['storableIn'], true)) {
+                continue;
+            }
+            if ($pkm['isForm']) {
+                $forms[] = $pkmId;
+            } else {
+                $species[] = $pkmId;
+            }
+        }
+
+        // TODO: refactor this big chunk of code    :blush:
+
+        $currentBox = 0;
+        $currentBoxMinimal = 0;
+        $total2 = 0;
+        $minimalTotal2 = 0;
+
+        // Add species first
+        foreach ($species as $pkmId) {
+            $pkm = $dataSetById[$pkmId];
+            if (!isset($presetBySpecies['boxes'][$currentBox])) {
+                $presetBySpecies['boxes'][$currentBox] = [
+                    'pokemon' => [],
+                ];
+            }
+            if (!isset($presetBySpeciesMinimal['boxes'][$currentBoxMinimal])) {
+                $presetBySpeciesMinimal['boxes'][$currentBoxMinimal] = [
+                    'pokemon' => [],
+                ];
+            }
+            if (count($presetBySpecies['boxes'][$currentBox]['pokemon']) >= $maxPkmPerBox) {
+                $currentBox++;
+            }
+            if (count($presetBySpeciesMinimal['boxes'][$currentBoxMinimal]['pokemon']) >= $maxPkmPerBox) {
+                $currentBoxMinimal++;
+            }
+            $presetBySpecies['boxes'][$currentBox]['pokemon'][] = $pkm['id'];
+            $presetBySpeciesMinimal['boxes'][$currentBoxMinimal]['pokemon'][] = $pkm['id'];
+            $total2++;
+            $minimalTotal2++;
+        }
+
+        // Leave a gap
+        $currentBox++;
+        $currentBoxMinimal++;
+
+        // Continue with forms
+        foreach ($forms as $pkmId) {
+            $pkm = $dataSetById[$pkmId];
+            if (!isset($presetBySpecies['boxes'][$currentBox])) {
+                $presetBySpecies['boxes'][$currentBox] = [
+                    'pokemon' => [],
+                ];
+            }
+            if (!isset($presetBySpeciesMinimal['boxes'][$currentBoxMinimal])) {
+                $presetBySpeciesMinimal['boxes'][$currentBoxMinimal] = [
+                    'pokemon' => [],
+                ];
+            }
+            if (count($presetBySpecies['boxes'][$currentBox]['pokemon']) >= $maxPkmPerBox) {
+                $currentBox++;
+            }
+            if (count($presetBySpeciesMinimal['boxes'][$currentBoxMinimal]['pokemon']) >= $maxPkmPerBox) {
+                $currentBoxMinimal++;
+            }
+            $presetBySpecies['boxes'][$currentBox]['pokemon'][] = $pkm['id'];
+            $total2++;
+            $isLegendaryForm = ($pkm['isLegendary'] || $pkm['isMythical']) && $pkm['isForm'];
+            if (!$isLegendaryForm) {
+                $minimalTotal2++;
+                $presetBySpeciesMinimal['boxes'][$currentBoxMinimal]['pokemon'][] = $pkm['id'];
+            }
+        }
+
+        // Save files
+
+        sgg_data_save("builds/box-presets/{$gameSetId}/101-sorted-species.json", $presetBySpecies, minify: false);
+        if ($createMinimal && ($total2 !== $minimalTotal2)) {
+            sgg_data_save(
+                        "builds/box-presets/{$gameSetId}/102-sorted-species-minimal.json",
+                        $presetBySpeciesMinimal,
+                minify: false
+            );
+        }
+
+        sgg_data_save("builds/box-presets/{$gameSetId}/103-fully-sorted.json", $preset, minify: false);
         if ($createMinimal && ($total !== $minimalTotal)) {
             sgg_data_save(
-                        "builds/box-presets/{$gameSetId}/100-fully-sorted-minimal.json",
+                        "builds/box-presets/{$gameSetId}/104-fully-sorted-minimal.json",
                         $presetMinimal,
                 minify: false
             );
         }
-        sgg_data_save("builds/box-presets/{$gameSetId}/101-fully-sorted.json", $preset, minify: false);
     };
 
     $mergeAllBoxPresets = static function (): void {
@@ -392,8 +498,9 @@ require_once __DIR__ . '/_bootstrap.php';
     $generateGmaxPokemonList();
     $generateAlphaPokemonList();
 
-    $generateFullySortedHomePreset();
+   // $generateFullySortedHomePreset();
     $generateHisuiBoxesPreset();
+    $generateGamesetBoxesPreset('home', 30);
     $generateGamesetBoxesPreset('bdsp', 30);
     $generateGamesetBoxesPreset('lgpe', 1000);
     $generateGamesetBoxesPreset('swsh', 30);

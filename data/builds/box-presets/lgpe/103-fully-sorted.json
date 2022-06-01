@@ -1,9 +1,9 @@
 {
     "id": "fully-sorted",
-    "name": "Fully Sorted",
+    "name": "National Dex Order",
     "version": 1,
     "gameSet": "lgpe",
-    "description": "Pokémon Boxes sorted by Species and Forms, following LGPE's fullest dex order.",
+    "description": "Pokémon Boxes sorted by National Dex order, mixing Species and Forms.",
     "boxes": [
         {
             "pokemon": [
