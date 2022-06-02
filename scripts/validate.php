@@ -8,50 +8,63 @@ require_once __DIR__ . '/_bootstrap.php';
 (static function () {
     error_reporting(-1);
     $pokemonById = sgg_data_load('builds/pokemon/pokemon-entries-map.json');
+    $defaultPkmLimitPerBox = 30;
+    $pkmLimitPerBox = [
+        'lgpe' => 1000,
+        'go' => 6000,
+    ];
 
-    $validateDexPreset = static function (array $dexPreset, array $storablePokemonList) use ($pokemonById): array {
+    $validateDexPreset = static function (array $dexPreset, array $storablePokemonList) use (
+        $pokemonById,
+        $pkmLimitPerBox,
+        $defaultPkmLimitPerBox
+    ): array {
         $presetId = $dexPreset['id'];
+        $presetPath = "{$dexPreset['gameSet']}.{$dexPreset['id']}";
         $pokemonInBoxes = [];
         $errors = [];
         $warnings = [];
+        $currentPkmLimit = $pkmLimitPerBox[$dexPreset['gameSet']] ?? $defaultPkmLimitPerBox;
 
         foreach ($dexPreset['boxes'] as $i => $box) {
             $isGmaxBox = str_contains(strtolower($box['title'] ?? ''), 'gigantamax');
 
-            if (count($box['pokemon']) > 30) {
-                $warnings[] = "Warning: Box '$i' in preset '$presetId' has more than 30 pokemon";
+            if (count($box['pokemon']) > $currentPkmLimit) {
+                $warnings[] = "Warning: Box '$i' in preset '$presetPath' has more than $currentPkmLimit pokemon.";
             }
             foreach ($box['pokemon'] as $j => $pokemon) {
+                $cellLabel = "boxes[$i][$j]";
+                $presetLoc = "'$presetPath.$cellLabel'";
                 if ($pokemon === null) {
                     continue;
                 }
                 $entry = $pokemonById[$pokemon] ?? null;
                 if ($entry === null) {
-                    $errors[] = "Box '$i' in preset '$presetId' has invalid pokemon '$pokemon'";
+                    $errors[] = "Error: Pokémon '$pokemon' in $presetLoc has no JSON file in pokemon/entries. Is it a new Pokémon or a typo?";
                     continue;
                 }
                 if (!is_string($pokemon)) {
-                    $errors[] = "Pokemon name is not a string in preset '$presetId' at box/pokemon $i/$j : " .
-                        json_encode($pokemon);
+                    $errors[] = "Error: Pokemon ID is not of type string|null in $presetLoc: " .
+                        var_export($pokemon, true);
                     continue;
                 }
                 if (!in_array($pokemon, $storablePokemonList, true)) {
-                    $errors[] = "Unregistered pokemon detected '$pokemon' in preset '$presetId' at box/pokemon $i/$j";
+                    $errors[] = "Error: Pokemon '$pokemon' in $presetLoc is not registered as storable for this game.";
                     continue;
                 }
                 if (!$isGmaxBox && ($pokemonInBoxes[$pokemon] ?? false)) {
-                    $warnings[] = "Warning: duplicate pokemon detected '$pokemon' in preset '$presetId' at box/pokemon $i/$j";
+                    $warnings[] = "Warning: Duplicate '$pokemon' found in $presetLoc. If intentional, ignore this warning.";
                     continue;
                 }
                 $pokemonInBoxes[$pokemon] = true;
             }
         }
 
-        if ($presetId !== 'fully-sorted-minimal') {
+        if (!in_array($presetId, ['fully-sorted-minimal', 'sorted-species-minimal'])) {
             // detect missing
             foreach ($storablePokemonList as $pokemon) {
                 if (!isset($pokemonInBoxes[$pokemon])) {
-                    $errors[] = "Missing storable pokemon '$pokemon' in preset '$presetId'";
+                    $errors[] = "Error: Missing storable pokemon '$pokemon' in preset '$presetPath'";
                 }
             }
         }
@@ -59,7 +72,8 @@ require_once __DIR__ . '/_bootstrap.php';
         return [$errors, $warnings];
     };
 
-    $validateDexPresets = static function () use ($validateDexPreset): void {
+    $totalWarnings = 0;
+    $validateDexPresets = static function () use ($validateDexPreset, &$totalWarnings): void {
         $presetsByGameSet = sgg_data_load('builds/box-presets-full.json');
         $errors = [];
         $warnings = [];
@@ -79,6 +93,7 @@ require_once __DIR__ . '/_bootstrap.php';
                     );
                 }
                 $warningCount = count($fileWarnings);
+                $totalWarnings += $warningCount;
                 if ($warningCount > 0) {
                     //sort($fileWarnings);
                     $warnings[] = (
@@ -111,5 +126,10 @@ require_once __DIR__ . '/_bootstrap.php';
 
     $validateDexPresets();
 
-    echo "\n\n[OK] All data looks almost fine!\n";
+    if ($totalWarnings > 0) {
+        echo "\n\n[OK] All data looks OK-ish: Validation resulted in $totalWarnings warnings.\n";
+
+        return;
+    }
+    echo "\n\n[OK] All data is VALID!\n";
 })();
