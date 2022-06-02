@@ -13,18 +13,23 @@ require_once __DIR__ . '/_bootstrap.php';
         'lgpe' => 1000,
         'go' => 6000,
     ];
+    $gameSetsThatCanHaveBattleOnlyForms = [
+        'go',
+    ];
 
     $validateDexPreset = static function (array $dexPreset, array $storablePokemonList) use (
         $pokemonById,
         $pkmLimitPerBox,
-        $defaultPkmLimitPerBox
+        $defaultPkmLimitPerBox,
+        $gameSetsThatCanHaveBattleOnlyForms
     ): array {
         $presetId = $dexPreset['id'];
-        $presetPath = "{$dexPreset['gameSet']}.{$dexPreset['id']}";
+        $gameSetId = $dexPreset['gameSet'];
+        $presetPath = "{$gameSetId}.{$dexPreset['id']}";
         $pokemonInBoxes = [];
         $errors = [];
         $warnings = [];
-        $currentPkmLimit = $pkmLimitPerBox[$dexPreset['gameSet']] ?? $defaultPkmLimitPerBox;
+        $currentPkmLimit = $pkmLimitPerBox[$gameSetId] ?? $defaultPkmLimitPerBox;
 
         foreach ($dexPreset['boxes'] as $i => $box) {
             $isGmaxBox = str_contains(strtolower($box['title'] ?? ''), 'gigantamax');
@@ -41,6 +46,10 @@ require_once __DIR__ . '/_bootstrap.php';
                 $entry = $pokemonById[$pokemon] ?? null;
                 if ($entry === null) {
                     $errors[] = "Error: Pokémon '$pokemon' in $presetLoc has no JSON file in pokemon/entries. Is it a new Pokémon or a typo?";
+                    continue;
+                }
+                if ($entry['isBattleOnlyForm'] && !in_array($gameSetId, $gameSetsThatCanHaveBattleOnlyForms, true)) {
+                    $errors[] = "Error: Pokemon '$pokemon' in $presetLoc is a battle-only form and cannot be stored in a box.";
                     continue;
                 }
                 if (!is_string($pokemon)) {
