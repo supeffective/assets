@@ -56,6 +56,22 @@ require_once __DIR__ . '/_bootstrap.php';
         }
     };
 
+    $generateObtainablePokemonList = static function () use ($dataSet): void {
+        $availableByGame = [];
+
+        foreach (SGG_SUPPORTED_GAMES as $game) {
+            foreach ($dataSet as $pkm) {
+                if (in_array($game, $pkm['obtainableIn'], true)) {
+                    $availableByGame[$game][] = $pkm['id'];
+                }
+            }
+        }
+
+        foreach ($availableByGame as $game => $pkmIds) {
+            sgg_data_save("builds/pokemon/obtainable/obtainable-pokemon-{$game}.json", $pkmIds, minify: false);
+        }
+    };
+
     $generateMegaPokemonList = static function () use ($dataSet): void {
         $newDataSet = [];
 
@@ -494,6 +510,7 @@ require_once __DIR__ . '/_bootstrap.php';
     $generatePokemonEntriesMinimal();
 
     $generateStorablePokemonList();
+    $generateObtainablePokemonList();
     //$generateMegaPokemonList();
     $generateGmaxPokemonList();
     $generateAlphaPokemonList();

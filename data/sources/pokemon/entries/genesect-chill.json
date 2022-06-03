@@ -39,8 +39,10 @@
     "obtainableIn": [
         "go"
     ],
+    "onlyViaEventIn": [],
     "storableIn": [
-        "go"
+        "go",
+        "swsh"
     ],
     "shinyReleased": true,
     "baseStats": {

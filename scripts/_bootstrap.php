@@ -156,7 +156,7 @@ function sgg_get_merged_pkm_entries(bool $failOnError = true): array
     // check if some entry is missing in sorted list
     foreach ($existingPkmEntriesMap as $pkmId) {
         if ($failOnError && !isset($sortedPokemonListMap[$pkmId])) {
-            throw new \RuntimeException('Unknown entry: Pokemon not found in full pokemon list: ' . $pkmId);
+            throw new \RuntimeException('Unknown entry: Pokemon not found in full sorted pokemon list (data/sources/pokemon.json): ' . $pkmId);
         }
     }
 

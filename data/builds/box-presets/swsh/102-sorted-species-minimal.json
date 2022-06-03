@@ -763,46 +763,108 @@
         },
         {
             "pokemon": [
+                "venusaur-f",
                 "butterfree-f",
                 "pikachu-f",
+                "pikachu-original",
+                "pikachu-hoenn",
+                "pikachu-sinnoh",
+                "pikachu-unova",
+                "pikachu-kalos",
+                "pikachu-alola",
+                "pikachu-partner",
+                "pikachu-world",
                 "raichu-f",
                 "raichu-alola",
                 "sandshrew-alola",
                 "sandslash-alola",
                 "vulpix-alola",
                 "ninetales-alola",
+                "zubat-f",
+                "golbat-f",
+                "gloom-f",
+                "vileplume-f",
                 "diglett-alola",
                 "dugtrio-alola",
                 "meowth-alola",
                 "meowth-galar",
                 "persian-alola",
+                "kadabra-f",
+                "alakazam-f",
                 "ponyta-galar",
-                "rapidash-galar",
+                "rapidash-galar"
+            ]
+        },
+        {
+            "pokemon": [
                 "slowpoke-galar",
                 "slowbro-galar",
                 "farfetchd-galar",
                 "exeggutor-alola",
                 "marowak-alola",
                 "weezing-galar",
+                "rhyhorn-f",
+                "rhydon-f",
+                "goldeen-f",
+                "seaking-f",
                 "mrmime-galar",
+                "scyther-f",
+                "magikarp-f",
+                "gyarados-f",
                 "eevee-f",
+                "xatu-f",
                 "sudowoodo-f",
+                "politoed-f",
+                "wooper-f",
+                "quagsire-f",
                 "slowking-galar",
                 "wobbuffet-f",
+                "steelix-f",
+                "scizor-f",
                 "heracross-f",
                 "sneasel-f",
+                "piloswine-f",
                 "corsola-galar",
-                "zigzagoon-galar"
+                "octillery-f",
+                "torchic-f"
             ]
         },
         {
             "pokemon": [
+                "combusken-f",
+                "blaziken-f",
+                "zigzagoon-galar",
                 "linoone-galar",
+                "ludicolo-f",
+                "nuzleaf-f",
+                "shiftry-f",
+                "roselia-f",
+                "milotic-f",
+                "relicanth-f",
+                "shinx-f",
+                "luxio-f",
+                "luxray-f",
+                "roserade-f",
+                "combee-f",
                 "shellos-east",
                 "gastrodon-east",
+                "gible-f",
+                "gabite-f",
+                "garchomp-f",
                 "hippopotas-f",
                 "hippowdon-f",
+                "croagunk-f",
+                "toxicroak-f",
+                "snover-f",
+                "abomasnow-f",
                 "weavile-f",
+                "rhyperior-f",
+                "tangrowth-f",
+                "mamoswine-f"
+            ]
+        },
+        {
+            "pokemon": [
                 "rotom-heat",
                 "rotom-wash",
                 "rotom-frost",
@@ -826,17 +888,17 @@
                 "lycanroc-midnight",
                 "lycanroc-dusk",
                 "toxtricity-low-key",
-                "sinistea-antique"
-            ]
-        },
-        {
-            "pokemon": [
+                "sinistea-antique",
                 "polteageist-antique",
                 "alcremie-vanilla-cream-berry",
                 "alcremie-vanilla-cream-love",
                 "alcremie-vanilla-cream-star",
                 "alcremie-vanilla-cream-clover",
-                "alcremie-vanilla-cream-flower",
+                "alcremie-vanilla-cream-flower"
+            ]
+        },
+        {
+            "pokemon": [
                 "alcremie-vanilla-cream-ribbon",
                 "alcremie-ruby-cream-strawberry",
                 "alcremie-ruby-cream-berry",
@@ -860,17 +922,17 @@
                 "alcremie-mint-cream-flower",
                 "alcremie-mint-cream-ribbon",
                 "alcremie-lemon-cream-strawberry",
-                "alcremie-lemon-cream-berry"
-            ]
-        },
-        {
-            "pokemon": [
+                "alcremie-lemon-cream-berry",
                 "alcremie-lemon-cream-love",
                 "alcremie-lemon-cream-star",
                 "alcremie-lemon-cream-clover",
                 "alcremie-lemon-cream-flower",
                 "alcremie-lemon-cream-ribbon",
-                "alcremie-salted-cream-strawberry",
+                "alcremie-salted-cream-strawberry"
+            ]
+        },
+        {
+            "pokemon": [
                 "alcremie-salted-cream-berry",
                 "alcremie-salted-cream-love",
                 "alcremie-salted-cream-star",
@@ -894,11 +956,7 @@
                 "alcremie-rainbow-swirl-strawberry",
                 "alcremie-rainbow-swirl-berry",
                 "alcremie-rainbow-swirl-love",
-                "alcremie-rainbow-swirl-star"
-            ]
-        },
-        {
-            "pokemon": [
+                "alcremie-rainbow-swirl-star",
                 "alcremie-rainbow-swirl-clover",
                 "alcremie-rainbow-swirl-flower",
                 "alcremie-rainbow-swirl-ribbon",

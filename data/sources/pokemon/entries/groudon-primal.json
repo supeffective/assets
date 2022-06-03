@@ -37,6 +37,7 @@
     "canDynamax": false,
     "canBeAlpha": false,
     "obtainableIn": [],
+    "onlyViaEventIn": [],
     "storableIn": [],
     "shinyReleased": true,
     "baseStats": {

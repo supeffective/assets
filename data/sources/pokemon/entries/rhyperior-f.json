@@ -39,13 +39,16 @@
     "obtainableIn": [
         "bdsp",
         "go",
-        "la"
+        "la",
+        "swsh"
     ],
+    "onlyViaEventIn": [],
     "storableIn": [
         "bdsp",
         "go",
         "home",
-        "la"
+        "la",
+        "swsh"
     ],
     "shinyReleased": true,
     "baseStats": {

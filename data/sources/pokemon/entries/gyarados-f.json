@@ -40,14 +40,17 @@
         "bdsp",
         "go",
         "la",
-        "lgpe"
+        "lgpe",
+        "swsh"
     ],
+    "onlyViaEventIn": [],
     "storableIn": [
         "bdsp",
         "go",
         "home",
         "la",
-        "lgpe"
+        "lgpe",
+        "swsh"
     ],
     "shinyReleased": true,
     "baseStats": {

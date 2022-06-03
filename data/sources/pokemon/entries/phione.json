@@ -37,8 +37,10 @@
     "canDynamax": true,
     "canBeAlpha": false,
     "obtainableIn": [
-        "bdsp",
         "la"
+    ],
+    "onlyViaEventIn": [
+        "bdsp"
     ],
     "storableIn": [
         "bdsp",

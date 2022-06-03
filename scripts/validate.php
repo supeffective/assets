@@ -58,7 +58,7 @@ require_once __DIR__ . '/_bootstrap.php';
                     continue;
                 }
                 if (!in_array($pokemon, $storablePokemonList, true)) {
-                    $errors[] = "Error: Pokemon '$pokemon' in $presetLoc is not registered as storable for this game.";
+                    $errors[] = "Error: Pokemon '$pokemon' in $presetLoc is not registered as storable ('storableIn') for this game.";
                     continue;
                 }
                 if (!$isGmaxBox && ($pokemonInBoxes[$pokemon] ?? false)) {

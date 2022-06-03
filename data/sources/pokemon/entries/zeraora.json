@@ -36,7 +36,8 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
-    "obtainableIn": [
+    "obtainableIn": [],
+    "onlyViaEventIn": [
         "swsh"
     ],
     "storableIn": [

@@ -38,12 +38,15 @@
     "canBeAlpha": false,
     "obtainableIn": [
         "bdsp",
-        "go"
+        "go",
+        "swsh"
     ],
+    "onlyViaEventIn": [],
     "storableIn": [
         "bdsp",
         "go",
-        "home"
+        "home",
+        "swsh"
     ],
     "shinyReleased": true,
     "baseStats": {

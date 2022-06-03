@@ -37,9 +37,12 @@
     "canDynamax": true,
     "canBeAlpha": true,
     "obtainableIn": [
+        "bdsp",
         "go",
-        "la"
+        "la",
+        "swsh"
     ],
+    "onlyViaEventIn": [],
     "storableIn": [
         "go"
     ],

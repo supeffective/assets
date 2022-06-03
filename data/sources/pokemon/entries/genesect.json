@@ -37,9 +37,9 @@
     "canDynamax": true,
     "canBeAlpha": false,
     "obtainableIn": [
-        "go",
-        "swsh"
+        "go"
     ],
+    "onlyViaEventIn": [],
     "storableIn": [
         "go",
         "home",

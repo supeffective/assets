@@ -508,16 +508,14 @@
         "id": "growlithe",
         "dexNum": 70,
         "forms": [
-            "growlithe",
-            "growlithe-hisui"
+            "growlithe"
         ]
     },
     {
         "id": "arcanine",
         "dexNum": 71,
         "forms": [
-            "arcanine",
-            "arcanine-hisui"
+            "arcanine"
         ]
     },
     {
@@ -1123,8 +1121,7 @@
         "dexNum": 154,
         "forms": [
             "basculin",
-            "basculin-blue-striped",
-            "basculin-white-striped"
+            "basculin-blue-striped"
         ]
     },
     {
@@ -2146,8 +2143,7 @@
         "id": "braviary",
         "dexNum": 282,
         "forms": [
-            "braviary",
-            "braviary-hisui"
+            "braviary"
         ]
     },
     {
@@ -2218,9 +2214,7 @@
         "dexNum": 292,
         "forms": [
             "sneasel",
-            "sneasel-f",
-            "sneasel-hisui",
-            "sneasel-hisui-f"
+            "sneasel-f"
         ]
     },
     {
@@ -2312,8 +2306,7 @@
         "id": "qwilfish",
         "dexNum": 304,
         "forms": [
-            "qwilfish",
-            "qwilfish-hisui"
+            "qwilfish"
         ]
     },
     {
@@ -2717,8 +2710,7 @@
         "id": "avalugg",
         "dexNum": 359,
         "forms": [
-            "avalugg",
-            "avalugg-hisui"
+            "avalugg"
         ]
     },
     {
@@ -2969,16 +2961,14 @@
         "id": "sliggoo",
         "dexNum": 390,
         "forms": [
-            "sliggoo",
-            "sliggoo-hisui"
+            "sliggoo"
         ]
     },
     {
         "id": "goodra",
         "dexNum": 391,
         "forms": [
-            "goodra",
-            "goodra-hisui"
+            "goodra"
         ]
     },
     {

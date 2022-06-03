@@ -763,49 +763,111 @@
         },
         {
             "pokemon": [
+                "venusaur-f",
                 "butterfree-f",
                 "pikachu-f",
+                "pikachu-original",
+                "pikachu-hoenn",
+                "pikachu-sinnoh",
+                "pikachu-unova",
+                "pikachu-kalos",
+                "pikachu-alola",
+                "pikachu-partner",
+                "pikachu-world",
                 "raichu-f",
                 "raichu-alola",
                 "sandshrew-alola",
                 "sandslash-alola",
                 "vulpix-alola",
                 "ninetales-alola",
+                "zubat-f",
+                "golbat-f",
+                "gloom-f",
+                "vileplume-f",
                 "diglett-alola",
                 "dugtrio-alola",
                 "meowth-alola",
                 "meowth-galar",
                 "persian-alola",
+                "kadabra-f",
+                "alakazam-f",
                 "ponyta-galar",
-                "rapidash-galar",
+                "rapidash-galar"
+            ]
+        },
+        {
+            "pokemon": [
                 "slowpoke-galar",
                 "slowbro-galar",
                 "farfetchd-galar",
                 "exeggutor-alola",
                 "marowak-alola",
                 "weezing-galar",
+                "rhyhorn-f",
+                "rhydon-f",
+                "goldeen-f",
+                "seaking-f",
                 "mrmime-galar",
+                "scyther-f",
+                "magikarp-f",
+                "gyarados-f",
                 "eevee-f",
                 "articuno-galar",
                 "zapdos-galar",
                 "moltres-galar",
+                "xatu-f",
                 "sudowoodo-f",
+                "politoed-f",
+                "wooper-f",
+                "quagsire-f",
                 "slowking-galar",
                 "wobbuffet-f",
-                "heracross-f"
+                "steelix-f",
+                "scizor-f",
+                "heracross-f",
+                "sneasel-f",
+                "piloswine-f"
             ]
         },
         {
             "pokemon": [
-                "sneasel-f",
                 "corsola-galar",
+                "octillery-f",
+                "torchic-f",
+                "combusken-f",
+                "blaziken-f",
                 "zigzagoon-galar",
                 "linoone-galar",
+                "ludicolo-f",
+                "nuzleaf-f",
+                "shiftry-f",
+                "roselia-f",
+                "milotic-f",
+                "relicanth-f",
+                "shinx-f",
+                "luxio-f",
+                "luxray-f",
+                "roserade-f",
+                "combee-f",
                 "shellos-east",
                 "gastrodon-east",
+                "gible-f",
+                "gabite-f",
+                "garchomp-f",
                 "hippopotas-f",
                 "hippowdon-f",
-                "weavile-f",
+                "croagunk-f",
+                "toxicroak-f",
+                "snover-f",
+                "abomasnow-f",
+                "weavile-f"
+            ]
+        },
+        {
+            "pokemon": [
+                "rhyperior-f",
+                "tangrowth-f",
+                "mamoswine-f",
                 "rotom-heat",
                 "rotom-wash",
                 "rotom-frost",
@@ -825,14 +887,18 @@
                 "kyurem-white",
                 "kyurem-black",
                 "keldeo-resolute",
+                "genesect-douse",
+                "genesect-shock",
+                "genesect-burn",
+                "genesect-chill",
                 "meowstic-f",
-                "pumpkaboo-small"
+                "pumpkaboo-small",
+                "pumpkaboo-large",
+                "pumpkaboo-super"
             ]
         },
         {
             "pokemon": [
-                "pumpkaboo-large",
-                "pumpkaboo-super",
                 "gourgeist-small",
                 "gourgeist-large",
                 "gourgeist-super",
@@ -860,13 +926,13 @@
                 "silvally-fairy",
                 "necrozma-dusk-mane",
                 "necrozma-dawn-wings",
-                "magearna-original"
+                "magearna-original",
+                "toxtricity-low-key",
+                "sinistea-antique"
             ]
         },
         {
             "pokemon": [
-                "toxtricity-low-key",
-                "sinistea-antique",
                 "polteageist-antique",
                 "alcremie-vanilla-cream-berry",
                 "alcremie-vanilla-cream-love",
@@ -894,13 +960,13 @@
                 "alcremie-mint-cream-star",
                 "alcremie-mint-cream-clover",
                 "alcremie-mint-cream-flower",
-                "alcremie-mint-cream-ribbon"
+                "alcremie-mint-cream-ribbon",
+                "alcremie-lemon-cream-strawberry",
+                "alcremie-lemon-cream-berry"
             ]
         },
         {
             "pokemon": [
-                "alcremie-lemon-cream-strawberry",
-                "alcremie-lemon-cream-berry",
                 "alcremie-lemon-cream-love",
                 "alcremie-lemon-cream-star",
                 "alcremie-lemon-cream-clover",
@@ -928,19 +994,21 @@
                 "alcremie-caramel-swirl-flower",
                 "alcremie-caramel-swirl-ribbon",
                 "alcremie-rainbow-swirl-strawberry",
-                "alcremie-rainbow-swirl-berry"
+                "alcremie-rainbow-swirl-berry",
+                "alcremie-rainbow-swirl-love",
+                "alcremie-rainbow-swirl-star"
             ]
         },
         {
             "pokemon": [
-                "alcremie-rainbow-swirl-love",
-                "alcremie-rainbow-swirl-star",
                 "alcremie-rainbow-swirl-clover",
                 "alcremie-rainbow-swirl-flower",
                 "alcremie-rainbow-swirl-ribbon",
                 "indeedee-f",
                 "urshifu-rapid-strike",
-                "zarude-dada"
+                "zarude-dada",
+                "calyrex-ice",
+                "calyrex-shadow"
             ]
         }
     ]

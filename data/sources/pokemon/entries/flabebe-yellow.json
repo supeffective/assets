@@ -39,6 +39,7 @@
     "obtainableIn": [
         "go"
     ],
+    "onlyViaEventIn": [],
     "storableIn": [
         "go",
         "home"

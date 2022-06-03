@@ -40,6 +40,7 @@
         "go",
         "la"
     ],
+    "onlyViaEventIn": [],
     "storableIn": [
         "go",
         "home",

@@ -51,13 +51,15 @@
         "obtainableIn": [
             "bdsp",
             "go",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -557,58 +559,64 @@
     "pikachu-original": {
         "obtainableIn": [],
         "storableIn": [
-            "home"
+            "home",
+            "swsh"
         ],
         "shinyReleased": false
     },
     "pikachu-hoenn": {
         "obtainableIn": [],
         "storableIn": [
-            "home"
+            "home",
+            "swsh"
         ],
         "shinyReleased": false
     },
     "pikachu-sinnoh": {
         "obtainableIn": [],
         "storableIn": [
-            "home"
+            "home",
+            "swsh"
         ],
         "shinyReleased": false
     },
     "pikachu-unova": {
         "obtainableIn": [],
         "storableIn": [
-            "home"
+            "home",
+            "swsh"
         ],
         "shinyReleased": false
     },
     "pikachu-kalos": {
         "obtainableIn": [],
         "storableIn": [
-            "home"
+            "home",
+            "swsh"
         ],
         "shinyReleased": false
     },
     "pikachu-alola": {
         "obtainableIn": [],
         "storableIn": [
-            "home"
+            "home",
+            "swsh"
         ],
         "shinyReleased": false
     },
     "pikachu-partner": {
         "obtainableIn": [],
         "storableIn": [
-            "home"
+            "home",
+            "swsh"
         ],
         "shinyReleased": false
     },
     "pikachu-world": {
-        "obtainableIn": [
-            "swsh"
-        ],
+        "obtainableIn": [],
         "storableIn": [
-            "home"
+            "home",
+            "swsh"
         ],
         "shinyReleased": false
     },
@@ -977,14 +985,16 @@
             "bdsp",
             "go",
             "la",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
             "la",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -1011,14 +1021,16 @@
             "bdsp",
             "go",
             "la",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
             "la",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -1058,13 +1070,15 @@
         "obtainableIn": [
             "bdsp",
             "go",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -1088,13 +1102,15 @@
         "obtainableIn": [
             "bdsp",
             "go",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -1379,8 +1395,7 @@
     },
     "growlithe-hisui": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "home",
@@ -1406,8 +1421,7 @@
     },
     "arcanine-hisui": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "home",
@@ -1504,14 +1518,16 @@
             "bdsp",
             "go",
             "la",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
             "la",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -1538,14 +1554,16 @@
             "bdsp",
             "go",
             "la",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
             "la",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -2562,14 +2580,16 @@
             "bdsp",
             "go",
             "la",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
             "la",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -2596,14 +2616,16 @@
             "bdsp",
             "go",
             "la",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
             "la",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -2718,13 +2740,15 @@
         "obtainableIn": [
             "bdsp",
             "go",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -2748,13 +2772,15 @@
         "obtainableIn": [
             "bdsp",
             "go",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -2843,14 +2869,16 @@
             "bdsp",
             "go",
             "la",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
             "la",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -2968,14 +2996,16 @@
             "bdsp",
             "go",
             "la",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
             "la",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -3002,14 +3032,16 @@
             "bdsp",
             "go",
             "la",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
             "la",
-            "lgpe"
+            "lgpe",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -3443,12 +3475,7 @@
         "shinyReleased": true
     },
     "mew": {
-        "obtainableIn": [
-            "bdsp",
-            "go",
-            "lgpe",
-            "swsh"
-        ],
+        "obtainableIn": [],
         "storableIn": [
             "bdsp",
             "go",
@@ -3548,8 +3575,7 @@
     },
     "typhlosion-hisui": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "home",
@@ -3870,12 +3896,14 @@
     "xatu-f": {
         "obtainableIn": [
             "bdsp",
-            "go"
+            "go",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
-            "home"
+            "home",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -4013,12 +4041,14 @@
     "politoed-f": {
         "obtainableIn": [
             "bdsp",
-            "go"
+            "go",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
-            "home"
+            "home",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -4141,12 +4171,14 @@
     "wooper-f": {
         "obtainableIn": [
             "bdsp",
-            "go"
+            "go",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
-            "home"
+            "home",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -4167,12 +4199,14 @@
     "quagsire-f": {
         "obtainableIn": [
             "bdsp",
-            "go"
+            "go",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
-            "home"
+            "home",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -4806,13 +4840,15 @@
         "obtainableIn": [
             "bdsp",
             "go",
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
-            "la"
+            "la",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -4863,8 +4899,7 @@
     },
     "qwilfish-hisui": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "home",
@@ -4892,13 +4927,15 @@
         "obtainableIn": [
             "bdsp",
             "go",
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
-            "la"
+            "la",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -4996,8 +5033,7 @@
     },
     "sneasel-hisui": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "home",
@@ -5007,8 +5043,7 @@
     },
     "sneasel-hisui-f": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "home",
@@ -5118,13 +5153,15 @@
         "obtainableIn": [
             "bdsp",
             "go",
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
-            "la"
+            "la",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -5188,13 +5225,15 @@
         "obtainableIn": [
             "bdsp",
             "go",
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
-            "la"
+            "la",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -5601,11 +5640,7 @@
         "shinyReleased": true
     },
     "celebi": {
-        "obtainableIn": [
-            "bdsp",
-            "go",
-            "swsh"
-        ],
+        "obtainableIn": [],
         "storableIn": [
             "bdsp",
             "go",
@@ -5680,12 +5715,14 @@
     "torchic-f": {
         "obtainableIn": [
             "bdsp",
-            "go"
+            "go",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
-            "home"
+            "home",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -5706,12 +5743,14 @@
     "combusken-f": {
         "obtainableIn": [
             "bdsp",
-            "go"
+            "go",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
-            "home"
+            "home",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -5732,12 +5771,14 @@
     "blaziken-f": {
         "obtainableIn": [
             "bdsp",
-            "go"
+            "go",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
-            "home"
+            "home",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -6016,12 +6057,14 @@
     "ludicolo-f": {
         "obtainableIn": [
             "bdsp",
-            "go"
+            "go",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
-            "home"
+            "home",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -6056,12 +6099,14 @@
     "nuzleaf-f": {
         "obtainableIn": [
             "bdsp",
-            "go"
+            "go",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
-            "home"
+            "home",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -6082,12 +6127,14 @@
     "shiftry-f": {
         "obtainableIn": [
             "bdsp",
-            "go"
+            "go",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
-            "home"
+            "home",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -6691,13 +6738,15 @@
         "obtainableIn": [
             "bdsp",
             "go",
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
-            "la"
+            "la",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -7257,12 +7306,14 @@
     "milotic-f": {
         "obtainableIn": [
             "bdsp",
-            "go"
+            "go",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
-            "home"
+            "home",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -7581,12 +7632,14 @@
     "relicanth-f": {
         "obtainableIn": [
             "bdsp",
-            "go"
+            "go",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
-            "home"
+            "home",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -7844,11 +7897,7 @@
         "shinyReleased": true
     },
     "jirachi": {
-        "obtainableIn": [
-            "bdsp",
-            "go",
-            "swsh"
-        ],
+        "obtainableIn": [],
         "storableIn": [
             "bdsp",
             "go",
@@ -7859,7 +7908,6 @@
     },
     "deoxys": {
         "obtainableIn": [
-            "bdsp",
             "go"
         ],
         "storableIn": [
@@ -7871,7 +7919,6 @@
     },
     "deoxys-attack": {
         "obtainableIn": [
-            "bdsp",
             "go"
         ],
         "storableIn": [
@@ -7883,7 +7930,6 @@
     },
     "deoxys-defense": {
         "obtainableIn": [
-            "bdsp",
             "go"
         ],
         "storableIn": [
@@ -7895,7 +7941,6 @@
     },
     "deoxys-speed": {
         "obtainableIn": [
-            "bdsp",
             "go"
         ],
         "storableIn": [
@@ -8247,13 +8292,15 @@
         "obtainableIn": [
             "bdsp",
             "go",
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
-            "la"
+            "la",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -8277,13 +8324,15 @@
         "obtainableIn": [
             "bdsp",
             "go",
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
-            "la"
+            "la",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -8307,13 +8356,15 @@
         "obtainableIn": [
             "bdsp",
             "go",
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
-            "la"
+            "la",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -8353,13 +8404,15 @@
         "obtainableIn": [
             "bdsp",
             "go",
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
-            "la"
+            "la",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -8537,13 +8590,15 @@
         "obtainableIn": [
             "bdsp",
             "go",
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
-            "la"
+            "la",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -8681,8 +8736,10 @@
     },
     "cherrim-sunshine": {
         "obtainableIn": [
+            "bdsp",
             "go",
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "go"
@@ -9084,13 +9141,15 @@
         "obtainableIn": [
             "bdsp",
             "go",
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
-            "la"
+            "la",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -9114,13 +9173,15 @@
         "obtainableIn": [
             "bdsp",
             "go",
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
-            "la"
+            "la",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -9144,13 +9205,15 @@
         "obtainableIn": [
             "bdsp",
             "go",
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
-            "la"
+            "la",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -9332,13 +9395,15 @@
         "obtainableIn": [
             "bdsp",
             "go",
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
-            "la"
+            "la",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -9362,13 +9427,15 @@
         "obtainableIn": [
             "bdsp",
             "go",
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
-            "la"
+            "la",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -9478,13 +9545,15 @@
         "obtainableIn": [
             "bdsp",
             "go",
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
-            "la"
+            "la",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -9508,13 +9577,15 @@
         "obtainableIn": [
             "bdsp",
             "go",
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
-            "la"
+            "la",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -9609,13 +9680,15 @@
         "obtainableIn": [
             "bdsp",
             "go",
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
-            "la"
+            "la",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -9639,13 +9712,15 @@
         "obtainableIn": [
             "bdsp",
             "go",
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
-            "la"
+            "la",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -9777,13 +9852,15 @@
         "obtainableIn": [
             "bdsp",
             "go",
-            "la"
+            "la",
+            "swsh"
         ],
         "storableIn": [
             "bdsp",
             "go",
             "home",
-            "la"
+            "la",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -10034,8 +10111,7 @@
     },
     "dialga-origin": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "la"
@@ -10060,8 +10136,7 @@
     },
     "palkia-origin": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "la"
@@ -10147,7 +10222,6 @@
     },
     "phione": {
         "obtainableIn": [
-            "bdsp",
             "la"
         ],
         "storableIn": [
@@ -10159,7 +10233,6 @@
     },
     "manaphy": {
         "obtainableIn": [
-            "bdsp",
             "la"
         ],
         "storableIn": [
@@ -10185,8 +10258,6 @@
     },
     "shaymin": {
         "obtainableIn": [
-            "bdsp",
-            "go",
             "la"
         ],
         "storableIn": [
@@ -10199,8 +10270,6 @@
     },
     "shaymin-sky": {
         "obtainableIn": [
-            "bdsp",
-            "go",
             "la"
         ],
         "storableIn": [
@@ -10412,8 +10481,7 @@
     },
     "arceus-legendary": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "la"
@@ -10528,8 +10596,7 @@
     },
     "samurott-hisui": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "home",
@@ -11086,8 +11153,7 @@
     },
     "lilligant-hisui": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "home",
@@ -11121,8 +11187,7 @@
     },
     "basculin-white-striped": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "home",
@@ -11427,8 +11492,7 @@
     },
     "zorua-hisui": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "home",
@@ -11448,8 +11512,7 @@
     },
     "zoroark-hisui": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "home",
@@ -12225,8 +12288,7 @@
     },
     "braviary-hisui": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "home",
@@ -12533,9 +12595,7 @@
         "shinyReleased": false
     },
     "meloetta": {
-        "obtainableIn": [
-            "go"
-        ],
+        "obtainableIn": [],
         "storableIn": [
             "go",
             "home"
@@ -12549,8 +12609,7 @@
     },
     "genesect": {
         "obtainableIn": [
-            "go",
-            "swsh"
+            "go"
         ],
         "storableIn": [
             "go",
@@ -12564,7 +12623,8 @@
             "go"
         ],
         "storableIn": [
-            "go"
+            "go",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -12573,7 +12633,8 @@
             "go"
         ],
         "storableIn": [
-            "go"
+            "go",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -12582,7 +12643,8 @@
             "go"
         ],
         "storableIn": [
-            "go"
+            "go",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -12591,7 +12653,8 @@
             "go"
         ],
         "storableIn": [
-            "go"
+            "go",
+            "swsh"
         ],
         "shinyReleased": true
     },
@@ -13041,6 +13104,11 @@
         ],
         "shinyReleased": true
     },
+    "floette-eternal": {
+        "obtainableIn": [],
+        "storableIn": [],
+        "shinyReleased": false
+    },
     "florges": {
         "obtainableIn": [
             "go"
@@ -13468,9 +13536,11 @@
     },
     "tyrunt": {
         "obtainableIn": [
+            "go",
             "swsh"
         ],
         "storableIn": [
+            "go",
             "home",
             "swsh"
         ],
@@ -13488,9 +13558,11 @@
     },
     "amaura": {
         "obtainableIn": [
+            "go",
             "swsh"
         ],
         "storableIn": [
+            "go",
             "home",
             "swsh"
         ],
@@ -13498,9 +13570,11 @@
     },
     "aurorus": {
         "obtainableIn": [
+            "go",
             "swsh"
         ],
         "storableIn": [
+            "go",
             "home",
             "swsh"
         ],
@@ -13580,8 +13654,7 @@
     },
     "sliggoo-hisui": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "home",
@@ -13603,8 +13676,7 @@
     },
     "goodra-hisui": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "home",
@@ -13772,8 +13844,7 @@
     },
     "avalugg-hisui": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "home",
@@ -13902,9 +13973,7 @@
         "shinyReleased": true
     },
     "hoopa": {
-        "obtainableIn": [
-            "go"
-        ],
+        "obtainableIn": [],
         "storableIn": [
             "go",
             "home"
@@ -13912,9 +13981,7 @@
         "shinyReleased": false
     },
     "hoopa-unbound": {
-        "obtainableIn": [
-            "go"
-        ],
+        "obtainableIn": [],
         "storableIn": [
             "go",
             "home"
@@ -13973,8 +14040,7 @@
     },
     "decidueye-hisui": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "home",
@@ -15067,16 +15133,12 @@
         "shinyReleased": true
     },
     "necrozma-ultra": {
-        "obtainableIn": [
-            "swsh"
-        ],
+        "obtainableIn": [],
         "storableIn": [],
         "shinyReleased": true
     },
     "magearna": {
-        "obtainableIn": [
-            "swsh"
-        ],
+        "obtainableIn": [],
         "storableIn": [
             "home",
             "swsh"
@@ -15084,9 +15146,7 @@
         "shinyReleased": false
     },
     "magearna-original": {
-        "obtainableIn": [
-            "swsh"
-        ],
+        "obtainableIn": [],
         "storableIn": [
             "home",
             "swsh"
@@ -15094,9 +15154,7 @@
         "shinyReleased": false
     },
     "marshadow": {
-        "obtainableIn": [
-            "swsh"
-        ],
+        "obtainableIn": [],
         "storableIn": [
             "home",
             "swsh"
@@ -15144,9 +15202,7 @@
         "shinyReleased": true
     },
     "zeraora": {
-        "obtainableIn": [
-            "swsh"
-        ],
+        "obtainableIn": [],
         "storableIn": [
             "home",
             "swsh"
@@ -15155,9 +15211,7 @@
     },
     "meltan": {
         "obtainableIn": [
-            "go",
-            "lgpe",
-            "swsh"
+            "go"
         ],
         "storableIn": [
             "go",
@@ -15169,9 +15223,7 @@
     },
     "melmetal": {
         "obtainableIn": [
-            "go",
-            "lgpe",
-            "swsh"
+            "go"
         ],
         "storableIn": [
             "go",
@@ -15182,9 +15234,7 @@
         "shinyReleased": true
     },
     "melmetal-gmax": {
-        "obtainableIn": [
-            "swsh"
-        ],
+        "obtainableIn": [],
         "storableIn": [],
         "shinyReleased": false
     },
@@ -16851,9 +16901,7 @@
         "shinyReleased": false
     },
     "eternatus-eternamax": {
-        "obtainableIn": [
-            "swsh"
-        ],
+        "obtainableIn": [],
         "storableIn": [],
         "shinyReleased": false
     },
@@ -16902,10 +16950,7 @@
         "shinyReleased": false
     },
     "zarude": {
-        "obtainableIn": [
-            "go",
-            "swsh"
-        ],
+        "obtainableIn": [],
         "storableIn": [
             "go",
             "home",
@@ -16914,9 +16959,7 @@
         "shinyReleased": false
     },
     "zarude-dada": {
-        "obtainableIn": [
-            "swsh"
-        ],
+        "obtainableIn": [],
         "storableIn": [
             "home",
             "swsh"
@@ -16977,20 +17020,23 @@
         "obtainableIn": [
             "swsh"
         ],
-        "storableIn": [],
+        "storableIn": [
+            "swsh"
+        ],
         "shinyReleased": false
     },
     "calyrex-shadow": {
         "obtainableIn": [
             "swsh"
         ],
-        "storableIn": [],
+        "storableIn": [
+            "swsh"
+        ],
         "shinyReleased": false
     },
     "wyrdeer": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "home",
@@ -17000,8 +17046,7 @@
     },
     "kleavor": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "home",
@@ -17011,8 +17056,7 @@
     },
     "ursaluna": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "home",
@@ -17022,8 +17066,7 @@
     },
     "basculegion": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "home",
@@ -17033,8 +17076,7 @@
     },
     "basculegion-f": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "home",
@@ -17044,8 +17086,7 @@
     },
     "sneasler": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "home",
@@ -17055,8 +17096,7 @@
     },
     "overqwil": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "home",
@@ -17066,8 +17106,7 @@
     },
     "enamorus": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "home",
@@ -17077,8 +17116,7 @@
     },
     "enamorus-therian": {
         "obtainableIn": [
-            "la",
-            "swsh"
+            "la"
         ],
         "storableIn": [
             "home",

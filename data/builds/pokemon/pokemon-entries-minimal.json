@@ -10274,6 +10274,16 @@
         "baseForms": []
     },
     {
+        "id": "floette-eternal",
+        "dexNum": 670,
+        "name": "Floette Eternal Flower",
+        "type1": null,
+        "type2": null,
+        "isForm": true,
+        "baseSpecies": "floette",
+        "baseForms": []
+    },
+    {
         "id": "florges",
         "dexNum": 671,
         "name": "Florges",

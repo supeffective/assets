@@ -36,10 +36,10 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
-    "obtainableIn": [
-        "bdsp",
-        "go",
-        "swsh"
+    "obtainableIn": [],
+    "onlyViaEventIn": [
+        "swsh",
+        "go"
     ],
     "storableIn": [
         "bdsp",

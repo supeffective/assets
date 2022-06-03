@@ -39,6 +39,7 @@
     "obtainableIn": [
         "go"
     ],
+    "onlyViaEventIn": [],
     "storableIn": [
         "go",
         "home"
@@ -91,7 +92,8 @@
         "floette-yellow",
         "floette-orange",
         "floette-blue",
-        "floette-white"
+        "floette-white",
+        "floette-eternal"
     ],
     "evolutions": []
 }

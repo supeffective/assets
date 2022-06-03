@@ -41,6 +41,7 @@
         "go",
         "lgpe"
     ],
+    "onlyViaEventIn": [],
     "storableIn": [
         "bdsp",
         "go",
