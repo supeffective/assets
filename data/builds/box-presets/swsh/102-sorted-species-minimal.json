@@ -885,6 +885,7 @@
                 "gourgeist-small",
                 "gourgeist-large",
                 "gourgeist-super",
+                "rockruff--own-tempo",
                 "lycanroc-midnight",
                 "lycanroc-dusk",
                 "toxtricity-low-key",
@@ -893,12 +894,12 @@
                 "alcremie-vanilla-cream-berry",
                 "alcremie-vanilla-cream-love",
                 "alcremie-vanilla-cream-star",
-                "alcremie-vanilla-cream-clover",
-                "alcremie-vanilla-cream-flower"
+                "alcremie-vanilla-cream-clover"
             ]
         },
         {
             "pokemon": [
+                "alcremie-vanilla-cream-flower",
                 "alcremie-vanilla-cream-ribbon",
                 "alcremie-ruby-cream-strawberry",
                 "alcremie-ruby-cream-berry",
@@ -927,12 +928,12 @@
                 "alcremie-lemon-cream-star",
                 "alcremie-lemon-cream-clover",
                 "alcremie-lemon-cream-flower",
-                "alcremie-lemon-cream-ribbon",
-                "alcremie-salted-cream-strawberry"
+                "alcremie-lemon-cream-ribbon"
             ]
         },
         {
             "pokemon": [
+                "alcremie-salted-cream-strawberry",
                 "alcremie-salted-cream-berry",
                 "alcremie-salted-cream-love",
                 "alcremie-salted-cream-star",

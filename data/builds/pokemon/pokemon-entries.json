@@ -106832,7 +106832,8 @@
         "obtainableIn": [],
         "onlyViaEventIn": [],
         "storableIn": [
-            "home"
+            "home",
+            "swsh"
         ],
         "shinyReleased": true,
         "baseStats": {

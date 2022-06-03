@@ -14289,7 +14289,8 @@
     "rockruff--own-tempo": {
         "obtainableIn": [],
         "storableIn": [
-            "home"
+            "home",
+            "swsh"
         ],
         "shinyReleased": true
     },

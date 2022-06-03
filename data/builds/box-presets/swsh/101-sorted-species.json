@@ -905,6 +905,7 @@
                 "zygarde--power-construct",
                 "zygarde-10",
                 "zygarde-10--power-construct",
+                "rockruff--own-tempo",
                 "lycanroc-midnight",
                 "lycanroc-dusk",
                 "silvally-fighting",
@@ -927,12 +928,12 @@
                 "necrozma-dusk-mane",
                 "necrozma-dawn-wings",
                 "magearna-original",
-                "toxtricity-low-key",
-                "sinistea-antique"
+                "toxtricity-low-key"
             ]
         },
         {
             "pokemon": [
+                "sinistea-antique",
                 "polteageist-antique",
                 "alcremie-vanilla-cream-berry",
                 "alcremie-vanilla-cream-love",
@@ -961,12 +962,12 @@
                 "alcremie-mint-cream-clover",
                 "alcremie-mint-cream-flower",
                 "alcremie-mint-cream-ribbon",
-                "alcremie-lemon-cream-strawberry",
-                "alcremie-lemon-cream-berry"
+                "alcremie-lemon-cream-strawberry"
             ]
         },
         {
             "pokemon": [
+                "alcremie-lemon-cream-berry",
                 "alcremie-lemon-cream-love",
                 "alcremie-lemon-cream-star",
                 "alcremie-lemon-cream-clover",
@@ -995,12 +996,12 @@
                 "alcremie-caramel-swirl-ribbon",
                 "alcremie-rainbow-swirl-strawberry",
                 "alcremie-rainbow-swirl-berry",
-                "alcremie-rainbow-swirl-love",
-                "alcremie-rainbow-swirl-star"
+                "alcremie-rainbow-swirl-love"
             ]
         },
         {
             "pokemon": [
+                "alcremie-rainbow-swirl-star",
                 "alcremie-rainbow-swirl-clover",
                 "alcremie-rainbow-swirl-flower",
                 "alcremie-rainbow-swirl-ribbon",

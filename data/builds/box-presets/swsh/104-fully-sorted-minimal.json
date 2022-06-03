@@ -710,17 +710,18 @@
                 "cutiefly",
                 "ribombee",
                 "rockruff",
+                "rockruff--own-tempo",
                 "lycanroc",
                 "lycanroc-midnight",
                 "lycanroc-dusk",
                 "wishiwashi",
                 "mareanie",
-                "toxapex",
-                "mudbray"
+                "toxapex"
             ]
         },
         {
             "pokemon": [
+                "mudbray",
                 "mudsdale",
                 "dewpider",
                 "araquanid",
@@ -749,12 +750,12 @@
                 "togedemaru",
                 "mimikyu",
                 "drampa",
-                "dhelmise",
-                "jangmoo"
+                "dhelmise"
             ]
         },
         {
             "pokemon": [
+                "jangmoo",
                 "hakamoo",
                 "kommoo",
                 "tapukoko",
@@ -783,12 +784,12 @@
                 "meltan",
                 "melmetal",
                 "grookey",
-                "thwackey",
-                "rillaboom"
+                "thwackey"
             ]
         },
         {
             "pokemon": [
+                "rillaboom",
                 "scorbunny",
                 "raboot",
                 "cinderace",
@@ -817,12 +818,12 @@
                 "carkol",
                 "coalossal",
                 "applin",
-                "flapple",
-                "appletun"
+                "flapple"
             ]
         },
         {
             "pokemon": [
+                "appletun",
                 "silicobra",
                 "sandaconda",
                 "cramorant",
@@ -851,12 +852,12 @@
                 "sirfetchd",
                 "mrrime",
                 "runerigus",
-                "milcery",
-                "alcremie"
+                "milcery"
             ]
         },
         {
             "pokemon": [
+                "alcremie",
                 "alcremie-vanilla-cream-berry",
                 "alcremie-vanilla-cream-love",
                 "alcremie-vanilla-cream-star",
@@ -885,12 +886,12 @@
                 "alcremie-mint-cream-flower",
                 "alcremie-mint-cream-ribbon",
                 "alcremie-lemon-cream-strawberry",
-                "alcremie-lemon-cream-berry",
-                "alcremie-lemon-cream-love"
+                "alcremie-lemon-cream-berry"
             ]
         },
         {
             "pokemon": [
+                "alcremie-lemon-cream-love",
                 "alcremie-lemon-cream-star",
                 "alcremie-lemon-cream-clover",
                 "alcremie-lemon-cream-flower",
@@ -919,12 +920,12 @@
                 "alcremie-rainbow-swirl-strawberry",
                 "alcremie-rainbow-swirl-berry",
                 "alcremie-rainbow-swirl-love",
-                "alcremie-rainbow-swirl-star",
-                "alcremie-rainbow-swirl-clover"
+                "alcremie-rainbow-swirl-star"
             ]
         },
         {
             "pokemon": [
+                "alcremie-rainbow-swirl-clover",
                 "alcremie-rainbow-swirl-flower",
                 "alcremie-rainbow-swirl-ribbon",
                 "falinks",
@@ -953,12 +954,12 @@
                 "urshifu",
                 "zarude",
                 "regieleki",
-                "regidrago",
-                "glastrier"
+                "regidrago"
             ]
         },
         {
             "pokemon": [
+                "glastrier",
                 "spectrier",
                 "calyrex"
             ]
