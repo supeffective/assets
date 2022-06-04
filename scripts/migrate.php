@@ -127,11 +127,8 @@ JSON;
 
         /* --- START $newPkm data transformation */
 
-        // TODO modify $newPkm here, e.g.:
         $newPkm = array_merge($dataTemplateArr, $pkm);
-        if ($newPkm['isFemaleForm'] && $newPkm['generation'] <= 4) {
-            $newPkm['debutIn'] = 'dp';
-        }
+        // TODO modify $newPkm here, e.g.:
 
         /* --- END $newPkm data transformation */
         // save pkm entry

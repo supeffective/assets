@@ -20,7 +20,7 @@
         <header style="padding:1rem;">
             <nav>
                 <a class="btn btn-outline-primary" href="/">Home</a>
-                <a class="btn btn-outline-primary" href="/pokemon">Pokémon</a>
+                <a class="btn btn-outline-primary" href="/pokemon?gameset=rb">Pokémon</a>
                 <a class="btn btn-outline-primary" href="/presets">Presets</a>
             </nav>
         </header>

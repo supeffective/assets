@@ -1,69 +1,37 @@
 <?php
 
 require_once __DIR__ . '/../_bootstrap.php';
+require_once __DIR__ . '/functions.php';
 
-function pvw_layout_start(): void
-{
-    include_once __DIR__ . '/partials/0a_layout_start.php';
-}
-
-function pvw_layout_end(): void
-{
-    include_once __DIR__ . '/partials/0b_layout_end.php';
-}
-
-function pvw_route(): string
-{
-    $uri = str_replace(['\\', '/../'], '', $_SERVER['REQUEST_URI']);
-
-    return trim(explode('?', $uri)[0], '/');
-}
-
-
-function pvw_route_url(?string $route = null, array $params = []): string
-{
-    return sprintf(
-        $route === '/' ? '/?%s' : '/%s/?%s',
-        trim($route ?: pvw_route(), '/'),
-        pvw_query_string($params)
-    );
-}
-
-function pvw_query_string(array $newParams = []): string
-{
-    return http_build_query(array_merge($_GET, $newParams));
-}
-
-function pvw_param(string $paramName, $default = null): string | null | int
-{
-    return $_GET[$paramName] ?? $default;
-}
-
-function pvw_partial(string $name, array $data = []): void
-{
-    (static function () use ($name, $data) {
-        extract($data, EXTR_OVERWRITE);
-        include sprintf("%s/partials/%s.php", __DIR__, $name);
-    })();
-}
-
-function pvw_component_load(string $name): void
-{
-    (static function () use ($name) {
-        require_once sprintf("%s/components/%s.php", __DIR__, $name);
-    })();
-}
+/** @global mixed[] $tplVars */
+/** @global array[] $pkmEntries */
+/** @global int[] $pkmIds */
+/** @global array[] $gameSets */
+/** @global string $route */
+/** @global string|null $currentGameSetId */
+/** @global string|null $currentPid */
+/** @global string|null $currentResourceId */
+/** @global string|null $currentSearch */
 
 (static function () {
-    $route = pvw_route();
+    $route = tpl_request_route();
     $nextYear = ((int) date('Y')) + 1;
     $nextYearExpiration = "Expires: Sat, 26 Jul {$nextYear} 05:00:00 GMT";
 
-    if ($route === '') {
-        header('Content-Type: text/html');
-        require sprintf("%s/routes/index.php", __DIR__);
+    $tplVars = [
+        'pkmEntries' => sgg_data_load('builds/pokemon/pokemon-entries-map.json'),
+        'pkmIds' => sgg_get_sorted_pokemon_ids(),
+        'gameSets' => sgg_get_gamesets(),
+        'presets' => sgg_data_load('builds/box-presets-full.json'),
+        'route' => $route,
+        'currentGameSetId' => tpl_request_param('gameset'),
+        'currentPid' => tpl_request_param('pid'),
+        'currentResourceId' => tpl_request_param('id'),
+        'currentSearch' => tpl_request_param('q'),
+    ];
 
-        exit;
+    if ($route === '') {
+        tpl_render_page("routes/index", $tplVars);
     }
 
     if (str_starts_with($route, '/assets/')) {
@@ -90,14 +58,8 @@ function pvw_component_load(string $name): void
     }
 
     if (file_exists(sprintf("%s/routes/%s.php", __DIR__, $route))) {
-        header('Content-Type: text/html');
-        require sprintf("%s/routes/%s.php", __DIR__, $route);
-
-        exit;
+        tpl_render_page(("routes/{$route}"), $tplVars);
     }
 
-    header('Content-Type: text/plain');
-    require sprintf("%s/404.php", __DIR__);
-
-    exit;
+    tpl_render_page("404", $tplVars);
 })();

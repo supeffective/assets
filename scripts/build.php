@@ -522,7 +522,7 @@ require_once __DIR__ . '/_bootstrap.php';
         $pkmIds = [];
 
         foreach ($dataSet as $pkm) {
-            if (empty($pkm['obtainableIn'])) {
+            if (empty($pkm['obtainableIn']) && !empty($pkm['onlyViaEventIn'])) {
                 $pkmIds[] = $pkm['id'];
             }
         }
