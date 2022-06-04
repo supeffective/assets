@@ -1,8 +1,8 @@
 {
     "id": "dialga-origin",
-    "nid": null,
-    "dexNum": null,
-    "formId": null,
+    "nid": "0483-origin",
+    "dexNum": 483,
+    "formId": "origin",
     "name": "Dialga Origin Forme",
     "formName": "Origin Forme",
     "region": "hisui",

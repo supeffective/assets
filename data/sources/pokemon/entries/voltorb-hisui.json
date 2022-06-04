@@ -1,8 +1,8 @@
 {
     "id": "voltorb-hisui",
-    "nid": null,
-    "dexNum": null,
-    "formId": null,
+    "nid": "0100-hisui",
+    "dexNum": 100,
+    "formId": "hisui",
     "name": "Hisuian Voltorb",
     "formName": "Hisuian Form",
     "region": "hisui",

@@ -1,8 +1,8 @@
 {
     "id": "zorua-hisui",
-    "nid": null,
-    "dexNum": null,
-    "formId": null,
+    "nid": "0570-hisui",
+    "dexNum": 570,
+    "formId": "hisui",
     "name": "Hisuian Zorua",
     "formName": "Hisuian Form",
     "region": "hisui",

@@ -1029,7 +1029,7 @@
     },
     {
         "id": "growlithe-hisui",
-        "dexNum": null,
+        "dexNum": 58,
         "name": "Hisuian Growlithe",
         "type1": "fire",
         "type2": "rock",
@@ -1049,7 +1049,7 @@
     },
     {
         "id": "arcanine-hisui",
-        "dexNum": null,
+        "dexNum": 59,
         "name": "Hisuian Arcanine",
         "type1": "fire",
         "type2": "rock",
@@ -1691,7 +1691,7 @@
     },
     {
         "id": "voltorb-hisui",
-        "dexNum": null,
+        "dexNum": 100,
         "name": "Hisuian Voltorb",
         "type1": "electric",
         "type2": "grass",
@@ -1711,7 +1711,7 @@
     },
     {
         "id": "electrode-hisui",
-        "dexNum": null,
+        "dexNum": 101,
         "name": "Hisuian Electrode",
         "type1": "electric",
         "type2": "grass",
@@ -2549,7 +2549,7 @@
     },
     {
         "id": "typhlosion-hisui",
-        "dexNum": null,
+        "dexNum": 157,
         "name": "Hisuian Typhlosion",
         "type1": "fire",
         "type2": "ghost",
@@ -3533,7 +3533,7 @@
     },
     {
         "id": "qwilfish-hisui",
-        "dexNum": null,
+        "dexNum": 211,
         "name": "Hisuian Qwilfish",
         "type1": "dark",
         "type2": "poison",
@@ -3637,7 +3637,7 @@
     },
     {
         "id": "sneasel-hisui",
-        "dexNum": null,
+        "dexNum": 215,
         "name": "Hisuian Sneasel",
         "type1": "poison",
         "type2": "fighting",
@@ -3647,7 +3647,7 @@
     },
     {
         "id": "sneasel-hisui-f",
-        "dexNum": null,
+        "dexNum": 215,
         "name": "Hisuian Sneasel (Female)",
         "type1": "poison",
         "type2": "fighting",
@@ -7463,7 +7463,7 @@
     },
     {
         "id": "dialga-origin",
-        "dexNum": null,
+        "dexNum": 483,
         "name": "Dialga Origin Forme",
         "type1": "steel",
         "type2": "dragon",
@@ -7483,7 +7483,7 @@
     },
     {
         "id": "palkia-origin",
-        "dexNum": null,
+        "dexNum": 484,
         "name": "Palkia Origin Forme",
         "type1": "water",
         "type2": "dragon",
@@ -7923,7 +7923,7 @@
     },
     {
         "id": "samurott-hisui",
-        "dexNum": null,
+        "dexNum": 503,
         "name": "Hisuian Samurott",
         "type1": "water",
         "type2": "dark",
@@ -8415,7 +8415,7 @@
     },
     {
         "id": "lilligant-hisui",
-        "dexNum": null,
+        "dexNum": 549,
         "name": "Hisuian Lilligant",
         "type1": "grass",
         "type2": "fighting",
@@ -8445,7 +8445,7 @@
     },
     {
         "id": "basculin-white-striped",
-        "dexNum": null,
+        "dexNum": 550,
         "name": "Basculin White-Striped Form",
         "type1": "water",
         "type2": null,
@@ -8721,7 +8721,7 @@
     },
     {
         "id": "zorua-hisui",
-        "dexNum": null,
+        "dexNum": 570,
         "name": "Hisuian Zorua",
         "type1": "normal",
         "type2": "ghost",
@@ -8741,7 +8741,7 @@
     },
     {
         "id": "zoroark-hisui",
-        "dexNum": null,
+        "dexNum": 571,
         "name": "Hisuian Zoroark",
         "type1": "normal",
         "type2": "ghost",
@@ -9411,7 +9411,7 @@
     },
     {
         "id": "braviary-hisui",
-        "dexNum": null,
+        "dexNum": 628,
         "name": "Hisuian Braviary",
         "type1": "psychic",
         "type2": "flying",
@@ -10277,7 +10277,7 @@
         "id": "floette-eternal",
         "dexNum": 670,
         "name": "Floette Eternal Flower",
-        "type1": null,
+        "type1": "fairy",
         "type2": null,
         "isForm": true,
         "baseSpecies": "floette",
@@ -10805,7 +10805,7 @@
     },
     {
         "id": "sliggoo-hisui",
-        "dexNum": null,
+        "dexNum": 705,
         "name": "Hisuian Sliggoo",
         "type1": "dragon",
         "type2": "steel",
@@ -10825,7 +10825,7 @@
     },
     {
         "id": "goodra-hisui",
-        "dexNum": null,
+        "dexNum": 706,
         "name": "Hisuian Goodra",
         "type1": "dragon",
         "type2": "steel",
@@ -10965,7 +10965,7 @@
     },
     {
         "id": "avalugg-hisui",
-        "dexNum": null,
+        "dexNum": 713,
         "name": "Hisuian Avalugg",
         "type1": "ice",
         "type2": "rock",
@@ -11166,7 +11166,7 @@
     },
     {
         "id": "decidueye-hisui",
-        "dexNum": null,
+        "dexNum": 724,
         "name": "Hisuian Decidueye",
         "type1": "grass",
         "type2": "fighting",
@@ -14445,7 +14445,7 @@
     },
     {
         "id": "wyrdeer",
-        "dexNum": null,
+        "dexNum": 899,
         "name": "Wyrdeer",
         "type1": "normal",
         "type2": "psychic",
@@ -14455,7 +14455,7 @@
     },
     {
         "id": "kleavor",
-        "dexNum": null,
+        "dexNum": 900,
         "name": "Kleavor",
         "type1": "bug",
         "type2": "rock",
@@ -14465,7 +14465,7 @@
     },
     {
         "id": "ursaluna",
-        "dexNum": null,
+        "dexNum": 901,
         "name": "Ursaluna",
         "type1": "normal",
         "type2": "ground",
@@ -14475,7 +14475,7 @@
     },
     {
         "id": "basculegion",
-        "dexNum": null,
+        "dexNum": 902,
         "name": "Basculegion",
         "type1": "water",
         "type2": "ghost",
@@ -14485,7 +14485,7 @@
     },
     {
         "id": "basculegion-f",
-        "dexNum": null,
+        "dexNum": 902,
         "name": "Basculegion (Female)",
         "type1": "water",
         "type2": "ghost",
@@ -14495,7 +14495,7 @@
     },
     {
         "id": "sneasler",
-        "dexNum": null,
+        "dexNum": 903,
         "name": "Sneasler",
         "type1": "poison",
         "type2": "fighting",
@@ -14505,7 +14505,7 @@
     },
     {
         "id": "overqwil",
-        "dexNum": null,
+        "dexNum": 904,
         "name": "Overqwil",
         "type1": "dark",
         "type2": "poison",
@@ -14515,7 +14515,7 @@
     },
     {
         "id": "enamorus",
-        "dexNum": null,
+        "dexNum": 905,
         "name": "Enamorus",
         "type1": "fairy",
         "type2": "flying",
@@ -14525,7 +14525,7 @@
     },
     {
         "id": "enamorus-therian",
-        "dexNum": null,
+        "dexNum": 905,
         "name": "Enamorus Therian Forme",
         "type1": "fairy",
         "type2": "flying",

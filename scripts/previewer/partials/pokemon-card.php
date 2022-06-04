@@ -87,6 +87,12 @@ echo $pkm['name']; ?>"
                 echo $pkm['generation'] ?? '???'; ?></b>
         </span>
     </div>
+    <div class="title">
+        <span><span style="font-weight: normal"
+            >Dex No.</span>: <b style=" color: darkblue;"><?php
+                echo var_export($pkm['dexNum'], true) ?? '???'; ?></b>
+        </span>
+    </div>
 
     <div class="info-3col">
         <div>
