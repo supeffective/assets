@@ -17,4 +17,8 @@ migrate:
 	php scripts/migrate.php
 	make build
 
+preview:
+	docker-compose up -d previewer
+	open http://localhost:8080/
+
 .PHONY: build import-sources validate migrate

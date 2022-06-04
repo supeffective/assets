@@ -8,7 +8,7 @@
     "region": "galar",
     "generation": 8,
     "type1": "ghost",
-    "type2": "ghost",
+    "type2": null,
     "color": "black",
     "abilities": {
         "primary": null,
@@ -36,6 +36,7 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "swsh",
     "obtainableIn": [
         "swsh"
     ],

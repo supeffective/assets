@@ -8,7 +8,7 @@
     "region": "kalos",
     "generation": 6,
     "type1": "grass",
-    "type2": "grass",
+    "type2": "ice",
     "color": "white",
     "abilities": {
         "primary": null,
@@ -36,8 +36,10 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
+    "debutIn": "xy",
     "obtainableIn": [
-        "go"
+        "go",
+        "xy"
     ],
     "onlyViaEventIn": [],
     "storableIn": [],

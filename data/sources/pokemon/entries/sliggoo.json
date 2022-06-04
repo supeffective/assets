@@ -8,7 +8,7 @@
     "region": "kalos",
     "generation": 6,
     "type1": "dragon",
-    "type2": "dragon",
+    "type2": null,
     "color": "purple",
     "abilities": {
         "primary": null,
@@ -36,15 +36,21 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "xy",
     "obtainableIn": [
         "go",
-        "swsh"
+        "swsh",
+        "xy"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
         "go",
         "home",
-        "swsh"
+        "oras",
+        "sm",
+        "swsh",
+        "usum",
+        "xy"
     ],
     "shinyReleased": true,
     "baseStats": {

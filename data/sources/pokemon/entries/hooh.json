@@ -8,7 +8,7 @@
     "region": "johto",
     "generation": 2,
     "type1": "fire",
-    "type2": "fire",
+    "type2": "flying",
     "color": "red",
     "abilities": {
         "primary": null,
@@ -36,17 +36,35 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "gs",
     "obtainableIn": [
         "bdsp",
+        "c",
         "go",
+        "gs",
+        "hgss",
         "swsh"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
+        "b2w2",
         "bdsp",
+        "bw",
+        "c",
+        "dp",
+        "e",
+        "frlg",
         "go",
+        "gs",
+        "hgss",
         "home",
-        "swsh"
+        "oras",
+        "pt",
+        "rs",
+        "sm",
+        "swsh",
+        "usum",
+        "xy"
     ],
     "shinyReleased": true,
     "baseStats": {

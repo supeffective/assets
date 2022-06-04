@@ -8,7 +8,7 @@
     "region": "hoenn",
     "generation": 3,
     "type1": "poison",
-    "type2": "poison",
+    "type2": null,
     "color": "black",
     "abilities": {
         "primary": null,
@@ -36,15 +36,31 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "rs",
     "obtainableIn": [
         "bdsp",
-        "go"
+        "e",
+        "go",
+        "oras",
+        "rs"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
+        "b2w2",
         "bdsp",
+        "bw",
+        "dp",
+        "e",
+        "frlg",
         "go",
-        "home"
+        "hgss",
+        "home",
+        "oras",
+        "pt",
+        "rs",
+        "sm",
+        "usum",
+        "xy"
     ],
     "shinyReleased": true,
     "baseStats": {

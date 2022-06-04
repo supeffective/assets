@@ -8,7 +8,7 @@
     "region": "alola",
     "generation": 7,
     "type1": "psychic",
-    "type2": "psychic",
+    "type2": "dragon",
     "color": "yellow",
     "abilities": {
         "primary": null,
@@ -45,7 +45,10 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "obtainableIn": [],
+    "debutIn": "usum",
+    "obtainableIn": [
+        "usum"
+    ],
     "onlyViaEventIn": [],
     "storableIn": [],
     "shinyReleased": true,

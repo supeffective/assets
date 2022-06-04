@@ -8,7 +8,7 @@
     "region": "galar",
     "generation": 8,
     "type1": "grass",
-    "type2": "grass",
+    "type2": "dragon",
     "color": "green",
     "abilities": {
         "primary": null,
@@ -36,6 +36,7 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "swsh",
     "obtainableIn": [
         "swsh"
     ],

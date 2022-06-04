@@ -8,7 +8,7 @@
     "region": "galar",
     "generation": 8,
     "type1": "dark",
-    "type2": "dark",
+    "type2": "normal",
     "color": "gray",
     "abilities": {
         "primary": null,
@@ -36,6 +36,7 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "swsh",
     "obtainableIn": [
         "go",
         "swsh"

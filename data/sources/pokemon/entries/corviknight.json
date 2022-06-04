@@ -8,7 +8,7 @@
     "region": "galar",
     "generation": 8,
     "type1": "flying",
-    "type2": "flying",
+    "type2": "steel",
     "color": "purple",
     "abilities": {
         "primary": null,
@@ -36,6 +36,7 @@
     "canGmax": true,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "swsh",
     "obtainableIn": [
         "swsh"
     ],

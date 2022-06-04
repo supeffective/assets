@@ -7,9 +7,9 @@
     "formName": "Original Color",
     "region": "alola",
     "generation": 7,
-    "type1": null,
-    "type2": null,
-    "color": null,
+    "type1": "steel",
+    "type2": "fairy",
+    "color": "gray",
     "abilities": {
         "primary": null,
         "secondary": null,
@@ -36,13 +36,16 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "home",
     "obtainableIn": [],
     "onlyViaEventIn": [
         "home"
     ],
     "storableIn": [
         "home",
-        "swsh"
+        "sm",
+        "swsh",
+        "usum"
     ],
     "shinyReleased": false,
     "baseStats": {

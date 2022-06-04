@@ -8,7 +8,7 @@
     "region": "unknown",
     "generation": 8,
     "type1": "steel",
-    "type2": "steel",
+    "type2": null,
     "color": "gray",
     "abilities": {
         "primary": null,
@@ -36,6 +36,7 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
+    "debutIn": "home",
     "obtainableIn": [],
     "onlyViaEventIn": [
         "home"

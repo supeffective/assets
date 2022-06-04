@@ -8,7 +8,7 @@
     "region": "hoenn",
     "generation": 3,
     "type1": "bug",
-    "type2": "bug",
+    "type2": null,
     "color": "white",
     "abilities": {
         "primary": null,
@@ -36,17 +36,33 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": true,
+    "debutIn": "rs",
     "obtainableIn": [
         "bdsp",
+        "e",
         "go",
-        "la"
+        "la",
+        "oras",
+        "rs"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
+        "b2w2",
         "bdsp",
+        "bw",
+        "dp",
+        "e",
+        "frlg",
         "go",
+        "hgss",
         "home",
-        "la"
+        "la",
+        "oras",
+        "pt",
+        "rs",
+        "sm",
+        "usum",
+        "xy"
     ],
     "shinyReleased": true,
     "baseStats": {

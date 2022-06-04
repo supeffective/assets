@@ -7,9 +7,9 @@
     "formName": "Sandy Cloak",
     "region": "sinnoh",
     "generation": 4,
-    "type1": null,
+    "type1": "bug",
     "type2": null,
-    "color": null,
+    "color": "green",
     "abilities": {
         "primary": null,
         "secondary": null,
@@ -36,17 +36,29 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": true,
+    "debutIn": "dp",
     "obtainableIn": [
         "bdsp",
+        "dp",
         "go",
-        "la"
+        "la",
+        "pt"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
+        "b2w2",
         "bdsp",
+        "bw",
+        "dp",
         "go",
+        "hgss",
         "home",
-        "la"
+        "la",
+        "oras",
+        "pt",
+        "sm",
+        "usum",
+        "xy"
     ],
     "shinyReleased": true,
     "baseStats": {

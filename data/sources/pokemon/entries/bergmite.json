@@ -8,7 +8,7 @@
     "region": "kalos",
     "generation": 6,
     "type1": "ice",
-    "type2": "ice",
+    "type2": null,
     "color": "blue",
     "abilities": {
         "primary": null,
@@ -36,17 +36,23 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": true,
+    "debutIn": "xy",
     "obtainableIn": [
         "go",
         "la",
-        "swsh"
+        "swsh",
+        "xy"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
         "go",
         "home",
         "la",
-        "swsh"
+        "oras",
+        "sm",
+        "swsh",
+        "usum",
+        "xy"
     ],
     "shinyReleased": true,
     "baseStats": {

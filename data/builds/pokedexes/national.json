@@ -6859,5 +6859,61 @@
             "enamorus",
             "enamorus-therian"
         ]
+    },
+    {
+        "id": "sprigatito",
+        "dexNum": 906,
+        "forms": [
+            "sprigatito"
+        ]
+    },
+    {
+        "id": "fuecoco",
+        "dexNum": 907,
+        "forms": [
+            "fuecoco"
+        ]
+    },
+    {
+        "id": "quaxly",
+        "dexNum": 908,
+        "forms": [
+            "quaxly"
+        ]
+    },
+    {
+        "id": "pawmi",
+        "dexNum": 909,
+        "forms": [
+            "pawmi"
+        ]
+    },
+    {
+        "id": "lechonk",
+        "dexNum": 910,
+        "forms": [
+            "lechonk"
+        ]
+    },
+    {
+        "id": "smoliv",
+        "dexNum": 911,
+        "forms": [
+            "smoliv"
+        ]
+    },
+    {
+        "id": "koraidon",
+        "dexNum": 912,
+        "forms": [
+            "koraidon"
+        ]
+    },
+    {
+        "id": "miraidon",
+        "dexNum": 913,
+        "forms": [
+            "miraidon"
+        ]
     }
 ]

@@ -8,7 +8,7 @@
     "region": "alola",
     "generation": 7,
     "type1": "water",
-    "type2": "water",
+    "type2": null,
     "color": "blue",
     "abilities": {
         "primary": null,
@@ -36,15 +36,20 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "sm",
     "obtainableIn": [
         "go",
-        "swsh"
+        "sm",
+        "swsh",
+        "usum"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
         "go",
         "home",
-        "swsh"
+        "sm",
+        "swsh",
+        "usum"
     ],
     "shinyReleased": true,
     "baseStats": {

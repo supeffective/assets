@@ -8,7 +8,7 @@
     "region": "unova",
     "generation": 5,
     "type1": "normal",
-    "type2": "normal",
+    "type2": "psychic",
     "color": "white",
     "abilities": {
         "primary": null,
@@ -36,8 +36,11 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "b2w2",
     "obtainableIn": [],
-    "onlyViaEventIn": [],
+    "onlyViaEventIn": [
+        "oras"
+    ],
     "storableIn": [],
     "shinyReleased": false,
     "baseStats": {

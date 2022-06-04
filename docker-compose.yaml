@@ -1,5 +1,18 @@
 version: "3.8"
 services:
+  previewer:
+    build:
+      context: ./
+      target: base-php
+    working_dir: "/usr/src/app/scripts/previewer"
+    command: [ "php", "-S" ,"0.0.0.0:8080" ]
+    ports:
+      - "8080:8080"
+    environment:
+      - BUILDS_DIR=/usr/src/app/builds
+      - SOURCES_DIR=/usr/src/app/sources
+    volumes:
+      - './:/usr/src/app:delegated'
   dumper-pogo:
     build:
       context: ./

@@ -7,9 +7,9 @@
     "formName": "Resolute Form",
     "region": "unova",
     "generation": 5,
-    "type1": null,
-    "type2": null,
-    "color": null,
+    "type1": "water",
+    "type2": "fighting",
+    "color": "yellow",
     "abilities": {
         "primary": null,
         "secondary": null,
@@ -36,13 +36,21 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "b2w2",
     "obtainableIn": [
         "swsh"
     ],
-    "onlyViaEventIn": [],
+    "onlyViaEventIn": [
+        "oras"
+    ],
     "storableIn": [
+        "b2w2",
         "home",
-        "swsh"
+        "oras",
+        "sm",
+        "swsh",
+        "usum",
+        "xy"
     ],
     "shinyReleased": false,
     "baseStats": {

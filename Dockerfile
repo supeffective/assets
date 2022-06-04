@@ -1,3 +1,12 @@
+FROM php:8.1-bullseye as base-php
+ENV DEBIAN_FRONTEND noninteractive
+# Ensure local binaries are preferred over distro ones
+ENV PATH /usr/local/bin:$PATH
+EXPOSE 8080
+WORKDIR /usr/src/app
+
+#------------------------------------------------------------------------------
+
 FROM node:16-bullseye as base-node
 ENV DEBIAN_FRONTEND noninteractive
 

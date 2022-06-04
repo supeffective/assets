@@ -152,36 +152,6 @@
         }
     },
     {
-        "id": "e",
-        "name": "Emerald",
-        "codename": null,
-        "superset": "rse",
-        "generation": 3,
-        "releaseDate": "2004-09-16",
-        "games": {
-            "e": "Emerald"
-        },
-        "platforms": [
-            "gba"
-        ],
-        "series": "main",
-        "region": "hoenn",
-        "originMark": "none",
-        "pokedexes": [
-            "national",
-            "hoenn"
-        ],
-        "nationalMaxNum": 386,
-        "storage": {
-            "boxes": 14,
-            "boxCapacity": 30,
-            "symbols": [
-                "caught",
-                "shiny"
-            ]
-        }
-    },
-    {
         "id": "frlg",
         "name": "Fire Red and Leaf Green",
         "codename": null,
@@ -201,6 +171,36 @@
         "pokedexes": [
             "national",
             "kanto"
+        ],
+        "nationalMaxNum": 386,
+        "storage": {
+            "boxes": 14,
+            "boxCapacity": 30,
+            "symbols": [
+                "caught",
+                "shiny"
+            ]
+        }
+    },
+    {
+        "id": "e",
+        "name": "Emerald",
+        "codename": null,
+        "superset": "rse",
+        "generation": 3,
+        "releaseDate": "2004-09-16",
+        "games": {
+            "e": "Emerald"
+        },
+        "platforms": [
+            "gba"
+        ],
+        "series": "main",
+        "region": "hoenn",
+        "originMark": "none",
+        "pokedexes": [
+            "national",
+            "hoenn"
         ],
         "nationalMaxNum": 386,
         "storage": {
@@ -571,7 +571,7 @@
         "id": "swsh",
         "name": "Sword and Shield",
         "codename": "Orion",
-        "superset": "swshex",
+        "superset": "swsh",
         "generation": 8,
         "releaseDate": "2019-11-15",
         "games": {
@@ -586,39 +586,6 @@
         "originMark": "galar",
         "pokedexes": [
             "galar"
-        ],
-        "nationalMaxNum": null,
-        "storage": {
-            "boxes": 32,
-            "boxCapacity": 30,
-            "symbols": [
-                "caught",
-                "shiny",
-                "gmax"
-            ]
-        }
-    },
-    {
-        "id": "swshex",
-        "name": "Sword and Shield Expansion Pass",
-        "codename": "Rigel",
-        "superset": "swshex",
-        "generation": 8,
-        "releaseDate": "2020-10-01",
-        "games": {
-            "swex": "Sword Expansion Pass",
-            "shex": "Shield Expansion Pass"
-        },
-        "platforms": [
-            "switch"
-        ],
-        "series": "main",
-        "region": "galar",
-        "originMark": "galar",
-        "pokedexes": [
-            "galar",
-            "galar-isle-armor",
-            "galar-crown-tundra"
         ],
         "nationalMaxNum": null,
         "storage": {

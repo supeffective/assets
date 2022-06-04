@@ -8,7 +8,7 @@
     "region": "alola",
     "generation": 7,
     "type1": "grass",
-    "type2": "grass",
+    "type2": "flying",
     "color": "brown",
     "abilities": {
         "primary": null,
@@ -36,17 +36,22 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": true,
+    "debutIn": "sm",
     "obtainableIn": [
         "go",
         "la",
-        "swsh"
+        "sm",
+        "swsh",
+        "usum"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
         "go",
         "home",
         "la",
-        "swsh"
+        "sm",
+        "swsh",
+        "usum"
     ],
     "shinyReleased": true,
     "baseStats": {

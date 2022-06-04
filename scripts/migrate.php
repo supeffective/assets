@@ -53,6 +53,7 @@ require_once __DIR__ . '/_bootstrap.php';
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
+    "debutIn": "?",
     "obtainableIn": [],
     "onlyViaEventIn": [],
     "storableIn": ["home"],
@@ -128,6 +129,9 @@ JSON;
 
         // TODO modify $newPkm here, e.g.:
         $newPkm = array_merge($dataTemplateArr, $pkm);
+        if ($newPkm['isFemaleForm'] && $newPkm['generation'] <= 4) {
+            $newPkm['debutIn'] = 'dp';
+        }
 
         /* --- END $newPkm data transformation */
         // save pkm entry

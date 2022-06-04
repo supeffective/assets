@@ -8,7 +8,7 @@
     "region": "johto",
     "generation": 2,
     "type1": "psychic",
-    "type2": "psychic",
+    "type2": "grass",
     "color": "green",
     "abilities": {
         "primary": null,
@@ -36,16 +36,31 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "gs",
     "obtainableIn": [],
     "onlyViaEventIn": [
         "swsh",
         "go"
     ],
     "storableIn": [
+        "b2w2",
         "bdsp",
+        "bw",
+        "c",
+        "dp",
+        "e",
+        "frlg",
         "go",
+        "gs",
+        "hgss",
         "home",
-        "swsh"
+        "oras",
+        "pt",
+        "rs",
+        "sm",
+        "swsh",
+        "usum",
+        "xy"
     ],
     "shinyReleased": true,
     "baseStats": {

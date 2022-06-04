@@ -48,12 +48,6 @@
         "supersetId": "rse"
     },
     {
-        "id": "e",
-        "name": "Emerald",
-        "setId": "e",
-        "supersetId": "rse"
-    },
-    {
         "id": "fr",
         "name": "Fire Red",
         "setId": "frlg",
@@ -64,6 +58,12 @@
         "name": "Leaf Green",
         "setId": "frlg",
         "supersetId": "frlg"
+    },
+    {
+        "id": "e",
+        "name": "Emerald",
+        "setId": "e",
+        "supersetId": "rse"
     },
     {
         "id": "d",
@@ -189,25 +189,13 @@
         "id": "sw",
         "name": "Sword",
         "setId": "swsh",
-        "supersetId": "swshex"
+        "supersetId": "swsh"
     },
     {
         "id": "sh",
         "name": "Shield",
         "setId": "swsh",
-        "supersetId": "swshex"
-    },
-    {
-        "id": "swex",
-        "name": "Sword Expansion Pass",
-        "setId": "swshex",
-        "supersetId": "swshex"
-    },
-    {
-        "id": "shex",
-        "name": "Shield Expansion Pass",
-        "setId": "swshex",
-        "supersetId": "swshex"
+        "supersetId": "swsh"
     },
     {
         "id": "home",

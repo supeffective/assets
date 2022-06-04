@@ -8,7 +8,7 @@
     "region": "alola",
     "generation": 7,
     "type1": "poison",
-    "type2": "poison",
+    "type2": "dark",
     "color": "green",
     "abilities": {
         "primary": null,
@@ -36,15 +36,20 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "sm",
     "obtainableIn": [
         "go",
-        "lgpe"
+        "lgpe",
+        "sm",
+        "usum"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
         "go",
         "home",
-        "lgpe"
+        "lgpe",
+        "sm",
+        "usum"
     ],
     "shinyReleased": true,
     "baseStats": {

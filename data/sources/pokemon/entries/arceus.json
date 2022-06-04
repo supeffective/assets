@@ -8,7 +8,7 @@
     "region": "sinnoh",
     "generation": 4,
     "type1": "normal",
-    "type2": "normal",
+    "type2": null,
     "color": "white",
     "abilities": {
         "primary": null,
@@ -36,15 +36,27 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "dp",
     "obtainableIn": [
         "bdsp",
-        "la"
+        "dp",
+        "la",
+        "pt"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
+        "b2w2",
         "bdsp",
+        "bw",
+        "dp",
+        "hgss",
         "home",
-        "la"
+        "la",
+        "oras",
+        "pt",
+        "sm",
+        "usum",
+        "xy"
     ],
     "shinyReleased": true,
     "baseStats": {

@@ -8,7 +8,7 @@
     "region": "unova",
     "generation": 5,
     "type1": "dragon",
-    "type2": "dragon",
+    "type2": "ice",
     "color": "gray",
     "abilities": {
         "primary": null,
@@ -41,12 +41,19 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "b2w2",
     "obtainableIn": [
+        "b2w2",
         "swsh"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
-        "swsh"
+        "b2w2",
+        "oras",
+        "sm",
+        "swsh",
+        "usum",
+        "xy"
     ],
     "shinyReleased": true,
     "baseStats": {

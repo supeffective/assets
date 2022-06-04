@@ -8,7 +8,7 @@
     "region": "galar",
     "generation": 8,
     "type1": "ground",
-    "type2": "ground",
+    "type2": "steel",
     "color": "green",
     "abilities": {
         "primary": null,
@@ -36,6 +36,7 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "swsh",
     "obtainableIn": [
         "go",
         "swsh"

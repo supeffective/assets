@@ -8,7 +8,7 @@
     "region": "kalos",
     "generation": 6,
     "type1": "bug",
-    "type2": "bug",
+    "type2": null,
     "color": "black",
     "abilities": {
         "primary": null,
@@ -36,10 +36,17 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
-    "obtainableIn": [],
+    "debutIn": "xy",
+    "obtainableIn": [
+        "xy"
+    ],
     "onlyViaEventIn": [],
     "storableIn": [
-        "home"
+        "home",
+        "oras",
+        "sm",
+        "usum",
+        "xy"
     ],
     "shinyReleased": true,
     "baseStats": {

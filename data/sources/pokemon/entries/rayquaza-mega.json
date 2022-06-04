@@ -8,7 +8,7 @@
     "region": "kalos",
     "generation": 6,
     "type1": "dragon",
-    "type2": "dragon",
+    "type2": "flying",
     "color": "green",
     "abilities": {
         "primary": null,
@@ -36,8 +36,10 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
+    "debutIn": "oras",
     "obtainableIn": [
-        "go"
+        "go",
+        "oras"
     ],
     "onlyViaEventIn": [],
     "storableIn": [],

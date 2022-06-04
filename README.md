@@ -16,6 +16,23 @@ All the `.min.json` and `.build.json` files are auto-generated and are not meant
 Once you are done with your changes, run `make` in the project directory.
 You will need Linux or MacOS for the scripts to work, with PHP 8.1 or greater.
 
+Optionally, you can also run it via `docker-compose` if you have Docker installed.
+
+
+### How to preview changes
+
+This repository contains very simple front-end web pages to visually preview the changes done in the build files
+(`/data/builds`), specially the Pokémon data.
+
+You will need docker to run it (or start a `php` server yourself). To start it with Docker, run:
+
+```bash
+make preview
+```
+
+If you are on a UNIX OS, a URL will automatically open in your browser. There you will see all the available
+data arranged in an understandable way, with images for the Pokémon as well.
+
 
 ## Data Sources
 

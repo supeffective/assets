@@ -8,7 +8,7 @@
     "region": "kalos",
     "generation": 6,
     "type1": "electric",
-    "type2": "electric",
+    "type2": null,
     "color": "yellow",
     "abilities": {
         "primary": null,
@@ -36,8 +36,10 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
+    "debutIn": "xy",
     "obtainableIn": [
-        "go"
+        "go",
+        "xy"
     ],
     "onlyViaEventIn": [],
     "storableIn": [],

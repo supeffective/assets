@@ -8,7 +8,7 @@
     "region": "galar",
     "generation": 8,
     "type1": "bug",
-    "type2": "bug",
+    "type2": "psychic",
     "color": "red",
     "abilities": {
         "primary": null,
@@ -36,6 +36,7 @@
     "canGmax": true,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "swsh",
     "obtainableIn": [
         "swsh"
     ],

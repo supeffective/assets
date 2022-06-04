@@ -8,7 +8,7 @@
     "region": "galar",
     "generation": 8,
     "type1": "electric",
-    "type2": "electric",
+    "type2": null,
     "color": "yellow",
     "abilities": {
         "primary": null,
@@ -36,6 +36,7 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "swsh",
     "obtainableIn": [],
     "onlyViaEventIn": [
         "swsh"

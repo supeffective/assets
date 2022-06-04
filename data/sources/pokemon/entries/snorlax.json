@@ -8,7 +8,7 @@
     "region": "kanto",
     "generation": 1,
     "type1": "normal",
-    "type2": "normal",
+    "type2": null,
     "color": "black",
     "abilities": {
         "primary": null,
@@ -36,21 +36,41 @@
     "canGmax": true,
     "canDynamax": true,
     "canBeAlpha": true,
+    "debutIn": "rb",
     "obtainableIn": [
         "bdsp",
+        "frlg",
         "go",
         "la",
         "lgpe",
-        "swsh"
+        "rb",
+        "swsh",
+        "y"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
+        "b2w2",
         "bdsp",
+        "bw",
+        "c",
+        "dp",
+        "e",
+        "frlg",
         "go",
+        "gs",
+        "hgss",
         "home",
         "la",
         "lgpe",
-        "swsh"
+        "oras",
+        "pt",
+        "rb",
+        "rs",
+        "sm",
+        "swsh",
+        "usum",
+        "xy",
+        "y"
     ],
     "shinyReleased": true,
     "baseStats": {

@@ -8,7 +8,7 @@
     "region": "sinnoh",
     "generation": 4,
     "type1": "ghost",
-    "type2": "ghost",
+    "type2": "dragon",
     "color": "black",
     "abilities": {
         "primary": null,
@@ -36,16 +36,29 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "pt",
     "obtainableIn": [
         "bdsp",
         "go",
-        "la"
+        "la",
+        "pt",
+        "swsh"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
+        "b2w2",
         "bdsp",
+        "bw",
+        "dp",
         "go",
-        "la"
+        "hgss",
+        "la",
+        "oras",
+        "pt",
+        "sm",
+        "usum",
+        "xy",
+        "swsh"
     ],
     "shinyReleased": true,
     "baseStats": {

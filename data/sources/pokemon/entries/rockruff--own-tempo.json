@@ -8,10 +8,10 @@
     "region": "alola",
     "generation": 7,
     "type1": "rock",
-    "type2": "rock",
+    "type2": null,
     "color": "brown",
     "abilities": {
-        "primary": null,
+        "primary": "own-tempo",
         "secondary": null,
         "hidden": null
     },
@@ -36,10 +36,14 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "usum",
     "obtainableIn": [],
-    "onlyViaEventIn": [],
+    "onlyViaEventIn": [
+        "usum"
+    ],
     "storableIn": [
         "home",
+        "usum",
         "swsh"
     ],
     "shinyReleased": true,
@@ -72,15 +76,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "ROCKRUFF_OWN_TEMPO",
-        "veekunDb": "rockruff-own-tempo",
+        "pogo": "ROCKRUFF",
+        "veekunDb": "rockruff",
         "serebii": "rockruff",
         "bulbapedia": "Rockruff",
-        "homeSprite": "rockruff--own-tempo",
-        "miniSprite": "rockruff--own-tempo",
-        "showdown": "rockruffowntempo",
-        "showdownDef": "Rockruff-Own-Tempo",
-        "smogon": "rockruff--own-tempo"
+        "homeSprite": "rockruff",
+        "miniSprite": "rockruff",
+        "showdown": "rockruff",
+        "showdownDef": "Rockruff",
+        "smogon": "rockruff"
     },
     "baseSpecies": "rockruff",
     "baseForms": [],

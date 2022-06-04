@@ -7,9 +7,9 @@
     "formName": "C",
     "region": "johto",
     "generation": 2,
-    "type1": null,
+    "type1": "psychic",
     "type2": null,
-    "color": null,
+    "color": "black",
     "abilities": {
         "primary": null,
         "secondary": null,
@@ -36,17 +36,35 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": true,
+    "debutIn": "gs",
     "obtainableIn": [
         "bdsp",
+        "c",
         "go",
+        "gs",
+        "hgss",
         "la"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
+        "b2w2",
         "bdsp",
+        "bw",
+        "c",
+        "dp",
+        "e",
+        "frlg",
         "go",
+        "gs",
+        "hgss",
         "home",
-        "la"
+        "la",
+        "oras",
+        "pt",
+        "rs",
+        "sm",
+        "usum",
+        "xy"
     ],
     "shinyReleased": true,
     "baseStats": {

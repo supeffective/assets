@@ -1,0 +1,93 @@
+{
+    "id": "sprigatito",
+    "nid": "9001",
+    "dexNum": 9001,
+    "formId": null,
+    "name": "Sprigatito",
+    "formName": null,
+    "region": "_titan_",
+    "generation": 9,
+    "type1": "grass",
+    "type2": null,
+    "color": "green",
+    "abilities": {
+        "primary": "overgrow",
+        "secondary": null,
+        "hidden": null
+    },
+    "isLegendary": false,
+    "isMythical": false,
+    "isUltraBeast": false,
+    "ultraBeastCode": null,
+    "isDefault": true,
+    "isForm": false,
+    "isSpecialAbilityForm": false,
+    "isCosmeticForm": false,
+    "isFemaleForm": false,
+    "hasGenderDifferences": false,
+    "isBattleOnlyForm": false,
+    "isSwitchableForm": false,
+    "isFusion": false,
+    "fusedWith": null,
+    "isMega": false,
+    "isPrimal": false,
+    "isRegional": false,
+    "isGmax": false,
+    "canGmax": false,
+    "canDynamax": false,
+    "canBeAlpha": false,
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
+    "onlyViaEventIn": [],
+    "storableIn": [
+        "sv"
+    ],
+    "shinyReleased": true,
+    "baseStats": {
+        "hp": -1,
+        "atk": -1,
+        "def": -1,
+        "spa": -1,
+        "spd": -1,
+        "spe": -1
+    },
+    "goStats": {
+        "maxCP": -1,
+        "attack": -1,
+        "defense": -1,
+        "stamina": -1
+    },
+    "weight": {
+        "avg": "-1kg",
+        "min": "-1kg",
+        "max": "-1kg",
+        "alpha": "-1kg"
+    },
+    "height": {
+        "avg": "-1m",
+        "min": "-1m",
+        "max": "-1m",
+        "alpha": "-1m"
+    },
+    "maleRate": -1,
+    "femaleRate": -1,
+    "refs": {
+        "pogo": "SPRIGATITO",
+        "veekunDb": "sprigatito",
+        "serebii": "sprigatito",
+        "bulbapedia": "Sprigatito",
+        "homeSprite": "sprigatito",
+        "miniSprite": "sprigatito",
+        "showdown": "sprigatito",
+        "showdownDef": "Sprigatito",
+        "smogon": "sprigatito"
+    },
+    "baseSpecies": null,
+    "baseForms": [],
+    "forms": [
+        "sprigatito"
+    ],
+    "evolutions": []
+}

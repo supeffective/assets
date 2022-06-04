@@ -8,7 +8,7 @@
     "region": "galar",
     "generation": 8,
     "type1": "rock",
-    "type2": "rock",
+    "type2": "fire",
     "color": "black",
     "abilities": {
         "primary": null,
@@ -36,6 +36,7 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
+    "debutIn": "swsh",
     "obtainableIn": [
         "swsh"
     ],

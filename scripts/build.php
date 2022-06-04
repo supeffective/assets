@@ -61,6 +61,9 @@ require_once __DIR__ . '/_bootstrap.php';
 
         foreach (SGG_SUPPORTED_GAMES as $game) {
             foreach ($dataSet as $pkm) {
+                if (!isset($pkm['obtainableIn']) || !is_array($pkm['obtainableIn'])) {
+                    throw new \Exception("obtainableIn is not an array for {$pkm['id']}");
+                }
                 if (in_array($game, $pkm['obtainableIn'], true)) {
                     $availableByGame[$game][] = $pkm['id'];
                 }
@@ -503,6 +506,30 @@ require_once __DIR__ . '/_bootstrap.php';
         sgg_data_save('builds/pokemon/pokemon-unobtainable-shiny.json', $unobtainableShiny, minify: false);
     };
 
+    $generatePokemonGameDebuts = static function () use ($dataSet): void {
+        $gameDebuts = [];
+
+        foreach ($dataSet as $pkm) {
+            $gameDebuts[$pkm['debutIn']][] = $pkm['id'];
+        }
+
+        foreach ($gameDebuts as $game => $pkmIds) {
+            sgg_data_save("builds/pokemon/debuts/debut-pokemon-{$game}.json", $pkmIds, minify: false);
+        }
+    };
+
+    $generateEventOnlyPokemonList = static function () use ($dataSet): void {
+        $pkmIds = [];
+
+        foreach ($dataSet as $pkm) {
+            if (empty($pkm['obtainableIn'])) {
+                $pkmIds[] = $pkm['id'];
+            }
+        }
+
+        sgg_data_save("builds/pokemon/pokemon-event-only.json", $pkmIds, minify: false);
+    };
+
     // TASKS runner:
     // TODO generate national dex
 
@@ -511,18 +538,37 @@ require_once __DIR__ . '/_bootstrap.php';
 
     $generateStorablePokemonList();
     $generateObtainablePokemonList();
+    $generatePokemonGameDebuts();
+    $generateEventOnlyPokemonList();
+    $generatePokemonAvailabilities();
+
     //$generateMegaPokemonList();
     $generateGmaxPokemonList();
     $generateAlphaPokemonList();
 
-   // $generateFullySortedHomePreset();
-    $generateHisuiBoxesPreset();
-    $generateGamesetBoxesPreset('home', 30);
-    $generateGamesetBoxesPreset('bdsp', 30);
+    $generateGamesetBoxesPreset('rb', 20);
+    $generateGamesetBoxesPreset('y', 20);
+    $generateGamesetBoxesPreset('gs', 20);
+    $generateGamesetBoxesPreset('c', 20);
+    $generateGamesetBoxesPreset('rs', 30);
+    $generateGamesetBoxesPreset('e', 30);
+    $generateGamesetBoxesPreset('frlg', 30);
+    $generateGamesetBoxesPreset('dp', 30);
+    $generateGamesetBoxesPreset('pt', 30);
+    $generateGamesetBoxesPreset('hgss', 30);
+    $generateGamesetBoxesPreset('bw', 30);
+    $generateGamesetBoxesPreset('b2w2', 30);
+    $generateGamesetBoxesPreset('xy', 30);
+    $generateGamesetBoxesPreset('oras', 30);
+    $generateGamesetBoxesPreset('sm', 30);
+    $generateGamesetBoxesPreset('usum', 30);
+    $generateGamesetBoxesPreset('go', 9999);
     $generateGamesetBoxesPreset('lgpe', 1000);
     $generateGamesetBoxesPreset('swsh', 30);
-    $generateGamesetBoxesPreset('go', 9999);
-    $generatePokemonAvailabilities();
+    $generateGamesetBoxesPreset('home', 30);
+    $generateGamesetBoxesPreset('bdsp', 30);
+    $generateHisuiBoxesPreset(); // la
+    $generateGamesetBoxesPreset('sv', 30);
 
     $generateGameGamesList();
     $mergeAllBoxPresets();

@@ -7,9 +7,9 @@
     "formName": "Jungle Pattern",
     "region": "kalos",
     "generation": 6,
-    "type1": null,
-    "type2": null,
-    "color": null,
+    "type1": "bug",
+    "type2": "flying",
+    "color": "white",
     "abilities": {
         "primary": null,
         "secondary": null,
@@ -36,10 +36,17 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
-    "obtainableIn": [],
+    "debutIn": "xy",
+    "obtainableIn": [
+        "xy"
+    ],
     "onlyViaEventIn": [],
     "storableIn": [
-        "home"
+        "home",
+        "oras",
+        "sm",
+        "usum",
+        "xy"
     ],
     "shinyReleased": true,
     "baseStats": {

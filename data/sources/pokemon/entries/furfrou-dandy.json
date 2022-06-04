@@ -7,9 +7,9 @@
     "formName": "Dandy Trim",
     "region": "kalos",
     "generation": 6,
-    "type1": null,
+    "type1": "normal",
     "type2": null,
-    "color": null,
+    "color": "white",
     "abilities": {
         "primary": null,
         "secondary": null,
@@ -36,13 +36,19 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "xy",
     "obtainableIn": [
-        "go"
+        "go",
+        "xy"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
         "go",
-        "home"
+        "home",
+        "oras",
+        "sm",
+        "usum",
+        "xy"
     ],
     "shinyReleased": true,
     "baseStats": {

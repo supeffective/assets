@@ -36,21 +36,41 @@
     "canGmax": true,
     "canDynamax": true,
     "canBeAlpha": true,
+    "debutIn": "dp",
     "obtainableIn": [
         "bdsp",
+        "frlg",
         "go",
         "la",
         "lgpe",
-        "swsh"
+        "rb",
+        "swsh",
+        "y"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
+        "b2w2",
         "bdsp",
+        "bw",
+        "c",
+        "dp",
+        "e",
+        "frlg",
         "go",
+        "gs",
+        "hgss",
         "home",
         "la",
         "lgpe",
-        "swsh"
+        "oras",
+        "pt",
+        "rb",
+        "rs",
+        "sm",
+        "swsh",
+        "usum",
+        "xy",
+        "y"
     ],
     "shinyReleased": true,
     "baseStats": {

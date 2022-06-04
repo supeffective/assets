@@ -8,7 +8,7 @@
     "region": "hoenn",
     "generation": 3,
     "type1": "ice",
-    "type2": "ice",
+    "type2": null,
     "color": "white",
     "abilities": {
         "primary": null,
@@ -36,8 +36,12 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "rs",
     "obtainableIn": [
-        "go"
+        "e",
+        "go",
+        "oras",
+        "rs"
     ],
     "onlyViaEventIn": [],
     "storableIn": [

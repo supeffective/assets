@@ -8,7 +8,7 @@
     "region": "alola",
     "generation": 7,
     "type1": "steel",
-    "type2": "steel",
+    "type2": "fairy",
     "color": "gray",
     "abilities": {
         "primary": null,
@@ -36,11 +36,18 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
-    "obtainableIn": [],
-    "onlyViaEventIn": [],
+    "debutIn": "sm",
+    "obtainableIn": [
+        "usum"
+    ],
+    "onlyViaEventIn": [
+        "sm"
+    ],
     "storableIn": [
         "home",
-        "swsh"
+        "sm",
+        "swsh",
+        "usum"
     ],
     "shinyReleased": false,
     "baseStats": {

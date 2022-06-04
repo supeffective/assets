@@ -8,7 +8,7 @@
     "region": "kalos",
     "generation": 6,
     "type1": "fire",
-    "type2": "fire",
+    "type2": "psychic",
     "color": "red",
     "abilities": {
         "primary": null,
@@ -36,13 +36,19 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "xy",
     "obtainableIn": [
-        "go"
+        "go",
+        "xy"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
         "go",
-        "home"
+        "home",
+        "oras",
+        "sm",
+        "usum",
+        "xy"
     ],
     "shinyReleased": true,
     "baseStats": {

@@ -937,6 +937,7 @@
                 "heatran",
                 "regigigas",
                 "giratina",
+                "giratina-origin",
                 "cresselia",
                 "victini",
                 "tornadus",
@@ -961,12 +962,12 @@
                 "yveltal",
                 "zygarde",
                 "zygarde--power-construct",
-                "zygarde-10",
-                "zygarde-10--power-construct"
+                "zygarde-10"
             ]
         },
         {
             "pokemon": [
+                "zygarde-10--power-construct",
                 "diancie",
                 "volcanion",
                 "rowlet",
@@ -995,12 +996,12 @@
                 "guzzlord",
                 "necrozma",
                 "necrozma-dusk-mane",
-                "necrozma-dawn-wings",
-                "magearna"
+                "necrozma-dawn-wings"
             ]
         },
         {
             "pokemon": [
+                "magearna",
                 "magearna-original",
                 "marshadow",
                 "poipole",

@@ -1,0 +1,93 @@
+{
+    "id": "quaxly",
+    "nid": "9007",
+    "dexNum": 9007,
+    "formId": null,
+    "name": "Quaxly",
+    "formName": null,
+    "region": "_titan_",
+    "generation": 9,
+    "type1": "water",
+    "type2": null,
+    "color": "blue",
+    "abilities": {
+        "primary": "torrent",
+        "secondary": null,
+        "hidden": null
+    },
+    "isLegendary": false,
+    "isMythical": false,
+    "isUltraBeast": false,
+    "ultraBeastCode": null,
+    "isDefault": true,
+    "isForm": false,
+    "isSpecialAbilityForm": false,
+    "isCosmeticForm": false,
+    "isFemaleForm": false,
+    "hasGenderDifferences": false,
+    "isBattleOnlyForm": false,
+    "isSwitchableForm": false,
+    "isFusion": false,
+    "fusedWith": null,
+    "isMega": false,
+    "isPrimal": false,
+    "isRegional": false,
+    "isGmax": false,
+    "canGmax": false,
+    "canDynamax": false,
+    "canBeAlpha": false,
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
+    "onlyViaEventIn": [],
+    "storableIn": [
+        "sv"
+    ],
+    "shinyReleased": true,
+    "baseStats": {
+        "hp": -1,
+        "atk": -1,
+        "def": -1,
+        "spa": -1,
+        "spd": -1,
+        "spe": -1
+    },
+    "goStats": {
+        "maxCP": -1,
+        "attack": -1,
+        "defense": -1,
+        "stamina": -1
+    },
+    "weight": {
+        "avg": "-1kg",
+        "min": "-1kg",
+        "max": "-1kg",
+        "alpha": "-1kg"
+    },
+    "height": {
+        "avg": "-1m",
+        "min": "-1m",
+        "max": "-1m",
+        "alpha": "-1m"
+    },
+    "maleRate": -1,
+    "femaleRate": -1,
+    "refs": {
+        "pogo": "Quaxly",
+        "veekunDb": "quaxly",
+        "serebii": "quaxly",
+        "bulbapedia": "Quaxly",
+        "homeSprite": "quaxly",
+        "miniSprite": "quaxly",
+        "showdown": "quaxly",
+        "showdownDef": "Quaxly",
+        "smogon": "quaxly"
+    },
+    "baseSpecies": null,
+    "baseForms": [],
+    "forms": [
+        "quaxly"
+    ],
+    "evolutions": []
+}

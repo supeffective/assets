@@ -8,7 +8,7 @@
     "region": "kalos",
     "generation": 6,
     "type1": "ground",
-    "type2": "ground",
+    "type2": null,
     "color": "red",
     "abilities": {
         "primary": null,
@@ -36,7 +36,11 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "obtainableIn": [],
+    "debutIn": "oras",
+    "obtainableIn": [
+        "oras",
+        "usum"
+    ],
     "onlyViaEventIn": [],
     "storableIn": [],
     "shinyReleased": true,

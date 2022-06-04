@@ -8,7 +8,7 @@
     "region": "alola",
     "generation": 7,
     "type1": "dark",
-    "type2": "dark",
+    "type2": null,
     "color": "gray",
     "abilities": {
         "primary": null,
@@ -36,12 +36,17 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "sm",
     "obtainableIn": [
-        "swsh"
+        "sm",
+        "swsh",
+        "usum"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
-        "swsh"
+        "sm",
+        "swsh",
+        "usum"
     ],
     "shinyReleased": true,
     "baseStats": {

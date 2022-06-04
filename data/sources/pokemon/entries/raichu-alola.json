@@ -8,7 +8,7 @@
     "region": "alola",
     "generation": 7,
     "type1": "electric",
-    "type2": "electric",
+    "type2": "psychic",
     "color": "brown",
     "abilities": {
         "primary": null,
@@ -36,17 +36,22 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "sm",
     "obtainableIn": [
         "go",
         "lgpe",
-        "swsh"
+        "sm",
+        "swsh",
+        "usum"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
         "go",
         "home",
         "lgpe",
-        "swsh"
+        "sm",
+        "swsh",
+        "usum"
     ],
     "shinyReleased": true,
     "baseStats": {

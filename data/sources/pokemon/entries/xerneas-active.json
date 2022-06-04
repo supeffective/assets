@@ -8,7 +8,7 @@
     "region": "kalos",
     "generation": 6,
     "type1": "fairy",
-    "type2": "fairy",
+    "type2": null,
     "color": "blue",
     "abilities": {
         "primary": null,
@@ -36,9 +36,11 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "xy",
     "obtainableIn": [
         "go",
-        "swsh"
+        "swsh",
+        "xy"
     ],
     "onlyViaEventIn": [],
     "storableIn": [],

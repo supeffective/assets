@@ -8,7 +8,7 @@
     "region": "alola",
     "generation": 7,
     "type1": "fighting",
-    "type2": "fighting",
+    "type2": null,
     "color": "purple",
     "abilities": {
         "primary": null,
@@ -36,10 +36,16 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
-    "obtainableIn": [],
+    "debutIn": "sm",
+    "obtainableIn": [
+        "sm",
+        "usum"
+    ],
     "onlyViaEventIn": [],
     "storableIn": [
-        "home"
+        "home",
+        "sm",
+        "usum"
     ],
     "shinyReleased": true,
     "baseStats": {

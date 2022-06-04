@@ -8,7 +8,7 @@
     "region": "galar",
     "generation": 8,
     "type1": "ghost",
-    "type2": "ghost",
+    "type2": "poison",
     "color": "purple",
     "abilities": {
         "primary": null,
@@ -36,6 +36,7 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
+    "debutIn": "swsh",
     "obtainableIn": [
         "swsh"
     ],

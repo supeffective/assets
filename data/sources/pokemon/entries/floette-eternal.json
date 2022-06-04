@@ -36,6 +36,7 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "xy",
     "obtainableIn": [],
     "onlyViaEventIn": [],
     "storableIn": [],

@@ -873,6 +873,7 @@
                 "rotom-frost",
                 "rotom-fan",
                 "rotom-mow",
+                "giratina-origin",
                 "unfezant-f",
                 "basculin-blue-striped",
                 "darumaka-galar",
@@ -893,12 +894,12 @@
                 "genesect-chill",
                 "meowstic-f",
                 "pumpkaboo-small",
-                "pumpkaboo-large",
-                "pumpkaboo-super"
+                "pumpkaboo-large"
             ]
         },
         {
             "pokemon": [
+                "pumpkaboo-super",
                 "gourgeist-small",
                 "gourgeist-large",
                 "gourgeist-super",
@@ -927,12 +928,12 @@
                 "silvally-fairy",
                 "necrozma-dusk-mane",
                 "necrozma-dawn-wings",
-                "magearna-original",
-                "toxtricity-low-key"
+                "magearna-original"
             ]
         },
         {
             "pokemon": [
+                "toxtricity-low-key",
                 "sinistea-antique",
                 "polteageist-antique",
                 "alcremie-vanilla-cream-berry",
@@ -961,12 +962,12 @@
                 "alcremie-mint-cream-star",
                 "alcremie-mint-cream-clover",
                 "alcremie-mint-cream-flower",
-                "alcremie-mint-cream-ribbon",
-                "alcremie-lemon-cream-strawberry"
+                "alcremie-mint-cream-ribbon"
             ]
         },
         {
             "pokemon": [
+                "alcremie-lemon-cream-strawberry",
                 "alcremie-lemon-cream-berry",
                 "alcremie-lemon-cream-love",
                 "alcremie-lemon-cream-star",
@@ -995,12 +996,12 @@
                 "alcremie-caramel-swirl-flower",
                 "alcremie-caramel-swirl-ribbon",
                 "alcremie-rainbow-swirl-strawberry",
-                "alcremie-rainbow-swirl-berry",
-                "alcremie-rainbow-swirl-love"
+                "alcremie-rainbow-swirl-berry"
             ]
         },
         {
             "pokemon": [
+                "alcremie-rainbow-swirl-love",
                 "alcremie-rainbow-swirl-star",
                 "alcremie-rainbow-swirl-clover",
                 "alcremie-rainbow-swirl-flower",

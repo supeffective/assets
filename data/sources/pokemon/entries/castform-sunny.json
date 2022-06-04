@@ -8,7 +8,7 @@
     "region": "hoenn",
     "generation": 3,
     "type1": "fire",
-    "type2": "fire",
+    "type2": null,
     "color": "red",
     "abilities": {
         "primary": null,
@@ -36,8 +36,12 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "rs",
     "obtainableIn": [
-        "go"
+        "e",
+        "go",
+        "oras",
+        "rs"
     ],
     "onlyViaEventIn": [],
     "storableIn": [

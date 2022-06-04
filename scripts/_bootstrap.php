@@ -4,7 +4,42 @@
 error_reporting(-1);
 
 const SGG_PKM_ENTRIES_BASE_FILENAME = 'builds/pokemon/pokemon-entries';
-const SGG_SUPPORTED_GAMES = ['home', 'la', 'swsh', 'bdsp', 'lgpe', 'go'];
+const SGG_SUPPORTED_GAMES = [
+    'rb',
+    'y',
+    'gs',
+    'c',
+    'rs',
+    'e',
+    'frlg',
+    'dp',
+    'pt',
+    'hgss',
+    'bw',
+    'b2w2',
+    'xy',
+    'oras',
+    'sm',
+    'usum',
+    'go',
+    'lgpe',
+    'swsh',
+    'home',
+    'bdsp',
+    'la',
+    'sv',
+];
+
+function sgg_get_gamesets(): array
+{
+    $gamesetsArray = sgg_data_load('sources/games/game-sets.json');
+    $gamesetsById = [];
+    foreach ($gamesetsArray as $gameset) {
+        $gamesetsById[$gameset['id']] = $gameset;
+    }
+
+    return $gamesetsById;
+}
 
 function sgg_get_data_path(?string $relativePath = null): string
 {
@@ -156,7 +191,9 @@ function sgg_get_merged_pkm_entries(bool $failOnError = true): array
     // check if some entry is missing in sorted list
     foreach ($existingPkmEntriesMap as $pkmId) {
         if ($failOnError && !isset($sortedPokemonListMap[$pkmId])) {
-            throw new \RuntimeException('Unknown entry: Pokemon not found in full sorted pokemon list (data/sources/pokemon.json): ' . $pkmId);
+            throw new \RuntimeException(
+                "Unknown entry: Pokemon '{$pkmId}' not found in full sorted pokemon list (data/sources/pokemon.json)"
+            );
         }
     }
 

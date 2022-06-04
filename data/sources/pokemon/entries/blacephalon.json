@@ -8,7 +8,7 @@
     "region": "alola",
     "generation": 7,
     "type1": "fire",
-    "type2": "fire",
+    "type2": "ghost",
     "color": "white",
     "abilities": {
         "primary": null,
@@ -36,13 +36,16 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "usum",
     "obtainableIn": [
-        "swsh"
+        "swsh",
+        "usum"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
         "home",
-        "swsh"
+        "swsh",
+        "usum"
     ],
     "shinyReleased": true,
     "baseStats": {

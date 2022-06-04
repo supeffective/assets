@@ -8,7 +8,7 @@
     "region": "kanto",
     "generation": 1,
     "type1": "psychic",
-    "type2": "psychic",
+    "type2": null,
     "color": "pink",
     "abilities": {
         "primary": null,
@@ -36,18 +36,36 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
-    "obtainableIn": [],
+    "debutIn": "rb",
+    "obtainableIn": [
+        "bdsp"
+    ],
     "onlyViaEventIn": [
-        "bdsp",
         "lgpe",
         "go"
     ],
     "storableIn": [
+        "b2w2",
         "bdsp",
+        "bw",
+        "c",
+        "dp",
+        "e",
+        "frlg",
         "go",
+        "gs",
+        "hgss",
         "home",
         "lgpe",
-        "swsh"
+        "oras",
+        "pt",
+        "rb",
+        "rs",
+        "sm",
+        "swsh",
+        "usum",
+        "xy",
+        "y"
     ],
     "shinyReleased": true,
     "baseStats": {

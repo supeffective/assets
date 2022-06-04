@@ -8,10 +8,10 @@
     "region": "alola",
     "generation": 7,
     "type1": "water",
-    "type2": "water",
+    "type2": "dark",
     "color": "blue",
     "abilities": {
-        "primary": null,
+        "primary": "battle-bond",
         "secondary": null,
         "hidden": null
     },
@@ -36,9 +36,15 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
-    "obtainableIn": [],
+    "debutIn": "sm",
+    "obtainableIn": [
+        "sm"
+    ],
     "onlyViaEventIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sm",
+        "usum"
+    ],
     "shinyReleased": false,
     "baseStats": {
         "hp": -1,

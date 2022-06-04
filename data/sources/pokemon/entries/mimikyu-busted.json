@@ -8,7 +8,7 @@
     "region": "alola",
     "generation": 7,
     "type1": "ghost",
-    "type2": "ghost",
+    "type2": "fairy",
     "color": "yellow",
     "abilities": {
         "primary": null,
@@ -36,8 +36,11 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "sm",
     "obtainableIn": [
-        "swsh"
+        "sm",
+        "swsh",
+        "usum"
     ],
     "onlyViaEventIn": [],
     "storableIn": [],

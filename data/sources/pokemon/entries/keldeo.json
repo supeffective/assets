@@ -8,7 +8,7 @@
     "region": "unova",
     "generation": 5,
     "type1": "water",
-    "type2": "water",
+    "type2": "fighting",
     "color": "yellow",
     "abilities": {
         "primary": null,
@@ -36,13 +36,23 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "bw",
     "obtainableIn": [
         "swsh"
     ],
-    "onlyViaEventIn": [],
+    "onlyViaEventIn": [
+        "bw",
+        "oras"
+    ],
     "storableIn": [
+        "b2w2",
+        "bw",
         "home",
-        "swsh"
+        "oras",
+        "sm",
+        "swsh",
+        "usum",
+        "xy"
     ],
     "shinyReleased": false,
     "baseStats": {

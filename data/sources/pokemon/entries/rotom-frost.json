@@ -8,7 +8,7 @@
     "region": "sinnoh",
     "generation": 4,
     "type1": "electric",
-    "type2": "electric",
+    "type2": "ghost",
     "color": "red",
     "abilities": {
         "primary": null,
@@ -36,19 +36,29 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": true,
+    "debutIn": "pt",
     "obtainableIn": [
         "bdsp",
         "go",
         "la",
+        "pt",
         "swsh"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
+        "b2w2",
         "bdsp",
+        "bw",
         "go",
+        "hgss",
         "home",
         "la",
-        "swsh"
+        "oras",
+        "pt",
+        "sm",
+        "swsh",
+        "usum",
+        "xy"
     ],
     "shinyReleased": true,
     "baseStats": {

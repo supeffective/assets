@@ -8,7 +8,7 @@
     "region": "kalos",
     "generation": 6,
     "type1": "psychic",
-    "type2": "psychic",
+    "type2": null,
     "color": "blue",
     "abilities": {
         "primary": null,
@@ -36,15 +36,21 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "xy",
     "obtainableIn": [
         "go",
-        "swsh"
+        "swsh",
+        "xy"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
         "go",
         "home",
-        "swsh"
+        "oras",
+        "sm",
+        "swsh",
+        "usum",
+        "xy"
     ],
     "shinyReleased": true,
     "baseStats": {

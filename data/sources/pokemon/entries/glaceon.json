@@ -8,7 +8,7 @@
     "region": "sinnoh",
     "generation": 4,
     "type1": "ice",
-    "type2": "ice",
+    "type2": null,
     "color": "blue",
     "abilities": {
         "primary": null,
@@ -36,19 +36,31 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": true,
+    "debutIn": "dp",
     "obtainableIn": [
         "bdsp",
+        "dp",
         "go",
         "la",
+        "pt",
         "swsh"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
+        "b2w2",
         "bdsp",
+        "bw",
+        "dp",
         "go",
+        "hgss",
         "home",
         "la",
-        "swsh"
+        "oras",
+        "pt",
+        "sm",
+        "swsh",
+        "usum",
+        "xy"
     ],
     "shinyReleased": true,
     "baseStats": {

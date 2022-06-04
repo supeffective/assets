@@ -8,7 +8,7 @@
     "region": "kalos",
     "generation": 6,
     "type1": "rock",
-    "type2": "rock",
+    "type2": "dark",
     "color": "green",
     "abilities": {
         "primary": null,
@@ -36,8 +36,10 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
+    "debutIn": "xy",
     "obtainableIn": [
-        "go"
+        "go",
+        "xy"
     ],
     "onlyViaEventIn": [],
     "storableIn": [],

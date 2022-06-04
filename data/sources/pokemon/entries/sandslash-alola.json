@@ -8,7 +8,7 @@
     "region": "alola",
     "generation": 7,
     "type1": "ice",
-    "type2": "ice",
+    "type2": "steel",
     "color": "blue",
     "abilities": {
         "primary": null,
@@ -36,17 +36,22 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "sm",
     "obtainableIn": [
         "go",
         "lgpe",
-        "swsh"
+        "sm",
+        "swsh",
+        "usum"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
         "go",
         "home",
         "lgpe",
-        "swsh"
+        "sm",
+        "swsh",
+        "usum"
     ],
     "shinyReleased": true,
     "baseStats": {

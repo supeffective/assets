@@ -8,10 +8,10 @@
     "region": "kalos",
     "generation": 6,
     "type1": "water",
-    "type2": "water",
+    "type2": "dark",
     "color": "blue",
     "abilities": {
-        "primary": null,
+        "primary": "battle-bond",
         "secondary": null,
         "hidden": null
     },
@@ -36,10 +36,17 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
-    "obtainableIn": [],
+    "debutIn": "sm",
+    "obtainableIn": [
+        "sm"
+    ],
     "onlyViaEventIn": [],
     "storableIn": [
-        "home"
+        "home",
+        "oras",
+        "sm",
+        "usum",
+        "xy"
     ],
     "shinyReleased": false,
     "baseStats": {

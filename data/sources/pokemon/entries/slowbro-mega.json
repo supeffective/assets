@@ -8,7 +8,7 @@
     "region": "kalos",
     "generation": 6,
     "type1": "water",
-    "type2": "water",
+    "type2": "psychic",
     "color": "pink",
     "abilities": {
         "primary": null,
@@ -36,8 +36,11 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
+    "debutIn": "oras",
     "obtainableIn": [
-        "go"
+        "go",
+        "oras",
+        "lgpe"
     ],
     "onlyViaEventIn": [],
     "storableIn": [],

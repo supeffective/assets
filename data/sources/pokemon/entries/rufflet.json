@@ -8,7 +8,7 @@
     "region": "unova",
     "generation": 5,
     "type1": "normal",
-    "type2": "normal",
+    "type2": "flying",
     "color": "white",
     "abilities": {
         "primary": null,
@@ -36,17 +36,26 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": true,
+    "debutIn": "bw",
     "obtainableIn": [
+        "b2w2",
+        "bw",
         "go",
         "la",
         "swsh"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
+        "b2w2",
+        "bw",
         "go",
         "home",
         "la",
-        "swsh"
+        "oras",
+        "sm",
+        "swsh",
+        "usum",
+        "xy"
     ],
     "shinyReleased": true,
     "baseStats": {

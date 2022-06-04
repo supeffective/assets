@@ -8,7 +8,7 @@
     "region": "kanto",
     "generation": 1,
     "type1": "fire",
-    "type2": "fire",
+    "type2": "flying",
     "color": "red",
     "abilities": {
         "primary": null,
@@ -36,19 +36,39 @@
     "canGmax": true,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "rb",
     "obtainableIn": [
         "bdsp",
+        "frlg",
         "go",
         "lgpe",
-        "swsh"
+        "rb",
+        "swsh",
+        "y"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
+        "b2w2",
         "bdsp",
+        "bw",
+        "c",
+        "dp",
+        "e",
+        "frlg",
         "go",
+        "gs",
+        "hgss",
         "home",
         "lgpe",
-        "swsh"
+        "oras",
+        "pt",
+        "rb",
+        "rs",
+        "sm",
+        "swsh",
+        "usum",
+        "xy",
+        "y"
     ],
     "shinyReleased": true,
     "baseStats": {

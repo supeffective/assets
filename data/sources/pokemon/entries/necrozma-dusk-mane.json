@@ -8,7 +8,7 @@
     "region": "alola",
     "generation": 7,
     "type1": "psychic",
-    "type2": "psychic",
+    "type2": "steel",
     "color": "yellow",
     "abilities": {
         "primary": null,
@@ -41,12 +41,15 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "usum",
     "obtainableIn": [
-        "swsh"
+        "swsh",
+        "usum"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
-        "swsh"
+        "swsh",
+        "usum"
     ],
     "shinyReleased": true,
     "baseStats": {

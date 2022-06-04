@@ -8,7 +8,7 @@
     "region": "unova",
     "generation": 5,
     "type1": "bug",
-    "type2": "bug",
+    "type2": "steel",
     "color": "purple",
     "abilities": {
         "primary": null,
@@ -36,13 +36,23 @@
     "canGmax": false,
     "canDynamax": true,
     "canBeAlpha": false,
+    "debutIn": "bw",
     "obtainableIn": [
         "go"
     ],
-    "onlyViaEventIn": [],
+    "onlyViaEventIn": [
+        "bw",
+        "oras"
+    ],
     "storableIn": [
+        "b2w2",
+        "bw",
         "go",
-        "swsh"
+        "oras",
+        "sm",
+        "swsh",
+        "usum",
+        "xy"
     ],
     "shinyReleased": true,
     "baseStats": {
