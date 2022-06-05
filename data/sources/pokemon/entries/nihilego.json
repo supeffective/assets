@@ -40,14 +40,16 @@
     "obtainableIn": [
         "sm",
         "swsh",
-        "usum"
+        "usum",
+        "go"
     ],
     "onlyViaEventIn": [],
     "storableIn": [
         "home",
         "sm",
         "swsh",
-        "usum"
+        "usum",
+        "go"
     ],
     "shinyReleased": true,
     "baseStats": {

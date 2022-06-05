@@ -27614,13 +27614,15 @@
         "obtainableIn": [
             "sm",
             "swsh",
-            "usum"
+            "usum",
+            "go"
         ],
         "storableIn": [
             "home",
             "sm",
             "swsh",
-            "usum"
+            "usum",
+            "go"
         ],
         "shinyReleased": true
     },
