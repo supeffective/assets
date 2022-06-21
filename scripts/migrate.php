@@ -56,7 +56,7 @@ require_once __DIR__ . '/_bootstrap.php';
     "debutIn": "?",
     "obtainableIn": [],
     "versionExclusiveIn": [],
-    "onlyViaEventIn": [],
+    "eventOnlyIn": [],
     "storableIn": ["home"],
     "shinyReleased": false,
     "shinyBase": null,
@@ -129,8 +129,11 @@ JSON;
 
         /* --- START $newPkm data transformation */
 
+        $eventOnlyIn = $pkm['onlyViaEventIn'];
+        unset($pkm['onlyViaEventIn']);
         $newPkm = array_merge($dataTemplateArr, $pkm);
         // TODO modify $newPkm here, e.g.:
+        $newPkm['eventOnlyIn'] = $eventOnlyIn;
 
         /* --- END $newPkm data transformation */
         // save pkm entry

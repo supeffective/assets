@@ -42,7 +42,7 @@
         "swsh"
     ],
     "versionExclusiveIn": [],
-    "onlyViaEventIn": [],
+    "eventOnlyIn": [],
     "storableIn": [
         "go",
         "home",

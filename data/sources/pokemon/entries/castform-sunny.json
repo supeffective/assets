@@ -44,7 +44,7 @@
         "rs"
     ],
     "versionExclusiveIn": [],
-    "onlyViaEventIn": [],
+    "eventOnlyIn": [],
     "storableIn": [
         "go"
     ],

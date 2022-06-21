@@ -41,7 +41,7 @@
         "la"
     ],
     "versionExclusiveIn": [],
-    "onlyViaEventIn": [
+    "eventOnlyIn": [
         "bdsp",
         "go"
     ],

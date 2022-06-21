@@ -41,7 +41,7 @@
         "bdsp"
     ],
     "versionExclusiveIn": [],
-    "onlyViaEventIn": [
+    "eventOnlyIn": [
         "lgpe",
         "go"
     ],

@@ -39,7 +39,7 @@
     "debutIn": "bw",
     "obtainableIn": [],
     "versionExclusiveIn": [],
-    "onlyViaEventIn": [
+    "eventOnlyIn": [
         "bw",
         "go",
         "oras"

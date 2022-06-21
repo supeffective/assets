@@ -42,7 +42,7 @@
         "xy"
     ],
     "versionExclusiveIn": [],
-    "onlyViaEventIn": [],
+    "eventOnlyIn": [],
     "storableIn": [
         "home",
         "oras",

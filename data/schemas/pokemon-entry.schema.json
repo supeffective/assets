@@ -175,7 +175,7 @@
                 "$ref": "#/$defs/gameId"
             }
         },
-        "onlyViaEventIn": {
+        "eventOnlyIn": {
             "type": "array",
             "items": {
                 "$ref": "#/$defs/gameSetId"
@@ -436,7 +436,7 @@
         "debutIn",
         "obtainableIn",
         "versionExclusiveIn",
-        "onlyViaEventIn",
+        "eventOnlyIn",
         "storableIn",
         "shinyReleased",
         "shinyBase",

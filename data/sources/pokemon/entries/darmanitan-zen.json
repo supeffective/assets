@@ -43,7 +43,7 @@
         "swsh"
     ],
     "versionExclusiveIn": [],
-    "onlyViaEventIn": [],
+    "eventOnlyIn": [],
     "storableIn": [],
     "shinyReleased": true,
     "shinyBase": null,

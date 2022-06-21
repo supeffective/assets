@@ -41,7 +41,7 @@
         "sm"
     ],
     "versionExclusiveIn": [],
-    "onlyViaEventIn": [],
+    "eventOnlyIn": [],
     "storableIn": [
         "home",
         "oras",

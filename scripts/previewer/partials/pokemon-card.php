@@ -19,7 +19,7 @@ $pkmId = $pkm['id'];
 $isGmax = $pkm['isGmax'];
 $isMega = $pkm['isMega'];
 sort($pkm['obtainableIn']);
-sort($pkm['onlyViaEventIn']);
+sort($pkm['eventOnlyIn']);
 sort($pkm['storableIn']);
 $refs = $pkm['refs'];
 ?>
@@ -211,7 +211,7 @@ echo $pkm['name']; ?>"
             Event-Only In
             <?php
             tpl_partial(
-                'gameset-tags', ['gameSetIds' => $pkm['onlyViaEventIn'], 'gameSets' => $gameSets]
+                'gameset-tags', ['gameSetIds' => $pkm['eventOnlyIn'], 'gameSets' => $gameSets]
             ); ?>
         </div>
     </div>

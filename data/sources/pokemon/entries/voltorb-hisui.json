@@ -42,7 +42,7 @@
         "la"
     ],
     "versionExclusiveIn": [],
-    "onlyViaEventIn": [],
+    "eventOnlyIn": [],
     "storableIn": [
         "go",
         "home",

@@ -35,6 +35,12 @@ require_once __DIR__ . '/_bootstrap.php';
                 'isForm' => $pkm['isForm'],
                 'baseSpecies' => $pkm['baseSpecies'],
                 'baseForms' => $pkm['baseForms'],
+                'shinyReleased' => $pkm['shinyReleased'],
+                'shinyBase' => $pkm['shinyBase'],
+                'obtainableIn' => $pkm['obtainableIn'],
+                'versionExclusiveIn' => $pkm['versionExclusiveIn'],
+                'eventOnlyIn' => $pkm['eventOnlyIn'],
+                'storableIn' => $pkm['storableIn'],
             ];
         }
         sgg_data_save(SGG_PKM_ENTRIES_BASE_FILENAME . '-minimal.json', $minimalDataSet, minify: false);
@@ -522,7 +528,7 @@ require_once __DIR__ . '/_bootstrap.php';
         $pkmIds = [];
 
         foreach ($dataSet as $pkm) {
-            if (empty($pkm['obtainableIn']) && !empty($pkm['onlyViaEventIn'])) {
+            if (empty($pkm['obtainableIn']) && !empty($pkm['eventOnlyIn'])) {
                 $pkmIds[] = $pkm['id'];
             }
         }

@@ -39,7 +39,7 @@
     "debutIn": "home",
     "obtainableIn": [],
     "versionExclusiveIn": [],
-    "onlyViaEventIn": [
+    "eventOnlyIn": [
         "home"
     ],
     "storableIn": [
