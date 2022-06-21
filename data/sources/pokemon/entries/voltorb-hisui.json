@@ -41,6 +41,7 @@
         "go",
         "la"
     ],
+    "versionExclusiveIn": [],
     "onlyViaEventIn": [],
     "storableIn": [
         "go",
@@ -48,6 +49,7 @@
         "la"
     ],
     "shinyReleased": true,
+    "shinyBase": null,
     "baseStats": {
         "hp": -1,
         "atk": -1,

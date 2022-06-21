@@ -40,6 +40,7 @@
     "obtainableIn": [
         "go"
     ],
+    "versionExclusiveIn": [],
     "onlyViaEventIn": [],
     "storableIn": [
         "go",
@@ -48,6 +49,7 @@
         "swsh"
     ],
     "shinyReleased": true,
+    "shinyBase": null,
     "baseStats": {
         "hp": -1,
         "atk": -1,

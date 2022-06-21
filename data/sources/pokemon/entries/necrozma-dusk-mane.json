@@ -46,12 +46,14 @@
         "swsh",
         "usum"
     ],
+    "versionExclusiveIn": [],
     "onlyViaEventIn": [],
     "storableIn": [
         "swsh",
         "usum"
     ],
     "shinyReleased": true,
+    "shinyBase": null,
     "baseStats": {
         "hp": -1,
         "atk": -1,

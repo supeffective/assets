@@ -1,0 +1,6 @@
+{
+    "name": "itsjavi/supereffective-dataset",
+    "require": {
+        "swaggest/json-schema": "^0.12.39"
+    }
+}

@@ -40,6 +40,7 @@
     "obtainableIn": [
         "sm"
     ],
+    "versionExclusiveIn": [],
     "onlyViaEventIn": [],
     "storableIn": [
         "home",
@@ -49,6 +50,7 @@
         "xy"
     ],
     "shinyReleased": false,
+    "shinyBase": null,
     "baseStats": {
         "hp": -1,
         "atk": -1,

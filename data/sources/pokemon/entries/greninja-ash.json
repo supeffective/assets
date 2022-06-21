@@ -40,12 +40,14 @@
     "obtainableIn": [
         "sm"
     ],
+    "versionExclusiveIn": [],
     "onlyViaEventIn": [],
     "storableIn": [
         "sm",
         "usum"
     ],
     "shinyReleased": false,
+    "shinyBase": null,
     "baseStats": {
         "hp": -1,
         "atk": -1,

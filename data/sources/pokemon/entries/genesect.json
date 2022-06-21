@@ -40,6 +40,7 @@
     "obtainableIn": [
         "go"
     ],
+    "versionExclusiveIn": [],
     "onlyViaEventIn": [
         "bw",
         "oras"
@@ -56,6 +57,7 @@
         "xy"
     ],
     "shinyReleased": true,
+    "shinyBase": null,
     "baseStats": {
         "hp": -1,
         "atk": -1,

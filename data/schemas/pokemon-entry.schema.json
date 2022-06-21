@@ -1,6 +1,7 @@
 {
-    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$schema": "https://json-schema.org/draft-07/schema#",
     "type": "object",
+    "additionalProperties": false,
     "properties": {
         "id": {
             "type": "string"
@@ -47,10 +48,14 @@
             ]
         },
         "color": {
-            "type": "string"
+            "type": [
+                "string",
+                "null"
+            ]
         },
         "abilities": {
             "type": "object",
+            "additionalProperties": false,
             "properties": {
                 "primary": {
                     "type": [
@@ -120,7 +125,16 @@
             "type": "boolean"
         },
         "fusedWith": {
-            "type": "null"
+            "type": [
+                "array",
+                "null"
+            ],
+            "items": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                }
+            }
         },
         "isMega": {
             "type": "boolean"
@@ -152,6 +166,15 @@
                 "$ref": "#/$defs/gameSetId"
             }
         },
+        "versionExclusiveIn": {
+            "type": [
+                "array",
+                "null"
+            ],
+            "items": {
+                "$ref": "#/$defs/gameId"
+            }
+        },
         "onlyViaEventIn": {
             "type": "array",
             "items": {
@@ -167,8 +190,15 @@
         "shinyReleased": {
             "type": "boolean"
         },
+        "shinyBase": {
+            "type": [
+                "string",
+                "null"
+            ]
+        },
         "baseStats": {
             "type": "object",
+            "additionalProperties": false,
             "properties": {
                 "hp": {
                     "type": "integer"
@@ -200,6 +230,7 @@
         },
         "goStats": {
             "type": "object",
+            "additionalProperties": false,
             "properties": {
                 "maxCP": {
                     "type": "integer"
@@ -223,6 +254,7 @@
         },
         "weight": {
             "type": "object",
+            "additionalProperties": false,
             "properties": {
                 "avg": {
                     "type": "string"
@@ -246,6 +278,7 @@
         },
         "height": {
             "type": "object",
+            "additionalProperties": false,
             "properties": {
                 "avg": {
                     "type": "string"
@@ -275,18 +308,31 @@
         },
         "refs": {
             "type": "object",
+            "additionalProperties": false,
             "properties": {
                 "pogo": {
-                    "type": "string"
+                    "type": [
+                        "string",
+                        "null"
+                    ]
                 },
                 "veekunDb": {
-                    "type": "string"
+                    "type": [
+                        "string",
+                        "null"
+                    ]
                 },
                 "serebii": {
-                    "type": "string"
+                    "type": [
+                        "string",
+                        "null"
+                    ]
                 },
                 "bulbapedia": {
-                    "type": "string"
+                    "type": [
+                        "string",
+                        "null"
+                    ]
                 },
                 "homeSprite": {
                     "type": "string"
@@ -295,13 +341,22 @@
                     "type": "string"
                 },
                 "showdown": {
-                    "type": "string"
+                    "type": [
+                        "string",
+                        "null"
+                    ]
                 },
                 "showdownDef": {
-                    "type": "string"
+                    "type": [
+                        "string",
+                        "null"
+                    ]
                 },
                 "smogon": {
-                    "type": "string"
+                    "type": [
+                        "string",
+                        "null"
+                    ]
                 }
             },
             "required": [
@@ -329,7 +384,10 @@
             }
         },
         "forms": {
-            "type": "array",
+            "type": [
+                "array",
+                "null"
+            ],
             "items": {
                 "type": "string"
             }
@@ -377,9 +435,11 @@
         "canBeAlpha",
         "debutIn",
         "obtainableIn",
+        "versionExclusiveIn",
         "onlyViaEventIn",
         "storableIn",
         "shinyReleased",
+        "shinyBase",
         "baseStats",
         "goStats",
         "weight",
@@ -442,6 +502,50 @@
                 "bdsp",
                 "la",
                 "sv"
+            ]
+        },
+        "gameId": {
+            "type": "string",
+            "enum": [
+                "rb-r",
+                "rb-b",
+                "y",
+                "gs-g",
+                "gs-s",
+                "c",
+                "rs-r",
+                "rs-s",
+                "frlg-fr",
+                "frlg-lg",
+                "e",
+                "dp-d",
+                "dp-p",
+                "pt",
+                "hgss-hg",
+                "hgss-ss",
+                "bw-b",
+                "bw-w",
+                "b2w2-b2",
+                "b2w2-w2",
+                "xy-x",
+                "xy-y",
+                "oras-or",
+                "oras-as",
+                "go",
+                "sm-s",
+                "sm-m",
+                "usum-us",
+                "usum-um",
+                "lgpe-p",
+                "lgpe-e",
+                "swsh-sw",
+                "swsh-sh",
+                "home",
+                "bdsp-bd",
+                "bdsp-sp",
+                "la",
+                "sv-s",
+                "sv-v"
             ]
         }
     }

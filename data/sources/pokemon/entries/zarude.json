@@ -38,6 +38,7 @@
     "canBeAlpha": false,
     "debutIn": "swsh",
     "obtainableIn": [],
+    "versionExclusiveIn": [],
     "onlyViaEventIn": [
         "go"
     ],
@@ -47,6 +48,7 @@
         "swsh"
     ],
     "shinyReleased": false,
+    "shinyBase": null,
     "baseStats": {
         "hp": -1,
         "atk": -1,

@@ -40,11 +40,13 @@
     "obtainableIn": [
         "sv"
     ],
+    "versionExclusiveIn": [],
     "onlyViaEventIn": [],
     "storableIn": [
         "sv"
     ],
     "shinyReleased": true,
+    "shinyBase": null,
     "baseStats": {
         "hp": -1,
         "atk": -1,

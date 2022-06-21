@@ -42,6 +42,7 @@
         "swsh",
         "usum"
     ],
+    "versionExclusiveIn": [],
     "onlyViaEventIn": [],
     "storableIn": [
         "go",
@@ -50,6 +51,7 @@
         "usum"
     ],
     "shinyReleased": true,
+    "shinyBase": null,
     "baseStats": {
         "hp": -1,
         "atk": -1,

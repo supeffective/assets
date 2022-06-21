@@ -43,6 +43,7 @@
         "swsh",
         "xy"
     ],
+    "versionExclusiveIn": [],
     "onlyViaEventIn": [],
     "storableIn": [
         "go",
@@ -55,6 +56,7 @@
         "xy"
     ],
     "shinyReleased": true,
+    "shinyBase": null,
     "baseStats": {
         "hp": -1,
         "atk": -1,

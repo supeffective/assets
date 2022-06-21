@@ -42,6 +42,7 @@
         "la",
         "xy"
     ],
+    "versionExclusiveIn": [],
     "onlyViaEventIn": [],
     "storableIn": [
         "bdsp",
@@ -52,6 +53,7 @@
         "xy"
     ],
     "shinyReleased": true,
+    "shinyBase": null,
     "baseStats": {
         "hp": -1,
         "atk": -1,

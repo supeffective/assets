@@ -43,6 +43,7 @@
         "usum",
         "go"
     ],
+    "versionExclusiveIn": [],
     "onlyViaEventIn": [],
     "storableIn": [
         "home",
@@ -52,6 +53,7 @@
         "go"
     ],
     "shinyReleased": true,
+    "shinyBase": null,
     "baseStats": {
         "hp": -1,
         "atk": -1,

@@ -38,6 +38,7 @@
     "canBeAlpha": false,
     "debutIn": "sm",
     "obtainableIn": [],
+    "versionExclusiveIn": [],
     "onlyViaEventIn": [
         "sm",
         "swsh",
@@ -50,6 +51,7 @@
         "usum"
     ],
     "shinyReleased": false,
+    "shinyBase": null,
     "baseStats": {
         "hp": -1,
         "atk": -1,

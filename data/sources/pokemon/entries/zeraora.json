@@ -38,6 +38,7 @@
     "canBeAlpha": false,
     "debutIn": "usum",
     "obtainableIn": [],
+    "versionExclusiveIn": [],
     "onlyViaEventIn": [
         "usum",
         "swsh"
@@ -48,6 +49,7 @@
         "usum"
     ],
     "shinyReleased": true,
+    "shinyBase": null,
     "baseStats": {
         "hp": -1,
         "atk": -1,

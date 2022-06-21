@@ -40,6 +40,7 @@
     "obtainableIn": [
         "usum"
     ],
+    "versionExclusiveIn": [],
     "onlyViaEventIn": [
         "sm"
     ],
@@ -50,6 +51,7 @@
         "usum"
     ],
     "shinyReleased": false,
+    "shinyBase": null,
     "baseStats": {
         "hp": -1,
         "atk": -1,

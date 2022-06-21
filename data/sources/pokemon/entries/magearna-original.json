@@ -38,6 +38,7 @@
     "canBeAlpha": false,
     "debutIn": "home",
     "obtainableIn": [],
+    "versionExclusiveIn": [],
     "onlyViaEventIn": [
         "home"
     ],
@@ -48,6 +49,7 @@
         "usum"
     ],
     "shinyReleased": false,
+    "shinyBase": null,
     "baseStats": {
         "hp": -1,
         "atk": -1,

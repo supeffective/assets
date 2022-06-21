@@ -38,9 +38,11 @@
     "canBeAlpha": false,
     "debutIn": "swsh",
     "obtainableIn": [],
+    "versionExclusiveIn": [],
     "onlyViaEventIn": [],
     "storableIn": [],
     "shinyReleased": false,
+    "shinyBase": null,
     "baseStats": {
         "hp": -1,
         "atk": -1,

@@ -55,9 +55,11 @@ require_once __DIR__ . '/_bootstrap.php';
     "canBeAlpha": false,
     "debutIn": "?",
     "obtainableIn": [],
+    "versionExclusiveIn": [],
     "onlyViaEventIn": [],
     "storableIn": ["home"],
     "shinyReleased": false,
+    "shinyBase": null,
     "baseStats": {
         "hp": -1,
         "atk": -1,

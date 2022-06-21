@@ -1,5 +1,7 @@
 <?php
 
+require_once __DIR__ . '/../vendor/autoload.php';
+
 // _bootstrap.php: Base code for all other PHP scripts
 error_reporting(-1);
 
@@ -87,7 +89,7 @@ function sgg_json_minify_file(string $fileName): void
 
 function sgg_json_encode(array $data, bool $minify = true, ?string $outputFile = null): string
 {
-    $jsonFlags = JSON_THROW_ON_ERROR | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE;
+    $jsonFlags = JSON_THROW_ON_ERROR | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_OBJECT_AS_ARRAY;
     if (!$minify) {
         $jsonFlags = JSON_PRETTY_PRINT | JSON_THROW_ON_ERROR | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE;
     }

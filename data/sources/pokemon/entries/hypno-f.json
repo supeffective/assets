@@ -45,6 +45,7 @@
         "rb",
         "y"
     ],
+    "versionExclusiveIn": [],
     "onlyViaEventIn": [],
     "storableIn": [
         "b2w2",
@@ -69,6 +70,7 @@
         "y"
     ],
     "shinyReleased": true,
+    "shinyBase": null,
     "baseStats": {
         "hp": -1,
         "atk": -1,

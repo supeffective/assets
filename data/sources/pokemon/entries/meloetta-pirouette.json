@@ -38,11 +38,13 @@
     "canBeAlpha": false,
     "debutIn": "b2w2",
     "obtainableIn": [],
+    "versionExclusiveIn": [],
     "onlyViaEventIn": [
         "oras"
     ],
     "storableIn": [],
     "shinyReleased": false,
+    "shinyBase": null,
     "baseStats": {
         "hp": -1,
         "atk": -1,
