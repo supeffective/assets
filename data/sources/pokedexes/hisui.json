@@ -4,7 +4,8 @@
         "dexNum": 1,
         "forms": [
             "rowlet"
-        ]
+        ],
+        "optionalForms": []
     },
     {
         "id": "dartrix",
@@ -1716,6 +1717,9 @@
         "forms": [
             "tornadus",
             "tornadus-therian"
+        ],
+        "optionalForms": [
+            "tornadus-therian"
         ]
     },
     {
@@ -1723,6 +1727,9 @@
         "dexNum": 232,
         "forms": [
             "thundurus",
+            "thundurus-therian"
+        ],
+        "optionalForms": [
             "thundurus-therian"
         ]
     },
@@ -1732,6 +1739,9 @@
         "forms": [
             "landorus",
             "landorus-therian"
+        ],
+        "optionalForms": [
+            "landorus-therian"
         ]
     },
     {
@@ -1739,6 +1749,9 @@
         "dexNum": 234,
         "forms": [
             "enamorus",
+            "enamorus-therian"
+        ],
+        "optionalForms": [
             "enamorus-therian"
         ]
     },
@@ -1748,6 +1761,9 @@
         "forms": [
             "dialga",
             "dialga-origin"
+        ],
+        "optionalForms": [
+            "dialga-origin"
         ]
     },
     {
@@ -1755,6 +1771,9 @@
         "dexNum": 236,
         "forms": [
             "palkia",
+            "palkia-origin"
+        ],
+        "optionalForms": [
             "palkia-origin"
         ]
     },
@@ -1764,6 +1783,9 @@
         "forms": [
             "giratina",
             "giratina-origin"
+        ],
+        "optionalForms": [
+            "giratina-origin"
         ]
     },
     {
@@ -1771,6 +1793,26 @@
         "dexNum": 238,
         "forms": [
             "arceus",
+            "arceus-fighting",
+            "arceus-flying",
+            "arceus-poison",
+            "arceus-ground",
+            "arceus-rock",
+            "arceus-bug",
+            "arceus-ghost",
+            "arceus-steel",
+            "arceus-fire",
+            "arceus-water",
+            "arceus-grass",
+            "arceus-electric",
+            "arceus-psychic",
+            "arceus-ice",
+            "arceus-dragon",
+            "arceus-dark",
+            "arceus-fairy",
+            "arceus-legendary"
+        ],
+        "optionalForms": [
             "arceus-fighting",
             "arceus-flying",
             "arceus-poison",
@@ -1810,6 +1852,9 @@
         "dexNum": 241,
         "forms": [
             "shaymin",
+            "shaymin-sky"
+        ],
+        "optionalForms": [
             "shaymin-sky"
         ]
     },
