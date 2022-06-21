@@ -37,7 +37,7 @@ use Swaggest\JsonSchema\Schema;
         }
 
         foreach ($validationErrors as $error => $pokemonIds) {
-            $schemaErrors[] = ">> " .$error . ' << . Affected Pokemon entries: ' . json_encode($pokemonIds) . PHP_EOL;
+            $schemaErrors[] = ">> " . $error . ' << . Affected Pokemon entries: ' . json_encode($pokemonIds) . PHP_EOL;
         }
 
         return $schemaErrors;
@@ -68,6 +68,9 @@ use Swaggest\JsonSchema\Schema;
                 $presetLoc = "'$presetPath.$cellLabel'";
                 if ($pokemon === null) {
                     continue;
+                }
+                if (is_array($pokemon)) {
+                    $pokemon = $pokemon['pid'] ?? null;
                 }
                 $entry = $pokemonById[$pokemon] ?? null;
                 if ($entry === null) {

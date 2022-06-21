@@ -133,25 +133,45 @@ echo $pkm['name']; ?>"
     </div>
 
     <div class="info-3col">
-        <div><p>HP</p><div><span class="size"><?= $pkm['baseStats']['hp'] ?></span></div></div>
-        <div><p>Attack</p><div><span class="size"><?= $pkm['baseStats']['atk'] ?></span></div></div>
-        <div><p>Defense</p><div><span class="size"><?= $pkm['baseStats']['def'] ?></span></div></div>
+        <div><p>HP</p>
+            <div><span class="size"><?= $pkm['baseStats']['hp'] ?></span></div>
+        </div>
+        <div><p>Attack</p>
+            <div><span class="size"><?= $pkm['baseStats']['atk'] ?></span></div>
+        </div>
+        <div><p>Defense</p>
+            <div><span class="size"><?= $pkm['baseStats']['def'] ?></span></div>
+        </div>
     </div>
 
     <div class="info-3col">
-        <div><p>Sp.Att.</p><div><span class="size"><?= $pkm['baseStats']['spa'] ?></span></div></div>
-        <div><p>Sp.Def.</p><div><span class="size"><?= $pkm['baseStats']['spd'] ?></span></div></div>
-        <div><p>Speed</p><div><span class="size"><?= $pkm['baseStats']['spe'] ?></span></div></div>
+        <div><p>Sp.Att.</p>
+            <div><span class="size"><?= $pkm['baseStats']['spa'] ?></span></div>
+        </div>
+        <div><p>Sp.Def.</p>
+            <div><span class="size"><?= $pkm['baseStats']['spd'] ?></span></div>
+        </div>
+        <div><p>Speed</p>
+            <div><span class="size"><?= $pkm['baseStats']['spe'] ?></span></div>
+        </div>
     </div>
 
     <div class="info-2col">
-        <div><p>Max CP</p><div><span class="size"><?= $pkm['goStats']['maxCP'] ?></span></div></div>
-        <div><p>GO Att.</p><div><span class="size"><?= $pkm['goStats']['attack'] ?></span></div></div>
+        <div><p>Max CP</p>
+            <div><span class="size"><?= $pkm['goStats']['maxCP'] ?></span></div>
+        </div>
+        <div><p>GO Att.</p>
+            <div><span class="size"><?= $pkm['goStats']['attack'] ?></span></div>
+        </div>
     </div>
 
     <div class="info-2col">
-        <div><p>GO Def.</p><div><span class="size"><?= $pkm['goStats']['defense'] ?></span></div></div>
-        <div><p>Stamina</p><div><span class="size"><?= $pkm['goStats']['stamina'] ?></span></div></div>
+        <div><p>GO Def.</p>
+            <div><span class="size"><?= $pkm['goStats']['defense'] ?></span></div>
+        </div>
+        <div><p>Stamina</p>
+            <div><span class="size"><?= $pkm['goStats']['stamina'] ?></span></div>
+        </div>
     </div>
 
 
@@ -171,6 +191,16 @@ echo $pkm['name']; ?>"
             <?php
             tpl_partial(
                 'gameset-tags', ['gameSetIds' => $pkm['obtainableIn'], 'gameSets' => $gameSets]
+            ); ?>
+        </div>
+    </div>
+
+    <div class="availability">
+        <div class="exclusive-in">
+            Version-Exclusive In
+            <?php
+            tpl_partial(
+                'gameset-game-tags', ['gameIds' => $pkm['versionExclusiveIn'] ?: [], 'gameSets' => $gameSets]
             ); ?>
         </div>
     </div>

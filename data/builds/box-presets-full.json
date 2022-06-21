@@ -1515,49 +1515,164 @@
                 {
                     "title": "Gigantamax 1",
                     "pokemon": [
-                        "venusaur",
-                        "venusaur-f",
-                        "charizard",
-                        "blastoise",
-                        "butterfree",
-                        "butterfree-f",
-                        "pikachu",
-                        "pikachu-f",
-                        "meowth",
-                        "machamp",
-                        "gengar",
-                        "kingler",
-                        "lapras",
-                        "eevee",
-                        "eevee-f",
-                        "snorlax",
-                        "garbodor",
-                        "melmetal",
-                        "rillaboom",
-                        "cinderace",
-                        "inteleon",
-                        "corviknight",
-                        "orbeetle",
-                        "drednaw",
-                        "coalossal",
-                        "flapple",
-                        "appletun",
-                        "sandaconda",
-                        "toxtricity",
-                        "toxtricity-low-key"
+                        {
+                            "pid": "venusaur",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "venusaur-f",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "charizard",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "blastoise",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "butterfree",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "butterfree-f",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "pikachu",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "pikachu-f",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "meowth",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "machamp",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "gengar",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "kingler",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "lapras",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "eevee",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "eevee-f",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "snorlax",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "garbodor",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "melmetal",
+                            "gmax": true,
+                            "shinyLocked": true
+                        },
+                        {
+                            "pid": "rillaboom",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "cinderace",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "inteleon",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "corviknight",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "orbeetle",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "drednaw",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "coalossal",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "flapple",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "appletun",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "sandaconda",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "toxtricity",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "toxtricity-low-key",
+                            "gmax": true
+                        }
                     ]
                 },
                 {
                     "title": "Gigantamax 2",
                     "pokemon": [
-                        "centiskorch",
-                        "hatterene",
-                        "grimmsnarl",
-                        "alcremie",
-                        "copperajah",
-                        "duraludon",
-                        "urshifu",
-                        "urshifu-rapid-strike"
+                        {
+                            "pid": "centiskorch",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "hatterene",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "grimmsnarl",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "alcremie",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "copperajah",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "duraludon",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "urshifu",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "urshifu-rapid-strike",
+                            "gmax": true
+                        }
                     ]
                 },
                 {
@@ -3124,45 +3239,164 @@
                 {
                     "title": "Gigantamaxable1",
                     "pokemon": [
-                        "venusaur",
-                        "charizard",
-                        "blastoise",
-                        "butterfree",
-                        "pikachu",
-                        "meowth",
-                        "machamp",
-                        "gengar",
-                        "kingler",
-                        "lapras",
-                        "eevee",
-                        "snorlax",
-                        "garbodor",
-                        "melmetal",
-                        "rillaboom",
-                        "cinderace",
-                        "inteleon",
-                        "corviknight",
-                        "orbeetle",
-                        "drednaw",
-                        "coalossal",
-                        "flapple",
-                        "appletun",
-                        "sandaconda",
-                        "toxtricity",
-                        "toxtricity-low-key",
-                        "centiskorch",
-                        "hatterene",
-                        "grimmsnarl",
-                        "alcremie"
+                        {
+                            "pid": "venusaur",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "venusaur-f",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "charizard",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "blastoise",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "butterfree",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "butterfree-f",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "pikachu",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "pikachu-f",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "meowth",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "machamp",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "gengar",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "kingler",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "lapras",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "eevee",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "eevee-f",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "snorlax",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "garbodor",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "melmetal",
+                            "gmax": true,
+                            "shinyLocked": true
+                        },
+                        {
+                            "pid": "rillaboom",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "cinderace",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "inteleon",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "corviknight",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "orbeetle",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "drednaw",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "coalossal",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "flapple",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "appletun",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "sandaconda",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "toxtricity",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "toxtricity-low-key",
+                            "gmax": true
+                        }
                     ]
                 },
                 {
                     "title": "Gigantamaxable2",
                     "pokemon": [
-                        "copperajah",
-                        "duraludon",
-                        "urshifu",
-                        "urshifu-rapid-strike"
+                        {
+                            "pid": "centiskorch",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "hatterene",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "grimmsnarl",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "alcremie",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "copperajah",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "duraludon",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "urshifu",
+                            "gmax": true
+                        },
+                        {
+                            "pid": "urshifu-rapid-strike",
+                            "gmax": true
+                        }
                     ]
                 },
                 {

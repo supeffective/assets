@@ -47,7 +47,7 @@
         "swsh"
     ],
     "shinyReleased": true,
-    "shinyBase": null,
+    "shinyBase": "alcremie",
     "baseStats": {
         "hp": -1,
         "atk": -1,
