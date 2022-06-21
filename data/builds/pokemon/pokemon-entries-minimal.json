@@ -40457,7 +40457,7 @@
             "minior"
         ],
         "shinyReleased": true,
-        "shinyBase": "minior",
+        "shinyBase": null,
         "obtainableIn": [
             "sm",
             "usum"
@@ -40638,7 +40638,7 @@
             "minior-violet"
         ],
         "shinyReleased": true,
-        "shinyBase": null,
+        "shinyBase": "minior-red",
         "obtainableIn": [
             "sm",
             "usum"

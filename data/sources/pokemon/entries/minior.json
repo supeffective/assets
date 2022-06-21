@@ -45,7 +45,7 @@
     "eventOnlyIn": [],
     "storableIn": [],
     "shinyReleased": true,
-    "shinyBase": null,
+    "shinyBase": "minior-red",
     "baseStats": {
         "hp": -1,
         "atk": -1,

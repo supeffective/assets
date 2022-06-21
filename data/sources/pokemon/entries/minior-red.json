@@ -49,7 +49,7 @@
         "usum"
     ],
     "shinyReleased": true,
-    "shinyBase": "minior",
+    "shinyBase": null,
     "baseStats": {
         "hp": -1,
         "atk": -1,
