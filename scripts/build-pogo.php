@@ -19,37 +19,64 @@ require_once __DIR__ . '/_bootstrap.php';
     }
 
     $pogoPokemon = sgg_json_decode_file(__DIR__ . '/../build/pogo/pogo_pokemon.json');
-    $unreleasedPogoPkm = [];
-    $pogoPkmSlugs = [];
-
-    foreach ($pogoPokemon as $pkm) {
-        if ($pkm === null) {
+    $pogoPokemonById = [];
+    foreach ($pogoPokemon as $data) {
+        if ($data === null) {
             continue;
         }
+        $pogoId = $data['pokemonId'] ?? null;
+        $pogoFormId = $data['form'] ?? null;
+        $actualPogoId = $pogoFormId ?? $pogoId;
 
-        $pkId = $pkm['pokemonId'] ?? null;
-        if (!$pkId) {
+        if (!$pogoId || isset($pogoPokemonById[$actualPogoId])) {
             continue;
         }
-        $pkForm = $pkm['form'] ?? null;
-        $pkFormShort = $pkForm ? str_replace($pkId . '_', '', $pkForm) : null;
-
-        $normalizedPkId = strtolower($pkId . ($pkFormShort ? '-' . $pkFormShort : ''));
-        $quickMoves = $pkm['quickMoves'] ?? [];
-        $cinematicMoves = $pkm['cinematicMoves'] ?? [];
-        $struggleSet = ['STRUGGLE'];
-
-        if ($quickMoves === $struggleSet && $cinematicMoves === $struggleSet) {
-            $unreleasedPogoPkm[] = $normalizedPkId;
-            continue;
-        }
-        $pogoPkmSlugs[] = $normalizedPkId;
+        $pogoPokemonById[$actualPogoId] = $data;
     }
 
-    // THIS script needs more polishing, because it is not accurate.
-    print_r($pogoPkmSlugs);
-    echo "\n\n UNRELEASED POKEMON?? :\n";
-    print_r($unreleasedPogoPkm);
+    // Detect megas
+    $megaPokemon = [];
+    foreach ($pogoPokemon as $data) {
+        if ($data === null) {
+            continue;
+        }
+        if (!isset($data['tempEvoOverrides']) || !is_array($data['tempEvoOverrides'])) {
+            continue;
+        }
+        $pogoId = $data['pokemonId'] ?? null;
+        $pogoFormId = $data['form'] ?? null;
+        $actualPogoId = $pogoFormId ?? $pogoId;
+
+        foreach ($data['tempEvoOverrides'] as $tmpEvo) {
+            if (!isset($tmpEvo['tempEvoId'])) {
+                continue;
+            }
+            $megaData = array_merge($data, $tmpEvo);
+            unset($megaData['tempEvoOverrides']);
+            $megaData['form'] = $actualPogoId . str_replace('TEMP_EVOLUTION_', '_', $tmpEvo['tempEvoId']);
+            $megaPokemon[$megaData['form']] = $megaData;
+        }
+    }
+
+    $pogoPokemonById = array_merge($pogoPokemonById, $megaPokemon);
+
+    foreach ($dataSetById as $id => $data) {
+        if ($data['dexNum'] >= 9000) {
+            continue;
+        }
+        if ($data['isGmax']) {
+            continue;
+        }
+        if ($data['refs']['pogo'] === null) {
+            echo "      No POGO entry for $id\n";
+            continue;
+        }
+        $pogoId = $data['refs']['pogo'] ?? '_none_';
+        if (!isset($pogoPokemonById[$pogoId])) {
+            echo "Wrong/Missing POGO ID for pokemon $id . ID was {$pogoId}\n";
+            continue;
+        }
+    }
 
     echo "[OK] Build finished!\n";
 })();
