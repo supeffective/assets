@@ -87,15 +87,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "JELLICENT_F",
-        "veekunDb": "jellicent-f",
+        "pogo": "JELLICENT",
+        "veekunDb": "jellicent",
         "serebii": "jellicent",
         "bulbapedia": "Jellicent",
         "homeSprite": "jellicent-f",
         "miniSprite": "jellicent-f",
-        "showdown": "jellicentf",
-        "showdownDef": "Jellicent-F",
-        "smogon": "jellicent-f"
+        "showdown": "jellicent",
+        "showdownDef": "Jellicent",
+        "smogon": "jellicent"
     },
     "baseSpecies": "jellicent",
     "baseForms": [],

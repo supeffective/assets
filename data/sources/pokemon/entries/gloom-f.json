@@ -102,15 +102,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "GLOOM_F",
-        "veekunDb": "gloom-f",
+        "pogo": "GLOOM",
+        "veekunDb": "gloom",
         "serebii": "gloom",
         "bulbapedia": "Gloom",
         "homeSprite": "gloom-f",
         "miniSprite": "gloom-f",
-        "showdown": "gloomf",
-        "showdownDef": "Gloom-F",
-        "smogon": "gloom-f"
+        "showdown": "gloom",
+        "showdownDef": "Gloom",
+        "smogon": "gloom"
     },
     "baseSpecies": "gloom",
     "baseForms": [],

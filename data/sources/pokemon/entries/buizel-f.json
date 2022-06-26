@@ -92,15 +92,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "BUIZEL_F",
-        "veekunDb": "buizel-f",
+        "pogo": "BUIZEL",
+        "veekunDb": "buizel",
         "serebii": "buizel",
         "bulbapedia": "Buizel",
         "homeSprite": "buizel-f",
         "miniSprite": "buizel-f",
-        "showdown": "buizelf",
-        "showdownDef": "Buizel-F",
-        "smogon": "buizel-f"
+        "showdown": "buizel",
+        "showdownDef": "Buizel",
+        "smogon": "buizel"
     },
     "baseSpecies": "buizel",
     "baseForms": [],

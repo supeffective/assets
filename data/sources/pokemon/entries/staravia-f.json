@@ -92,15 +92,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "STARAVIA_F",
-        "veekunDb": "staravia-f",
+        "pogo": "STARAVIA",
+        "veekunDb": "staravia",
         "serebii": "staravia",
         "bulbapedia": "Staravia",
         "homeSprite": "staravia-f",
         "miniSprite": "staravia-f",
-        "showdown": "staraviaf",
-        "showdownDef": "Staravia-F",
-        "smogon": "staravia-f"
+        "showdown": "staravia",
+        "showdownDef": "Staravia",
+        "smogon": "staravia"
     },
     "baseSpecies": "staravia",
     "baseForms": [],

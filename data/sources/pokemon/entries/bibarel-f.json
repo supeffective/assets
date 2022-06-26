@@ -92,15 +92,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "BIBAREL_F",
-        "veekunDb": "bibarel-f",
+        "pogo": "BIBAREL",
+        "veekunDb": "bibarel",
         "serebii": "bibarel",
         "bulbapedia": "Bibarel",
         "homeSprite": "bibarel-f",
         "miniSprite": "bibarel-f",
-        "showdown": "bibarelf",
-        "showdownDef": "Bibarel-F",
-        "smogon": "bibarel-f"
+        "showdown": "bibarel",
+        "showdownDef": "Bibarel",
+        "smogon": "bibarel"
     },
     "baseSpecies": "bibarel",
     "baseForms": [],

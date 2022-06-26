@@ -92,15 +92,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "KRICKETOT_F",
-        "veekunDb": "kricketot-f",
+        "pogo": "KRICKETOT",
+        "veekunDb": "kricketot",
         "serebii": "kricketot",
         "bulbapedia": "Kricketot",
         "homeSprite": "kricketot-f",
         "miniSprite": "kricketot-f",
-        "showdown": "kricketotf",
-        "showdownDef": "Kricketot-F",
-        "smogon": "kricketot-f"
+        "showdown": "kricketot",
+        "showdownDef": "Kricketot",
+        "smogon": "kricketot"
     },
     "baseSpecies": "kricketot",
     "baseForms": [],

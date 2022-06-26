@@ -96,15 +96,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "HOUNDOOM_F",
-        "veekunDb": "houndoom-f",
+        "pogo": "HOUNDOOM",
+        "veekunDb": "houndoom",
         "serebii": "houndoom",
         "bulbapedia": "Houndoom",
         "homeSprite": "houndoom-f",
         "miniSprite": "houndoom-f",
-        "showdown": "houndoomf",
-        "showdownDef": "Houndoom-F",
-        "smogon": "houndoom-f"
+        "showdown": "houndoom",
+        "showdownDef": "Houndoom",
+        "smogon": "houndoom"
     },
     "baseSpecies": "houndoom",
     "baseForms": [],

@@ -92,15 +92,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "FINNEON_F",
-        "veekunDb": "finneon-f",
+        "pogo": "FINNEON",
+        "veekunDb": "finneon",
         "serebii": "finneon",
         "bulbapedia": "Finneon",
         "homeSprite": "finneon-f",
         "miniSprite": "finneon-f",
-        "showdown": "finneonf",
-        "showdownDef": "Finneon-F",
-        "smogon": "finneon-f"
+        "showdown": "finneon",
+        "showdownDef": "Finneon",
+        "smogon": "finneon"
     },
     "baseSpecies": "finneon",
     "baseForms": [],

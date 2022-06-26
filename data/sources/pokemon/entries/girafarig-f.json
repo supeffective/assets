@@ -96,15 +96,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "GIRAFARIG_F",
-        "veekunDb": "girafarig-f",
+        "pogo": "GIRAFARIG",
+        "veekunDb": "girafarig",
         "serebii": "girafarig",
         "bulbapedia": "Girafarig",
         "homeSprite": "girafarig-f",
         "miniSprite": "girafarig-f",
-        "showdown": "girafarigf",
-        "showdownDef": "Girafarig-F",
-        "smogon": "girafarig-f"
+        "showdown": "girafarig",
+        "showdownDef": "Girafarig",
+        "smogon": "girafarig"
     },
     "baseSpecies": "girafarig",
     "baseForms": [],

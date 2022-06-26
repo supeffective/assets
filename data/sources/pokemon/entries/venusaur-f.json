@@ -102,15 +102,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "VENUSAUR_F",
-        "veekunDb": "venusaur-f",
+        "pogo": "VENUSAUR",
+        "veekunDb": "venusaur",
         "serebii": "venusaur",
         "bulbapedia": "Venusaur",
         "homeSprite": "venusaur-f",
         "miniSprite": "venusaur-f",
-        "showdown": "venusaurf",
-        "showdownDef": "Venusaur-F",
-        "smogon": "venusaur-f"
+        "showdown": "venusaur",
+        "showdownDef": "Venusaur",
+        "smogon": "venusaur"
     },
     "baseSpecies": "venusaur",
     "baseForms": [],

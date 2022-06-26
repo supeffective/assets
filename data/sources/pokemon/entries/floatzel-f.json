@@ -92,15 +92,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "FLOATZEL_F",
-        "veekunDb": "floatzel-f",
+        "pogo": "FLOATZEL",
+        "veekunDb": "floatzel",
         "serebii": "floatzel",
         "bulbapedia": "Floatzel",
         "homeSprite": "floatzel-f",
         "miniSprite": "floatzel-f",
-        "showdown": "floatzelf",
-        "showdownDef": "Floatzel-F",
-        "smogon": "floatzel-f"
+        "showdown": "floatzel",
+        "showdownDef": "Floatzel",
+        "smogon": "floatzel"
     },
     "baseSpecies": "floatzel",
     "baseForms": [],

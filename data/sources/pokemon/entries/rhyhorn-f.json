@@ -104,15 +104,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "RHYHORN_F",
-        "veekunDb": "rhyhorn-f",
+        "pogo": "RHYHORN",
+        "veekunDb": "rhyhorn",
         "serebii": "rhyhorn",
         "bulbapedia": "Rhyhorn",
         "homeSprite": "rhyhorn-f",
         "miniSprite": "rhyhorn-f",
-        "showdown": "rhyhornf",
-        "showdownDef": "Rhyhorn-F",
-        "smogon": "rhyhorn-f"
+        "showdown": "rhyhorn",
+        "showdownDef": "Rhyhorn",
+        "smogon": "rhyhorn"
     },
     "baseSpecies": "rhyhorn",
     "baseForms": [],

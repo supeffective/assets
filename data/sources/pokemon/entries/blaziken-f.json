@@ -96,15 +96,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "BLAZIKEN_F",
-        "veekunDb": "blaziken-f",
+        "pogo": "BLAZIKEN",
+        "veekunDb": "blaziken",
         "serebii": "blaziken",
         "bulbapedia": "Blaziken",
         "homeSprite": "blaziken-f",
         "miniSprite": "blaziken-f",
-        "showdown": "blazikenf",
-        "showdownDef": "Blaziken-F",
-        "smogon": "blaziken-f"
+        "showdown": "blaziken",
+        "showdownDef": "Blaziken",
+        "smogon": "blaziken"
     },
     "baseSpecies": "blaziken",
     "baseForms": [],

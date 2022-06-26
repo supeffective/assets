@@ -104,15 +104,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "SCYTHER_F",
-        "veekunDb": "scyther-f",
+        "pogo": "SCYTHER",
+        "veekunDb": "scyther",
         "serebii": "scyther",
         "bulbapedia": "Scyther",
         "homeSprite": "scyther-f",
         "miniSprite": "scyther-f",
-        "showdown": "scytherf",
-        "showdownDef": "Scyther-F",
-        "smogon": "scyther-f"
+        "showdown": "scyther",
+        "showdownDef": "Scyther",
+        "smogon": "scyther"
     },
     "baseSpecies": "scyther",
     "baseForms": [],

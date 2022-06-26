@@ -104,15 +104,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "RAICHU_F",
-        "veekunDb": "raichu-f",
+        "pogo": "RAICHU",
+        "veekunDb": "raichu",
         "serebii": "raichu",
         "bulbapedia": "Raichu",
         "homeSprite": "raichu-f",
         "miniSprite": "raichu-f",
-        "showdown": "raichuf",
-        "showdownDef": "Raichu-F",
-        "smogon": "raichu-f"
+        "showdown": "raichu",
+        "showdownDef": "Raichu",
+        "smogon": "raichu"
     },
     "baseSpecies": "raichu",
     "baseForms": [],

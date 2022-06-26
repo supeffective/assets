@@ -77,14 +77,14 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": null,
+        "pogo": "AVALUGG_HISUIAN",
         "veekunDb": null,
         "serebii": "avalugg",
-        "bulbapedia": null,
+        "bulbapedia": "Avalugg",
         "homeSprite": "avalugg-hisui",
         "miniSprite": "avalugg-hisui",
-        "showdown": null,
-        "showdownDef": null,
+        "showdown": "avalugghisui",
+        "showdownDef": "Avalugg-Hisui",
         "smogon": "avalugg-hisui"
     },
     "baseSpecies": "avalugg",

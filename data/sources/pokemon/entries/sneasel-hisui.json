@@ -77,14 +77,14 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": null,
+        "pogo": "SNEASEL_HISUIAN",
         "veekunDb": null,
         "serebii": "sneasel",
-        "bulbapedia": null,
+        "bulbapedia": "Sneasel",
         "homeSprite": "sneasel-hisui",
         "miniSprite": "sneasel-hisui",
-        "showdown": null,
-        "showdownDef": null,
+        "showdown": "sneaselhisui",
+        "showdownDef": "Sneasel-Hisui",
         "smogon": "sneasel-hisui"
     },
     "baseSpecies": "sneasel",

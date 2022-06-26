@@ -100,15 +100,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "DODRIO_F",
-        "veekunDb": "dodrio-f",
+        "pogo": "DODRIO",
+        "veekunDb": "dodrio",
         "serebii": "dodrio",
         "bulbapedia": "Dodrio",
         "homeSprite": "dodrio-f",
         "miniSprite": "dodrio-f",
-        "showdown": "dodriof",
-        "showdownDef": "Dodrio-F",
-        "smogon": "dodrio-f"
+        "showdown": "dodrio",
+        "showdownDef": "Dodrio",
+        "smogon": "dodrio"
     },
     "baseSpecies": "dodrio",
     "baseForms": [],

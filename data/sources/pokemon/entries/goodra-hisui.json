@@ -77,14 +77,14 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": null,
+        "pogo": "GOODRA_HISUIAN",
         "veekunDb": null,
         "serebii": "goodra",
-        "bulbapedia": null,
+        "bulbapedia": "Goodra",
         "homeSprite": "goodra-hisui",
         "miniSprite": "goodra-hisui",
-        "showdown": null,
-        "showdownDef": null,
+        "showdown": "goodrahisui",
+        "showdownDef": "Goodra-Hisui",
         "smogon": "goodra-hisui"
     },
     "baseSpecies": "goodra",

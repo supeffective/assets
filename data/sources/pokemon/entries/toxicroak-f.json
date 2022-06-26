@@ -94,15 +94,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "TOXICROAK_F",
-        "veekunDb": "toxicroak-f",
+        "pogo": "TOXICROAK",
+        "veekunDb": "toxicroak",
         "serebii": "toxicroak",
         "bulbapedia": "Toxicroak",
         "homeSprite": "toxicroak-f",
         "miniSprite": "toxicroak-f",
-        "showdown": "toxicroakf",
-        "showdownDef": "Toxicroak-F",
-        "smogon": "toxicroak-f"
+        "showdown": "toxicroak",
+        "showdownDef": "Toxicroak",
+        "smogon": "toxicroak"
     },
     "baseSpecies": "toxicroak",
     "baseForms": [],

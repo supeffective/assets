@@ -96,15 +96,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "MEGANIUM_F",
-        "veekunDb": "meganium-f",
+        "pogo": "MEGANIUM",
+        "veekunDb": "meganium",
         "serebii": "meganium",
         "bulbapedia": "Meganium",
         "homeSprite": "meganium-f",
         "miniSprite": "meganium-f",
-        "showdown": "meganiumf",
-        "showdownDef": "Meganium-F",
-        "smogon": "meganium-f"
+        "showdown": "meganium",
+        "showdownDef": "Meganium",
+        "smogon": "meganium"
     },
     "baseSpecies": "meganium",
     "baseForms": [],

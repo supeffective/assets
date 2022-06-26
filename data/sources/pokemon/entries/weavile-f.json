@@ -94,15 +94,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "WEAVILE_F",
-        "veekunDb": "weavile-f",
+        "pogo": "WEAVILE",
+        "veekunDb": "weavile",
         "serebii": "weavile",
         "bulbapedia": "Weavile",
         "homeSprite": "weavile-f",
         "miniSprite": "weavile-f",
-        "showdown": "weavilef",
-        "showdownDef": "Weavile-F",
-        "smogon": "weavile-f"
+        "showdown": "weavile",
+        "showdownDef": "Weavile",
+        "smogon": "weavile"
     },
     "baseSpecies": "weavile",
     "baseForms": [],

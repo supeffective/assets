@@ -76,14 +76,14 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": null,
+        "pogo": "DIALGA_ORIGIN",
         "veekunDb": null,
         "serebii": "dialga",
-        "bulbapedia": null,
+        "bulbapedia": "Dialga",
         "homeSprite": "dialga-origin",
         "miniSprite": "dialga-origin",
-        "showdown": null,
-        "showdownDef": null,
+        "showdown": "dialgaorigin",
+        "showdownDef":"Dialga-Origin",
         "smogon": "dialga-origin"
     },
     "baseSpecies": "dialga",

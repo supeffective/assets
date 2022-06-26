@@ -98,15 +98,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "MURKROW_F",
-        "veekunDb": "murkrow-f",
+        "pogo": "MURKROW",
+        "veekunDb": "murkrow",
         "serebii": "murkrow",
         "bulbapedia": "Murkrow",
         "homeSprite": "murkrow-f",
         "miniSprite": "murkrow-f",
-        "showdown": "murkrowf",
-        "showdownDef": "Murkrow-F",
-        "smogon": "murkrow-f"
+        "showdown": "murkrow",
+        "showdownDef": "Murkrow",
+        "smogon": "murkrow"
     },
     "baseSpecies": "murkrow",
     "baseForms": [],

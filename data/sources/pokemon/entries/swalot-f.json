@@ -94,15 +94,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "SWALOT_F",
-        "veekunDb": "swalot-f",
+        "pogo": "SWALOT",
+        "veekunDb": "swalot",
         "serebii": "swalot",
         "bulbapedia": "Swalot",
         "homeSprite": "swalot-f",
         "miniSprite": "swalot-f",
-        "showdown": "swalotf",
-        "showdownDef": "Swalot-F",
-        "smogon": "swalot-f"
+        "showdown": "swalot",
+        "showdownDef": "Swalot",
+        "smogon": "swalot"
     },
     "baseSpecies": "swalot",
     "baseForms": [],

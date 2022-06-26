@@ -104,15 +104,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "EEVEE_F",
-        "veekunDb": "eevee-f",
+        "pogo": "EEVEE",
+        "veekunDb": "eevee",
         "serebii": "eevee",
         "bulbapedia": "Eevee",
         "homeSprite": "eevee-f",
         "miniSprite": "eevee-f",
-        "showdown": "eeveef",
-        "showdownDef": "Eevee-F",
-        "smogon": "eevee-f"
+        "showdown": "eevee",
+        "showdownDef": "Eevee",
+        "smogon": "eevee"
     },
     "baseSpecies": "eevee",
     "baseForms": [],

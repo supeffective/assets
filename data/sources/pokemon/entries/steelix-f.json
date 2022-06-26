@@ -100,15 +100,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "STEELIX_F",
-        "veekunDb": "steelix-f",
+        "pogo": "STEELIX",
+        "veekunDb": "steelix",
         "serebii": "steelix",
         "bulbapedia": "Steelix",
         "homeSprite": "steelix-f",
         "miniSprite": "steelix-f",
-        "showdown": "steelixf",
-        "showdownDef": "Steelix-F",
-        "smogon": "steelix-f"
+        "showdown": "steelix",
+        "showdownDef": "Steelix",
+        "smogon": "steelix"
     },
     "baseSpecies": "steelix",
     "baseForms": [],

@@ -94,15 +94,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "RHYPERIOR_F",
-        "veekunDb": "rhyperior-f",
+        "pogo": "RHYPERIOR",
+        "veekunDb": "rhyperior",
         "serebii": "rhyperior",
         "bulbapedia": "Rhyperior",
         "homeSprite": "rhyperior-f",
         "miniSprite": "rhyperior-f",
-        "showdown": "rhyperiorf",
-        "showdownDef": "Rhyperior-F",
-        "smogon": "rhyperior-f"
+        "showdown": "rhyperior",
+        "showdownDef": "Rhyperior",
+        "smogon": "rhyperior"
     },
     "baseSpecies": "rhyperior",
     "baseForms": [],

@@ -96,15 +96,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "SHIFTRY_F",
-        "veekunDb": "shiftry-f",
+        "pogo": "SHIFTRY",
+        "veekunDb": "shiftry",
         "serebii": "shiftry",
         "bulbapedia": "Shiftry",
         "homeSprite": "shiftry-f",
         "miniSprite": "shiftry-f",
-        "showdown": "shiftryf",
-        "showdownDef": "Shiftry-F",
-        "smogon": "shiftry-f"
+        "showdown": "shiftry",
+        "showdownDef": "Shiftry",
+        "smogon": "shiftry"
     },
     "baseSpecies": "shiftry",
     "baseForms": [],

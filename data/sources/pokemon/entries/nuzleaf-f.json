@@ -96,15 +96,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "NUZLEAF_F",
-        "veekunDb": "nuzleaf-f",
+        "pogo": "NUZLEAF",
+        "veekunDb": "nuzleaf",
         "serebii": "nuzleaf",
         "bulbapedia": "Nuzleaf",
         "homeSprite": "nuzleaf-f",
         "miniSprite": "nuzleaf-f",
-        "showdown": "nuzleaff",
-        "showdownDef": "Nuzleaf-F",
-        "smogon": "nuzleaf-f"
+        "showdown": "nuzleaf",
+        "showdownDef": "Nuzleaf",
+        "smogon": "nuzleaf"
     },
     "baseSpecies": "nuzleaf",
     "baseForms": [],

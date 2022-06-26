@@ -100,15 +100,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "HYPNO_F",
-        "veekunDb": "hypno-f",
+        "pogo": "HYPNO",
+        "veekunDb": "hypno",
         "serebii": "hypno",
         "bulbapedia": "Hypno",
         "homeSprite": "hypno-f",
         "miniSprite": "hypno-f",
-        "showdown": "hypnof",
-        "showdownDef": "Hypno-F",
-        "smogon": "hypno-f"
+        "showdown": "hypno",
+        "showdownDef": "Hypno",
+        "smogon": "hypno"
     },
     "baseSpecies": "hypno",
     "baseForms": [],

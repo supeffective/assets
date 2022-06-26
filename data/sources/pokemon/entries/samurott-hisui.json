@@ -77,14 +77,14 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": null,
+        "pogo": "SAMUROTT_HISUIAN",
         "veekunDb": null,
         "serebii": "samurott",
-        "bulbapedia": null,
+        "bulbapedia": "Samurott",
         "homeSprite": "samurott-hisui",
         "miniSprite": "samurott-hisui",
-        "showdown": null,
-        "showdownDef": null,
+        "showdown": "samurotthisui",
+        "showdownDef": "Samurott-Hisui",
         "smogon": "samurott-hisui"
     },
     "baseSpecies": "samurott",

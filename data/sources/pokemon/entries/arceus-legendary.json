@@ -76,15 +76,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "ARCEUS_LEGENDARY",
-        "veekunDb": "arceus-legendary",
+        "pogo": "ARCEUS",
+        "veekunDb": "arceus",
         "serebii": "arceus",
         "bulbapedia": "Arceus",
-        "homeSprite": "arceus-legendary",
-        "miniSprite": "arceus-legendary",
-        "showdown": "arceuslegendary",
-        "showdownDef": "Arceus-Legendary",
-        "smogon": "arceus-legendary"
+        "homeSprite": "arceus",
+        "miniSprite": "arceus",
+        "showdown": "arceus",
+        "showdownDef": "Arceus",
+        "smogon": "arceus"
     },
     "baseSpecies": "arceus",
     "baseForms": [

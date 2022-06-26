@@ -100,15 +100,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "HERACROSS_F",
-        "veekunDb": "heracross-f",
+        "pogo": "HERACROSS",
+        "veekunDb": "heracross",
         "serebii": "heracross",
         "bulbapedia": "Heracross",
         "homeSprite": "heracross-f",
         "miniSprite": "heracross-f",
-        "showdown": "heracrossf",
-        "showdownDef": "Heracross-F",
-        "smogon": "heracross-f"
+        "showdown": "heracross",
+        "showdownDef": "Heracross",
+        "smogon": "heracross"
     },
     "baseSpecies": "heracross",
     "baseForms": [],

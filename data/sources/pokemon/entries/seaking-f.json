@@ -102,15 +102,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "SEAKING_F",
-        "veekunDb": "seaking-f",
+        "pogo": "SEAKING",
+        "veekunDb": "seaking",
         "serebii": "seaking",
         "bulbapedia": "Seaking",
         "homeSprite": "seaking-f",
         "miniSprite": "seaking-f",
-        "showdown": "seakingf",
-        "showdownDef": "Seaking-F",
-        "smogon": "seaking-f"
+        "showdown": "seaking",
+        "showdownDef": "Seaking",
+        "smogon": "seaking"
     },
     "baseSpecies": "seaking",
     "baseForms": [],

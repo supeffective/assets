@@ -79,14 +79,14 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": null,
+        "pogo": "ELECTRODE_HISUIAN",
         "veekunDb": null,
         "serebii": "electrode",
-        "bulbapedia": null,
+        "bulbapedia": "Electrode",
         "homeSprite": "electrode-hisui",
         "miniSprite": "electrode-hisui",
-        "showdown": null,
-        "showdownDef": null,
+        "showdown": "electrodehisui",
+        "showdownDef": "Electrode-Hisui",
         "smogon": "electrode-hisui"
     },
     "baseSpecies": "electrode",

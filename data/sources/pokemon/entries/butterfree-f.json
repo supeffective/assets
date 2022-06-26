@@ -102,15 +102,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "BUTTERFREE_F",
-        "veekunDb": "butterfree-f",
+        "pogo": "BUTTERFREE",
+        "veekunDb": "butterfree",
         "serebii": "butterfree",
         "bulbapedia": "Butterfree",
         "homeSprite": "butterfree-f",
         "miniSprite": "butterfree-f",
-        "showdown": "butterfreef",
-        "showdownDef": "Butterfree-F",
-        "smogon": "butterfree-f"
+        "showdown": "butterfree",
+        "showdownDef": "Butterfree",
+        "smogon": "butterfree"
     },
     "baseSpecies": "butterfree",
     "baseForms": [],

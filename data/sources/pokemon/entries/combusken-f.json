@@ -96,15 +96,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "COMBUSKEN_F",
-        "veekunDb": "combusken-f",
+        "pogo": "COMBUSKEN",
+        "veekunDb": "combusken",
         "serebii": "combusken",
         "bulbapedia": "Combusken",
         "homeSprite": "combusken-f",
         "miniSprite": "combusken-f",
-        "showdown": "combuskenf",
-        "showdownDef": "Combusken-F",
-        "smogon": "combusken-f"
+        "showdown": "combusken",
+        "showdownDef": "Combusken",
+        "smogon": "combusken"
     },
     "baseSpecies": "combusken",
     "baseForms": [],

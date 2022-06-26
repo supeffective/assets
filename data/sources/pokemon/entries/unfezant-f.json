@@ -87,15 +87,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "UNFEZANT_F",
-        "veekunDb": "unfezant-f",
+        "pogo": "UNFEZANT",
+        "veekunDb": "unfezant",
         "serebii": "unfezant",
         "bulbapedia": "Unfezant",
         "homeSprite": "unfezant-f",
         "miniSprite": "unfezant-f",
-        "showdown": "unfezantf",
-        "showdownDef": "Unfezant-F",
-        "smogon": "unfezant-f"
+        "showdown": "unfezant",
+        "showdownDef": "Unfezant",
+        "smogon": "unfezant"
     },
     "baseSpecies": "unfezant",
     "baseForms": [],

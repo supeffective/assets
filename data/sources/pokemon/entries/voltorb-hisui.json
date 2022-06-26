@@ -79,14 +79,14 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": null,
+        "pogo": "VOLTORB_HISUIAN",
         "veekunDb": null,
         "serebii": "voltorb",
-        "bulbapedia": null,
+        "bulbapedia": "Voltorb",
         "homeSprite": "voltorb-hisui",
         "miniSprite": "voltorb-hisui",
-        "showdown": null,
-        "showdownDef": null,
+        "showdown": "voltorbhisui",
+        "showdownDef": "Voltorb-Hisui",
         "smogon": "voltorb-hisui"
     },
     "baseSpecies": "voltorb",

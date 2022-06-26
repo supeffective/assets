@@ -92,15 +92,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "PACHIRISU_F",
-        "veekunDb": "pachirisu-f",
+        "pogo": "PACHIRISU",
+        "veekunDb": "pachirisu",
         "serebii": "pachirisu",
         "bulbapedia": "Pachirisu",
         "homeSprite": "pachirisu-f",
         "miniSprite": "pachirisu-f",
-        "showdown": "pachirisuf",
-        "showdownDef": "Pachirisu-F",
-        "smogon": "pachirisu-f"
+        "showdown": "pachirisu",
+        "showdownDef": "Pachirisu",
+        "smogon": "pachirisu"
     },
     "baseSpecies": "pachirisu",
     "baseForms": [],

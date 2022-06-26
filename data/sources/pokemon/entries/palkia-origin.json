@@ -76,14 +76,14 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": null,
+        "pogo": "PALKIA_ORIGIN",
         "veekunDb": null,
         "serebii": "palkia",
-        "bulbapedia": null,
+        "bulbapedia": "Palkia",
         "homeSprite": "palkia-origin",
         "miniSprite": "palkia-origin",
-        "showdown": null,
-        "showdownDef": null,
+        "showdown": "palkiaorigin",
+        "showdownDef": "Palkia-Origin",
         "smogon": "palkia-origin"
     },
     "baseSpecies": "palkia",

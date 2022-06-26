@@ -77,14 +77,14 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": null,
+        "pogo": "GROWLITHE_HISUIAN",
         "veekunDb": null,
         "serebii": "growlithe",
-        "bulbapedia": null,
+        "bulbapedia": "Growlithe",
         "homeSprite": "growlithe-hisui",
         "miniSprite": "growlithe-hisui",
-        "showdown": null,
-        "showdownDef": null,
+        "showdown": "growlithehisui",
+        "showdownDef": "Growlithe-Hisui",
         "smogon": "growlithe-hisui"
     },
     "baseSpecies": "growlithe",

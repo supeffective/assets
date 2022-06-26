@@ -94,15 +94,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "GARCHOMP_F",
-        "veekunDb": "garchomp-f",
+        "pogo": "GARCHOMP",
+        "veekunDb": "garchomp",
         "serebii": "garchomp",
         "bulbapedia": "Garchomp",
         "homeSprite": "garchomp-f",
         "miniSprite": "garchomp-f",
-        "showdown": "garchompf",
-        "showdownDef": "Garchomp-F",
-        "smogon": "garchomp-f"
+        "showdown": "garchomp",
+        "showdownDef": "Garchomp",
+        "smogon": "garchomp"
     },
     "baseSpecies": "garchomp",
     "baseForms": [],

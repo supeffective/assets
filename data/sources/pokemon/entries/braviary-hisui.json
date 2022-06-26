@@ -77,14 +77,14 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": null,
+        "pogo": "BRAVIARY_HISUIAN",
         "veekunDb": null,
         "serebii": "braviary",
-        "bulbapedia": null,
+        "bulbapedia": "Braviary",
         "homeSprite": "braviary-hisui",
         "miniSprite": "braviary-hisui",
-        "showdown": null,
-        "showdownDef": null,
+        "showdown": "braviaryhisui",
+        "showdownDef": "Braviary-Hisui",
         "smogon": "braviary-hisui"
     },
     "baseSpecies": "braviary",

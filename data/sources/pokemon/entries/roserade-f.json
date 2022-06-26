@@ -94,15 +94,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "ROSERADE_F",
-        "veekunDb": "roserade-f",
+        "pogo": "ROSERADE",
+        "veekunDb": "roserade",
         "serebii": "roserade",
         "bulbapedia": "Roserade",
         "homeSprite": "roserade-f",
         "miniSprite": "roserade-f",
-        "showdown": "roseradef",
-        "showdownDef": "Roserade-F",
-        "smogon": "roserade-f"
+        "showdown": "roserade",
+        "showdownDef": "Roserade",
+        "smogon": "roserade"
     },
     "baseSpecies": "roserade",
     "baseForms": [],

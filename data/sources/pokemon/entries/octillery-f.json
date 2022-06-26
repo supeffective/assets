@@ -100,15 +100,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "OCTILLERY_F",
-        "veekunDb": "octillery-f",
+        "pogo": "OCTILLERY",
+        "veekunDb": "octillery",
         "serebii": "octillery",
         "bulbapedia": "Octillery",
         "homeSprite": "octillery-f",
         "miniSprite": "octillery-f",
-        "showdown": "octilleryf",
-        "showdownDef": "Octillery-F",
-        "smogon": "octillery-f"
+        "showdown": "octillery",
+        "showdownDef": "Octillery",
+        "smogon": "octillery"
     },
     "baseSpecies": "octillery",
     "baseForms": [],

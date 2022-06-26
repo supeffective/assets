@@ -98,15 +98,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "AIPOM_F",
-        "veekunDb": "aipom-f",
+        "pogo": "AIPOM",
+        "veekunDb": "aipom",
         "serebii": "aipom",
         "bulbapedia": "Aipom",
         "homeSprite": "aipom-f",
         "miniSprite": "aipom-f",
-        "showdown": "aipomf",
-        "showdownDef": "Aipom-F",
-        "smogon": "aipom-f"
+        "showdown": "aipom",
+        "showdownDef": "Aipom",
+        "smogon": "aipom"
     },
     "baseSpecies": "aipom",
     "baseForms": [],

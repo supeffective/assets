@@ -94,15 +94,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "TANGROWTH_F",
-        "veekunDb": "tangrowth-f",
+        "pogo": "TANGROWTH",
+        "veekunDb": "tangrowth",
         "serebii": "tangrowth",
         "bulbapedia": "Tangrowth",
         "homeSprite": "tangrowth-f",
         "miniSprite": "tangrowth-f",
-        "showdown": "tangrowthf",
-        "showdownDef": "Tangrowth-F",
-        "smogon": "tangrowth-f"
+        "showdown": "tangrowth",
+        "showdownDef": "Tangrowth",
+        "smogon": "tangrowth"
     },
     "baseSpecies": "tangrowth",
     "baseForms": [],

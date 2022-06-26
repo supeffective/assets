@@ -77,14 +77,14 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": null,
+        "pogo": "QWILFISH_HISUIAN",
         "veekunDb": null,
         "serebii": "qwilfish",
-        "bulbapedia": null,
+        "bulbapedia": "Qwilfish",
         "homeSprite": "qwilfish-hisui",
         "miniSprite": "qwilfish-hisui",
-        "showdown": null,
-        "showdownDef": null,
+        "showdown": "qwilfishhisui",
+        "showdownDef": "Qwilfish-Hisui",
         "smogon": "qwilfish-hisui"
     },
     "baseSpecies": "qwilfish",

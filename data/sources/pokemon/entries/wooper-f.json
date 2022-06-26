@@ -98,15 +98,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "WOOPER_F",
-        "veekunDb": "wooper-f",
+        "pogo": "WOOPER",
+        "veekunDb": "wooper",
         "serebii": "wooper",
         "bulbapedia": "Wooper",
         "homeSprite": "wooper-f",
         "miniSprite": "wooper-f",
-        "showdown": "wooperf",
-        "showdownDef": "Wooper-F",
-        "smogon": "wooper-f"
+        "showdown": "wooper",
+        "showdownDef": "Wooper",
+        "smogon": "wooper"
     },
     "baseSpecies": "wooper",
     "baseForms": [],

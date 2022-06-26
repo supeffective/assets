@@ -96,15 +96,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "BEAUTIFLY_F",
-        "veekunDb": "beautifly-f",
+        "pogo": "BEAUTIFLY",
+        "veekunDb": "beautifly",
         "serebii": "beautifly",
         "bulbapedia": "Beautifly",
         "homeSprite": "beautifly-f",
         "miniSprite": "beautifly-f",
-        "showdown": "beautiflyf",
-        "showdownDef": "Beautifly-F",
-        "smogon": "beautifly-f"
+        "showdown": "beautifly",
+        "showdownDef": "Beautifly",
+        "smogon": "beautifly"
     },
     "baseSpecies": "beautifly",
     "baseForms": [],

@@ -104,15 +104,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "PIKACHU_F",
-        "veekunDb": "pikachu-f",
+        "pogo": "PIKACHU",
+        "veekunDb": "pikachu",
         "serebii": "pikachu",
         "bulbapedia": "Pikachu",
         "homeSprite": "pikachu-f",
         "miniSprite": "pikachu-f",
-        "showdown": "pikachuf",
-        "showdownDef": "Pikachu-F",
-        "smogon": "pikachu-f"
+        "showdown": "pikachu",
+        "showdownDef": "Pikachu",
+        "smogon": "pikachu"
     },
     "baseSpecies": "pikachu",
     "baseForms": [],

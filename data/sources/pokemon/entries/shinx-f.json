@@ -94,15 +94,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "SHINX_F",
-        "veekunDb": "shinx-f",
+        "pogo": "SHINX",
+        "veekunDb": "shinx",
         "serebii": "shinx",
         "bulbapedia": "Shinx",
         "homeSprite": "shinx-f",
         "miniSprite": "shinx-f",
-        "showdown": "shinxf",
-        "showdownDef": "Shinx-F",
-        "smogon": "shinx-f"
+        "showdown": "shinx",
+        "showdownDef": "Shinx",
+        "smogon": "shinx-"
     },
     "baseSpecies": "shinx",
     "baseForms": [],

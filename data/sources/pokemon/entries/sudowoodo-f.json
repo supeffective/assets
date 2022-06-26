@@ -100,15 +100,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "SUDOWOODO_F",
-        "veekunDb": "sudowoodo-f",
+        "pogo": "SUDOWOODO",
+        "veekunDb": "sudowoodo",
         "serebii": "sudowoodo",
         "bulbapedia": "Sudowoodo",
         "homeSprite": "sudowoodo-f",
         "miniSprite": "sudowoodo-f",
-        "showdown": "sudowoodof",
-        "showdownDef": "Sudowoodo-F",
-        "smogon": "sudowoodo-f"
+        "showdown": "sudowoodo",
+        "showdownDef": "Sudowoodo",
+        "smogon": "sudowoodo"
     },
     "baseSpecies": "sudowoodo",
     "baseForms": [],

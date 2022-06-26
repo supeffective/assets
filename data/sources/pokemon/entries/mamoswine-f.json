@@ -94,15 +94,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "MAMOSWINE_F",
-        "veekunDb": "mamoswine-f",
+        "pogo": "MAMOSWINE",
+        "veekunDb": "mamoswine",
         "serebii": "mamoswine",
         "bulbapedia": "Mamoswine",
         "homeSprite": "mamoswine-f",
         "miniSprite": "mamoswine-f",
-        "showdown": "mamoswinef",
-        "showdownDef": "Mamoswine-F",
-        "smogon": "mamoswine-f"
+        "showdown": "mamoswine",
+        "showdownDef": "Mamoswine",
+        "smogon": "mamoswine"
     },
     "baseSpecies": "mamoswine",
     "baseForms": [],

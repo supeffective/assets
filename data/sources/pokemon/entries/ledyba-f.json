@@ -96,15 +96,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "LEDYBA_F",
-        "veekunDb": "ledyba-f",
+        "pogo": "LEDYBA",
+        "veekunDb": "ledyba",
         "serebii": "ledyba",
         "bulbapedia": "Ledyba",
         "homeSprite": "ledyba-f",
         "miniSprite": "ledyba-f",
-        "showdown": "ledybaf",
-        "showdownDef": "Ledyba-F",
-        "smogon": "ledyba-f"
+        "showdown": "ledyba",
+        "showdownDef": "Ledyba",
+        "smogon": "ledyba"
     },
     "baseSpecies": "ledyba",
     "baseForms": [],

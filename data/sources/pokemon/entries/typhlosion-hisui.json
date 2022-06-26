@@ -77,14 +77,14 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": null,
+        "pogo": "TYPHLOSION_HISUIAN",
         "veekunDb": null,
         "serebii": "typhlosion",
-        "bulbapedia": null,
+        "bulbapedia": "Typhlosion",
         "homeSprite": "typhlosion-hisui",
         "miniSprite": "typhlosion-hisui",
-        "showdown": null,
-        "showdownDef": null,
+        "showdown": "typhlosionhisui",
+        "showdownDef": "Typhlosion-Hisui",
         "smogon": "typhlosion-hisui"
     },
     "baseSpecies": "typhlosion",

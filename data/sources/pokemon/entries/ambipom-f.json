@@ -92,15 +92,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "AMBIPOM_F",
-        "veekunDb": "ambipom-f",
+        "pogo": "AMBIPOM",
+        "veekunDb": "ambipom",
         "serebii": "ambipom",
         "bulbapedia": "Ambipom",
         "homeSprite": "ambipom-f",
         "miniSprite": "ambipom-f",
-        "showdown": "ambipomf",
-        "showdownDef": "Ambipom-F",
-        "smogon": "ambipom-f"
+        "showdown": "ambipom",
+        "showdownDef": "Ambipom",
+        "smogon": "ambipom"
     },
     "baseSpecies": "ambipom",
     "baseForms": [],

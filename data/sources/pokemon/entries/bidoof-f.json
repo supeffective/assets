@@ -92,15 +92,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "BIDOOF_F",
-        "veekunDb": "bidoof-f",
+        "pogo": "BIDOOF",
+        "veekunDb": "bidoof",
         "serebii": "bidoof",
         "bulbapedia": "Bidoof",
         "homeSprite": "bidoof-f",
         "miniSprite": "bidoof-f",
-        "showdown": "bidooff",
-        "showdownDef": "Bidoof-F",
-        "smogon": "bidoof-f"
+        "showdown": "bidoof",
+        "showdownDef": "Bidoof",
+        "smogon": "bidoof"
     },
     "baseSpecies": "bidoof",
     "baseForms": [],

@@ -98,15 +98,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "UNOWN_F",
-        "veekunDb": "unown-f",
+        "pogo": "UNOWN",
+        "veekunDb": "unown",
         "serebii": "unown",
         "bulbapedia": "Unown",
         "homeSprite": "unown-f",
         "miniSprite": "unown-f",
-        "showdown": "unownf",
-        "showdownDef": "Unown-F",
-        "smogon": "unown-f"
+        "showdown": "unown",
+        "showdownDef": "Unown",
+        "smogon": "unown"
     },
     "baseSpecies": "unown",
     "baseForms": [],

@@ -100,15 +100,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "SCIZOR_F",
-        "veekunDb": "scizor-f",
+        "pogo": "SCIZOR",
+        "veekunDb": "scizor",
         "serebii": "scizor",
         "bulbapedia": "Scizor",
         "homeSprite": "scizor-f",
         "miniSprite": "scizor-f",
-        "showdown": "scizorf",
-        "showdownDef": "Scizor-F",
-        "smogon": "scizor-f"
+        "showdown": "scizor",
+        "showdownDef": "Scizor",
+        "smogon": "scizor"
     },
     "baseSpecies": "scizor",
     "baseForms": [],

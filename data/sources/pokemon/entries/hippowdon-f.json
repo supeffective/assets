@@ -94,15 +94,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "HIPPOWDON_F",
-        "veekunDb": "hippowdon-f",
+        "pogo": "HIPPOWDON",
+        "veekunDb": "hippowdon",
         "serebii": "hippowdon",
         "bulbapedia": "Hippowdon",
         "homeSprite": "hippowdon-f",
         "miniSprite": "hippowdon-f",
-        "showdown": "hippowdonf",
-        "showdownDef": "Hippowdon-F",
-        "smogon": "hippowdon-f"
+        "showdown": "hippowdon",
+        "showdownDef": "Hippowdon",
+        "smogon": "hippowdon"
     },
     "baseSpecies": "hippowdon",
     "baseForms": [],

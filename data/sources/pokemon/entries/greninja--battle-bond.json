@@ -80,15 +80,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "GRENINJA_BATTLE_BOND",
-        "veekunDb": "greninja-battle-bond",
+        "pogo": "GRENINJA",
+        "veekunDb": "greninja",
         "serebii": "greninja",
         "bulbapedia": "Greninja",
-        "homeSprite": "greninja--battle-bond",
-        "miniSprite": "greninja--battle-bond",
-        "showdown": "greninjabattlebond",
-        "showdownDef": "Greninja-Battle-Bond",
-        "smogon": "greninja--battle-bond"
+        "homeSprite": "greninja",
+        "miniSprite": "greninja",
+        "showdown": "greninja",
+        "showdownDef": "Greninja",
+        "smogon": "greninja"
     },
     "baseSpecies": "greninja",
     "baseForms": [],

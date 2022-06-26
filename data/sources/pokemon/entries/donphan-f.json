@@ -96,15 +96,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "DONPHAN_F",
-        "veekunDb": "donphan-f",
+        "pogo": "DONPHAN",
+        "veekunDb": "donphan",
         "serebii": "donphan",
         "bulbapedia": "Donphan",
         "homeSprite": "donphan-f",
         "miniSprite": "donphan-f",
-        "showdown": "donphanf",
-        "showdownDef": "Donphan-F",
-        "smogon": "donphan-f"
+        "showdown": "donphan",
+        "showdownDef": "Donphan",
+        "smogon": "donphan"
     },
     "baseSpecies": "donphan",
     "baseForms": [],

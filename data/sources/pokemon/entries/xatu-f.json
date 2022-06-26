@@ -98,15 +98,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "XATU_F",
-        "veekunDb": "xatu-f",
+        "pogo": "XATU",
+        "veekunDb": "xatu",
         "serebii": "xatu",
         "bulbapedia": "Xatu",
         "homeSprite": "xatu-f",
         "miniSprite": "xatu-f",
-        "showdown": "xatuf",
-        "showdownDef": "Xatu-F",
-        "smogon": "xatu-f"
+        "showdown": "xatu",
+        "showdownDef": "Xatu",
+        "smogon": "xatu"
     },
     "baseSpecies": "xatu",
     "baseForms": [],

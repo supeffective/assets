@@ -96,15 +96,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "LEDIAN_F",
-        "veekunDb": "ledian-f",
+        "pogo": "LEDIAN",
+        "veekunDb": "ledian",
         "serebii": "ledian",
         "bulbapedia": "Ledian",
         "homeSprite": "ledian-f",
         "miniSprite": "ledian-f",
-        "showdown": "ledianf",
-        "showdownDef": "Ledian-F",
-        "smogon": "ledian-f"
+        "showdown": "ledian",
+        "showdownDef": "Ledian",
+        "smogon": "ledian"
     },
     "baseSpecies": "ledian",
     "baseForms": [],

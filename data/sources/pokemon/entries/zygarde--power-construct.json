@@ -87,8 +87,8 @@
         "bulbapedia": "Zygarde",
         "homeSprite": "zygarde--power-construct",
         "miniSprite": "zygarde--power-construct",
-        "showdown": "zygardepowerconstruct",
-        "showdownDef": "Zygarde-Power-Construct",
+        "showdown": "zygarde",
+        "showdownDef": "Zygarde",
         "smogon": "zygarde--power-construct"
     },
     "baseSpecies": "zygarde",

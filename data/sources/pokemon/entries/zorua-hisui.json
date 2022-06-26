@@ -77,14 +77,14 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": null,
+        "pogo": "ZORUA_HISUIAN",
         "veekunDb": null,
         "serebii": "zorua",
-        "bulbapedia": null,
+        "bulbapedia": "Zorua",
         "homeSprite": "zorua-hisui",
         "miniSprite": "zorua-hisui",
-        "showdown": null,
-        "showdownDef": null,
+        "showdown": "zoruahisui",
+        "showdownDef": "Zorua-Hisui",
         "smogon": "zorua-hisui"
     },
     "baseSpecies": "zorua",

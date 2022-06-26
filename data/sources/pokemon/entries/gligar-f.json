@@ -98,15 +98,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "GLIGAR_F",
-        "veekunDb": "gligar-f",
+        "pogo": "GLIGAR",
+        "veekunDb": "gligar",
         "serebii": "gligar",
         "bulbapedia": "Gligar",
         "homeSprite": "gligar-f",
         "miniSprite": "gligar-f",
-        "showdown": "gligarf",
-        "showdownDef": "Gligar-F",
-        "smogon": "gligar-f"
+        "showdown": "gligar",
+        "showdownDef": "Gligar",
+        "smogon": "gligar"
     },
     "baseSpecies": "gligar",
     "baseForms": [],

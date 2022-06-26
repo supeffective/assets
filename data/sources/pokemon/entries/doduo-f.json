@@ -100,15 +100,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "DODUO_F",
-        "veekunDb": "doduo-f",
+        "pogo": "DODUO",
+        "veekunDb": "doduo",
         "serebii": "doduo",
         "bulbapedia": "Doduo",
         "homeSprite": "doduo-f",
         "miniSprite": "doduo-f",
-        "showdown": "doduof",
-        "showdownDef": "Doduo-F",
-        "smogon": "doduo-f"
+        "showdown": "doduo",
+        "showdownDef": "Doduo",
+        "smogon": "doduo"
     },
     "baseSpecies": "doduo",
     "baseForms": [],

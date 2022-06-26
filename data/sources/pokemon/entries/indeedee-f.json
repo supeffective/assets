@@ -77,15 +77,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "INDEEDEE_F",
-        "veekunDb": "indeedee-f",
+        "pogo": "INDEEDEE",
+        "veekunDb": "indeedee",
         "serebii": "indeedee",
         "bulbapedia": "Indeedee",
         "homeSprite": "indeedee-f",
         "miniSprite": "indeedee-f",
-        "showdown": "indeedeef",
-        "showdownDef": "Indeedee-F",
-        "smogon": "indeedee-f"
+        "showdown": "indeedee",
+        "showdownDef": "Indeedee",
+        "smogon": "indeedee"
     },
     "baseSpecies": "indeedee",
     "baseForms": [],

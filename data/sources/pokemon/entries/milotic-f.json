@@ -96,15 +96,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "MILOTIC_F",
-        "veekunDb": "milotic-f",
+        "pogo": "MILOTIC",
+        "veekunDb": "milotic",
         "serebii": "milotic",
         "bulbapedia": "Milotic",
         "homeSprite": "milotic-f",
         "miniSprite": "milotic-f",
-        "showdown": "miloticf",
-        "showdownDef": "Milotic-F",
-        "smogon": "milotic-f"
+        "showdown": "milotic",
+        "showdownDef": "Milotic",
+        "smogon": "milotic"
     },
     "baseSpecies": "milotic",
     "baseForms": [],

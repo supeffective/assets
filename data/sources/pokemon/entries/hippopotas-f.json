@@ -94,15 +94,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "HIPPOPOTAS_F",
-        "veekunDb": "hippopotas-f",
+        "pogo": "HIPPOPOTAS",
+        "veekunDb": "hippopotas",
         "serebii": "hippopotas",
         "bulbapedia": "Hippopotas",
         "homeSprite": "hippopotas-f",
         "miniSprite": "hippopotas-f",
-        "showdown": "hippopotasf",
-        "showdownDef": "Hippopotas-F",
-        "smogon": "hippopotas-f"
+        "showdown": "hippopotas",
+        "showdownDef": "Hippopotas",
+        "smogon": "hippopotas"
     },
     "baseSpecies": "hippopotas",
     "baseForms": [],

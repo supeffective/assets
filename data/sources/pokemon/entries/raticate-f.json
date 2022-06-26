@@ -100,15 +100,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "RATICATE_F",
-        "veekunDb": "raticate-f",
+        "pogo": "RATICATE",
+        "veekunDb": "raticate",
         "serebii": "raticate",
         "bulbapedia": "Raticate",
         "homeSprite": "raticate-f",
         "miniSprite": "raticate-f",
-        "showdown": "raticatef",
-        "showdownDef": "Raticate-F",
-        "smogon": "raticate-f"
+        "showdown": "raticate",
+        "showdownDef": "Raticate",
+        "smogon": "raticate"
     },
     "baseSpecies": "raticate",
     "baseForms": [],

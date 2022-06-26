@@ -94,15 +94,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "CACTURNE_F",
-        "veekunDb": "cacturne-f",
+        "pogo": "CACTURNE",
+        "veekunDb": "cacturne",
         "serebii": "cacturne",
         "bulbapedia": "Cacturne",
         "homeSprite": "cacturne-f",
         "miniSprite": "cacturne-f",
-        "showdown": "cacturnef",
-        "showdownDef": "Cacturne-F",
-        "smogon": "cacturne-f"
+        "showdown": "cacturne",
+        "showdownDef": "Cacturne",
+        "smogon": "cacturne"
     },
     "baseSpecies": "cacturne",
     "baseForms": [],

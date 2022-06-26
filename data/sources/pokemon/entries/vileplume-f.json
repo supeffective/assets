@@ -102,15 +102,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "VILEPLUME_F",
-        "veekunDb": "vileplume-f",
+        "pogo": "VILEPLUME",
+        "veekunDb": "vileplume",
         "serebii": "vileplume",
         "bulbapedia": "Vileplume",
         "homeSprite": "vileplume-f",
         "miniSprite": "vileplume-f",
-        "showdown": "vileplumef",
-        "showdownDef": "Vileplume-F",
-        "smogon": "vileplume-f"
+        "showdown": "vileplume",
+        "showdownDef": "Vileplume",
+        "smogon": "vileplume"
     },
     "baseSpecies": "vileplume",
     "baseForms": [],

@@ -84,15 +84,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "MEOWSTIC_F",
-        "veekunDb": "meowstic-f",
+        "pogo": "MEOWSTIC",
+        "veekunDb": "meowstic",
         "serebii": "meowstic",
         "bulbapedia": "Meowstic",
         "homeSprite": "meowstic-f",
         "miniSprite": "meowstic-f",
-        "showdown": "meowsticf",
-        "showdownDef": "Meowstic-F",
-        "smogon": "meowstic-f"
+        "showdown": "meowstic",
+        "showdownDef": "Meowstic",
+        "smogon": "meowstic"
     },
     "baseSpecies": "meowstic",
     "baseForms": [],

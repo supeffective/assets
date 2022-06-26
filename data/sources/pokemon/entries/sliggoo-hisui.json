@@ -77,14 +77,14 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": null,
+        "pogo": "SLIGGOO_HISUIAN",
         "veekunDb": null,
         "serebii": "sliggoo",
-        "bulbapedia": null,
+        "bulbapedia": "Sliggoo",
         "homeSprite": "sliggoo-hisui",
         "miniSprite": "sliggoo-hisui",
-        "showdown": null,
-        "showdownDef": null,
+        "showdown": "sliggoohisui",
+        "showdownDef": "Sliggoo-Hisui",
         "smogon": "sliggoo-hisui"
     },
     "baseSpecies": "sliggoo",

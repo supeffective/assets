@@ -96,15 +96,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "RELICANTH_F",
-        "veekunDb": "relicanth-f",
+        "pogo": "RELICANTH",
+        "veekunDb": "relicanth",
         "serebii": "relicanth",
         "bulbapedia": "Relicanth",
         "homeSprite": "relicanth-f",
         "miniSprite": "relicanth-f",
-        "showdown": "relicanthf",
-        "showdownDef": "Relicanth-F",
-        "smogon": "relicanth-f"
+        "showdown": "relicanth",
+        "showdownDef": "Relicanth",
+        "smogon": "relicanth"
     },
     "baseSpecies": "relicanth",
     "baseForms": [],

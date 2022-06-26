@@ -92,15 +92,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "STARAPTOR_F",
-        "veekunDb": "staraptor-f",
+        "pogo": "STARAPTOR",
+        "veekunDb": "staraptor",
         "serebii": "staraptor",
         "bulbapedia": "Staraptor",
         "homeSprite": "staraptor-f",
         "miniSprite": "staraptor-f",
-        "showdown": "staraptorf",
-        "showdownDef": "Staraptor-F",
-        "smogon": "staraptor-f"
+        "showdown": "staraptor",
+        "showdownDef": "Staraptor",
+        "smogon": "staraptor"
     },
     "baseSpecies": "staraptor",
     "baseForms": [],

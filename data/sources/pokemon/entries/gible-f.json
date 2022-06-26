@@ -94,15 +94,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "GIBLE_F",
-        "veekunDb": "gible-f",
+        "pogo": "GIBLE",
+        "veekunDb": "gible",
         "serebii": "gible",
         "bulbapedia": "Gible",
         "homeSprite": "gible-f",
         "miniSprite": "gible-f",
-        "showdown": "giblef",
-        "showdownDef": "Gible-F",
-        "smogon": "gible-f"
+        "showdown": "gible",
+        "showdownDef": "Gible",
+        "smogon": "gible"
     },
     "baseSpecies": "gible",
     "baseForms": [],

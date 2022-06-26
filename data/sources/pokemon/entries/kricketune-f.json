@@ -92,15 +92,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "KRICKETUNE_F",
-        "veekunDb": "kricketune-f",
+        "pogo": "KRICKETUNE",
+        "veekunDb": "kricketune",
         "serebii": "kricketune",
         "bulbapedia": "Kricketune",
         "homeSprite": "kricketune-f",
         "miniSprite": "kricketune-f",
-        "showdown": "kricketunef",
-        "showdownDef": "Kricketune-F",
-        "smogon": "kricketune-f"
+        "showdown": "kricketune",
+        "showdownDef": "Kricketune",
+        "smogon": "kricketune"
     },
     "baseSpecies": "kricketune",
     "baseForms": [],

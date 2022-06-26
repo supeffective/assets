@@ -100,15 +100,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "RATTATA_F",
-        "veekunDb": "rattata-f",
+        "pogo": "RATTATA",
+        "veekunDb": "rattata",
         "serebii": "rattata",
         "bulbapedia": "Rattata",
         "homeSprite": "rattata-f",
         "miniSprite": "rattata-f",
-        "showdown": "rattataf",
-        "showdownDef": "Rattata-F",
-        "smogon": "rattata-f"
+        "showdown": "rattata",
+        "showdownDef": "Rattata",
+        "smogon": "rattata"
     },
     "baseSpecies": "rattata",
     "baseForms": [],

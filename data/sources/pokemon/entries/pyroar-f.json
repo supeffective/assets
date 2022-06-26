@@ -82,15 +82,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "PYROAR_F",
-        "veekunDb": "pyroar-f",
+        "pogo": "PYROAR",
+        "veekunDb": "pyroar",
         "serebii": "pyroar",
         "bulbapedia": "Pyroar",
         "homeSprite": "pyroar-f",
         "miniSprite": "pyroar-f",
-        "showdown": "pyroarf",
-        "showdownDef": "Pyroar-F",
-        "smogon": "pyroar-f"
+        "showdown": "pyroar",
+        "showdownDef": "Pyroar",
+        "smogon": "pyroar"
     },
     "baseSpecies": "pyroar",
     "baseForms": [],

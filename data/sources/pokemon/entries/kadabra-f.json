@@ -104,15 +104,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "KADABRA_F",
-        "veekunDb": "kadabra-f",
+        "pogo": "KADABRA",
+        "veekunDb": "kadabra",
         "serebii": "kadabra",
         "bulbapedia": "Kadabra",
         "homeSprite": "kadabra-f",
         "miniSprite": "kadabra-f",
-        "showdown": "kadabraf",
-        "showdownDef": "Kadabra-F",
-        "smogon": "kadabra-f"
+        "showdown": "kadabra",
+        "showdownDef": "Kadabra",
+        "smogon": "kadabra"
     },
     "baseSpecies": "kadabra",
     "baseForms": [],

@@ -77,14 +77,14 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": null,
+        "pogo": "ZOROARK_HISUIAN",
         "veekunDb": null,
         "serebii": "zoroark",
-        "bulbapedia": null,
+        "bulbapedia": "Zoroark",
         "homeSprite": "zoroark-hisui",
         "miniSprite": "zoroark-hisui",
-        "showdown": null,
-        "showdownDef": null,
+        "showdown": "zoroarkhisui",
+        "showdownDef": "Zoroark-Hisui",
         "smogon": "zoroark-hisui"
     },
     "baseSpecies": "zoroark",

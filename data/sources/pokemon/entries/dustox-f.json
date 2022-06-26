@@ -96,15 +96,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "DUSTOX_F",
-        "veekunDb": "dustox-f",
+        "pogo": "DUSTOX",
+        "veekunDb": "dustox",
         "serebii": "dustox",
         "bulbapedia": "Dustox",
         "homeSprite": "dustox-f",
         "miniSprite": "dustox-f",
-        "showdown": "dustoxf",
-        "showdownDef": "Dustox-F",
-        "smogon": "dustox-f"
+        "showdown": "dustox",
+        "showdownDef": "Dustox",
+        "smogon": "dustox"
     },
     "baseSpecies": "dustox",
     "baseForms": [],

@@ -94,15 +94,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "COMBEE_F",
-        "veekunDb": "combee-f",
+        "pogo": "COMBEE",
+        "veekunDb": "combee",
         "serebii": "combee",
         "bulbapedia": "Combee",
         "homeSprite": "combee-f",
         "miniSprite": "combee-f",
-        "showdown": "combeef",
-        "showdownDef": "Combee-F",
-        "smogon": "combee-f"
+        "showdown": "combee",
+        "showdownDef": "Combee",
+        "smogon": "combee"
     },
     "baseSpecies": "combee",
     "baseForms": [],

@@ -100,15 +100,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "SNEASEL_F",
-        "veekunDb": "sneasel-f",
+        "pogo": "SNEASEL",
+        "veekunDb": "sneasel",
         "serebii": "sneasel",
         "bulbapedia": "Sneasel",
         "homeSprite": "sneasel-f",
         "miniSprite": "sneasel-f",
-        "showdown": "sneaself",
-        "showdownDef": "Sneasel-F",
-        "smogon": "sneasel-f"
+        "showdown": "sneasel",
+        "showdownDef": "Sneasel",
+        "smogon": "sneasel"
     },
     "baseSpecies": "sneasel",
     "baseForms": [],

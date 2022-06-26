@@ -92,15 +92,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "LUMINEON_F",
-        "veekunDb": "lumineon-f",
+        "pogo": "LUMINEON",
+        "veekunDb": "lumineon",
         "serebii": "lumineon",
         "bulbapedia": "Lumineon",
         "homeSprite": "lumineon-f",
         "miniSprite": "lumineon-f",
-        "showdown": "lumineonf",
-        "showdownDef": "Lumineon-F",
-        "smogon": "lumineon-f"
+        "showdown": "lumineon",
+        "showdownDef": "Lumineon",
+        "smogon": "lumineon"
     },
     "baseSpecies": "lumineon",
     "baseForms": [],

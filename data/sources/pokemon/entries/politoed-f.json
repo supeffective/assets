@@ -98,15 +98,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "POLITOED_F",
-        "veekunDb": "politoed-f",
+        "pogo": "POLITOED",
+        "veekunDb": "politoed",
         "serebii": "politoed",
         "bulbapedia": "Politoed",
         "homeSprite": "politoed-f",
         "miniSprite": "politoed-f",
-        "showdown": "politoedf",
-        "showdownDef": "Politoed-F",
-        "smogon": "politoed-f"
+        "showdown": "politoed",
+        "showdownDef": "Politoed",
+        "smogon": "politoed"
     },
     "baseSpecies": "politoed",
     "baseForms": [],

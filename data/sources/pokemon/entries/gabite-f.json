@@ -94,15 +94,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "GABITE_F",
-        "veekunDb": "gabite-f",
+        "pogo": "GABITE",
+        "veekunDb": "gabite",
         "serebii": "gabite",
         "bulbapedia": "Gabite",
         "homeSprite": "gabite-f",
         "miniSprite": "gabite-f",
-        "showdown": "gabitef",
-        "showdownDef": "Gabite-F",
-        "smogon": "gabite-f"
+        "showdown": "gabite",
+        "showdownDef": "Gabite",
+        "smogon": "gabite"
     },
     "baseSpecies": "gabite",
     "baseForms": [],

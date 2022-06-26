@@ -94,15 +94,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "GULPIN_F",
-        "veekunDb": "gulpin-f",
+        "pogo": "GULPIN",
+        "veekunDb": "gulpin",
         "serebii": "gulpin",
         "bulbapedia": "Gulpin",
         "homeSprite": "gulpin-f",
         "miniSprite": "gulpin-f",
-        "showdown": "gulpinf",
-        "showdownDef": "Gulpin-F",
-        "smogon": "gulpin-f"
+        "showdown": "gulpin",
+        "showdownDef": "Gulpin",
+        "smogon": "gulpin"
     },
     "baseSpecies": "gulpin",
     "baseForms": [],

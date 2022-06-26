@@ -104,15 +104,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "GYARADOS_F",
-        "veekunDb": "gyarados-f",
+        "pogo": "GYARADOS",
+        "veekunDb": "gyarados",
         "serebii": "gyarados",
         "bulbapedia": "Gyarados",
         "homeSprite": "gyarados-f",
         "miniSprite": "gyarados-f",
-        "showdown": "gyaradosf",
-        "showdownDef": "Gyarados-F",
-        "smogon": "gyarados-f"
+        "showdown": "gyarados",
+        "showdownDef": "Gyarados",
+        "smogon": "gyarados"
     },
     "baseSpecies": "gyarados",
     "baseForms": [],

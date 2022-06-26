@@ -94,15 +94,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "CROAGUNK_F",
-        "veekunDb": "croagunk-f",
+        "pogo": "CROAGUNK",
+        "veekunDb": "croagunk",
         "serebii": "croagunk",
         "bulbapedia": "Croagunk",
         "homeSprite": "croagunk-f",
         "miniSprite": "croagunk-f",
-        "showdown": "croagunkf",
-        "showdownDef": "Croagunk-F",
-        "smogon": "croagunk-f"
+        "showdown": "croagunk",
+        "showdownDef": "Croagunk",
+        "smogon": "croagunk"
     },
     "baseSpecies": "croagunk",
     "baseForms": [],

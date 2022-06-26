@@ -94,15 +94,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "LUXIO_F",
-        "veekunDb": "luxio-f",
+        "pogo": "LUXIO",
+        "veekunDb": "luxio",
         "serebii": "luxio",
         "bulbapedia": "Luxio",
         "homeSprite": "luxio-f",
         "miniSprite": "luxio-f",
-        "showdown": "luxiof",
-        "showdownDef": "Luxio-F",
-        "smogon": "luxio-f"
+        "showdown": "luxio",
+        "showdownDef": "Luxio",
+        "smogon": "luxio"
     },
     "baseSpecies": "luxio",
     "baseForms": [],

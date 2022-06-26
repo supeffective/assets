@@ -94,15 +94,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "CAMERUPT_F",
-        "veekunDb": "camerupt-f",
+        "pogo": "CAMERUPT",
+        "veekunDb": "camerupt",
         "serebii": "camerupt",
         "bulbapedia": "Camerupt",
         "homeSprite": "camerupt-f",
         "miniSprite": "camerupt-f",
-        "showdown": "cameruptf",
-        "showdownDef": "Camerupt-F",
-        "smogon": "camerupt-f"
+        "showdown": "camerupt",
+        "showdownDef": "Camerupt",
+        "smogon": "camerupt"
     },
     "baseSpecies": "camerupt",
     "baseForms": [],

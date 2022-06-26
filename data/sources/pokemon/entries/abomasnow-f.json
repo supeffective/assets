@@ -94,15 +94,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "ABOMASNOW_F",
-        "veekunDb": "abomasnow-f",
+        "pogo": "ABOMASNOW",
+        "veekunDb": "abomasnow",
         "serebii": "abomasnow",
         "bulbapedia": "Abomasnow",
         "homeSprite": "abomasnow-f",
         "miniSprite": "abomasnow-f",
-        "showdown": "abomasnowf",
-        "showdownDef": "Abomasnow-F",
-        "smogon": "abomasnow-f"
+        "showdown": "abomasnow",
+        "showdownDef": "Abomasnow",
+        "smogon": "abomasnow"
     },
     "baseSpecies": "abomasnow",
     "baseForms": [],

@@ -98,15 +98,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "QUAGSIRE_F",
-        "veekunDb": "quagsire-f",
+        "pogo": "QUAGSIRE",
+        "veekunDb": "quagsire",
         "serebii": "quagsire",
         "bulbapedia": "Quagsire",
         "homeSprite": "quagsire-f",
         "miniSprite": "quagsire-f",
-        "showdown": "quagsiref",
-        "showdownDef": "Quagsire-F",
-        "smogon": "quagsire-f"
+        "showdown": "quagsire",
+        "showdownDef": "Quagsire",
+        "smogon": "quagsire"
     },
     "baseSpecies": "quagsire",
     "baseForms": [],

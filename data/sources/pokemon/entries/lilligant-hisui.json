@@ -77,14 +77,14 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": null,
+        "pogo": "LILLIGANT_HISUIAN",
         "veekunDb": null,
         "serebii": "lilligant",
-        "bulbapedia": null,
+        "bulbapedia": "Lilligant",
         "homeSprite": "lilligant-hisui",
         "miniSprite": "lilligant-hisui",
-        "showdown": null,
-        "showdownDef": null,
+        "showdown": "lilliganthisui",
+        "showdownDef": "Lilligant-Hisui",
         "smogon": "lilligant-hisui"
     },
     "baseSpecies": "lilligant",

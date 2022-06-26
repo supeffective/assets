@@ -104,15 +104,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "RHYDON_F",
-        "veekunDb": "rhydon-f",
+        "pogo": "RHYDON",
+        "veekunDb": "rhydon",
         "serebii": "rhydon",
         "bulbapedia": "Rhydon",
         "homeSprite": "rhydon-f",
         "miniSprite": "rhydon-f",
-        "showdown": "rhydonf",
-        "showdownDef": "Rhydon-F",
-        "smogon": "rhydon-f"
+        "showdown": "rhydon",
+        "showdownDef": "Rhydon",
+        "smogon": "rhydon"
     },
     "baseSpecies": "rhydon",
     "baseForms": [],

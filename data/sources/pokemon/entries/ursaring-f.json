@@ -98,15 +98,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "URSARING_F",
-        "veekunDb": "ursaring-f",
+        "pogo": "URSARING",
+        "veekunDb": "ursaring",
         "serebii": "ursaring",
         "bulbapedia": "Ursaring",
         "homeSprite": "ursaring-f",
         "miniSprite": "ursaring-f",
-        "showdown": "ursaringf",
-        "showdownDef": "Ursaring-F",
-        "smogon": "ursaring-f"
+        "showdown": "ursaring",
+        "showdownDef": "Ursaring",
+        "smogon": "ursaring"
     },
     "baseSpecies": "ursaring",
     "baseForms": [],

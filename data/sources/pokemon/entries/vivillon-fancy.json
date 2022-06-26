@@ -37,11 +37,11 @@
     "canDynamax": true,
     "canBeAlpha": false,
     "debutIn": "xy",
-    "obtainableIn": [
+    "obtainableIn": [],
+    "versionExclusiveIn": [],
+    "eventOnlyIn": [
         "xy"
     ],
-    "versionExclusiveIn": [],
-    "eventOnlyIn": [],
     "storableIn": [
         "home",
         "oras",

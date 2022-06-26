@@ -92,15 +92,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "STARLY_F",
-        "veekunDb": "starly-f",
+        "pogo": "STARLY",
+        "veekunDb": "starly",
         "serebii": "starly",
         "bulbapedia": "Starly",
         "homeSprite": "starly-f",
         "miniSprite": "starly-f",
-        "showdown": "starlyf",
-        "showdownDef": "Starly-F",
-        "smogon": "starly-f"
+        "showdown": "starly",
+        "showdownDef": "Starly",
+        "smogon": "starly"
     },
     "baseSpecies": "starly",
     "baseForms": [],

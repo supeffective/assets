@@ -94,15 +94,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "LUXRAY_F",
-        "veekunDb": "luxray-f",
+        "pogo": "LUXRAY",
+        "veekunDb": "luxray",
         "serebii": "luxray",
         "bulbapedia": "Luxray",
         "homeSprite": "luxray-f",
         "miniSprite": "luxray-f",
-        "showdown": "luxrayf",
-        "showdownDef": "Luxray-F",
-        "smogon": "luxray-f"
+        "showdown": "luxray",
+        "showdownDef": "Luxray",
+        "smogon": "luxray"
     },
     "baseSpecies": "luxray",
     "baseForms": [],

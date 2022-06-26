@@ -104,15 +104,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "GOLBAT_F",
-        "veekunDb": "golbat-f",
+        "pogo": "GOLBAT",
+        "veekunDb": "golbat",
         "serebii": "golbat",
         "bulbapedia": "Golbat",
         "homeSprite": "golbat-f",
         "miniSprite": "golbat-f",
-        "showdown": "golbatf",
-        "showdownDef": "Golbat-F",
-        "smogon": "golbat-f"
+        "showdown": "golbat",
+        "showdownDef": "Golbat",
+        "smogon": "golbat"
     },
     "baseSpecies": "golbat",
     "baseForms": [],

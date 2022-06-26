@@ -87,15 +87,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "FRILLISH_F",
-        "veekunDb": "frillish-f",
+        "pogo": "FRILLISH",
+        "veekunDb": "frillish",
         "serebii": "frillish",
         "bulbapedia": "Frillish",
         "homeSprite": "frillish-f",
         "miniSprite": "frillish-f",
-        "showdown": "frillishf",
-        "showdownDef": "Frillish-F",
-        "smogon": "frillish-f"
+        "showdown": "frillish",
+        "showdownDef": "Frillish",
+        "smogon": "frillish"
     },
     "baseSpecies": "frillish",
     "baseForms": [],

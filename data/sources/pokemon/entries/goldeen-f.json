@@ -102,15 +102,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "GOLDEEN_F",
-        "veekunDb": "goldeen-f",
+        "pogo": "GOLDEEN",
+        "veekunDb": "goldeen",
         "serebii": "goldeen",
         "bulbapedia": "Goldeen",
         "homeSprite": "goldeen-f",
         "miniSprite": "goldeen-f",
-        "showdown": "goldeenf",
-        "showdownDef": "Goldeen-F",
-        "smogon": "goldeen-f"
+        "showdown": "goldeen",
+        "showdownDef": "Goldeen",
+        "smogon": "goldeen"
     },
     "baseSpecies": "goldeen",
     "baseForms": [],

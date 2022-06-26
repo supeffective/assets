@@ -104,15 +104,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "MAGIKARP_F",
-        "veekunDb": "magikarp-f",
+        "pogo": "MAGIKARP",
+        "veekunDb": "magikarp",
         "serebii": "magikarp",
         "bulbapedia": "Magikarp",
         "homeSprite": "magikarp-f",
         "miniSprite": "magikarp-f",
-        "showdown": "magikarpf",
-        "showdownDef": "Magikarp-F",
-        "smogon": "magikarp-f"
+        "showdown": "magikarp",
+        "showdownDef": "Magikarp",
+        "smogon": "magikarp"
     },
     "baseSpecies": "magikarp",
     "baseForms": [],

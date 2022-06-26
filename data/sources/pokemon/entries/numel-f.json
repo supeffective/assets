@@ -94,15 +94,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "NUMEL_F",
-        "veekunDb": "numel-f",
+        "pogo": "NUMEL",
+        "veekunDb": "numel",
         "serebii": "numel",
         "bulbapedia": "Numel",
         "homeSprite": "numel-f",
         "miniSprite": "numel-f",
-        "showdown": "numelf",
-        "showdownDef": "Numel-F",
-        "smogon": "numel-f"
+        "showdown": "numel",
+        "showdownDef": "Numel",
+        "smogon": "numel"
     },
     "baseSpecies": "numel",
     "baseForms": [],

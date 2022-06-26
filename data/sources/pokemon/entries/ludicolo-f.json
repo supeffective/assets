@@ -96,15 +96,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "LUDICOLO_F",
-        "veekunDb": "ludicolo-f",
+        "pogo": "LUDICOLO",
+        "veekunDb": "ludicolo",
         "serebii": "ludicolo",
         "bulbapedia": "Ludicolo",
         "homeSprite": "ludicolo-f",
         "miniSprite": "ludicolo-f",
-        "showdown": "ludicolof",
-        "showdownDef": "Ludicolo-F",
-        "smogon": "ludicolo-f"
+        "showdown": "ludicolo",
+        "showdownDef": "Ludicolo",
+        "smogon": "ludicolo"
     },
     "baseSpecies": "ludicolo",
     "baseForms": [],

@@ -38,9 +38,10 @@
     "canBeAlpha": false,
     "debutIn": "xy",
     "obtainableIn": [
+    ],
+    "versionExclusiveIn": [
         "xy"
     ],
-    "versionExclusiveIn": [],
     "eventOnlyIn": [],
     "storableIn": [
         "home",

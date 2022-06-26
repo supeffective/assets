@@ -94,15 +94,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "MEDITITE_F",
-        "veekunDb": "meditite-f",
+        "pogo": "MEDITITE",
+        "veekunDb": "meditite",
         "serebii": "meditite",
         "bulbapedia": "Meditite",
         "homeSprite": "meditite-f",
         "miniSprite": "meditite-f",
-        "showdown": "medititef",
-        "showdownDef": "Meditite-F",
-        "smogon": "meditite-f"
+        "showdown": "meditite",
+        "showdownDef": "Meditite",
+        "smogon": "meditite"
     },
     "baseSpecies": "meditite",
     "baseForms": [],

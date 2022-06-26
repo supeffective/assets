@@ -77,14 +77,14 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": null,
+        "pogo": "DECIDUEYE_HISUIAN",
         "veekunDb": null,
         "serebii": "decidueye",
-        "bulbapedia": null,
+        "bulbapedia": "Decidueye",
         "homeSprite": "decidueye-hisui",
         "miniSprite": "decidueye-hisui",
-        "showdown": null,
-        "showdownDef": null,
+        "showdown": "decidueyehisui",
+        "showdownDef": "Decidueye-Hisui",
         "smogon": "decidueye-hisui"
     },
     "baseSpecies": "decidueye",

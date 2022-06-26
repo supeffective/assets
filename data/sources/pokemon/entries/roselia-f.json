@@ -98,15 +98,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "ROSELIA_F",
-        "veekunDb": "roselia-f",
+        "pogo": "ROSELIA",
+        "veekunDb": "roselia",
         "serebii": "roselia",
         "bulbapedia": "Roselia",
         "homeSprite": "roselia-f",
         "miniSprite": "roselia-f",
-        "showdown": "roseliaf",
-        "showdownDef": "Roselia-F",
-        "smogon": "roselia-f"
+        "showdown": "roselia",
+        "showdownDef": "Roselia",
+        "smogon": "roselia"
     },
     "baseSpecies": "roselia",
     "baseForms": [],

@@ -77,14 +77,14 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": null,
+        "pogo": "ARCANINE_HISUIAN",
         "veekunDb": null,
         "serebii": "arcanine",
-        "bulbapedia": null,
+        "bulbapedia": "Arcanine",
         "homeSprite": "arcanine-hisui",
         "miniSprite": "arcanine-hisui",
-        "showdown": null,
-        "showdownDef": null,
+        "showdown": "arcaninehisui",
+        "showdownDef": "Arcanine-Hisui",
         "smogon": "arcanine-hisui"
     },
     "baseSpecies": "arcanine",

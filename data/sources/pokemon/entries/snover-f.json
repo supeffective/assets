@@ -94,15 +94,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "SNOVER_F",
-        "veekunDb": "snover-f",
+        "pogo": "SNOVER",
+        "veekunDb": "snover",
         "serebii": "snover",
         "bulbapedia": "Snover",
         "homeSprite": "snover-f",
         "miniSprite": "snover-f",
-        "showdown": "snoverf",
-        "showdownDef": "Snover-F",
-        "smogon": "snover-f"
+        "showdown": "snover",
+        "showdownDef": "Snover",
+        "smogon": "snover"
     },
     "baseSpecies": "snover",
     "baseForms": [],

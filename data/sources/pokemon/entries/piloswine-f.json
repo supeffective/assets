@@ -100,15 +100,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "PILOSWINE_F",
-        "veekunDb": "piloswine-f",
+        "pogo": "PILOSWINE",
+        "veekunDb": "piloswine",
         "serebii": "piloswine",
         "bulbapedia": "Piloswine",
         "homeSprite": "piloswine-f",
         "miniSprite": "piloswine-f",
-        "showdown": "piloswinef",
-        "showdownDef": "Piloswine-F",
-        "smogon": "piloswine-f"
+        "showdown": "piloswine",
+        "showdownDef": "Piloswine",
+        "smogon": "piloswine"
     },
     "baseSpecies": "piloswine",
     "baseForms": [],
