@@ -22,19 +22,19 @@ services:
       - OUTPUT_DIR=/usr/src/app-build/pogo
     volumes:
       - './build/:/usr/src/app-build:delegated'
-      - './scripts/pogo-dumper:/usr/src/app'
-#
-#  dumper-showdown:
-#    build:
-#      context: ./
-#      target: dumper-showdown
-#    command: [ "true" ]
-#    environment:
-#      - OUTPUT_DIR=/usr/src/app-build/showdown
-#    volumes:
-#      - './build/:/usr/src/app-build:delegated'
-#      - './scripts/showdown-dumper:/usr/src/app'
-#
+      - './scripts/dumper-pogo:/usr/src/app'
+
+  dumper-showdown:
+    build:
+      context: ./
+      target: dumper-showdown
+    command: [ "true" ]
+    environment:
+      - OUTPUT_DIR=/usr/src/app-build/showdown
+    volumes:
+      - './build/:/usr/src/app-build:delegated'
+      - './scripts/dumper-showdown:/usr/src/app'
+
 #  dumper-veekun:
 #    build:
 #      context: ./

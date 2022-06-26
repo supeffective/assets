@@ -7,7 +7,7 @@ build:
 
 import-sources:
 	docker-compose run --rm dumper-pogo make
-#	docker-compose run --rm dumper-showdown make
+	docker-compose run --rm dumper-showdown make
 #	docker-compose run --rm dumper-veekun make
 
 validate:

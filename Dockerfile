@@ -56,17 +56,13 @@ RUN npm install npm@8.5.0 -g
 COPY ./scripts/docker/node-docker-entrypoint.sh /docker-entrypoint.sh
 ENTRYPOINT [ "/docker-entrypoint.sh" ]
 
+EXPOSE 3000
 WORKDIR /usr/src/app
 
 #------------------------------------------------------------------------------
 
-#FROM base-node as node-frontend
-#EXPOSE 3000
-
-#------------------------------------------------------------------------------
-
-#FROM base-node as dumper-showdown
-#ENV OUTPUT_DIR=/usr/data
+FROM base-node as dumper-showdown
+ENV OUTPUT_DIR=/usr/data
 
 #------------------------------------------------------------------------------
 
@@ -87,7 +83,7 @@ RUN pip install setuptools
 # TODO, dump data from :
 #  https://raw.githubusercontent.com/PokeMiners/game_masters/master/latest/latest.json
 # instead of ccev/pogodatapy
-COPY ./scripts/pogo-dumper /usr/src/pogo-dumper
+COPY scripts/dumper-pogo /usr/src/pogo-dumper
 WORKDIR /usr/src/pogo-dumper
 RUN ls /usr/src/pogo-dumper/pogo-dumper && \
   echo "Setting up pogodata..." && \
