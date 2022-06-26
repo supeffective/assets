@@ -232,24 +232,20 @@
             "type": "object",
             "additionalProperties": false,
             "properties": {
-                "maxCP": {
+                "atk": {
                     "type": "integer"
                 },
-                "attack": {
+                "def": {
                     "type": "integer"
                 },
-                "defense": {
-                    "type": "integer"
-                },
-                "stamina": {
+                "sta": {
                     "type": "integer"
                 }
             },
             "required": [
-                "maxCP",
-                "attack",
-                "defense",
-                "stamina"
+                "atk",
+                "def",
+                "sta"
             ]
         },
         "weight": {

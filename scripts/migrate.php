@@ -69,22 +69,21 @@ require_once __DIR__ . '/_bootstrap.php';
         "spe": -1
     },
     "goStats": {
-        "maxCP": -1,
-        "attack": -1,
-        "defense": -1,
-        "stamina": -1
+        "atk": -1,
+        "def": -1,
+        "sta": -1
     },
     "weight": {
-        "avg": "-1kg",
-        "min": "-1kg",
-        "max": "-1kg",
-        "alpha": "-1kg"
+        "avg": -1,
+        "min": -1,
+        "max": "-1,
+        "alpha": -1
     },
     "height": {
-        "avg": "-1m",
-        "min": "-1m",
-        "max": "-1m",
-        "alpha": "-1m"
+        "avg": -1,
+        "min": -1,
+        "max": "-1,
+        "alpha": -1
     },
     "maleRate": -1,
     "femaleRate": -1,
@@ -129,11 +128,8 @@ JSON;
 
         /* --- START $newPkm data transformation */
 
-        $eventOnlyIn = $pkm['onlyViaEventIn'];
-        unset($pkm['onlyViaEventIn']);
         $newPkm = array_merge($dataTemplateArr, $pkm);
         // TODO modify $newPkm here, e.g.:
-        $newPkm['eventOnlyIn'] = $eventOnlyIn;
 
         /* --- END $newPkm data transformation */
         // save pkm entry

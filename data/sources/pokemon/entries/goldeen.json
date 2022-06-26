@@ -82,10 +82,9 @@
         "spe": 63
     },
     "goStats": {
-        "maxCP": -1,
-        "attack": -1,
-        "defense": -1,
-        "stamina": -1
+        "atk": 123,
+        "def": 110,
+        "sta": 128
     },
     "weight": {
         "avg": 15,

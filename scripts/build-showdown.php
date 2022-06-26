@@ -20,18 +20,18 @@ require_once __DIR__ . '/_bootstrap.php';
 
     $shdPokemonById = sgg_json_decode_file(__DIR__ . '/../build/showdown/pokedex.json')['Pokedex'];
 
-    $importData = function (array $pkm, array $shdPkm) use ($dataSetById, $shdPokemonById) {
-        if (!isset($shdPkm['baseStats']) && $pkm['isForm']) {
-            $shdPkm = $shdPokemonById[$dataSetById[$pkm['baseSpecies']]['refs']['showdown']] ?? [];
+    $importData = static function (array $pkm, array $extPkm) use ($dataSetById, $shdPokemonById) {
+        if (!isset($extPkm['baseStats']) && $pkm['isForm']) {
+            $extPkm = $shdPokemonById[$dataSetById[$pkm['baseSpecies']]['refs']['showdown']] ?? [];
         }
-        if (!isset($shdPkm['baseStats'])) {
+        if (!isset($extPkm['baseStats'])) {
             echo "Missing showdown base stats for " . $pkm['id'] . "\n";
 
             return;
         }
         $outputFile = 'sources/pokemon/entries/' . $pkm['id'] . '.json';
         $newPkm = array_merge($pkm, [
-            'baseStats' => $shdPkm['baseStats'],
+            'baseStats' => $extPkm['baseStats'],
             //            'abilities' => [
             //                'primary' => $shdPkm['abilities']['0'] ?? null,
             //                'secondary' => $shdPkm['abilities']['1'] ?? null,
@@ -40,8 +40,8 @@ require_once __DIR__ . '/_bootstrap.php';
         ]);
         $newPkm['height']['min'] = $newPkm['height']['max'] = $newPkm['height']['alpha'] = -1;
         $newPkm['weight']['min'] = $newPkm['weight']['max'] = $newPkm['weight']['alpha'] = -1;
-        $newPkm['height']['avg'] = $shdPkm['heightm'] ?? -1;
-        $newPkm['weight']['avg'] = $shdPkm['weightkg'] ?? -1;
+        $newPkm['height']['avg'] = $extPkm['heightm'] ?? -1;
+        $newPkm['weight']['avg'] = $extPkm['weightkg'] ?? -1;
         sgg_data_save($outputFile, $newPkm, false);
     };
 
