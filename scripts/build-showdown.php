@@ -32,12 +32,14 @@ require_once __DIR__ . '/_bootstrap.php';
         $outputFile = 'sources/pokemon/entries/' . $pkm['id'] . '.json';
         $newPkm = array_merge($pkm, [
             'baseStats' => $shdPkm['baseStats'],
-            'abilities' => [
-                'primary' => $shdPkm['abilities']['0'] ?? null,
-                'secondary' => $shdPkm['abilities']['1'] ?? null,
-                'hidden' => $shdPkm['abilities']['H'] ?? null,
-            ],
+            //            'abilities' => [
+            //                'primary' => $shdPkm['abilities']['0'] ?? null,
+            //                'secondary' => $shdPkm['abilities']['1'] ?? null,
+            //                'hidden' => $shdPkm['abilities']['H'] ?? null,
+            //            ],
         ]);
+        $newPkm['height']['min'] = $newPkm['height']['max'] = $newPkm['height']['alpha'] = -1;
+        $newPkm['weight']['min'] = $newPkm['weight']['max'] = $newPkm['weight']['alpha'] = -1;
         $newPkm['height']['avg'] = $shdPkm['heightm'] ?? -1;
         $newPkm['weight']['avg'] = $shdPkm['weightkg'] ?? -1;
         sgg_data_save($outputFile, $newPkm, false);

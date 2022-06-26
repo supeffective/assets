@@ -62,16 +62,16 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
-        "min": "-1kg",
-        "max": "-1kg",
-        "alpha": "-1kg"
+        "avg": -1,
+        "min": -1,
+        "max": -1,
+        "alpha": -1
     },
     "height": {
-        "avg": "-1m",
-        "min": "-1m",
-        "max": "-1m",
-        "alpha": "-1m"
+        "avg": -1,
+        "min": -1,
+        "max": -1,
+        "alpha": -1
     },
     "maleRate": -1,
     "femaleRate": -1,

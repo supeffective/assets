@@ -24679,9 +24679,7 @@
         "shinyReleased": true
     },
     "vivillon-fancy": {
-        "obtainableIn": [
-            "xy"
-        ],
+        "obtainableIn": [],
         "storableIn": [
             "home",
             "oras",
@@ -24692,9 +24690,7 @@
         "shinyReleased": false
     },
     "vivillon-pokeball": {
-        "obtainableIn": [
-            "xy"
-        ],
+        "obtainableIn": [],
         "storableIn": [
             "home",
             "oras",

@@ -35876,11 +35876,11 @@
         "baseForms": [],
         "shinyReleased": false,
         "shinyBase": null,
-        "obtainableIn": [
+        "obtainableIn": [],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [
             "xy"
         ],
-        "versionExclusiveIn": [],
-        "eventOnlyIn": [],
         "storableIn": [
             "home",
             "oras",
@@ -35900,11 +35900,11 @@
         "baseForms": [],
         "shinyReleased": false,
         "shinyBase": null,
-        "obtainableIn": [
+        "obtainableIn": [],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [
             "xy"
         ],
-        "versionExclusiveIn": [],
-        "eventOnlyIn": [],
         "storableIn": [
             "home",
             "oras",

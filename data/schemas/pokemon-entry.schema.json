@@ -257,16 +257,16 @@
             "additionalProperties": false,
             "properties": {
                 "avg": {
-                    "type": "string"
+                    "type": "number"
                 },
                 "min": {
-                    "type": "string"
+                    "type": "number"
                 },
                 "max": {
-                    "type": "string"
+                    "type": "number"
                 },
                 "alpha": {
-                    "type": "string"
+                    "type": "number"
                 }
             },
             "required": [
@@ -281,16 +281,16 @@
             "additionalProperties": false,
             "properties": {
                 "avg": {
-                    "type": "string"
+                    "type": "number"
                 },
                 "min": {
-                    "type": "string"
+                    "type": "number"
                 },
                 "max": {
-                    "type": "string"
+                    "type": "number"
                 },
                 "alpha": {
-                    "type": "string"
+                    "type": "number"
                 }
             },
             "required": [
