@@ -11,7 +11,7 @@
     "type2": "fighting",
     "color": "yellow",
     "abilities": {
-        "primary": null,
+        "primary": "Justified",
         "secondary": null,
         "hidden": null
     },
@@ -56,12 +56,12 @@
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 91,
+        "atk": 72,
+        "def": 90,
+        "spa": 129,
+        "spd": 90,
+        "spe": 108
     },
     "goStats": {
         "maxCP": -1,
@@ -70,13 +70,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 48.5,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.4,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

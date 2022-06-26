@@ -11,9 +11,9 @@
     "type2": "flying",
     "color": "yellow",
     "abilities": {
-        "primary": null,
+        "primary": "Pressure",
         "secondary": null,
-        "hidden": null
+        "hidden": "Flame Body"
     },
     "isLegendary": true,
     "isMythical": false,
@@ -74,12 +74,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 90,
+        "atk": 100,
+        "def": 90,
+        "spa": 125,
+        "spd": 85,
+        "spe": 90
     },
     "goStats": {
         "maxCP": -1,
@@ -88,13 +88,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 60,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 2,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

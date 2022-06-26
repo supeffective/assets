@@ -11,9 +11,9 @@
     "type2": "flying",
     "color": "brown",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Keen Eye",
+        "secondary": "Inner Focus",
+        "hidden": "Defiant"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -74,12 +74,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 52,
+        "atk": 90,
+        "def": 55,
+        "spa": 58,
+        "spd": 62,
+        "spe": 60
     },
     "goStats": {
         "maxCP": -1,
@@ -88,13 +88,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 15,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.8,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

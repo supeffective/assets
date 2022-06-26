@@ -11,7 +11,7 @@
     "type2": "dragon",
     "color": "black",
     "abilities": {
-        "primary": null,
+        "primary": "Beast Boost",
         "secondary": null,
         "hidden": null
     },
@@ -53,12 +53,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 223,
+        "atk": 101,
+        "def": 53,
+        "spa": 97,
+        "spd": 53,
+        "spe": 43
     },
     "goStats": {
         "maxCP": -1,
@@ -67,13 +67,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 888,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 5.5,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

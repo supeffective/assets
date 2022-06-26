@@ -11,9 +11,9 @@
     "type2": "dragon",
     "color": "white",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Berserk",
+        "secondary": "Sap Sipper",
+        "hidden": "Cloud Nine"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -53,12 +53,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 78,
+        "atk": 60,
+        "def": 85,
+        "spa": 135,
+        "spd": 91,
+        "spe": 36
     },
     "goStats": {
         "maxCP": -1,
@@ -67,13 +67,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 185,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 3,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

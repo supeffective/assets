@@ -11,9 +11,9 @@
     "type2": "ground",
     "color": "brown",
     "abilities": {
-        "primary": null,
+        "primary": "Water Compaction",
         "secondary": null,
-        "hidden": null
+        "hidden": "Sand Veil"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -53,12 +53,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 85,
+        "atk": 75,
+        "def": 110,
+        "spa": 100,
+        "spd": 75,
+        "spe": 35
     },
     "goStats": {
         "maxCP": -1,
@@ -67,13 +67,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 250,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.3,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

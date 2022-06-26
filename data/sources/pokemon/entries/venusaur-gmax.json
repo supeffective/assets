@@ -11,9 +11,9 @@
     "type2": "poison",
     "color": "green",
     "abilities": {
-        "primary": null,
+        "primary": "Overgrow",
         "secondary": null,
-        "hidden": null
+        "hidden": "Chlorophyll"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -46,12 +46,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 80,
+        "atk": 82,
+        "def": 83,
+        "spa": 100,
+        "spd": 100,
+        "spe": 80
     },
     "goStats": {
         "maxCP": -1,
@@ -60,13 +60,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 0,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 2,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

@@ -11,9 +11,9 @@
     "type2": "flying",
     "color": "brown",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Run Away",
+        "secondary": "Early Bird",
+        "hidden": "Tangled Feet"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -72,12 +72,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 35,
+        "atk": 85,
+        "def": 45,
+        "spa": 35,
+        "spd": 35,
+        "spe": 75
     },
     "goStats": {
         "maxCP": -1,
@@ -86,13 +86,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 39.2,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.4,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

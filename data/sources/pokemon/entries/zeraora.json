@@ -11,7 +11,7 @@
     "type2": null,
     "color": "yellow",
     "abilities": {
-        "primary": null,
+        "primary": "Volt Absorb",
         "secondary": null,
         "hidden": null
     },
@@ -51,12 +51,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 88,
+        "atk": 112,
+        "def": 75,
+        "spa": 102,
+        "spd": 80,
+        "spe": 143
     },
     "goStats": {
         "maxCP": -1,
@@ -65,13 +65,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 44.5,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.5,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

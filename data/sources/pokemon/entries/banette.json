@@ -11,9 +11,9 @@
     "type2": null,
     "color": "black",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Insomnia",
+        "secondary": "Frisk",
+        "hidden": "Cursed Body"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -66,12 +66,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 64,
+        "atk": 115,
+        "def": 65,
+        "spa": 83,
+        "spd": 63,
+        "spe": 65
     },
     "goStats": {
         "maxCP": -1,
@@ -80,13 +80,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 12.5,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.1,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

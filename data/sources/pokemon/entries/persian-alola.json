@@ -11,9 +11,9 @@
     "type2": null,
     "color": "blue",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Fur Coat",
+        "secondary": "Technician",
+        "hidden": "Rattled"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -57,12 +57,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 65,
+        "atk": 60,
+        "def": 60,
+        "spa": 75,
+        "spd": 65,
+        "spe": 115
     },
     "goStats": {
         "maxCP": -1,
@@ -71,13 +71,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 33,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.1,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

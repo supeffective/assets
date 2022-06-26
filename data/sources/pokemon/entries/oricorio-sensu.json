@@ -11,7 +11,7 @@
     "type2": "flying",
     "color": "purple",
     "abilities": {
-        "primary": null,
+        "primary": "Dancer",
         "secondary": null,
         "hidden": null
     },
@@ -53,12 +53,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 75,
+        "atk": 70,
+        "def": 70,
+        "spa": 98,
+        "spd": 70,
+        "spe": 93
     },
     "goStats": {
         "maxCP": -1,
@@ -67,13 +67,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 3.4,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.6,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

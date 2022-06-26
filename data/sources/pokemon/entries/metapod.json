@@ -11,7 +11,7 @@
     "type2": null,
     "color": "green",
     "abilities": {
-        "primary": null,
+        "primary": "Shed Skin",
         "secondary": null,
         "hidden": null
     },
@@ -74,12 +74,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 50,
+        "atk": 20,
+        "def": 55,
+        "spa": 25,
+        "spd": 25,
+        "spe": 30
     },
     "goStats": {
         "maxCP": -1,
@@ -88,13 +88,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 9.9,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.7,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

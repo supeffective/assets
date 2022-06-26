@@ -11,9 +11,9 @@
     "type2": null,
     "color": "green",
     "abilities": {
-        "primary": null,
+        "primary": "Leaf Guard",
         "secondary": null,
-        "hidden": null
+        "hidden": "Chlorophyll"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -66,12 +66,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 65,
+        "atk": 110,
+        "def": 130,
+        "spa": 60,
+        "spd": 65,
+        "spe": 95
     },
     "goStats": {
         "maxCP": -1,
@@ -80,13 +80,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 25.5,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

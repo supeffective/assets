@@ -11,9 +11,9 @@
     "type2": null,
     "color": "purple",
     "abilities": {
-        "primary": null,
+        "primary": "Limber",
         "secondary": null,
-        "hidden": null
+        "hidden": "Imposter"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -74,12 +74,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 48,
+        "atk": 48,
+        "def": 48,
+        "spa": 48,
+        "spd": 48,
+        "spe": 48
     },
     "goStats": {
         "maxCP": -1,
@@ -88,13 +88,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 4,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.3,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

@@ -11,7 +11,7 @@
     "type2": null,
     "color": null,
     "abilities": {
-        "primary": null,
+        "primary": "Flower Veil",
         "secondary": null,
         "hidden": null
     },
@@ -44,12 +44,12 @@
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 74,
+        "atk": 65,
+        "def": 67,
+        "spa": 125,
+        "spd": 128,
+        "spe": 92
     },
     "goStats": {
         "maxCP": -1,
@@ -58,13 +58,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 0.9,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.2,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

@@ -11,7 +11,7 @@
     "type2": "grass",
     "color": "black",
     "abilities": {
-        "primary": null,
+        "primary": "Leaf Guard",
         "secondary": null,
         "hidden": null
     },
@@ -49,12 +49,12 @@
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 105,
+        "atk": 120,
+        "def": 105,
+        "spa": 70,
+        "spd": 95,
+        "spe": 105
     },
     "goStats": {
         "maxCP": -1,
@@ -63,13 +63,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 70,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.8,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

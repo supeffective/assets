@@ -11,9 +11,9 @@
     "type2": null,
     "color": "green",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Stench",
+        "secondary": "Weak Armor",
+        "hidden": "Aftermath"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -59,12 +59,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 80,
+        "atk": 95,
+        "def": 82,
+        "spa": 60,
+        "spd": 82,
+        "spe": 75
     },
     "goStats": {
         "maxCP": -1,
@@ -73,13 +73,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 107.3,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.9,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

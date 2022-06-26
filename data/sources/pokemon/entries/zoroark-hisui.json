@@ -11,7 +11,7 @@
     "type2": "ghost",
     "color": "white",
     "abilities": {
-        "primary": null,
+        "primary": "Illusion",
         "secondary": null,
         "hidden": null
     },
@@ -49,12 +49,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 55,
+        "atk": 100,
+        "def": 60,
+        "spa": 125,
+        "spd": 60,
+        "spe": 110
     },
     "goStats": {
         "maxCP": -1,
@@ -63,13 +63,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 73,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.6,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

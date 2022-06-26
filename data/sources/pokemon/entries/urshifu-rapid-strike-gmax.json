@@ -11,7 +11,7 @@
     "type2": "water",
     "color": "gray",
     "abilities": {
-        "primary": null,
+        "primary": "Unseen Fist",
         "secondary": null,
         "hidden": null
     },
@@ -46,12 +46,12 @@
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 100,
+        "atk": 130,
+        "def": 100,
+        "spa": 63,
+        "spd": 60,
+        "spe": 97
     },
     "goStats": {
         "maxCP": -1,
@@ -60,13 +60,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 105,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.9,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

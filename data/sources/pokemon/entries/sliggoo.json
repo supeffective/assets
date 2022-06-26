@@ -11,9 +11,9 @@
     "type2": null,
     "color": "purple",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Sap Sipper",
+        "secondary": "Hydration",
+        "hidden": "Gooey"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -56,12 +56,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 68,
+        "atk": 75,
+        "def": 53,
+        "spa": 83,
+        "spd": 113,
+        "spe": 60
     },
     "goStats": {
         "maxCP": -1,
@@ -70,13 +70,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 17.5,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.8,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

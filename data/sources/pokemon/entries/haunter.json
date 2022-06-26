@@ -11,7 +11,7 @@
     "type2": "poison",
     "color": "purple",
     "abilities": {
-        "primary": null,
+        "primary": "Levitate",
         "secondary": null,
         "hidden": null
     },
@@ -76,12 +76,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 45,
+        "atk": 50,
+        "def": 45,
+        "spa": 115,
+        "spd": 55,
+        "spe": 95
     },
     "goStats": {
         "maxCP": -1,
@@ -90,13 +90,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 0.1,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.6,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

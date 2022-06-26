@@ -11,7 +11,7 @@
     "type2": "flying",
     "color": "green",
     "abilities": {
-        "primary": null,
+        "primary": "Air Lock",
         "secondary": null,
         "hidden": null
     },
@@ -68,12 +68,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 105,
+        "atk": 150,
+        "def": 90,
+        "spa": 150,
+        "spd": 90,
+        "spe": 95
     },
     "goStats": {
         "maxCP": -1,
@@ -82,13 +82,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 206.5,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 7,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

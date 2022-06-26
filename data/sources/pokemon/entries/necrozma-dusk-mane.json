@@ -11,7 +11,7 @@
     "type2": "steel",
     "color": "yellow",
     "abilities": {
-        "primary": null,
+        "primary": "Prism Armor",
         "secondary": null,
         "hidden": null
     },
@@ -55,12 +55,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 97,
+        "atk": 157,
+        "def": 127,
+        "spa": 113,
+        "spd": 109,
+        "spe": 77
     },
     "goStats": {
         "maxCP": -1,
@@ -69,13 +69,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 460,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 3.8,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

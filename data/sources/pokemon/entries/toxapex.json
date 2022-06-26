@@ -11,9 +11,9 @@
     "type2": "water",
     "color": "blue",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Merciless",
+        "secondary": "Limber",
+        "hidden": "Regenerator"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -53,12 +53,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 50,
+        "atk": 63,
+        "def": 152,
+        "spa": 53,
+        "spd": 142,
+        "spe": 35
     },
     "goStats": {
         "maxCP": -1,
@@ -67,13 +67,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 14.5,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.7,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

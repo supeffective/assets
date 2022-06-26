@@ -11,9 +11,9 @@
     "type2": "flying",
     "color": "purple",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Hyper Cutter",
+        "secondary": "Sand Veil",
+        "hidden": "Immunity"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -70,12 +70,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 65,
+        "atk": 75,
+        "def": 105,
+        "spa": 35,
+        "spd": 65,
+        "spe": 85
     },
     "goStats": {
         "maxCP": -1,
@@ -84,13 +84,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 64.8,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.1,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

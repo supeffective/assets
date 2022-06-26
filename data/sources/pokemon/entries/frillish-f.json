@@ -11,9 +11,9 @@
     "type2": "ghost",
     "color": "white",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Water Absorb",
+        "secondary": "Cursed Body",
+        "hidden": "Damp"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -59,12 +59,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 55,
+        "atk": 40,
+        "def": 50,
+        "spa": 65,
+        "spd": 85,
+        "spe": 40
     },
     "goStats": {
         "maxCP": -1,
@@ -73,13 +73,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 33,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.2,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

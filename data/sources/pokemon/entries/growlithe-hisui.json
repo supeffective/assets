@@ -11,9 +11,9 @@
     "type2": "rock",
     "color": "brown",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Intimidate",
+        "secondary": "Flash Fire",
+        "hidden": "Justified"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -49,12 +49,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 60,
+        "atk": 75,
+        "def": 45,
+        "spa": 65,
+        "spd": 50,
+        "spe": 55
     },
     "goStats": {
         "maxCP": -1,
@@ -63,13 +63,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 22.7,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.8,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

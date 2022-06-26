@@ -11,9 +11,9 @@
     "type2": "flying",
     "color": "red",
     "abilities": {
-        "primary": null,
+        "primary": "Flame Body",
         "secondary": null,
-        "hidden": null
+        "hidden": "Gale Wings"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -56,12 +56,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 62,
+        "atk": 73,
+        "def": 55,
+        "spa": 56,
+        "spd": 52,
+        "spe": 84
     },
     "goStats": {
         "maxCP": -1,
@@ -70,13 +70,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 16,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.7,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

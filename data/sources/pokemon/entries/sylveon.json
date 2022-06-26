@@ -11,9 +11,9 @@
     "type2": null,
     "color": "pink",
     "abilities": {
-        "primary": null,
+        "primary": "Cute Charm",
         "secondary": null,
-        "hidden": null
+        "hidden": "Pixilate"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -58,12 +58,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 95,
+        "atk": 65,
+        "def": 65,
+        "spa": 110,
+        "spd": 130,
+        "spe": 60
     },
     "goStats": {
         "maxCP": -1,
@@ -72,13 +72,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 23.5,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

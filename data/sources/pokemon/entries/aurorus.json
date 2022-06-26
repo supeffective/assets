@@ -11,9 +11,9 @@
     "type2": "ice",
     "color": "blue",
     "abilities": {
-        "primary": null,
+        "primary": "Refrigerate",
         "secondary": null,
-        "hidden": null
+        "hidden": "Snow Warning"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -56,12 +56,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 123,
+        "atk": 77,
+        "def": 72,
+        "spa": 99,
+        "spd": 92,
+        "spe": 58
     },
     "goStats": {
         "maxCP": -1,
@@ -70,13 +70,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 225,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 2.7,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

@@ -11,7 +11,7 @@
     "type2": "ground",
     "color": "blue",
     "abilities": {
-        "primary": null,
+        "primary": "Swift Swim",
         "secondary": null,
         "hidden": null
     },
@@ -47,12 +47,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 100,
+        "atk": 150,
+        "def": 110,
+        "spa": 95,
+        "spd": 110,
+        "spe": 70
     },
     "goStats": {
         "maxCP": -1,
@@ -61,13 +61,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 102,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.9,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

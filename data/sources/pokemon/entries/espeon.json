@@ -11,9 +11,9 @@
     "type2": null,
     "color": "purple",
     "abilities": {
-        "primary": null,
+        "primary": "Synchronize",
         "secondary": null,
-        "hidden": null
+        "hidden": "Magic Bounce"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -72,12 +72,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 65,
+        "atk": 65,
+        "def": 60,
+        "spa": 130,
+        "spd": 95,
+        "spe": 110
     },
     "goStats": {
         "maxCP": -1,
@@ -86,13 +86,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 26.5,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.9,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

@@ -11,9 +11,9 @@
     "type2": null,
     "color": "pink",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Own Tempo",
+        "secondary": "Oblivious",
+        "hidden": "Cloud Nine"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -66,12 +66,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 110,
+        "atk": 85,
+        "def": 95,
+        "spa": 80,
+        "spd": 95,
+        "spe": 50
     },
     "goStats": {
         "maxCP": -1,
@@ -80,13 +80,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 140,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.7,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

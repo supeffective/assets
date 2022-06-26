@@ -11,9 +11,9 @@
     "type2": "flying",
     "color": "black",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Wonder Skin",
+        "secondary": "Magic Guard",
+        "hidden": "Tinted Lens"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -59,12 +59,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 72,
+        "atk": 58,
+        "def": 80,
+        "spa": 103,
+        "spd": 80,
+        "spe": 97
     },
     "goStats": {
         "maxCP": -1,
@@ -73,13 +73,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 14,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.4,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

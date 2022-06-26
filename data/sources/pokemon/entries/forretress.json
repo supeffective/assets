@@ -11,9 +11,9 @@
     "type2": "steel",
     "color": "purple",
     "abilities": {
-        "primary": null,
+        "primary": "Sturdy",
         "secondary": null,
-        "hidden": null
+        "hidden": "Overcoat"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -68,12 +68,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 75,
+        "atk": 90,
+        "def": 140,
+        "spa": 60,
+        "spd": 60,
+        "spe": 40
     },
     "goStats": {
         "maxCP": -1,
@@ -82,13 +82,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 125.8,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.2,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

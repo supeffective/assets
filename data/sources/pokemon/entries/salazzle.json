@@ -11,9 +11,9 @@
     "type2": "fire",
     "color": "black",
     "abilities": {
-        "primary": null,
+        "primary": "Corrosion",
         "secondary": null,
-        "hidden": null
+        "hidden": "Oblivious"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -55,12 +55,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 68,
+        "atk": 64,
+        "def": 60,
+        "spa": 111,
+        "spd": 60,
+        "spe": 117
     },
     "goStats": {
         "maxCP": -1,
@@ -69,13 +69,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 22.2,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.2,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

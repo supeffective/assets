@@ -11,7 +11,7 @@
     "type2": "flying",
     "color": "green",
     "abilities": {
-        "primary": null,
+        "primary": "Delta Stream",
         "secondary": null,
         "hidden": null
     },
@@ -47,12 +47,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 105,
+        "atk": 180,
+        "def": 100,
+        "spa": 180,
+        "spd": 100,
+        "spe": 115
     },
     "goStats": {
         "maxCP": -1,
@@ -61,13 +61,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 392,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 10.8,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

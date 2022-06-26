@@ -11,9 +11,9 @@
     "type2": null,
     "color": "pink",
     "abilities": {
-        "primary": null,
+        "primary": "Swift Swim",
         "secondary": null,
-        "hidden": null
+        "hidden": "Hydration"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -66,12 +66,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 55,
+        "atk": 84,
+        "def": 105,
+        "spa": 114,
+        "spd": 75,
+        "spe": 52
     },
     "goStats": {
         "maxCP": -1,
@@ -80,13 +80,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 22.6,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.8,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

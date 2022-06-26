@@ -11,7 +11,7 @@
     "type2": "psychic",
     "color": "yellow",
     "abilities": {
-        "primary": null,
+        "primary": "Levitate",
         "secondary": null,
         "hidden": null
     },
@@ -68,12 +68,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 90,
+        "atk": 55,
+        "def": 65,
+        "spa": 95,
+        "spd": 85,
+        "spe": 70
     },
     "goStats": {
         "maxCP": -1,
@@ -82,13 +82,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 168,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

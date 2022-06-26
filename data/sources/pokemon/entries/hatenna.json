@@ -11,9 +11,9 @@
     "type2": null,
     "color": "pink",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Healer",
+        "secondary": "Anticipation",
+        "hidden": "Magic Bounce"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -49,12 +49,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 42,
+        "atk": 30,
+        "def": 45,
+        "spa": 56,
+        "spd": 53,
+        "spe": 39
     },
     "goStats": {
         "maxCP": -1,
@@ -63,13 +63,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 3.4,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.4,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

@@ -11,9 +11,9 @@
     "type2": "ground",
     "color": "brown",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Oblivious",
+        "secondary": "Snow Cloak",
+        "hidden": "Thick Fat"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -66,12 +66,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 110,
+        "atk": 130,
+        "def": 80,
+        "spa": 70,
+        "spd": 60,
+        "spe": 80
     },
     "goStats": {
         "maxCP": -1,
@@ -80,13 +80,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 291,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 2.5,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

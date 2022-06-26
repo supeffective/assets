@@ -11,7 +11,7 @@
     "type2": "steel",
     "color": "red",
     "abilities": {
-        "primary": null,
+        "primary": "Dauntless Shield",
         "secondary": null,
         "hidden": null
     },
@@ -46,12 +46,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 92,
+        "atk": 130,
+        "def": 145,
+        "spa": 80,
+        "spd": 145,
+        "spe": 128
     },
     "goStats": {
         "maxCP": -1,
@@ -60,13 +60,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 785,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 2.9,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

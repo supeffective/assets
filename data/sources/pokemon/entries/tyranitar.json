@@ -11,9 +11,9 @@
     "type2": "dark",
     "color": "green",
     "abilities": {
-        "primary": null,
+        "primary": "Sand Stream",
         "secondary": null,
-        "hidden": null
+        "hidden": "Unnerve"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -70,12 +70,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 100,
+        "atk": 134,
+        "def": 110,
+        "spa": 95,
+        "spd": 100,
+        "spe": 61
     },
     "goStats": {
         "maxCP": -1,
@@ -84,13 +84,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 202,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 2,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

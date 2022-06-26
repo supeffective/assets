@@ -11,9 +11,9 @@
     "type2": null,
     "color": "gray",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Inner Focus",
+        "secondary": "Ice Body",
+        "hidden": "Moody"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -70,12 +70,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 80,
+        "atk": 80,
+        "def": 80,
+        "spa": 80,
+        "spd": 80,
+        "spe": 80
     },
     "goStats": {
         "maxCP": -1,
@@ -84,13 +84,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 256.5,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.5,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

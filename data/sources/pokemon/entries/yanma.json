@@ -11,9 +11,9 @@
     "type2": "flying",
     "color": "red",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Speed Boost",
+        "secondary": "Compound Eyes",
+        "hidden": "Frisk"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -70,12 +70,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 65,
+        "atk": 65,
+        "def": 45,
+        "spa": 75,
+        "spd": 45,
+        "spe": 95
     },
     "goStats": {
         "maxCP": -1,
@@ -84,13 +84,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 38,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.2,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

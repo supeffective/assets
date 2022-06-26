@@ -11,9 +11,9 @@
     "type2": null,
     "color": "red",
     "abilities": {
-        "primary": null,
+        "primary": "Shield Dust",
         "secondary": null,
-        "hidden": null
+        "hidden": "Run Away"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -68,12 +68,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 45,
+        "atk": 45,
+        "def": 35,
+        "spa": 20,
+        "spd": 30,
+        "spe": 20
     },
     "goStats": {
         "maxCP": -1,
@@ -82,13 +82,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 3.6,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.3,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

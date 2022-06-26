@@ -11,9 +11,9 @@
     "type2": null,
     "color": "brown",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Battle Armor",
+        "secondary": "Tough Claws",
+        "hidden": "Steely Spirit"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -51,12 +51,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 70,
+        "atk": 110,
+        "def": 100,
+        "spa": 50,
+        "spd": 60,
+        "spe": 50
     },
     "goStats": {
         "maxCP": -1,
@@ -65,13 +65,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 28,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.8,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

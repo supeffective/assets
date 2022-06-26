@@ -11,9 +11,9 @@
     "type2": "poison",
     "color": "blue",
     "abilities": {
-        "primary": null,
+        "primary": "Chlorophyll",
         "secondary": null,
-        "hidden": null
+        "hidden": "Run Away"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -74,12 +74,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 45,
+        "atk": 50,
+        "def": 55,
+        "spa": 75,
+        "spd": 65,
+        "spe": 30
     },
     "goStats": {
         "maxCP": -1,
@@ -88,13 +88,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 5.4,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.5,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

@@ -11,9 +11,9 @@
     "type2": "grass",
     "color": "brown",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Chlorophyll",
+        "secondary": "Sap Sipper",
+        "hidden": "Serene Grace"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -57,12 +57,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 80,
+        "atk": 100,
+        "def": 70,
+        "spa": 60,
+        "spd": 70,
+        "spe": 95
     },
     "goStats": {
         "maxCP": -1,
@@ -71,13 +71,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 92.5,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.9,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

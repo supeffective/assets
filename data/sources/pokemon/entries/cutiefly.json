@@ -11,9 +11,9 @@
     "type2": "fairy",
     "color": "yellow",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Honey Gather",
+        "secondary": "Shield Dust",
+        "hidden": "Sweet Veil"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -53,12 +53,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 40,
+        "atk": 45,
+        "def": 40,
+        "spa": 55,
+        "spd": 40,
+        "spe": 84
     },
     "goStats": {
         "maxCP": -1,
@@ -67,13 +67,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 0.2,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.1,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

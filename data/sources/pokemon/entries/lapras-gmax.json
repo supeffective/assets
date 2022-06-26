@@ -11,9 +11,9 @@
     "type2": "ice",
     "color": "blue",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Water Absorb",
+        "secondary": "Shell Armor",
+        "hidden": "Hydration"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -46,12 +46,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 130,
+        "atk": 85,
+        "def": 80,
+        "spa": 85,
+        "spd": 95,
+        "spe": 60
     },
     "goStats": {
         "maxCP": -1,
@@ -60,13 +60,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 0,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 24,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

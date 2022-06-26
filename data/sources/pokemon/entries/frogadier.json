@@ -11,9 +11,9 @@
     "type2": null,
     "color": "blue",
     "abilities": {
-        "primary": null,
+        "primary": "Torrent",
         "secondary": null,
-        "hidden": null
+        "hidden": "Protean"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -54,12 +54,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 54,
+        "atk": 63,
+        "def": 52,
+        "spa": 83,
+        "spd": 56,
+        "spe": 97
     },
     "goStats": {
         "maxCP": -1,
@@ -68,13 +68,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 10.9,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.6,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

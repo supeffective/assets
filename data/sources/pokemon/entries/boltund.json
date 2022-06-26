@@ -11,9 +11,9 @@
     "type2": null,
     "color": "yellow",
     "abilities": {
-        "primary": null,
+        "primary": "Strong Jaw",
         "secondary": null,
-        "hidden": null
+        "hidden": "Competitive"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -49,12 +49,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 69,
+        "atk": 90,
+        "def": 60,
+        "spa": 90,
+        "spd": 60,
+        "spe": 121
     },
     "goStats": {
         "maxCP": -1,
@@ -63,13 +63,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 34,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

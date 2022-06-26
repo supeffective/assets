@@ -11,9 +11,9 @@
     "type2": "steel",
     "color": "white",
     "abilities": {
-        "primary": null,
+        "primary": "Snow Cloak",
         "secondary": null,
-        "hidden": null
+        "hidden": "Slush Rush"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -57,12 +57,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 50,
+        "atk": 75,
+        "def": 90,
+        "spa": 10,
+        "spd": 35,
+        "spe": 40
     },
     "goStats": {
         "maxCP": -1,
@@ -71,13 +71,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 40,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.7,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

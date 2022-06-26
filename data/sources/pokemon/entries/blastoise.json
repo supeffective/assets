@@ -11,9 +11,9 @@
     "type2": null,
     "color": "blue",
     "abilities": {
-        "primary": null,
+        "primary": "Torrent",
         "secondary": null,
-        "hidden": null
+        "hidden": "Rain Dish"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -74,12 +74,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 79,
+        "atk": 83,
+        "def": 100,
+        "spa": 85,
+        "spd": 105,
+        "spe": 78
     },
     "goStats": {
         "maxCP": -1,
@@ -88,13 +88,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 85.5,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.6,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

@@ -11,9 +11,9 @@
     "type2": null,
     "color": "red",
     "abilities": {
-        "primary": null,
+        "primary": "Flame Body",
         "secondary": null,
-        "hidden": null
+        "hidden": "Vital Spirit"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -76,12 +76,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 65,
+        "atk": 95,
+        "def": 57,
+        "spa": 100,
+        "spd": 85,
+        "spe": 93
     },
     "goStats": {
         "maxCP": -1,
@@ -90,13 +90,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 44.5,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.3,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

@@ -11,7 +11,7 @@
     "type2": "poison",
     "color": "purple",
     "abilities": {
-        "primary": null,
+        "primary": "Shadow Tag",
         "secondary": null,
         "hidden": null
     },
@@ -47,12 +47,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 60,
+        "atk": 65,
+        "def": 80,
+        "spa": 170,
+        "spd": 95,
+        "spe": 130
     },
     "goStats": {
         "maxCP": -1,
@@ -61,13 +61,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 40.5,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.4,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

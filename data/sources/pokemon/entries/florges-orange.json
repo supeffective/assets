@@ -11,9 +11,9 @@
     "type2": null,
     "color": "white",
     "abilities": {
-        "primary": null,
+        "primary": "Flower Veil",
         "secondary": null,
-        "hidden": null
+        "hidden": "Symbiosis"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -54,12 +54,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 78,
+        "atk": 65,
+        "def": 68,
+        "spa": 112,
+        "spd": 154,
+        "spe": 75
     },
     "goStats": {
         "maxCP": -1,
@@ -68,13 +68,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 10,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.1,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

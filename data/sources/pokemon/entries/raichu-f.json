@@ -11,9 +11,9 @@
     "type2": null,
     "color": "yellow",
     "abilities": {
-        "primary": null,
+        "primary": "Static",
         "secondary": null,
-        "hidden": null
+        "hidden": "Lightning Rod"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -76,12 +76,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 60,
+        "atk": 90,
+        "def": 55,
+        "spa": 90,
+        "spd": 80,
+        "spe": 110
     },
     "goStats": {
         "maxCP": -1,
@@ -90,13 +90,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 30,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.8,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

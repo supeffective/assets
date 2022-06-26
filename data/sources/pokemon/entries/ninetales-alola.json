@@ -11,9 +11,9 @@
     "type2": "fairy",
     "color": "blue",
     "abilities": {
-        "primary": null,
+        "primary": "Snow Cloak",
         "secondary": null,
-        "hidden": null
+        "hidden": "Snow Warning"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -59,12 +59,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 73,
+        "atk": 67,
+        "def": 75,
+        "spa": 81,
+        "spd": 100,
+        "spe": 109
     },
     "goStats": {
         "maxCP": -1,
@@ -73,13 +73,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 19.9,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.1,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

@@ -11,9 +11,9 @@
     "type2": "dark",
     "color": "white",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Iron Fist",
+        "secondary": "Mold Breaker",
+        "hidden": "Scrappy"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -56,12 +56,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 95,
+        "atk": 124,
+        "def": 78,
+        "spa": 69,
+        "spd": 71,
+        "spe": 58
     },
     "goStats": {
         "maxCP": -1,
@@ -70,13 +70,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 136,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 2.1,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

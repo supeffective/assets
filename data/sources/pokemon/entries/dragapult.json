@@ -11,9 +11,9 @@
     "type2": "ghost",
     "color": "green",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Clear Body",
+        "secondary": "Infiltrator",
+        "hidden": "Cursed Body"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -49,12 +49,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 88,
+        "atk": 120,
+        "def": 75,
+        "spa": 100,
+        "spd": 75,
+        "spe": 142
     },
     "goStats": {
         "maxCP": -1,
@@ -63,13 +63,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 50,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 3,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

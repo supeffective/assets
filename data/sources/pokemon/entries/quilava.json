@@ -11,9 +11,9 @@
     "type2": null,
     "color": "yellow",
     "abilities": {
-        "primary": null,
+        "primary": "Blaze",
         "secondary": null,
-        "hidden": null
+        "hidden": "Flash Fire"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -70,12 +70,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 58,
+        "atk": 64,
+        "def": 58,
+        "spa": 80,
+        "spd": 65,
+        "spe": 80
     },
     "goStats": {
         "maxCP": -1,
@@ -84,13 +84,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 19,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.9,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

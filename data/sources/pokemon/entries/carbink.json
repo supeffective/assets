@@ -11,9 +11,9 @@
     "type2": "fairy",
     "color": "gray",
     "abilities": {
-        "primary": null,
+        "primary": "Clear Body",
         "secondary": null,
-        "hidden": null
+        "hidden": "Sturdy"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -54,12 +54,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 50,
+        "atk": 50,
+        "def": 150,
+        "spa": 50,
+        "spd": 150,
+        "spe": 50
     },
     "goStats": {
         "maxCP": -1,
@@ -68,13 +68,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 5.7,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.3,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

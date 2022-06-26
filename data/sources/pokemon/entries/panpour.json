@@ -11,9 +11,9 @@
     "type2": null,
     "color": "blue",
     "abilities": {
-        "primary": null,
+        "primary": "Gluttony",
         "secondary": null,
-        "hidden": null
+        "hidden": "Torrent"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -57,12 +57,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 50,
+        "atk": 53,
+        "def": 48,
+        "spa": 53,
+        "spd": 48,
+        "spe": 64
     },
     "goStats": {
         "maxCP": -1,
@@ -71,13 +71,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 13.5,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.6,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

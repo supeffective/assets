@@ -11,9 +11,9 @@
     "type2": "fighting",
     "color": "red",
     "abilities": {
-        "primary": null,
+        "primary": "Blaze",
         "secondary": null,
-        "hidden": null
+        "hidden": "Reckless"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -57,12 +57,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 110,
+        "atk": 123,
+        "def": 65,
+        "spa": 100,
+        "spd": 65,
+        "spe": 65
     },
     "goStats": {
         "maxCP": -1,
@@ -71,13 +71,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 150,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.6,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

@@ -11,9 +11,9 @@
     "type2": null,
     "color": "white",
     "abilities": {
-        "primary": null,
+        "primary": "Sweet Veil",
         "secondary": null,
-        "hidden": null
+        "hidden": "Aroma Veil"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -49,12 +49,12 @@
     "shinyReleased": true,
     "shinyBase": "alcremie-vanilla-cream-flower",
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 65,
+        "atk": 60,
+        "def": 75,
+        "spa": 110,
+        "spd": 121,
+        "spe": 64
     },
     "goStats": {
         "maxCP": -1,
@@ -63,13 +63,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 0.5,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.3,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

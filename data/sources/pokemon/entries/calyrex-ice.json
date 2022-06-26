@@ -11,7 +11,7 @@
     "type2": "ice",
     "color": "white",
     "abilities": {
-        "primary": null,
+        "primary": "As One (Glastrier)",
         "secondary": null,
         "hidden": null
     },
@@ -53,12 +53,12 @@
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 100,
+        "atk": 165,
+        "def": 150,
+        "spa": 85,
+        "spd": 130,
+        "spe": 50
     },
     "goStats": {
         "maxCP": -1,
@@ -67,13 +67,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 809.1,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 2.4,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

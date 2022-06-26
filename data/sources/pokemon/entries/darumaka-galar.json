@@ -11,9 +11,9 @@
     "type2": null,
     "color": "white",
     "abilities": {
-        "primary": null,
+        "primary": "Hustle",
         "secondary": null,
-        "hidden": null
+        "hidden": "Inner Focus"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -51,12 +51,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 70,
+        "atk": 90,
+        "def": 45,
+        "spa": 15,
+        "spd": 45,
+        "spe": 50
     },
     "goStats": {
         "maxCP": -1,
@@ -65,13 +65,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 40,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.7,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

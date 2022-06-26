@@ -11,9 +11,9 @@
     "type2": "fairy",
     "color": "white",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Synchronize",
+        "secondary": "Trace",
+        "hidden": "Telepathy"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -70,12 +70,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 28,
+        "atk": 25,
+        "def": 25,
+        "spa": 45,
+        "spd": 35,
+        "spe": 40
     },
     "goStats": {
         "maxCP": -1,
@@ -84,13 +84,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 6.6,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.4,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

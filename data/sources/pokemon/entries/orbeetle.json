@@ -11,9 +11,9 @@
     "type2": "psychic",
     "color": "red",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Swarm",
+        "secondary": "Frisk",
+        "hidden": "Telepathy"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -49,12 +49,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 60,
+        "atk": 45,
+        "def": 110,
+        "spa": 80,
+        "spd": 120,
+        "spe": 90
     },
     "goStats": {
         "maxCP": -1,
@@ -63,13 +63,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 40.8,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.4,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

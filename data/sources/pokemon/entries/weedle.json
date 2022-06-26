@@ -11,9 +11,9 @@
     "type2": "poison",
     "color": "brown",
     "abilities": {
-        "primary": null,
+        "primary": "Shield Dust",
         "secondary": null,
-        "hidden": null
+        "hidden": "Run Away"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -72,12 +72,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 40,
+        "atk": 35,
+        "def": 30,
+        "spa": 20,
+        "spd": 20,
+        "spe": 50
     },
     "goStats": {
         "maxCP": -1,
@@ -86,13 +86,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 3.2,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.3,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

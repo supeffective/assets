@@ -11,7 +11,7 @@
     "type2": null,
     "color": "purple",
     "abilities": {
-        "primary": null,
+        "primary": "Flower Gift",
         "secondary": null,
         "hidden": null
     },
@@ -66,12 +66,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 70,
+        "atk": 60,
+        "def": 70,
+        "spa": 87,
+        "spd": 78,
+        "spe": 85
     },
     "goStats": {
         "maxCP": -1,
@@ -80,13 +80,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 9.3,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.5,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

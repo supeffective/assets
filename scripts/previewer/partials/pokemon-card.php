@@ -156,16 +156,10 @@ echo $pkm['name']; ?>"
         </div>
     </div>
 
-    <div class="info-2col">
-        <div><p>Max CP</p>
-            <div><span class="size"><?= $pkm['goStats']['maxCP'] ?></span></div>
-        </div>
+    <div class="info-3col">
         <div><p>GO Att.</p>
             <div><span class="size"><?= $pkm['goStats']['attack'] ?></span></div>
         </div>
-    </div>
-
-    <div class="info-2col">
         <div><p>GO Def.</p>
             <div><span class="size"><?= $pkm['goStats']['defense'] ?></span></div>
         </div>

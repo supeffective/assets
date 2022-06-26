@@ -11,9 +11,9 @@
     "type2": "normal",
     "color": "yellow",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Dry Skin",
+        "secondary": "Sand Veil",
+        "hidden": "Solar Power"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -56,12 +56,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 44,
+        "atk": 38,
+        "def": 33,
+        "spa": 61,
+        "spd": 43,
+        "spe": 70
     },
     "goStats": {
         "maxCP": -1,
@@ -70,13 +70,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 6,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.5,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

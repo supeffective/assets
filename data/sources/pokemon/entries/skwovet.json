@@ -11,9 +11,9 @@
     "type2": null,
     "color": "brown",
     "abilities": {
-        "primary": null,
+        "primary": "Cheek Pouch",
         "secondary": null,
-        "hidden": null
+        "hidden": "Gluttony"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -51,12 +51,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 70,
+        "atk": 55,
+        "def": 55,
+        "spa": 35,
+        "spd": 35,
+        "spe": 25
     },
     "goStats": {
         "maxCP": -1,
@@ -65,13 +65,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 2.5,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.3,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

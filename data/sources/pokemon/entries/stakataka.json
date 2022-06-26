@@ -11,7 +11,7 @@
     "type2": "steel",
     "color": "gray",
     "abilities": {
-        "primary": null,
+        "primary": "Beast Boost",
         "secondary": null,
         "hidden": null
     },
@@ -51,12 +51,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 61,
+        "atk": 131,
+        "def": 211,
+        "spa": 53,
+        "spd": 101,
+        "spe": 13
     },
     "goStats": {
         "maxCP": -1,
@@ -65,13 +65,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 820,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 5.5,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

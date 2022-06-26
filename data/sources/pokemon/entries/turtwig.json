@@ -11,9 +11,9 @@
     "type2": null,
     "color": "green",
     "abilities": {
-        "primary": null,
+        "primary": "Overgrow",
         "secondary": null,
-        "hidden": null
+        "hidden": "Shell Armor"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -64,12 +64,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 55,
+        "atk": 68,
+        "def": 64,
+        "spa": 45,
+        "spd": 55,
+        "spe": 31
     },
     "goStats": {
         "maxCP": -1,
@@ -78,13 +78,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 10.2,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 0.4,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

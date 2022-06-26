@@ -11,9 +11,9 @@
     "type2": "fairy",
     "color": "pink",
     "abilities": {
-        "primary": null,
-        "secondary": null,
-        "hidden": null
+        "primary": "Healer",
+        "secondary": "Anticipation",
+        "hidden": "Magic Bounce"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -46,12 +46,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 57,
+        "atk": 90,
+        "def": 95,
+        "spa": 136,
+        "spd": 103,
+        "spe": 29
     },
     "goStats": {
         "maxCP": -1,
@@ -60,13 +60,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 0,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 26,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"

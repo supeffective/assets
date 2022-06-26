@@ -11,7 +11,7 @@
     "type2": "dragon",
     "color": "blue",
     "abilities": {
-        "primary": null,
+        "primary": "Hustle",
         "secondary": null,
         "hidden": null
     },
@@ -59,12 +59,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 72,
+        "atk": 85,
+        "def": 70,
+        "spa": 65,
+        "spd": 70,
+        "spe": 58
     },
     "goStats": {
         "maxCP": -1,
@@ -73,13 +73,13 @@
         "stamina": -1
     },
     "weight": {
-        "avg": "-1kg",
+        "avg": 50,
         "min": "-1kg",
         "max": "-1kg",
         "alpha": "-1kg"
     },
     "height": {
-        "avg": "-1m",
+        "avg": 1.4,
         "min": "-1m",
         "max": "-1m",
         "alpha": "-1m"
