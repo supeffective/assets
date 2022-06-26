@@ -38,8 +38,12 @@
     "canBeAlpha": false,
     "debutIn": "xy",
     "obtainableIn": [
+        "xy",
+        "oras",
+        "sm",
+        "usum",
         "go",
-        "xy"
+        "lgpe"
     ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
