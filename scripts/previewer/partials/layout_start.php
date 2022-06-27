@@ -21,6 +21,7 @@
             <nav>
                 <a class="btn btn-outline-primary" href="/">Home</a>
                 <a class="btn btn-outline-primary" href="/pokemon?gameset=rb">Pokémon</a>
-                <a class="btn btn-outline-primary" href="/presets">Presets</a>
+                <a class="btn btn-outline-primary" href="/pokemon-locations?pidx=0">Locations Editor</a>
+                <a class="btn btn-outline-primary" href="/presets">Box Presets</a>
             </nav>
         </header>

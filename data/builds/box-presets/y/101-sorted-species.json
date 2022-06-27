@@ -190,7 +190,6 @@
         },
         {
             "pokemon": [
-                "venusaur-f",
                 "butterfree-f",
                 "rattata-f",
                 "raticate-f",
@@ -209,12 +208,12 @@
                 "rhydon-f",
                 "goldeen-f",
                 "seaking-f",
-                "scyther-f"
+                "scyther-f",
+                "magikarp-f"
             ]
         },
         {
             "pokemon": [
-                "magikarp-f",
                 "gyarados-f",
                 "eevee-f"
             ]

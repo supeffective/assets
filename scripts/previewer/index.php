@@ -10,6 +10,7 @@ require_once __DIR__ . '/functions.php';
 /** @global string $route */
 /** @global string|null $currentGameSetId */
 /** @global string|null $currentPid */
+/** @global string|null $currentPidIndex */
 /** @global string|null $currentResourceId */
 /** @global string|null $currentSearch */
 
@@ -26,6 +27,7 @@ require_once __DIR__ . '/functions.php';
         'route' => $route,
         'currentGameSetId' => tpl_request_param('gameset'),
         'currentPid' => tpl_request_param('pid'),
+        'currentPidIndex' => tpl_request_param('pidx', 0),
         'currentResourceId' => tpl_request_param('id'),
         'currentSearch' => tpl_request_param('q'),
     ];

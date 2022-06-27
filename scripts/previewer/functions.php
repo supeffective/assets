@@ -26,7 +26,7 @@ function tpl_request_query_string(array $newParams = []): string
 
 function tpl_request_param(string $paramName, $default = null): string | null | int
 {
-    return $_GET[$paramName] ?? $default;
+    return $_REQUEST[$paramName] ?? $default;
 }
 
 function tpl_partial(string $name, array $data = []): void
