@@ -52,9 +52,15 @@ function tpl_render(string $path, array $tplVars = []): void
 
 #[NoReturn] function tpl_render_page(string $path, array $data = []): void
 {
+    $withStart = !isset($data['withStart']) || $data['withStart'];
+    $withEnd = !isset($data['withEnd']) || $data['withEnd'];
     header('Content-Type: text/html');
-    tpl_layout_start($data);
+    if ($withStart) {
+        tpl_layout_start($data);
+    }
     tpl_render($path, $data);
-    tpl_layout_end($data);
+    if ($withEnd) {
+        tpl_layout_end($data);
+    }
     exit;
 }

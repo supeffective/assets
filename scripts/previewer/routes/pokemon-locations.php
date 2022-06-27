@@ -31,13 +31,27 @@ if (isset($_POST['data']) && !empty($_POST['data'])) {
     $pkm = array_merge($pkm, $newPkm);
     sgg_data_save('sources/pokemon/entries/' . $pokemonId . '.json', $pkm);
     ?>
+    <h4>
+        <?= $pkm['name'] ?>
+    </h4>
+    <div class="icons">
+        <i class="pkmi pkmi-<?php
+        echo $pkm['id']; ?>"
+        ></i>
+    </div>
     <div class="alert alert-success" role="alert">
         Saved!
+        <div>
+            <a class="btn btn-lg btn-outline-primary"
+               href="<?= tpl_build_url('pokemon-locations', ['pidx' => $currentPidIndex]) ?>"
+            >View</a>
+            <a class="btn btn-lg btn-primary"
+               href="<?= tpl_build_url('pokemon-locations', ['pidx' => $currentPidIndex + 1]) ?>"
+            >Next Pokémon</a>
+        </div>
     </div>
-    <script>
-        //window.location.href = '<?= tpl_build_url('pokemon-locations', ['pid' => $pokemonId]) ?>'
-    </script>
     <?php
+    return;
 }
 ?>
 
@@ -50,7 +64,7 @@ if (isset($_POST['data']) && !empty($_POST['data'])) {
     }
 </script>
 
-<div class="container">
+<div class="container-fluid" style="min-width: 900px">
     <div class="row">
         <div class="col-12">
             <div class="w-800 text-center">
@@ -70,12 +84,13 @@ if (isset($_POST['data']) && !empty($_POST['data'])) {
                     <?= $pkm['name'] ?>
                 </h4>
                 <div class="icons">
-                    <i class="pkm pkm-<?php
-                    echo $pkm['id']; ?>"
-                    ></i>
                     <i class="pkmi pkmi-<?php
                     echo $pkm['id']; ?>"
                     ></i>
+                </div>
+                <hr />
+                <div>
+                    <button class="btn btn-lg btn-primary" type="submit">Save</button>
                 </div>
                 <br />
                 <input type="hidden" id="pid" name="pid" value="<?= $pokemonId ?>">
@@ -114,6 +129,29 @@ if (isset($_POST['data']) && !empty($_POST['data'])) {
             ><?= $gameSet['id'] ?></span>
                             <input <?= $checked ?>
                                 name="data[obtainableIn][]"
+                                type="checkbox"
+                                value="<?= $gameSet['id'] ?>"
+                            />
+                        </label>
+                        <?php
+                    }
+                    ?>
+                </div>
+
+                <hr />
+
+                <h5>Transferrable to / Storable In:</h5>
+                <p>Where it can be put in the box system, without losing this form.</p>
+                <div class="gameset-input-grid">
+                    <?php
+                    foreach ($gameSets as $gameSet) {
+                        $checked = in_array($gameSet['id'], $pkm['storableIn'], true) ? ' checked ' : '';
+                        ?>
+                        <label class="gameset-tags">
+            <span class="gameset-tag gameset-<?= $gameSet['id'] ?>" title="<?= $gameSet['name'] ?>"
+            ><?= $gameSet['id'] ?></span>
+                            <input <?= $checked ?>
+                                name="data[storableIn][]"
                                 type="checkbox"
                                 value="<?= $gameSet['id'] ?>"
                             />
@@ -175,29 +213,6 @@ if (isset($_POST['data']) && !empty($_POST['data'])) {
                     }
                     ?>
                 </div>
-
-                <hr />
-
-                <h5>Transferrable to / Storable In:</h5>
-                <p>Where it can be put in the box system, without losing this form.</p>
-                <div class="gameset-input-grid">
-                    <?php
-                    foreach ($gameSets as $gameSet) {
-                        $checked = in_array($gameSet['id'], $pkm['storableIn'], true) ? ' checked ' : '';
-                        ?>
-                        <label class="gameset-tags">
-            <span class="gameset-tag gameset-<?= $gameSet['id'] ?>" title="<?= $gameSet['name'] ?>"
-            ><?= $gameSet['id'] ?></span>
-                            <input <?= $checked ?>
-                                name="data[storableIn][]"
-                                type="checkbox"
-                                value="<?= $gameSet['id'] ?>"
-                            />
-                        </label>
-                        <?php
-                    }
-                    ?>
-                </div>
                 <hr />
                 <div>
                     <button class="btn btn-lg btn-primary" type="submit">Save</button>
@@ -207,10 +222,10 @@ if (isset($_POST['data']) && !empty($_POST['data'])) {
 
         <div class="col-6 text-center">
             <iframe
-                style="width:100%; height:1750px; border:none;"
-                src="https://www.serebii.net/pokemon/<?= $pkm['refs']['serebii']; ?>"
+                style="width:100%; height:1500px; border:none;"
+                src="<?= tpl_build_url('sources/serebii', ['pid' => $pkm['id']]) ?>"
                 referrerpolicy="no-referrer"
-                sandbox="allow-forms"
+                sandbox=""
             ></iframe>
         </div>
     </div>

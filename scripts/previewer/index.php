@@ -46,12 +46,15 @@ require_once __DIR__ . '/functions.php';
                 header('Content-Type: application/javascript');
             } elseif (str_ends_with($route, '.png')) {
                 header($nextYearExpiration);
+                header('HTTP/1.1 304 Not Modified');
                 header('Content-Type: image/png');
             } elseif (str_ends_with($route, '.jpg')) {
                 header($nextYearExpiration);
+                header('HTTP/1.1 304 Not Modified');
                 header('Content-Type: image/jpeg');
             } elseif (str_ends_with($route, '.webp')) {
                 header($nextYearExpiration);
+                header('HTTP/1.1 304 Not Modified');
                 header('Content-Type: image/webp');
             }
             echo file_get_contents($file);
@@ -60,6 +63,10 @@ require_once __DIR__ . '/functions.php';
     }
 
     if (file_exists(sprintf("%s/routes/%s.php", __DIR__, $route))) {
+        if (preg_match('/^sources\//', $route)) {
+            $tplVars['withStart'] = false;
+            $tplVars['withEnd'] = false;
+        }
         tpl_render_page(("routes/{$route}"), $tplVars);
     }
 
