@@ -67,14 +67,12 @@ if (isset($_POST['data']) && !empty($_POST['data'])) {
 <div class="container-fluid" style="min-width: 900px">
     <div class="row">
         <div class="col-12">
-            <div class="w-800 text-center">
-                <?php
-                tpl_partial(
-                    'pkmids-pagination',
-                    ['gameSets' => $gameSets, 'pkmIds' => $pkmIds, 'currentPidIndex' => $currentPidIndex]
-                );
-                ?>
-            </div>
+            <?php
+            tpl_partial(
+                'pkmids-pagination',
+                ['gameSets' => $gameSets, 'pkmIds' => $pkmIds, 'currentPidIndex' => $currentPidIndex]
+            );
+            ?>
         </div>
     </div>
     <div class="row">
@@ -231,14 +229,12 @@ if (isset($_POST['data']) && !empty($_POST['data'])) {
     </div>
     <div class="row">
         <div class="col-12">
-            <div class="w-800 text-center">
-                <?php
-                tpl_partial(
-                    'pkmids-pagination',
-                    ['gameSets' => $gameSets, 'pkmIds' => $pkmIds, 'currentPidIndex' => $currentPidIndex]
-                );
-                ?>
-            </div>
+            <?php
+            tpl_partial(
+                'pkmids-pagination',
+                ['gameSets' => $gameSets, 'pkmIds' => $pkmIds, 'currentPidIndex' => $currentPidIndex]
+            );
+            ?>
         </div>
     </div>
 </div>
