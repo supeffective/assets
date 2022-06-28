@@ -40,17 +40,17 @@
     "obtainableIn": [
         "go",
         "sm",
-        "swsh",
-        "usum"
+        "usum",
+        "swsh"
     ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
     "storableIn": [
         "go",
-        "home",
         "sm",
+        "usum",
         "swsh",
-        "usum"
+        "home"
     ],
     "shinyReleased": true,
     "shinyBase": null,

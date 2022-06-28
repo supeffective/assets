@@ -44,8 +44,8 @@
             "frlg",
             "hgss",
             "xy",
-            "usum",
             "go",
+            "usum",
             "lgpe",
             "swsh",
             "bdsp"
@@ -56,8 +56,8 @@
             "gs",
             "c",
             "rs",
-            "e",
             "frlg",
+            "e",
             "dp",
             "pt",
             "hgss",
@@ -65,9 +65,9 @@
             "b2w2",
             "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "go",
             "lgpe",
             "swsh",
             "home",
@@ -82,8 +82,8 @@
             "frlg",
             "hgss",
             "xy",
-            "usum",
             "go",
+            "usum",
             "lgpe",
             "swsh",
             "bdsp"
@@ -94,8 +94,8 @@
             "gs",
             "c",
             "rs",
-            "e",
             "frlg",
+            "e",
             "dp",
             "pt",
             "hgss",
@@ -103,9 +103,9 @@
             "b2w2",
             "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "go",
             "lgpe",
             "swsh",
             "home",
@@ -118,8 +118,8 @@
             "frlg",
             "hgss",
             "xy",
-            "usum",
             "go",
+            "usum",
             "lgpe",
             "swsh",
             "bdsp"
@@ -128,8 +128,8 @@
             "gs",
             "c",
             "rs",
-            "e",
             "frlg",
+            "e",
             "dp",
             "pt",
             "hgss",
@@ -137,9 +137,9 @@
             "b2w2",
             "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "go",
             "lgpe",
             "swsh",
             "home",
@@ -151,9 +151,9 @@
         "obtainableIn": [
             "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "go",
             "lgpe"
         ],
         "storableIn": [],
@@ -168,121 +168,121 @@
     },
     "charmander": {
         "obtainableIn": [
-            "bdsp",
+            "rb",
+            "y",
             "frlg",
             "go",
             "lgpe",
-            "rb",
             "swsh",
-            "y"
+            "bdsp"
         ],
         "storableIn": [
-            "b2w2",
-            "bdsp",
-            "bw",
-            "c",
-            "dp",
-            "e",
-            "frlg",
-            "go",
-            "gs",
-            "hgss",
-            "home",
-            "lgpe",
-            "oras",
-            "pt",
             "rb",
+            "y",
+            "gs",
+            "c",
             "rs",
-            "sm",
-            "swsh",
-            "usum",
+            "frlg",
+            "e",
+            "dp",
+            "pt",
+            "hgss",
+            "bw",
+            "b2w2",
             "xy",
-            "y"
+            "oras",
+            "go",
+            "sm",
+            "usum",
+            "lgpe",
+            "swsh",
+            "home",
+            "bdsp"
         ],
         "shinyReleased": true
     },
     "charmeleon": {
         "obtainableIn": [
-            "bdsp",
+            "rb",
+            "y",
             "frlg",
             "go",
             "lgpe",
-            "rb",
             "swsh",
-            "y"
+            "bdsp"
         ],
         "storableIn": [
-            "b2w2",
-            "bdsp",
-            "bw",
-            "c",
-            "dp",
-            "e",
-            "frlg",
-            "go",
-            "gs",
-            "hgss",
-            "home",
-            "lgpe",
-            "oras",
-            "pt",
             "rb",
+            "y",
+            "gs",
+            "c",
             "rs",
-            "sm",
-            "swsh",
-            "usum",
+            "frlg",
+            "e",
+            "dp",
+            "pt",
+            "hgss",
+            "bw",
+            "b2w2",
             "xy",
-            "y"
+            "oras",
+            "go",
+            "sm",
+            "usum",
+            "lgpe",
+            "swsh",
+            "home",
+            "bdsp"
         ],
         "shinyReleased": true
     },
     "charizard": {
         "obtainableIn": [
-            "bdsp",
+            "rb",
+            "y",
             "frlg",
             "go",
             "lgpe",
-            "rb",
             "swsh",
-            "y"
+            "bdsp"
         ],
         "storableIn": [
-            "b2w2",
-            "bdsp",
-            "bw",
-            "c",
-            "dp",
-            "e",
-            "frlg",
-            "go",
-            "gs",
-            "hgss",
-            "home",
-            "lgpe",
-            "oras",
-            "pt",
             "rb",
+            "y",
+            "gs",
+            "c",
             "rs",
-            "sm",
-            "swsh",
-            "usum",
+            "frlg",
+            "e",
+            "dp",
+            "pt",
+            "hgss",
+            "bw",
+            "b2w2",
             "xy",
-            "y"
+            "oras",
+            "go",
+            "sm",
+            "usum",
+            "lgpe",
+            "swsh",
+            "home",
+            "bdsp"
         ],
         "shinyReleased": true
     },
     "charizard-mega-x": {
         "obtainableIn": [
-            "go",
-            "xy"
+            "xy",
+            "go"
         ],
         "storableIn": [],
         "shinyReleased": true
     },
     "charizard-mega-y": {
         "obtainableIn": [
-            "go",
-            "xy"
+            "xy",
+            "go"
         ],
         "storableIn": [],
         "shinyReleased": true
@@ -26550,68 +26550,69 @@
         "obtainableIn": [
             "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
             "go",
-            "home",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true
     },
     "rockruff--own-tempo": {
-        "obtainableIn": [],
-        "storableIn": [
-            "home",
+        "obtainableIn": [
             "usum",
             "swsh"
         ],
-        "shinyReleased": false
+        "storableIn": [
+            "usum",
+            "swsh",
+            "home"
+        ],
+        "shinyReleased": true
     },
     "lycanroc": {
         "obtainableIn": [
             "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
             "go",
-            "home",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true
     },
     "lycanroc-midnight": {
         "obtainableIn": [
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
-            "home",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true
     },
     "lycanroc-dusk": {
         "obtainableIn": [
-            "go",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
-            "go",
-            "home",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true
     },

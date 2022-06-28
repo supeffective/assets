@@ -39,16 +39,16 @@
     "debutIn": "sm",
     "obtainableIn": [
         "sm",
-        "swsh",
-        "usum"
+        "usum",
+        "swsh"
     ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
     "storableIn": [
-        "home",
         "sm",
+        "usum",
         "swsh",
-        "usum"
+        "home"
     ],
     "shinyReleased": true,
     "shinyBase": null,

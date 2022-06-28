@@ -37,17 +37,18 @@
     "canDynamax": true,
     "canBeAlpha": false,
     "debutIn": "usum",
-    "obtainableIn": [],
-    "versionExclusiveIn": [],
-    "eventOnlyIn": [
-        "usum"
-    ],
-    "storableIn": [
-        "home",
+    "obtainableIn": [
         "usum",
         "swsh"
     ],
-    "shinyReleased": false,
+    "versionExclusiveIn": [],
+    "eventOnlyIn": [],
+    "storableIn": [
+        "usum",
+        "swsh",
+        "home"
+    ],
+    "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
         "hp": 45,

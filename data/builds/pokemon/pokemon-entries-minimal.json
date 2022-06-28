@@ -65,8 +65,8 @@
             "frlg",
             "hgss",
             "xy",
-            "usum",
             "go",
+            "usum",
             "lgpe",
             "swsh",
             "bdsp"
@@ -79,8 +79,8 @@
             "gs",
             "c",
             "rs",
-            "e",
             "frlg",
+            "e",
             "dp",
             "pt",
             "hgss",
@@ -88,9 +88,9 @@
             "b2w2",
             "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "go",
             "lgpe",
             "swsh",
             "home",
@@ -114,8 +114,8 @@
             "frlg",
             "hgss",
             "xy",
-            "usum",
             "go",
+            "usum",
             "lgpe",
             "swsh",
             "bdsp"
@@ -128,8 +128,8 @@
             "gs",
             "c",
             "rs",
-            "e",
             "frlg",
+            "e",
             "dp",
             "pt",
             "hgss",
@@ -137,9 +137,9 @@
             "b2w2",
             "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "go",
             "lgpe",
             "swsh",
             "home",
@@ -161,8 +161,8 @@
             "frlg",
             "hgss",
             "xy",
-            "usum",
             "go",
+            "usum",
             "lgpe",
             "swsh",
             "bdsp"
@@ -173,8 +173,8 @@
             "gs",
             "c",
             "rs",
-            "e",
             "frlg",
+            "e",
             "dp",
             "pt",
             "hgss",
@@ -182,9 +182,9 @@
             "b2w2",
             "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "go",
             "lgpe",
             "swsh",
             "home",
@@ -208,9 +208,9 @@
         "obtainableIn": [
             "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "go",
             "lgpe"
         ],
         "versionExclusiveIn": [],
@@ -250,38 +250,38 @@
         "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
-            "bdsp",
+            "rb",
+            "y",
             "frlg",
             "go",
             "lgpe",
-            "rb",
             "swsh",
-            "y"
+            "bdsp"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "b2w2",
-            "bdsp",
-            "bw",
-            "c",
-            "dp",
-            "e",
-            "frlg",
-            "go",
-            "gs",
-            "hgss",
-            "home",
-            "lgpe",
-            "oras",
-            "pt",
             "rb",
+            "y",
+            "gs",
+            "c",
             "rs",
-            "sm",
-            "swsh",
-            "usum",
+            "frlg",
+            "e",
+            "dp",
+            "pt",
+            "hgss",
+            "bw",
+            "b2w2",
             "xy",
-            "y"
+            "oras",
+            "go",
+            "sm",
+            "usum",
+            "lgpe",
+            "swsh",
+            "home",
+            "bdsp"
         ]
     },
     {
@@ -296,38 +296,38 @@
         "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
-            "bdsp",
+            "rb",
+            "y",
             "frlg",
             "go",
             "lgpe",
-            "rb",
             "swsh",
-            "y"
+            "bdsp"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "b2w2",
-            "bdsp",
-            "bw",
-            "c",
-            "dp",
-            "e",
-            "frlg",
-            "go",
-            "gs",
-            "hgss",
-            "home",
-            "lgpe",
-            "oras",
-            "pt",
             "rb",
+            "y",
+            "gs",
+            "c",
             "rs",
-            "sm",
-            "swsh",
-            "usum",
+            "frlg",
+            "e",
+            "dp",
+            "pt",
+            "hgss",
+            "bw",
+            "b2w2",
             "xy",
-            "y"
+            "oras",
+            "go",
+            "sm",
+            "usum",
+            "lgpe",
+            "swsh",
+            "home",
+            "bdsp"
         ]
     },
     {
@@ -342,38 +342,38 @@
         "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
-            "bdsp",
+            "rb",
+            "y",
             "frlg",
             "go",
             "lgpe",
-            "rb",
             "swsh",
-            "y"
+            "bdsp"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "b2w2",
-            "bdsp",
-            "bw",
-            "c",
-            "dp",
-            "e",
-            "frlg",
-            "go",
-            "gs",
-            "hgss",
-            "home",
-            "lgpe",
-            "oras",
-            "pt",
             "rb",
+            "y",
+            "gs",
+            "c",
             "rs",
-            "sm",
-            "swsh",
-            "usum",
+            "frlg",
+            "e",
+            "dp",
+            "pt",
+            "hgss",
+            "bw",
+            "b2w2",
             "xy",
-            "y"
+            "oras",
+            "go",
+            "sm",
+            "usum",
+            "lgpe",
+            "swsh",
+            "home",
+            "bdsp"
         ]
     },
     {
@@ -390,8 +390,8 @@
         "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
-            "go",
-            "xy"
+            "xy",
+            "go"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -411,8 +411,8 @@
         "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
-            "go",
-            "xy"
+            "xy",
+            "go"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -39163,17 +39163,17 @@
         "obtainableIn": [
             "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "go",
-            "home",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ]
     },
     {
@@ -39185,17 +39185,18 @@
         "isForm": true,
         "baseSpecies": "rockruff",
         "baseForms": [],
-        "shinyReleased": false,
+        "shinyReleased": true,
         "shinyBase": null,
-        "obtainableIn": [],
-        "versionExclusiveIn": [],
-        "eventOnlyIn": [
-            "usum"
-        ],
-        "storableIn": [
-            "home",
+        "obtainableIn": [
             "usum",
             "swsh"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "usum",
+            "swsh",
+            "home"
         ]
     },
     {
@@ -39212,17 +39213,17 @@
         "obtainableIn": [
             "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "go",
-            "home",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ]
     },
     {
@@ -39238,16 +39239,16 @@
         "shinyBase": null,
         "obtainableIn": [
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "home",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ]
     },
     {
@@ -39262,17 +39263,15 @@
         "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
-            "go",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "go",
-            "home",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ]
     },
     {
