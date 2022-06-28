@@ -1,12 +1,12 @@
 [
     {
-        "id": "rb-r",
+        "id": "r",
         "name": "Red",
         "setId": "rb",
         "supersetId": "rby"
     },
     {
-        "id": "rb-b",
+        "id": "b",
         "name": "Blue",
         "setId": "rb",
         "supersetId": "rby"
@@ -18,13 +18,13 @@
         "supersetId": "rby"
     },
     {
-        "id": "gs-g",
+        "id": "g",
         "name": "Gold",
         "setId": "gs",
         "supersetId": "gsc"
     },
     {
-        "id": "gs-s",
+        "id": "s",
         "name": "Silver",
         "setId": "gs",
         "supersetId": "gsc"
@@ -36,25 +36,25 @@
         "supersetId": "gsc"
     },
     {
-        "id": "rs-r",
+        "id": "r",
         "name": "Ruby",
         "setId": "rs",
         "supersetId": "rse"
     },
     {
-        "id": "rs-s",
+        "id": "s",
         "name": "Sapphire",
         "setId": "rs",
         "supersetId": "rse"
     },
     {
-        "id": "frlg-fr",
+        "id": "fr",
         "name": "Fire Red",
         "setId": "frlg",
         "supersetId": "frlg"
     },
     {
-        "id": "frlg-lg",
+        "id": "lg",
         "name": "Leaf Green",
         "setId": "frlg",
         "supersetId": "frlg"
@@ -66,13 +66,13 @@
         "supersetId": "rse"
     },
     {
-        "id": "dp-d",
+        "id": "d",
         "name": "Diamond",
         "setId": "dp",
         "supersetId": "dppt"
     },
     {
-        "id": "dp-p",
+        "id": "p",
         "name": "Pearl",
         "setId": "dp",
         "supersetId": "dppt"
@@ -84,61 +84,61 @@
         "supersetId": "dppt"
     },
     {
-        "id": "hgss-hg",
+        "id": "hg",
         "name": "Heart Gold",
         "setId": "hgss",
         "supersetId": "hgss"
     },
     {
-        "id": "hgss-ss",
+        "id": "ss",
         "name": "Soul Silver",
         "setId": "hgss",
         "supersetId": "hgss"
     },
     {
-        "id": "bw-b",
+        "id": "b",
         "name": "Black",
         "setId": "bw",
         "supersetId": "bwb2w2"
     },
     {
-        "id": "bw-w",
+        "id": "w",
         "name": "White",
         "setId": "bw",
         "supersetId": "bwb2w2"
     },
     {
-        "id": "b2w2-b2",
+        "id": "b2",
         "name": "Black 2",
         "setId": "b2w2",
         "supersetId": "bwb2w2"
     },
     {
-        "id": "b2w2-w2",
+        "id": "w2",
         "name": "White 2",
         "setId": "b2w2",
         "supersetId": "bwb2w2"
     },
     {
-        "id": "xy-x",
+        "id": "x",
         "name": "X",
         "setId": "xy",
         "supersetId": "xy"
     },
     {
-        "id": "xy-y",
+        "id": "y",
         "name": "Y",
         "setId": "xy",
         "supersetId": "xy"
     },
     {
-        "id": "oras-or",
+        "id": "or",
         "name": "Omega Ruby",
         "setId": "oras",
         "supersetId": "oras"
     },
     {
-        "id": "oras-as",
+        "id": "as",
         "name": "Alpha Sapphire",
         "setId": "oras",
         "supersetId": "oras"
@@ -150,49 +150,49 @@
         "supersetId": "go"
     },
     {
-        "id": "sm-s",
+        "id": "s",
         "name": "Sun",
         "setId": "sm",
         "supersetId": "smusum"
     },
     {
-        "id": "sm-m",
+        "id": "m",
         "name": "Moon",
         "setId": "sm",
         "supersetId": "smusum"
     },
     {
-        "id": "usum-us",
+        "id": "us",
         "name": "Ultra Sun",
         "setId": "usum",
         "supersetId": "smusum"
     },
     {
-        "id": "usum-um",
+        "id": "um",
         "name": "Ultra Moon",
         "setId": "usum",
         "supersetId": "smusum"
     },
     {
-        "id": "lgpe-lgp",
+        "id": "lgp",
         "name": "Let's Go, Pikachu!",
         "setId": "lgpe",
         "supersetId": "lgpe"
     },
     {
-        "id": "lgpe-lge",
+        "id": "lge",
         "name": "Let's Go, Eevee!",
         "setId": "lgpe",
         "supersetId": "lgpe"
     },
     {
-        "id": "swsh-sw",
+        "id": "sw",
         "name": "Sword",
         "setId": "swsh",
         "supersetId": "swsh"
     },
     {
-        "id": "swsh-sh",
+        "id": "sh",
         "name": "Shield",
         "setId": "swsh",
         "supersetId": "swsh"
@@ -204,13 +204,13 @@
         "supersetId": "home"
     },
     {
-        "id": "bdsp-bd",
+        "id": "bd",
         "name": "Brilliant Diamond",
         "setId": "bdsp",
         "supersetId": "bdsp"
     },
     {
-        "id": "bdsp-sp",
+        "id": "sp",
         "name": "Shining Pearl",
         "setId": "bdsp",
         "supersetId": "bdsp"
@@ -222,13 +222,13 @@
         "supersetId": "la"
     },
     {
-        "id": "sv-s",
+        "id": "s",
         "name": "Scarlet",
         "setId": "sv",
         "supersetId": "sv"
     },
     {
-        "id": "sv-v",
+        "id": "v",
         "name": "Violet",
         "setId": "sv",
         "supersetId": "sv"

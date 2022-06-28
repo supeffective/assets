@@ -7,8 +7,8 @@
         "generation": 1,
         "releaseDate": "1996-02-27",
         "games": {
-            "rb-r": "Red",
-            "rb-b": "Blue"
+            "r": "Red",
+            "b": "Blue"
         },
         "platforms": [
             "gb",
@@ -66,8 +66,8 @@
         "generation": 2,
         "releaseDate": "1999-11-21",
         "games": {
-            "gs-g": "Gold",
-            "gs-s": "Silver"
+            "g": "Gold",
+            "s": "Silver"
         },
         "platforms": [
             "gb",
@@ -128,8 +128,8 @@
         "generation": 3,
         "releaseDate": "2002-11-21",
         "games": {
-            "rs-r": "Ruby",
-            "rs-s": "Sapphire"
+            "r": "Ruby",
+            "s": "Sapphire"
         },
         "platforms": [
             "gba"
@@ -159,8 +159,8 @@
         "generation": 3,
         "releaseDate": "2004-01-29",
         "games": {
-            "frlg-fr": "Fire Red",
-            "frlg-lg": "Leaf Green"
+            "fr": "Fire Red",
+            "lg": "Leaf Green"
         },
         "platforms": [
             "gba"
@@ -220,8 +220,8 @@
         "generation": 4,
         "releaseDate": "2006-09-28",
         "games": {
-            "dp-d": "Diamond",
-            "dp-p": "Pearl"
+            "d": "Diamond",
+            "p": "Pearl"
         },
         "platforms": [
             "nds"
@@ -281,8 +281,8 @@
         "generation": 4,
         "releaseDate": "2009-09-12",
         "games": {
-            "hgss-hg": "Heart Gold",
-            "hgss-ss": "Soul Silver"
+            "hg": "Heart Gold",
+            "ss": "Soul Silver"
         },
         "platforms": [
             "nds"
@@ -312,8 +312,8 @@
         "generation": 5,
         "releaseDate": "2010-09-18",
         "games": {
-            "bw-b": "Black",
-            "bw-w": "White"
+            "b": "Black",
+            "w": "White"
         },
         "platforms": [
             "nds"
@@ -343,8 +343,8 @@
         "generation": 5,
         "releaseDate": "2012-06-23",
         "games": {
-            "b2w2-b2": "Black 2",
-            "b2w2-w2": "White 2"
+            "b2": "Black 2",
+            "w2": "White 2"
         },
         "platforms": [
             "nds"
@@ -374,8 +374,8 @@
         "generation": 6,
         "releaseDate": "2013-10-12",
         "games": {
-            "xy-x": "X",
-            "xy-y": "Y"
+            "x": "X",
+            "y": "Y"
         },
         "platforms": [
             "3ds"
@@ -407,8 +407,8 @@
         "generation": 6,
         "releaseDate": "2014-11-21",
         "games": {
-            "oras-or": "Omega Ruby",
-            "oras-as": "Alpha Sapphire"
+            "or": "Omega Ruby",
+            "as": "Alpha Sapphire"
         },
         "platforms": [
             "3ds"
@@ -475,8 +475,8 @@
         "generation": 7,
         "releaseDate": "2016-11-18",
         "games": {
-            "sm-s": "Sun",
-            "sm-m": "Moon"
+            "s": "Sun",
+            "m": "Moon"
         },
         "platforms": [
             "3ds"
@@ -510,8 +510,8 @@
         "generation": 7,
         "releaseDate": "2017-11-17",
         "games": {
-            "usum-us": "Ultra Sun",
-            "usum-um": "Ultra Moon"
+            "us": "Ultra Sun",
+            "um": "Ultra Moon"
         },
         "platforms": [
             "3ds"
@@ -545,8 +545,8 @@
         "generation": 7,
         "releaseDate": "2018-11-16",
         "games": {
-            "lgpe-lgp": "Let's Go, Pikachu!",
-            "lgpe-lge": "Let's Go, Eevee!"
+            "lgp": "Let's Go, Pikachu!",
+            "lge": "Let's Go, Eevee!"
         },
         "platforms": [
             "switch"
@@ -575,8 +575,8 @@
         "generation": 8,
         "releaseDate": "2019-11-15",
         "games": {
-            "swsh-sw": "Sword",
-            "swsh-sh": "Shield"
+            "sw": "Sword",
+            "sh": "Shield"
         },
         "platforms": [
             "switch"
@@ -638,8 +638,8 @@
         "generation": 8,
         "releaseDate": "2021-11-19",
         "games": {
-            "bdsp-bd": "Brilliant Diamond",
-            "bdsp-sp": "Shining Pearl"
+            "bd": "Brilliant Diamond",
+            "sp": "Shining Pearl"
         },
         "platforms": [
             "switch"
@@ -704,8 +704,8 @@
         "generation": 9,
         "releaseDate": "2022-11-18",
         "games": {
-            "sv-s": "Scarlet",
-            "sv-v": "Violet"
+            "s": "Scarlet",
+            "v": "Violet"
         },
         "platforms": [
             "switch"
