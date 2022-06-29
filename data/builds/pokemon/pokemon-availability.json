@@ -15084,7 +15084,6 @@
         "obtainableIn": [
             "bdsp",
             "e",
-            "go",
             "oras",
             "rs"
         ],
@@ -15095,7 +15094,6 @@
             "dp",
             "e",
             "frlg",
-            "go",
             "hgss",
             "home",
             "oras",
@@ -26941,12 +26939,14 @@
         "obtainableIn": [
             "sm",
             "swsh",
+            "go",
             "usum"
         ],
         "storableIn": [
             "home",
             "sm",
             "swsh",
+            "go",
             "usum"
         ],
         "shinyReleased": true
@@ -26955,12 +26955,14 @@
         "obtainableIn": [
             "sm",
             "swsh",
+            "go",
             "usum"
         ],
         "storableIn": [
             "home",
             "sm",
             "swsh",
+            "go",
             "usum"
         ],
         "shinyReleased": true
@@ -27639,11 +27641,13 @@
         "obtainableIn": [
             "sm",
             "swsh",
+            "go",
             "usum"
         ],
         "storableIn": [
             "home",
             "sm",
+            "go",
             "swsh",
             "usum"
         ],
@@ -27653,12 +27657,14 @@
         "obtainableIn": [
             "sm",
             "swsh",
+            "go",
             "usum"
         ],
         "storableIn": [
             "home",
             "sm",
             "swsh",
+            "go",
             "usum"
         ],
         "shinyReleased": true
@@ -27667,12 +27673,14 @@
         "obtainableIn": [
             "sm",
             "swsh",
+            "go",
             "usum"
         ],
         "storableIn": [
             "home",
             "sm",
             "swsh",
+            "go",
             "usum"
         ],
         "shinyReleased": true

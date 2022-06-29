@@ -21136,7 +21136,6 @@
         "obtainableIn": [
             "bdsp",
             "e",
-            "go",
             "oras",
             "rs"
         ],
@@ -21149,7 +21148,6 @@
             "dp",
             "e",
             "frlg",
-            "go",
             "hgss",
             "home",
             "oras",
@@ -39853,6 +39851,7 @@
         "obtainableIn": [
             "sm",
             "swsh",
+            "go",
             "usum"
         ],
         "versionExclusiveIn": [],
@@ -39861,6 +39860,7 @@
             "home",
             "sm",
             "swsh",
+            "go",
             "usum"
         ]
     },
@@ -39878,6 +39878,7 @@
         "obtainableIn": [
             "sm",
             "swsh",
+            "go",
             "usum"
         ],
         "versionExclusiveIn": [],
@@ -39886,6 +39887,7 @@
             "home",
             "sm",
             "swsh",
+            "go",
             "usum"
         ]
     },
@@ -41181,6 +41183,7 @@
         "obtainableIn": [
             "sm",
             "swsh",
+            "go",
             "usum"
         ],
         "versionExclusiveIn": [],
@@ -41188,6 +41191,7 @@
         "storableIn": [
             "home",
             "sm",
+            "go",
             "swsh",
             "usum"
         ]
@@ -41206,6 +41210,7 @@
         "obtainableIn": [
             "sm",
             "swsh",
+            "go",
             "usum"
         ],
         "versionExclusiveIn": [],
@@ -41214,6 +41219,7 @@
             "home",
             "sm",
             "swsh",
+            "go",
             "usum"
         ]
     },
@@ -41231,6 +41237,7 @@
         "obtainableIn": [
             "sm",
             "swsh",
+            "go",
             "usum"
         ],
         "versionExclusiveIn": [],
@@ -41239,6 +41246,7 @@
             "home",
             "sm",
             "swsh",
+            "go",
             "usum"
         ]
     },

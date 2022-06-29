@@ -40,6 +40,7 @@
     "obtainableIn": [
         "sm",
         "swsh",
+        "go",
         "usum"
     ],
     "versionExclusiveIn": [],
@@ -47,6 +48,7 @@
     "storableIn": [
         "home",
         "sm",
+        "go",
         "swsh",
         "usum"
     ],
