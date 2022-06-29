@@ -174,95 +174,97 @@ require_once __DIR__ . '/_bootstrap.php';
         sgg_data_save('builds/games.json', $gameList, minify: false);
     };
 
-//    $generateFullySortedHomePreset = static function () use ($dataSet): void {
-//        $preset = [
-//            'id' => 'fully-sorted',
-//            'name' => 'Fully Sorted',
-//            'version' => 2,
-//            'gameSet' => 'home',
-//            //'shortDescription' => 'Sorted by Species and their Forms, in their HOME order.',
-//            "description" => "Pokémon Boxes sorted by Species and Forms, following original Pokémon HOME order.\n"
-//                . "Every newly introduced form will alter the order of all the following Pokémon.",
-//            "boxes" => [],
+//    $generateBoxesPresetsFromPokedexes = static function () use ($dataSetById): void {
+//        $gamesets = sgg_get_gamesets();
+//        foreach ($gamesets as $gameSet) {
+//            $pkmList = [];
+//            $preset = [
+//                'id' => 'fully-sorted',
+//                'name' => 'Regional: Sorted by Forms',
+//                'version' => 1,
+//                'gameSet' => $gameSet['id'],
+//                "description" => "(Recommended) Pokémon Boxes are sorted by Species and Forms together, following original {$gameSet['name']} order.",
+//                "boxes" => [],
+//            ];
+//            foreach ($gameSet['pokedexes'] as $pokedexId) {
+//                $filename = 'sources/pokedexes/' . $pokedexId . '.json';
+//                if (!file_exists(sgg_get_data_path($filename))) {
+//                    continue;
+//                }
+//                $dexContent = sgg_data_load($filename);
+//                $maxPkmPerBox = $gameSet['storage']['boxCapacity'] ?? 9999;
+//                $currentBox = 0;
+//                foreach ($dexContent as $dexPkm) {
+//                    foreach ($dexPkm['forms'] as $pkmId) {
+//                        if (in_array($pkmId, $pkmList, true)) {
+//                            continue;
+//                        }
+//                        $pkmList[] = $pkmId;
 //
-//        ];
-//        $maxPkmPerBox = 30;
-//        $currentBox = 0;
-//        foreach ($dataSet as $i => $pkm) {
-//            if (!in_array('home', $pkm['storableIn'], true)) {
-//                continue;
+//                        $pkm = $dataSetById[$pkmId] ?? null;
+//                        if ($pkm === null) {
+//                            throw new \Exception("Pokemon '$pkmId' not found in pokemon entries.");
+//                        }
+//                        if (!in_array($gameSet['id'], (array) $pkm['storableIn'], true)) {
+//                            continue;
+//                        }
+//                        if (
+//                            isset($preset['boxes'][$currentBox])
+//                            && (count($preset['boxes'][$currentBox]['pokemon']) >= $maxPkmPerBox)
+//                        ) {
+//                            $currentBox++;
+//                        }
+//                        if (!isset($preset['boxes'][$currentBox])) {
+//                            $preset['boxes'][$currentBox] = [
+//                                'pokemon' => [],
+//                            ];
+//                        }
+//                        $preset['boxes'][$currentBox]['pokemon'][] = $pkm['id'];
+//                    }
+//                }
 //            }
-//            if (
-//                isset($preset['boxes'][$currentBox])
-//                && (count($preset['boxes'][$currentBox]['pokemon']) >= $maxPkmPerBox)
-//            ) {
-//                $currentBox++;
-//            }
-//            if (!isset($preset['boxes'][$currentBox])) {
-//                $preset['boxes'][$currentBox] = [
-//                    'pokemon' => [],
-//                ];
-//            }
-//            $preset['boxes'][$currentBox]['pokemon'][] = $pkm['id'];
+//            sgg_data_save(
+//                        'builds/box-presets/' . $gameSet['id'] . '/100-' . $gameSet['region'] . '-dex.json',
+//                        $preset,
+//                minify: false
+//            );
 //        }
-//        sgg_data_save('builds/box-presets/home/100-fully-sorted.json', $preset, minify: false); // prettified
 //    };
 
-    $generateBoxesPresetsFromPokedexes = static function () use ($dataSetById): void {
-        $gamesets = sgg_get_gamesets();
-        foreach ($gamesets as $gameSet) {
-            $pkmList = [];
-            $preset = [
-                'id' => 'fully-sorted',
-                'name' => 'Regional: Sorted by Forms',
-                'version' => 1,
-                'gameSet' => $gameSet['id'],
-                "description" => "(Recommended) Pokémon Boxes are sorted by Species and Forms together, following original {$gameSet['name']} order.",
-                "boxes" => [],
-            ];
-            foreach ($gameSet['pokedexes'] as $pokedexId) {
-                $filename = 'sources/pokedexes/' . $pokedexId . '.json';
-                if (!file_exists(sgg_get_data_path($filename))) {
+    $generateHisuiBoxesPreset = static function () use ($dataSetById): void {
+        $hisuiDex = sgg_data_load('sources/pokedexes/hisui.json');
+        $preset = [
+            'id' => 'fully-sorted',
+            'name' => 'Regional: Sorted by Forms',
+            'version' => 1,
+            'gameSet' => 'la',
+            //'shortDescription' => 'Sorted by Species and their Forms, in their HOME order.',
+            "description" => "(Recommended) Pokémon Boxes are sorted by Species and Forms together, following original Legends: Arceus Pokédex order.",
+            "boxes" => [],
+        ];
+        $maxPkmPerBox = 30;
+        $currentBox = 0;
+        foreach ($hisuiDex as $dexPkm) {
+            foreach ($dexPkm['forms'] as $pkmId) {
+                $pkm = $dataSetById[$pkmId];
+                if (!in_array('la', $pkm['storableIn'], true)) {
                     continue;
                 }
-                $dexContent = sgg_data_load($filename);
-                $maxPkmPerBox = $gameSet['storage']['boxCapacity'] ?? 9999;
-                $currentBox = 0;
-                foreach ($dexContent as $dexPkm) {
-                    foreach ($dexPkm['forms'] as $pkmId) {
-                        if (in_array($pkmId, $pkmList, true)) {
-                            continue;
-                        }
-                        $pkmList[] = $pkmId;
-
-                        $pkm = $dataSetById[$pkmId] ?? null;
-                        if ($pkm === null) {
-                            throw new \Exception("Pokemon '$pkmId' not found in pokemon entries.");
-                        }
-                        if (!in_array($gameSet['id'], (array) $pkm['storableIn'], true)) {
-                            continue;
-                        }
-                        if (
-                            isset($preset['boxes'][$currentBox])
-                            && (count($preset['boxes'][$currentBox]['pokemon']) >= $maxPkmPerBox)
-                        ) {
-                            $currentBox++;
-                        }
-                        if (!isset($preset['boxes'][$currentBox])) {
-                            $preset['boxes'][$currentBox] = [
-                                'pokemon' => [],
-                            ];
-                        }
-                        $preset['boxes'][$currentBox]['pokemon'][] = $pkm['id'];
-                    }
+                if (
+                    isset($preset['boxes'][$currentBox])
+                    && (count($preset['boxes'][$currentBox]['pokemon']) >= $maxPkmPerBox)
+                ) {
+                    $currentBox++;
                 }
+                if (!isset($preset['boxes'][$currentBox])) {
+                    $preset['boxes'][$currentBox] = [
+                        'pokemon' => [],
+                    ];
+                }
+                $preset['boxes'][$currentBox]['pokemon'][] = $pkm['id'];
             }
-            sgg_data_save(
-                        'builds/box-presets/' . $gameSet['id'] . '/100-' . $gameSet['region'] . '-dex.json',
-                        $preset,
-                minify: false
-            );
         }
+        sgg_data_save('builds/box-presets/la/100-fully-sorted.json', $preset, minify: false);
     };
 
     $generateGamesetBoxesPreset = static function (
@@ -573,8 +575,6 @@ require_once __DIR__ . '/_bootstrap.php';
     $generateGmaxPokemonList();
     $generateAlphaPokemonList();
 
-    $generateBoxesPresetsFromPokedexes();
-
     $generateGamesetBoxesPreset('rb', 20);
     $generateGamesetBoxesPreset('y', 20);
     $generateGamesetBoxesPreset('gs', 20);
@@ -596,6 +596,7 @@ require_once __DIR__ . '/_bootstrap.php';
     $generateGamesetBoxesPreset('swsh', 30);
     $generateGamesetBoxesPreset('home', 30);
     $generateGamesetBoxesPreset('bdsp', 30);
+    $generateHisuiBoxesPreset(); // la
     $generateGamesetBoxesPreset('sv', 30);
 
     $generateGameGamesList();
