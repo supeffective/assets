@@ -128,8 +128,7 @@
         "id": "vikavolt",
         "dexNum": 18,
         "forms": [
-            "vikavolt",
-            "vikavolt-totem"
+            "vikavolt"
         ]
     },
     {
@@ -1434,8 +1433,7 @@
         "id": "ribombee",
         "dexNum": 188,
         "forms": [
-            "ribombee",
-            "ribombee-totem"
+            "ribombee"
         ]
     },
     {
@@ -1476,8 +1474,7 @@
         "id": "pichu",
         "dexNum": 193,
         "forms": [
-            "pichu",
-            "pichu-spiky-eared"
+            "pichu"
         ]
     },
     {
@@ -1486,13 +1483,6 @@
         "forms": [
             "pikachu",
             "pikachu-f",
-            "pikachu-cosplay",
-            "pikachu-rock-star",
-            "pikachu-belle",
-            "pikachu-pop-star",
-            "pikachu-phd",
-            "pikachu-libre",
-            "pikachu-starter",
             "pikachu-gmax",
             "pikachu-original",
             "pikachu-hoenn",
@@ -1519,8 +1509,7 @@
         "forms": [
             "eevee",
             "eevee-f",
-            "eevee-gmax",
-            "eevee-starter"
+            "eevee-gmax"
         ]
     },
     {
@@ -1656,8 +1645,7 @@
         "id": "araquanid",
         "dexNum": 215,
         "forms": [
-            "araquanid",
-            "araquanid-totem"
+            "araquanid"
         ]
     },
     {
@@ -1877,8 +1865,7 @@
         "id": "salazzle",
         "dexNum": 245,
         "forms": [
-            "salazzle",
-            "salazzle-totem"
+            "salazzle"
         ]
     },
     {
@@ -2282,9 +2269,7 @@
         "dexNum": 301,
         "forms": [
             "mimikyu",
-            "mimikyu-busted",
-            "mimikyu-totem",
-            "mimikyu-busted-totem"
+            "mimikyu-busted"
         ]
     },
     {
@@ -2632,8 +2617,7 @@
         "id": "togedemaru",
         "dexNum": 348,
         "forms": [
-            "togedemaru",
-            "togedemaru-totem"
+            "togedemaru"
         ]
     },
     {
@@ -2989,8 +2973,7 @@
         "id": "kommoo",
         "dexNum": 394,
         "forms": [
-            "kommoo",
-            "kommoo-totem"
+            "kommoo"
         ]
     },
     {

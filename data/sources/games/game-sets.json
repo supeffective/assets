@@ -7,8 +7,8 @@
         "generation": 1,
         "releaseDate": "1996-02-27",
         "games": {
-            "r": "Red",
-            "b": "Blue"
+            "rb-r": "Red",
+            "rb-b": "Blue"
         },
         "platforms": [
             "gb",
@@ -18,8 +18,9 @@
         "region": "kanto",
         "originMark": "gb",
         "pokedexes": [
-            "kanto"
+            "national-kanto"
         ],
+        "hasShinies": false,
         "nationalMaxNum": null,
         "storage": {
             "boxes": 12,
@@ -47,8 +48,9 @@
         "region": "kanto",
         "originMark": "gb",
         "pokedexes": [
-            "kanto"
+            "national-kanto"
         ],
+        "hasShinies": false,
         "nationalMaxNum": null,
         "storage": {
             "boxes": 12,
@@ -66,8 +68,8 @@
         "generation": 2,
         "releaseDate": "1999-11-21",
         "games": {
-            "g": "Gold",
-            "s": "Silver"
+            "gs-g": "Gold",
+            "gs-s": "Silver"
         },
         "platforms": [
             "gb",
@@ -77,9 +79,10 @@
         "region": "johto",
         "originMark": "gb",
         "pokedexes": [
-            "national",
+            "national-johto",
             "johto"
         ],
+        "hasShinies": true,
         "nationalMaxNum": 251,
         "storage": {
             "boxes": 14,
@@ -107,9 +110,10 @@
         "region": "johto",
         "originMark": "gb",
         "pokedexes": [
-            "national",
+            "national-johto",
             "johto"
         ],
+        "hasShinies": true,
         "nationalMaxNum": 251,
         "storage": {
             "boxes": 14,
@@ -128,8 +132,8 @@
         "generation": 3,
         "releaseDate": "2002-11-21",
         "games": {
-            "r": "Ruby",
-            "s": "Sapphire"
+            "rs-r": "Ruby",
+            "rs-s": "Sapphire"
         },
         "platforms": [
             "gba"
@@ -138,9 +142,10 @@
         "region": "hoenn",
         "originMark": "none",
         "pokedexes": [
-            "national",
+            "national-hoenn",
             "hoenn"
         ],
+        "hasShinies": true,
         "nationalMaxNum": 386,
         "storage": {
             "boxes": 14,
@@ -153,14 +158,14 @@
     },
     {
         "id": "frlg",
-        "name": "Fire Red and Leaf Green",
+        "name": "FireRed and LeafGreen",
         "codename": null,
         "superset": "frlg",
         "generation": 3,
         "releaseDate": "2004-01-29",
         "games": {
-            "fr": "Fire Red",
-            "lg": "Leaf Green"
+            "frlg-fr": "Fire Red",
+            "frlg-lg": "Leaf Green"
         },
         "platforms": [
             "gba"
@@ -169,9 +174,10 @@
         "region": "kanto",
         "originMark": "none",
         "pokedexes": [
-            "national",
-            "kanto"
+            "national-kanto-frlg",
+            "kanto-frlg"
         ],
+        "hasShinies": true,
         "nationalMaxNum": 386,
         "storage": {
             "boxes": 14,
@@ -199,9 +205,10 @@
         "region": "hoenn",
         "originMark": "none",
         "pokedexes": [
-            "national",
-            "hoenn"
+            "national-hoenn-e",
+            "hoenn-e"
         ],
+        "hasShinies": true,
         "nationalMaxNum": 386,
         "storage": {
             "boxes": 14,
@@ -220,8 +227,8 @@
         "generation": 4,
         "releaseDate": "2006-09-28",
         "games": {
-            "d": "Diamond",
-            "p": "Pearl"
+            "dp-d": "Diamond",
+            "dp-p": "Pearl"
         },
         "platforms": [
             "nds"
@@ -230,9 +237,10 @@
         "region": "sinnoh",
         "originMark": "none",
         "pokedexes": [
-            "national",
+            "national-sinnoh",
             "sinnoh"
         ],
+        "hasShinies": true,
         "nationalMaxNum": 493,
         "storage": {
             "boxes": 18,
@@ -260,9 +268,10 @@
         "region": "sinnoh",
         "originMark": "none",
         "pokedexes": [
-            "national",
+            "national-pthgss",
             "sinnoh-pt"
         ],
+        "hasShinies": true,
         "nationalMaxNum": 493,
         "storage": {
             "boxes": 18,
@@ -275,14 +284,14 @@
     },
     {
         "id": "hgss",
-        "name": "Heart Gold and Soul Silver",
+        "name": "HeartGold and SoulSilver",
         "codename": null,
         "superset": "hgss",
         "generation": 4,
         "releaseDate": "2009-09-12",
         "games": {
-            "hg": "Heart Gold",
-            "ss": "Soul Silver"
+            "hgss-hg": "Heart Gold",
+            "hgss-ss": "Soul Silver"
         },
         "platforms": [
             "nds"
@@ -291,9 +300,10 @@
         "region": "johto",
         "originMark": "none",
         "pokedexes": [
-            "national",
+            "national-pthgss",
             "johto-hgss"
         ],
+        "hasShinies": true,
         "nationalMaxNum": 493,
         "storage": {
             "boxes": 18,
@@ -312,8 +322,8 @@
         "generation": 5,
         "releaseDate": "2010-09-18",
         "games": {
-            "b": "Black",
-            "w": "White"
+            "bw-b": "Black",
+            "bw-w": "White"
         },
         "platforms": [
             "nds"
@@ -322,9 +332,10 @@
         "region": "unova",
         "originMark": "none",
         "pokedexes": [
-            "national",
+            "national-unova",
             "unova"
         ],
+        "hasShinies": true,
         "nationalMaxNum": 649,
         "storage": {
             "boxes": 24,
@@ -343,8 +354,8 @@
         "generation": 5,
         "releaseDate": "2012-06-23",
         "games": {
-            "b2": "Black 2",
-            "w2": "White 2"
+            "b2w2-b2": "Black 2",
+            "b2w2-w2": "White 2"
         },
         "platforms": [
             "nds"
@@ -353,9 +364,10 @@
         "region": "unova",
         "originMark": "none",
         "pokedexes": [
-            "national",
+            "national-unova-b2w2",
             "unova-b2w2"
         ],
+        "hasShinies": true,
         "nationalMaxNum": 649,
         "storage": {
             "boxes": 24,
@@ -374,8 +386,8 @@
         "generation": 6,
         "releaseDate": "2013-10-12",
         "games": {
-            "x": "X",
-            "y": "Y"
+            "xy-x": "X",
+            "xy-y": "Y"
         },
         "platforms": [
             "3ds"
@@ -384,11 +396,12 @@
         "region": "kalos",
         "originMark": "kalos",
         "pokedexes": [
-            "national",
+            "national-kalos",
             "kalos-central",
             "kalos-coastal",
             "kalos-mountain"
         ],
+        "hasShinies": true,
         "nationalMaxNum": 721,
         "storage": {
             "boxes": 31,
@@ -407,8 +420,8 @@
         "generation": 6,
         "releaseDate": "2014-11-21",
         "games": {
-            "or": "Omega Ruby",
-            "as": "Alpha Sapphire"
+            "oras-or": "Omega Ruby",
+            "oras-as": "Alpha Sapphire"
         },
         "platforms": [
             "3ds"
@@ -417,9 +430,10 @@
         "region": "hoenn",
         "originMark": "kalos",
         "pokedexes": [
-            "national",
+            "national-hoenn-oras",
             "hoenn-oras"
         ],
+        "hasShinies": true,
         "nationalMaxNum": 721,
         "storage": {
             "boxes": 31,
@@ -447,9 +461,10 @@
         "region": "other",
         "originMark": "go",
         "pokedexes": [
-            "national"
+            "national-go"
         ],
-        "nationalMaxNum": 10000,
+        "hasShinies": true,
+        "nationalMaxNum": 99999,
         "storage": {
             "boxes": 1,
             "boxCapacity": 5500,
@@ -475,8 +490,8 @@
         "generation": 7,
         "releaseDate": "2016-11-18",
         "games": {
-            "s": "Sun",
-            "m": "Moon"
+            "sm-s": "Sun",
+            "sm-m": "Moon"
         },
         "platforms": [
             "3ds"
@@ -485,14 +500,15 @@
         "region": "alola",
         "originMark": "alola",
         "pokedexes": [
-            "national",
+            "national-alola",
             "alola",
             "alola-melemele",
             "alola-akala",
             "alola-ulaula",
             "alola-poni"
         ],
-        "nationalMaxNum": null,
+        "hasShinies": true,
+        "nationalMaxNum": 802,
         "storage": {
             "boxes": 32,
             "boxCapacity": 30,
@@ -510,8 +526,8 @@
         "generation": 7,
         "releaseDate": "2017-11-17",
         "games": {
-            "us": "Ultra Sun",
-            "um": "Ultra Moon"
+            "usum-us": "Ultra Sun",
+            "umum-um": "Ultra Moon"
         },
         "platforms": [
             "3ds"
@@ -520,14 +536,15 @@
         "region": "alola",
         "originMark": "alola",
         "pokedexes": [
-            "national",
+            "national-alola-usum",
             "alola-usum",
             "alola-melemele-usum",
             "alola-akala-usum",
             "alola-ulaula-usum",
             "alola-poni-usum"
         ],
-        "nationalMaxNum": null,
+        "hasShinies": true,
+        "nationalMaxNum": 807,
         "storage": {
             "boxes": 32,
             "boxCapacity": 30,
@@ -545,8 +562,8 @@
         "generation": 7,
         "releaseDate": "2018-11-16",
         "games": {
-            "lgp": "Let's Go, Pikachu!",
-            "lge": "Let's Go, Eevee!"
+            "lgpe-lgp": "Let's Go, Pikachu!",
+            "lgpe-lge": "Let's Go, Eevee!"
         },
         "platforms": [
             "switch"
@@ -557,6 +574,7 @@
         "pokedexes": [
             "kanto-lgpe"
         ],
+        "hasShinies": true,
         "nationalMaxNum": null,
         "storage": {
             "boxes": 1,
@@ -575,8 +593,8 @@
         "generation": 8,
         "releaseDate": "2019-11-15",
         "games": {
-            "sw": "Sword",
-            "sh": "Shield"
+            "swsh-sw": "Sword",
+            "swsh-sh": "Shield"
         },
         "platforms": [
             "switch"
@@ -585,9 +603,13 @@
         "region": "galar",
         "originMark": "galar",
         "pokedexes": [
-            "galar"
+            "galar",
+            "galar-crown-tundra",
+            "galar-isle-armor",
+            "galar-other"
         ],
-        "nationalMaxNum": null,
+        "hasShinies": true,
+        "nationalMaxNum": 898,
         "storage": {
             "boxes": 32,
             "boxCapacity": 30,
@@ -618,7 +640,8 @@
         "pokedexes": [
             "national"
         ],
-        "nationalMaxNum": 10000,
+        "hasShinies": true,
+        "nationalMaxNum": 99999,
         "storage": {
             "boxes": 200,
             "boxCapacity": 30,
@@ -638,8 +661,8 @@
         "generation": 8,
         "releaseDate": "2021-11-19",
         "games": {
-            "bd": "Brilliant Diamond",
-            "sp": "Shining Pearl"
+            "bdsp-bd": "Brilliant Diamond",
+            "bdsp-sp": "Shining Pearl"
         },
         "platforms": [
             "switch"
@@ -648,9 +671,10 @@
         "region": "sinnoh",
         "originMark": "sinnoh",
         "pokedexes": [
-            "national",
-            "sinnoh"
+            "national-sinnoh-bdsp",
+            "sinnoh-bdsp"
         ],
+        "hasShinies": true,
         "nationalMaxNum": 493,
         "storage": {
             "boxes": 40,
@@ -685,7 +709,8 @@
             "hisui-coronet",
             "hisui-alabaster"
         ],
-        "nationalMaxNum": null,
+        "hasShinies": true,
+        "nationalMaxNum": 905,
         "storage": {
             "boxes": 32,
             "boxCapacity": 30,
@@ -704,8 +729,8 @@
         "generation": 9,
         "releaseDate": "2022-11-18",
         "games": {
-            "s": "Scarlet",
-            "v": "Violet"
+            "sv-s": "Scarlet",
+            "sv-v": "Violet"
         },
         "platforms": [
             "switch"
@@ -714,7 +739,9 @@
         "region": "_titan_",
         "originMark": "_titan_",
         "pokedexes": [],
+        "hasShinies": true,
         "nationalDex": null,
+        "nationalMaxNum": 999,
         "storage": {
             "boxes": 40,
             "boxCapacity": 30,

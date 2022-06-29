@@ -332,9 +332,7 @@
         "dexNum": 46,
         "forms": [
             "mimikyu",
-            "mimikyu-busted",
-            "mimikyu-totem",
-            "mimikyu-busted-totem"
+            "mimikyu-busted"
         ]
     },
     {
@@ -471,7 +469,7 @@
         "id": "nidoranf",
         "dexNum": 65,
         "forms": [
-            "nidoran-f"
+            "nidoranf"
         ]
     },
     {
@@ -492,7 +490,7 @@
         "id": "nidoranm",
         "dexNum": 68,
         "forms": [
-            "nidoran-m"
+            "nidoranm"
         ]
     },
     {
@@ -538,8 +536,7 @@
         "forms": [
             "eevee",
             "eevee-f",
-            "eevee-gmax",
-            "eevee-starter"
+            "eevee-gmax"
         ]
     },
     {
@@ -666,8 +663,7 @@
         "id": "araquanid",
         "dexNum": 92,
         "forms": [
-            "araquanid",
-            "araquanid-totem"
+            "araquanid"
         ]
     },
     {

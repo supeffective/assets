@@ -6,7 +6,7 @@ require_once __DIR__ . '/../vendor/autoload.php';
 error_reporting(-1);
 
 const SGG_PKM_ENTRIES_BASE_FILENAME = 'builds/pokemon/pokemon-entries';
-const SGG_SUPPORTED_GAMES = [
+const SGG_SUPPORTED_GAMESETS = [
     'rb',
     'y',
     'gs',

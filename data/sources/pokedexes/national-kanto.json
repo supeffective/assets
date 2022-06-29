@@ -1,0 +1,1059 @@
+[
+    {
+        "id": "bulbasaur",
+        "dexNum": 1,
+        "forms": [
+            "bulbasaur"
+        ]
+    },
+    {
+        "id": "ivysaur",
+        "dexNum": 2,
+        "forms": [
+            "ivysaur"
+        ]
+    },
+    {
+        "id": "venusaur",
+        "dexNum": 3,
+        "forms": [
+            "venusaur"
+        ]
+    },
+    {
+        "id": "charmander",
+        "dexNum": 4,
+        "forms": [
+            "charmander"
+        ]
+    },
+    {
+        "id": "charmeleon",
+        "dexNum": 5,
+        "forms": [
+            "charmeleon"
+        ]
+    },
+    {
+        "id": "charizard",
+        "dexNum": 6,
+        "forms": [
+            "charizard"
+        ]
+    },
+    {
+        "id": "squirtle",
+        "dexNum": 7,
+        "forms": [
+            "squirtle"
+        ]
+    },
+    {
+        "id": "wartortle",
+        "dexNum": 8,
+        "forms": [
+            "wartortle"
+        ]
+    },
+    {
+        "id": "blastoise",
+        "dexNum": 9,
+        "forms": [
+            "blastoise"
+        ]
+    },
+    {
+        "id": "caterpie",
+        "dexNum": 10,
+        "forms": [
+            "caterpie"
+        ]
+    },
+    {
+        "id": "metapod",
+        "dexNum": 11,
+        "forms": [
+            "metapod"
+        ]
+    },
+    {
+        "id": "butterfree",
+        "dexNum": 12,
+        "forms": [
+            "butterfree"
+        ]
+    },
+    {
+        "id": "weedle",
+        "dexNum": 13,
+        "forms": [
+            "weedle"
+        ]
+    },
+    {
+        "id": "kakuna",
+        "dexNum": 14,
+        "forms": [
+            "kakuna"
+        ]
+    },
+    {
+        "id": "beedrill",
+        "dexNum": 15,
+        "forms": [
+            "beedrill"
+        ]
+    },
+    {
+        "id": "pidgey",
+        "dexNum": 16,
+        "forms": [
+            "pidgey"
+        ]
+    },
+    {
+        "id": "pidgeotto",
+        "dexNum": 17,
+        "forms": [
+            "pidgeotto"
+        ]
+    },
+    {
+        "id": "pidgeot",
+        "dexNum": 18,
+        "forms": [
+            "pidgeot"
+        ]
+    },
+    {
+        "id": "rattata",
+        "dexNum": 19,
+        "forms": [
+            "rattata"
+        ]
+    },
+    {
+        "id": "raticate",
+        "dexNum": 20,
+        "forms": [
+            "raticate"
+        ]
+    },
+    {
+        "id": "spearow",
+        "dexNum": 21,
+        "forms": [
+            "spearow"
+        ]
+    },
+    {
+        "id": "fearow",
+        "dexNum": 22,
+        "forms": [
+            "fearow"
+        ]
+    },
+    {
+        "id": "ekans",
+        "dexNum": 23,
+        "forms": [
+            "ekans"
+        ]
+    },
+    {
+        "id": "arbok",
+        "dexNum": 24,
+        "forms": [
+            "arbok"
+        ]
+    },
+    {
+        "id": "pikachu",
+        "dexNum": 25,
+        "forms": [
+            "pikachu"
+        ]
+    },
+    {
+        "id": "raichu",
+        "dexNum": 26,
+        "forms": [
+            "raichu"
+        ]
+    },
+    {
+        "id": "sandshrew",
+        "dexNum": 27,
+        "forms": [
+            "sandshrew"
+        ]
+    },
+    {
+        "id": "sandslash",
+        "dexNum": 28,
+        "forms": [
+            "sandslash"
+        ]
+    },
+    {
+        "id": "nidoranf",
+        "dexNum": 29,
+        "forms": [
+            "nidoranf"
+        ]
+    },
+    {
+        "id": "nidorina",
+        "dexNum": 30,
+        "forms": [
+            "nidorina"
+        ]
+    },
+    {
+        "id": "nidoqueen",
+        "dexNum": 31,
+        "forms": [
+            "nidoqueen"
+        ]
+    },
+    {
+        "id": "nidoranm",
+        "dexNum": 32,
+        "forms": [
+            "nidoranm"
+        ]
+    },
+    {
+        "id": "nidorino",
+        "dexNum": 33,
+        "forms": [
+            "nidorino"
+        ]
+    },
+    {
+        "id": "nidoking",
+        "dexNum": 34,
+        "forms": [
+            "nidoking"
+        ]
+    },
+    {
+        "id": "clefairy",
+        "dexNum": 35,
+        "forms": [
+            "clefairy"
+        ]
+    },
+    {
+        "id": "clefable",
+        "dexNum": 36,
+        "forms": [
+            "clefable"
+        ]
+    },
+    {
+        "id": "vulpix",
+        "dexNum": 37,
+        "forms": [
+            "vulpix"
+        ]
+    },
+    {
+        "id": "ninetales",
+        "dexNum": 38,
+        "forms": [
+            "ninetales"
+        ]
+    },
+    {
+        "id": "jigglypuff",
+        "dexNum": 39,
+        "forms": [
+            "jigglypuff"
+        ]
+    },
+    {
+        "id": "wigglytuff",
+        "dexNum": 40,
+        "forms": [
+            "wigglytuff"
+        ]
+    },
+    {
+        "id": "zubat",
+        "dexNum": 41,
+        "forms": [
+            "zubat"
+        ]
+    },
+    {
+        "id": "golbat",
+        "dexNum": 42,
+        "forms": [
+            "golbat"
+        ]
+    },
+    {
+        "id": "oddish",
+        "dexNum": 43,
+        "forms": [
+            "oddish"
+        ]
+    },
+    {
+        "id": "gloom",
+        "dexNum": 44,
+        "forms": [
+            "gloom"
+        ]
+    },
+    {
+        "id": "vileplume",
+        "dexNum": 45,
+        "forms": [
+            "vileplume"
+        ]
+    },
+    {
+        "id": "paras",
+        "dexNum": 46,
+        "forms": [
+            "paras"
+        ]
+    },
+    {
+        "id": "parasect",
+        "dexNum": 47,
+        "forms": [
+            "parasect"
+        ]
+    },
+    {
+        "id": "venonat",
+        "dexNum": 48,
+        "forms": [
+            "venonat"
+        ]
+    },
+    {
+        "id": "venomoth",
+        "dexNum": 49,
+        "forms": [
+            "venomoth"
+        ]
+    },
+    {
+        "id": "diglett",
+        "dexNum": 50,
+        "forms": [
+            "diglett"
+        ]
+    },
+    {
+        "id": "dugtrio",
+        "dexNum": 51,
+        "forms": [
+            "dugtrio"
+        ]
+    },
+    {
+        "id": "meowth",
+        "dexNum": 52,
+        "forms": [
+            "meowth"
+        ]
+    },
+    {
+        "id": "persian",
+        "dexNum": 53,
+        "forms": [
+            "persian"
+        ]
+    },
+    {
+        "id": "psyduck",
+        "dexNum": 54,
+        "forms": [
+            "psyduck"
+        ]
+    },
+    {
+        "id": "golduck",
+        "dexNum": 55,
+        "forms": [
+            "golduck"
+        ]
+    },
+    {
+        "id": "mankey",
+        "dexNum": 56,
+        "forms": [
+            "mankey"
+        ]
+    },
+    {
+        "id": "primeape",
+        "dexNum": 57,
+        "forms": [
+            "primeape"
+        ]
+    },
+    {
+        "id": "growlithe",
+        "dexNum": 58,
+        "forms": [
+            "growlithe"
+        ]
+    },
+    {
+        "id": "arcanine",
+        "dexNum": 59,
+        "forms": [
+            "arcanine"
+        ]
+    },
+    {
+        "id": "poliwag",
+        "dexNum": 60,
+        "forms": [
+            "poliwag"
+        ]
+    },
+    {
+        "id": "poliwhirl",
+        "dexNum": 61,
+        "forms": [
+            "poliwhirl"
+        ]
+    },
+    {
+        "id": "poliwrath",
+        "dexNum": 62,
+        "forms": [
+            "poliwrath"
+        ]
+    },
+    {
+        "id": "abra",
+        "dexNum": 63,
+        "forms": [
+            "abra"
+        ]
+    },
+    {
+        "id": "kadabra",
+        "dexNum": 64,
+        "forms": [
+            "kadabra"
+        ]
+    },
+    {
+        "id": "alakazam",
+        "dexNum": 65,
+        "forms": [
+            "alakazam"
+        ]
+    },
+    {
+        "id": "machop",
+        "dexNum": 66,
+        "forms": [
+            "machop"
+        ]
+    },
+    {
+        "id": "machoke",
+        "dexNum": 67,
+        "forms": [
+            "machoke"
+        ]
+    },
+    {
+        "id": "machamp",
+        "dexNum": 68,
+        "forms": [
+            "machamp"
+        ]
+    },
+    {
+        "id": "bellsprout",
+        "dexNum": 69,
+        "forms": [
+            "bellsprout"
+        ]
+    },
+    {
+        "id": "weepinbell",
+        "dexNum": 70,
+        "forms": [
+            "weepinbell"
+        ]
+    },
+    {
+        "id": "victreebel",
+        "dexNum": 71,
+        "forms": [
+            "victreebel"
+        ]
+    },
+    {
+        "id": "tentacool",
+        "dexNum": 72,
+        "forms": [
+            "tentacool"
+        ]
+    },
+    {
+        "id": "tentacruel",
+        "dexNum": 73,
+        "forms": [
+            "tentacruel"
+        ]
+    },
+    {
+        "id": "geodude",
+        "dexNum": 74,
+        "forms": [
+            "geodude"
+        ]
+    },
+    {
+        "id": "graveler",
+        "dexNum": 75,
+        "forms": [
+            "graveler"
+        ]
+    },
+    {
+        "id": "golem",
+        "dexNum": 76,
+        "forms": [
+            "golem"
+        ]
+    },
+    {
+        "id": "ponyta",
+        "dexNum": 77,
+        "forms": [
+            "ponyta"
+        ]
+    },
+    {
+        "id": "rapidash",
+        "dexNum": 78,
+        "forms": [
+            "rapidash"
+        ]
+    },
+    {
+        "id": "slowpoke",
+        "dexNum": 79,
+        "forms": [
+            "slowpoke"
+        ]
+    },
+    {
+        "id": "slowbro",
+        "dexNum": 80,
+        "forms": [
+            "slowbro"
+        ]
+    },
+    {
+        "id": "magnemite",
+        "dexNum": 81,
+        "forms": [
+            "magnemite"
+        ]
+    },
+    {
+        "id": "magneton",
+        "dexNum": 82,
+        "forms": [
+            "magneton"
+        ]
+    },
+    {
+        "id": "farfetchd",
+        "dexNum": 83,
+        "forms": [
+            "farfetchd"
+        ]
+    },
+    {
+        "id": "doduo",
+        "dexNum": 84,
+        "forms": [
+            "doduo"
+        ]
+    },
+    {
+        "id": "dodrio",
+        "dexNum": 85,
+        "forms": [
+            "dodrio"
+        ]
+    },
+    {
+        "id": "seel",
+        "dexNum": 86,
+        "forms": [
+            "seel"
+        ]
+    },
+    {
+        "id": "dewgong",
+        "dexNum": 87,
+        "forms": [
+            "dewgong"
+        ]
+    },
+    {
+        "id": "grimer",
+        "dexNum": 88,
+        "forms": [
+            "grimer"
+        ]
+    },
+    {
+        "id": "muk",
+        "dexNum": 89,
+        "forms": [
+            "muk"
+        ]
+    },
+    {
+        "id": "shellder",
+        "dexNum": 90,
+        "forms": [
+            "shellder"
+        ]
+    },
+    {
+        "id": "cloyster",
+        "dexNum": 91,
+        "forms": [
+            "cloyster"
+        ]
+    },
+    {
+        "id": "gastly",
+        "dexNum": 92,
+        "forms": [
+            "gastly"
+        ]
+    },
+    {
+        "id": "haunter",
+        "dexNum": 93,
+        "forms": [
+            "haunter"
+        ]
+    },
+    {
+        "id": "gengar",
+        "dexNum": 94,
+        "forms": [
+            "gengar"
+        ]
+    },
+    {
+        "id": "onix",
+        "dexNum": 95,
+        "forms": [
+            "onix"
+        ]
+    },
+    {
+        "id": "drowzee",
+        "dexNum": 96,
+        "forms": [
+            "drowzee"
+        ]
+    },
+    {
+        "id": "hypno",
+        "dexNum": 97,
+        "forms": [
+            "hypno"
+        ]
+    },
+    {
+        "id": "krabby",
+        "dexNum": 98,
+        "forms": [
+            "krabby"
+        ]
+    },
+    {
+        "id": "kingler",
+        "dexNum": 99,
+        "forms": [
+            "kingler"
+        ]
+    },
+    {
+        "id": "voltorb",
+        "dexNum": 100,
+        "forms": [
+            "voltorb"
+        ]
+    },
+    {
+        "id": "electrode",
+        "dexNum": 101,
+        "forms": [
+            "electrode"
+        ]
+    },
+    {
+        "id": "exeggcute",
+        "dexNum": 102,
+        "forms": [
+            "exeggcute"
+        ]
+    },
+    {
+        "id": "exeggutor",
+        "dexNum": 103,
+        "forms": [
+            "exeggutor"
+        ]
+    },
+    {
+        "id": "cubone",
+        "dexNum": 104,
+        "forms": [
+            "cubone"
+        ]
+    },
+    {
+        "id": "marowak",
+        "dexNum": 105,
+        "forms": [
+            "marowak"
+        ]
+    },
+    {
+        "id": "hitmonlee",
+        "dexNum": 106,
+        "forms": [
+            "hitmonlee"
+        ]
+    },
+    {
+        "id": "hitmonchan",
+        "dexNum": 107,
+        "forms": [
+            "hitmonchan"
+        ]
+    },
+    {
+        "id": "lickitung",
+        "dexNum": 108,
+        "forms": [
+            "lickitung"
+        ]
+    },
+    {
+        "id": "koffing",
+        "dexNum": 109,
+        "forms": [
+            "koffing"
+        ]
+    },
+    {
+        "id": "weezing",
+        "dexNum": 110,
+        "forms": [
+            "weezing"
+        ]
+    },
+    {
+        "id": "rhyhorn",
+        "dexNum": 111,
+        "forms": [
+            "rhyhorn"
+        ]
+    },
+    {
+        "id": "rhydon",
+        "dexNum": 112,
+        "forms": [
+            "rhydon"
+        ]
+    },
+    {
+        "id": "chansey",
+        "dexNum": 113,
+        "forms": [
+            "chansey"
+        ]
+    },
+    {
+        "id": "tangela",
+        "dexNum": 114,
+        "forms": [
+            "tangela"
+        ]
+    },
+    {
+        "id": "kangaskhan",
+        "dexNum": 115,
+        "forms": [
+            "kangaskhan"
+        ]
+    },
+    {
+        "id": "horsea",
+        "dexNum": 116,
+        "forms": [
+            "horsea"
+        ]
+    },
+    {
+        "id": "seadra",
+        "dexNum": 117,
+        "forms": [
+            "seadra"
+        ]
+    },
+    {
+        "id": "goldeen",
+        "dexNum": 118,
+        "forms": [
+            "goldeen"
+        ]
+    },
+    {
+        "id": "seaking",
+        "dexNum": 119,
+        "forms": [
+            "seaking"
+        ]
+    },
+    {
+        "id": "staryu",
+        "dexNum": 120,
+        "forms": [
+            "staryu"
+        ]
+    },
+    {
+        "id": "starmie",
+        "dexNum": 121,
+        "forms": [
+            "starmie"
+        ]
+    },
+    {
+        "id": "mrmime",
+        "dexNum": 122,
+        "forms": [
+            "mrmime"
+        ]
+    },
+    {
+        "id": "scyther",
+        "dexNum": 123,
+        "forms": [
+            "scyther"
+        ]
+    },
+    {
+        "id": "jynx",
+        "dexNum": 124,
+        "forms": [
+            "jynx"
+        ]
+    },
+    {
+        "id": "electabuzz",
+        "dexNum": 125,
+        "forms": [
+            "electabuzz"
+        ]
+    },
+    {
+        "id": "magmar",
+        "dexNum": 126,
+        "forms": [
+            "magmar"
+        ]
+    },
+    {
+        "id": "pinsir",
+        "dexNum": 127,
+        "forms": [
+            "pinsir"
+        ]
+    },
+    {
+        "id": "tauros",
+        "dexNum": 128,
+        "forms": [
+            "tauros"
+        ]
+    },
+    {
+        "id": "magikarp",
+        "dexNum": 129,
+        "forms": [
+            "magikarp"
+        ]
+    },
+    {
+        "id": "gyarados",
+        "dexNum": 130,
+        "forms": [
+            "gyarados"
+        ]
+    },
+    {
+        "id": "lapras",
+        "dexNum": 131,
+        "forms": [
+            "lapras"
+        ]
+    },
+    {
+        "id": "ditto",
+        "dexNum": 132,
+        "forms": [
+            "ditto"
+        ]
+    },
+    {
+        "id": "eevee",
+        "dexNum": 133,
+        "forms": [
+            "eevee"
+        ]
+    },
+    {
+        "id": "vaporeon",
+        "dexNum": 134,
+        "forms": [
+            "vaporeon"
+        ]
+    },
+    {
+        "id": "jolteon",
+        "dexNum": 135,
+        "forms": [
+            "jolteon"
+        ]
+    },
+    {
+        "id": "flareon",
+        "dexNum": 136,
+        "forms": [
+            "flareon"
+        ]
+    },
+    {
+        "id": "porygon",
+        "dexNum": 137,
+        "forms": [
+            "porygon"
+        ]
+    },
+    {
+        "id": "omanyte",
+        "dexNum": 138,
+        "forms": [
+            "omanyte"
+        ]
+    },
+    {
+        "id": "omastar",
+        "dexNum": 139,
+        "forms": [
+            "omastar"
+        ]
+    },
+    {
+        "id": "kabuto",
+        "dexNum": 140,
+        "forms": [
+            "kabuto"
+        ]
+    },
+    {
+        "id": "kabutops",
+        "dexNum": 141,
+        "forms": [
+            "kabutops"
+        ]
+    },
+    {
+        "id": "aerodactyl",
+        "dexNum": 142,
+        "forms": [
+            "aerodactyl"
+        ]
+    },
+    {
+        "id": "snorlax",
+        "dexNum": 143,
+        "forms": [
+            "snorlax"
+        ]
+    },
+    {
+        "id": "articuno",
+        "dexNum": 144,
+        "forms": [
+            "articuno"
+        ]
+    },
+    {
+        "id": "zapdos",
+        "dexNum": 145,
+        "forms": [
+            "zapdos"
+        ]
+    },
+    {
+        "id": "moltres",
+        "dexNum": 146,
+        "forms": [
+            "moltres"
+        ]
+    },
+    {
+        "id": "dratini",
+        "dexNum": 147,
+        "forms": [
+            "dratini"
+        ]
+    },
+    {
+        "id": "dragonair",
+        "dexNum": 148,
+        "forms": [
+            "dragonair"
+        ]
+    },
+    {
+        "id": "dragonite",
+        "dexNum": 149,
+        "forms": [
+            "dragonite"
+        ]
+    },
+    {
+        "id": "mewtwo",
+        "dexNum": 150,
+        "forms": [
+            "mewtwo"
+        ]
+    },
+    {
+        "id": "mew",
+        "dexNum": 151,
+        "forms": [
+            "mew"
+        ]
+    }
+]
