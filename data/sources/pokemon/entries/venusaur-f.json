@@ -38,7 +38,6 @@
     "canBeAlpha": false,
     "debutIn": "dp",
     "obtainableIn": [
-        "frlg",
         "hgss",
         "xy",
         "go",
@@ -50,11 +49,6 @@
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
     "storableIn": [
-        "gs",
-        "c",
-        "rs",
-        "frlg",
-        "e",
         "dp",
         "pt",
         "hgss",

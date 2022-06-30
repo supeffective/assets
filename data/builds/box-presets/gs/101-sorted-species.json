@@ -310,17 +310,6 @@
         },
         {
             "pokemon": [
-                "venusaur-f",
-                "meganium-f",
-                "ledyba-f",
-                "ledian-f",
-                "xatu-f",
-                "sudowoodo-f",
-                "politoed-f",
-                "aipom-f",
-                "wooper-f",
-                "quagsire-f",
-                "murkrow-f",
                 "unown-b",
                 "unown-c",
                 "unown-d",
@@ -329,11 +318,7 @@
                 "unown-g",
                 "unown-h",
                 "unown-i",
-                "unown-j"
-            ]
-        },
-        {
-            "pokemon": [
+                "unown-j",
                 "unown-k",
                 "unown-l",
                 "unown-m",
@@ -344,28 +329,16 @@
                 "unown-r",
                 "unown-s",
                 "unown-t",
-                "unown-u",
-                "unown-v",
-                "unown-w",
-                "unown-x",
-                "unown-y",
-                "unown-z",
-                "wobbuffet-f",
-                "girafarig-f",
-                "gligar-f",
-                "steelix-f"
+                "unown-u"
             ]
         },
         {
             "pokemon": [
-                "scizor-f",
-                "heracross-f",
-                "sneasel-f",
-                "ursaring-f",
-                "piloswine-f",
-                "octillery-f",
-                "houndoom-f",
-                "donphan-f"
+                "unown-v",
+                "unown-w",
+                "unown-x",
+                "unown-y",
+                "unown-z"
             ]
         }
     ]
