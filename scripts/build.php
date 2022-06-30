@@ -81,18 +81,18 @@ require_once __DIR__ . '/_bootstrap.php';
         }
     };
 
-    $generateMegaPokemonList = static function () use ($dataSet): void {
-        $newDataSet = [];
-
-        foreach ($dataSet as $pkm) {
-            if (!$pkm['isMega']) {
-                continue;
-            }
-            $newDataSet[] = $pkm['id'];
-        }
-
-        sgg_data_save('builds/pokemon/mega-pokemon.json', $newDataSet, minify: false);
-    };
+//    $generateMegaPokemonList = static function () use ($dataSet): void {
+//        $newDataSet = [];
+//
+//        foreach ($dataSet as $pkm) {
+//            if (!$pkm['isMega']) {
+//                continue;
+//            }
+//            $newDataSet[] = $pkm['id'];
+//        }
+//
+//        sgg_data_save('builds/pokemon/mega-pokemon.json', $newDataSet, minify: false);
+//    };
 
     $generateGmaxPokemonList = static function () use ($dataSet, $dataSetById): void {
         $newDataSet = [];
@@ -246,6 +246,11 @@ require_once __DIR__ . '/_bootstrap.php';
         $currentBox = 0;
         foreach ($hisuiDex as $dexPkm) {
             foreach ($dexPkm['forms'] as $pkmId) {
+                foreach (SGG_BOXES_EXCLUDE_FORMS_PREFIX as $prefix) {
+                    if (str_starts_with($pkmId, $prefix)) {
+                        continue 2;
+                    }
+                }
                 $pkm = $dataSetById[$pkmId];
                 if (!in_array('la', $pkm['storableIn'], true)) {
                     continue;
@@ -315,6 +320,11 @@ require_once __DIR__ . '/_bootstrap.php';
             if (!in_array($gameSetId, $pkm['storableIn'], true)) {
                 continue;
             }
+            foreach (SGG_BOXES_EXCLUDE_FORMS_PREFIX as $prefix) {
+                if (str_starts_with($pkmId, $prefix)) {
+                    continue 2;
+                }
+            }
             if (
                 isset($preset['boxes'][$currentBox])
                 && (count($preset['boxes'][$currentBox]['pokemon']) >= $maxPkmPerBox)
@@ -355,6 +365,11 @@ require_once __DIR__ . '/_bootstrap.php';
             if (!in_array($gameSetId, $pkm['storableIn'], true)) {
                 continue;
             }
+            foreach (SGG_BOXES_EXCLUDE_FORMS_PREFIX as $prefix) {
+                if (str_starts_with($pkmId, $prefix)) {
+                    continue 2;
+                }
+            }
             if ($pkm['isForm']) {
                 $forms[] = $pkmId;
             } else {
@@ -371,6 +386,11 @@ require_once __DIR__ . '/_bootstrap.php';
 
         // Add species first
         foreach ($species as $pkmId) {
+            foreach (SGG_BOXES_EXCLUDE_FORMS_PREFIX as $prefix) {
+                if (str_starts_with($pkmId, $prefix)) {
+                    continue 2;
+                }
+            }
             $pkm = $dataSetById[$pkmId];
             if (!isset($presetBySpecies['boxes'][$currentBox])) {
                 $presetBySpecies['boxes'][$currentBox] = [
@@ -400,6 +420,11 @@ require_once __DIR__ . '/_bootstrap.php';
 
         // Continue with forms
         foreach ($forms as $pkmId) {
+            foreach (SGG_BOXES_EXCLUDE_FORMS_PREFIX as $prefix) {
+                if (str_starts_with($pkmId, $prefix)) {
+                    continue 2;
+                }
+            }
             $pkm = $dataSetById[$pkmId];
             if (!isset($presetBySpecies['boxes'][$currentBox])) {
                 $presetBySpecies['boxes'][$currentBox] = [

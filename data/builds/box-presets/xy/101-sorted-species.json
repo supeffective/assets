@@ -980,27 +980,6 @@
                 "rotom-mow",
                 "giratina-origin",
                 "shaymin-sky",
-                "arceus-fighting",
-                "arceus-flying",
-                "arceus-poison",
-                "arceus-ground",
-                "arceus-rock",
-                "arceus-bug",
-                "arceus-ghost",
-                "arceus-steel",
-                "arceus-fire",
-                "arceus-water",
-                "arceus-grass",
-                "arceus-electric",
-                "arceus-psychic",
-                "arceus-ice"
-            ]
-        },
-        {
-            "pokemon": [
-                "arceus-dragon",
-                "arceus-dark",
-                "arceus-fairy",
                 "unfezant-f",
                 "basculin-blue-striped",
                 "deerling-summer",
@@ -1014,24 +993,23 @@
                 "tornadus-therian",
                 "thundurus-therian",
                 "landorus-therian",
-                "kyurem-white",
+                "kyurem-white"
+            ]
+        },
+        {
+            "pokemon": [
                 "kyurem-black",
                 "keldeo-resolute",
                 "genesect-douse",
                 "genesect-shock",
                 "genesect-burn",
                 "genesect-chill",
-                "greninja--battle-bond",
                 "vivillon-meadow",
                 "vivillon-polar",
                 "vivillon-tundra",
                 "vivillon-continental",
                 "vivillon-garden",
-                "vivillon-elegant"
-            ]
-        },
-        {
-            "pokemon": [
+                "vivillon-elegant",
                 "vivillon-modern",
                 "vivillon-marine",
                 "vivillon-archipelago",
@@ -1049,7 +1027,11 @@
                 "flabebe-blue",
                 "flabebe-orange",
                 "flabebe-white",
-                "flabebe-yellow",
+                "flabebe-yellow"
+            ]
+        },
+        {
+            "pokemon": [
                 "floette-blue",
                 "floette-orange",
                 "floette-white",
@@ -1061,11 +1043,7 @@
                 "furfrou-heart",
                 "furfrou-star",
                 "furfrou-diamond",
-                "furfrou-debutante"
-            ]
-        },
-        {
-            "pokemon": [
+                "furfrou-debutante",
                 "furfrou-matron",
                 "furfrou-dandy",
                 "furfrou-la-reine",

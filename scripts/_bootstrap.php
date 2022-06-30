@@ -31,6 +31,10 @@ const SGG_SUPPORTED_GAMESETS = [
     'la',
     'sv',
 ];
+const SGG_BOXES_EXCLUDE_FORMS_PREFIX = [
+    'arceus-',
+    'silvally-',
+];
 
 function sgg_get_gamesets(): array
 {

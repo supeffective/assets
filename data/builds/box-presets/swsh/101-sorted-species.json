@@ -909,30 +909,9 @@
                 "rockruff--own-tempo",
                 "lycanroc-midnight",
                 "lycanroc-dusk",
-                "silvally-fighting",
-                "silvally-flying",
-                "silvally-poison",
-                "silvally-ground",
-                "silvally-rock",
-                "silvally-bug",
-                "silvally-ghost",
-                "silvally-steel",
-                "silvally-fire",
-                "silvally-water",
-                "silvally-grass",
-                "silvally-electric",
-                "silvally-psychic",
-                "silvally-ice",
-                "silvally-dragon",
-                "silvally-dark",
-                "silvally-fairy",
                 "necrozma-dusk-mane",
                 "necrozma-dawn-wings",
-                "magearna-original"
-            ]
-        },
-        {
-            "pokemon": [
+                "magearna-original",
                 "toxtricity-low-key",
                 "sinistea-antique",
                 "polteageist-antique",
@@ -949,7 +928,11 @@
                 "alcremie-ruby-cream-clover",
                 "alcremie-ruby-cream-flower",
                 "alcremie-ruby-cream-ribbon",
-                "alcremie-matcha-cream-strawberry",
+                "alcremie-matcha-cream-strawberry"
+            ]
+        },
+        {
+            "pokemon": [
                 "alcremie-matcha-cream-berry",
                 "alcremie-matcha-cream-love",
                 "alcremie-matcha-cream-star",
@@ -962,11 +945,7 @@
                 "alcremie-mint-cream-star",
                 "alcremie-mint-cream-clover",
                 "alcremie-mint-cream-flower",
-                "alcremie-mint-cream-ribbon"
-            ]
-        },
-        {
-            "pokemon": [
+                "alcremie-mint-cream-ribbon",
                 "alcremie-lemon-cream-strawberry",
                 "alcremie-lemon-cream-berry",
                 "alcremie-lemon-cream-love",
@@ -983,7 +962,11 @@
                 "alcremie-salted-cream-ribbon",
                 "alcremie-ruby-swirl-strawberry",
                 "alcremie-ruby-swirl-berry",
-                "alcremie-ruby-swirl-love",
+                "alcremie-ruby-swirl-love"
+            ]
+        },
+        {
+            "pokemon": [
                 "alcremie-ruby-swirl-star",
                 "alcremie-ruby-swirl-clover",
                 "alcremie-ruby-swirl-flower",
@@ -996,11 +979,7 @@
                 "alcremie-caramel-swirl-flower",
                 "alcremie-caramel-swirl-ribbon",
                 "alcremie-rainbow-swirl-strawberry",
-                "alcremie-rainbow-swirl-berry"
-            ]
-        },
-        {
-            "pokemon": [
+                "alcremie-rainbow-swirl-berry",
                 "alcremie-rainbow-swirl-love",
                 "alcremie-rainbow-swirl-star",
                 "alcremie-rainbow-swirl-clover",

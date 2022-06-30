@@ -1096,30 +1096,9 @@
                 "rotom-mow",
                 "giratina-origin",
                 "shaymin-sky",
-                "arceus-fighting",
-                "arceus-flying",
-                "arceus-poison",
-                "arceus-ground",
-                "arceus-rock",
-                "arceus-bug",
-                "arceus-ghost",
-                "arceus-steel",
-                "arceus-fire",
-                "arceus-water",
-                "arceus-grass",
-                "arceus-electric",
-                "arceus-psychic",
-                "arceus-ice",
-                "arceus-dragon",
-                "arceus-dark",
-                "arceus-fairy",
                 "unfezant-f",
                 "basculin-blue-striped",
-                "deerling-summer"
-            ]
-        },
-        {
-            "pokemon": [
+                "deerling-summer",
                 "deerling-autumn",
                 "deerling-winter",
                 "sawsbuck-summer",
@@ -1136,7 +1115,11 @@
                 "genesect-douse",
                 "genesect-shock",
                 "genesect-burn",
-                "genesect-chill",
+                "genesect-chill"
+            ]
+        },
+        {
+            "pokemon": [
                 "greninja--battle-bond",
                 "greninja-ash",
                 "vivillon-meadow",
@@ -1149,11 +1132,7 @@
                 "vivillon-marine",
                 "vivillon-archipelago",
                 "vivillon-high-plains",
-                "vivillon-sandstorm"
-            ]
-        },
-        {
-            "pokemon": [
+                "vivillon-sandstorm",
                 "vivillon-river",
                 "vivillon-monsoon",
                 "vivillon-savanna",
@@ -1170,7 +1149,11 @@
                 "floette-blue",
                 "floette-orange",
                 "floette-white",
-                "floette-yellow",
+                "floette-yellow"
+            ]
+        },
+        {
+            "pokemon": [
                 "florges-blue",
                 "florges-orange",
                 "florges-white",
@@ -1183,11 +1166,7 @@
                 "furfrou-dandy",
                 "furfrou-la-reine",
                 "furfrou-kabuki",
-                "furfrou-pharaoh"
-            ]
-        },
-        {
-            "pokemon": [
+                "furfrou-pharaoh",
                 "meowstic-f",
                 "pumpkaboo-small",
                 "pumpkaboo-large",
@@ -1203,29 +1182,12 @@
                 "oricorio-pau",
                 "oricorio-sensu",
                 "lycanroc-midnight",
-                "silvally-fighting",
-                "silvally-flying",
-                "silvally-poison",
-                "silvally-ground",
-                "silvally-rock",
-                "silvally-bug",
-                "silvally-ghost",
-                "silvally-steel",
-                "silvally-fire",
-                "silvally-water",
-                "silvally-grass",
-                "silvally-electric",
-                "silvally-psychic",
-                "silvally-ice",
-                "silvally-dragon"
+                "minior-red",
+                "minior-orange"
             ]
         },
         {
             "pokemon": [
-                "silvally-dark",
-                "silvally-fairy",
-                "minior-red",
-                "minior-orange",
                 "minior-yellow",
                 "minior-green",
                 "minior-blue",

@@ -910,7 +910,6 @@
                 "froakie",
                 "frogadier",
                 "greninja",
-                "greninja--battle-bond",
                 "bunnelby",
                 "diggersby",
                 "fletchling",
@@ -920,12 +919,12 @@
                 "spewpa",
                 "vivillon",
                 "vivillon-meadow",
-                "vivillon-polar"
+                "vivillon-polar",
+                "vivillon-tundra"
             ]
         },
         {
             "pokemon": [
-                "vivillon-tundra",
                 "vivillon-continental",
                 "vivillon-garden",
                 "vivillon-elegant",
@@ -954,12 +953,12 @@
                 "floette-blue",
                 "floette-orange",
                 "floette-white",
-                "floette-yellow"
+                "floette-yellow",
+                "florges"
             ]
         },
         {
             "pokemon": [
-                "florges",
                 "florges-blue",
                 "florges-orange",
                 "florges-white",
@@ -988,12 +987,12 @@
                 "aromatisse",
                 "swirlix",
                 "slurpuff",
-                "inkay"
+                "inkay",
+                "malamar"
             ]
         },
         {
             "pokemon": [
-                "malamar",
                 "binacle",
                 "barbaracle",
                 "skrelp",
@@ -1022,12 +1021,12 @@
                 "pumpkaboo-super",
                 "gourgeist",
                 "gourgeist-small",
-                "gourgeist-large"
+                "gourgeist-large",
+                "gourgeist-super"
             ]
         },
         {
             "pokemon": [
-                "gourgeist-super",
                 "bergmite",
                 "avalugg",
                 "noibat",

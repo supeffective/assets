@@ -896,26 +896,6 @@
                 "rotom-mow",
                 "giratina-origin",
                 "shaymin-sky",
-                "arceus-fighting",
-                "arceus-flying",
-                "arceus-poison",
-                "arceus-ground",
-                "arceus-rock",
-                "arceus-bug",
-                "arceus-ghost",
-                "arceus-steel",
-                "arceus-fire",
-                "arceus-water",
-                "arceus-grass",
-                "arceus-electric",
-                "arceus-psychic",
-                "arceus-ice"
-            ]
-        },
-        {
-            "pokemon": [
-                "arceus-dragon",
-                "arceus-dark",
                 "unfezant-f",
                 "basculin-blue-striped",
                 "deerling-summer",
@@ -929,7 +909,11 @@
                 "tornadus-therian",
                 "thundurus-therian",
                 "landorus-therian",
-                "kyurem-white",
+                "kyurem-white"
+            ]
+        },
+        {
+            "pokemon": [
                 "kyurem-black",
                 "keldeo-resolute",
                 "genesect-douse",

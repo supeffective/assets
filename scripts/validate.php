@@ -101,6 +101,11 @@ use Swaggest\JsonSchema\Schema;
         if (!in_array($presetId, ['fully-sorted-minimal', 'sorted-species-minimal'])) {
             // detect missing
             foreach ($storablePokemonList as $pokemon) {
+                foreach (SGG_BOXES_EXCLUDE_FORMS_PREFIX as $prefix) {
+                    if (str_starts_with($pokemon, $prefix)) {
+                        continue 2;
+                    }
+                }
                 if (!isset($pokemonInBoxes[$pokemon])) {
                     $errors[] = "❌ Error: Missing storable pokemon '$pokemon' in preset '$presetPath'";
                 }

@@ -767,28 +767,7 @@
                 "pyukumuku",
                 "typenull",
                 "silvally",
-                "silvally-fighting",
-                "silvally-flying",
-                "silvally-poison",
-                "silvally-ground",
-                "silvally-rock",
-                "silvally-bug",
-                "silvally-ghost",
-                "silvally-steel",
-                "silvally-fire",
-                "silvally-water",
-                "silvally-grass",
-                "silvally-electric",
-                "silvally-psychic",
-                "silvally-ice",
-                "silvally-dragon",
-                "silvally-dark",
-                "silvally-fairy",
-                "turtonator"
-            ]
-        },
-        {
-            "pokemon": [
+                "turtonator",
                 "togedemaru",
                 "mimikyu",
                 "drampa",
@@ -805,7 +784,11 @@
                 "solgaleo",
                 "lunala",
                 "nihilego",
-                "buzzwole",
+                "buzzwole"
+            ]
+        },
+        {
+            "pokemon": [
                 "pheromosa",
                 "xurkitree",
                 "celesteela",
@@ -818,11 +801,7 @@
                 "magearna-original",
                 "marshadow",
                 "poipole",
-                "naganadel"
-            ]
-        },
-        {
-            "pokemon": [
+                "naganadel",
                 "stakataka",
                 "blacephalon",
                 "zeraora",
@@ -839,7 +818,11 @@
                 "inteleon",
                 "skwovet",
                 "greedent",
-                "rookidee",
+                "rookidee"
+            ]
+        },
+        {
+            "pokemon": [
                 "corvisquire",
                 "corviknight",
                 "blipbug",
@@ -852,11 +835,7 @@
                 "wooloo",
                 "dubwool",
                 "chewtle",
-                "drednaw"
-            ]
-        },
-        {
-            "pokemon": [
+                "drednaw",
                 "yamper",
                 "boltund",
                 "rolycoly",
@@ -873,7 +852,11 @@
                 "toxel",
                 "toxtricity",
                 "toxtricity-low-key",
-                "sizzlipede",
+                "sizzlipede"
+            ]
+        },
+        {
+            "pokemon": [
                 "centiskorch",
                 "clobbopus",
                 "grapploct",
@@ -886,11 +869,7 @@
                 "hatterene",
                 "impidimp",
                 "morgrem",
-                "grimmsnarl"
-            ]
-        },
-        {
-            "pokemon": [
+                "grimmsnarl",
                 "obstagoon",
                 "perrserker",
                 "cursola",
@@ -907,7 +886,11 @@
                 "alcremie-vanilla-cream-ribbon",
                 "alcremie-ruby-cream-strawberry",
                 "alcremie-ruby-cream-berry",
-                "alcremie-ruby-cream-love",
+                "alcremie-ruby-cream-love"
+            ]
+        },
+        {
+            "pokemon": [
                 "alcremie-ruby-cream-star",
                 "alcremie-ruby-cream-clover",
                 "alcremie-ruby-cream-flower",
@@ -920,11 +903,7 @@
                 "alcremie-matcha-cream-flower",
                 "alcremie-matcha-cream-ribbon",
                 "alcremie-mint-cream-strawberry",
-                "alcremie-mint-cream-berry"
-            ]
-        },
-        {
-            "pokemon": [
+                "alcremie-mint-cream-berry",
                 "alcremie-mint-cream-love",
                 "alcremie-mint-cream-star",
                 "alcremie-mint-cream-clover",
@@ -941,7 +920,11 @@
                 "alcremie-salted-cream-berry",
                 "alcremie-salted-cream-love",
                 "alcremie-salted-cream-star",
-                "alcremie-salted-cream-clover",
+                "alcremie-salted-cream-clover"
+            ]
+        },
+        {
+            "pokemon": [
                 "alcremie-salted-cream-flower",
                 "alcremie-salted-cream-ribbon",
                 "alcremie-ruby-swirl-strawberry",
@@ -954,11 +937,7 @@
                 "alcremie-caramel-swirl-strawberry",
                 "alcremie-caramel-swirl-berry",
                 "alcremie-caramel-swirl-love",
-                "alcremie-caramel-swirl-star"
-            ]
-        },
-        {
-            "pokemon": [
+                "alcremie-caramel-swirl-star",
                 "alcremie-caramel-swirl-clover",
                 "alcremie-caramel-swirl-flower",
                 "alcremie-caramel-swirl-ribbon",
@@ -975,7 +954,11 @@
                 "frosmoth",
                 "stonjourner",
                 "eiscue",
-                "indeedee",
+                "indeedee"
+            ]
+        },
+        {
+            "pokemon": [
                 "indeedee-f",
                 "morpeko",
                 "cufant",
@@ -988,11 +971,7 @@
                 "dreepy",
                 "drakloak",
                 "dragapult",
-                "zacian"
-            ]
-        },
-        {
-            "pokemon": [
+                "zacian",
                 "zamazenta",
                 "eternatus",
                 "kubfu",

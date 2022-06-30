@@ -105768,11 +105768,9 @@
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "home",
-            "oras",
             "sm",
             "usum",
-            "xy"
+            "home"
         ],
         "shinyReleased": false,
         "shinyBase": null,
