@@ -966,7 +966,6 @@
                 "scyther-f",
                 "magikarp-f",
                 "gyarados-f",
-                "eevee-f",
                 "meganium-f",
                 "ledyba-f",
                 "ledian-f",
@@ -979,12 +978,12 @@
                 "murkrow-f",
                 "unown-b",
                 "unown-c",
-                "unown-d"
+                "unown-d",
+                "unown-e"
             ]
         },
         {
             "pokemon": [
-                "unown-e",
                 "unown-f",
                 "unown-g",
                 "unown-h",
@@ -1013,12 +1012,12 @@
                 "gligar-f",
                 "steelix-f",
                 "scizor-f",
-                "heracross-f"
+                "heracross-f",
+                "sneasel-f"
             ]
         },
         {
             "pokemon": [
-                "sneasel-f",
                 "ursaring-f",
                 "piloswine-f",
                 "octillery-f",
@@ -1047,12 +1046,12 @@
                 "staraptor-f",
                 "bidoof-f",
                 "bibarel-f",
-                "kricketot-f"
+                "kricketot-f",
+                "kricketune-f"
             ]
         },
         {
             "pokemon": [
-                "kricketune-f",
                 "shinx-f",
                 "luxio-f",
                 "luxray-f",
@@ -1081,12 +1080,12 @@
                 "abomasnow-f",
                 "weavile-f",
                 "rhyperior-f",
-                "tangrowth-f"
+                "tangrowth-f",
+                "mamoswine-f"
             ]
         },
         {
             "pokemon": [
-                "mamoswine-f",
                 "rotom-heat",
                 "rotom-wash",
                 "rotom-frost",
@@ -1115,12 +1114,12 @@
                 "vivillon-archipelago",
                 "vivillon-high-plains",
                 "vivillon-sandstorm",
-                "vivillon-river"
+                "vivillon-river",
+                "vivillon-monsoon"
             ]
         },
         {
             "pokemon": [
-                "vivillon-monsoon",
                 "vivillon-savanna",
                 "vivillon-sun",
                 "vivillon-ocean",
@@ -1149,12 +1148,12 @@
                 "furfrou-la-reine",
                 "furfrou-kabuki",
                 "furfrou-pharaoh",
-                "meowstic-f"
+                "meowstic-f",
+                "pumpkaboo-small"
             ]
         },
         {
             "pokemon": [
-                "pumpkaboo-small",
                 "pumpkaboo-large",
                 "pumpkaboo-super",
                 "gourgeist-small",

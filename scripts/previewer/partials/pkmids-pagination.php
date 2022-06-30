@@ -12,6 +12,7 @@ $siblingButtons = 3;
 $minIdx = (int) max($currentPidIndex - $siblingButtons, 0);
 $maxIdx = (int) min($currentPidIndex + $siblingButtons, count($pkmIds) - 1);
 $maxAbsIdx = count($pkmIds) - 1;
+$currentPkmId = $pkmIds[$currentPidIndex];
 
 ?>
 
@@ -40,5 +41,25 @@ $maxAbsIdx = count($pkmIds) - 1;
                 </a>
             </li>
         </ul>
+        <div>
+            <select onchange="((select) => {
+                window.location.href = '/<?= tpl_request_route(
+            ) ?>?pidx=' + select.options[select.selectedIndex].value})(this)"
+            >
+                <?php
+                foreach (
+                    $pkmIds
+
+                    as $idx => $pkmId
+                ) {
+                    ?>
+                    <option value="<?= $idx ?>"<?= $idx === $currentPidIndex ? ' selected' : '' ?>>
+                        <?= $pkmId ?>
+                    </option>
+                    <?php
+                }
+                ?>
+            </select>
+        </div>
     </nav>
 </div>

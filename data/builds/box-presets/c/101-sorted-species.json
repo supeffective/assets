@@ -311,32 +311,6 @@
         {
             "pokemon": [
                 "venusaur-f",
-                "butterfree-f",
-                "rattata-f",
-                "raticate-f",
-                "pikachu-f",
-                "raichu-f",
-                "zubat-f",
-                "golbat-f",
-                "gloom-f",
-                "vileplume-f",
-                "kadabra-f",
-                "alakazam-f",
-                "doduo-f",
-                "dodrio-f",
-                "hypno-f",
-                "rhyhorn-f",
-                "rhydon-f",
-                "goldeen-f",
-                "seaking-f",
-                "scyther-f"
-            ]
-        },
-        {
-            "pokemon": [
-                "magikarp-f",
-                "gyarados-f",
-                "eevee-f",
                 "meganium-f",
                 "ledyba-f",
                 "ledian-f",
@@ -353,13 +327,13 @@
                 "unown-e",
                 "unown-f",
                 "unown-g",
-                "unown-h"
+                "unown-h",
+                "unown-i",
+                "unown-j"
             ]
         },
         {
             "pokemon": [
-                "unown-i",
-                "unown-j",
                 "unown-k",
                 "unown-l",
                 "unown-m",
@@ -377,13 +351,13 @@
                 "unown-y",
                 "unown-z",
                 "wobbuffet-f",
-                "girafarig-f"
+                "girafarig-f",
+                "gligar-f",
+                "steelix-f"
             ]
         },
         {
             "pokemon": [
-                "gligar-f",
-                "steelix-f",
                 "scizor-f",
                 "heracross-f",
                 "sneasel-f",

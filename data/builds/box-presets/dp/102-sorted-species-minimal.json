@@ -590,19 +590,18 @@
                 "scyther-f",
                 "magikarp-f",
                 "gyarados-f",
-                "eevee-f",
                 "meganium-f",
                 "ledyba-f",
                 "ledian-f",
                 "xatu-f",
                 "sudowoodo-f",
                 "politoed-f",
-                "aipom-f"
+                "aipom-f",
+                "wooper-f"
             ]
         },
         {
             "pokemon": [
-                "wooper-f",
                 "quagsire-f",
                 "murkrow-f",
                 "unown-b",
@@ -631,12 +630,12 @@
                 "unown-y",
                 "unown-z",
                 "unown-exclamation",
-                "unown-question"
+                "unown-question",
+                "wobbuffet-f"
             ]
         },
         {
             "pokemon": [
-                "wobbuffet-f",
                 "girafarig-f",
                 "gligar-f",
                 "steelix-f",
@@ -665,12 +664,12 @@
                 "camerupt-f",
                 "cacturne-f",
                 "milotic-f",
-                "relicanth-f"
+                "relicanth-f",
+                "starly-f"
             ]
         },
         {
             "pokemon": [
-                "starly-f",
                 "staravia-f",
                 "staraptor-f",
                 "bidoof-f",
@@ -699,12 +698,12 @@
                 "hippowdon-f",
                 "croagunk-f",
                 "toxicroak-f",
-                "finneon-f"
+                "finneon-f",
+                "lumineon-f"
             ]
         },
         {
             "pokemon": [
-                "lumineon-f",
                 "snover-f",
                 "abomasnow-f",
                 "weavile-f",

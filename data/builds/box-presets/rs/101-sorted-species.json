@@ -446,39 +446,13 @@
         {
             "pokemon": [
                 "venusaur-f",
-                "butterfree-f",
-                "rattata-f",
-                "raticate-f",
-                "pikachu-f",
-                "raichu-f",
-                "zubat-f",
-                "golbat-f",
-                "gloom-f",
-                "vileplume-f",
-                "kadabra-f",
-                "alakazam-f",
-                "doduo-f",
-                "dodrio-f",
-                "hypno-f",
-                "rhyhorn-f",
-                "rhydon-f",
-                "goldeen-f",
-                "seaking-f",
-                "scyther-f",
-                "magikarp-f",
-                "gyarados-f",
-                "eevee-f",
                 "meganium-f",
                 "ledyba-f",
                 "ledian-f",
                 "xatu-f",
                 "sudowoodo-f",
                 "politoed-f",
-                "aipom-f"
-            ]
-        },
-        {
-            "pokemon": [
+                "aipom-f",
                 "wooper-f",
                 "quagsire-f",
                 "murkrow-f",
@@ -500,7 +474,11 @@
                 "unown-q",
                 "unown-r",
                 "unown-s",
-                "unown-t",
+                "unown-t"
+            ]
+        },
+        {
+            "pokemon": [
                 "unown-u",
                 "unown-v",
                 "unown-w",
@@ -508,11 +486,7 @@
                 "unown-y",
                 "unown-z",
                 "unown-exclamation",
-                "unown-question"
-            ]
-        },
-        {
-            "pokemon": [
+                "unown-question",
                 "wobbuffet-f",
                 "girafarig-f",
                 "gligar-f",
@@ -534,7 +508,11 @@
                 "nuzleaf-f",
                 "shiftry-f",
                 "meditite-f",
-                "medicham-f",
+                "medicham-f"
+            ]
+        },
+        {
+            "pokemon": [
                 "roselia-f",
                 "gulpin-f",
                 "swalot-f",

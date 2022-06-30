@@ -20,7 +20,6 @@
                 "caterpie",
                 "metapod",
                 "butterfree",
-                "butterfree-f",
                 "weedle",
                 "kakuna",
                 "beedrill",
@@ -28,24 +27,20 @@
                 "pidgeotto",
                 "pidgeot",
                 "rattata",
-                "rattata-f",
                 "raticate",
-                "raticate-f",
                 "spearow",
                 "fearow",
                 "ekans",
                 "arbok",
                 "pikachu",
-                "pikachu-f"
+                "raichu",
+                "sandshrew",
+                "sandslash",
+                "nidoranf"
             ]
         },
         {
             "pokemon": [
-                "raichu",
-                "raichu-f",
-                "sandshrew",
-                "sandslash",
-                "nidoranf",
                 "nidorina",
                 "nidoqueen",
                 "nidoranm",
@@ -58,23 +53,15 @@
                 "jigglypuff",
                 "wigglytuff",
                 "zubat",
-                "zubat-f",
                 "golbat",
-                "golbat-f",
                 "oddish",
                 "gloom",
-                "gloom-f",
                 "vileplume",
-                "vileplume-f",
                 "paras",
                 "parasect",
                 "venonat",
                 "venomoth",
-                "diglett"
-            ]
-        },
-        {
-            "pokemon": [
+                "diglett",
                 "dugtrio",
                 "meowth",
                 "persian",
@@ -83,15 +70,17 @@
                 "mankey",
                 "primeape",
                 "growlithe",
-                "arcanine",
+                "arcanine"
+            ]
+        },
+        {
+            "pokemon": [
                 "poliwag",
                 "poliwhirl",
                 "poliwrath",
                 "abra",
                 "kadabra",
-                "kadabra-f",
                 "alakazam",
-                "alakazam-f",
                 "machop",
                 "machoke",
                 "machamp",
@@ -104,24 +93,22 @@
                 "graveler",
                 "golem",
                 "ponyta",
-                "rapidash"
-            ]
-        },
-        {
-            "pokemon": [
+                "rapidash",
                 "slowpoke",
                 "slowbro",
                 "magnemite",
                 "magneton",
                 "farfetchd",
                 "doduo",
-                "doduo-f",
                 "dodrio",
-                "dodrio-f",
                 "seel",
                 "dewgong",
                 "grimer",
-                "muk",
+                "muk"
+            ]
+        },
+        {
+            "pokemon": [
                 "shellder",
                 "cloyster",
                 "gastly",
@@ -130,7 +117,6 @@
                 "onix",
                 "drowzee",
                 "hypno",
-                "hypno-f",
                 "krabby",
                 "kingler",
                 "voltorb",
@@ -138,51 +124,39 @@
                 "exeggcute",
                 "exeggutor",
                 "cubone",
-                "marowak"
-            ]
-        },
-        {
-            "pokemon": [
+                "marowak",
                 "hitmonlee",
                 "hitmonchan",
                 "lickitung",
                 "koffing",
                 "weezing",
                 "rhyhorn",
-                "rhyhorn-f",
                 "rhydon",
-                "rhydon-f",
                 "chansey",
                 "tangela",
                 "kangaskhan",
                 "horsea",
                 "seadra",
                 "goldeen",
-                "goldeen-f",
-                "seaking",
-                "seaking-f",
+                "seaking"
+            ]
+        },
+        {
+            "pokemon": [
                 "staryu",
                 "starmie",
                 "mrmime",
                 "scyther",
-                "scyther-f",
                 "jynx",
                 "electabuzz",
                 "magmar",
                 "pinsir",
                 "tauros",
                 "magikarp",
-                "magikarp-f"
-            ]
-        },
-        {
-            "pokemon": [
                 "gyarados",
-                "gyarados-f",
                 "lapras",
                 "ditto",
                 "eevee",
-                "eevee-f",
                 "vaporeon",
                 "jolteon",
                 "flareon",
@@ -198,7 +172,11 @@
                 "moltres",
                 "dratini",
                 "dragonair",
-                "dragonite",
+                "dragonite"
+            ]
+        },
+        {
+            "pokemon": [
                 "mewtwo",
                 "mew",
                 "chikorita",
@@ -206,11 +184,7 @@
                 "meganium",
                 "meganium-f",
                 "cyndaquil",
-                "quilava"
-            ]
-        },
-        {
-            "pokemon": [
+                "quilava",
                 "typhlosion",
                 "totodile",
                 "croconaw",
@@ -232,7 +206,11 @@
                 "cleffa",
                 "igglybuff",
                 "togepi",
-                "togetic",
+                "togetic"
+            ]
+        },
+        {
+            "pokemon": [
                 "natu",
                 "xatu",
                 "xatu-f",
@@ -240,11 +218,7 @@
                 "flaaffy",
                 "ampharos",
                 "bellossom",
-                "marill"
-            ]
-        },
-        {
-            "pokemon": [
+                "marill",
                 "azumarill",
                 "sudowoodo",
                 "sudowoodo-f",
@@ -266,7 +240,11 @@
                 "umbreon",
                 "murkrow",
                 "murkrow-f",
-                "slowking",
+                "slowking"
+            ]
+        },
+        {
+            "pokemon": [
                 "misdreavus",
                 "unown",
                 "unown-b",
@@ -274,11 +252,7 @@
                 "unown-d",
                 "unown-e",
                 "unown-f",
-                "unown-g"
-            ]
-        },
-        {
-            "pokemon": [
+                "unown-g",
                 "unown-h",
                 "unown-i",
                 "unown-j",
@@ -300,7 +274,11 @@
                 "unown-z",
                 "unown-exclamation",
                 "unown-question",
-                "wobbuffet",
+                "wobbuffet"
+            ]
+        },
+        {
+            "pokemon": [
                 "wobbuffet-f",
                 "girafarig",
                 "girafarig-f",
@@ -308,11 +286,7 @@
                 "forretress",
                 "dunsparce",
                 "gligar",
-                "gligar-f"
-            ]
-        },
-        {
-            "pokemon": [
+                "gligar-f",
                 "steelix",
                 "steelix-f",
                 "snubbull",
@@ -334,7 +308,11 @@
                 "piloswine",
                 "piloswine-f",
                 "corsola",
-                "remoraid",
+                "remoraid"
+            ]
+        },
+        {
+            "pokemon": [
                 "octillery",
                 "octillery-f",
                 "delibird",
@@ -342,11 +320,7 @@
                 "skarmory",
                 "houndour",
                 "houndoom",
-                "houndoom-f"
-            ]
-        },
-        {
-            "pokemon": [
+                "houndoom-f",
                 "kingdra",
                 "phanpy",
                 "donphan",
@@ -368,7 +342,11 @@
                 "pupitar",
                 "tyranitar",
                 "lugia",
-                "hooh",
+                "hooh"
+            ]
+        },
+        {
+            "pokemon": [
                 "celebi",
                 "treecko",
                 "grovyle",
@@ -376,11 +354,7 @@
                 "torchic",
                 "torchic-f",
                 "combusken",
-                "combusken-f"
-            ]
-        },
-        {
-            "pokemon": [
+                "combusken-f",
                 "blaziken",
                 "blaziken-f",
                 "mudkip",
@@ -402,7 +376,11 @@
                 "ludicolo",
                 "ludicolo-f",
                 "seedot",
-                "nuzleaf",
+                "nuzleaf"
+            ]
+        },
+        {
+            "pokemon": [
                 "nuzleaf-f",
                 "shiftry",
                 "shiftry-f",
@@ -410,11 +388,7 @@
                 "swellow",
                 "wingull",
                 "pelipper",
-                "ralts"
-            ]
-        },
-        {
-            "pokemon": [
+                "ralts",
                 "kirlia",
                 "gardevoir",
                 "surskit",
@@ -436,7 +410,11 @@
                 "nosepass",
                 "skitty",
                 "delcatty",
-                "sableye",
+                "sableye"
+            ]
+        },
+        {
+            "pokemon": [
                 "mawile",
                 "aron",
                 "lairon",
@@ -444,11 +422,7 @@
                 "meditite",
                 "meditite-f",
                 "medicham",
-                "medicham-f"
-            ]
-        },
-        {
-            "pokemon": [
+                "medicham-f",
                 "electrike",
                 "manectric",
                 "plusle",
@@ -470,7 +444,11 @@
                 "camerupt",
                 "camerupt-f",
                 "torkoal",
-                "spoink",
+                "spoink"
+            ]
+        },
+        {
+            "pokemon": [
                 "grumpig",
                 "spinda",
                 "trapinch",
@@ -478,11 +456,7 @@
                 "flygon",
                 "cacnea",
                 "cacturne",
-                "cacturne-f"
-            ]
-        },
-        {
-            "pokemon": [
+                "cacturne-f",
                 "swablu",
                 "altaria",
                 "zangoose",
@@ -504,7 +478,11 @@
                 "milotic-f",
                 "castform",
                 "kecleon",
-                "shuppet",
+                "shuppet"
+            ]
+        },
+        {
+            "pokemon": [
                 "banette",
                 "duskull",
                 "dusclops",
@@ -512,11 +490,7 @@
                 "chimecho",
                 "absol",
                 "wynaut",
-                "snorunt"
-            ]
-        },
-        {
-            "pokemon": [
+                "snorunt",
                 "glalie",
                 "spheal",
                 "sealeo",
@@ -538,7 +512,11 @@
                 "registeel",
                 "latias",
                 "latios",
-                "kyogre",
+                "kyogre"
+            ]
+        },
+        {
+            "pokemon": [
                 "groudon",
                 "rayquaza",
                 "jirachi",

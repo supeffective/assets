@@ -972,7 +972,6 @@
                 "scyther-f",
                 "magikarp-f",
                 "gyarados-f",
-                "eevee-f",
                 "meganium-f",
                 "ledyba-f",
                 "ledian-f",
@@ -984,12 +983,12 @@
                 "quagsire-f",
                 "murkrow-f",
                 "unown-b",
-                "unown-c"
+                "unown-c",
+                "unown-d"
             ]
         },
         {
             "pokemon": [
-                "unown-d",
                 "unown-e",
                 "unown-f",
                 "unown-g",
@@ -1018,12 +1017,12 @@
                 "girafarig-f",
                 "gligar-f",
                 "steelix-f",
-                "scizor-f"
+                "scizor-f",
+                "heracross-f"
             ]
         },
         {
             "pokemon": [
-                "heracross-f",
                 "sneasel-f",
                 "ursaring-f",
                 "piloswine-f",
@@ -1052,12 +1051,12 @@
                 "deoxys-defense",
                 "deoxys-speed",
                 "starly-f",
-                "staravia-f"
+                "staravia-f",
+                "staraptor-f"
             ]
         },
         {
             "pokemon": [
-                "staraptor-f",
                 "bidoof-f",
                 "bibarel-f",
                 "kricketot-f",
@@ -1086,12 +1085,12 @@
                 "toxicroak-f",
                 "finneon-f",
                 "lumineon-f",
-                "snover-f"
+                "snover-f",
+                "abomasnow-f"
             ]
         },
         {
             "pokemon": [
-                "abomasnow-f",
                 "weavile-f",
                 "rhyperior-f",
                 "tangrowth-f",
@@ -1120,12 +1119,12 @@
                 "arceus-dragon",
                 "arceus-dark",
                 "arceus-fairy",
-                "unfezant-f"
+                "unfezant-f",
+                "basculin-blue-striped"
             ]
         },
         {
             "pokemon": [
-                "basculin-blue-striped",
                 "deerling-summer",
                 "deerling-autumn",
                 "deerling-winter",
@@ -1154,12 +1153,12 @@
                 "vivillon-elegant",
                 "vivillon-modern",
                 "vivillon-marine",
-                "vivillon-archipelago"
+                "vivillon-archipelago",
+                "vivillon-high-plains"
             ]
         },
         {
             "pokemon": [
-                "vivillon-high-plains",
                 "vivillon-sandstorm",
                 "vivillon-river",
                 "vivillon-monsoon",
@@ -1188,12 +1187,12 @@
                 "furfrou-debutante",
                 "furfrou-matron",
                 "furfrou-dandy",
-                "furfrou-la-reine"
+                "furfrou-la-reine",
+                "furfrou-kabuki"
             ]
         },
         {
             "pokemon": [
-                "furfrou-kabuki",
                 "furfrou-pharaoh",
                 "meowstic-f",
                 "pumpkaboo-small",
@@ -1222,12 +1221,12 @@
                 "silvally-steel",
                 "silvally-fire",
                 "silvally-water",
-                "silvally-grass"
+                "silvally-grass",
+                "silvally-electric"
             ]
         },
         {
             "pokemon": [
-                "silvally-electric",
                 "silvally-psychic",
                 "silvally-ice",
                 "silvally-dragon",
