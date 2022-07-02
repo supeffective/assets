@@ -5967,6 +5967,7 @@
             "la"
         ],
         "storableIn": [
+            "go",
             "lgpe",
             "swsh",
             "home",
@@ -23635,13 +23636,10 @@
         "shinyReleased": false
     },
     "genesect": {
-        "obtainableIn": [
-            "go"
-        ],
+        "obtainableIn": [],
         "storableIn": [
             "b2w2",
             "bw",
-            "go",
             "home",
             "oras",
             "sm",

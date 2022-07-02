@@ -37,9 +37,7 @@
     "canDynamax": true,
     "canBeAlpha": false,
     "debutIn": "bw",
-    "obtainableIn": [
-        "go"
-    ],
+    "obtainableIn": [],
     "versionExclusiveIn": [],
     "eventOnlyIn": [
         "bw",
@@ -48,7 +46,6 @@
     "storableIn": [
         "b2w2",
         "bw",
-        "go",
         "home",
         "oras",
         "sm",

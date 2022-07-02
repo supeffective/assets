@@ -8425,6 +8425,7 @@
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
+            "go",
             "lgpe",
             "swsh",
             "home",
@@ -34360,9 +34361,7 @@
         "baseForms": [],
         "shinyReleased": true,
         "shinyBase": null,
-        "obtainableIn": [
-            "go"
-        ],
+        "obtainableIn": [],
         "versionExclusiveIn": [],
         "eventOnlyIn": [
             "bw",
@@ -34371,7 +34370,6 @@
         "storableIn": [
             "b2w2",
             "bw",
-            "go",
             "home",
             "oras",
             "sm",

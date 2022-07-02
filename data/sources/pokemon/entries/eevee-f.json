@@ -47,6 +47,7 @@
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
     "storableIn": [
+        "go",
         "lgpe",
         "swsh",
         "home",
