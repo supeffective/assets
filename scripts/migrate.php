@@ -6,7 +6,7 @@ require_once __DIR__ . '/_bootstrap.php';
 // Edit and run this script to quickly modify/migrate the structure of data files.
 //          Usage:    make migrate
 //
-// Do not commit migration-specific changes of this file to the repository, copy it under old-migrations once you run it
+// Do not commit migration-specific changes of this file to the repository, copy it under archived/ once you run it
 // and add a die() on top of it, then discard the changes on this file (except template changes), to reuse it again.
 //
 
