@@ -11244,11 +11244,13 @@
         "canBeAlpha": true,
         "debutIn": "la",
         "obtainableIn": [
+            "go",
             "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
+            "go",
             "home",
             "la"
         ],
@@ -11458,11 +11460,13 @@
         "canBeAlpha": true,
         "debutIn": "la",
         "obtainableIn": [
+            "go",
             "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
+            "go",
             "home",
             "la"
         ],
@@ -24283,10 +24287,9 @@
         "canGmax": true,
         "canDynamax": true,
         "canBeAlpha": true,
-        "debutIn": "lgpe",
+        "debutIn": "swsh",
         "obtainableIn": [
             "go",
-            "lgpe",
             "swsh",
             "bdsp",
             "la"
@@ -24295,7 +24298,6 @@
         "eventOnlyIn": [],
         "storableIn": [
             "go",
-            "lgpe",
             "swsh",
             "home",
             "bdsp",
@@ -39215,11 +39217,13 @@
         "canBeAlpha": true,
         "debutIn": "la",
         "obtainableIn": [
+            "go",
             "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
+            "go",
             "home",
             "la"
         ],
@@ -40298,11 +40302,13 @@
         "canBeAlpha": true,
         "debutIn": "la",
         "obtainableIn": [
+            "go",
             "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
+            "go",
             "home",
             "la"
         ],
@@ -40391,11 +40397,13 @@
         "canBeAlpha": true,
         "debutIn": "la",
         "obtainableIn": [
+            "go",
             "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
+            "go",
             "home",
             "la"
         ],
@@ -101419,11 +101427,13 @@
         "canBeAlpha": true,
         "debutIn": "la",
         "obtainableIn": [
+            "go",
             "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
+            "go",
             "home",
             "la"
         ],
@@ -113602,18 +113612,20 @@
         "canBeAlpha": false,
         "debutIn": "xy",
         "obtainableIn": [
-            "swsh",
-            "xy"
+            "xy",
+            "go",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
-            "swsh",
             "usum",
-            "xy"
+            "swsh",
+            "home"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -113702,18 +113714,20 @@
         "canBeAlpha": false,
         "debutIn": "xy",
         "obtainableIn": [
-            "swsh",
-            "xy"
+            "xy",
+            "go",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
-            "swsh",
             "usum",
-            "xy"
+            "swsh",
+            "home"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -114108,18 +114122,20 @@
         "canBeAlpha": false,
         "debutIn": "xy",
         "obtainableIn": [
-            "swsh",
-            "xy"
+            "xy",
+            "go",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
-            "swsh",
             "usum",
-            "xy"
+            "swsh",
+            "home"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -148848,11 +148864,13 @@
         "canBeAlpha": true,
         "debutIn": "la",
         "obtainableIn": [
+            "go",
             "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
+            "go",
             "home",
             "la"
         ],
@@ -148943,11 +148961,13 @@
         "canBeAlpha": true,
         "debutIn": "la",
         "obtainableIn": [
+            "go",
             "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
+            "go",
             "home",
             "la"
         ],

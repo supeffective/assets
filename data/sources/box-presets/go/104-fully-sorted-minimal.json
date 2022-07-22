@@ -87,7 +87,9 @@
                 "mankey",
                 "primeape",
                 "growlithe",
+                "growlithe-hisui",
                 "arcanine",
+                "arcanine-hisui",
                 "poliwag",
                 "poliwhirl",
                 "poliwrath",
@@ -311,6 +313,7 @@
                 "snubbull",
                 "granbull",
                 "qwilfish",
+                "qwilfish-hisui",
                 "scizor",
                 "scizor-f",
                 "shuckle",
@@ -318,6 +321,8 @@
                 "heracross-f",
                 "sneasel",
                 "sneasel-f",
+                "sneasel-hisui",
+                "sneasel-hisui-f",
                 "teddiursa",
                 "ursaring",
                 "ursaring-f",
@@ -810,6 +815,7 @@
                 "bouffalant",
                 "rufflet",
                 "braviary",
+                "braviary-hisui",
                 "vullaby",
                 "mandibuzz",
                 "heatmor",
@@ -884,9 +890,12 @@
                 "barbaracle",
                 "skrelp",
                 "dragalge",
+                "clauncher",
+                "clawitzer",
                 "helioptile",
                 "heliolisk",
                 "tyrunt",
+                "tyrantrum",
                 "amaura",
                 "aurorus",
                 "sylveon",
@@ -968,7 +977,9 @@
                 "falinks",
                 "zacian",
                 "zamazenta",
-                "zarude"
+                "zarude",
+                "sneasler",
+                "overqwil"
             ]
         }
     ]

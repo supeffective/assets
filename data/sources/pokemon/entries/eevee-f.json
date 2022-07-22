@@ -36,10 +36,9 @@
     "canGmax": true,
     "canDynamax": true,
     "canBeAlpha": true,
-    "debutIn": "lgpe",
+    "debutIn": "swsh",
     "obtainableIn": [
         "go",
-        "lgpe",
         "swsh",
         "bdsp",
         "la"
@@ -48,7 +47,6 @@
     "eventOnlyIn": [],
     "storableIn": [
         "go",
-        "lgpe",
         "swsh",
         "home",
         "bdsp",

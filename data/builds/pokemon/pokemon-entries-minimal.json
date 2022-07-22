@@ -3847,11 +3847,13 @@
         "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
+            "go",
             "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
+            "go",
             "home",
             "la"
         ]
@@ -3914,11 +3916,13 @@
         "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
+            "go",
             "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
+            "go",
             "home",
             "la"
         ]
@@ -8417,7 +8421,6 @@
         "shinyBase": null,
         "obtainableIn": [
             "go",
-            "lgpe",
             "swsh",
             "bdsp",
             "la"
@@ -8426,7 +8429,6 @@
         "eventOnlyIn": [],
         "storableIn": [
             "go",
-            "lgpe",
             "swsh",
             "home",
             "bdsp",
@@ -13632,11 +13634,13 @@
         "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
+            "go",
             "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
+            "go",
             "home",
             "la"
         ]
@@ -13980,11 +13984,13 @@
         "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
+            "go",
             "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
+            "go",
             "home",
             "la"
         ]
@@ -14001,11 +14007,13 @@
         "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
+            "go",
             "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
+            "go",
             "home",
             "la"
         ]
@@ -33517,11 +33525,13 @@
         "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
+            "go",
             "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
+            "go",
             "home",
             "la"
         ]
@@ -36794,18 +36804,20 @@
         "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
-            "swsh",
-            "xy"
+            "xy",
+            "go",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
-            "swsh",
             "usum",
-            "xy"
+            "swsh",
+            "home"
         ]
     },
     {
@@ -36820,18 +36832,20 @@
         "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
-            "swsh",
-            "xy"
+            "xy",
+            "go",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
-            "swsh",
             "usum",
-            "xy"
+            "swsh",
+            "home"
         ]
     },
     {
@@ -36930,18 +36944,20 @@
         "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
-            "swsh",
-            "xy"
+            "xy",
+            "go",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
-            "swsh",
             "usum",
-            "xy"
+            "swsh",
+            "home"
         ]
     },
     {
@@ -45285,11 +45301,13 @@
         "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
+            "go",
             "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
+            "go",
             "home",
             "la"
         ]
@@ -45306,11 +45324,13 @@
         "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
+            "go",
             "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
+            "go",
             "home",
             "la"
         ]

@@ -3,6 +3,7 @@ default: build
 build:
 	rm -rf data/builds
 	php scripts/build.php
+	php scripts/build-with-presets.php
 	make validate
 
 import-sources:

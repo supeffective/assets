@@ -2676,9 +2676,11 @@
     },
     "growlithe-hisui": {
         "obtainableIn": [
+            "go",
             "la"
         ],
         "storableIn": [
+            "go",
             "home",
             "la"
         ],
@@ -2721,9 +2723,11 @@
     },
     "arcanine-hisui": {
         "obtainableIn": [
+            "go",
             "la"
         ],
         "storableIn": [
+            "go",
             "home",
             "la"
         ],
@@ -5961,14 +5965,12 @@
     "eevee-f": {
         "obtainableIn": [
             "go",
-            "lgpe",
             "swsh",
             "bdsp",
             "la"
         ],
         "storableIn": [
             "go",
-            "lgpe",
             "swsh",
             "home",
             "bdsp",
@@ -9707,9 +9709,11 @@
     },
     "qwilfish-hisui": {
         "obtainableIn": [
+            "go",
             "la"
         ],
         "storableIn": [
+            "go",
             "home",
             "la"
         ],
@@ -9941,9 +9945,11 @@
     },
     "sneasel-hisui": {
         "obtainableIn": [
+            "go",
             "la"
         ],
         "storableIn": [
+            "go",
             "home",
             "la"
         ],
@@ -9951,9 +9957,11 @@
     },
     "sneasel-hisui-f": {
         "obtainableIn": [
+            "go",
             "la"
         ],
         "storableIn": [
+            "go",
             "home",
             "la"
         ],
@@ -23125,9 +23133,11 @@
     },
     "braviary-hisui": {
         "obtainableIn": [
+            "go",
             "la"
         ],
         "storableIn": [
+            "go",
             "home",
             "la"
         ],
@@ -24997,31 +25007,35 @@
     },
     "clauncher": {
         "obtainableIn": [
-            "swsh",
-            "xy"
+            "xy",
+            "go",
+            "swsh"
         ],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
-            "swsh",
             "usum",
-            "xy"
+            "swsh",
+            "home"
         ],
         "shinyReleased": true
     },
     "clawitzer": {
         "obtainableIn": [
-            "swsh",
-            "xy"
+            "xy",
+            "go",
+            "swsh"
         ],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
-            "swsh",
             "usum",
-            "xy"
+            "swsh",
+            "home"
         ],
         "shinyReleased": true
     },
@@ -25078,16 +25092,18 @@
     },
     "tyrantrum": {
         "obtainableIn": [
-            "swsh",
-            "xy"
+            "xy",
+            "go",
+            "swsh"
         ],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
-            "swsh",
             "usum",
-            "xy"
+            "swsh",
+            "home"
         ],
         "shinyReleased": true
     },
@@ -29262,9 +29278,11 @@
     },
     "sneasler": {
         "obtainableIn": [
+            "go",
             "la"
         ],
         "storableIn": [
+            "go",
             "home",
             "la"
         ],
@@ -29272,9 +29290,11 @@
     },
     "overqwil": {
         "obtainableIn": [
+            "go",
             "la"
         ],
         "storableIn": [
+            "go",
             "home",
             "la"
         ],
