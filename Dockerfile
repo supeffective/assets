@@ -90,3 +90,10 @@ RUN ls /usr/src/pogo-dumper/pogo-dumper && \
   pip install .
 
 WORKDIR /usr/src/app
+
+
+#------------------------------------------------------------------------------
+
+FROM jupyter/scipy-notebook:lab-3.4.4 as jupyter-lab
+# https://github.com/jupyter/docker-stacks/blob/main/base-notebook/Dockerfile
+# https://github.com/jupyter/docker-stacks/blob/main/scipy-notebook/Dockerfile
