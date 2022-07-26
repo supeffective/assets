@@ -6397,11 +6397,13 @@
     },
     "articuno-galar": {
         "obtainableIn": [
+            "go",
             "swsh"
         ],
         "storableIn": [
-            "home",
-            "swsh"
+            "go",
+            "swsh",
+            "home"
         ],
         "shinyReleased": true
     },
@@ -6442,11 +6444,13 @@
     },
     "zapdos-galar": {
         "obtainableIn": [
+            "go",
             "swsh"
         ],
         "storableIn": [
-            "home",
-            "swsh"
+            "go",
+            "swsh",
+            "home"
         ],
         "shinyReleased": true
     },
@@ -6487,11 +6491,13 @@
     },
     "moltres-galar": {
         "obtainableIn": [
+            "go",
             "swsh"
         ],
         "storableIn": [
-            "home",
-            "swsh"
+            "go",
+            "swsh",
+            "home"
         ],
         "shinyReleased": true
     },

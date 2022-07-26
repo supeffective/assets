@@ -25998,13 +25998,15 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "go",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "home",
-            "swsh"
+            "go",
+            "swsh",
+            "home"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -26212,13 +26214,15 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "go",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "home",
-            "swsh"
+            "go",
+            "swsh",
+            "home"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -26426,13 +26430,15 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "go",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "home",
-            "swsh"
+            "go",
+            "swsh",
+            "home"
         ],
         "shinyReleased": true,
         "shinyBase": null,
