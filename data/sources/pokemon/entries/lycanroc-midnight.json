@@ -38,6 +38,7 @@
     "canBeAlpha": false,
     "debutIn": "sm",
     "obtainableIn": [
+        "go",
         "sm",
         "usum",
         "swsh"
@@ -45,6 +46,7 @@
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
     "storableIn": [
+        "go",
         "sm",
         "usum",
         "swsh",

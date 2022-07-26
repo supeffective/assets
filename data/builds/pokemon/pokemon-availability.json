@@ -26138,11 +26138,13 @@
     },
     "lycanroc-midnight": {
         "obtainableIn": [
+            "go",
             "sm",
             "usum",
             "swsh"
         ],
         "storableIn": [
+            "go",
             "sm",
             "usum",
             "swsh",
