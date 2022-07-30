@@ -1,74 +1,92 @@
 [
     {
         "id": "normal",
-        "label": "Normal"
+        "label": "Normal",
+        "color": "#9099A1"
     },
     {
         "id": "fire",
-        "label": "Fire"
+        "label": "Fire",
+        "color": "#FF9C54"
     },
     {
         "id": "water",
-        "label": "Water"
+        "label": "Water",
+        "color": "#4D90D5"
     },
     {
         "id": "electric",
-        "label": "Electric"
+        "label": "Electric",
+        "color": "#F3D23B"
     },
     {
         "id": "grass",
-        "label": "Grass"
+        "label": "Grass",
+        "color": "#63BB5B"
     },
     {
         "id": "ice",
-        "label": "Ice"
+        "label": "Ice",
+        "color": "#74CEC0"
     },
     {
         "id": "fighting",
-        "label": "Fighting"
+        "label": "Fighting",
+        "color": "#CE4069"
     },
     {
         "id": "poison",
-        "label": "Poison"
+        "label": "Poison",
+        "color": "#AB6AC8"
     },
     {
         "id": "ground",
-        "label": "Ground"
+        "label": "Ground",
+        "color": "#D97746"
     },
     {
         "id": "flying",
-        "label": "Flying"
+        "label": "Flying",
+        "color": "#8FA8DD"
     },
     {
         "id": "psychic",
-        "label": "Psychic"
+        "label": "Psychic",
+        "color": "#F97176"
     },
     {
         "id": "bug",
-        "label": "Bug"
+        "label": "Bug",
+        "color": "#90C12C"
     },
     {
         "id": "rock",
-        "label": "Rock"
+        "label": "Rock",
+        "color": "#C7B78B"
     },
     {
         "id": "ghost",
-        "label": "Ghost"
+        "label": "Ghost",
+        "color": "#5269AC"
     },
     {
         "id": "dragon",
-        "label": "Dragon"
+        "label": "Dragon",
+        "color": "#0A6DC5"
     },
     {
         "id": "dark",
-        "label": "Dark"
+        "label": "Dark",
+        "color": "#5A5366"
     },
     {
         "id": "steel",
-        "label": "Steel"
+        "label": "Steel",
+        "color": "#5A8EA1"
     },
     {
         "id": "fairy",
-        "label": "Fairy"
+        "label": "Fairy",
+        "color": "#EC8FE6"
     }
 ]
