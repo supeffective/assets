@@ -95,12 +95,10 @@
     "baseForms": [],
     "forms": [
         "floette",
-        "floette-eternal",
         "floette-yellow",
         "floette-orange",
         "floette-blue",
-        "floette-white",
-        "floette-eternal"
+        "floette-white"
     ],
     "evolutions": []
 }

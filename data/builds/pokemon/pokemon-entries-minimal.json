@@ -35808,22 +35808,6 @@
         ]
     },
     {
-        "id": "floette-eternal",
-        "dexNum": 670,
-        "name": "Floette Eternal Flower",
-        "type1": "fairy",
-        "type2": null,
-        "isForm": true,
-        "baseSpecies": "floette",
-        "baseForms": [],
-        "shinyReleased": false,
-        "shinyBase": null,
-        "obtainableIn": [],
-        "versionExclusiveIn": [],
-        "eventOnlyIn": [],
-        "storableIn": []
-    },
-    {
         "id": "florges",
         "dexNum": 671,
         "name": "Florges",
