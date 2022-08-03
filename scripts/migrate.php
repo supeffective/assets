@@ -76,13 +76,13 @@ require_once __DIR__ . '/_bootstrap.php';
     "weight": {
         "avg": -1,
         "min": -1,
-        "max": "-1,
+        "max": -1,
         "alpha": -1
     },
     "height": {
         "avg": -1,
         "min": -1,
-        "max": "-1,
+        "max": -1,
         "alpha": -1
     },
     "maleRate": -1,
