@@ -111,6 +111,10 @@
         "showdownDef": "Staryu",
         "smogon": "staryu"
     },
+    "imgs": {
+        "home": "0120",
+        "menu": "0120"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

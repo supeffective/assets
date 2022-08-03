@@ -83,6 +83,10 @@
         "showdownDef": "Duraludon-Gmax",
         "smogon": "duraludon-gmax"
     },
+    "imgs": {
+        "home": "0884-gmax",
+        "menu": "0884-gmax"
+    },
     "baseSpecies": "duraludon",
     "baseForms": [
         "duraludon"

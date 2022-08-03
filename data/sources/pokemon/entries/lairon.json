@@ -105,6 +105,10 @@
         "showdownDef": "Lairon",
         "smogon": "lairon"
     },
+    "imgs": {
+        "home": "0305",
+        "menu": "0305"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

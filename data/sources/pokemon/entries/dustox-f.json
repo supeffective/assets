@@ -100,6 +100,10 @@
         "showdownDef": "Dustox",
         "smogon": "dustox"
     },
+    "imgs": {
+        "home": "0269-f",
+        "menu": "0269"
+    },
     "baseSpecies": "dustox",
     "baseForms": [],
     "forms": null,

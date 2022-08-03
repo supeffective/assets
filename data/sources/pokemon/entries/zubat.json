@@ -113,6 +113,10 @@
         "showdownDef": "Zubat",
         "smogon": "zubat"
     },
+    "imgs": {
+        "home": "0041",
+        "menu": "0041"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

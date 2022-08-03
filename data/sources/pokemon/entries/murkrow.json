@@ -107,6 +107,10 @@
         "showdownDef": "Murkrow",
         "smogon": "murkrow"
     },
+    "imgs": {
+        "home": "0198",
+        "menu": "0198"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

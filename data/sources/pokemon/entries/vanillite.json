@@ -96,6 +96,10 @@
         "showdownDef": "Vanillite",
         "smogon": "vanillite"
     },
+    "imgs": {
+        "home": "0582",
+        "menu": "0582"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

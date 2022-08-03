@@ -83,6 +83,10 @@
         "showdownDef": "Butterfree-Gmax",
         "smogon": "butterfree-gmax"
     },
+    "imgs": {
+        "home": "0012-gmax",
+        "menu": "0012-gmax"
+    },
     "baseSpecies": "butterfree",
     "baseForms": [
         "butterfree",

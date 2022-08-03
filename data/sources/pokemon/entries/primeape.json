@@ -109,6 +109,10 @@
         "showdownDef": "Primeape",
         "smogon": "primeape"
     },
+    "imgs": {
+        "home": "0057",
+        "menu": "0057"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

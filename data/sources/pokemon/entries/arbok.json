@@ -109,6 +109,10 @@
         "showdownDef": "Arbok",
         "smogon": "arbok"
     },
+    "imgs": {
+        "home": "0024",
+        "menu": "0024"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -105,6 +105,10 @@
         "showdownDef": "Armaldo",
         "smogon": "armaldo"
     },
+    "imgs": {
+        "home": "0348",
+        "menu": "0348"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

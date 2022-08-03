@@ -109,6 +109,10 @@
         "showdownDef": "Venomoth",
         "smogon": "venomoth"
     },
+    "imgs": {
+        "home": "0049",
+        "menu": "0049"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

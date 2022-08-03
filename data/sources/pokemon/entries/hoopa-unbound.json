@@ -91,6 +91,10 @@
         "showdownDef": "Hoopa-Unbound",
         "smogon": "hoopa-unbound"
     },
+    "imgs": {
+        "home": "0720-unbound",
+        "menu": "0720-unbound"
+    },
     "baseSpecies": "hoopa",
     "baseForms": [
         "hoopa"

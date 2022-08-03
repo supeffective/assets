@@ -90,6 +90,10 @@
         "showdownDef": "Bounsweet",
         "smogon": "bounsweet"
     },
+    "imgs": {
+        "home": "0761",
+        "menu": "0761"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

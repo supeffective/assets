@@ -96,6 +96,10 @@
         "showdownDef": "Jellicent",
         "smogon": "jellicent"
     },
+    "imgs": {
+        "home": "0593",
+        "menu": "0593"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

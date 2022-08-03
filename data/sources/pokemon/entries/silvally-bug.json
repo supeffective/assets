@@ -89,6 +89,10 @@
         "showdownDef": "Silvally-Bug",
         "smogon": "silvally-bug"
     },
+    "imgs": {
+        "home": "0773-bug",
+        "menu": "0773-bug"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

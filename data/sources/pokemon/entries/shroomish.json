@@ -103,6 +103,10 @@
         "showdownDef": "Shroomish",
         "smogon": "shroomish"
     },
+    "imgs": {
+        "home": "0285",
+        "menu": "0285"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

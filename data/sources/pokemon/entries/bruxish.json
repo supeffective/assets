@@ -88,6 +88,10 @@
         "showdownDef": "Bruxish",
         "smogon": "bruxish"
     },
+    "imgs": {
+        "home": "0779",
+        "menu": "0779"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -105,6 +105,10 @@
         "showdownDef": "Zigzagoon",
         "smogon": "zigzagoon"
     },
+    "imgs": {
+        "home": "0263",
+        "menu": "0263"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

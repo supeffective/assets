@@ -103,6 +103,10 @@
         "showdownDef": "Weavile",
         "smogon": "weavile"
     },
+    "imgs": {
+        "home": "0461-f",
+        "menu": "0461"
+    },
     "baseSpecies": "weavile",
     "baseForms": [],
     "forms": null,

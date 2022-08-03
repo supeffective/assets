@@ -84,6 +84,10 @@
         "showdownDef": "Charizard-Mega-X",
         "smogon": "charizard-mega-x"
     },
+    "imgs": {
+        "home": "0006-mega-x",
+        "menu": "0006-mega-x"
+    },
     "baseSpecies": "charizard",
     "baseForms": [
         "charizard"

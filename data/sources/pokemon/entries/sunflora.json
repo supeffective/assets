@@ -105,6 +105,10 @@
         "showdownDef": "Sunflora",
         "smogon": "sunflora"
     },
+    "imgs": {
+        "home": "0192",
+        "menu": "0192"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

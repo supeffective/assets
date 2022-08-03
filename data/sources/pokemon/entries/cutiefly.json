@@ -90,6 +90,10 @@
         "showdownDef": "Cutiefly",
         "smogon": "cutiefly"
     },
+    "imgs": {
+        "home": "0742",
+        "menu": "0742"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -86,6 +86,10 @@
         "showdownDef": "Duraludon",
         "smogon": "duraludon"
     },
+    "imgs": {
+        "home": "0884",
+        "menu": "0884"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

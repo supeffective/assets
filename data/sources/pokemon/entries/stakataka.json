@@ -88,6 +88,10 @@
         "showdownDef": "Stakataka",
         "smogon": "stakataka"
     },
+    "imgs": {
+        "home": "0805",
+        "menu": "0805"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

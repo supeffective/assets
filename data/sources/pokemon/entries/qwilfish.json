@@ -107,6 +107,10 @@
         "showdownDef": "Qwilfish",
         "smogon": "qwilfish"
     },
+    "imgs": {
+        "home": "0211",
+        "menu": "0211"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

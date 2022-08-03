@@ -107,6 +107,10 @@
         "showdownDef": "Tyranitar",
         "smogon": "tyranitar"
     },
+    "imgs": {
+        "home": "0248",
+        "menu": "0248"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

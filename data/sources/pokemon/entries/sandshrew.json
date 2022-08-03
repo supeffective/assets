@@ -111,6 +111,10 @@
         "showdownDef": "Sandshrew",
         "smogon": "sandshrew"
     },
+    "imgs": {
+        "home": "0027",
+        "menu": "0027"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

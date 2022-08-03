@@ -113,6 +113,10 @@
         "showdownDef": "Ninetales",
         "smogon": "ninetales"
     },
+    "imgs": {
+        "home": "0038",
+        "menu": "0038"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

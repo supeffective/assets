@@ -105,6 +105,10 @@
         "showdownDef": "Feraligatr",
         "smogon": "feraligatr"
     },
+    "imgs": {
+        "home": "0160",
+        "menu": "0160"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -111,6 +111,10 @@
         "showdownDef": "Meowth",
         "smogon": "meowth"
     },
+    "imgs": {
+        "home": "0052",
+        "menu": "0052"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

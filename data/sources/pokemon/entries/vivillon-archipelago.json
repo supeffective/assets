@@ -89,6 +89,10 @@
         "showdownDef": "Vivillon-Archipelago",
         "smogon": "vivillon-archipelago"
     },
+    "imgs": {
+        "home": "0666-archipelago",
+        "menu": "0666-archipelago"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

@@ -90,6 +90,10 @@
         "showdownDef": "Magearna",
         "smogon": "magearna"
     },
+    "imgs": {
+        "home": "0801",
+        "menu": "0801"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

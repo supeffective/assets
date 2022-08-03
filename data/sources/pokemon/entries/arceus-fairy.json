@@ -92,6 +92,10 @@
         "showdownDef": "Arceus-Fairy",
         "smogon": "arceus-fairy"
     },
+    "imgs": {
+        "home": "0493-fairy",
+        "menu": "0493-fairy"
+    },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"

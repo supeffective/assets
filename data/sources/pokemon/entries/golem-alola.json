@@ -92,6 +92,10 @@
         "showdownDef": "Golem-Alola",
         "smogon": "golem-alola"
     },
+    "imgs": {
+        "home": "0076-alola",
+        "menu": "0076-alola"
+    },
     "baseSpecies": "golem",
     "baseForms": [],
     "forms": null,

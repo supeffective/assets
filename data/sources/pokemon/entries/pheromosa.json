@@ -92,6 +92,10 @@
         "showdownDef": "Pheromosa",
         "smogon": "pheromosa"
     },
+    "imgs": {
+        "home": "0795",
+        "menu": "0795"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

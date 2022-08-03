@@ -105,6 +105,10 @@
         "showdownDef": "Ampharos",
         "smogon": "ampharos"
     },
+    "imgs": {
+        "home": "0181",
+        "menu": "0181"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -84,6 +84,10 @@
         "showdownDef": "Aegislash-Blade",
         "smogon": "aegislash-blade"
     },
+    "imgs": {
+        "home": "0681-blade",
+        "menu": "0681-blade"
+    },
     "baseSpecies": "aegislash",
     "baseForms": [
         "aegislash"

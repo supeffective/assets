@@ -93,6 +93,10 @@
         "showdownDef": "Fletchling",
         "smogon": "fletchling"
     },
+    "imgs": {
+        "home": "0661",
+        "menu": "0661"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -96,6 +96,10 @@
         "showdownDef": "Reuniclus",
         "smogon": "reuniclus"
     },
+    "imgs": {
+        "home": "0579",
+        "menu": "0579"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -94,6 +94,10 @@
         "showdownDef": "Leavanny",
         "smogon": "leavanny"
     },
+    "imgs": {
+        "home": "0542",
+        "menu": "0542"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

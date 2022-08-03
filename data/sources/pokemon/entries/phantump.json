@@ -93,6 +93,10 @@
         "showdownDef": "Phantump",
         "smogon": "phantump"
     },
+    "imgs": {
+        "home": "0708",
+        "menu": "0708"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

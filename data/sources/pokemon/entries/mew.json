@@ -108,6 +108,10 @@
         "showdownDef": "Mew",
         "smogon": "mew"
     },
+    "imgs": {
+        "home": "0151",
+        "menu": "0151"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

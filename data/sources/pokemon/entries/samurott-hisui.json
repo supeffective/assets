@@ -86,6 +86,10 @@
         "showdownDef": "Samurott-Hisui",
         "smogon": "samurott-hisui"
     },
+    "imgs": {
+        "home": "0503-hisui",
+        "menu": "0503-hisui"
+    },
     "baseSpecies": "samurott",
     "baseForms": [],
     "forms": [],

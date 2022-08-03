@@ -91,6 +91,10 @@
         "showdownDef": "Frogadier",
         "smogon": "frogadier"
     },
+    "imgs": {
+        "home": "0657",
+        "menu": "0657"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

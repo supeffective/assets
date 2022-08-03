@@ -105,6 +105,10 @@
         "showdownDef": "Sharpedo",
         "smogon": "sharpedo"
     },
+    "imgs": {
+        "home": "0319",
+        "menu": "0319"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -89,6 +89,10 @@
         "showdownDef": "Vivillon-Continental",
         "smogon": "vivillon-continental"
     },
+    "imgs": {
+        "home": "0666-continental",
+        "menu": "0666-continental"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

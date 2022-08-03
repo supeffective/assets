@@ -105,6 +105,10 @@
         "showdownDef": "Groudon",
         "smogon": "groudon"
     },
+    "imgs": {
+        "home": "0383",
+        "menu": "0383"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

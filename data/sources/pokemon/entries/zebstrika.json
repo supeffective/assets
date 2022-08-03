@@ -94,6 +94,10 @@
         "showdownDef": "Zebstrika",
         "smogon": "zebstrika"
     },
+    "imgs": {
+        "home": "0523",
+        "menu": "0523"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

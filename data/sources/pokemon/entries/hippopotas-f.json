@@ -103,6 +103,10 @@
         "showdownDef": "Hippopotas",
         "smogon": "hippopotas"
     },
+    "imgs": {
+        "home": "0449-f",
+        "menu": "0449-f"
+    },
     "baseSpecies": "hippopotas",
     "baseForms": [],
     "forms": null,

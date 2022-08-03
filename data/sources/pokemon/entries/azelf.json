@@ -103,6 +103,10 @@
         "showdownDef": "Azelf",
         "smogon": "azelf"
     },
+    "imgs": {
+        "home": "0482",
+        "menu": "0482"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -90,6 +90,10 @@
         "showdownDef": "Toxapex",
         "smogon": "toxapex"
     },
+    "imgs": {
+        "home": "0748",
+        "menu": "0748"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

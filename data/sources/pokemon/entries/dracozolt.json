@@ -86,6 +86,10 @@
         "showdownDef": "Dracozolt",
         "smogon": "dracozolt"
     },
+    "imgs": {
+        "home": "0880",
+        "menu": "0880"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

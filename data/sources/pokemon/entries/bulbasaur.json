@@ -114,6 +114,10 @@
         "showdownDef": "Bulbasaur",
         "smogon": "bulbasaur"
     },
+    "imgs": {
+        "home": "0001",
+        "menu": "0001"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

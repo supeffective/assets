@@ -94,6 +94,10 @@
         "showdownDef": "Servine",
         "smogon": "servine"
     },
+    "imgs": {
+        "home": "0496",
+        "menu": "0496"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

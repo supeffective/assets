@@ -102,6 +102,10 @@
         "showdownDef": "Piloswine",
         "smogon": "piloswine"
     },
+    "imgs": {
+        "home": "0221-f",
+        "menu": "0221"
+    },
     "baseSpecies": "piloswine",
     "baseForms": [],
     "forms": null,

@@ -103,6 +103,10 @@
         "showdownDef": "Drapion",
         "smogon": "drapion"
     },
+    "imgs": {
+        "home": "0452",
+        "menu": "0452"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

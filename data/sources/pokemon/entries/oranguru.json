@@ -92,6 +92,10 @@
         "showdownDef": "Oranguru",
         "smogon": "oranguru"
     },
+    "imgs": {
+        "home": "0765",
+        "menu": "0765"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

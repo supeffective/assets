@@ -109,6 +109,10 @@
         "showdownDef": "Blissey",
         "smogon": "blissey"
     },
+    "imgs": {
+        "home": "0242",
+        "menu": "0242"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

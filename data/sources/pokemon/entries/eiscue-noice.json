@@ -83,6 +83,10 @@
         "showdownDef": "Eiscue-Noice",
         "smogon": "eiscue-noice"
     },
+    "imgs": {
+        "home": "0875-noice",
+        "menu": "0875-noice"
+    },
     "baseSpecies": "eiscue",
     "baseForms": [
         "eiscue"

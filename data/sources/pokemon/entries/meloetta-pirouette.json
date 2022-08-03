@@ -83,6 +83,10 @@
         "showdownDef": "Meloetta-Pirouette",
         "smogon": "meloetta-pirouette"
     },
+    "imgs": {
+        "home": "0648-pirouette",
+        "menu": "0648-pirouette"
+    },
     "baseSpecies": "meloetta",
     "baseForms": [
         "meloetta"

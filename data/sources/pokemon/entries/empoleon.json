@@ -101,6 +101,10 @@
         "showdownDef": "Empoleon",
         "smogon": "empoleon"
     },
+    "imgs": {
+        "home": "0395",
+        "menu": "0395"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

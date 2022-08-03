@@ -103,6 +103,10 @@
         "showdownDef": "Gallade",
         "smogon": "gallade"
     },
+    "imgs": {
+        "home": "0475",
+        "menu": "0475"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

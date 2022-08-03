@@ -94,6 +94,10 @@
         "showdownDef": "Tynamo",
         "smogon": "tynamo"
     },
+    "imgs": {
+        "home": "0602",
+        "menu": "0602"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

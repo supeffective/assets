@@ -111,6 +111,10 @@
         "showdownDef": "Ditto",
         "smogon": "ditto"
     },
+    "imgs": {
+        "home": "0132",
+        "menu": "0132"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

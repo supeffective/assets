@@ -92,6 +92,10 @@
         "showdownDef": "Muk-Alola",
         "smogon": "muk-alola"
     },
+    "imgs": {
+        "home": "0089-alola",
+        "menu": "0089-alola"
+    },
     "baseSpecies": "muk",
     "baseForms": [],
     "forms": null,

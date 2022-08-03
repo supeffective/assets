@@ -83,6 +83,10 @@
         "showdownDef": "Cinderace-Gmax",
         "smogon": "cinderace-gmax"
     },
+    "imgs": {
+        "home": "0815-gmax",
+        "menu": "0815-gmax"
+    },
     "baseSpecies": "cinderace",
     "baseForms": [
         "cinderace"

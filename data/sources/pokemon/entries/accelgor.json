@@ -96,6 +96,10 @@
         "showdownDef": "Accelgor",
         "smogon": "accelgor"
     },
+    "imgs": {
+        "home": "0617",
+        "menu": "0617"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -101,6 +101,10 @@
         "showdownDef": "Finneon",
         "smogon": "finneon"
     },
+    "imgs": {
+        "home": "0456",
+        "menu": "0456"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

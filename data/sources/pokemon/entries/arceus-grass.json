@@ -98,6 +98,10 @@
         "showdownDef": "Arceus-Grass",
         "smogon": "arceus-grass"
     },
+    "imgs": {
+        "home": "0493-grass",
+        "menu": "0493-grass"
+    },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"

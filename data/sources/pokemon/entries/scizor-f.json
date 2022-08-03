@@ -102,6 +102,10 @@
         "showdownDef": "Scizor",
         "smogon": "scizor"
     },
+    "imgs": {
+        "home": "0212-f",
+        "menu": "0212"
+    },
     "baseSpecies": "scizor",
     "baseForms": [],
     "forms": null,

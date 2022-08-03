@@ -103,6 +103,10 @@
         "showdownDef": "Tangrowth",
         "smogon": "tangrowth"
     },
+    "imgs": {
+        "home": "0465",
+        "menu": "0465"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

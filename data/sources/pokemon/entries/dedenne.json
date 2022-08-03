@@ -93,6 +93,10 @@
         "showdownDef": "Dedenne",
         "smogon": "dedenne"
     },
+    "imgs": {
+        "home": "0702",
+        "menu": "0702"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

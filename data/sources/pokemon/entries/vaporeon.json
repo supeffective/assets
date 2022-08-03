@@ -113,6 +113,10 @@
         "showdownDef": "Vaporeon",
         "smogon": "vaporeon"
     },
+    "imgs": {
+        "home": "0134",
+        "menu": "0134"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

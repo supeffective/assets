@@ -96,6 +96,10 @@
         "showdownDef": "Vullaby",
         "smogon": "vullaby"
     },
+    "imgs": {
+        "home": "0629",
+        "menu": "0629"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

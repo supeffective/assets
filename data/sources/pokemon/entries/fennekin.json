@@ -91,6 +91,10 @@
         "showdownDef": "Fennekin",
         "smogon": "fennekin"
     },
+    "imgs": {
+        "home": "0653",
+        "menu": "0653"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

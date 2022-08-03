@@ -107,6 +107,10 @@
         "showdownDef": "Snorunt",
         "smogon": "snorunt"
     },
+    "imgs": {
+        "home": "0361",
+        "menu": "0361"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

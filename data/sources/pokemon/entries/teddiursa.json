@@ -107,6 +107,10 @@
         "showdownDef": "Teddiursa",
         "smogon": "teddiursa"
     },
+    "imgs": {
+        "home": "0216",
+        "menu": "0216"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

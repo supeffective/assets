@@ -104,6 +104,10 @@
         "showdownDef": "Unown-Question",
         "smogon": "unown-question"
     },
+    "imgs": {
+        "home": "0201-question",
+        "menu": "0201-question"
+    },
     "baseSpecies": "unown",
     "baseForms": [],
     "forms": null,

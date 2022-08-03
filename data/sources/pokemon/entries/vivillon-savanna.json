@@ -89,6 +89,10 @@
         "showdownDef": "Vivillon-Savanna",
         "smogon": "vivillon-savanna"
     },
+    "imgs": {
+        "home": "0666-savanna",
+        "menu": "0666-savanna"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

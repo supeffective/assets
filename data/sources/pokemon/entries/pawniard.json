@@ -96,6 +96,10 @@
         "showdownDef": "Pawniard",
         "smogon": "pawniard"
     },
+    "imgs": {
+        "home": "0624",
+        "menu": "0624"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

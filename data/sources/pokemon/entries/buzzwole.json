@@ -92,6 +92,10 @@
         "showdownDef": "Buzzwole",
         "smogon": "buzzwole"
     },
+    "imgs": {
+        "home": "0794",
+        "menu": "0794"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

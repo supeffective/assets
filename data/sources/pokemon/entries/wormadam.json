@@ -101,6 +101,10 @@
         "showdownDef": "Wormadam",
         "smogon": "wormadam"
     },
+    "imgs": {
+        "home": "0413",
+        "menu": "0413"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

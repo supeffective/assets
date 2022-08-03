@@ -93,6 +93,10 @@
         "showdownDef": "Skrelp",
         "smogon": "skrelp"
     },
+    "imgs": {
+        "home": "0690",
+        "menu": "0690"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

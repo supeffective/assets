@@ -103,6 +103,10 @@
         "showdownDef": "Kadabra",
         "smogon": "kadabra"
     },
+    "imgs": {
+        "home": "0064-f",
+        "menu": "0064"
+    },
     "baseSpecies": "kadabra",
     "baseForms": [],
     "forms": null,

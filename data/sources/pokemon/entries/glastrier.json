@@ -86,6 +86,10 @@
         "showdownDef": "Glastrier",
         "smogon": "glastrier"
     },
+    "imgs": {
+        "home": "0896",
+        "menu": "0896"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

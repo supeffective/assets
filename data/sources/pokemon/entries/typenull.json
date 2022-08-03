@@ -90,6 +90,10 @@
         "showdownDef": "Typenull",
         "smogon": "typenull"
     },
+    "imgs": {
+        "home": "0772",
+        "menu": "0772"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

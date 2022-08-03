@@ -113,6 +113,10 @@
         "showdownDef": "Chansey",
         "smogon": "chansey"
     },
+    "imgs": {
+        "home": "0113",
+        "menu": "0113"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

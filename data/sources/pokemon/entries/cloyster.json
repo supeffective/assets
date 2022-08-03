@@ -111,6 +111,10 @@
         "showdownDef": "Cloyster",
         "smogon": "cloyster"
     },
+    "imgs": {
+        "home": "0091",
+        "menu": "0091"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

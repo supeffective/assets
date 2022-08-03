@@ -85,6 +85,10 @@
         "showdownDef": "Xerneas-Active",
         "smogon": "xerneas-active"
     },
+    "imgs": {
+        "home": "0716-active",
+        "menu": "0716-active"
+    },
     "baseSpecies": "xerneas",
     "baseForms": [
         "xerneas"

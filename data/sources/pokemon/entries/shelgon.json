@@ -105,6 +105,10 @@
         "showdownDef": "Shelgon",
         "smogon": "shelgon"
     },
+    "imgs": {
+        "home": "0372",
+        "menu": "0372"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

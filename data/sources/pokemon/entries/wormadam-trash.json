@@ -101,6 +101,10 @@
         "showdownDef": "Wormadam-Trash",
         "smogon": "wormadam-trash"
     },
+    "imgs": {
+        "home": "0413-trash",
+        "menu": "0413-trash"
+    },
     "baseSpecies": "wormadam",
     "baseForms": [],
     "forms": null,

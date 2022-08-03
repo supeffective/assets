@@ -83,6 +83,10 @@
         "showdownDef": "Drednaw-Gmax",
         "smogon": "drednaw-gmax"
     },
+    "imgs": {
+        "home": "0834-gmax",
+        "menu": "0834-gmax"
+    },
     "baseSpecies": "drednaw",
     "baseForms": [
         "drednaw"

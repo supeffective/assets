@@ -105,6 +105,10 @@
         "showdownDef": "Phanpy",
         "smogon": "phanpy"
     },
+    "imgs": {
+        "home": "0231",
+        "menu": "0231"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

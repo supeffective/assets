@@ -103,6 +103,10 @@
         "showdownDef": "Rhyperior",
         "smogon": "rhyperior"
     },
+    "imgs": {
+        "home": "0464",
+        "menu": "0464"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

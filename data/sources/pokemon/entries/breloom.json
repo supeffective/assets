@@ -103,6 +103,10 @@
         "showdownDef": "Breloom",
         "smogon": "breloom"
     },
+    "imgs": {
+        "home": "0286",
+        "menu": "0286"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

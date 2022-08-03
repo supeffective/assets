@@ -94,6 +94,10 @@
         "showdownDef": "Deerling-Summer",
         "smogon": "deerling-summer"
     },
+    "imgs": {
+        "home": "0585-summer",
+        "menu": "0585-summer"
+    },
     "baseSpecies": "deerling",
     "baseForms": [],
     "forms": null,

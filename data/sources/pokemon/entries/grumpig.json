@@ -103,6 +103,10 @@
         "showdownDef": "Grumpig",
         "smogon": "grumpig"
     },
+    "imgs": {
+        "home": "0326",
+        "menu": "0326"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

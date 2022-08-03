@@ -92,6 +92,10 @@
         "showdownDef": "Popplio",
         "smogon": "popplio"
     },
+    "imgs": {
+        "home": "0728",
+        "menu": "0728"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

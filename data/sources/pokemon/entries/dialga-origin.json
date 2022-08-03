@@ -85,6 +85,10 @@
         "showdownDef": "Dialga-Origin",
         "smogon": "dialga-origin"
     },
+    "imgs": {
+        "home": "0483-origin",
+        "menu": "0483-origin"
+    },
     "baseSpecies": "dialga",
     "baseForms": [],
     "forms": [],

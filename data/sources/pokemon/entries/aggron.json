@@ -105,6 +105,10 @@
         "showdownDef": "Aggron",
         "smogon": "aggron"
     },
+    "imgs": {
+        "home": "0306",
+        "menu": "0306"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

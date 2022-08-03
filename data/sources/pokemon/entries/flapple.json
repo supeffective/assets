@@ -86,6 +86,10 @@
         "showdownDef": "Flapple",
         "smogon": "flapple"
     },
+    "imgs": {
+        "home": "0841",
+        "menu": "0841"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

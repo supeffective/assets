@@ -86,6 +86,10 @@
         "showdownDef": "Eldegoss",
         "smogon": "eldegoss"
     },
+    "imgs": {
+        "home": "0830",
+        "menu": "0830"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

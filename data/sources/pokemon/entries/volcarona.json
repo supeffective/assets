@@ -94,6 +94,10 @@
         "showdownDef": "Volcarona",
         "smogon": "volcarona"
     },
+    "imgs": {
+        "home": "0637",
+        "menu": "0637"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

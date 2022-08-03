@@ -96,6 +96,10 @@
         "showdownDef": "Lillipup",
         "smogon": "lillipup"
     },
+    "imgs": {
+        "home": "0506",
+        "menu": "0506"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

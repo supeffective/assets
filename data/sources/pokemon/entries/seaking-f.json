@@ -101,6 +101,10 @@
         "showdownDef": "Seaking",
         "smogon": "seaking"
     },
+    "imgs": {
+        "home": "0119-f",
+        "menu": "0119"
+    },
     "baseSpecies": "seaking",
     "baseForms": [],
     "forms": null,

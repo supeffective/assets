@@ -109,6 +109,10 @@
         "showdownDef": "Voltorb",
         "smogon": "voltorb"
     },
+    "imgs": {
+        "home": "0100",
+        "menu": "0100"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

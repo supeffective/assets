@@ -103,6 +103,10 @@
         "showdownDef": "Huntail",
         "smogon": "huntail"
     },
+    "imgs": {
+        "home": "0367",
+        "menu": "0367"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

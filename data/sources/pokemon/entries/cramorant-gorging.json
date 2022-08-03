@@ -83,6 +83,10 @@
         "showdownDef": "Cramorant-Gorging",
         "smogon": "cramorant-gorging"
     },
+    "imgs": {
+        "home": "0845-gorging",
+        "menu": "0845-gorging"
+    },
     "baseSpecies": "cramorant",
     "baseForms": [
         "cramorant"

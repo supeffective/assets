@@ -98,6 +98,10 @@
         "showdownDef": "Arceus-Psychic",
         "smogon": "arceus-psychic"
     },
+    "imgs": {
+        "home": "0493-psychic",
+        "menu": "0493-psychic"
+    },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"

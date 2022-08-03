@@ -103,6 +103,10 @@
         "showdownDef": "Minun",
         "smogon": "minun"
     },
+    "imgs": {
+        "home": "0312",
+        "menu": "0312"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

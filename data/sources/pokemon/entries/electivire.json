@@ -103,6 +103,10 @@
         "showdownDef": "Electivire",
         "smogon": "electivire"
     },
+    "imgs": {
+        "home": "0466",
+        "menu": "0466"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

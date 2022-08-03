@@ -111,6 +111,10 @@
         "showdownDef": "Omastar",
         "smogon": "omastar"
     },
+    "imgs": {
+        "home": "0139",
+        "menu": "0139"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

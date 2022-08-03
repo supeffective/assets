@@ -96,6 +96,10 @@
         "showdownDef": "Bisharp",
         "smogon": "bisharp"
     },
+    "imgs": {
+        "home": "0625",
+        "menu": "0625"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -89,6 +89,10 @@
         "showdownDef": "Silvally-Water",
         "smogon": "silvally-water"
     },
+    "imgs": {
+        "home": "0773-water",
+        "menu": "0773-water"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

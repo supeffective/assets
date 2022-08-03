@@ -105,6 +105,10 @@
         "showdownDef": "Seedot",
         "smogon": "seedot"
     },
+    "imgs": {
+        "home": "0273",
+        "menu": "0273"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

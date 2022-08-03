@@ -94,6 +94,10 @@
         "showdownDef": "Emboar",
         "smogon": "emboar"
     },
+    "imgs": {
+        "home": "0500",
+        "menu": "0500"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -105,6 +105,10 @@
         "showdownDef": "Regirock",
         "smogon": "regirock"
     },
+    "imgs": {
+        "home": "0377",
+        "menu": "0377"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -83,6 +83,10 @@
         "showdownDef": "Gengar-Gmax",
         "smogon": "gengar-gmax"
     },
+    "imgs": {
+        "home": "0094-gmax",
+        "menu": "0094-gmax"
+    },
     "baseSpecies": "gengar",
     "baseForms": [
         "gengar"

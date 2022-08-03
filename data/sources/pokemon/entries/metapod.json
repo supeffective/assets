@@ -111,6 +111,10 @@
         "showdownDef": "Metapod",
         "smogon": "metapod"
     },
+    "imgs": {
+        "home": "0011",
+        "menu": "0011"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

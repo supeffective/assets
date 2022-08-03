@@ -86,6 +86,10 @@
         "showdownDef": "Pincurchin",
         "smogon": "pincurchin"
     },
+    "imgs": {
+        "home": "0871",
+        "menu": "0871"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

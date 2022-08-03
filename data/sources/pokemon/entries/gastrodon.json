@@ -103,6 +103,10 @@
         "showdownDef": "Gastrodon",
         "smogon": "gastrodon"
     },
+    "imgs": {
+        "home": "0423",
+        "menu": "0423"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

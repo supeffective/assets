@@ -105,6 +105,10 @@
         "showdownDef": "Jumpluff",
         "smogon": "jumpluff"
     },
+    "imgs": {
+        "home": "0189",
+        "menu": "0189"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

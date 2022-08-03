@@ -111,6 +111,10 @@
         "showdownDef": "Charizard",
         "smogon": "charizard"
     },
+    "imgs": {
+        "home": "0006",
+        "menu": "0006"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

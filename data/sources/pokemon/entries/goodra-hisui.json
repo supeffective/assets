@@ -86,6 +86,10 @@
         "showdownDef": "Goodra-Hisui",
         "smogon": "goodra-hisui"
     },
+    "imgs": {
+        "home": "0706-hisui",
+        "menu": "0706-hisui"
+    },
     "baseSpecies": "goodra",
     "baseForms": [],
     "forms": [],

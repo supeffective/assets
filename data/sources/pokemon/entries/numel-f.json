@@ -98,6 +98,10 @@
         "showdownDef": "Numel",
         "smogon": "numel"
     },
+    "imgs": {
+        "home": "0322-f",
+        "menu": "0322"
+    },
     "baseSpecies": "numel",
     "baseForms": [],
     "forms": null,

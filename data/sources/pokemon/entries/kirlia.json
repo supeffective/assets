@@ -107,6 +107,10 @@
         "showdownDef": "Kirlia",
         "smogon": "kirlia"
     },
+    "imgs": {
+        "home": "0281",
+        "menu": "0281"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

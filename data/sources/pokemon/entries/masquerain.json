@@ -103,6 +103,10 @@
         "showdownDef": "Masquerain",
         "smogon": "masquerain"
     },
+    "imgs": {
+        "home": "0284",
+        "menu": "0284"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -88,6 +88,10 @@
         "showdownDef": "Castform-Snowy",
         "smogon": "castform-snowy"
     },
+    "imgs": {
+        "home": "0351-snowy",
+        "menu": "0351-snowy"
+    },
     "baseSpecies": "castform",
     "baseForms": [
         "castform"

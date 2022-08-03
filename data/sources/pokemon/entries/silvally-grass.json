@@ -89,6 +89,10 @@
         "showdownDef": "Silvally-Grass",
         "smogon": "silvally-grass"
     },
+    "imgs": {
+        "home": "0773-grass",
+        "menu": "0773-grass"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

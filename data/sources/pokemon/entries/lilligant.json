@@ -96,6 +96,10 @@
         "showdownDef": "Lilligant",
         "smogon": "lilligant"
     },
+    "imgs": {
+        "home": "0549",
+        "menu": "0549"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

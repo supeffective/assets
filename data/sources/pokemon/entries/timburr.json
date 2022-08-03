@@ -96,6 +96,10 @@
         "showdownDef": "Timburr",
         "smogon": "timburr"
     },
+    "imgs": {
+        "home": "0532",
+        "menu": "0532"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

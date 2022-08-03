@@ -101,6 +101,10 @@
         "showdownDef": "Purugly",
         "smogon": "purugly"
     },
+    "imgs": {
+        "home": "0432",
+        "menu": "0432"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

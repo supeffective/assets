@@ -86,6 +86,10 @@
         "showdownDef": "Dracovish",
         "smogon": "dracovish"
     },
+    "imgs": {
+        "home": "0882",
+        "menu": "0882"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

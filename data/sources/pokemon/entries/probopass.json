@@ -101,6 +101,10 @@
         "showdownDef": "Probopass",
         "smogon": "probopass"
     },
+    "imgs": {
+        "home": "0476",
+        "menu": "0476"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

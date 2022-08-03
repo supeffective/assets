@@ -94,6 +94,10 @@
         "showdownDef": "Exeggutor-Alola",
         "smogon": "exeggutor-alola"
     },
+    "imgs": {
+        "home": "0103-alola",
+        "menu": "0103-alola"
+    },
     "baseSpecies": "exeggutor",
     "baseForms": [],
     "forms": null,

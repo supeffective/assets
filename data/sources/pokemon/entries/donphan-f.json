@@ -98,6 +98,10 @@
         "showdownDef": "Donphan",
         "smogon": "donphan"
     },
+    "imgs": {
+        "home": "0232-f",
+        "menu": "0232"
+    },
     "baseSpecies": "donphan",
     "baseForms": [],
     "forms": null,

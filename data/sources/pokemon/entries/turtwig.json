@@ -101,6 +101,10 @@
         "showdownDef": "Turtwig",
         "smogon": "turtwig"
     },
+    "imgs": {
+        "home": "0387",
+        "menu": "0387"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

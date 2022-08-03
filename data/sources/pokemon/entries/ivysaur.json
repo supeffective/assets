@@ -114,6 +114,10 @@
         "showdownDef": "Ivysaur",
         "smogon": "ivysaur"
     },
+    "imgs": {
+        "home": "0002",
+        "menu": "0002"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

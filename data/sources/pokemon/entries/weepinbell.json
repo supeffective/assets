@@ -109,6 +109,10 @@
         "showdownDef": "Weepinbell",
         "smogon": "weepinbell"
     },
+    "imgs": {
+        "home": "0070",
+        "menu": "0070"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

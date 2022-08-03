@@ -86,6 +86,10 @@
         "showdownDef": "Alcremie-Salted-Cream-Flower",
         "smogon": "alcremie-salted-cream-flower"
     },
+    "imgs": {
+        "home": "0869-salted-cream-flower",
+        "menu": "0869-salted-cream-flower"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

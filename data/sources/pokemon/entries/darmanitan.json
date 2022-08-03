@@ -96,6 +96,10 @@
         "showdownDef": "Darmanitan",
         "smogon": "darmanitan"
     },
+    "imgs": {
+        "home": "0555",
+        "menu": "0555"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

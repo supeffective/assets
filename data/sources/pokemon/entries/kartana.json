@@ -90,6 +90,10 @@
         "showdownDef": "Kartana",
         "smogon": "kartana"
     },
+    "imgs": {
+        "home": "0798",
+        "menu": "0798"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

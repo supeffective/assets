@@ -96,6 +96,10 @@
         "showdownDef": "Vanillish",
         "smogon": "vanillish"
     },
+    "imgs": {
+        "home": "0583",
+        "menu": "0583"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

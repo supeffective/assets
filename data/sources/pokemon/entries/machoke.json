@@ -113,6 +113,10 @@
         "showdownDef": "Machoke",
         "smogon": "machoke"
     },
+    "imgs": {
+        "home": "0067",
+        "menu": "0067"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

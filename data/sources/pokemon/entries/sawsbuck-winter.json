@@ -94,6 +94,10 @@
         "showdownDef": "Sawsbuck-Winter",
         "smogon": "sawsbuck-winter"
     },
+    "imgs": {
+        "home": "0586-winter",
+        "menu": "0586-winter"
+    },
     "baseSpecies": "sawsbuck",
     "baseForms": [],
     "forms": null,

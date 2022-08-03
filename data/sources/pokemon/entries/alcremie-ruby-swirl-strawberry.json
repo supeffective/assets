@@ -86,6 +86,10 @@
         "showdownDef": "Alcremie-Ruby-Swirl-Strawberry",
         "smogon": "alcremie-ruby-swirl-strawberry"
     },
+    "imgs": {
+        "home": "0869-ruby-swirl-strawberry",
+        "menu": "0869-ruby-swirl-strawberry"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

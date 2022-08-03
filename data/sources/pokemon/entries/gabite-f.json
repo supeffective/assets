@@ -103,6 +103,10 @@
         "showdownDef": "Gabite",
         "smogon": "gabite"
     },
+    "imgs": {
+        "home": "0444-f",
+        "menu": "0444"
+    },
     "baseSpecies": "gabite",
     "baseForms": [],
     "forms": null,

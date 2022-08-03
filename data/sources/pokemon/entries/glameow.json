@@ -101,6 +101,10 @@
         "showdownDef": "Glameow",
         "smogon": "glameow"
     },
+    "imgs": {
+        "home": "0431",
+        "menu": "0431"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

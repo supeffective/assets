@@ -98,6 +98,10 @@
         "showdownDef": "Tornadus",
         "smogon": "tornadus"
     },
+    "imgs": {
+        "home": "0641",
+        "menu": "0641"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

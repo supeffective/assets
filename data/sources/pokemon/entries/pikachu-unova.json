@@ -90,6 +90,10 @@
         "showdownDef": "Pikachu-Unova",
         "smogon": "pikachu-unova"
     },
+    "imgs": {
+        "home": "0025-unova-cap",
+        "menu": "0025-unova-cap"
+    },
     "baseSpecies": "pikachu",
     "baseForms": [],
     "forms": null,

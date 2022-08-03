@@ -86,6 +86,10 @@
         "showdownDef": "Chewtle",
         "smogon": "chewtle"
     },
+    "imgs": {
+        "home": "0833",
+        "menu": "0833"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

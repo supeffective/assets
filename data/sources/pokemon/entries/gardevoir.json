@@ -107,6 +107,10 @@
         "showdownDef": "Gardevoir",
         "smogon": "gardevoir"
     },
+    "imgs": {
+        "home": "0282",
+        "menu": "0282"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

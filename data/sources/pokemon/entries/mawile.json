@@ -105,6 +105,10 @@
         "showdownDef": "Mawile",
         "smogon": "mawile"
     },
+    "imgs": {
+        "home": "0303",
+        "menu": "0303"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

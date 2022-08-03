@@ -111,6 +111,10 @@
         "showdownDef": "Zapdos",
         "smogon": "zapdos"
     },
+    "imgs": {
+        "home": "0145",
+        "menu": "0145"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

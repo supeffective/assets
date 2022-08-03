@@ -107,6 +107,10 @@
         "showdownDef": "Lugia",
         "smogon": "lugia"
     },
+    "imgs": {
+        "home": "0249",
+        "menu": "0249"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

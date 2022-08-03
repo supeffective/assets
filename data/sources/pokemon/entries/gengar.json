@@ -113,6 +113,10 @@
         "showdownDef": "Gengar",
         "smogon": "gengar"
     },
+    "imgs": {
+        "home": "0094",
+        "menu": "0094"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

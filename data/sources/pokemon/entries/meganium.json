@@ -105,6 +105,10 @@
         "showdownDef": "Meganium",
         "smogon": "meganium"
     },
+    "imgs": {
+        "home": "0154",
+        "menu": "0154"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

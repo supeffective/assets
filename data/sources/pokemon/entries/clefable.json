@@ -113,6 +113,10 @@
         "showdownDef": "Clefable",
         "smogon": "clefable"
     },
+    "imgs": {
+        "home": "0036",
+        "menu": "0036"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

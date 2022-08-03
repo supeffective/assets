@@ -111,6 +111,10 @@
         "showdownDef": "Jynx",
         "smogon": "jynx"
     },
+    "imgs": {
+        "home": "0124",
+        "menu": "0124"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

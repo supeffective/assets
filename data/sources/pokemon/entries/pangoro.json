@@ -93,6 +93,10 @@
         "showdownDef": "Pangoro",
         "smogon": "pangoro"
     },
+    "imgs": {
+        "home": "0675",
+        "menu": "0675"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

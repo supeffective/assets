@@ -105,6 +105,10 @@
         "showdownDef": "Trapinch",
         "smogon": "trapinch"
     },
+    "imgs": {
+        "home": "0328",
+        "menu": "0328"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

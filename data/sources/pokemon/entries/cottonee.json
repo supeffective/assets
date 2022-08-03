@@ -96,6 +96,10 @@
         "showdownDef": "Cottonee",
         "smogon": "cottonee"
     },
+    "imgs": {
+        "home": "0546",
+        "menu": "0546"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

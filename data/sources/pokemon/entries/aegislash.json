@@ -91,6 +91,10 @@
         "showdownDef": "Aegislash",
         "smogon": "aegislash"
     },
+    "imgs": {
+        "home": "0681",
+        "menu": "0681"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

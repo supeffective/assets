@@ -103,6 +103,10 @@
         "showdownDef": "Illumise",
         "smogon": "illumise"
     },
+    "imgs": {
+        "home": "0314",
+        "menu": "0314"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

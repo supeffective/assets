@@ -86,6 +86,10 @@
         "showdownDef": "Stonjourner",
         "smogon": "stonjourner"
     },
+    "imgs": {
+        "home": "0874",
+        "menu": "0874"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

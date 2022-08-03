@@ -107,6 +107,10 @@
         "showdownDef": "Kingdra",
         "smogon": "kingdra"
     },
+    "imgs": {
+        "home": "0230",
+        "menu": "0230"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

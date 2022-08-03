@@ -90,6 +90,10 @@
         "showdownDef": "Pikachu-Sinnoh",
         "smogon": "pikachu-sinnoh"
     },
+    "imgs": {
+        "home": "0025-sinnoh-cap",
+        "menu": "0025-sinnoh-cap"
+    },
     "baseSpecies": "pikachu",
     "baseForms": [],
     "forms": null,

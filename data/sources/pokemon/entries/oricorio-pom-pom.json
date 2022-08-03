@@ -90,6 +90,10 @@
         "showdownDef": "Oricorio-Pom-Pom",
         "smogon": "oricorio-pom-pom"
     },
+    "imgs": {
+        "home": "0741-pom-pom",
+        "menu": "0741-pom-pom"
+    },
     "baseSpecies": "oricorio",
     "baseForms": [],
     "forms": null,

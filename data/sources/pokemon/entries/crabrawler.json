@@ -88,6 +88,10 @@
         "showdownDef": "Crabrawler",
         "smogon": "crabrawler"
     },
+    "imgs": {
+        "home": "0739",
+        "menu": "0739"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

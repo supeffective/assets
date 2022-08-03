@@ -109,6 +109,10 @@
         "showdownDef": "Pidgeotto",
         "smogon": "pidgeotto"
     },
+    "imgs": {
+        "home": "0017",
+        "menu": "0017"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -103,6 +103,10 @@
         "showdownDef": "Hariyama",
         "smogon": "hariyama"
     },
+    "imgs": {
+        "home": "0297",
+        "menu": "0297"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

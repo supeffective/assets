@@ -91,6 +91,10 @@
         "showdownDef": "Furfrou-Pharaoh",
         "smogon": "furfrou-pharaoh"
     },
+    "imgs": {
+        "home": "0676-pharaoh",
+        "menu": "0676-pharaoh"
+    },
     "baseSpecies": "furfrou",
     "baseForms": [
         "furfrou"

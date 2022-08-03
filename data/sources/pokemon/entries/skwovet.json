@@ -88,6 +88,10 @@
         "showdownDef": "Skwovet",
         "smogon": "skwovet"
     },
+    "imgs": {
+        "home": "0819",
+        "menu": "0819"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

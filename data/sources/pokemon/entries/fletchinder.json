@@ -93,6 +93,10 @@
         "showdownDef": "Fletchinder",
         "smogon": "fletchinder"
     },
+    "imgs": {
+        "home": "0662",
+        "menu": "0662"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

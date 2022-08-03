@@ -96,6 +96,10 @@
         "showdownDef": "Whimsicott",
         "smogon": "whimsicott"
     },
+    "imgs": {
+        "home": "0547",
+        "menu": "0547"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

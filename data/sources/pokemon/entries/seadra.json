@@ -111,6 +111,10 @@
         "showdownDef": "Seadra",
         "smogon": "seadra"
     },
+    "imgs": {
+        "home": "0117",
+        "menu": "0117"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

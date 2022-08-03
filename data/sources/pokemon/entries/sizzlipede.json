@@ -86,6 +86,10 @@
         "showdownDef": "Sizzlipede",
         "smogon": "sizzlipede"
     },
+    "imgs": {
+        "home": "0850",
+        "menu": "0850"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

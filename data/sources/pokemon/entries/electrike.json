@@ -105,6 +105,10 @@
         "showdownDef": "Electrike",
         "smogon": "electrike"
     },
+    "imgs": {
+        "home": "0309",
+        "menu": "0309"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

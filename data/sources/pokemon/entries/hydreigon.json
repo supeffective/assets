@@ -96,6 +96,10 @@
         "showdownDef": "Hydreigon",
         "smogon": "hydreigon"
     },
+    "imgs": {
+        "home": "0635",
+        "menu": "0635"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

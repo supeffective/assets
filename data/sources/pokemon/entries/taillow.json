@@ -103,6 +103,10 @@
         "showdownDef": "Taillow",
         "smogon": "taillow"
     },
+    "imgs": {
+        "home": "0276",
+        "menu": "0276"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

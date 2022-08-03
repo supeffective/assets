@@ -93,6 +93,10 @@
         "showdownDef": "Heliolisk",
         "smogon": "heliolisk"
     },
+    "imgs": {
+        "home": "0695",
+        "menu": "0695"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

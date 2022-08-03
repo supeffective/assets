@@ -96,6 +96,10 @@
         "showdownDef": "Emolga",
         "smogon": "emolga"
     },
+    "imgs": {
+        "home": "0587",
+        "menu": "0587"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -103,6 +103,10 @@
         "showdownDef": "Combee",
         "smogon": "combee"
     },
+    "imgs": {
+        "home": "0415-f",
+        "menu": "0415"
+    },
     "baseSpecies": "combee",
     "baseForms": [],
     "forms": null,

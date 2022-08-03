@@ -91,6 +91,10 @@
         "showdownDef": "Pyroar",
         "smogon": "pyroar"
     },
+    "imgs": {
+        "home": "0668",
+        "menu": "0668"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

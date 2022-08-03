@@ -104,6 +104,10 @@
         "showdownDef": "Unown-Exclamation",
         "smogon": "unown-exclamation"
     },
+    "imgs": {
+        "home": "0201-exclamation",
+        "menu": "0201-exclamation"
+    },
     "baseSpecies": "unown",
     "baseForms": [],
     "forms": null,

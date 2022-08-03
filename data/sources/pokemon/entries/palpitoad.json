@@ -96,6 +96,10 @@
         "showdownDef": "Palpitoad",
         "smogon": "palpitoad"
     },
+    "imgs": {
+        "home": "0536",
+        "menu": "0536"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -96,6 +96,10 @@
         "showdownDef": "Dewott",
         "smogon": "dewott"
     },
+    "imgs": {
+        "home": "0502",
+        "menu": "0502"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

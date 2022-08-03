@@ -103,6 +103,10 @@
         "showdownDef": "Gastrodon-East",
         "smogon": "gastrodon-east"
     },
+    "imgs": {
+        "home": "0423-east",
+        "menu": "0423-east"
+    },
     "baseSpecies": "gastrodon",
     "baseForms": [],
     "forms": null,

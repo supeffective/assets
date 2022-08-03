@@ -86,6 +86,10 @@
         "showdownDef": "Thievul",
         "smogon": "thievul"
     },
+    "imgs": {
+        "home": "0828",
+        "menu": "0828"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

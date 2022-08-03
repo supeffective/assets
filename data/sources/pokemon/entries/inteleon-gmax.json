@@ -83,6 +83,10 @@
         "showdownDef": "Inteleon-Gmax",
         "smogon": "inteleon-gmax"
     },
+    "imgs": {
+        "home": "0818-gmax",
+        "menu": "0818-gmax"
+    },
     "baseSpecies": "inteleon",
     "baseForms": [
         "inteleon"

@@ -91,6 +91,10 @@
         "showdownDef": "Delphox",
         "smogon": "delphox"
     },
+    "imgs": {
+        "home": "0655",
+        "menu": "0655"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

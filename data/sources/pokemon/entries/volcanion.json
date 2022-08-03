@@ -91,6 +91,10 @@
         "showdownDef": "Volcanion",
         "smogon": "volcanion"
     },
+    "imgs": {
+        "home": "0721",
+        "menu": "0721"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

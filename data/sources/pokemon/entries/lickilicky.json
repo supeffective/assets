@@ -103,6 +103,10 @@
         "showdownDef": "Lickilicky",
         "smogon": "lickilicky"
     },
+    "imgs": {
+        "home": "0463",
+        "menu": "0463"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

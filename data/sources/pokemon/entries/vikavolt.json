@@ -90,6 +90,10 @@
         "showdownDef": "Vikavolt",
         "smogon": "vikavolt"
     },
+    "imgs": {
+        "home": "0738",
+        "menu": "0738"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

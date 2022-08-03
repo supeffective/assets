@@ -96,6 +96,10 @@
         "showdownDef": "Lampent",
         "smogon": "lampent"
     },
+    "imgs": {
+        "home": "0608",
+        "menu": "0608"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

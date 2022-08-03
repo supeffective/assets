@@ -101,6 +101,10 @@
         "showdownDef": "Lumineon",
         "smogon": "lumineon"
     },
+    "imgs": {
+        "home": "0457",
+        "menu": "0457"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

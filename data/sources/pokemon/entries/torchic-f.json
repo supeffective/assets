@@ -100,6 +100,10 @@
         "showdownDef": "Torchic",
         "smogon": "torchic"
     },
+    "imgs": {
+        "home": "0255-f",
+        "menu": "0255"
+    },
     "baseSpecies": "torchic",
     "baseForms": [],
     "forms": null,

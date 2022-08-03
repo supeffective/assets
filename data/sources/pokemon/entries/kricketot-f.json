@@ -101,6 +101,10 @@
         "showdownDef": "Kricketot",
         "smogon": "kricketot"
     },
+    "imgs": {
+        "home": "0401-f",
+        "menu": "0401"
+    },
     "baseSpecies": "kricketot",
     "baseForms": [],
     "forms": null,

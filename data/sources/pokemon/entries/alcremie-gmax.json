@@ -83,6 +83,10 @@
         "showdownDef": "Alcremie-Gmax",
         "smogon": "alcremie-gmax"
     },
+    "imgs": {
+        "home": "0869-gmax",
+        "menu": "0869-gmax"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [
         "alcremie",

@@ -101,6 +101,10 @@
         "showdownDef": "Prinplup",
         "smogon": "prinplup"
     },
+    "imgs": {
+        "home": "0394",
+        "menu": "0394"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

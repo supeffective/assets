@@ -88,6 +88,10 @@
         "showdownDef": "Perrserker",
         "smogon": "perrserker"
     },
+    "imgs": {
+        "home": "0863",
+        "menu": "0863"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

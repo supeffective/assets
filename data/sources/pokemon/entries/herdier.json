@@ -96,6 +96,10 @@
         "showdownDef": "Herdier",
         "smogon": "herdier"
     },
+    "imgs": {
+        "home": "0507",
+        "menu": "0507"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

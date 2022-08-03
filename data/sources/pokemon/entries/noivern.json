@@ -93,6 +93,10 @@
         "showdownDef": "Noivern",
         "smogon": "noivern"
     },
+    "imgs": {
+        "home": "0715",
+        "menu": "0715"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

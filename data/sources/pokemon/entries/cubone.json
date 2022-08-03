@@ -111,6 +111,10 @@
         "showdownDef": "Cubone",
         "smogon": "cubone"
     },
+    "imgs": {
+        "home": "0104",
+        "menu": "0104"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

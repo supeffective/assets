@@ -101,6 +101,10 @@
         "showdownDef": "Mothim",
         "smogon": "mothim"
     },
+    "imgs": {
+        "home": "0414",
+        "menu": "0414"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

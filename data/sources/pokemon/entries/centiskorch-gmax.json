@@ -83,6 +83,10 @@
         "showdownDef": "Centiskorch-Gmax",
         "smogon": "centiskorch-gmax"
     },
+    "imgs": {
+        "home": "0851-gmax",
+        "menu": "0851-gmax"
+    },
     "baseSpecies": "centiskorch",
     "baseForms": [
         "centiskorch"

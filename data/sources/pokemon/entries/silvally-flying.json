@@ -89,6 +89,10 @@
         "showdownDef": "Silvally-Flying",
         "smogon": "silvally-flying"
     },
+    "imgs": {
+        "home": "0773-flying",
+        "menu": "0773-flying"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

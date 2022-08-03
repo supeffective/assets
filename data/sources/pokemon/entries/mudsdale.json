@@ -90,6 +90,10 @@
         "showdownDef": "Mudsdale",
         "smogon": "mudsdale"
     },
+    "imgs": {
+        "home": "0750",
+        "menu": "0750"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

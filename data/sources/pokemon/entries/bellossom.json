@@ -107,6 +107,10 @@
         "showdownDef": "Bellossom",
         "smogon": "bellossom"
     },
+    "imgs": {
+        "home": "0182",
+        "menu": "0182"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

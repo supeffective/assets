@@ -96,6 +96,10 @@
         "showdownDef": "Sigilyph",
         "smogon": "sigilyph"
     },
+    "imgs": {
+        "home": "0561",
+        "menu": "0561"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -96,6 +96,10 @@
         "showdownDef": "Conkeldurr",
         "smogon": "conkeldurr"
     },
+    "imgs": {
+        "home": "0534",
+        "menu": "0534"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -101,6 +101,10 @@
         "showdownDef": "Kecleon",
         "smogon": "kecleon"
     },
+    "imgs": {
+        "home": "0352",
+        "menu": "0352"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

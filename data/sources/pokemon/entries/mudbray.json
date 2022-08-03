@@ -90,6 +90,10 @@
         "showdownDef": "Mudbray",
         "smogon": "mudbray"
     },
+    "imgs": {
+        "home": "0749",
+        "menu": "0749"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

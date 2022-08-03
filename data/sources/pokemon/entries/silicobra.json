@@ -86,6 +86,10 @@
         "showdownDef": "Silicobra",
         "smogon": "silicobra"
     },
+    "imgs": {
+        "home": "0843",
+        "menu": "0843"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

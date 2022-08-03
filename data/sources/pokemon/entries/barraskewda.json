@@ -86,6 +86,10 @@
         "showdownDef": "Barraskewda",
         "smogon": "barraskewda"
     },
+    "imgs": {
+        "home": "0847",
+        "menu": "0847"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -94,6 +94,10 @@
         "showdownDef": "Deerling-Winter",
         "smogon": "deerling-winter"
     },
+    "imgs": {
+        "home": "0585-winter",
+        "menu": "0585-winter"
+    },
     "baseSpecies": "deerling",
     "baseForms": [],
     "forms": null,

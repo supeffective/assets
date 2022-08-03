@@ -83,6 +83,10 @@
         "showdownDef": "Appletun-Gmax",
         "smogon": "appletun-gmax"
     },
+    "imgs": {
+        "home": "0842-gmax",
+        "menu": "0841-gmax"
+    },
     "baseSpecies": "appletun",
     "baseForms": [
         "appletun"

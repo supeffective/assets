@@ -105,6 +105,10 @@
         "showdownDef": "Smeargle",
         "smogon": "smeargle"
     },
+    "imgs": {
+        "home": "0235",
+        "menu": "0235"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

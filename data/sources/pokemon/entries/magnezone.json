@@ -103,6 +103,10 @@
         "showdownDef": "Magnezone",
         "smogon": "magnezone"
     },
+    "imgs": {
+        "home": "0462",
+        "menu": "0462"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

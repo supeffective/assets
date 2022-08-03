@@ -113,6 +113,10 @@
         "showdownDef": "Butterfree",
         "smogon": "butterfree"
     },
+    "imgs": {
+        "home": "0012-f",
+        "menu": "0012"
+    },
     "baseSpecies": "butterfree",
     "baseForms": [],
     "forms": null,

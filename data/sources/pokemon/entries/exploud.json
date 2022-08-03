@@ -105,6 +105,10 @@
         "showdownDef": "Exploud",
         "smogon": "exploud"
     },
+    "imgs": {
+        "home": "0295",
+        "menu": "0295"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

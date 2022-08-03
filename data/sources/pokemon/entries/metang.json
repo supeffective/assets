@@ -105,6 +105,10 @@
         "showdownDef": "Metang",
         "smogon": "metang"
     },
+    "imgs": {
+        "home": "0375",
+        "menu": "0375"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

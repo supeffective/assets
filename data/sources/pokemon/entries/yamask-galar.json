@@ -88,6 +88,10 @@
         "showdownDef": "Yamask-Galar",
         "smogon": "yamask-galar"
     },
+    "imgs": {
+        "home": "0562-galar",
+        "menu": "0562-galar"
+    },
     "baseSpecies": "yamask",
     "baseForms": [],
     "forms": null,

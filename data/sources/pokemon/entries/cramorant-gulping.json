@@ -83,6 +83,10 @@
         "showdownDef": "Cramorant-Gulping",
         "smogon": "cramorant-gulping"
     },
+    "imgs": {
+        "home": "0845-gulping",
+        "menu": "0845-gulping"
+    },
     "baseSpecies": "cramorant",
     "baseForms": [
         "cramorant"

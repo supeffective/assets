@@ -83,6 +83,10 @@
         "showdownDef": "Flapple-Gmax",
         "smogon": "flapple-gmax"
     },
+    "imgs": {
+        "home": "0841-gmax",
+        "menu": "0841-gmax"
+    },
     "baseSpecies": "flapple",
     "baseForms": [
         "flapple"

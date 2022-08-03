@@ -105,6 +105,10 @@
         "showdownDef": "Lileep",
         "smogon": "lileep"
     },
+    "imgs": {
+        "home": "0345",
+        "menu": "0345"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

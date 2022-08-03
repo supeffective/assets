@@ -88,6 +88,10 @@
         "showdownDef": "Minior-Red",
         "smogon": "minior-red"
     },
+    "imgs": {
+        "home": "0774-red",
+        "menu": "0774-red"
+    },
     "baseSpecies": "minior",
     "baseForms": [
         "minior"

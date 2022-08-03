@@ -101,6 +101,10 @@
         "showdownDef": "Shieldon",
         "smogon": "shieldon"
     },
+    "imgs": {
+        "home": "0410",
+        "menu": "0410"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -111,6 +111,10 @@
         "showdownDef": "Growlithe",
         "smogon": "growlithe"
     },
+    "imgs": {
+        "home": "0058",
+        "menu": "0058"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

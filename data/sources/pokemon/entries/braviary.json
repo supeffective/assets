@@ -96,6 +96,10 @@
         "showdownDef": "Braviary",
         "smogon": "braviary"
     },
+    "imgs": {
+        "home": "0628",
+        "menu": "0628"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

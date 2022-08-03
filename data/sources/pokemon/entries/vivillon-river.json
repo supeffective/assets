@@ -89,6 +89,10 @@
         "showdownDef": "Vivillon-River",
         "smogon": "vivillon-river"
     },
+    "imgs": {
+        "home": "0666-river",
+        "menu": "0666-river"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

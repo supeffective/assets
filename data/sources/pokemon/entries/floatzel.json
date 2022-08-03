@@ -101,6 +101,10 @@
         "showdownDef": "Floatzel",
         "smogon": "floatzel"
     },
+    "imgs": {
+        "home": "0419",
+        "menu": "0419"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

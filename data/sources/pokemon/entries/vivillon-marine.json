@@ -89,6 +89,10 @@
         "showdownDef": "Vivillon-Marine",
         "smogon": "vivillon-marine"
     },
+    "imgs": {
+        "home": "0666-marine",
+        "menu": "0666-marine"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

@@ -89,6 +89,10 @@
         "showdownDef": "Silvally-Ground",
         "smogon": "silvally-ground"
     },
+    "imgs": {
+        "home": "0773-ground",
+        "menu": "0773-ground"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

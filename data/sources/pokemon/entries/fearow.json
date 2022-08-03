@@ -109,6 +109,10 @@
         "showdownDef": "Fearow",
         "smogon": "fearow"
     },
+    "imgs": {
+        "home": "0022",
+        "menu": "0022"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

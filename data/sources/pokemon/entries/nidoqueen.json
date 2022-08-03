@@ -111,6 +111,10 @@
         "showdownDef": "Nidoqueen",
         "smogon": "nidoqueen"
     },
+    "imgs": {
+        "home": "0031",
+        "menu": "0031"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

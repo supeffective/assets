@@ -91,6 +91,10 @@
         "showdownDef": "Furfrou",
         "smogon": "furfrou"
     },
+    "imgs": {
+        "home": "0676",
+        "menu": "0676"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

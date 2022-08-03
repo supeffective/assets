@@ -111,6 +111,10 @@
         "showdownDef": "Horsea",
         "smogon": "horsea"
     },
+    "imgs": {
+        "home": "0116",
+        "menu": "0116"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

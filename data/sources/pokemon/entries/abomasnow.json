@@ -103,6 +103,10 @@
         "showdownDef": "Abomasnow",
         "smogon": "abomasnow"
     },
+    "imgs": {
+        "home": "0460",
+        "menu": "0460"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

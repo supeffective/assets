@@ -109,6 +109,10 @@
         "showdownDef": "Togetic",
         "smogon": "togetic"
     },
+    "imgs": {
+        "home": "0176",
+        "menu": "0176"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -84,6 +84,10 @@
         "showdownDef": "Sharpedo-Mega",
         "smogon": "sharpedo-mega"
     },
+    "imgs": {
+        "home": "0319-mega",
+        "menu": "0319-mega"
+    },
     "baseSpecies": "sharpedo",
     "baseForms": [
         "sharpedo"

@@ -91,6 +91,10 @@
         "showdownDef": "Furfrou-La-Reine",
         "smogon": "furfrou-la-reine"
     },
+    "imgs": {
+        "home": "0676-la-reine",
+        "menu": "0676-la-reine"
+    },
     "baseSpecies": "furfrou",
     "baseForms": [
         "furfrou"

@@ -105,6 +105,10 @@
         "showdownDef": "Wurmple",
         "smogon": "wurmple"
     },
+    "imgs": {
+        "home": "0265",
+        "menu": "0265"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

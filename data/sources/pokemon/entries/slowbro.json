@@ -111,6 +111,10 @@
         "showdownDef": "Slowbro",
         "smogon": "slowbro"
     },
+    "imgs": {
+        "home": "0080",
+        "menu": "0080"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

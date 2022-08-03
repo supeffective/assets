@@ -105,6 +105,10 @@
         "showdownDef": "Silcoon",
         "smogon": "silcoon"
     },
+    "imgs": {
+        "home": "0266",
+        "menu": "0266"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -111,6 +111,10 @@
         "showdownDef": "Dragonite",
         "smogon": "dragonite"
     },
+    "imgs": {
+        "home": "0149",
+        "menu": "0149"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

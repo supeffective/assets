@@ -102,6 +102,10 @@
         "showdownDef": "Sudowoodo",
         "smogon": "sudowoodo"
     },
+    "imgs": {
+        "home": "0185-f",
+        "menu": "0185"
+    },
     "baseSpecies": "sudowoodo",
     "baseForms": [],
     "forms": null,

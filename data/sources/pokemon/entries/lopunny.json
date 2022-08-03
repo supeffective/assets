@@ -103,6 +103,10 @@
         "showdownDef": "Lopunny",
         "smogon": "lopunny"
     },
+    "imgs": {
+        "home": "0428",
+        "menu": "0428"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

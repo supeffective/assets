@@ -85,6 +85,10 @@
         "showdownDef": "Darmanitan-Zen",
         "smogon": "darmanitan-zen"
     },
+    "imgs": {
+        "home": "0555-zen",
+        "menu": "0555-zen"
+    },
     "baseSpecies": "darmanitan",
     "baseForms": [
         "darmanitan"

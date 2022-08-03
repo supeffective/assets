@@ -86,6 +86,10 @@
         "showdownDef": "Gossifleur",
         "smogon": "gossifleur"
     },
+    "imgs": {
+        "home": "0829",
+        "menu": "0829"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

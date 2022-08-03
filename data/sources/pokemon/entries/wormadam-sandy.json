@@ -101,6 +101,10 @@
         "showdownDef": "Wormadam-Sandy",
         "smogon": "wormadam-sandy"
     },
+    "imgs": {
+        "home": "0413-sandy",
+        "menu": "0413-sandy"
+    },
     "baseSpecies": "wormadam",
     "baseForms": [],
     "forms": null,

@@ -95,6 +95,10 @@
         "showdownDef": "Genesect-Chill",
         "smogon": "genesect-chill"
     },
+    "imgs": {
+        "home": "0649-chill",
+        "menu": "0649-chill"
+    },
     "baseSpecies": "genesect",
     "baseForms": [
         "genesect"

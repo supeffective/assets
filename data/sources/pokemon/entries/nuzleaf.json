@@ -105,6 +105,10 @@
         "showdownDef": "Nuzleaf",
         "smogon": "nuzleaf"
     },
+    "imgs": {
+        "home": "0274",
+        "menu": "0274"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

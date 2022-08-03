@@ -86,6 +86,10 @@
         "showdownDef": "Rolycoly",
         "smogon": "rolycoly"
     },
+    "imgs": {
+        "home": "0837",
+        "menu": "0837"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -91,6 +91,10 @@
         "showdownDef": "Florges-Yellow",
         "smogon": "florges-yellow"
     },
+    "imgs": {
+        "home": "0671-yellow",
+        "menu": "0671-yellow"
+    },
     "baseSpecies": "florges",
     "baseForms": [],
     "forms": null,

@@ -96,6 +96,10 @@
         "showdownDef": "Ferrothorn",
         "smogon": "ferrothorn"
     },
+    "imgs": {
+        "home": "0598",
+        "menu": "0598"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

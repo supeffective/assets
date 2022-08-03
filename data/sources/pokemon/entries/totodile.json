@@ -105,6 +105,10 @@
         "showdownDef": "Totodile",
         "smogon": "totodile"
     },
+    "imgs": {
+        "home": "0158",
+        "menu": "0158"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

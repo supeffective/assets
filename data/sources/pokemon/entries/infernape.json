@@ -101,6 +101,10 @@
         "showdownDef": "Infernape",
         "smogon": "infernape"
     },
+    "imgs": {
+        "home": "0392",
+        "menu": "0392"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

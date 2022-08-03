@@ -109,6 +109,10 @@
         "showdownDef": "Porygon2",
         "smogon": "porygon2"
     },
+    "imgs": {
+        "home": "0233",
+        "menu": "0233"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

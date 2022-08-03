@@ -89,6 +89,10 @@
         "showdownDef": "Vivillon-Modern",
         "smogon": "vivillon-modern"
     },
+    "imgs": {
+        "home": "0666-modern",
+        "menu": "0666-modern"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

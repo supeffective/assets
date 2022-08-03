@@ -103,6 +103,10 @@
         "showdownDef": "Mamoswine",
         "smogon": "mamoswine"
     },
+    "imgs": {
+        "home": "0473",
+        "menu": "0473"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

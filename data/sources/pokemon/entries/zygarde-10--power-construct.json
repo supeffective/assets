@@ -90,6 +90,10 @@
         "showdownDef": "Zygarde-10",
         "smogon": "zygarde-10--power-construct"
     },
+    "imgs": {
+        "home": "0718-10",
+        "menu": "0718-10"
+    },
     "baseSpecies": "zygarde",
     "baseForms": [
         "zygarde-10"

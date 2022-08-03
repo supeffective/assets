@@ -103,6 +103,10 @@
         "showdownDef": "Zangoose",
         "smogon": "zangoose"
     },
+    "imgs": {
+        "home": "0335",
+        "menu": "0335"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

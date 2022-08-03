@@ -105,6 +105,10 @@
         "showdownDef": "Forretress",
         "smogon": "forretress"
     },
+    "imgs": {
+        "home": "0205",
+        "menu": "0205"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

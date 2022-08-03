@@ -103,6 +103,10 @@
         "showdownDef": "Spinda",
         "smogon": "spinda"
     },
+    "imgs": {
+        "home": "0327",
+        "menu": "0327"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

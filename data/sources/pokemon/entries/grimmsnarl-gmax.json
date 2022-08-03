@@ -83,6 +83,10 @@
         "showdownDef": "Grimmsnarl-Gmax",
         "smogon": "grimmsnarl-gmax"
     },
+    "imgs": {
+        "home": "0861-gmax",
+        "menu": "0861-gmax"
+    },
     "baseSpecies": "grimmsnarl",
     "baseForms": [
         "grimmsnarl"

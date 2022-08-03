@@ -96,6 +96,10 @@
         "showdownDef": "Bouffalant",
         "smogon": "bouffalant"
     },
+    "imgs": {
+        "home": "0626",
+        "menu": "0626"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

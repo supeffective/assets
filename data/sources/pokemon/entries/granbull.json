@@ -105,6 +105,10 @@
         "showdownDef": "Granbull",
         "smogon": "granbull"
     },
+    "imgs": {
+        "home": "0210",
+        "menu": "0210"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

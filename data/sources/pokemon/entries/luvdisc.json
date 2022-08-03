@@ -103,6 +103,10 @@
         "showdownDef": "Luvdisc",
         "smogon": "luvdisc"
     },
+    "imgs": {
+        "home": "0370",
+        "menu": "0370"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -93,6 +93,10 @@
         "showdownDef": "Aromatisse",
         "smogon": "aromatisse"
     },
+    "imgs": {
+        "home": "0683",
+        "menu": "0683"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

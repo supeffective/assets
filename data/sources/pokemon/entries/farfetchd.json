@@ -111,6 +111,10 @@
         "showdownDef": "Farfetchd",
         "smogon": "farfetchd"
     },
+    "imgs": {
+        "home": "0083",
+        "menu": "0083"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

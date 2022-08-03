@@ -109,6 +109,10 @@
         "showdownDef": "Mantine",
         "smogon": "mantine"
     },
+    "imgs": {
+        "home": "0226",
+        "menu": "0226"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

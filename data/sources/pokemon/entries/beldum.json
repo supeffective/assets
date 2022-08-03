@@ -105,6 +105,10 @@
         "showdownDef": "Beldum",
         "smogon": "beldum"
     },
+    "imgs": {
+        "home": "0374",
+        "menu": "0374"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

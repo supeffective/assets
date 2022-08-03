@@ -105,6 +105,10 @@
         "showdownDef": "Sunkern",
         "smogon": "sunkern"
     },
+    "imgs": {
+        "home": "0191",
+        "menu": "0191"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

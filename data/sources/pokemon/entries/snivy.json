@@ -94,6 +94,10 @@
         "showdownDef": "Snivy",
         "smogon": "snivy"
     },
+    "imgs": {
+        "home": "0495",
+        "menu": "0495"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

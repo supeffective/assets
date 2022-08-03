@@ -93,6 +93,10 @@
         "showdownDef": "Sliggoo",
         "smogon": "sliggoo"
     },
+    "imgs": {
+        "home": "0705",
+        "menu": "0705"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

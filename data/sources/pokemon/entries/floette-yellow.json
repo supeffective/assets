@@ -91,6 +91,10 @@
         "showdownDef": "Floette-Yellow",
         "smogon": "floette-yellow"
     },
+    "imgs": {
+        "home": "0670-yellow",
+        "menu": "0670-yellow"
+    },
     "baseSpecies": "floette",
     "baseForms": [],
     "forms": null,

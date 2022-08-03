@@ -84,6 +84,10 @@
         "showdownDef": "Lucario-Mega",
         "smogon": "lucario-mega"
     },
+    "imgs": {
+        "home": "0448-mega",
+        "menu": "0448-mega"
+    },
     "baseSpecies": "lucario",
     "baseForms": [
         "lucario"

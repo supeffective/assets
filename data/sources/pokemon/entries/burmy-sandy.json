@@ -101,6 +101,10 @@
         "showdownDef": "Burmy-Sandy",
         "smogon": "burmy-sandy"
     },
+    "imgs": {
+        "home": "0412-sandy",
+        "menu": "0412-sandy"
+    },
     "baseSpecies": "burmy",
     "baseForms": [
         "burmy"

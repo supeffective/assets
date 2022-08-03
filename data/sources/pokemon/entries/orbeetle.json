@@ -86,6 +86,10 @@
         "showdownDef": "Orbeetle",
         "smogon": "orbeetle"
     },
+    "imgs": {
+        "home": "0826",
+        "menu": "0826"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

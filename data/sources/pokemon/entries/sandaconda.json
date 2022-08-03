@@ -86,6 +86,10 @@
         "showdownDef": "Sandaconda",
         "smogon": "sandaconda"
     },
+    "imgs": {
+        "home": "0844",
+        "menu": "0844"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

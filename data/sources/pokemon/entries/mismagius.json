@@ -101,6 +101,10 @@
         "showdownDef": "Mismagius",
         "smogon": "mismagius"
     },
+    "imgs": {
+        "home": "0429",
+        "menu": "0429"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

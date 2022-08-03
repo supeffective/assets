@@ -86,6 +86,10 @@
         "showdownDef": "Cufant",
         "smogon": "cufant"
     },
+    "imgs": {
+        "home": "0878",
+        "menu": "0878"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

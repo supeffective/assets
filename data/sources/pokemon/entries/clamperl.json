@@ -103,6 +103,10 @@
         "showdownDef": "Clamperl",
         "smogon": "clamperl"
     },
+    "imgs": {
+        "home": "0366",
+        "menu": "0366"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

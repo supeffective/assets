@@ -86,6 +86,10 @@
         "showdownDef": "Dreepy",
         "smogon": "dreepy"
     },
+    "imgs": {
+        "home": "0885",
+        "menu": "0885"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

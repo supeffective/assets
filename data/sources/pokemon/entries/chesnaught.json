@@ -91,6 +91,10 @@
         "showdownDef": "Chesnaught",
         "smogon": "chesnaught"
     },
+    "imgs": {
+        "home": "0652",
+        "menu": "0652"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

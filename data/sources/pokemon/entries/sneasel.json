@@ -109,6 +109,10 @@
         "showdownDef": "Sneasel",
         "smogon": "sneasel"
     },
+    "imgs": {
+        "home": "0215",
+        "menu": "0215"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

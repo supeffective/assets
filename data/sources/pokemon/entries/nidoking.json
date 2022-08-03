@@ -111,6 +111,10 @@
         "showdownDef": "Nidoking",
         "smogon": "nidoking"
     },
+    "imgs": {
+        "home": "0034",
+        "menu": "0034"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

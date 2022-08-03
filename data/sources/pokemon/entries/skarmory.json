@@ -107,6 +107,10 @@
         "showdownDef": "Skarmory",
         "smogon": "skarmory"
     },
+    "imgs": {
+        "home": "0227",
+        "menu": "0227"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

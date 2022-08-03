@@ -103,6 +103,10 @@
         "showdownDef": "Happiny",
         "smogon": "happiny"
     },
+    "imgs": {
+        "home": "0440",
+        "menu": "0440"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -105,6 +105,10 @@
         "showdownDef": "Lunatone",
         "smogon": "lunatone"
     },
+    "imgs": {
+        "home": "0337",
+        "menu": "0337"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

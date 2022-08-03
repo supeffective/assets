@@ -113,6 +113,10 @@
         "showdownDef": "Tentacool",
         "smogon": "tentacool"
     },
+    "imgs": {
+        "home": "0072",
+        "menu": "0072"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

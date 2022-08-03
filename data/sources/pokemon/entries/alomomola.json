@@ -94,6 +94,10 @@
         "showdownDef": "Alomomola",
         "smogon": "alomomola"
     },
+    "imgs": {
+        "home": "0594",
+        "menu": "0594"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

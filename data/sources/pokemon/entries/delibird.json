@@ -107,6 +107,10 @@
         "showdownDef": "Delibird",
         "smogon": "delibird"
     },
+    "imgs": {
+        "home": "0225",
+        "menu": "0225"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

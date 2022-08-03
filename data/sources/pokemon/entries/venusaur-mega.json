@@ -88,6 +88,10 @@
         "showdownDef": "Venusaur-Mega",
         "smogon": "venusaur-mega"
     },
+    "imgs": {
+        "home": "0003-mega",
+        "menu": "0003-mega"
+    },
     "baseSpecies": "venusaur",
     "baseForms": [
         "venusaur",

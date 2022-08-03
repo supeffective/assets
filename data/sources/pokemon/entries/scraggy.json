@@ -96,6 +96,10 @@
         "showdownDef": "Scraggy",
         "smogon": "scraggy"
     },
+    "imgs": {
+        "home": "0559",
+        "menu": "0559"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

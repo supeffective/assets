@@ -91,6 +91,10 @@
         "showdownDef": "Flabebe",
         "smogon": "flabebe"
     },
+    "imgs": {
+        "home": "0669",
+        "menu": "0669"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

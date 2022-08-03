@@ -96,6 +96,10 @@
         "showdownDef": "Vanilluxe",
         "smogon": "vanilluxe"
     },
+    "imgs": {
+        "home": "0584",
+        "menu": "0584"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

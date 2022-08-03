@@ -89,6 +89,10 @@
         "showdownDef": "Vivillon-Polar",
         "smogon": "vivillon-polar"
     },
+    "imgs": {
+        "home": "0666-polar",
+        "menu": "0666-polar"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

@@ -94,6 +94,10 @@
         "showdownDef": "Zoroark",
         "smogon": "zoroark"
     },
+    "imgs": {
+        "home": "0571",
+        "menu": "0571"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

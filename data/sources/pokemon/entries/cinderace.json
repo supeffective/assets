@@ -86,6 +86,10 @@
         "showdownDef": "Cinderace",
         "smogon": "cinderace"
     },
+    "imgs": {
+        "home": "0815",
+        "menu": "0815"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -84,6 +84,10 @@
         "showdownDef": "Latios-Mega",
         "smogon": "latios-mega"
     },
+    "imgs": {
+        "home": "0381-mega",
+        "menu": "0381-mega"
+    },
     "baseSpecies": "latios",
     "baseForms": [
         "latios"

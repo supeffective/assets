@@ -107,6 +107,10 @@
         "showdownDef": "Wooper",
         "smogon": "wooper"
     },
+    "imgs": {
+        "home": "0194",
+        "menu": "0194"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

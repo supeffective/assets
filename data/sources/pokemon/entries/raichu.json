@@ -113,6 +113,10 @@
         "showdownDef": "Raichu",
         "smogon": "raichu"
     },
+    "imgs": {
+        "home": "0026",
+        "menu": "0026"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

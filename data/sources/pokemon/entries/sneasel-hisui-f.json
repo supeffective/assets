@@ -88,6 +88,10 @@
         "showdownDef": "Sneasel-Hisui",
         "smogon": "sneasel-hisui"
     },
+    "imgs": {
+        "home": "0215-hisui-f",
+        "menu": "0215-hisui"
+    },
     "baseSpecies": "sneasel",
     "baseForms": [],
     "forms": [],

@@ -86,6 +86,10 @@
         "showdownDef": "Nickit",
         "smogon": "nickit"
     },
+    "imgs": {
+        "home": "0827",
+        "menu": "0827"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

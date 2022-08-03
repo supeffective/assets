@@ -96,6 +96,10 @@
         "showdownDef": "Venipede",
         "smogon": "venipede"
     },
+    "imgs": {
+        "home": "0543",
+        "menu": "0543"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

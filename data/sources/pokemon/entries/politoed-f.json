@@ -100,6 +100,10 @@
         "showdownDef": "Politoed",
         "smogon": "politoed"
     },
+    "imgs": {
+        "home": "0186-f",
+        "menu": "0186"
+    },
     "baseSpecies": "politoed",
     "baseForms": [],
     "forms": null,

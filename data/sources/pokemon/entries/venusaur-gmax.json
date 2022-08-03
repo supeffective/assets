@@ -83,6 +83,10 @@
         "showdownDef": "Venusaur-Gmax",
         "smogon": "venusaur-gmax"
     },
+    "imgs": {
+        "home": "0003-gmax",
+        "menu": "0003-gmax"
+    },
     "baseSpecies": "venusaur",
     "baseForms": [
         "venusaur",

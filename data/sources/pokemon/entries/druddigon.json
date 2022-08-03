@@ -96,6 +96,10 @@
         "showdownDef": "Druddigon",
         "smogon": "druddigon"
     },
+    "imgs": {
+        "home": "0621",
+        "menu": "0621"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -98,6 +98,10 @@
         "showdownDef": "Arceus-Poison",
         "smogon": "arceus-poison"
     },
+    "imgs": {
+        "home": "0493-poison",
+        "menu": "0493-poison"
+    },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"

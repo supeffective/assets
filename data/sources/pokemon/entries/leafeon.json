@@ -103,6 +103,10 @@
         "showdownDef": "Leafeon",
         "smogon": "leafeon"
     },
+    "imgs": {
+        "home": "0470",
+        "menu": "0470"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

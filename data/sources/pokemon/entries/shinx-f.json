@@ -103,6 +103,10 @@
         "showdownDef": "Shinx",
         "smogon": "shinx-"
     },
+    "imgs": {
+        "home": "0403-f",
+        "menu": "0403"
+    },
     "baseSpecies": "shinx",
     "baseForms": [],
     "forms": null,

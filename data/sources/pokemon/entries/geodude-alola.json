@@ -92,6 +92,10 @@
         "showdownDef": "Geodude-Alola",
         "smogon": "geodude-alola"
     },
+    "imgs": {
+        "home": "0074-alola",
+        "menu": "0074-alola"
+    },
     "baseSpecies": "geodude",
     "baseForms": [],
     "forms": null,

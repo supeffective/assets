@@ -86,6 +86,10 @@
         "showdownDef": "Copperajah",
         "smogon": "copperajah"
     },
+    "imgs": {
+        "home": "0879",
+        "menu": "0879"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

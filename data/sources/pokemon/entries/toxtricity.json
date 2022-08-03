@@ -86,6 +86,10 @@
         "showdownDef": "Toxtricity",
         "smogon": "toxtricity"
     },
+    "imgs": {
+        "home": "0849",
+        "menu": "0849"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

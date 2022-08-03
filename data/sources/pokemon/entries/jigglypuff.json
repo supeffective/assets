@@ -111,6 +111,10 @@
         "showdownDef": "Jigglypuff",
         "smogon": "jigglypuff"
     },
+    "imgs": {
+        "home": "0039",
+        "menu": "0039"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

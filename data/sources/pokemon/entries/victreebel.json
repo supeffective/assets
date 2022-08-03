@@ -109,6 +109,10 @@
         "showdownDef": "Victreebel",
         "smogon": "victreebel"
     },
+    "imgs": {
+        "home": "0071",
+        "menu": "0071"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

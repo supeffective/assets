@@ -88,6 +88,10 @@
         "showdownDef": "Blacephalon",
         "smogon": "blacephalon"
     },
+    "imgs": {
+        "home": "0806",
+        "menu": "0806"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

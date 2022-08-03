@@ -88,6 +88,10 @@
         "showdownDef": "Farfetchd-Galar",
         "smogon": "farfetchd-galar"
     },
+    "imgs": {
+        "home": "0083-galar",
+        "menu": "0083-galar"
+    },
     "baseSpecies": "farfetchd",
     "baseForms": [],
     "forms": null,

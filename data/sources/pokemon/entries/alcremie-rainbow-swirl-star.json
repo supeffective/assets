@@ -86,6 +86,10 @@
         "showdownDef": "Alcremie-Rainbow-Swirl-Star",
         "smogon": "alcremie-rainbow-swirl-star"
     },
+    "imgs": {
+        "home": "0869-rainbow-swirl-star",
+        "menu": "0869-rainbow-swirl-star"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

@@ -93,6 +93,10 @@
         "showdownDef": "Pancham",
         "smogon": "pancham"
     },
+    "imgs": {
+        "home": "0674",
+        "menu": "0674"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

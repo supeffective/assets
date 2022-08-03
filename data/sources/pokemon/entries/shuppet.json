@@ -103,6 +103,10 @@
         "showdownDef": "Shuppet",
         "smogon": "shuppet"
     },
+    "imgs": {
+        "home": "0353",
+        "menu": "0353"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

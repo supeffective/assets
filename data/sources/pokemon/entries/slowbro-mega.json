@@ -85,6 +85,10 @@
         "showdownDef": "Slowbro-Mega",
         "smogon": "slowbro-mega"
     },
+    "imgs": {
+        "home": "0080-mega",
+        "menu": "0080-mega"
+    },
     "baseSpecies": "slowbro",
     "baseForms": [
         "slowbro"

@@ -92,6 +92,10 @@
         "showdownDef": "Torracat",
         "smogon": "torracat"
     },
+    "imgs": {
+        "home": "0726",
+        "menu": "0726"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

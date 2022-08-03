@@ -90,6 +90,10 @@
         "showdownDef": "Mareanie",
         "smogon": "mareanie"
     },
+    "imgs": {
+        "home": "0747",
+        "menu": "0747"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

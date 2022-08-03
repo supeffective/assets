@@ -111,6 +111,10 @@
         "showdownDef": "Nidoranm",
         "smogon": "nidoranm"
     },
+    "imgs": {
+        "home": "0032",
+        "menu": "0032"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

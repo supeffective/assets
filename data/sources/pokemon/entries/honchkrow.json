@@ -101,6 +101,10 @@
         "showdownDef": "Honchkrow",
         "smogon": "honchkrow"
     },
+    "imgs": {
+        "home": "0430",
+        "menu": "0430"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

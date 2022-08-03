@@ -113,6 +113,10 @@
         "showdownDef": "Machamp",
         "smogon": "machamp"
     },
+    "imgs": {
+        "home": "0068",
+        "menu": "0068"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

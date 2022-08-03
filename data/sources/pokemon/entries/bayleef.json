@@ -105,6 +105,10 @@
         "showdownDef": "Bayleef",
         "smogon": "bayleef"
     },
+    "imgs": {
+        "home": "0153",
+        "menu": "0153"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -88,6 +88,10 @@
         "showdownDef": "Darmanitan-Galar",
         "smogon": "darmanitan-galar"
     },
+    "imgs": {
+        "home": "0555-galar",
+        "menu": "0555-galar"
+    },
     "baseSpecies": "darmanitan",
     "baseForms": [],
     "forms": null,

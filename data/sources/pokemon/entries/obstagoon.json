@@ -88,6 +88,10 @@
         "showdownDef": "Obstagoon",
         "smogon": "obstagoon"
     },
+    "imgs": {
+        "home": "0862",
+        "menu": "0862"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

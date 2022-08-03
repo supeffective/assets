@@ -100,6 +100,10 @@
         "showdownDef": "Wobbuffet",
         "smogon": "wobbuffet"
     },
+    "imgs": {
+        "home": "0202-f",
+        "menu": "0202-f"
+    },
     "baseSpecies": "wobbuffet",
     "baseForms": [],
     "forms": null,

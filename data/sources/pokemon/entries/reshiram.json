@@ -96,6 +96,10 @@
         "showdownDef": "Reshiram",
         "smogon": "reshiram"
     },
+    "imgs": {
+        "home": "0643",
+        "menu": "0643"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

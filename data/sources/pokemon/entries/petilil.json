@@ -98,6 +98,10 @@
         "showdownDef": "Petilil",
         "smogon": "petilil"
     },
+    "imgs": {
+        "home": "0548",
+        "menu": "0548"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

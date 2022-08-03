@@ -107,6 +107,10 @@
         "showdownDef": "Xatu",
         "smogon": "xatu"
     },
+    "imgs": {
+        "home": "0178",
+        "menu": "0178"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

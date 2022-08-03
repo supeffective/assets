@@ -101,6 +101,10 @@
         "showdownDef": "Staraptor",
         "smogon": "staraptor"
     },
+    "imgs": {
+        "home": "0398",
+        "menu": "0398"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

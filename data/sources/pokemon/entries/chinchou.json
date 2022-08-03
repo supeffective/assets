@@ -107,6 +107,10 @@
         "showdownDef": "Chinchou",
         "smogon": "chinchou"
     },
+    "imgs": {
+        "home": "0170",
+        "menu": "0170"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

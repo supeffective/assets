@@ -107,6 +107,10 @@
         "showdownDef": "Marill",
         "smogon": "marill"
     },
+    "imgs": {
+        "home": "0183",
+        "menu": "0183"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

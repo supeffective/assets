@@ -96,6 +96,10 @@
         "showdownDef": "Stunfisk",
         "smogon": "stunfisk"
     },
+    "imgs": {
+        "home": "0618",
+        "menu": "0618"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

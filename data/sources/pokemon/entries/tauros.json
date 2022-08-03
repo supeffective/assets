@@ -111,6 +111,10 @@
         "showdownDef": "Tauros",
         "smogon": "tauros"
     },
+    "imgs": {
+        "home": "0128",
+        "menu": "0128"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

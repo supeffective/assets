@@ -94,6 +94,10 @@
         "showdownDef": "Panpour",
         "smogon": "panpour"
     },
+    "imgs": {
+        "home": "0515",
+        "menu": "0515"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

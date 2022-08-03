@@ -111,6 +111,10 @@
         "showdownDef": "Aerodactyl",
         "smogon": "aerodactyl"
     },
+    "imgs": {
+        "home": "0142",
+        "menu": "0142"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

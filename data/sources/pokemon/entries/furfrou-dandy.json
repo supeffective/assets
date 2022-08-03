@@ -91,6 +91,10 @@
         "showdownDef": "Furfrou-Dandy",
         "smogon": "furfrou-dandy"
     },
+    "imgs": {
+        "home": "0676-dandy",
+        "menu": "0676-dandy"
+    },
     "baseSpecies": "furfrou",
     "baseForms": [
         "furfrou"

@@ -86,6 +86,10 @@
         "showdownDef": "Alcremie-Ruby-Cream-Berry",
         "smogon": "alcremie-ruby-cream-berry"
     },
+    "imgs": {
+        "home": "0869-ruby-cream-berry",
+        "menu": "0869-ruby-cream-berry"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

@@ -86,6 +86,10 @@
         "showdownDef": "Zarude-Dada",
         "smogon": "zarude-dada"
     },
+    "imgs": {
+        "home": "0893-dada",
+        "menu": "0893-dada"
+    },
     "baseSpecies": "zarude",
     "baseForms": [],
     "forms": null,

@@ -86,6 +86,10 @@
         "showdownDef": "Raboot",
         "smogon": "raboot"
     },
+    "imgs": {
+        "home": "0814",
+        "menu": "0814"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

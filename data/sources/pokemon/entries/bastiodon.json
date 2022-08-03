@@ -101,6 +101,10 @@
         "showdownDef": "Bastiodon",
         "smogon": "bastiodon"
     },
+    "imgs": {
+        "home": "0411",
+        "menu": "0411"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -93,6 +93,10 @@
         "showdownDef": "Slurpuff",
         "smogon": "slurpuff"
     },
+    "imgs": {
+        "home": "0685",
+        "menu": "0685"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

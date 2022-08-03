@@ -107,6 +107,10 @@
         "showdownDef": "Duskull",
         "smogon": "duskull"
     },
+    "imgs": {
+        "home": "0355",
+        "menu": "0355"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

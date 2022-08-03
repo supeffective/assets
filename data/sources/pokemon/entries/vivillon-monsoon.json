@@ -89,6 +89,10 @@
         "showdownDef": "Vivillon-Monsoon",
         "smogon": "vivillon-monsoon"
     },
+    "imgs": {
+        "home": "0666-monsoon",
+        "menu": "0666-monsoon"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

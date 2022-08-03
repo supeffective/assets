@@ -93,6 +93,10 @@
         "showdownDef": "Helioptile",
         "smogon": "helioptile"
     },
+    "imgs": {
+        "home": "0694",
+        "menu": "0694"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

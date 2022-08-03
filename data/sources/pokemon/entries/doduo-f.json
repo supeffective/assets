@@ -99,6 +99,10 @@
         "showdownDef": "Doduo",
         "smogon": "doduo"
     },
+    "imgs": {
+        "home": "0084-f",
+        "menu": "0084"
+    },
     "baseSpecies": "doduo",
     "baseForms": [],
     "forms": null,

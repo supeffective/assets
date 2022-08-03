@@ -109,6 +109,10 @@
         "showdownDef": "Pidgeot",
         "smogon": "pidgeot"
     },
+    "imgs": {
+        "home": "0018",
+        "menu": "0018"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

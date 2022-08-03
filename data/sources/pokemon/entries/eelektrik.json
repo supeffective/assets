@@ -94,6 +94,10 @@
         "showdownDef": "Eelektrik",
         "smogon": "eelektrik"
     },
+    "imgs": {
+        "home": "0603",
+        "menu": "0603"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

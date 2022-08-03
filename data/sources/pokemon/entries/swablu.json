@@ -105,6 +105,10 @@
         "showdownDef": "Swablu",
         "smogon": "swablu"
     },
+    "imgs": {
+        "home": "0333",
+        "menu": "0333"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -91,6 +91,10 @@
         "showdownDef": "Furfrou-Star",
         "smogon": "furfrou-star"
     },
+    "imgs": {
+        "home": "0676-star",
+        "menu": "0676-star"
+    },
     "baseSpecies": "furfrou",
     "baseForms": [
         "furfrou"

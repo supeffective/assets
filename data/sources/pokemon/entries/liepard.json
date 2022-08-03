@@ -96,6 +96,10 @@
         "showdownDef": "Liepard",
         "smogon": "liepard"
     },
+    "imgs": {
+        "home": "0510",
+        "menu": "0510"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

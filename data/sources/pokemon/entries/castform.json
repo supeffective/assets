@@ -103,6 +103,10 @@
         "showdownDef": "Castform",
         "smogon": "castform"
     },
+    "imgs": {
+        "home": "0351",
+        "menu": "0351"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

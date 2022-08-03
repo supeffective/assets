@@ -90,6 +90,10 @@
         "showdownDef": "Cherrim-Sunshine",
         "smogon": "cherrim-sunshine"
     },
+    "imgs": {
+        "home": "0421-sunshine",
+        "menu": "0421-sunshine"
+    },
     "baseSpecies": "cherrim",
     "baseForms": [
         "cherrim"

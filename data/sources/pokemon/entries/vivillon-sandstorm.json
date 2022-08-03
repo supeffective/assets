@@ -89,6 +89,10 @@
         "showdownDef": "Vivillon-Sandstorm",
         "smogon": "vivillon-sandstorm"
     },
+    "imgs": {
+        "home": "0666-sandstorm",
+        "menu": "0666-sandstorm"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

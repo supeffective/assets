@@ -105,6 +105,10 @@
         "showdownDef": "Relicanth",
         "smogon": "relicanth"
     },
+    "imgs": {
+        "home": "0369",
+        "menu": "0369"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

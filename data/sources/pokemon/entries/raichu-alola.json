@@ -94,6 +94,10 @@
         "showdownDef": "Raichu-Alola",
         "smogon": "raichu-alola"
     },
+    "imgs": {
+        "home": "0026-alola",
+        "menu": "0026-alola"
+    },
     "baseSpecies": "raichu",
     "baseForms": [],
     "forms": null,

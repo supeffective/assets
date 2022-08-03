@@ -88,6 +88,10 @@
         "showdownDef": "Falinks",
         "smogon": "falinks"
     },
+    "imgs": {
+        "home": "0870",
+        "menu": "0870"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

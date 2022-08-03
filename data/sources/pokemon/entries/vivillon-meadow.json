@@ -89,6 +89,10 @@
         "showdownDef": "Vivillon-Meadow",
         "smogon": "vivillon-meadow"
     },
+    "imgs": {
+        "home": "0666-meadow",
+        "menu": "0666-meadow"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

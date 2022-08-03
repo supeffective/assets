@@ -101,6 +101,10 @@
         "showdownDef": "Goldeen",
         "smogon": "goldeen"
     },
+    "imgs": {
+        "home": "0118-f",
+        "menu": "0118"
+    },
     "baseSpecies": "goldeen",
     "baseForms": [],
     "forms": null,

@@ -109,6 +109,10 @@
         "showdownDef": "Beedrill",
         "smogon": "beedrill"
     },
+    "imgs": {
+        "home": "0015",
+        "menu": "0015"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

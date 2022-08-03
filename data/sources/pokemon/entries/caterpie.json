@@ -111,6 +111,10 @@
         "showdownDef": "Caterpie",
         "smogon": "caterpie"
     },
+    "imgs": {
+        "home": "0010",
+        "menu": "0010"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

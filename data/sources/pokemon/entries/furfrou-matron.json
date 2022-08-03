@@ -91,6 +91,10 @@
         "showdownDef": "Furfrou-Matron",
         "smogon": "furfrou-matron"
     },
+    "imgs": {
+        "home": "0676-matron",
+        "menu": "0676-matron"
+    },
     "baseSpecies": "furfrou",
     "baseForms": [
         "furfrou"

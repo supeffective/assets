@@ -93,6 +93,10 @@
         "showdownDef": "Pumpkaboo-Small",
         "smogon": "pumpkaboo-small"
     },
+    "imgs": {
+        "home": "0710-small",
+        "menu": "0710-small"
+    },
     "baseSpecies": "pumpkaboo",
     "baseForms": [],
     "forms": null,

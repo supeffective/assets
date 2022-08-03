@@ -92,6 +92,10 @@
         "showdownDef": "Grimer-Alola",
         "smogon": "grimer-alola"
     },
+    "imgs": {
+        "home": "0088-alola",
+        "menu": "0088-alola"
+    },
     "baseSpecies": "grimer",
     "baseForms": [],
     "forms": null,

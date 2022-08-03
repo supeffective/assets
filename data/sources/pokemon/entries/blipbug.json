@@ -86,6 +86,10 @@
         "showdownDef": "Blipbug",
         "smogon": "blipbug"
     },
+    "imgs": {
+        "home": "0824",
+        "menu": "0824"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

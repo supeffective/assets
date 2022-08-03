@@ -103,6 +103,10 @@
         "showdownDef": "Scyther",
         "smogon": "scyther"
     },
+    "imgs": {
+        "home": "0123-f",
+        "menu": "0123"
+    },
     "baseSpecies": "scyther",
     "baseForms": [],
     "forms": null,

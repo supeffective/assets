@@ -86,6 +86,10 @@
         "showdownDef": "Spectrier",
         "smogon": "spectrier"
     },
+    "imgs": {
+        "home": "0897",
+        "menu": "0897"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

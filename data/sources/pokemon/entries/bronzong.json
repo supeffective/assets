@@ -103,6 +103,10 @@
         "showdownDef": "Bronzong",
         "smogon": "bronzong"
     },
+    "imgs": {
+        "home": "0437",
+        "menu": "0437"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

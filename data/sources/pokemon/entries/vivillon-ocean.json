@@ -89,6 +89,10 @@
         "showdownDef": "Vivillon-Ocean",
         "smogon": "vivillon-ocean"
     },
+    "imgs": {
+        "home": "0666-ocean",
+        "menu": "0666-ocean"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

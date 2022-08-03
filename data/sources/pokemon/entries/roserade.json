@@ -103,6 +103,10 @@
         "showdownDef": "Roserade",
         "smogon": "roserade"
     },
+    "imgs": {
+        "home": "0407",
+        "menu": "0407"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

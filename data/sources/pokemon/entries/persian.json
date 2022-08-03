@@ -111,6 +111,10 @@
         "showdownDef": "Persian",
         "smogon": "persian"
     },
+    "imgs": {
+        "home": "0053",
+        "menu": "0053"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -96,6 +96,10 @@
         "showdownDef": "Krookodile",
         "smogon": "krookodile"
     },
+    "imgs": {
+        "home": "0553",
+        "menu": "0553"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

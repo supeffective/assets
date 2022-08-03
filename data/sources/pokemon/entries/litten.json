@@ -92,6 +92,10 @@
         "showdownDef": "Litten",
         "smogon": "litten"
     },
+    "imgs": {
+        "home": "0725",
+        "menu": "0725"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

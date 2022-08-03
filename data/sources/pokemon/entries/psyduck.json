@@ -113,6 +113,10 @@
         "showdownDef": "Psyduck",
         "smogon": "psyduck"
     },
+    "imgs": {
+        "home": "0054",
+        "menu": "0054"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

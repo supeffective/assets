@@ -86,6 +86,10 @@
         "showdownDef": "Dragapult",
         "smogon": "dragapult"
     },
+    "imgs": {
+        "home": "0887",
+        "menu": "0887"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

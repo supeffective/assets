@@ -111,6 +111,10 @@
         "showdownDef": "Exeggutor",
         "smogon": "exeggutor"
     },
+    "imgs": {
+        "home": "0103",
+        "menu": "0103"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

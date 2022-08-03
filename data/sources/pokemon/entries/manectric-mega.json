@@ -84,6 +84,10 @@
         "showdownDef": "Manectric-Mega",
         "smogon": "manectric-mega"
     },
+    "imgs": {
+        "home": "0310-mega",
+        "menu": "0310-mega"
+    },
     "baseSpecies": "manectric",
     "baseForms": [
         "manectric"

@@ -85,6 +85,10 @@
         "showdownDef": "Zygarde-Complete",
         "smogon": "zygarde-complete"
     },
+    "imgs": {
+        "home": "0718-complete",
+        "menu": "0718-complete"
+    },
     "baseSpecies": "zygarde",
     "baseForms": [
         "zygarde--power-construct",

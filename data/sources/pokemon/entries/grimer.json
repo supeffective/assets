@@ -109,6 +109,10 @@
         "showdownDef": "Grimer",
         "smogon": "grimer"
     },
+    "imgs": {
+        "home": "0088",
+        "menu": "0088"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

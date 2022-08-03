@@ -89,6 +89,10 @@
         "showdownDef": "Silvally-Fairy",
         "smogon": "silvally-fairy"
     },
+    "imgs": {
+        "home": "0773-fairy",
+        "menu": "0773-fairy"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

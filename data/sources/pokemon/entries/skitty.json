@@ -103,6 +103,10 @@
         "showdownDef": "Skitty",
         "smogon": "skitty"
     },
+    "imgs": {
+        "home": "0300",
+        "menu": "0300"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

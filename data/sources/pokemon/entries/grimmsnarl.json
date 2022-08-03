@@ -86,6 +86,10 @@
         "showdownDef": "Grimmsnarl",
         "smogon": "grimmsnarl"
     },
+    "imgs": {
+        "home": "0861",
+        "menu": "0861"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

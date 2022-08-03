@@ -91,6 +91,10 @@
         "showdownDef": "Floette",
         "smogon": "floette"
     },
+    "imgs": {
+        "home": "0670",
+        "menu": "0670"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -88,6 +88,10 @@
         "showdownDef": "Crabominable",
         "smogon": "crabominable"
     },
+    "imgs": {
+        "home": "0740",
+        "menu": "0740"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

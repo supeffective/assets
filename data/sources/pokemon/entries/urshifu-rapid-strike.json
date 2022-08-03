@@ -86,6 +86,10 @@
         "showdownDef": "Urshifu-Rapid-Strike",
         "smogon": "urshifu-rapid-strike"
     },
+    "imgs": {
+        "home": "0892-rapid-strike",
+        "menu": "0892"
+    },
     "baseSpecies": "urshifu",
     "baseForms": [],
     "forms": null,

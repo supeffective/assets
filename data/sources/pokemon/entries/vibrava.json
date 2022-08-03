@@ -105,6 +105,10 @@
         "showdownDef": "Vibrava",
         "smogon": "vibrava"
     },
+    "imgs": {
+        "home": "0329",
+        "menu": "0329"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

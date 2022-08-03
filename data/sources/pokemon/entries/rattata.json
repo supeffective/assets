@@ -109,6 +109,10 @@
         "showdownDef": "Rattata",
         "smogon": "rattata"
     },
+    "imgs": {
+        "home": "0019",
+        "menu": "0019"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

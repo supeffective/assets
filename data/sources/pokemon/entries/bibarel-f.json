@@ -101,6 +101,10 @@
         "showdownDef": "Bibarel",
         "smogon": "bibarel"
     },
+    "imgs": {
+        "home": "0400-f",
+        "menu": "0400"
+    },
     "baseSpecies": "bibarel",
     "baseForms": [],
     "forms": null,

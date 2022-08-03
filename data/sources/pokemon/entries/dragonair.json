@@ -111,6 +111,10 @@
         "showdownDef": "Dragonair",
         "smogon": "dragonair"
     },
+    "imgs": {
+        "home": "0148",
+        "menu": "0148"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

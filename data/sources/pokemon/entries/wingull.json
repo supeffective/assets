@@ -105,6 +105,10 @@
         "showdownDef": "Wingull",
         "smogon": "wingull"
     },
+    "imgs": {
+        "home": "0278",
+        "menu": "0278"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

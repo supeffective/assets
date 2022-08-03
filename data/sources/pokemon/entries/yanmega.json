@@ -101,6 +101,10 @@
         "showdownDef": "Yanmega",
         "smogon": "yanmega"
     },
+    "imgs": {
+        "home": "0469",
+        "menu": "0469"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

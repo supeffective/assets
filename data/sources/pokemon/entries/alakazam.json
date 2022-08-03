@@ -113,6 +113,10 @@
         "showdownDef": "Alakazam",
         "smogon": "alakazam"
     },
+    "imgs": {
+        "home": "0065",
+        "menu": "0065"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

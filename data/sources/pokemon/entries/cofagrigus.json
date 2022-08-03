@@ -96,6 +96,10 @@
         "showdownDef": "Cofagrigus",
         "smogon": "cofagrigus"
     },
+    "imgs": {
+        "home": "0563",
+        "menu": "0563"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

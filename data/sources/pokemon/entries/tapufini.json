@@ -92,6 +92,10 @@
         "showdownDef": "Tapufini",
         "smogon": "tapufini"
     },
+    "imgs": {
+        "home": "0788",
+        "menu": "0788"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

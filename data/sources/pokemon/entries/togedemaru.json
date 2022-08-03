@@ -90,6 +90,10 @@
         "showdownDef": "Togedemaru",
         "smogon": "togedemaru"
     },
+    "imgs": {
+        "home": "0777",
+        "menu": "0777"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

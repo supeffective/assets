@@ -86,6 +86,10 @@
         "showdownDef": "Greninja-Ash",
         "smogon": "greninja-ash"
     },
+    "imgs": {
+        "home": "0658-ash",
+        "menu": "0658-ash"
+    },
     "baseSpecies": "greninja",
     "baseForms": [
         "greninja--battle-bond"

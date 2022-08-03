@@ -103,6 +103,10 @@
         "showdownDef": "Seviper",
         "smogon": "seviper"
     },
+    "imgs": {
+        "home": "0336",
+        "menu": "0336"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

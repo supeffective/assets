@@ -107,6 +107,10 @@
         "showdownDef": "Misdreavus",
         "smogon": "misdreavus"
     },
+    "imgs": {
+        "home": "0200",
+        "menu": "0200"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

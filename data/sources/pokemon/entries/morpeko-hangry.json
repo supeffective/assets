@@ -83,6 +83,10 @@
         "showdownDef": "Morpeko-Hangry",
         "smogon": "morpeko-hangry"
     },
+    "imgs": {
+        "home": "0877-hangry",
+        "menu": "0877-hangry"
+    },
     "baseSpecies": "morpeko",
     "baseForms": [
         "morpeko"

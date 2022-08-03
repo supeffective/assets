@@ -105,6 +105,10 @@
         "showdownDef": "Pelipper",
         "smogon": "pelipper"
     },
+    "imgs": {
+        "home": "0279",
+        "menu": "0279"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

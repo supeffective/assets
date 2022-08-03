@@ -92,6 +92,10 @@
         "showdownDef": "Necrozma-Ultra",
         "smogon": "necrozma-ultra"
     },
+    "imgs": {
+        "home": "0800-ultra",
+        "menu": "0800-ultra"
+    },
     "baseSpecies": "necrozma",
     "baseForms": [
         "necrozma-dusk-mane",

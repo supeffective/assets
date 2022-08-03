@@ -88,6 +88,10 @@
         "showdownDef": "Meltan",
         "smogon": "meltan"
     },
+    "imgs": {
+        "home": "0808",
+        "menu": "0808"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

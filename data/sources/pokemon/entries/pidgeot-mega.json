@@ -85,6 +85,10 @@
         "showdownDef": "Pidgeot-Mega",
         "smogon": "pidgeot-mega"
     },
+    "imgs": {
+        "home": "0018-mega",
+        "menu": "0018-mega"
+    },
     "baseSpecies": "pidgeot",
     "baseForms": [
         "pidgeot"

@@ -105,6 +105,10 @@
         "showdownDef": "Sceptile",
         "smogon": "sceptile"
     },
+    "imgs": {
+        "home": "0254",
+        "menu": "0254"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

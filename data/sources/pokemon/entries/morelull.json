@@ -90,6 +90,10 @@
         "showdownDef": "Morelull",
         "smogon": "morelull"
     },
+    "imgs": {
+        "home": "0755",
+        "menu": "0755"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

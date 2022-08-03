@@ -94,6 +94,10 @@
         "showdownDef": "Deerling",
         "smogon": "deerling"
     },
+    "imgs": {
+        "home": "0585",
+        "menu": "0585"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

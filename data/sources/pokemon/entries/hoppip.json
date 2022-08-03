@@ -105,6 +105,10 @@
         "showdownDef": "Hoppip",
         "smogon": "hoppip"
     },
+    "imgs": {
+        "home": "0187",
+        "menu": "0187"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

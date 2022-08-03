@@ -96,6 +96,10 @@
         "showdownDef": "Krokorok",
         "smogon": "krokorok"
     },
+    "imgs": {
+        "home": "0552",
+        "menu": "0552"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

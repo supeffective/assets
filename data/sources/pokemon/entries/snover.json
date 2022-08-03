@@ -103,6 +103,10 @@
         "showdownDef": "Snover",
         "smogon": "snover"
     },
+    "imgs": {
+        "home": "0459",
+        "menu": "0459"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

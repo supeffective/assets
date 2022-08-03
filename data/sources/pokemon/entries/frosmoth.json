@@ -86,6 +86,10 @@
         "showdownDef": "Frosmoth",
         "smogon": "frosmoth"
     },
+    "imgs": {
+        "home": "0873",
+        "menu": "0873"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

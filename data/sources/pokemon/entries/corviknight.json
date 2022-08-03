@@ -86,6 +86,10 @@
         "showdownDef": "Corviknight",
         "smogon": "corviknight"
     },
+    "imgs": {
+        "home": "0823",
+        "menu": "0823"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -105,6 +105,10 @@
         "showdownDef": "Cascoon",
         "smogon": "cascoon"
     },
+    "imgs": {
+        "home": "0268",
+        "menu": "0268"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

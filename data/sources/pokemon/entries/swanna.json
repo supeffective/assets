@@ -94,6 +94,10 @@
         "showdownDef": "Swanna",
         "smogon": "swanna"
     },
+    "imgs": {
+        "home": "0581",
+        "menu": "0581"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

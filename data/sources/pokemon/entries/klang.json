@@ -96,6 +96,10 @@
         "showdownDef": "Klang",
         "smogon": "klang"
     },
+    "imgs": {
+        "home": "0600",
+        "menu": "0600"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -101,6 +101,10 @@
         "showdownDef": "Rampardos",
         "smogon": "rampardos"
     },
+    "imgs": {
+        "home": "0409",
+        "menu": "0409"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -90,6 +90,10 @@
         "showdownDef": "Solgaleo",
         "smogon": "solgaleo"
     },
+    "imgs": {
+        "home": "0791",
+        "menu": "0791"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

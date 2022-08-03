@@ -101,6 +101,10 @@
         "showdownDef": "Torterra",
         "smogon": "torterra"
     },
+    "imgs": {
+        "home": "0389",
+        "menu": "0389"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

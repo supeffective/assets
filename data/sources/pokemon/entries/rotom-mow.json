@@ -101,6 +101,10 @@
         "showdownDef": "Rotom-Mow",
         "smogon": "rotom-mow"
     },
+    "imgs": {
+        "home": "0479-mow",
+        "menu": "0479-mow"
+    },
     "baseSpecies": "rotom",
     "baseForms": [
         "rotom"

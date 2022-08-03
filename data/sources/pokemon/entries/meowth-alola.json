@@ -94,6 +94,10 @@
         "showdownDef": "Meowth-Alola",
         "smogon": "meowth-alola"
     },
+    "imgs": {
+        "home": "0052-alola",
+        "menu": "0052-alola"
+    },
     "baseSpecies": "meowth",
     "baseForms": [],
     "forms": null,

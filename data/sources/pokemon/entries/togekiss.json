@@ -103,6 +103,10 @@
         "showdownDef": "Togekiss",
         "smogon": "togekiss"
     },
+    "imgs": {
+        "home": "0468",
+        "menu": "0468"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

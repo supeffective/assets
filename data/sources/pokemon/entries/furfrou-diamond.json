@@ -91,6 +91,10 @@
         "showdownDef": "Furfrou-Diamond",
         "smogon": "furfrou-diamond"
     },
+    "imgs": {
+        "home": "0676-diamond",
+        "menu": "0676-diamond"
+    },
     "baseSpecies": "furfrou",
     "baseForms": [
         "furfrou"

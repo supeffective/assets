@@ -96,6 +96,10 @@
         "showdownDef": "Deino",
         "smogon": "deino"
     },
+    "imgs": {
+        "home": "0633",
+        "menu": "0633"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -96,6 +96,10 @@
         "showdownDef": "Trubbish",
         "smogon": "trubbish"
     },
+    "imgs": {
+        "home": "0568",
+        "menu": "0568"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

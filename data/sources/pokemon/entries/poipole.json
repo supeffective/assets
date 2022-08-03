@@ -88,6 +88,10 @@
         "showdownDef": "Poipole",
         "smogon": "poipole"
     },
+    "imgs": {
+        "home": "0803",
+        "menu": "0803"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

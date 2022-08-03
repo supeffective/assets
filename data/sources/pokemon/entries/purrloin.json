@@ -96,6 +96,10 @@
         "showdownDef": "Purrloin",
         "smogon": "purrloin"
     },
+    "imgs": {
+        "home": "0509",
+        "menu": "0509"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -101,6 +101,10 @@
         "showdownDef": "Bidoof",
         "smogon": "bidoof"
     },
+    "imgs": {
+        "home": "0399",
+        "menu": "0399"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -93,6 +93,10 @@
         "showdownDef": "Avalugg",
         "smogon": "avalugg"
     },
+    "imgs": {
+        "home": "0713",
+        "menu": "0713"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -96,6 +96,10 @@
         "showdownDef": "Musharna",
         "smogon": "musharna"
     },
+    "imgs": {
+        "home": "0518",
+        "menu": "0518"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

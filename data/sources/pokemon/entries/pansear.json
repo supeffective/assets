@@ -94,6 +94,10 @@
         "showdownDef": "Pansear",
         "smogon": "pansear"
     },
+    "imgs": {
+        "home": "0513",
+        "menu": "0513"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

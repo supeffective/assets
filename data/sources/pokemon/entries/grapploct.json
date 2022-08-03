@@ -86,6 +86,10 @@
         "showdownDef": "Grapploct",
         "smogon": "grapploct"
     },
+    "imgs": {
+        "home": "0853",
+        "menu": "0853"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

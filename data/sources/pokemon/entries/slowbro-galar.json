@@ -88,6 +88,10 @@
         "showdownDef": "Slowbro-Galar",
         "smogon": "slowbro-galar"
     },
+    "imgs": {
+        "home": "0080-galar",
+        "menu": "0080-galar"
+    },
     "baseSpecies": "slowbro",
     "baseForms": [],
     "forms": null,

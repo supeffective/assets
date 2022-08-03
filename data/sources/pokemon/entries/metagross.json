@@ -105,6 +105,10 @@
         "showdownDef": "Metagross",
         "smogon": "metagross"
     },
+    "imgs": {
+        "home": "0376",
+        "menu": "0376"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

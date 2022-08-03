@@ -90,6 +90,10 @@
         "showdownDef": "Wishiwashi",
         "smogon": "wishiwashi"
     },
+    "imgs": {
+        "home": "0746",
+        "menu": "0746"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

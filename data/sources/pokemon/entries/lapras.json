@@ -111,6 +111,10 @@
         "showdownDef": "Lapras",
         "smogon": "lapras"
     },
+    "imgs": {
+        "home": "0131",
+        "menu": "0131"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -81,6 +81,10 @@
         "showdownDef": "Eternatus-Eternamax",
         "smogon": "eternatus-eternamax"
     },
+    "imgs": {
+        "home": "0890-eternamax",
+        "menu": "0890-eternamax"
+    },
     "baseSpecies": "eternatus",
     "baseForms": [
         "eternatus"

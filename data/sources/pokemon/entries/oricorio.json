@@ -90,6 +90,10 @@
         "showdownDef": "Oricorio",
         "smogon": "oricorio"
     },
+    "imgs": {
+        "home": "0741",
+        "menu": "0741"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

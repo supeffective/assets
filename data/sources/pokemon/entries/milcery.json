@@ -86,6 +86,10 @@
         "showdownDef": "Milcery",
         "smogon": "milcery"
     },
+    "imgs": {
+        "home": "0868",
+        "menu": "0868"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

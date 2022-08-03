@@ -96,6 +96,10 @@
         "showdownDef": "Audino",
         "smogon": "audino"
     },
+    "imgs": {
+        "home": "0531",
+        "menu": "0531"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

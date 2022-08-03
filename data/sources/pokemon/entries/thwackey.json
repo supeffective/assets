@@ -86,6 +86,10 @@
         "showdownDef": "Thwackey",
         "smogon": "thwackey"
     },
+    "imgs": {
+        "home": "0811",
+        "menu": "0811"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

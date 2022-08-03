@@ -96,6 +96,10 @@
         "showdownDef": "Gigalith",
         "smogon": "gigalith"
     },
+    "imgs": {
+        "home": "0526",
+        "menu": "0526"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -94,6 +94,10 @@
         "showdownDef": "Samurott",
         "smogon": "samurott"
     },
+    "imgs": {
+        "home": "0503",
+        "menu": "0503"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

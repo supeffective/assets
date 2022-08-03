@@ -98,6 +98,10 @@
         "showdownDef": "Camerupt",
         "smogon": "camerupt"
     },
+    "imgs": {
+        "home": "0323-f",
+        "menu": "0323"
+    },
     "baseSpecies": "camerupt",
     "baseForms": [],
     "forms": null,

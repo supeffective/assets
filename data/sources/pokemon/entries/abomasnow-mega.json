@@ -84,6 +84,10 @@
         "showdownDef": "Abomasnow-Mega",
         "smogon": "abomasnow-mega"
     },
+    "imgs": {
+        "home": "0460-mega",
+        "menu": "0460-mega"
+    },
     "baseSpecies": "abomasnow",
     "baseForms": [
         "abomasnow"

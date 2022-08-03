@@ -103,6 +103,10 @@
         "showdownDef": "Cacnea",
         "smogon": "cacnea"
     },
+    "imgs": {
+        "home": "0331",
+        "menu": "0331"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

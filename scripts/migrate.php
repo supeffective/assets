@@ -98,6 +98,10 @@ require_once __DIR__ . '/_bootstrap.php';
         "homeSprite": null,
         "miniSprite": null
     },
+    "imgs": {
+        "home": null,
+        "menu": null
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [],

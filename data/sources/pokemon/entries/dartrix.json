@@ -94,6 +94,10 @@
         "showdownDef": "Dartrix",
         "smogon": "dartrix"
     },
+    "imgs": {
+        "home": "0723",
+        "menu": "0723"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

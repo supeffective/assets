@@ -92,6 +92,10 @@
         "showdownDef": "Rattata-Alola",
         "smogon": "rattata-alola"
     },
+    "imgs": {
+        "home": "0019-alola",
+        "menu": "0019-alola"
+    },
     "baseSpecies": "rattata",
     "baseForms": [],
     "forms": null,

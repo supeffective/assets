@@ -88,6 +88,10 @@
         "showdownDef": "Lycanroc-Dusk",
         "smogon": "lycanroc-dusk"
     },
+    "imgs": {
+        "home": "0745-dusk",
+        "menu": "0745-dusk"
+    },
     "baseSpecies": "lycanroc",
     "baseForms": [],
     "forms": null,

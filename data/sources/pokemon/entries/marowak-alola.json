@@ -94,6 +94,10 @@
         "showdownDef": "Marowak-Alola",
         "smogon": "marowak-alola"
     },
+    "imgs": {
+        "home": "0105-alola",
+        "menu": "0105-alola"
+    },
     "baseSpecies": "marowak",
     "baseForms": [],
     "forms": null,

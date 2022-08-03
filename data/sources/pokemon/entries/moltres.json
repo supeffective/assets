@@ -111,6 +111,10 @@
         "showdownDef": "Moltres",
         "smogon": "moltres"
     },
+    "imgs": {
+        "home": "0146",
+        "menu": "0146"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

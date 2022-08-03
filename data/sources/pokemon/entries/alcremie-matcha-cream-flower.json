@@ -86,6 +86,10 @@
         "showdownDef": "Alcremie-Matcha-Cream-Flower",
         "smogon": "alcremie-matcha-cream-flower"
     },
+    "imgs": {
+        "home": "0869-matcha-cream-flower",
+        "menu": "0869-matcha-cream-flower"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

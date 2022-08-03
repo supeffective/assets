@@ -88,6 +88,10 @@
         "showdownDef": "Melmetal",
         "smogon": "melmetal"
     },
+    "imgs": {
+        "home": "0809",
+        "menu": "0809"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

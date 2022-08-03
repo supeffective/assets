@@ -105,6 +105,10 @@
         "showdownDef": "Pineco",
         "smogon": "pineco"
     },
+    "imgs": {
+        "home": "0204",
+        "menu": "0204"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

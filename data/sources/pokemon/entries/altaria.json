@@ -105,6 +105,10 @@
         "showdownDef": "Altaria",
         "smogon": "altaria"
     },
+    "imgs": {
+        "home": "0334",
+        "menu": "0334"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

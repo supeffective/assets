@@ -107,6 +107,10 @@
         "showdownDef": "Walrein",
         "smogon": "walrein"
     },
+    "imgs": {
+        "home": "0365",
+        "menu": "0365"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

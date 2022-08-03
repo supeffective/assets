@@ -107,6 +107,10 @@
         "showdownDef": "Roselia",
         "smogon": "roselia"
     },
+    "imgs": {
+        "home": "0315",
+        "menu": "0315"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

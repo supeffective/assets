@@ -111,6 +111,10 @@
         "showdownDef": "Gloom",
         "smogon": "gloom"
     },
+    "imgs": {
+        "home": "0044",
+        "menu": "0044"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

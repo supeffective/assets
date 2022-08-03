@@ -96,6 +96,10 @@
         "showdownDef": "Golett",
         "smogon": "golett"
     },
+    "imgs": {
+        "home": "0622",
+        "menu": "0622"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

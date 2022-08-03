@@ -94,6 +94,10 @@
         "showdownDef": "Diglett-Alola",
         "smogon": "diglett-alola"
     },
+    "imgs": {
+        "home": "0050-alola",
+        "menu": "0050-alola"
+    },
     "baseSpecies": "diglett",
     "baseForms": [],
     "forms": null,

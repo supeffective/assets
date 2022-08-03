@@ -101,6 +101,10 @@
         "showdownDef": "Monferno",
         "smogon": "monferno"
     },
+    "imgs": {
+        "home": "0391",
+        "menu": "0391"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

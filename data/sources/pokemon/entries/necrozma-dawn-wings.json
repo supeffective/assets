@@ -92,6 +92,10 @@
         "showdownDef": "Necrozma-Dawn-Wings",
         "smogon": "necrozma-dawn-wings"
     },
+    "imgs": {
+        "home": "0800-dawn-wings",
+        "menu": "0800-dawn-wings"
+    },
     "baseSpecies": "necrozma",
     "baseForms": [
         "necrozma"

@@ -103,6 +103,10 @@
         "showdownDef": "Gorebyss",
         "smogon": "gorebyss"
     },
+    "imgs": {
+        "home": "0368",
+        "menu": "0368"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

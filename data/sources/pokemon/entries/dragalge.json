@@ -93,6 +93,10 @@
         "showdownDef": "Dragalge",
         "smogon": "dragalge"
     },
+    "imgs": {
+        "home": "0691",
+        "menu": "0691"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -105,6 +105,10 @@
         "showdownDef": "Grovyle",
         "smogon": "grovyle"
     },
+    "imgs": {
+        "home": "0253",
+        "menu": "0253"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

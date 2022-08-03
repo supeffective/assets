@@ -107,6 +107,10 @@
         "showdownDef": "Dusclops",
         "smogon": "dusclops"
     },
+    "imgs": {
+        "home": "0356",
+        "menu": "0356"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

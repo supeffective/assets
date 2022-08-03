@@ -93,6 +93,10 @@
         "showdownDef": "Tyrantrum",
         "smogon": "tyrantrum"
     },
+    "imgs": {
+        "home": "0697",
+        "menu": "0697"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -86,6 +86,10 @@
         "showdownDef": "Carkol",
         "smogon": "carkol"
     },
+    "imgs": {
+        "home": "0838",
+        "menu": "0838"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

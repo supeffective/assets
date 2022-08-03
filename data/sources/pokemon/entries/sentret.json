@@ -105,6 +105,10 @@
         "showdownDef": "Sentret",
         "smogon": "sentret"
     },
+    "imgs": {
+        "home": "0161",
+        "menu": "0161"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

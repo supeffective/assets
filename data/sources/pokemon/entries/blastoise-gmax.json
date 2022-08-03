@@ -83,6 +83,10 @@
         "showdownDef": "Blastoise-Gmax",
         "smogon": "blastoise-gmax"
     },
+    "imgs": {
+        "home": "0009-gmax",
+        "menu": "0009-gmax"
+    },
     "baseSpecies": "blastoise",
     "baseForms": [
         "blastoise"

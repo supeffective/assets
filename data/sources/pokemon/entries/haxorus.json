@@ -96,6 +96,10 @@
         "showdownDef": "Haxorus",
         "smogon": "haxorus"
     },
+    "imgs": {
+        "home": "0612",
+        "menu": "0612"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

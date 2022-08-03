@@ -111,6 +111,10 @@
         "showdownDef": "Poliwhirl",
         "smogon": "poliwhirl"
     },
+    "imgs": {
+        "home": "0061",
+        "menu": "0061"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

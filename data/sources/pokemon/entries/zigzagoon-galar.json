@@ -88,6 +88,10 @@
         "showdownDef": "Zigzagoon-Galar",
         "smogon": "zigzagoon-galar"
     },
+    "imgs": {
+        "home": "0263-galar",
+        "menu": "0263-galar"
+    },
     "baseSpecies": "zigzagoon",
     "baseForms": [],
     "forms": null,

@@ -107,6 +107,10 @@
         "showdownDef": "Ralts",
         "smogon": "ralts"
     },
+    "imgs": {
+        "home": "0280",
+        "menu": "0280"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

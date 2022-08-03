@@ -88,6 +88,10 @@
         "showdownDef": "Darumaka-Galar",
         "smogon": "darumaka-galar"
     },
+    "imgs": {
+        "home": "0554-galar",
+        "menu": "0554-galar"
+    },
     "baseSpecies": "darumaka",
     "baseForms": [],
     "forms": null,

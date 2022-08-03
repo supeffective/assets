@@ -96,6 +96,10 @@
         "showdownDef": "Gothitelle",
         "smogon": "gothitelle"
     },
+    "imgs": {
+        "home": "0576",
+        "menu": "0576"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

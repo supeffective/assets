@@ -98,6 +98,10 @@
         "showdownDef": "Deoxys-Speed",
         "smogon": "deoxys-speed"
     },
+    "imgs": {
+        "home": "0386-speed",
+        "menu": "0386-speed"
+    },
     "baseSpecies": "deoxys",
     "baseForms": [
         "deoxys"

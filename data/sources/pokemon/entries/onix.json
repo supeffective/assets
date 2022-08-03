@@ -113,6 +113,10 @@
         "showdownDef": "Onix",
         "smogon": "onix"
     },
+    "imgs": {
+        "home": "0095",
+        "menu": "0095"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

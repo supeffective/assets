@@ -95,6 +95,10 @@
         "showdownDef": "Bergmite",
         "smogon": "bergmite"
     },
+    "imgs": {
+        "home": "0712",
+        "menu": "0712"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

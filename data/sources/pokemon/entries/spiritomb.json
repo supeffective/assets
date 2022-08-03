@@ -103,6 +103,10 @@
         "showdownDef": "Spiritomb",
         "smogon": "spiritomb"
     },
+    "imgs": {
+        "home": "0442",
+        "menu": "0442"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

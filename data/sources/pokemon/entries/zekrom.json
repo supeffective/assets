@@ -96,6 +96,10 @@
         "showdownDef": "Zekrom",
         "smogon": "zekrom"
     },
+    "imgs": {
+        "home": "0644",
+        "menu": "0644"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

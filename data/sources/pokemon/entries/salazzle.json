@@ -92,6 +92,10 @@
         "showdownDef": "Salazzle",
         "smogon": "salazzle"
     },
+    "imgs": {
+        "home": "0758",
+        "menu": "0758"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

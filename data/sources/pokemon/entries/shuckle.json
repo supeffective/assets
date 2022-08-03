@@ -107,6 +107,10 @@
         "showdownDef": "Shuckle",
         "smogon": "shuckle"
     },
+    "imgs": {
+        "home": "0213",
+        "menu": "0213"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

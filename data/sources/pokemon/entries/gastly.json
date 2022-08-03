@@ -113,6 +113,10 @@
         "showdownDef": "Gastly",
         "smogon": "gastly"
     },
+    "imgs": {
+        "home": "0092",
+        "menu": "0092"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

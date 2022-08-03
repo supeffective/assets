@@ -111,6 +111,10 @@
         "showdownDef": "Charmeleon",
         "smogon": "charmeleon"
     },
+    "imgs": {
+        "home": "0005",
+        "menu": "0005"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

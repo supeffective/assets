@@ -92,6 +92,10 @@
         "showdownDef": "Xurkitree",
         "smogon": "xurkitree"
     },
+    "imgs": {
+        "home": "0796",
+        "menu": "0796"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

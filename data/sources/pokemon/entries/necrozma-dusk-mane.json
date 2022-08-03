@@ -92,6 +92,10 @@
         "showdownDef": "Necrozma-Dusk-Mane",
         "smogon": "necrozma-dusk-mane"
     },
+    "imgs": {
+        "home": "0800-dusk-mane",
+        "menu": "0800-dusk-mane"
+    },
     "baseSpecies": "necrozma",
     "baseForms": [
         "necrozma"

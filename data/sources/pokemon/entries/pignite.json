@@ -94,6 +94,10 @@
         "showdownDef": "Pignite",
         "smogon": "pignite"
     },
+    "imgs": {
+        "home": "0499",
+        "menu": "0499"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

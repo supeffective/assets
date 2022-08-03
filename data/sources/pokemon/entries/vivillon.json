@@ -89,6 +89,10 @@
         "showdownDef": "Vivillon",
         "smogon": "vivillon"
     },
+    "imgs": {
+        "home": "0666",
+        "menu": "0666"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

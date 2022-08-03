@@ -111,6 +111,10 @@
         "showdownDef": "Dugtrio",
         "smogon": "dugtrio"
     },
+    "imgs": {
+        "home": "0051",
+        "menu": "0051"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

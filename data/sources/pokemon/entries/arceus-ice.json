@@ -98,6 +98,10 @@
         "showdownDef": "Arceus-Ice",
         "smogon": "arceus-ice"
     },
+    "imgs": {
+        "home": "0493-ice",
+        "menu": "0493-ice"
+    },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"

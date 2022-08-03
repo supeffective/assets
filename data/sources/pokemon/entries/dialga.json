@@ -103,6 +103,10 @@
         "showdownDef": "Dialga",
         "smogon": "dialga"
     },
+    "imgs": {
+        "home": "0483",
+        "menu": "0483"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

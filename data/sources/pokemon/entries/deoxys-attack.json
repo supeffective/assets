@@ -99,6 +99,10 @@
         "showdownDef": "Deoxys-Attack",
         "smogon": "deoxys-attack"
     },
+    "imgs": {
+        "home": "0386-attack",
+        "menu": "0386-attack"
+    },
     "baseSpecies": "deoxys",
     "baseForms": [
         "deoxys"

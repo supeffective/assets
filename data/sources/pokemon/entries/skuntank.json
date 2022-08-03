@@ -103,6 +103,10 @@
         "showdownDef": "Skuntank",
         "smogon": "skuntank"
     },
+    "imgs": {
+        "home": "0435",
+        "menu": "0435"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -98,6 +98,10 @@
         "showdownDef": "Swalot",
         "smogon": "swalot"
     },
+    "imgs": {
+        "home": "0317-f",
+        "menu": "0317"
+    },
     "baseSpecies": "swalot",
     "baseForms": [],
     "forms": null,

@@ -86,6 +86,10 @@
         "showdownDef": "Indeedee",
         "smogon": "indeedee"
     },
+    "imgs": {
+        "home": "0876",
+        "menu": "0876"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

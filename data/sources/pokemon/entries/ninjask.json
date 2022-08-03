@@ -105,6 +105,10 @@
         "showdownDef": "Ninjask",
         "smogon": "ninjask"
     },
+    "imgs": {
+        "home": "0291",
+        "menu": "0291"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

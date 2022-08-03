@@ -111,6 +111,10 @@
         "showdownDef": "Kabutops",
         "smogon": "kabutops"
     },
+    "imgs": {
+        "home": "0141",
+        "menu": "0141"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

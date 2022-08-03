@@ -103,6 +103,10 @@
         "showdownDef": "Banette",
         "smogon": "banette"
     },
+    "imgs": {
+        "home": "0354",
+        "menu": "0354"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -103,6 +103,10 @@
         "showdownDef": "Dusknoir",
         "smogon": "dusknoir"
     },
+    "imgs": {
+        "home": "0477",
+        "menu": "0477"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

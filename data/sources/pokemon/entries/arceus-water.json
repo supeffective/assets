@@ -98,6 +98,10 @@
         "showdownDef": "Arceus-Water",
         "smogon": "arceus-water"
     },
+    "imgs": {
+        "home": "0493-water",
+        "menu": "0493-water"
+    },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"

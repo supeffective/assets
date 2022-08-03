@@ -86,6 +86,10 @@
         "showdownDef": "Alcremie-Mint-Cream-Clover",
         "smogon": "alcremie-mint-cream-clover"
     },
+    "imgs": {
+        "home": "0869-mint-cream-clover",
+        "menu": "0869-mint-cream-clover"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

@@ -88,6 +88,10 @@
         "showdownDef": "Voltorb-Hisui",
         "smogon": "voltorb-hisui"
     },
+    "imgs": {
+        "home": "0100-hisui",
+        "menu": "0100-hisui"
+    },
     "baseSpecies": "voltorb",
     "baseForms": [],
     "forms": [],

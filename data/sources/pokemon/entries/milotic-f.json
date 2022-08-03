@@ -100,6 +100,10 @@
         "showdownDef": "Milotic",
         "smogon": "milotic"
     },
+    "imgs": {
+        "home": "0350-f",
+        "menu": "0350"
+    },
     "baseSpecies": "milotic",
     "baseForms": [],
     "forms": null,

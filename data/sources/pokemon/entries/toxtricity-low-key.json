@@ -86,6 +86,10 @@
         "showdownDef": "Toxtricity-Low-Key",
         "smogon": "toxtricity-low-key"
     },
+    "imgs": {
+        "home": "0849-low-key",
+        "menu": "0849-low-key"
+    },
     "baseSpecies": "toxtricity",
     "baseForms": [],
     "forms": null,

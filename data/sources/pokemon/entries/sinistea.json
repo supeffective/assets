@@ -86,6 +86,10 @@
         "showdownDef": "Sinistea",
         "smogon": "sinistea"
     },
+    "imgs": {
+        "home": "0854",
+        "menu": "0854"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

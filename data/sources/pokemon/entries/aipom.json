@@ -107,6 +107,10 @@
         "showdownDef": "Aipom",
         "smogon": "aipom"
     },
+    "imgs": {
+        "home": "0190",
+        "menu": "0190"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

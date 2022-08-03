@@ -96,6 +96,10 @@
         "showdownDef": "Seismitoad",
         "smogon": "seismitoad"
     },
+    "imgs": {
+        "home": "0537",
+        "menu": "0537"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

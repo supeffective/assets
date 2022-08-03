@@ -103,6 +103,10 @@
         "showdownDef": "Glaceon",
         "smogon": "glaceon"
     },
+    "imgs": {
+        "home": "0471",
+        "menu": "0471"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

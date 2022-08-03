@@ -87,6 +87,10 @@
         "showdownDef": "Zarude",
         "smogon": "zarude"
     },
+    "imgs": {
+        "home": "0893",
+        "menu": "0893"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

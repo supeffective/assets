@@ -105,6 +105,10 @@
         "showdownDef": "Ludicolo",
         "smogon": "ludicolo"
     },
+    "imgs": {
+        "home": "0272",
+        "menu": "0272"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

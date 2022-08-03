@@ -90,6 +90,10 @@
         "showdownDef": "Mimikyu",
         "smogon": "mimikyu"
     },
+    "imgs": {
+        "home": "0778",
+        "menu": "0778"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

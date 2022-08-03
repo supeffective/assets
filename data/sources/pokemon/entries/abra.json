@@ -113,6 +113,10 @@
         "showdownDef": "Abra",
         "smogon": "abra"
     },
+    "imgs": {
+        "home": "0063",
+        "menu": "0063"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

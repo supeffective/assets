@@ -111,6 +111,10 @@
         "showdownDef": "Pinsir",
         "smogon": "pinsir"
     },
+    "imgs": {
+        "home": "0127",
+        "menu": "0127"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

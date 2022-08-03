@@ -85,6 +85,10 @@
         "showdownDef": "Beedrill-Mega",
         "smogon": "beedrill-mega"
     },
+    "imgs": {
+        "home": "0015-mega",
+        "menu": "0015-mega"
+    },
     "baseSpecies": "beedrill",
     "baseForms": [
         "beedrill"

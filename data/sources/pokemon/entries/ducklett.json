@@ -94,6 +94,10 @@
         "showdownDef": "Ducklett",
         "smogon": "ducklett"
     },
+    "imgs": {
+        "home": "0580",
+        "menu": "0580"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

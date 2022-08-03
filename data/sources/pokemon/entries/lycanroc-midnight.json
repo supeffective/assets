@@ -92,6 +92,10 @@
         "showdownDef": "Lycanroc-Midnight",
         "smogon": "lycanroc-midnight"
     },
+    "imgs": {
+        "home": "0745-midnight",
+        "menu": "0745-midnight"
+    },
     "baseSpecies": "lycanroc",
     "baseForms": [],
     "forms": null,

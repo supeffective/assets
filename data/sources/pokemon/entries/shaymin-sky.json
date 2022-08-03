@@ -99,6 +99,10 @@
         "showdownDef": "Shaymin-Sky",
         "smogon": "shaymin-sky"
     },
+    "imgs": {
+        "home": "0492-sky",
+        "menu": "0492-sky"
+    },
     "baseSpecies": "shaymin",
     "baseForms": [
         "shaymin"

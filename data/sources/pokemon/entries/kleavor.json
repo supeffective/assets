@@ -86,6 +86,10 @@
         "showdownDef": "Kleavor",
         "smogon": "kleavor"
     },
+    "imgs": {
+        "home": "0900",
+        "menu": "0900"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

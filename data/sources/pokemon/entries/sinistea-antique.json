@@ -86,6 +86,10 @@
         "showdownDef": "Sinistea-Antique",
         "smogon": "sinistea-antique"
     },
+    "imgs": {
+        "home": "0854",
+        "menu": "0854"
+    },
     "baseSpecies": "sinistea",
     "baseForms": [],
     "forms": null,

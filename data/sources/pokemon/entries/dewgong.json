@@ -109,6 +109,10 @@
         "showdownDef": "Dewgong",
         "smogon": "dewgong"
     },
+    "imgs": {
+        "home": "0087",
+        "menu": "0087"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

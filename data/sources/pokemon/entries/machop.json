@@ -113,6 +113,10 @@
         "showdownDef": "Machop",
         "smogon": "machop"
     },
+    "imgs": {
+        "home": "0066",
+        "menu": "0066"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

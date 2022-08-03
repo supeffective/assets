@@ -105,6 +105,10 @@
         "showdownDef": "Flygon",
         "smogon": "flygon"
     },
+    "imgs": {
+        "home": "0330",
+        "menu": "0330"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

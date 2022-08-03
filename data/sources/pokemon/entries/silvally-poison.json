@@ -89,6 +89,10 @@
         "showdownDef": "Silvally-Poison",
         "smogon": "silvally-poison"
     },
+    "imgs": {
+        "home": "0773-poison",
+        "menu": "0773-poison"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

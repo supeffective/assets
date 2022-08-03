@@ -111,6 +111,10 @@
         "showdownDef": "Mewtwo",
         "smogon": "mewtwo"
     },
+    "imgs": {
+        "home": "0150",
+        "menu": "0150"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -86,6 +86,10 @@
         "showdownDef": "Drakloak",
         "smogon": "drakloak"
     },
+    "imgs": {
+        "home": "0886",
+        "menu": "0886"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

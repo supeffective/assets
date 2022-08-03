@@ -113,6 +113,10 @@
         "showdownDef": "Rhyhorn",
         "smogon": "rhyhorn"
     },
+    "imgs": {
+        "home": "0111",
+        "menu": "0111"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

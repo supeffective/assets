@@ -95,6 +95,10 @@
         "showdownDef": "Goomy",
         "smogon": "goomy"
     },
+    "imgs": {
+        "home": "0704",
+        "menu": "0704"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

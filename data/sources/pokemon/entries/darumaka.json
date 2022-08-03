@@ -96,6 +96,10 @@
         "showdownDef": "Darumaka",
         "smogon": "darumaka"
     },
+    "imgs": {
+        "home": "0554",
+        "menu": "0554"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

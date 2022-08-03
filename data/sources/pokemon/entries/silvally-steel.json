@@ -89,6 +89,10 @@
         "showdownDef": "Silvally-Steel",
         "smogon": "silvally-steel"
     },
+    "imgs": {
+        "home": "0773-steel",
+        "menu": "0773-steel"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

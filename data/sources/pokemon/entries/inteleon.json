@@ -86,6 +86,10 @@
         "showdownDef": "Inteleon",
         "smogon": "inteleon"
     },
+    "imgs": {
+        "home": "0818",
+        "menu": "0818"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

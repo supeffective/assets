@@ -96,6 +96,10 @@
         "showdownDef": "Maractus",
         "smogon": "maractus"
     },
+    "imgs": {
+        "home": "0556",
+        "menu": "0556"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

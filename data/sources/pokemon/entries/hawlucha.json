@@ -91,6 +91,10 @@
         "showdownDef": "Hawlucha",
         "smogon": "hawlucha"
     },
+    "imgs": {
+        "home": "0701",
+        "menu": "0701"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

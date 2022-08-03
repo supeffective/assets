@@ -96,6 +96,10 @@
         "showdownDef": "Thundurus-Therian",
         "smogon": "thundurus-therian"
     },
+    "imgs": {
+        "home": "0642-therian",
+        "menu": "0642-therian"
+    },
     "baseSpecies": "thundurus",
     "baseForms": [
         "thundurus"

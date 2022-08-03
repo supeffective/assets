@@ -98,6 +98,10 @@
         "showdownDef": "Arceus-Electric",
         "smogon": "arceus-electric"
     },
+    "imgs": {
+        "home": "0493-electric",
+        "menu": "0493-electric"
+    },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"

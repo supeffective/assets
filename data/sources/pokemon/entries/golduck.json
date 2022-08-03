@@ -113,6 +113,10 @@
         "showdownDef": "Golduck",
         "smogon": "golduck"
     },
+    "imgs": {
+        "home": "0055",
+        "menu": "0055"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

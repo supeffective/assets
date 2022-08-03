@@ -105,6 +105,10 @@
         "showdownDef": "Nincada",
         "smogon": "nincada"
     },
+    "imgs": {
+        "home": "0290",
+        "menu": "0290"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

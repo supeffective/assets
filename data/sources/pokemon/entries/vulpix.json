@@ -113,6 +113,10 @@
         "showdownDef": "Vulpix",
         "smogon": "vulpix"
     },
+    "imgs": {
+        "home": "0037",
+        "menu": "0037"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

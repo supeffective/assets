@@ -84,6 +84,10 @@
         "showdownDef": "Gengar-Mega",
         "smogon": "gengar-mega"
     },
+    "imgs": {
+        "home": "0094-mega",
+        "menu": "0094-mega"
+    },
     "baseSpecies": "gengar",
     "baseForms": [
         "gengar"

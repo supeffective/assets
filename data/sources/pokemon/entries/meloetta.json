@@ -94,6 +94,10 @@
         "showdownDef": "Meloetta",
         "smogon": "meloetta"
     },
+    "imgs": {
+        "home": "0648",
+        "menu": "0648"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

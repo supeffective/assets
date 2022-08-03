@@ -86,6 +86,10 @@
         "showdownDef": "Kubfu",
         "smogon": "kubfu"
     },
+    "imgs": {
+        "home": "0891",
+        "menu": "0891"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

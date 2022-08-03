@@ -96,6 +96,10 @@
         "showdownDef": "Escavalier",
         "smogon": "escavalier"
     },
+    "imgs": {
+        "home": "0589",
+        "menu": "0589"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

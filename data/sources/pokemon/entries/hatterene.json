@@ -86,6 +86,10 @@
         "showdownDef": "Hatterene",
         "smogon": "hatterene"
     },
+    "imgs": {
+        "home": "0858",
+        "menu": "0858"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

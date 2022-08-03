@@ -105,6 +105,10 @@
         "showdownDef": "Wynaut",
         "smogon": "wynaut"
     },
+    "imgs": {
+        "home": "0360",
+        "menu": "0360"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

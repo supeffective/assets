@@ -86,6 +86,10 @@
         "showdownDef": "Clobbopus",
         "smogon": "clobbopus"
     },
+    "imgs": {
+        "home": "0852",
+        "menu": "0852"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

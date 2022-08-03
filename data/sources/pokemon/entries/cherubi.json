@@ -103,6 +103,10 @@
         "showdownDef": "Cherubi",
         "smogon": "cherubi"
     },
+    "imgs": {
+        "home": "0420",
+        "menu": "0420"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

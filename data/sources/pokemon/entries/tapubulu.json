@@ -92,6 +92,10 @@
         "showdownDef": "Tapubulu",
         "smogon": "tapubulu"
     },
+    "imgs": {
+        "home": "0787",
+        "menu": "0787"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

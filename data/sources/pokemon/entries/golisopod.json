@@ -92,6 +92,10 @@
         "showdownDef": "Golisopod",
         "smogon": "golisopod"
     },
+    "imgs": {
+        "home": "0768",
+        "menu": "0768"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

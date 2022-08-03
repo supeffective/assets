@@ -93,6 +93,10 @@
         "showdownDef": "Clawitzer",
         "smogon": "clawitzer"
     },
+    "imgs": {
+        "home": "0693",
+        "menu": "0693"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

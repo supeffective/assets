@@ -90,6 +90,10 @@
         "showdownDef": "Celesteela",
         "smogon": "celesteela"
     },
+    "imgs": {
+        "home": "0797",
+        "menu": "0797"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

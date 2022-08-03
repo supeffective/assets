@@ -105,6 +105,10 @@
         "showdownDef": "Treecko",
         "smogon": "treecko"
     },
+    "imgs": {
+        "home": "0252",
+        "menu": "0252"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

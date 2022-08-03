@@ -93,6 +93,10 @@
         "showdownDef": "Aurorus",
         "smogon": "aurorus"
     },
+    "imgs": {
+        "home": "0699",
+        "menu": "0699"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

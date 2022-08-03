@@ -83,6 +83,10 @@
         "showdownDef": "Eevee-Gmax",
         "smogon": "eevee-gmax"
     },
+    "imgs": {
+        "home": "0133-gmax",
+        "menu": "0133-gmax"
+    },
     "baseSpecies": "eevee",
     "baseForms": [
         "eevee"

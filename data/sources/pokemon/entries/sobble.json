@@ -86,6 +86,10 @@
         "showdownDef": "Sobble",
         "smogon": "sobble"
     },
+    "imgs": {
+        "home": "0816",
+        "menu": "0816"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -105,6 +105,10 @@
         "showdownDef": "Ledyba",
         "smogon": "ledyba"
     },
+    "imgs": {
+        "home": "0165",
+        "menu": "0165"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

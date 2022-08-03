@@ -111,6 +111,10 @@
         "showdownDef": "Starmie",
         "smogon": "starmie"
     },
+    "imgs": {
+        "home": "0121",
+        "menu": "0121"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

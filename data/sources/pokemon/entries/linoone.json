@@ -105,6 +105,10 @@
         "showdownDef": "Linoone",
         "smogon": "linoone"
     },
+    "imgs": {
+        "home": "0264",
+        "menu": "0264"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

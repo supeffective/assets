@@ -96,6 +96,10 @@
         "showdownDef": "Cobalion",
         "smogon": "cobalion"
     },
+    "imgs": {
+        "home": "0638",
+        "menu": "0638"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

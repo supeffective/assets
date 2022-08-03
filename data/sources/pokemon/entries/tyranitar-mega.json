@@ -84,6 +84,10 @@
         "showdownDef": "Tyranitar-Mega",
         "smogon": "tyranitar-mega"
     },
+    "imgs": {
+        "home": "0248-mega",
+        "menu": "0248-mega"
+    },
     "baseSpecies": "tyranitar",
     "baseForms": [
         "tyranitar"

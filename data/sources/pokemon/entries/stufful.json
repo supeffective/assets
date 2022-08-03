@@ -92,6 +92,10 @@
         "showdownDef": "Stufful",
         "smogon": "stufful"
     },
+    "imgs": {
+        "home": "0759",
+        "menu": "0759"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

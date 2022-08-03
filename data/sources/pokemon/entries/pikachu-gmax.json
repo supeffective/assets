@@ -83,6 +83,10 @@
         "showdownDef": "Pikachu-Gmax",
         "smogon": "pikachu-gmax"
     },
+    "imgs": {
+        "home": "0025-gmax",
+        "menu": "0025-gmax"
+    },
     "baseSpecies": "pikachu",
     "baseForms": [
         "pikachu",

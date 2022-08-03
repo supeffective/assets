@@ -101,6 +101,10 @@
         "showdownDef": "Burmy-Trash",
         "smogon": "burmy-trash"
     },
+    "imgs": {
+        "home": "0412-trash",
+        "menu": "0412-trash"
+    },
     "baseSpecies": "burmy",
     "baseForms": [
         "burmy"

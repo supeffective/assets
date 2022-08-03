@@ -86,6 +86,10 @@
         "showdownDef": "Morgrem",
         "smogon": "morgrem"
     },
+    "imgs": {
+        "home": "0860",
+        "menu": "0860"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

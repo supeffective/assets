@@ -86,6 +86,10 @@
         "showdownDef": "Sliggoo-Hisui",
         "smogon": "sliggoo-hisui"
     },
+    "imgs": {
+        "home": "0705-hisui",
+        "menu": "0705-hisui"
+    },
     "baseSpecies": "sliggoo",
     "baseForms": [],
     "forms": [],

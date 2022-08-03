@@ -91,6 +91,10 @@
         "showdownDef": "Quilladin",
         "smogon": "quilladin"
     },
+    "imgs": {
+        "home": "0651",
+        "menu": "0651"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

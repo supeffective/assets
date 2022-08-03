@@ -89,6 +89,10 @@
         "showdownDef": "Gogoat",
         "smogon": "gogoat"
     },
+    "imgs": {
+        "home": "0673",
+        "menu": "0673"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

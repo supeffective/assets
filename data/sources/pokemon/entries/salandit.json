@@ -92,6 +92,10 @@
         "showdownDef": "Salandit",
         "smogon": "salandit"
     },
+    "imgs": {
+        "home": "0757",
+        "menu": "0757"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

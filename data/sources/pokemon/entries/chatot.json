@@ -101,6 +101,10 @@
         "showdownDef": "Chatot",
         "smogon": "chatot"
     },
+    "imgs": {
+        "home": "0441",
+        "menu": "0441"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

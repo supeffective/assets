@@ -101,6 +101,10 @@
         "showdownDef": "Rotom-Wash",
         "smogon": "rotom-wash"
     },
+    "imgs": {
+        "home": "0479-wash",
+        "menu": "0479-wash"
+    },
     "baseSpecies": "rotom",
     "baseForms": [
         "rotom"

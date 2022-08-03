@@ -86,6 +86,10 @@
         "showdownDef": "Avalugg-Hisui",
         "smogon": "avalugg-hisui"
     },
+    "imgs": {
+        "home": "0713-hisui",
+        "menu": "0713-hisui"
+    },
     "baseSpecies": "avalugg",
     "baseForms": [],
     "forms": [],

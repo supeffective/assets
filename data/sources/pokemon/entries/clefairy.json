@@ -113,6 +113,10 @@
         "showdownDef": "Clefairy",
         "smogon": "clefairy"
     },
+    "imgs": {
+        "home": "0035",
+        "menu": "0035"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

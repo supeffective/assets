@@ -90,6 +90,10 @@
         "showdownDef": "Grubbin",
         "smogon": "grubbin"
     },
+    "imgs": {
+        "home": "0736",
+        "menu": "0736"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

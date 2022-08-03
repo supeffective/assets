@@ -89,6 +89,10 @@
         "showdownDef": "Skiddo",
         "smogon": "skiddo"
     },
+    "imgs": {
+        "home": "0672",
+        "menu": "0672"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -107,6 +107,10 @@
         "showdownDef": "Stantler",
         "smogon": "stantler"
     },
+    "imgs": {
+        "home": "0234",
+        "menu": "0234"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

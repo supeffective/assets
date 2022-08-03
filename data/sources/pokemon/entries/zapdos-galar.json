@@ -88,6 +88,10 @@
         "showdownDef": "Zapdos-Galar",
         "smogon": "zapdos-galar"
     },
+    "imgs": {
+        "home": "0145-galar",
+        "menu": "0145-galar"
+    },
     "baseSpecies": "zapdos",
     "baseForms": [],
     "forms": null,

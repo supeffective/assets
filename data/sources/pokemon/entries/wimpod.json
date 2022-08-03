@@ -92,6 +92,10 @@
         "showdownDef": "Wimpod",
         "smogon": "wimpod"
     },
+    "imgs": {
+        "home": "0767",
+        "menu": "0767"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

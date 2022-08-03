@@ -111,6 +111,10 @@
         "showdownDef": "Paras",
         "smogon": "paras"
     },
+    "imgs": {
+        "home": "0046",
+        "menu": "0046"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

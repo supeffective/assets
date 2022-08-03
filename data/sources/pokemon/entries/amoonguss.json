@@ -96,6 +96,10 @@
         "showdownDef": "Amoonguss",
         "smogon": "amoonguss"
     },
+    "imgs": {
+        "home": "0591",
+        "menu": "0591"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

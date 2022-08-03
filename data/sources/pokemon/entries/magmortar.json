@@ -103,6 +103,10 @@
         "showdownDef": "Magmortar",
         "smogon": "magmortar"
     },
+    "imgs": {
+        "home": "0467",
+        "menu": "0467"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

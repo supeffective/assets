@@ -103,6 +103,10 @@
         "showdownDef": "Golbat",
         "smogon": "golbat"
     },
+    "imgs": {
+        "home": "0042-f",
+        "menu": "0042"
+    },
     "baseSpecies": "golbat",
     "baseForms": [],
     "forms": null,

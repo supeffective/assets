@@ -113,6 +113,10 @@
         "showdownDef": "Magmar",
         "smogon": "magmar"
     },
+    "imgs": {
+        "home": "0126",
+        "menu": "0126"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -103,6 +103,10 @@
         "showdownDef": "Shellos",
         "smogon": "shellos"
     },
+    "imgs": {
+        "home": "0422",
+        "menu": "0422"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

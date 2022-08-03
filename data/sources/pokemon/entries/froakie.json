@@ -91,6 +91,10 @@
         "showdownDef": "Froakie",
         "smogon": "froakie"
     },
+    "imgs": {
+        "home": "0656",
+        "menu": "0656"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

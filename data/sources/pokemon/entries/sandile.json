@@ -96,6 +96,10 @@
         "showdownDef": "Sandile",
         "smogon": "sandile"
     },
+    "imgs": {
+        "home": "0551",
+        "menu": "0551"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

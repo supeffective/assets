@@ -86,6 +86,10 @@
         "showdownDef": "Regidrago",
         "smogon": "regidrago"
     },
+    "imgs": {
+        "home": "0895",
+        "menu": "0895"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

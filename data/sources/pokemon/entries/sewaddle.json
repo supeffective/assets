@@ -94,6 +94,10 @@
         "showdownDef": "Sewaddle",
         "smogon": "sewaddle"
     },
+    "imgs": {
+        "home": "0540",
+        "menu": "0540"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

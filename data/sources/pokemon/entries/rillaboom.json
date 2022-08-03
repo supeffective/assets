@@ -86,6 +86,10 @@
         "showdownDef": "Rillaboom",
         "smogon": "rillaboom"
     },
+    "imgs": {
+        "home": "0812",
+        "menu": "0812"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -96,6 +96,10 @@
         "showdownDef": "Dwebble",
         "smogon": "dwebble"
     },
+    "imgs": {
+        "home": "0557",
+        "menu": "0557"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -103,6 +103,10 @@
         "showdownDef": "Tropius",
         "smogon": "tropius"
     },
+    "imgs": {
+        "home": "0357",
+        "menu": "0357"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

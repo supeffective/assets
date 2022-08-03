@@ -84,6 +84,10 @@
         "showdownDef": "Rayquaza-Mega",
         "smogon": "rayquaza-mega"
     },
+    "imgs": {
+        "home": "0384-mega",
+        "menu": "0384-mega"
+    },
     "baseSpecies": "rayquaza",
     "baseForms": [
         "rayquaza"

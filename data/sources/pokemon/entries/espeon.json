@@ -109,6 +109,10 @@
         "showdownDef": "Espeon",
         "smogon": "espeon"
     },
+    "imgs": {
+        "home": "0196",
+        "menu": "0196"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

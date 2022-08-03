@@ -86,6 +86,10 @@
         "showdownDef": "Wyrdeer",
         "smogon": "wyrdeer"
     },
+    "imgs": {
+        "home": "0899",
+        "menu": "0899"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

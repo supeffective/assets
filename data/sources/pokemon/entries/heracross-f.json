@@ -102,6 +102,10 @@
         "showdownDef": "Heracross",
         "smogon": "heracross"
     },
+    "imgs": {
+        "home": "0214-f",
+        "menu": "0214"
+    },
     "baseSpecies": "heracross",
     "baseForms": [],
     "forms": null,

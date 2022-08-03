@@ -111,6 +111,10 @@
         "showdownDef": "Koffing",
         "smogon": "koffing"
     },
+    "imgs": {
+        "home": "0109",
+        "menu": "0109"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

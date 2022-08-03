@@ -84,6 +84,10 @@
         "showdownDef": "Houndoom-Mega",
         "smogon": "houndoom-mega"
     },
+    "imgs": {
+        "home": "0229-mega",
+        "menu": "0229-mega"
+    },
     "baseSpecies": "houndoom",
     "baseForms": [
         "houndoom"

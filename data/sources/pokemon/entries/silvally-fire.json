@@ -89,6 +89,10 @@
         "showdownDef": "Silvally-Fire",
         "smogon": "silvally-fire"
     },
+    "imgs": {
+        "home": "0773-fire",
+        "menu": "0773-fire"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

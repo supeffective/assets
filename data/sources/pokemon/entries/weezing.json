@@ -111,6 +111,10 @@
         "showdownDef": "Weezing",
         "smogon": "weezing"
     },
+    "imgs": {
+        "home": "0110",
+        "menu": "0110"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

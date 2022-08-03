@@ -103,6 +103,10 @@
         "showdownDef": "Garchomp",
         "smogon": "garchomp"
     },
+    "imgs": {
+        "home": "0445-f",
+        "menu": "0445"
+    },
     "baseSpecies": "garchomp",
     "baseForms": [],
     "forms": null,

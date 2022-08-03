@@ -92,6 +92,10 @@
         "showdownDef": "Brionne",
         "smogon": "brionne"
     },
+    "imgs": {
+        "home": "0729",
+        "menu": "0729"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

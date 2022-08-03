@@ -107,6 +107,10 @@
         "showdownDef": "Smoochum",
         "smogon": "smoochum"
     },
+    "imgs": {
+        "home": "0238",
+        "menu": "0238"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

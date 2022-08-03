@@ -89,6 +89,10 @@
         "showdownDef": "Vivillon-Jungle",
         "smogon": "vivillon-jungle"
     },
+    "imgs": {
+        "home": "0666-jungle",
+        "menu": "0666-jungle"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

@@ -93,6 +93,10 @@
         "showdownDef": "Trevenant",
         "smogon": "trevenant"
     },
+    "imgs": {
+        "home": "0709",
+        "menu": "0709"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -111,6 +111,10 @@
         "showdownDef": "Wartortle",
         "smogon": "wartortle"
     },
+    "imgs": {
+        "home": "0008",
+        "menu": "0008"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

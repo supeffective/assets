@@ -96,6 +96,10 @@
         "showdownDef": "Sawk",
         "smogon": "sawk"
     },
+    "imgs": {
+        "home": "0539",
+        "menu": "0539"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -95,6 +95,10 @@
         "showdownDef": "Keldeo",
         "smogon": "keldeo"
     },
+    "imgs": {
+        "home": "0647",
+        "menu": "0647"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

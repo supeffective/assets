@@ -89,6 +89,10 @@
         "showdownDef": "Silvally-Fighting",
         "smogon": "silvally-fighting"
     },
+    "imgs": {
+        "home": "0773-fighting",
+        "menu": "0773-fighting"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

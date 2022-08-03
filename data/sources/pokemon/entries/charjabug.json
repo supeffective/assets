@@ -90,6 +90,10 @@
         "showdownDef": "Charjabug",
         "smogon": "charjabug"
     },
+    "imgs": {
+        "home": "0737",
+        "menu": "0737"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

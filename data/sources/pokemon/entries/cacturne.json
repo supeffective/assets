@@ -103,6 +103,10 @@
         "showdownDef": "Cacturne",
         "smogon": "cacturne"
     },
+    "imgs": {
+        "home": "0332",
+        "menu": "0332"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

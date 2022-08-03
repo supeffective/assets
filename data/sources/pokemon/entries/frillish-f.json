@@ -96,6 +96,10 @@
         "showdownDef": "Frillish",
         "smogon": "frillish"
     },
+    "imgs": {
+        "home": "0592-f",
+        "menu": "0592-f"
+    },
     "baseSpecies": "frillish",
     "baseForms": [],
     "forms": null,

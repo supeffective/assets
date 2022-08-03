@@ -86,6 +86,10 @@
         "showdownDef": "Enamorus",
         "smogon": "enamorus"
     },
+    "imgs": {
+        "home": "0905",
+        "menu": "0000-unknown"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

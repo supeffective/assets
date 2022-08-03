@@ -96,6 +96,10 @@
         "showdownDef": "Drilbur",
         "smogon": "drilbur"
     },
+    "imgs": {
+        "home": "0529",
+        "menu": "0529"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

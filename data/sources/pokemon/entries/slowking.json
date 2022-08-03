@@ -107,6 +107,10 @@
         "showdownDef": "Slowking",
         "smogon": "slowking"
     },
+    "imgs": {
+        "home": "0199",
+        "menu": "0199"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

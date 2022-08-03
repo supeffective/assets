@@ -86,6 +86,10 @@
         "showdownDef": "Alcremie-Rainbow-Swirl-Berry",
         "smogon": "alcremie-rainbow-swirl-berry"
     },
+    "imgs": {
+        "home": "0869-rainbow-swirl-berry",
+        "menu": "0869-rainbow-swirl-berry"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

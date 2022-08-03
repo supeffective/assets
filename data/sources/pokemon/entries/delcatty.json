@@ -103,6 +103,10 @@
         "showdownDef": "Delcatty",
         "smogon": "delcatty"
     },
+    "imgs": {
+        "home": "0301",
+        "menu": "0301"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

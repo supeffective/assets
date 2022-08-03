@@ -93,6 +93,10 @@
         "showdownDef": "Gourgeist-Small",
         "smogon": "gourgeist-small"
     },
+    "imgs": {
+        "home": "0711-small",
+        "menu": "0711"
+    },
     "baseSpecies": "gourgeist",
     "baseForms": [],
     "forms": null,

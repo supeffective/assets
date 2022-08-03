@@ -105,6 +105,10 @@
         "showdownDef": "Mareep",
         "smogon": "mareep"
     },
+    "imgs": {
+        "home": "0179",
+        "menu": "0179"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

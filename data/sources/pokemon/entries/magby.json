@@ -109,6 +109,10 @@
         "showdownDef": "Magby",
         "smogon": "magby"
     },
+    "imgs": {
+        "home": "0240",
+        "menu": "0240"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

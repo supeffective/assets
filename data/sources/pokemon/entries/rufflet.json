@@ -98,6 +98,10 @@
         "showdownDef": "Rufflet",
         "smogon": "rufflet"
     },
+    "imgs": {
+        "home": "0627",
+        "menu": "0627"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

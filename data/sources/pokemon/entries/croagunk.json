@@ -103,6 +103,10 @@
         "showdownDef": "Croagunk",
         "smogon": "croagunk"
     },
+    "imgs": {
+        "home": "0453",
+        "menu": "0453"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

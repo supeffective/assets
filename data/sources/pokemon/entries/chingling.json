@@ -101,6 +101,10 @@
         "showdownDef": "Chingling",
         "smogon": "chingling"
     },
+    "imgs": {
+        "home": "0433",
+        "menu": "0433"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

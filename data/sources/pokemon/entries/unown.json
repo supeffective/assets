@@ -107,6 +107,10 @@
         "showdownDef": "Unown",
         "smogon": "unown"
     },
+    "imgs": {
+        "home": "0201",
+        "menu": "0201"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -83,6 +83,10 @@
         "showdownDef": "Hatterene-Gmax",
         "smogon": "hatterene-gmax"
     },
+    "imgs": {
+        "home": "0858-gmax",
+        "menu": "0858-gmax"
+    },
     "baseSpecies": "hatterene",
     "baseForms": [
         "hatterene"

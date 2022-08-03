@@ -105,6 +105,10 @@
         "showdownDef": "Ariados",
         "smogon": "ariados"
     },
+    "imgs": {
+        "home": "0168",
+        "menu": "0168"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

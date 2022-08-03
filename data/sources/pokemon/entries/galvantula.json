@@ -96,6 +96,10 @@
         "showdownDef": "Galvantula",
         "smogon": "galvantula"
     },
+    "imgs": {
+        "home": "0596",
+        "menu": "0596"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -111,6 +111,10 @@
         "showdownDef": "Arcanine",
         "smogon": "arcanine"
     },
+    "imgs": {
+        "home": "0059",
+        "menu": "0059"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

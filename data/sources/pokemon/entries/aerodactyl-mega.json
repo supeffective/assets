@@ -84,6 +84,10 @@
         "showdownDef": "Aerodactyl-Mega",
         "smogon": "aerodactyl-mega"
     },
+    "imgs": {
+        "home": "0142-mega",
+        "menu": "0142-mega"
+    },
     "baseSpecies": "aerodactyl",
     "baseForms": [
         "aerodactyl"

@@ -83,6 +83,10 @@
         "showdownDef": "Kingler-Gmax",
         "smogon": "kingler-gmax"
     },
+    "imgs": {
+        "home": "0099-gmax",
+        "menu": "0099-gmax"
+    },
     "baseSpecies": "kingler",
     "baseForms": [
         "kingler"

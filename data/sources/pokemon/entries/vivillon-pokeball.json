@@ -89,6 +89,10 @@
         "showdownDef": "Vivillon-Pokeball",
         "smogon": "vivillon-pokeball"
     },
+    "imgs": {
+        "home": "0666-pokeball",
+        "menu": "0666-pokeball"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

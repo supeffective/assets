@@ -91,6 +91,10 @@
         "showdownDef": "Braixen",
         "smogon": "braixen"
     },
+    "imgs": {
+        "home": "0654",
+        "menu": "0654"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

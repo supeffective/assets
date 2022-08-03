@@ -93,6 +93,10 @@
         "showdownDef": "Clauncher",
         "smogon": "clauncher"
     },
+    "imgs": {
+        "home": "0692",
+        "menu": "0692"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

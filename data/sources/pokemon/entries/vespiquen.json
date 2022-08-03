@@ -103,6 +103,10 @@
         "showdownDef": "Vespiquen",
         "smogon": "vespiquen"
     },
+    "imgs": {
+        "home": "0416",
+        "menu": "0416"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

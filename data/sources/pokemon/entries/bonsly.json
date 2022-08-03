@@ -103,6 +103,10 @@
         "showdownDef": "Bonsly",
         "smogon": "bonsly"
     },
+    "imgs": {
+        "home": "0438",
+        "menu": "0438"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

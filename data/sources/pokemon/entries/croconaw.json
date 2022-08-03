@@ -105,6 +105,10 @@
         "showdownDef": "Croconaw",
         "smogon": "croconaw"
     },
+    "imgs": {
+        "home": "0159",
+        "menu": "0159"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

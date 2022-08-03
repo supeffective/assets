@@ -90,6 +90,10 @@
         "showdownDef": "Comfey",
         "smogon": "comfey"
     },
+    "imgs": {
+        "home": "0764",
+        "menu": "0764"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

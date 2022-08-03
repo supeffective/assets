@@ -111,6 +111,10 @@
         "showdownDef": "Wigglytuff",
         "smogon": "wigglytuff"
     },
+    "imgs": {
+        "home": "0040",
+        "menu": "0040"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

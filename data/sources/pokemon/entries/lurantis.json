@@ -92,6 +92,10 @@
         "showdownDef": "Lurantis",
         "smogon": "lurantis"
     },
+    "imgs": {
+        "home": "0754",
+        "menu": "0754"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

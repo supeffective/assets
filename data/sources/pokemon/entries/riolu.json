@@ -103,6 +103,10 @@
         "showdownDef": "Riolu",
         "smogon": "riolu"
     },
+    "imgs": {
+        "home": "0447",
+        "menu": "0447"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -100,6 +100,10 @@
         "showdownDef": "Combusken",
         "smogon": "combusken"
     },
+    "imgs": {
+        "home": "0256-f",
+        "menu": "0256"
+    },
     "baseSpecies": "combusken",
     "baseForms": [],
     "forms": null,

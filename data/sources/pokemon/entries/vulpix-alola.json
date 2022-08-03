@@ -96,6 +96,10 @@
         "showdownDef": "Vulpix-Alola",
         "smogon": "vulpix-alola"
     },
+    "imgs": {
+        "home": "0037-alola",
+        "menu": "0037-alola"
+    },
     "baseSpecies": "vulpix",
     "baseForms": [],
     "forms": null,

@@ -91,6 +91,10 @@
         "showdownDef": "Florges-Blue",
         "smogon": "florges-blue"
     },
+    "imgs": {
+        "home": "0671-blue",
+        "menu": "0671-blue"
+    },
     "baseSpecies": "florges",
     "baseForms": [],
     "forms": null,

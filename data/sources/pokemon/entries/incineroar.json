@@ -92,6 +92,10 @@
         "showdownDef": "Incineroar",
         "smogon": "incineroar"
     },
+    "imgs": {
+        "home": "0727",
+        "menu": "0727"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

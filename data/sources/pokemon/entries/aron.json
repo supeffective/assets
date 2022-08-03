@@ -105,6 +105,10 @@
         "showdownDef": "Aron",
         "smogon": "aron"
     },
+    "imgs": {
+        "home": "0304",
+        "menu": "0304"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

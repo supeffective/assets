@@ -103,6 +103,10 @@
         "showdownDef": "Hippowdon",
         "smogon": "hippowdon"
     },
+    "imgs": {
+        "home": "0450-f",
+        "menu": "0450-f"
+    },
     "baseSpecies": "hippowdon",
     "baseForms": [],
     "forms": null,

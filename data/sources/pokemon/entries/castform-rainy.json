@@ -88,6 +88,10 @@
         "showdownDef": "Castform-Rainy",
         "smogon": "castform-rainy"
     },
+    "imgs": {
+        "home": "0351-rainy",
+        "menu": "0351-rainy"
+    },
     "baseSpecies": "castform",
     "baseForms": [
         "castform"

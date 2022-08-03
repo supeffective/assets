@@ -96,6 +96,10 @@
         "showdownDef": "Yamask",
         "smogon": "yamask"
     },
+    "imgs": {
+        "home": "0562",
+        "menu": "0562"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

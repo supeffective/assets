@@ -83,6 +83,10 @@
         "showdownDef": "Melmetal-Gmax",
         "smogon": "melmetal-gmax"
     },
+    "imgs": {
+        "home": "0809-gmax",
+        "menu": "0809-gmax"
+    },
     "baseSpecies": "melmetal",
     "baseForms": [
         "melmetal"

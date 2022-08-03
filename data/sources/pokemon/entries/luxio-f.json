@@ -103,6 +103,10 @@
         "showdownDef": "Luxio",
         "smogon": "luxio"
     },
+    "imgs": {
+        "home": "0404-f",
+        "menu": "0404"
+    },
     "baseSpecies": "luxio",
     "baseForms": [],
     "forms": null,

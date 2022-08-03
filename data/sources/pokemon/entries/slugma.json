@@ -105,6 +105,10 @@
         "showdownDef": "Slugma",
         "smogon": "slugma"
     },
+    "imgs": {
+        "home": "0218",
+        "menu": "0218"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

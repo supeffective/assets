@@ -99,6 +99,10 @@
         "showdownDef": "Raticate",
         "smogon": "raticate"
     },
+    "imgs": {
+        "home": "0020-f",
+        "menu": "0020"
+    },
     "baseSpecies": "raticate",
     "baseForms": [],
     "forms": null,

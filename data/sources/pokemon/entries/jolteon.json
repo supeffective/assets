@@ -113,6 +113,10 @@
         "showdownDef": "Jolteon",
         "smogon": "jolteon"
     },
+    "imgs": {
+        "home": "0135",
+        "menu": "0135"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

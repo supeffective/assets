@@ -86,6 +86,10 @@
         "showdownDef": "Arctovish",
         "smogon": "arctovish"
     },
+    "imgs": {
+        "home": "0883",
+        "menu": "0883"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

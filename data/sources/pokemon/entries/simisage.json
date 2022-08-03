@@ -94,6 +94,10 @@
         "showdownDef": "Simisage",
         "smogon": "simisage"
     },
+    "imgs": {
+        "home": "0512",
+        "menu": "0512"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

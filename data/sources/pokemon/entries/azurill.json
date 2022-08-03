@@ -105,6 +105,10 @@
         "showdownDef": "Azurill",
         "smogon": "azurill"
     },
+    "imgs": {
+        "home": "0298",
+        "menu": "0298"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

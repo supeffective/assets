@@ -111,6 +111,10 @@
         "showdownDef": "Hitmonchan",
         "smogon": "hitmonchan"
     },
+    "imgs": {
+        "home": "0107",
+        "menu": "0107"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

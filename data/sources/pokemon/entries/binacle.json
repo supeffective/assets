@@ -93,6 +93,10 @@
         "showdownDef": "Binacle",
         "smogon": "binacle"
     },
+    "imgs": {
+        "home": "0688",
+        "menu": "0688"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

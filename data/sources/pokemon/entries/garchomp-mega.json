@@ -84,6 +84,10 @@
         "showdownDef": "Garchomp-Mega",
         "smogon": "garchomp-mega"
     },
+    "imgs": {
+        "home": "0445-mega",
+        "menu": "0445-mega"
+    },
     "baseSpecies": "garchomp",
     "baseForms": [
         "garchomp"

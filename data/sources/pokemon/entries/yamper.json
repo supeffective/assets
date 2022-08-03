@@ -86,6 +86,10 @@
         "showdownDef": "Yamper",
         "smogon": "yamper"
     },
+    "imgs": {
+        "home": "0835",
+        "menu": "0835"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

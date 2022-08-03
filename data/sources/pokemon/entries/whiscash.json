@@ -107,6 +107,10 @@
         "showdownDef": "Whiscash",
         "smogon": "whiscash"
     },
+    "imgs": {
+        "home": "0340",
+        "menu": "0340"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

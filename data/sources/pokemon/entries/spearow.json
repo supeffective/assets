@@ -109,6 +109,10 @@
         "showdownDef": "Spearow",
         "smogon": "spearow"
     },
+    "imgs": {
+        "home": "0021",
+        "menu": "0021"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

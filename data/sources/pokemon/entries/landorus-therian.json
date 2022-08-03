@@ -96,6 +96,10 @@
         "showdownDef": "Landorus-Therian",
         "smogon": "landorus-therian"
     },
+    "imgs": {
+        "home": "0645-therian",
+        "menu": "0645-therian"
+    },
     "baseSpecies": "landorus",
     "baseForms": [
         "landorus"

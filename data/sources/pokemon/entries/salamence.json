@@ -105,6 +105,10 @@
         "showdownDef": "Salamence",
         "smogon": "salamence"
     },
+    "imgs": {
+        "home": "0373",
+        "menu": "0373"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -92,6 +92,10 @@
         "showdownDef": "Kommoo",
         "smogon": "kommoo"
     },
+    "imgs": {
+        "home": "0784",
+        "menu": "0784"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

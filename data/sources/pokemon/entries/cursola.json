@@ -86,6 +86,10 @@
         "showdownDef": "Cursola",
         "smogon": "cursola"
     },
+    "imgs": {
+        "home": "0864",
+        "menu": "0864"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

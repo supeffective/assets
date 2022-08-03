@@ -105,6 +105,10 @@
         "showdownDef": "Corphish",
         "smogon": "corphish"
     },
+    "imgs": {
+        "home": "0341",
+        "menu": "0341"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

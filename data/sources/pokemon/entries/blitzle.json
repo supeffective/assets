@@ -94,6 +94,10 @@
         "showdownDef": "Blitzle",
         "smogon": "blitzle"
     },
+    "imgs": {
+        "home": "0522",
+        "menu": "0522"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

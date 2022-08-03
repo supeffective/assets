@@ -107,6 +107,10 @@
         "showdownDef": "Glalie",
         "smogon": "glalie"
     },
+    "imgs": {
+        "home": "0362",
+        "menu": "0362"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

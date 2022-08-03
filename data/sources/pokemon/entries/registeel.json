@@ -105,6 +105,10 @@
         "showdownDef": "Registeel",
         "smogon": "registeel"
     },
+    "imgs": {
+        "home": "0379",
+        "menu": "0379"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

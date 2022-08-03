@@ -86,6 +86,10 @@
         "showdownDef": "Appletun",
         "smogon": "appletun"
     },
+    "imgs": {
+        "home": "0842",
+        "menu": "0842"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

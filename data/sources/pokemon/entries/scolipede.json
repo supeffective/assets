@@ -96,6 +96,10 @@
         "showdownDef": "Scolipede",
         "smogon": "scolipede"
     },
+    "imgs": {
+        "home": "0545",
+        "menu": "0545"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

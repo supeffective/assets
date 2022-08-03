@@ -88,6 +88,10 @@
         "showdownDef": "Komala",
         "smogon": "komala"
     },
+    "imgs": {
+        "home": "0775",
+        "menu": "0775"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

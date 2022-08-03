@@ -84,6 +84,10 @@
         "showdownDef": "Altaria-Mega",
         "smogon": "altaria-mega"
     },
+    "imgs": {
+        "home": "0334-mega",
+        "menu": "0334-mega"
+    },
     "baseSpecies": "altaria",
     "baseForms": [
         "altaria"

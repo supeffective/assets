@@ -98,6 +98,10 @@
         "showdownDef": "Girafarig",
         "smogon": "girafarig"
     },
+    "imgs": {
+        "home": "0203-f",
+        "menu": "0203"
+    },
     "baseSpecies": "girafarig",
     "baseForms": [],
     "forms": null,

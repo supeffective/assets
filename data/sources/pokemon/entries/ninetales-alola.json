@@ -96,6 +96,10 @@
         "showdownDef": "Ninetales-Alola",
         "smogon": "ninetales-alola"
     },
+    "imgs": {
+        "home": "0038-alola",
+        "menu": "0038-alola"
+    },
     "baseSpecies": "ninetales",
     "baseForms": [],
     "forms": null,

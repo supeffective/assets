@@ -89,6 +89,10 @@
         "showdownDef": "Vivillon-Sun",
         "smogon": "vivillon-sun"
     },
+    "imgs": {
+        "home": "0666-sun",
+        "menu": "0666-sun"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

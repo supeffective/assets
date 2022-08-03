@@ -86,6 +86,10 @@
         "showdownDef": "Hattrem",
         "smogon": "hattrem"
     },
+    "imgs": {
+        "home": "0857",
+        "menu": "0857"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

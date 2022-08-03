@@ -90,6 +90,10 @@
         "showdownDef": "Lunala",
         "smogon": "lunala"
     },
+    "imgs": {
+        "home": "0792",
+        "menu": "0792"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

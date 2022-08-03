@@ -103,6 +103,10 @@
         "showdownDef": "Volbeat",
         "smogon": "volbeat"
     },
+    "imgs": {
+        "home": "0313",
+        "menu": "0313"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

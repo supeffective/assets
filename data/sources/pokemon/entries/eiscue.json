@@ -86,6 +86,10 @@
         "showdownDef": "Eiscue",
         "smogon": "eiscue"
     },
+    "imgs": {
+        "home": "0875",
+        "menu": "0875"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

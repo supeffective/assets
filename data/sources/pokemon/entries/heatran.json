@@ -103,6 +103,10 @@
         "showdownDef": "Heatran",
         "smogon": "heatran"
     },
+    "imgs": {
+        "home": "0485",
+        "menu": "0485"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -92,6 +92,10 @@
         "showdownDef": "Hakamoo",
         "smogon": "hakamoo"
     },
+    "imgs": {
+        "home": "0783",
+        "menu": "0783"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

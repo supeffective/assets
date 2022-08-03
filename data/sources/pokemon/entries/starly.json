@@ -101,6 +101,10 @@
         "showdownDef": "Starly",
         "smogon": "starly"
     },
+    "imgs": {
+        "home": "0396",
+        "menu": "0396"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

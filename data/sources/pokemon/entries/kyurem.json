@@ -96,6 +96,10 @@
         "showdownDef": "Kyurem",
         "smogon": "kyurem"
     },
+    "imgs": {
+        "home": "0646",
+        "menu": "0646"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

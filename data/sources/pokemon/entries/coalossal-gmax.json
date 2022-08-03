@@ -83,6 +83,10 @@
         "showdownDef": "Coalossal-Gmax",
         "smogon": "coalossal-gmax"
     },
+    "imgs": {
+        "home": "0839-gmax",
+        "menu": "0839-gmax"
+    },
     "baseSpecies": "coalossal",
     "baseForms": [
         "coalossal"

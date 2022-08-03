@@ -105,6 +105,10 @@
         "showdownDef": "Houndour",
         "smogon": "houndour"
     },
+    "imgs": {
+        "home": "0228",
+        "menu": "0228"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -89,6 +89,10 @@
         "showdownDef": "Silvally-Psychic",
         "smogon": "silvally-psychic"
     },
+    "imgs": {
+        "home": "0773-psychic",
+        "menu": "0773-psychic"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

@@ -86,6 +86,10 @@
         "showdownDef": "Urshifu",
         "smogon": "urshifu"
     },
+    "imgs": {
+        "home": "0892",
+        "menu": "0892"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

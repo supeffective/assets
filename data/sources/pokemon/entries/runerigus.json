@@ -88,6 +88,10 @@
         "showdownDef": "Runerigus",
         "smogon": "runerigus"
     },
+    "imgs": {
+        "home": "0867",
+        "menu": "0867"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

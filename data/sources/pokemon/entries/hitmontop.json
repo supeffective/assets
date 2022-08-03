@@ -107,6 +107,10 @@
         "showdownDef": "Hitmontop",
         "smogon": "hitmontop"
     },
+    "imgs": {
+        "home": "0237",
+        "menu": "0237"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

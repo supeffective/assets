@@ -86,6 +86,10 @@
         "showdownDef": "Basculegion",
         "smogon": "basculegion"
     },
+    "imgs": {
+        "home": "0902",
+        "menu": "0902"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

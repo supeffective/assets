@@ -93,6 +93,10 @@
         "showdownDef": "Xerneas",
         "smogon": "xerneas"
     },
+    "imgs": {
+        "home": "0716",
+        "menu": "0716"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

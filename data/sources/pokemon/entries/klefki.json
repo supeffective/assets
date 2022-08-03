@@ -93,6 +93,10 @@
         "showdownDef": "Klefki",
         "smogon": "klefki"
     },
+    "imgs": {
+        "home": "0707",
+        "menu": "0707"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

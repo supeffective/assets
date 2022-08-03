@@ -86,6 +86,10 @@
         "showdownDef": "Eternatus",
         "smogon": "eternatus"
     },
+    "imgs": {
+        "home": "0890",
+        "menu": "0890"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -107,6 +107,10 @@
         "showdownDef": "Spheal",
         "smogon": "spheal"
     },
+    "imgs": {
+        "home": "0363",
+        "menu": "0363"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

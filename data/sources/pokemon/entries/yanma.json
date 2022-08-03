@@ -107,6 +107,10 @@
         "showdownDef": "Yanma",
         "smogon": "yanma"
     },
+    "imgs": {
+        "home": "0193",
+        "menu": "0193"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

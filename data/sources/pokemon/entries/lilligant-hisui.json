@@ -86,6 +86,10 @@
         "showdownDef": "Lilligant-Hisui",
         "smogon": "lilligant-hisui"
     },
+    "imgs": {
+        "home": "0549-hisui",
+        "menu": "0549-hisui"
+    },
     "baseSpecies": "lilligant",
     "baseForms": [],
     "forms": [],

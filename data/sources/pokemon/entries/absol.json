@@ -105,6 +105,10 @@
         "showdownDef": "Absol",
         "smogon": "absol"
     },
+    "imgs": {
+        "home": "0359",
+        "menu": "0359"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

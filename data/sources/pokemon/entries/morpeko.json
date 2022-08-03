@@ -86,6 +86,10 @@
         "showdownDef": "Morpeko",
         "smogon": "morpeko"
     },
+    "imgs": {
+        "home": "0877",
+        "menu": "0877"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

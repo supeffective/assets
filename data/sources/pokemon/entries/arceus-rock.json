@@ -98,6 +98,10 @@
         "showdownDef": "Arceus-Rock",
         "smogon": "arceus-rock"
     },
+    "imgs": {
+        "home": "0493-rock",
+        "menu": "0493-rock"
+    },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"

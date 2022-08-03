@@ -83,6 +83,10 @@
         "showdownDef": "Copperajah-Gmax",
         "smogon": "copperajah-gmax"
     },
+    "imgs": {
+        "home": "0879-gmax",
+        "menu": "0879-gmax"
+    },
     "baseSpecies": "copperajah",
     "baseForms": [
         "copperajah"

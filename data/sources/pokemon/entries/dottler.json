@@ -86,6 +86,10 @@
         "showdownDef": "Dottler",
         "smogon": "dottler"
     },
+    "imgs": {
+        "home": "0825",
+        "menu": "0825"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

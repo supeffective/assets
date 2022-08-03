@@ -88,6 +88,10 @@
         "showdownDef": "Electrode-Hisui",
         "smogon": "electrode-hisui"
     },
+    "imgs": {
+        "home": "0101-hisui",
+        "menu": "0101-hisui"
+    },
     "baseSpecies": "electrode",
     "baseForms": [],
     "forms": [],

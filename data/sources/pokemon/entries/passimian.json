@@ -90,6 +90,10 @@
         "showdownDef": "Passimian",
         "smogon": "passimian"
     },
+    "imgs": {
+        "home": "0766",
+        "menu": "0766"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

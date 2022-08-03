@@ -86,6 +86,10 @@
         "showdownDef": "Alcremie-Caramel-Swirl-Ribbon",
         "smogon": "alcremie-caramel-swirl-ribbon"
     },
+    "imgs": {
+        "home": "0869-caramel-swirl-ribbon",
+        "menu": "0869-caramel-swirl-ribbon"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

@@ -95,6 +95,10 @@
         "showdownDef": "Genesect-Douse",
         "smogon": "genesect-douse"
     },
+    "imgs": {
+        "home": "0649-douse",
+        "menu": "0649-douse"
+    },
     "baseSpecies": "genesect",
     "baseForms": [
         "genesect"

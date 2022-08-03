@@ -107,6 +107,10 @@
         "showdownDef": "Natu",
         "smogon": "natu"
     },
+    "imgs": {
+        "home": "0177",
+        "menu": "0177"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

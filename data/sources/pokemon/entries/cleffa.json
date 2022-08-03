@@ -109,6 +109,10 @@
         "showdownDef": "Cleffa",
         "smogon": "cleffa"
     },
+    "imgs": {
+        "home": "0173",
+        "menu": "0173"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

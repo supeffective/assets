@@ -96,6 +96,10 @@
         "showdownDef": "Klinklang",
         "smogon": "klinklang"
     },
+    "imgs": {
+        "home": "0601",
+        "menu": "0601"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

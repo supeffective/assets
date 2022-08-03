@@ -107,6 +107,10 @@
         "showdownDef": "Larvitar",
         "smogon": "larvitar"
     },
+    "imgs": {
+        "home": "0246",
+        "menu": "0246"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

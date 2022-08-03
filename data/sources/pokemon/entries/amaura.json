@@ -93,6 +93,10 @@
         "showdownDef": "Amaura",
         "smogon": "amaura"
     },
+    "imgs": {
+        "home": "0698",
+        "menu": "0698"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

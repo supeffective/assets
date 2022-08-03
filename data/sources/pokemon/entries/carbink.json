@@ -91,6 +91,10 @@
         "showdownDef": "Carbink",
         "smogon": "carbink"
     },
+    "imgs": {
+        "home": "0703",
+        "menu": "0703"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

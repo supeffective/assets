@@ -86,6 +86,10 @@
         "showdownDef": "Drizzile",
         "smogon": "drizzile"
     },
+    "imgs": {
+        "home": "0817",
+        "menu": "0817"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

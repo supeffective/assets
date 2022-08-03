@@ -94,6 +94,10 @@
         "showdownDef": "Eelektross",
         "smogon": "eelektross"
     },
+    "imgs": {
+        "home": "0604",
+        "menu": "0604"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

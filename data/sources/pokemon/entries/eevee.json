@@ -113,6 +113,10 @@
         "showdownDef": "Eevee",
         "smogon": "eevee"
     },
+    "imgs": {
+        "home": "0133",
+        "menu": "0133"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

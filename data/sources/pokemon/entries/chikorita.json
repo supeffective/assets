@@ -105,6 +105,10 @@
         "showdownDef": "Chikorita",
         "smogon": "chikorita"
     },
+    "imgs": {
+        "home": "0152",
+        "menu": "0152"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

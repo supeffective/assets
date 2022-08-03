@@ -95,6 +95,10 @@
         "showdownDef": "Sylveon",
         "smogon": "sylveon"
     },
+    "imgs": {
+        "home": "0700",
+        "menu": "0700"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

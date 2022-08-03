@@ -113,6 +113,10 @@
         "showdownDef": "Flareon",
         "smogon": "flareon"
     },
+    "imgs": {
+        "home": "0136",
+        "menu": "0136"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

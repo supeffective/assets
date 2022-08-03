@@ -101,6 +101,10 @@
         "showdownDef": "Burmy",
         "smogon": "burmy"
     },
+    "imgs": {
+        "home": "0412",
+        "menu": "0412"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

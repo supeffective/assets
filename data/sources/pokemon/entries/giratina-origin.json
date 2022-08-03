@@ -101,6 +101,10 @@
         "showdownDef": "Giratina-Origin",
         "smogon": "giratina-origin"
     },
+    "imgs": {
+        "home": "0487-origin",
+        "menu": "0487-origin"
+    },
     "baseSpecies": "giratina",
     "baseForms": [
         "giratina"

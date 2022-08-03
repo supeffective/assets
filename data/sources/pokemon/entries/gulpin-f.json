@@ -98,6 +98,10 @@
         "showdownDef": "Gulpin",
         "smogon": "gulpin"
     },
+    "imgs": {
+        "home": "0316-f",
+        "menu": "0316"
+    },
     "baseSpecies": "gulpin",
     "baseForms": [],
     "forms": null,

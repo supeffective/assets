@@ -111,6 +111,10 @@
         "showdownDef": "Hitmonlee",
         "smogon": "hitmonlee"
     },
+    "imgs": {
+        "home": "0106",
+        "menu": "0106"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

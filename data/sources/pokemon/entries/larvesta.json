@@ -94,6 +94,10 @@
         "showdownDef": "Larvesta",
         "smogon": "larvesta"
     },
+    "imgs": {
+        "home": "0636",
+        "menu": "0636"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

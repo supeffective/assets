@@ -94,6 +94,10 @@
         "showdownDef": "Serperior",
         "smogon": "serperior"
     },
+    "imgs": {
+        "home": "0497",
+        "menu": "0497"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -109,6 +109,10 @@
         "showdownDef": "Remoraid",
         "smogon": "remoraid"
     },
+    "imgs": {
+        "home": "0223",
+        "menu": "0223"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

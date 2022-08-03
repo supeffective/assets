@@ -89,6 +89,10 @@
         "showdownDef": "Silvally-Dragon",
         "smogon": "silvally-dragon"
     },
+    "imgs": {
+        "home": "0773-dragon",
+        "menu": "0773-dragon"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

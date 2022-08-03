@@ -101,6 +101,10 @@
         "showdownDef": "Kricketune",
         "smogon": "kricketune"
     },
+    "imgs": {
+        "home": "0402",
+        "menu": "0402"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

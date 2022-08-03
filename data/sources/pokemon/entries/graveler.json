@@ -111,6 +111,10 @@
         "showdownDef": "Graveler",
         "smogon": "graveler"
     },
+    "imgs": {
+        "home": "0075",
+        "menu": "0075"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

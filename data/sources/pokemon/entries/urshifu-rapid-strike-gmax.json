@@ -83,6 +83,10 @@
         "showdownDef": "Urshifu-Rapid-Strike-Gmax",
         "smogon": "urshifu-rapid-strike-gmax"
     },
+    "imgs": {
+        "home": "0892-rapid-strike-gmax",
+        "menu": "0892-rapid-strike-gmax"
+    },
     "baseSpecies": "urshifu",
     "baseForms": [
         "urshifu-rapid-strike"

@@ -102,6 +102,10 @@
         "showdownDef": "Steelix",
         "smogon": "steelix"
     },
+    "imgs": {
+        "home": "0208-f",
+        "menu": "0208"
+    },
     "baseSpecies": "steelix",
     "baseForms": [],
     "forms": null,

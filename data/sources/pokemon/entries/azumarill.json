@@ -107,6 +107,10 @@
         "showdownDef": "Azumarill",
         "smogon": "azumarill"
     },
+    "imgs": {
+        "home": "0184",
+        "menu": "0184"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -88,6 +88,10 @@
         "showdownDef": "Castform-Sunny",
         "smogon": "castform-sunny"
     },
+    "imgs": {
+        "home": "0351-sunny",
+        "menu": "0351-sunny"
+    },
     "baseSpecies": "castform",
     "baseForms": [
         "castform"

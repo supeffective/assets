@@ -92,6 +92,10 @@
         "showdownDef": "Nihilego",
         "smogon": "nihilego"
     },
+    "imgs": {
+        "home": "0793",
+        "menu": "0793"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

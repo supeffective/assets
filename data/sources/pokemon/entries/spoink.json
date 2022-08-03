@@ -103,6 +103,10 @@
         "showdownDef": "Spoink",
         "smogon": "spoink"
     },
+    "imgs": {
+        "home": "0325",
+        "menu": "0325"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

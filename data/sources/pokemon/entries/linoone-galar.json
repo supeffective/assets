@@ -88,6 +88,10 @@
         "showdownDef": "Linoone-Galar",
         "smogon": "linoone-galar"
     },
+    "imgs": {
+        "home": "0264-galar",
+        "menu": "0264-galar"
+    },
     "baseSpecies": "linoone",
     "baseForms": [],
     "forms": null,

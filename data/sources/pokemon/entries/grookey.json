@@ -86,6 +86,10 @@
         "showdownDef": "Grookey",
         "smogon": "grookey"
     },
+    "imgs": {
+        "home": "0810",
+        "menu": "0810"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -90,6 +90,10 @@
         "showdownDef": "Oricorio-Pau",
         "smogon": "oricorio-pau"
     },
+    "imgs": {
+        "home": "0741-pau",
+        "menu": "0741-pau"
+    },
     "baseSpecies": "oricorio",
     "baseForms": [],
     "forms": null,

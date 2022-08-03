@@ -103,6 +103,10 @@
         "showdownDef": "Drifloon",
         "smogon": "drifloon"
     },
+    "imgs": {
+        "home": "0425",
+        "menu": "0425"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

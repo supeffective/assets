@@ -113,6 +113,10 @@
         "showdownDef": "Magnemite",
         "smogon": "magnemite"
     },
+    "imgs": {
+        "home": "0081",
+        "menu": "0081"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -86,6 +86,10 @@
         "showdownDef": "Coalossal",
         "smogon": "coalossal"
     },
+    "imgs": {
+        "home": "0839",
+        "menu": "0839"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

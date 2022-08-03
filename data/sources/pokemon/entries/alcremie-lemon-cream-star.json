@@ -86,6 +86,10 @@
         "showdownDef": "Alcremie-Lemon-Cream-Star",
         "smogon": "alcremie-lemon-cream-star"
     },
+    "imgs": {
+        "home": "0869-lemon-cream-star",
+        "menu": "0869-lemon-cream-star"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

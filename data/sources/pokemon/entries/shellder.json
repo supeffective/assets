@@ -111,6 +111,10 @@
         "showdownDef": "Shellder",
         "smogon": "shellder"
     },
+    "imgs": {
+        "home": "0090",
+        "menu": "0090"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

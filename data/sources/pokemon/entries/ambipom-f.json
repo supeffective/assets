@@ -101,6 +101,10 @@
         "showdownDef": "Ambipom",
         "smogon": "ambipom"
     },
+    "imgs": {
+        "home": "0424-f",
+        "menu": "0424"
+    },
     "baseSpecies": "ambipom",
     "baseForms": [],
     "forms": null,

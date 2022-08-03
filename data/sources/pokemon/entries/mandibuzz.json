@@ -96,6 +96,10 @@
         "showdownDef": "Mandibuzz",
         "smogon": "mandibuzz"
     },
+    "imgs": {
+        "home": "0630",
+        "menu": "0630"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

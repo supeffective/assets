@@ -94,6 +94,10 @@
         "showdownDef": "Sawsbuck-Summer",
         "smogon": "sawsbuck-summer"
     },
+    "imgs": {
+        "home": "0586-summer",
+        "menu": "0586-summer"
+    },
     "baseSpecies": "sawsbuck",
     "baseForms": [],
     "forms": null,

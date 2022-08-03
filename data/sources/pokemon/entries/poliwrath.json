@@ -111,6 +111,10 @@
         "showdownDef": "Poliwrath",
         "smogon": "poliwrath"
     },
+    "imgs": {
+        "home": "0062",
+        "menu": "0062"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

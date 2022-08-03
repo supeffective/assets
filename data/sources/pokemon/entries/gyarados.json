@@ -113,6 +113,10 @@
         "showdownDef": "Gyarados",
         "smogon": "gyarados"
     },
+    "imgs": {
+        "home": "0130",
+        "menu": "0130"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

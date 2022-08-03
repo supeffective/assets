@@ -88,6 +88,10 @@
         "showdownDef": "Braviary-Hisui",
         "smogon": "braviary-hisui"
     },
+    "imgs": {
+        "home": "0628-hisui",
+        "menu": "0628-hisui"
+    },
     "baseSpecies": "braviary",
     "baseForms": [],
     "forms": [],

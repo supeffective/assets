@@ -94,6 +94,10 @@
         "showdownDef": "Sandshrew-Alola",
         "smogon": "sandshrew-alola"
     },
+    "imgs": {
+        "home": "0027-alola",
+        "menu": "0027-alola"
+    },
     "baseSpecies": "sandshrew",
     "baseForms": [],
     "forms": null,

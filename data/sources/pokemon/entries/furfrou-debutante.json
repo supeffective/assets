@@ -91,6 +91,10 @@
         "showdownDef": "Furfrou-Debutante",
         "smogon": "furfrou-debutante"
     },
+    "imgs": {
+        "home": "0676-debutante",
+        "menu": "0676-debutante"
+    },
     "baseSpecies": "furfrou",
     "baseForms": [
         "furfrou"

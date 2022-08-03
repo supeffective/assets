@@ -83,6 +83,10 @@
         "showdownDef": "Zacian-Crowned",
         "smogon": "zacian-crowned"
     },
+    "imgs": {
+        "home": "0888-crowned",
+        "menu": "0888-crowned"
+    },
     "baseSpecies": "zacian",
     "baseForms": [
         "zacian"

@@ -96,6 +96,10 @@
         "showdownDef": "Foongus",
         "smogon": "foongus"
     },
+    "imgs": {
+        "home": "0590",
+        "menu": "0590"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

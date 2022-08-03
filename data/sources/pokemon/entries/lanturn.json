@@ -107,6 +107,10 @@
         "showdownDef": "Lanturn",
         "smogon": "lanturn"
     },
+    "imgs": {
+        "home": "0171",
+        "menu": "0171"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

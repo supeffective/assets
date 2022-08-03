@@ -107,6 +107,10 @@
         "showdownDef": "Suicune",
         "smogon": "suicune"
     },
+    "imgs": {
+        "home": "0245",
+        "menu": "0245"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

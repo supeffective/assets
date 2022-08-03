@@ -86,6 +86,10 @@
         "showdownDef": "Toxel",
         "smogon": "toxel"
     },
+    "imgs": {
+        "home": "0848",
+        "menu": "0848"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

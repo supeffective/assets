@@ -84,6 +84,10 @@
         "showdownDef": "Blaziken-Mega",
         "smogon": "blaziken-mega"
     },
+    "imgs": {
+        "home": "0257-mega",
+        "menu": "0257-mega"
+    },
     "baseSpecies": "blaziken",
     "baseForms": [
         "blaziken"

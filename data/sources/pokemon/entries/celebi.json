@@ -103,6 +103,10 @@
         "showdownDef": "Celebi",
         "smogon": "celebi"
     },
+    "imgs": {
+        "home": "0251",
+        "menu": "0251"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

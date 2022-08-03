@@ -91,6 +91,10 @@
         "showdownDef": "Chespin",
         "smogon": "chespin"
     },
+    "imgs": {
+        "home": "0650",
+        "menu": "0650"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

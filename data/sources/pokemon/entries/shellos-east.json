@@ -103,6 +103,10 @@
         "showdownDef": "Shellos-East",
         "smogon": "shellos-east"
     },
+    "imgs": {
+        "home": "0422-east",
+        "menu": "0422-east"
+    },
     "baseSpecies": "shellos",
     "baseForms": [],
     "forms": null,

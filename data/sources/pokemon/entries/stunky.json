@@ -103,6 +103,10 @@
         "showdownDef": "Stunky",
         "smogon": "stunky"
     },
+    "imgs": {
+        "home": "0434",
+        "menu": "0434"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -89,6 +89,10 @@
         "showdownDef": "Marshadow",
         "smogon": "marshadow"
     },
+    "imgs": {
+        "home": "0802",
+        "menu": "0802"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

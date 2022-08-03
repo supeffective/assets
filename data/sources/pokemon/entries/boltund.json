@@ -86,6 +86,10 @@
         "showdownDef": "Boltund",
         "smogon": "boltund"
     },
+    "imgs": {
+        "home": "0836",
+        "menu": "0836"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

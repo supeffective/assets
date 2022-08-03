@@ -107,6 +107,10 @@
         "showdownDef": "Pupitar",
         "smogon": "pupitar"
     },
+    "imgs": {
+        "home": "0247",
+        "menu": "0247"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

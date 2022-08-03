@@ -111,6 +111,10 @@
         "showdownDef": "Oddish",
         "smogon": "oddish"
     },
+    "imgs": {
+        "home": "0043",
+        "menu": "0043"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

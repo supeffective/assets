@@ -83,6 +83,10 @@
         "showdownDef": "Sandaconda-Gmax",
         "smogon": "sandaconda-gmax"
     },
+    "imgs": {
+        "home": "0844-gmax",
+        "menu": "0844-gmax"
+    },
     "baseSpecies": "sandaconda",
     "baseForms": [
         "sandaconda"

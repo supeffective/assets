@@ -96,6 +96,10 @@
         "showdownDef": "Gothita",
         "smogon": "gothita"
     },
+    "imgs": {
+        "home": "0574",
+        "menu": "0574"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

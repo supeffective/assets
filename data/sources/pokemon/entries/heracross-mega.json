@@ -84,6 +84,10 @@
         "showdownDef": "Heracross-Mega",
         "smogon": "heracross-mega"
     },
+    "imgs": {
+        "home": "0214-mega",
+        "menu": "0214-mega"
+    },
     "baseSpecies": "heracross",
     "baseForms": [
         "heracross"

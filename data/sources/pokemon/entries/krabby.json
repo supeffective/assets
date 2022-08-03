@@ -111,6 +111,10 @@
         "showdownDef": "Krabby",
         "smogon": "krabby"
     },
+    "imgs": {
+        "home": "0098",
+        "menu": "0098"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -109,6 +109,10 @@
         "showdownDef": "Ekans",
         "smogon": "ekans"
     },
+    "imgs": {
+        "home": "0023",
+        "menu": "0023"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

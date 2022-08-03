@@ -111,6 +111,10 @@
         "showdownDef": "Omanyte",
         "smogon": "omanyte"
     },
+    "imgs": {
+        "home": "0138",
+        "menu": "0138"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

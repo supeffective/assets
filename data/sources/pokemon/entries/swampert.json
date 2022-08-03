@@ -105,6 +105,10 @@
         "showdownDef": "Swampert",
         "smogon": "swampert"
     },
+    "imgs": {
+        "home": "0260",
+        "menu": "0260"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

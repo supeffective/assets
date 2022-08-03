@@ -96,6 +96,10 @@
         "showdownDef": "Chandelure",
         "smogon": "chandelure"
     },
+    "imgs": {
+        "home": "0609",
+        "menu": "0609"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

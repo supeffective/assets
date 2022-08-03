@@ -107,6 +107,10 @@
         "showdownDef": "Hooh",
         "smogon": "hooh"
     },
+    "imgs": {
+        "home": "0250",
+        "menu": "0250"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

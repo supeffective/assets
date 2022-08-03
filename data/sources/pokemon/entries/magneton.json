@@ -113,6 +113,10 @@
         "showdownDef": "Magneton",
         "smogon": "magneton"
     },
+    "imgs": {
+        "home": "0082",
+        "menu": "0082"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

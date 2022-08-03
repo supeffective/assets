@@ -86,6 +86,10 @@
         "showdownDef": "Scorbunny",
         "smogon": "scorbunny"
     },
+    "imgs": {
+        "home": "0813",
+        "menu": "0813"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

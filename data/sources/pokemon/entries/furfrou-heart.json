@@ -91,6 +91,10 @@
         "showdownDef": "Furfrou-Heart",
         "smogon": "furfrou-heart"
     },
+    "imgs": {
+        "home": "0676-heart",
+        "menu": "0676-heart"
+    },
     "baseSpecies": "furfrou",
     "baseForms": [
         "furfrou"

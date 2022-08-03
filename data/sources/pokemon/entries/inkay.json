@@ -93,6 +93,10 @@
         "showdownDef": "Inkay",
         "smogon": "inkay"
     },
+    "imgs": {
+        "home": "0686",
+        "menu": "0686"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

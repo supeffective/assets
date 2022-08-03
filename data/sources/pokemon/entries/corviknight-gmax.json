@@ -83,6 +83,10 @@
         "showdownDef": "Corviknight-Gmax",
         "smogon": "corviknight-gmax"
     },
+    "imgs": {
+        "home": "0823-gmax",
+        "menu": "0823-gmax"
+    },
     "baseSpecies": "corviknight",
     "baseForms": [
         "corviknight"

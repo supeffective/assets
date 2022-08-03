@@ -101,6 +101,10 @@
         "showdownDef": "Carnivine",
         "smogon": "carnivine"
     },
+    "imgs": {
+        "home": "0455",
+        "menu": "0455"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

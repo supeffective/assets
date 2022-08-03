@@ -86,6 +86,10 @@
         "showdownDef": "Zoroark-Hisui",
         "smogon": "zoroark-hisui"
     },
+    "imgs": {
+        "home": "0571-hisui",
+        "menu": "0571-hisui"
+    },
     "baseSpecies": "zoroark",
     "baseForms": [],
     "forms": [],

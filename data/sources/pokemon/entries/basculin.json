@@ -96,6 +96,10 @@
         "showdownDef": "Basculin",
         "smogon": "basculin"
     },
+    "imgs": {
+        "home": "0550",
+        "menu": "0550"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

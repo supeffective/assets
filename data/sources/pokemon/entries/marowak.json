@@ -111,6 +111,10 @@
         "showdownDef": "Marowak",
         "smogon": "marowak"
     },
+    "imgs": {
+        "home": "0105",
+        "menu": "0105"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

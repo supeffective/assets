@@ -105,6 +105,10 @@
         "showdownDef": "Loudred",
         "smogon": "loudred"
     },
+    "imgs": {
+        "home": "0294",
+        "menu": "0294"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

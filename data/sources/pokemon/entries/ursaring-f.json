@@ -100,6 +100,10 @@
         "showdownDef": "Ursaring",
         "smogon": "ursaring"
     },
+    "imgs": {
+        "home": "0217-f",
+        "menu": "0217"
+    },
     "baseSpecies": "ursaring",
     "baseForms": [],
     "forms": null,

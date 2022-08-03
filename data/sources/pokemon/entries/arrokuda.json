@@ -86,6 +86,10 @@
         "showdownDef": "Arrokuda",
         "smogon": "arrokuda"
     },
+    "imgs": {
+        "home": "0846",
+        "menu": "0846"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

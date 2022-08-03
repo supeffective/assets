@@ -113,6 +113,10 @@
         "showdownDef": "Haunter",
         "smogon": "haunter"
     },
+    "imgs": {
+        "home": "0093",
+        "menu": "0093"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

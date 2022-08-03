@@ -96,6 +96,10 @@
         "showdownDef": "Solosis",
         "smogon": "solosis"
     },
+    "imgs": {
+        "home": "0577",
+        "menu": "0577"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

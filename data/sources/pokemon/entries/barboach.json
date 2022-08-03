@@ -107,6 +107,10 @@
         "showdownDef": "Barboach",
         "smogon": "barboach"
     },
+    "imgs": {
+        "home": "0339",
+        "menu": "0339"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

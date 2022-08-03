@@ -107,6 +107,10 @@
         "showdownDef": "Quilava",
         "smogon": "quilava"
     },
+    "imgs": {
+        "home": "0156",
+        "menu": "0156"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

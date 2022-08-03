@@ -96,6 +96,10 @@
         "showdownDef": "Heatmor",
         "smogon": "heatmor"
     },
+    "imgs": {
+        "home": "0631",
+        "menu": "0631"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

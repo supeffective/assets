@@ -96,6 +96,10 @@
         "showdownDef": "Mienfoo",
         "smogon": "mienfoo"
     },
+    "imgs": {
+        "home": "0619",
+        "menu": "0619"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

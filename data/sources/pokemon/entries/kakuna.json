@@ -109,6 +109,10 @@
         "showdownDef": "Kakuna",
         "smogon": "kakuna"
     },
+    "imgs": {
+        "home": "0014",
+        "menu": "0014"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

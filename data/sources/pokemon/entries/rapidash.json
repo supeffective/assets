@@ -113,6 +113,10 @@
         "showdownDef": "Rapidash",
         "smogon": "rapidash"
     },
+    "imgs": {
+        "home": "0078",
+        "menu": "0078"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -83,6 +83,10 @@
         "showdownDef": "Urshifu-Gmax",
         "smogon": "urshifu-gmax"
     },
+    "imgs": {
+        "home": "0892-gmax",
+        "menu": "0892-gmax"
+    },
     "baseSpecies": "urshifu",
     "baseForms": [
         "urshifu"

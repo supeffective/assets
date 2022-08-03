@@ -114,6 +114,10 @@
         "showdownDef": "Venusaur",
         "smogon": "venusaur"
     },
+    "imgs": {
+        "home": "0003",
+        "menu": "0003"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

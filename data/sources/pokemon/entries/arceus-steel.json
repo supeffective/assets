@@ -98,6 +98,10 @@
         "showdownDef": "Arceus-Steel",
         "smogon": "arceus-steel"
     },
+    "imgs": {
+        "home": "0493-steel",
+        "menu": "0493-steel"
+    },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"

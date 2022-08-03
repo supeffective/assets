@@ -113,6 +113,10 @@
         "showdownDef": "Pikachu",
         "smogon": "pikachu"
     },
+    "imgs": {
+        "home": "0025",
+        "menu": "0025"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -109,6 +109,10 @@
         "showdownDef": "Weedle",
         "smogon": "weedle"
     },
+    "imgs": {
+        "home": "0013",
+        "menu": "0013"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

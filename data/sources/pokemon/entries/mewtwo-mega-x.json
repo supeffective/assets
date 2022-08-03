@@ -84,6 +84,10 @@
         "showdownDef": "Mewtwo-Mega-X",
         "smogon": "mewtwo-mega-x"
     },
+    "imgs": {
+        "home": "0150-mega-x",
+        "menu": "0150-mega-x"
+    },
     "baseSpecies": "mewtwo",
     "baseForms": [
         "mewtwo"

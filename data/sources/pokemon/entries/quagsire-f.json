@@ -100,6 +100,10 @@
         "showdownDef": "Quagsire",
         "smogon": "quagsire"
     },
+    "imgs": {
+        "home": "0195-f",
+        "menu": "0195"
+    },
     "baseSpecies": "quagsire",
     "baseForms": [],
     "forms": null,

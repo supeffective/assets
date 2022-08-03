@@ -93,6 +93,10 @@
         "showdownDef": "Bunnelby",
         "smogon": "bunnelby"
     },
+    "imgs": {
+        "home": "0659",
+        "menu": "0659"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

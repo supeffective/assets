@@ -105,6 +105,10 @@
         "showdownDef": "Manectric",
         "smogon": "manectric"
     },
+    "imgs": {
+        "home": "0310",
+        "menu": "0310"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

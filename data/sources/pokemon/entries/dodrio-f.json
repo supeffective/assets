@@ -99,6 +99,10 @@
         "showdownDef": "Dodrio",
         "smogon": "dodrio"
     },
+    "imgs": {
+        "home": "0085-f",
+        "menu": "0085"
+    },
     "baseSpecies": "dodrio",
     "baseForms": [],
     "forms": null,

@@ -94,6 +94,10 @@
         "showdownDef": "Swadloon",
         "smogon": "swadloon"
     },
+    "imgs": {
+        "home": "0541",
+        "menu": "0541"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

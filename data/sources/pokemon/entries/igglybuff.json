@@ -107,6 +107,10 @@
         "showdownDef": "Igglybuff",
         "smogon": "igglybuff"
     },
+    "imgs": {
+        "home": "0174",
+        "menu": "0174"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

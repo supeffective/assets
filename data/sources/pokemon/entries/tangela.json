@@ -113,6 +113,10 @@
         "showdownDef": "Tangela",
         "smogon": "tangela"
     },
+    "imgs": {
+        "home": "0114",
+        "menu": "0114"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

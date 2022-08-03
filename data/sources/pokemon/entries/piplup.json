@@ -101,6 +101,10 @@
         "showdownDef": "Piplup",
         "smogon": "piplup"
     },
+    "imgs": {
+        "home": "0393",
+        "menu": "0393"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

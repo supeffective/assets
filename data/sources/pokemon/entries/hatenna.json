@@ -86,6 +86,10 @@
         "showdownDef": "Hatenna",
         "smogon": "hatenna"
     },
+    "imgs": {
+        "home": "0856",
+        "menu": "0856"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

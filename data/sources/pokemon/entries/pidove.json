@@ -96,6 +96,10 @@
         "showdownDef": "Pidove",
         "smogon": "pidove"
     },
+    "imgs": {
+        "home": "0519",
+        "menu": "0519"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

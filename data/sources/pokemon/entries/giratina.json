@@ -103,6 +103,10 @@
         "showdownDef": "Giratina",
         "smogon": "giratina"
     },
+    "imgs": {
+        "home": "0487",
+        "menu": "0487"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

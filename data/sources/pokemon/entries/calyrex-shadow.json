@@ -90,6 +90,10 @@
         "showdownDef": "Calyrex-Shadow",
         "smogon": "calyrex-shadow"
     },
+    "imgs": {
+        "home": "0898-shadow",
+        "menu": "0898-shadow"
+    },
     "baseSpecies": "calyrex",
     "baseForms": [
         "calyrex"

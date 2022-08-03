@@ -103,6 +103,10 @@
         "showdownDef": "Poochyena",
         "smogon": "poochyena"
     },
+    "imgs": {
+        "home": "0261",
+        "menu": "0261"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

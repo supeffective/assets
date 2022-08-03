@@ -96,6 +96,10 @@
         "showdownDef": "Victini",
         "smogon": "victini"
     },
+    "imgs": {
+        "home": "0494",
+        "menu": "0494"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

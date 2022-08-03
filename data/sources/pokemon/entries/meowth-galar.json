@@ -88,6 +88,10 @@
         "showdownDef": "Meowth-Galar",
         "smogon": "meowth-galar"
     },
+    "imgs": {
+        "home": "0052-galar",
+        "menu": "0052-galar"
+    },
     "baseSpecies": "meowth",
     "baseForms": [],
     "forms": null,

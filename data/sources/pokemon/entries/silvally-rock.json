@@ -89,6 +89,10 @@
         "showdownDef": "Silvally-Rock",
         "smogon": "silvally-rock"
     },
+    "imgs": {
+        "home": "0773-rock",
+        "menu": "0773-rock"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

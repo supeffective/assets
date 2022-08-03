@@ -96,6 +96,10 @@
         "showdownDef": "Beartic",
         "smogon": "beartic"
     },
+    "imgs": {
+        "home": "0614",
+        "menu": "0614"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

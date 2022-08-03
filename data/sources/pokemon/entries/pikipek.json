@@ -90,6 +90,10 @@
         "showdownDef": "Pikipek",
         "smogon": "pikipek"
     },
+    "imgs": {
+        "home": "0731",
+        "menu": "0731"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

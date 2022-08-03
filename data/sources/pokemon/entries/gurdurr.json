@@ -96,6 +96,10 @@
         "showdownDef": "Gurdurr",
         "smogon": "gurdurr"
     },
+    "imgs": {
+        "home": "0533",
+        "menu": "0533"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -92,6 +92,10 @@
         "showdownDef": "Bewear",
         "smogon": "bewear"
     },
+    "imgs": {
+        "home": "0760",
+        "menu": "0760"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

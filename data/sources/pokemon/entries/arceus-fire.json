@@ -98,6 +98,10 @@
         "showdownDef": "Arceus-Fire",
         "smogon": "arceus-fire"
     },
+    "imgs": {
+        "home": "0493-fire",
+        "menu": "0493-fire"
+    },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"

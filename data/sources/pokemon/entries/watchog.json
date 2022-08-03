@@ -94,6 +94,10 @@
         "showdownDef": "Watchog",
         "smogon": "watchog"
     },
+    "imgs": {
+        "home": "0505",
+        "menu": "0505"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

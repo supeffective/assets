@@ -105,6 +105,10 @@
         "showdownDef": "Sableye",
         "smogon": "sableye"
     },
+    "imgs": {
+        "home": "0302",
+        "menu": "0302"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

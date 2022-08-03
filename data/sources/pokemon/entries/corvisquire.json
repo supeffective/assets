@@ -86,6 +86,10 @@
         "showdownDef": "Corvisquire",
         "smogon": "corvisquire"
     },
+    "imgs": {
+        "home": "0822",
+        "menu": "0822"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

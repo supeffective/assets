@@ -96,6 +96,10 @@
         "showdownDef": "Fraxure",
         "smogon": "fraxure"
     },
+    "imgs": {
+        "home": "0611",
+        "menu": "0611"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

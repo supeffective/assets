@@ -98,6 +98,10 @@
         "showdownDef": "Arceus-Flying",
         "smogon": "arceus-flying"
     },
+    "imgs": {
+        "home": "0493-flying",
+        "menu": "0493-flying"
+    },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"

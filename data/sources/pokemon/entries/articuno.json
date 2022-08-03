@@ -111,6 +111,10 @@
         "showdownDef": "Articuno",
         "smogon": "articuno"
     },
+    "imgs": {
+        "home": "0144",
+        "menu": "0144"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

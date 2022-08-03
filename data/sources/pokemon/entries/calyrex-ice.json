@@ -90,6 +90,10 @@
         "showdownDef": "Calyrex-Ice",
         "smogon": "calyrex-ice"
     },
+    "imgs": {
+        "home": "0898-ice",
+        "menu": "0898-ice"
+    },
     "baseSpecies": "calyrex",
     "baseForms": [
         "calyrex"

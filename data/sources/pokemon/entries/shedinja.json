@@ -105,6 +105,10 @@
         "showdownDef": "Shedinja",
         "smogon": "shedinja"
     },
+    "imgs": {
+        "home": "0292",
+        "menu": "0292"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

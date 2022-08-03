@@ -92,6 +92,10 @@
         "showdownDef": "Graveler-Alola",
         "smogon": "graveler-alola"
     },
+    "imgs": {
+        "home": "0075-alola",
+        "menu": "0075-alola"
+    },
     "baseSpecies": "graveler",
     "baseForms": [],
     "forms": null,

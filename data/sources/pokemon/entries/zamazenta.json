@@ -88,6 +88,10 @@
         "showdownDef": "Zamazenta",
         "smogon": "zamazenta"
     },
+    "imgs": {
+        "home": "0889",
+        "menu": "0889"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

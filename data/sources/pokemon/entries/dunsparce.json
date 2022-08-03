@@ -107,6 +107,10 @@
         "showdownDef": "Dunsparce",
         "smogon": "dunsparce"
     },
+    "imgs": {
+        "home": "0206",
+        "menu": "0206"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

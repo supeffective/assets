@@ -101,6 +101,10 @@
         "showdownDef": "Rotom-Fan",
         "smogon": "rotom-fan"
     },
+    "imgs": {
+        "home": "0479-fan",
+        "menu": "0479-fan"
+    },
     "baseSpecies": "rotom",
     "baseForms": [
         "rotom"

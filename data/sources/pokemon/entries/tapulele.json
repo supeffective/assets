@@ -92,6 +92,10 @@
         "showdownDef": "Tapulele",
         "smogon": "tapulele"
     },
+    "imgs": {
+        "home": "0786",
+        "menu": "0786"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

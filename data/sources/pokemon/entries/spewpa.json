@@ -89,6 +89,10 @@
         "showdownDef": "Spewpa",
         "smogon": "spewpa"
     },
+    "imgs": {
+        "home": "0665",
+        "menu": "0665"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

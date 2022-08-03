@@ -85,6 +85,10 @@
         "showdownDef": "Wishiwashi-School",
         "smogon": "wishiwashi-school"
     },
+    "imgs": {
+        "home": "0746-school",
+        "menu": "0746-school"
+    },
     "baseSpecies": "wishiwashi",
     "baseForms": [
         "wishiwashi"

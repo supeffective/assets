@@ -93,6 +93,10 @@
         "showdownDef": "Barbaracle",
         "smogon": "barbaracle"
     },
+    "imgs": {
+        "home": "0689",
+        "menu": "0689"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

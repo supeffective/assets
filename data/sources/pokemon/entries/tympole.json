@@ -96,6 +96,10 @@
         "showdownDef": "Tympole",
         "smogon": "tympole"
     },
+    "imgs": {
+        "home": "0535",
+        "menu": "0535"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -105,6 +105,10 @@
         "showdownDef": "Magcargo",
         "smogon": "magcargo"
     },
+    "imgs": {
+        "home": "0219",
+        "menu": "0219"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

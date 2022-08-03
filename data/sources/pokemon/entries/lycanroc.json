@@ -92,6 +92,10 @@
         "showdownDef": "Lycanroc",
         "smogon": "lycanroc"
     },
+    "imgs": {
+        "home": "0745",
+        "menu": "0745"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

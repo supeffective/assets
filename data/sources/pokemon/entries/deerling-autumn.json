@@ -94,6 +94,10 @@
         "showdownDef": "Deerling-Autumn",
         "smogon": "deerling-autumn"
     },
+    "imgs": {
+        "home": "0585-autumn",
+        "menu": "0585-autumn"
+    },
     "baseSpecies": "deerling",
     "baseForms": [],
     "forms": null,

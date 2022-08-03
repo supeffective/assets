@@ -92,6 +92,10 @@
         "showdownDef": "Raticate-Alola",
         "smogon": "raticate-alola"
     },
+    "imgs": {
+        "home": "0020-alola",
+        "menu": "0020-alola"
+    },
     "baseSpecies": "raticate",
     "baseForms": [],
     "forms": null,

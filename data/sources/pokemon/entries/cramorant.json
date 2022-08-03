@@ -86,6 +86,10 @@
         "showdownDef": "Cramorant",
         "smogon": "cramorant"
     },
+    "imgs": {
+        "home": "0845",
+        "menu": "0845"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

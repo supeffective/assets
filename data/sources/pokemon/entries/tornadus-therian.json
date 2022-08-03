@@ -96,6 +96,10 @@
         "showdownDef": "Tornadus-Therian",
         "smogon": "tornadus-therian"
     },
+    "imgs": {
+        "home": "0641-therian",
+        "menu": "0641-therian"
+    },
     "baseSpecies": "tornadus",
     "baseForms": [
         "tornadus"

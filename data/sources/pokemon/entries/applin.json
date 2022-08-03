@@ -86,6 +86,10 @@
         "showdownDef": "Applin",
         "smogon": "applin"
     },
+    "imgs": {
+        "home": "0840",
+        "menu": "0840"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

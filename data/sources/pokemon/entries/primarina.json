@@ -92,6 +92,10 @@
         "showdownDef": "Primarina",
         "smogon": "primarina"
     },
+    "imgs": {
+        "home": "0730",
+        "menu": "0730"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

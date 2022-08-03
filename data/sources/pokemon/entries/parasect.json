@@ -111,6 +111,10 @@
         "showdownDef": "Parasect",
         "smogon": "parasect"
     },
+    "imgs": {
+        "home": "0047",
+        "menu": "0047"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

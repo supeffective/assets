@@ -113,6 +113,10 @@
         "showdownDef": "Mrmime",
         "smogon": "mrmime"
     },
+    "imgs": {
+        "home": "0122",
+        "menu": "0122"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

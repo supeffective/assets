@@ -88,6 +88,10 @@
         "showdownDef": "Wooloo",
         "smogon": "wooloo"
     },
+    "imgs": {
+        "home": "0831",
+        "menu": "0831"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -89,6 +89,10 @@
         "showdownDef": "Vivillon-Garden",
         "smogon": "vivillon-garden"
     },
+    "imgs": {
+        "home": "0666-garden",
+        "menu": "0666-garden"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

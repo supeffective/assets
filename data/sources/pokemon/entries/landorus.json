@@ -98,6 +98,10 @@
         "showdownDef": "Landorus",
         "smogon": "landorus"
     },
+    "imgs": {
+        "home": "0645",
+        "menu": "0645"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -85,6 +85,10 @@
         "showdownDef": "Mimikyu-Busted",
         "smogon": "mimikyu-busted"
     },
+    "imgs": {
+        "home": "0778-busted",
+        "menu": "0778"
+    },
     "baseSpecies": "mimikyu",
     "baseForms": [
         "mimikyu"

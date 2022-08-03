@@ -103,6 +103,10 @@
         "showdownDef": "Cherrim",
         "smogon": "cherrim"
     },
+    "imgs": {
+        "home": "0421",
+        "menu": "0421"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

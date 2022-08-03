@@ -93,6 +93,10 @@
         "showdownDef": "Malamar",
         "smogon": "malamar"
     },
+    "imgs": {
+        "home": "0687",
+        "menu": "0687"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

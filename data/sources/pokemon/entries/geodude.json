@@ -111,6 +111,10 @@
         "showdownDef": "Geodude",
         "smogon": "geodude"
     },
+    "imgs": {
+        "home": "0074",
+        "menu": "0074"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

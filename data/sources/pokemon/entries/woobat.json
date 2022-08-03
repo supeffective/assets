@@ -96,6 +96,10 @@
         "showdownDef": "Woobat",
         "smogon": "woobat"
     },
+    "imgs": {
+        "home": "0527",
+        "menu": "0527"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

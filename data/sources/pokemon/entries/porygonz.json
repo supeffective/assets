@@ -103,6 +103,10 @@
         "showdownDef": "Porygonz",
         "smogon": "porygonz"
     },
+    "imgs": {
+        "home": "0474",
+        "menu": "0474"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -96,6 +96,10 @@
         "showdownDef": "Joltik",
         "smogon": "joltik"
     },
+    "imgs": {
+        "home": "0595",
+        "menu": "0595"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

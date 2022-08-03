@@ -105,6 +105,10 @@
         "showdownDef": "Marshtomp",
         "smogon": "marshtomp"
     },
+    "imgs": {
+        "home": "0259",
+        "menu": "0259"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

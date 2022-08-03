@@ -101,6 +101,10 @@
         "showdownDef": "Grotle",
         "smogon": "grotle"
     },
+    "imgs": {
+        "home": "0388",
+        "menu": "0388"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

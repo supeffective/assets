@@ -86,6 +86,10 @@
         "showdownDef": "Rookidee",
         "smogon": "rookidee"
     },
+    "imgs": {
+        "home": "0821",
+        "menu": "0821"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

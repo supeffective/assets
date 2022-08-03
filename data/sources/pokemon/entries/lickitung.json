@@ -113,6 +113,10 @@
         "showdownDef": "Lickitung",
         "smogon": "lickitung"
     },
+    "imgs": {
+        "home": "0108",
+        "menu": "0108"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

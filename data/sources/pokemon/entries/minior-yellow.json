@@ -88,6 +88,10 @@
         "showdownDef": "Minior-Yellow",
         "smogon": "minior-yellow"
     },
+    "imgs": {
+        "home": "0774-yellow",
+        "menu": "0774-yellow"
+    },
     "baseSpecies": "minior",
     "baseForms": [
         "minior"

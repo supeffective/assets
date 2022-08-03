@@ -105,6 +105,10 @@
         "showdownDef": "Lombre",
         "smogon": "lombre"
     },
+    "imgs": {
+        "home": "0271",
+        "menu": "0271"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

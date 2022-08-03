@@ -109,6 +109,10 @@
         "showdownDef": "Togepi",
         "smogon": "togepi"
     },
+    "imgs": {
+        "home": "0175",
+        "menu": "0175"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

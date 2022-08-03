@@ -113,6 +113,10 @@
         "showdownDef": "Tentacruel",
         "smogon": "tentacruel"
     },
+    "imgs": {
+        "home": "0073",
+        "menu": "0073"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

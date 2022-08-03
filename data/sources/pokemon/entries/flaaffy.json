@@ -105,6 +105,10 @@
         "showdownDef": "Flaaffy",
         "smogon": "flaaffy"
     },
+    "imgs": {
+        "home": "0180",
+        "menu": "0180"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

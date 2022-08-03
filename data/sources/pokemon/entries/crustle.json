@@ -96,6 +96,10 @@
         "showdownDef": "Crustle",
         "smogon": "crustle"
     },
+    "imgs": {
+        "home": "0558",
+        "menu": "0558"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

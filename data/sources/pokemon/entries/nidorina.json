@@ -111,6 +111,10 @@
         "showdownDef": "Nidorina",
         "smogon": "nidorina"
     },
+    "imgs": {
+        "home": "0030",
+        "menu": "0030"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

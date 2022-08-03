@@ -86,6 +86,10 @@
         "showdownDef": "Snom",
         "smogon": "snom"
     },
+    "imgs": {
+        "home": "0872",
+        "menu": "0872"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

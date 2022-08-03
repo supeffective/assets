@@ -94,6 +94,10 @@
         "showdownDef": "Tepig",
         "smogon": "tepig"
     },
+    "imgs": {
+        "home": "0498",
+        "menu": "0498"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

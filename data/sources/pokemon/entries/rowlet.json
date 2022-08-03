@@ -94,6 +94,10 @@
         "showdownDef": "Rowlet",
         "smogon": "rowlet"
     },
+    "imgs": {
+        "home": "0722",
+        "menu": "0722"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

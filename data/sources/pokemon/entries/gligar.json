@@ -107,6 +107,10 @@
         "showdownDef": "Gligar",
         "smogon": "gligar"
     },
+    "imgs": {
+        "home": "0207",
+        "menu": "0207"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

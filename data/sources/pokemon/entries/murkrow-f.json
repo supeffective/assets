@@ -100,6 +100,10 @@
         "showdownDef": "Murkrow",
         "smogon": "murkrow"
     },
+    "imgs": {
+        "home": "0198-f",
+        "menu": "0198"
+    },
     "baseSpecies": "murkrow",
     "baseForms": [],
     "forms": null,

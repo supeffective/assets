@@ -91,6 +91,10 @@
         "showdownDef": "Honedge",
         "smogon": "honedge"
     },
+    "imgs": {
+        "home": "0679",
+        "menu": "0679"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

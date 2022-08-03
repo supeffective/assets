@@ -90,6 +90,10 @@
         "showdownDef": "Pikachu-Kalos",
         "smogon": "pikachu-kalos"
     },
+    "imgs": {
+        "home": "0025-kalos-cap",
+        "menu": "0025-kalos-cap"
+    },
     "baseSpecies": "pikachu",
     "baseForms": [],
     "forms": null,

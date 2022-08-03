@@ -105,6 +105,10 @@
         "showdownDef": "Baltoy",
         "smogon": "baltoy"
     },
+    "imgs": {
+        "home": "0343",
+        "menu": "0343"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

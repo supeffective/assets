@@ -83,6 +83,10 @@
         "showdownDef": "Machamp-Gmax",
         "smogon": "machamp-gmax"
     },
+    "imgs": {
+        "home": "0068-gmax",
+        "menu": "0068-gmax"
+    },
     "baseSpecies": "machamp",
     "baseForms": [
         "machamp"

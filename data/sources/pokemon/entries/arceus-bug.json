@@ -98,6 +98,10 @@
         "showdownDef": "Arceus-Bug",
         "smogon": "arceus-bug"
     },
+    "imgs": {
+        "home": "0493-bug",
+        "menu": "0493-bug"
+    },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"

@@ -96,6 +96,10 @@
         "showdownDef": "Shelmet",
         "smogon": "shelmet"
     },
+    "imgs": {
+        "home": "0616",
+        "menu": "0616"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -84,6 +84,10 @@
         "showdownDef": "Groudon-Primal",
         "smogon": "groudon-primal"
     },
+    "imgs": {
+        "home": "0383-primal",
+        "menu": "0383-primal"
+    },
     "baseSpecies": "groudon",
     "baseForms": [
         "groudon"

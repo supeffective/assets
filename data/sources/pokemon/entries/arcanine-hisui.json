@@ -88,6 +88,10 @@
         "showdownDef": "Arcanine-Hisui",
         "smogon": "arcanine-hisui"
     },
+    "imgs": {
+        "home": "0059-hisui",
+        "menu": "0059-hisui"
+    },
     "baseSpecies": "arcanine",
     "baseForms": [],
     "forms": [],

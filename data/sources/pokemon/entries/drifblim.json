@@ -103,6 +103,10 @@
         "showdownDef": "Drifblim",
         "smogon": "drifblim"
     },
+    "imgs": {
+        "home": "0426",
+        "menu": "0426"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -90,6 +90,10 @@
         "showdownDef": "Cosmoem",
         "smogon": "cosmoem"
     },
+    "imgs": {
+        "home": "0790",
+        "menu": "0790"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

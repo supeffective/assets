@@ -113,6 +113,10 @@
         "showdownDef": "Snorlax",
         "smogon": "snorlax"
     },
+    "imgs": {
+        "home": "0143",
+        "menu": "0143"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

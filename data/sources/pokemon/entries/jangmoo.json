@@ -92,6 +92,10 @@
         "showdownDef": "Jangmoo",
         "smogon": "jangmoo"
     },
+    "imgs": {
+        "home": "0782",
+        "menu": "0782"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

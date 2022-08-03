@@ -88,6 +88,10 @@
         "showdownDef": "Sirfetchd",
         "smogon": "sirfetchd"
     },
+    "imgs": {
+        "home": "0865",
+        "menu": "0865"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

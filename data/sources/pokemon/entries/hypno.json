@@ -109,6 +109,10 @@
         "showdownDef": "Hypno",
         "smogon": "hypno"
     },
+    "imgs": {
+        "home": "0097",
+        "menu": "0097"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

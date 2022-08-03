@@ -90,6 +90,10 @@
         "showdownDef": "Guzzlord",
         "smogon": "guzzlord"
     },
+    "imgs": {
+        "home": "0799",
+        "menu": "0799"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -83,6 +83,10 @@
         "showdownDef": "Zamazenta-Crowned",
         "smogon": "zamazenta-crowned"
     },
+    "imgs": {
+        "home": "0889-crowned",
+        "menu": "0889-crowned"
+    },
     "baseSpecies": "zamazenta",
     "baseForms": [
         "zamazenta"

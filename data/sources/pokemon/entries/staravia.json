@@ -101,6 +101,10 @@
         "showdownDef": "Staravia",
         "smogon": "staravia"
     },
+    "imgs": {
+        "home": "0397",
+        "menu": "0397"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

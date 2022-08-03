@@ -86,6 +86,10 @@
         "showdownDef": "Enamorus-Therian",
         "smogon": "enamorus-therian"
     },
+    "imgs": {
+        "home": "0905-therian",
+        "menu": "0905-therian"
+    },
     "baseSpecies": "enamorus",
     "baseForms": [],
     "forms": [],

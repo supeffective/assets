@@ -86,6 +86,10 @@
         "showdownDef": "Impidimp",
         "smogon": "impidimp"
     },
+    "imgs": {
+        "home": "0859",
+        "menu": "0859"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

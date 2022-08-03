@@ -107,6 +107,10 @@
         "showdownDef": "Entei",
         "smogon": "entei"
     },
+    "imgs": {
+        "home": "0244",
+        "menu": "0244"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

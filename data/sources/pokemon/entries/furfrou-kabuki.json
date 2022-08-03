@@ -91,6 +91,10 @@
         "showdownDef": "Furfrou-Kabuki",
         "smogon": "furfrou-kabuki"
     },
+    "imgs": {
+        "home": "0676-kabuki",
+        "menu": "0676-kabuki"
+    },
     "baseSpecies": "furfrou",
     "baseForms": [
         "furfrou"

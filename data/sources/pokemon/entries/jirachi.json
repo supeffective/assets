@@ -102,6 +102,10 @@
         "showdownDef": "Jirachi",
         "smogon": "jirachi"
     },
+    "imgs": {
+        "home": "0385",
+        "menu": "0385"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

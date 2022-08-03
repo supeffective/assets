@@ -89,6 +89,10 @@
         "showdownDef": "Silvally-Dark",
         "smogon": "silvally-dark"
     },
+    "imgs": {
+        "home": "0773-dark",
+        "menu": "0773-dark"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

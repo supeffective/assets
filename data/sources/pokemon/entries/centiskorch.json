@@ -86,6 +86,10 @@
         "showdownDef": "Centiskorch",
         "smogon": "centiskorch"
     },
+    "imgs": {
+        "home": "0851",
+        "menu": "0851"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

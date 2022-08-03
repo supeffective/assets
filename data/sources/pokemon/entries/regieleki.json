@@ -86,6 +86,10 @@
         "showdownDef": "Regieleki",
         "smogon": "regieleki"
     },
+    "imgs": {
+        "home": "0894",
+        "menu": "0894"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

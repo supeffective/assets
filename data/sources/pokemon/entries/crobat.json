@@ -109,6 +109,10 @@
         "showdownDef": "Crobat",
         "smogon": "crobat"
     },
+    "imgs": {
+        "home": "0169",
+        "menu": "0169"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

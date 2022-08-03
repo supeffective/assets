@@ -84,6 +84,10 @@
         "showdownDef": "Kangaskhan-Mega",
         "smogon": "kangaskhan-mega"
     },
+    "imgs": {
+        "home": "0115-mega",
+        "menu": "0115-mega"
+    },
     "baseSpecies": "kangaskhan",
     "baseForms": [
         "kangaskhan"

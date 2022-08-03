@@ -86,6 +86,10 @@
         "showdownDef": "Alcremie-Mint-Cream-Berry",
         "smogon": "alcremie-mint-cream-berry"
     },
+    "imgs": {
+        "home": "0869-mint-cream-berry",
+        "menu": "0869-mint-cream-berry"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

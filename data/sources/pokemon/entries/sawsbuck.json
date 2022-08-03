@@ -94,6 +94,10 @@
         "showdownDef": "Sawsbuck",
         "smogon": "sawsbuck"
     },
+    "imgs": {
+        "home": "0586",
+        "menu": "0586"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -96,6 +96,10 @@
         "showdownDef": "Virizion",
         "smogon": "virizion"
     },
+    "imgs": {
+        "home": "0640",
+        "menu": "0640"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

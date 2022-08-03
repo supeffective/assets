@@ -96,6 +96,10 @@
         "showdownDef": "Mienshao",
         "smogon": "mienshao"
     },
+    "imgs": {
+        "home": "0620",
+        "menu": "0620"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

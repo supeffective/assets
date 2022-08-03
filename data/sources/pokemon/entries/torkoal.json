@@ -105,6 +105,10 @@
         "showdownDef": "Torkoal",
         "smogon": "torkoal"
     },
+    "imgs": {
+        "home": "0324",
+        "menu": "0324"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

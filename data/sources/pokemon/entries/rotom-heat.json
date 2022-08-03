@@ -101,6 +101,10 @@
         "showdownDef": "Rotom-Heat",
         "smogon": "rotom-heat"
     },
+    "imgs": {
+        "home": "0479-heat",
+        "menu": "0479-heat"
+    },
     "baseSpecies": "rotom",
     "baseForms": [
         "rotom"

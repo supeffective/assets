@@ -88,6 +88,10 @@
         "showdownDef": "Naganadel",
         "smogon": "naganadel"
     },
+    "imgs": {
+        "home": "0804",
+        "menu": "0804"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

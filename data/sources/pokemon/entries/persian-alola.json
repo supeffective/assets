@@ -94,6 +94,10 @@
         "showdownDef": "Persian-Alola",
         "smogon": "persian-alola"
     },
+    "imgs": {
+        "home": "0053-alola",
+        "menu": "0053-alola"
+    },
     "baseSpecies": "persian",
     "baseForms": [],
     "forms": null,

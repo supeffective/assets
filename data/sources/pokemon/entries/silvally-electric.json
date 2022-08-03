@@ -89,6 +89,10 @@
         "showdownDef": "Silvally-Electric",
         "smogon": "silvally-electric"
     },
+    "imgs": {
+        "home": "0773-electric",
+        "menu": "0773-electric"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

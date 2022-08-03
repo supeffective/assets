@@ -89,6 +89,10 @@
         "showdownDef": "Vivillon-Tundra",
         "smogon": "vivillon-tundra"
     },
+    "imgs": {
+        "home": "0666-tundra",
+        "menu": "0666-tundra"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

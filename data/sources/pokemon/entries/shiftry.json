@@ -105,6 +105,10 @@
         "showdownDef": "Shiftry",
         "smogon": "shiftry"
     },
+    "imgs": {
+        "home": "0275",
+        "menu": "0275"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

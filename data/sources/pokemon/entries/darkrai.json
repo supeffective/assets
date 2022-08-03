@@ -101,6 +101,10 @@
         "showdownDef": "Darkrai",
         "smogon": "darkrai"
     },
+    "imgs": {
+        "home": "0491",
+        "menu": "0491"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

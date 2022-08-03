@@ -94,6 +94,10 @@
         "showdownDef": "Pansage",
         "smogon": "pansage"
     },
+    "imgs": {
+        "home": "0511",
+        "menu": "0511"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

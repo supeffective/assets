@@ -109,6 +109,10 @@
         "showdownDef": "Umbreon",
         "smogon": "umbreon"
     },
+    "imgs": {
+        "home": "0197",
+        "menu": "0197"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -93,6 +93,10 @@
         "showdownDef": "Goodra",
         "smogon": "goodra"
     },
+    "imgs": {
+        "home": "0706",
+        "menu": "0706"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

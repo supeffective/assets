@@ -107,6 +107,10 @@
         "showdownDef": "Noctowl",
         "smogon": "noctowl"
     },
+    "imgs": {
+        "home": "0164",
+        "menu": "0164"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

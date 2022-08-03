@@ -105,6 +105,10 @@
         "showdownDef": "Rayquaza",
         "smogon": "rayquaza"
     },
+    "imgs": {
+        "home": "0384",
+        "menu": "0384"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

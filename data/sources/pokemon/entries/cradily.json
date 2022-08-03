@@ -105,6 +105,10 @@
         "showdownDef": "Cradily",
         "smogon": "cradily"
     },
+    "imgs": {
+        "home": "0346",
+        "menu": "0346"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

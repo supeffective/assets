@@ -105,6 +105,10 @@
         "showdownDef": "Houndoom",
         "smogon": "houndoom"
     },
+    "imgs": {
+        "home": "0229",
+        "menu": "0229"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

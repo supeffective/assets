@@ -89,6 +89,10 @@
         "showdownDef": "Vivillon-Elegant",
         "smogon": "vivillon-elegant"
     },
+    "imgs": {
+        "home": "0666-elegant",
+        "menu": "0666-elegant"
+    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,

@@ -105,6 +105,10 @@
         "showdownDef": "Typhlosion",
         "smogon": "typhlosion"
     },
+    "imgs": {
+        "home": "0157",
+        "menu": "0157"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

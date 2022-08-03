@@ -86,6 +86,10 @@
         "showdownDef": "Pikachu-World",
         "smogon": "pikachu-world"
     },
+    "imgs": {
+        "home": "0025-world-cap",
+        "menu": "0025-world-cap"
+    },
     "baseSpecies": "pikachu",
     "baseForms": [],
     "forms": null,

@@ -86,6 +86,10 @@
         "showdownDef": "Zorua-Hisui",
         "smogon": "zorua-hisui"
     },
+    "imgs": {
+        "home": "0570-hisui",
+        "menu": "0570-hisui"
+    },
     "baseSpecies": "zorua",
     "baseForms": [],
     "forms": [],

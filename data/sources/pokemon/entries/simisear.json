@@ -94,6 +94,10 @@
         "showdownDef": "Simisear",
         "smogon": "simisear"
     },
+    "imgs": {
+        "home": "0514",
+        "menu": "0514"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

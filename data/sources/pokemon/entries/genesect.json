@@ -93,6 +93,10 @@
         "showdownDef": "Genesect",
         "smogon": "genesect"
     },
+    "imgs": {
+        "home": "0649",
+        "menu": "0649"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

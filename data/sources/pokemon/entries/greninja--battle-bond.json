@@ -87,6 +87,10 @@
         "showdownDef": "Greninja",
         "smogon": "greninja"
     },
+    "imgs": {
+        "home": "0658",
+        "menu": "0658"
+    },
     "baseSpecies": "greninja",
     "baseForms": [],
     "forms": null,

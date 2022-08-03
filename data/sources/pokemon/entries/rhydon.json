@@ -113,6 +113,10 @@
         "showdownDef": "Rhydon",
         "smogon": "rhydon"
     },
+    "imgs": {
+        "home": "0112",
+        "menu": "0112"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

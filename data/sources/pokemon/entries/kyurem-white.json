@@ -96,6 +96,10 @@
         "showdownDef": "Kyurem-White",
         "smogon": "kyurem-white"
     },
+    "imgs": {
+        "home": "0646-white",
+        "menu": "0646-white"
+    },
     "baseSpecies": "kyurem",
     "baseForms": [
         "kyurem"

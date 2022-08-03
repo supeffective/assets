@@ -105,6 +105,10 @@
         "showdownDef": "Wailord",
         "smogon": "wailord"
     },
+    "imgs": {
+        "home": "0321",
+        "menu": "0321"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

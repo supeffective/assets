@@ -105,6 +105,10 @@
         "showdownDef": "Regice",
         "smogon": "regice"
     },
+    "imgs": {
+        "home": "0378",
+        "menu": "0378"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

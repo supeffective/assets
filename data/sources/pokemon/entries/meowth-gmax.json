@@ -83,6 +83,10 @@
         "showdownDef": "Meowth-Gmax",
         "smogon": "meowth-gmax"
     },
+    "imgs": {
+        "home": "0052-gmax",
+        "menu": "0052-gmax"
+    },
     "baseSpecies": "meowth",
     "baseForms": [
         "meowth"

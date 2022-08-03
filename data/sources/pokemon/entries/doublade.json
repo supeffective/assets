@@ -91,6 +91,10 @@
         "showdownDef": "Doublade",
         "smogon": "doublade"
     },
+    "imgs": {
+        "home": "0680",
+        "menu": "0680"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

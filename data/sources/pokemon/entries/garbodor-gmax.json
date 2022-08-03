@@ -83,6 +83,10 @@
         "showdownDef": "Garbodor-Gmax",
         "smogon": "garbodor-gmax"
     },
+    "imgs": {
+        "home": "0569-gmax",
+        "menu": "0569-gmax"
+    },
     "baseSpecies": "garbodor",
     "baseForms": [
         "garbodor"

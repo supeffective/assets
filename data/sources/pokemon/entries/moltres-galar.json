@@ -88,6 +88,10 @@
         "showdownDef": "Moltres-Galar",
         "smogon": "moltres-galar"
     },
+    "imgs": {
+        "home": "0146-galar",
+        "menu": "0146-galar"
+    },
     "baseSpecies": "moltres",
     "baseForms": [],
     "forms": null,

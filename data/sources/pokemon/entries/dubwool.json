@@ -88,6 +88,10 @@
         "showdownDef": "Dubwool",
         "smogon": "dubwool"
     },
+    "imgs": {
+        "home": "0832",
+        "menu": "0832"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

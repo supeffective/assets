@@ -103,6 +103,10 @@
         "showdownDef": "Uxie",
         "smogon": "uxie"
     },
+    "imgs": {
+        "home": "0480",
+        "menu": "0480"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

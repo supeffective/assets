@@ -93,6 +93,10 @@
         "showdownDef": "Diggersby",
         "smogon": "diggersby"
     },
+    "imgs": {
+        "home": "0660",
+        "menu": "0660"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

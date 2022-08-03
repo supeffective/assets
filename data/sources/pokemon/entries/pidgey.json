@@ -109,6 +109,10 @@
         "showdownDef": "Pidgey",
         "smogon": "pidgey"
     },
+    "imgs": {
+        "home": "0016",
+        "menu": "0016"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -88,6 +88,10 @@
         "showdownDef": "Pikachu-Partner",
         "smogon": "pikachu-partner"
     },
+    "imgs": {
+        "home": "0025-partner-cap",
+        "menu": "0025-partner-cap"
+    },
     "baseSpecies": "pikachu",
     "baseForms": [],
     "forms": null,

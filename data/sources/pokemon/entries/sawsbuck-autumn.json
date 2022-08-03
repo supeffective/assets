@@ -94,6 +94,10 @@
         "showdownDef": "Sawsbuck-Autumn",
         "smogon": "sawsbuck-autumn"
     },
+    "imgs": {
+        "home": "0586-autumn",
+        "menu": "0586-autumn"
+    },
     "baseSpecies": "sawsbuck",
     "baseForms": [],
     "forms": null,

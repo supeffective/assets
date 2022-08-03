@@ -86,6 +86,10 @@
         "showdownDef": "Typhlosion-Hisui",
         "smogon": "typhlosion-hisui"
     },
+    "imgs": {
+        "home": "0157-hisui",
+        "menu": "0157-hisui"
+    },
     "baseSpecies": "typhlosion",
     "baseForms": [],
     "forms": [],

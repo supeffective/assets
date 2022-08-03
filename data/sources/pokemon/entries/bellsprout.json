@@ -109,6 +109,10 @@
         "showdownDef": "Bellsprout",
         "smogon": "bellsprout"
     },
+    "imgs": {
+        "home": "0069",
+        "menu": "0069"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

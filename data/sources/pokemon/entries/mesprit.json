@@ -103,6 +103,10 @@
         "showdownDef": "Mesprit",
         "smogon": "mesprit"
     },
+    "imgs": {
+        "home": "0481",
+        "menu": "0481"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

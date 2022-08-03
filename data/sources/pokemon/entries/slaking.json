@@ -103,6 +103,10 @@
         "showdownDef": "Slaking",
         "smogon": "slaking"
     },
+    "imgs": {
+        "home": "0289",
+        "menu": "0289"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -111,6 +111,10 @@
         "showdownDef": "Kabuto",
         "smogon": "kabuto"
     },
+    "imgs": {
+        "home": "0140",
+        "menu": "0140"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

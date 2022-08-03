@@ -91,6 +91,10 @@
         "showdownDef": "Florges-Orange",
         "smogon": "florges-orange"
     },
+    "imgs": {
+        "home": "0671-orange",
+        "menu": "0671-orange"
+    },
     "baseSpecies": "florges",
     "baseForms": [],
     "forms": null,

@@ -109,6 +109,10 @@
         "showdownDef": "Muk",
         "smogon": "muk"
     },
+    "imgs": {
+        "home": "0089",
+        "menu": "0089"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -88,6 +88,10 @@
         "showdownDef": "Rockruff",
         "smogon": "rockruff"
     },
+    "imgs": {
+        "home": "0744",
+        "menu": "0744"
+    },
     "baseSpecies": "rockruff",
     "baseForms": [],
     "forms": null,

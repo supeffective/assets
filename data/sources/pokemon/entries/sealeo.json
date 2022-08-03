@@ -107,6 +107,10 @@
         "showdownDef": "Sealeo",
         "smogon": "sealeo"
     },
+    "imgs": {
+        "home": "0364",
+        "menu": "0364"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -103,6 +103,10 @@
         "showdownDef": "Bronzor",
         "smogon": "bronzor"
     },
+    "imgs": {
+        "home": "0436",
+        "menu": "0436"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

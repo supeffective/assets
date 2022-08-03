@@ -94,6 +94,10 @@
         "showdownDef": "Sandslash-Alola",
         "smogon": "sandslash-alola"
     },
+    "imgs": {
+        "home": "0028-alola",
+        "menu": "0028-alola"
+    },
     "baseSpecies": "sandslash",
     "baseForms": [],
     "forms": null,

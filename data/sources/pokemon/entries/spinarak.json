@@ -105,6 +105,10 @@
         "showdownDef": "Spinarak",
         "smogon": "spinarak"
     },
+    "imgs": {
+        "home": "0167",
+        "menu": "0167"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -90,6 +90,10 @@
         "showdownDef": "Toucannon",
         "smogon": "toucannon"
     },
+    "imgs": {
+        "home": "0733",
+        "menu": "0733"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

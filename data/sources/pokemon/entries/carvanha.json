@@ -105,6 +105,10 @@
         "showdownDef": "Carvanha",
         "smogon": "carvanha"
     },
+    "imgs": {
+        "home": "0318",
+        "menu": "0318"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

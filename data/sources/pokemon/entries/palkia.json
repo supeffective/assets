@@ -103,6 +103,10 @@
         "showdownDef": "Palkia",
         "smogon": "palkia"
     },
+    "imgs": {
+        "home": "0484",
+        "menu": "0484"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

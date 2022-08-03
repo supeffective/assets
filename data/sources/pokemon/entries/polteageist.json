@@ -86,6 +86,10 @@
         "showdownDef": "Polteageist",
         "smogon": "polteageist"
     },
+    "imgs": {
+        "home": "0855",
+        "menu": "0855"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

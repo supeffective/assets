@@ -100,6 +100,10 @@
         "showdownDef": "Shaymin",
         "smogon": "shaymin"
     },
+    "imgs": {
+        "home": "0492",
+        "menu": "0492"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

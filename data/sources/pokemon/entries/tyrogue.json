@@ -107,6 +107,10 @@
         "showdownDef": "Tyrogue",
         "smogon": "tyrogue"
     },
+    "imgs": {
+        "home": "0236",
+        "menu": "0236"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

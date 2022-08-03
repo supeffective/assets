@@ -103,6 +103,10 @@
         "showdownDef": "Plusle",
         "smogon": "plusle"
     },
+    "imgs": {
+        "home": "0311",
+        "menu": "0311"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

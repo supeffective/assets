@@ -84,6 +84,10 @@
         "showdownDef": "Kyogre-Primal",
         "smogon": "kyogre-primal"
     },
+    "imgs": {
+        "home": "0382-primal",
+        "menu": "0382-primal"
+    },
     "baseSpecies": "kyogre",
     "baseForms": [
         "kyogre"

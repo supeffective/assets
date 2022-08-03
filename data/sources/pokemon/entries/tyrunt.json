@@ -93,6 +93,10 @@
         "showdownDef": "Tyrunt",
         "smogon": "tyrunt"
     },
+    "imgs": {
+        "home": "0696",
+        "menu": "0696"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

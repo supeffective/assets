@@ -96,6 +96,10 @@
         "showdownDef": "Beheeyem",
         "smogon": "beheeyem"
     },
+    "imgs": {
+        "home": "0606",
+        "menu": "0606"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

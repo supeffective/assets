@@ -93,6 +93,10 @@
         "showdownDef": "Meowstic",
         "smogon": "meowstic"
     },
+    "imgs": {
+        "home": "0678-f",
+        "menu": "0678-f"
+    },
     "baseSpecies": "meowstic",
     "baseForms": [],
     "forms": null,

@@ -88,6 +88,10 @@
         "showdownDef": "Articuno-Galar",
         "smogon": "articuno-galar"
     },
+    "imgs": {
+        "home": "0144-galar",
+        "menu": "0144-galar"
+    },
     "baseSpecies": "articuno",
     "baseForms": [],
     "forms": null,

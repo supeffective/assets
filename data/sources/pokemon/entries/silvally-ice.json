@@ -89,6 +89,10 @@
         "showdownDef": "Silvally-Ice",
         "smogon": "silvally-ice"
     },
+    "imgs": {
+        "home": "0773-ice",
+        "menu": "0773-ice"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

@@ -86,6 +86,10 @@
         "showdownDef": "Basculin-white-Striped",
         "smogon": "basculin-white-striped"
     },
+    "imgs": {
+        "home": "0550-white-striped",
+        "menu": "0550-white-striped"
+    },
     "baseSpecies": "basculin",
     "baseForms": [],
     "forms": [],

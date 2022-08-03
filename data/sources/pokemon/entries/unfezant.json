@@ -96,6 +96,10 @@
         "showdownDef": "Unfezant",
         "smogon": "unfezant"
     },
+    "imgs": {
+        "home": "0521",
+        "menu": "0521"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -103,6 +103,10 @@
         "showdownDef": "Meditite",
         "smogon": "meditite"
     },
+    "imgs": {
+        "home": "0307",
+        "menu": "0307"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

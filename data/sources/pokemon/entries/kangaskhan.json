@@ -111,6 +111,10 @@
         "showdownDef": "Kangaskhan",
         "smogon": "kangaskhan"
     },
+    "imgs": {
+        "home": "0115",
+        "menu": "0115"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

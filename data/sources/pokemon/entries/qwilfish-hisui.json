@@ -88,6 +88,10 @@
         "showdownDef": "Qwilfish-Hisui",
         "smogon": "qwilfish-hisui"
     },
+    "imgs": {
+        "home": "0211-hisui",
+        "menu": "0211-hisui"
+    },
     "baseSpecies": "qwilfish",
     "baseForms": [],
     "forms": [],

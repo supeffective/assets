@@ -90,6 +90,10 @@
         "showdownDef": "Pikachu-Original",
         "smogon": "pikachu-original"
     },
+    "imgs": {
+        "home": "0025-original-cap",
+        "menu": "0025-original-cap"
+    },
     "baseSpecies": "pikachu",
     "baseForms": [],
     "forms": null,

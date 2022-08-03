@@ -367,6 +367,28 @@
                 "smogon"
             ]
         },
+        "imgs": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "home": {
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "menu": {
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                }
+            },
+            "required": [
+                "home",
+                "menu"
+            ]
+        },
         "baseSpecies": {
             "type": [
                 "string",

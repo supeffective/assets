@@ -111,6 +111,10 @@
         "showdownDef": "Vileplume",
         "smogon": "vileplume"
     },
+    "imgs": {
+        "home": "0045",
+        "menu": "0045"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

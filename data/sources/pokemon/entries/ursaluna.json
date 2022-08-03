@@ -86,6 +86,10 @@
         "showdownDef": "Ursaluna",
         "smogon": "ursaluna"
     },
+    "imgs": {
+        "home": "0901",
+        "menu": "0901"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

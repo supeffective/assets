@@ -103,6 +103,10 @@
         "showdownDef": "Toxicroak",
         "smogon": "toxicroak"
     },
+    "imgs": {
+        "home": "0454-f",
+        "menu": "0454"
+    },
     "baseSpecies": "toxicroak",
     "baseForms": [],
     "forms": null,

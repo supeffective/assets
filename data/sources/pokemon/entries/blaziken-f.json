@@ -100,6 +100,10 @@
         "showdownDef": "Blaziken",
         "smogon": "blaziken"
     },
+    "imgs": {
+        "home": "0257-f",
+        "menu": "0257"
+    },
     "baseSpecies": "blaziken",
     "baseForms": [],
     "forms": null,

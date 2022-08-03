@@ -96,6 +96,10 @@
         "showdownDef": "Ferroseed",
         "smogon": "ferroseed"
     },
+    "imgs": {
+        "home": "0597",
+        "menu": "0597"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

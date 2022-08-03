@@ -93,6 +93,10 @@
         "showdownDef": "Espurr",
         "smogon": "espurr"
     },
+    "imgs": {
+        "home": "0677",
+        "menu": "0677"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

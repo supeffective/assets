@@ -90,6 +90,10 @@
         "showdownDef": "Shiinotic",
         "smogon": "shiinotic"
     },
+    "imgs": {
+        "home": "0756",
+        "menu": "0756"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -105,6 +105,10 @@
         "showdownDef": "Latias",
         "smogon": "latias"
     },
+    "imgs": {
+        "home": "0380",
+        "menu": "0380"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

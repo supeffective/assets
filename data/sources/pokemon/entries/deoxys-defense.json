@@ -99,6 +99,10 @@
         "showdownDef": "Deoxys-Defense",
         "smogon": "deoxys-defense"
     },
+    "imgs": {
+        "home": "0386-defense",
+        "menu": "0386-defense"
+    },
     "baseSpecies": "deoxys",
     "baseForms": [
         "deoxys"

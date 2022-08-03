@@ -96,6 +96,10 @@
         "showdownDef": "Cubchoo",
         "smogon": "cubchoo"
     },
+    "imgs": {
+        "home": "0613",
+        "menu": "0613"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

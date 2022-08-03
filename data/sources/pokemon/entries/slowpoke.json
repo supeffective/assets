@@ -111,6 +111,10 @@
         "showdownDef": "Slowpoke",
         "smogon": "slowpoke"
     },
+    "imgs": {
+        "home": "0079",
+        "menu": "0079"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

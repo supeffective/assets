@@ -101,6 +101,10 @@
         "showdownDef": "Buizel",
         "smogon": "buizel"
     },
+    "imgs": {
+        "home": "0418-f",
+        "menu": "0418"
+    },
     "baseSpecies": "buizel",
     "baseForms": [],
     "forms": null,

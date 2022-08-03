@@ -111,6 +111,10 @@
         "showdownDef": "Dratini",
         "smogon": "dratini"
     },
+    "imgs": {
+        "home": "0147",
+        "menu": "0147"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

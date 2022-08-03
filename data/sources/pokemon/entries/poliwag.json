@@ -111,6 +111,10 @@
         "showdownDef": "Poliwag",
         "smogon": "poliwag"
     },
+    "imgs": {
+        "home": "0060",
+        "menu": "0060"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

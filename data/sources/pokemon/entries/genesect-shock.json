@@ -95,6 +95,10 @@
         "showdownDef": "Genesect-Shock",
         "smogon": "genesect-shock"
     },
+    "imgs": {
+        "home": "0649-shock",
+        "menu": "0649-shock"
+    },
     "baseSpecies": "genesect",
     "baseForms": [
         "genesect"

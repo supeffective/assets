@@ -105,6 +105,10 @@
         "showdownDef": "Wailmer",
         "smogon": "wailmer"
     },
+    "imgs": {
+        "home": "0320",
+        "menu": "0320"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

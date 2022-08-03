@@ -92,6 +92,10 @@
         "showdownDef": "Araquanid",
         "smogon": "araquanid"
     },
+    "imgs": {
+        "home": "0752",
+        "menu": "0752"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

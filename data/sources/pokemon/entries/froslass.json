@@ -103,6 +103,10 @@
         "showdownDef": "Froslass",
         "smogon": "froslass"
     },
+    "imgs": {
+        "home": "0478",
+        "menu": "0478"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

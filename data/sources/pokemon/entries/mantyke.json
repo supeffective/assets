@@ -103,6 +103,10 @@
         "showdownDef": "Mantyke",
         "smogon": "mantyke"
     },
+    "imgs": {
+        "home": "0458",
+        "menu": "0458"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

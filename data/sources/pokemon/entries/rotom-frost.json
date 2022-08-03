@@ -101,6 +101,10 @@
         "showdownDef": "Rotom-Frost",
         "smogon": "rotom-frost"
     },
+    "imgs": {
+        "home": "0479-frost",
+        "menu": "0479-frost"
+    },
     "baseSpecies": "rotom",
     "baseForms": [
         "rotom"

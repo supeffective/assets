@@ -84,6 +84,10 @@
         "showdownDef": "Pinsir-Mega",
         "smogon": "pinsir-mega"
     },
+    "imgs": {
+        "home": "0127-mega",
+        "menu": "0127-mega"
+    },
     "baseSpecies": "pinsir",
     "baseForms": [
         "pinsir"

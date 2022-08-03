@@ -90,6 +90,10 @@
         "showdownDef": "Ribombee",
         "smogon": "ribombee"
     },
+    "imgs": {
+        "home": "0743",
+        "menu": "0743"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

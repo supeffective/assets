@@ -90,6 +90,10 @@
         "showdownDef": "Silvally",
         "smogon": "silvally"
     },
+    "imgs": {
+        "home": "0773",
+        "menu": "0773"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

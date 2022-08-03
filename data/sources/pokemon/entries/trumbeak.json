@@ -90,6 +90,10 @@
         "showdownDef": "Trumbeak",
         "smogon": "trumbeak"
     },
+    "imgs": {
+        "home": "0732",
+        "menu": "0732"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

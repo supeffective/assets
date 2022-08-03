@@ -88,6 +88,10 @@
         "showdownDef": "Weezing-Galar",
         "smogon": "weezing-galar"
     },
+    "imgs": {
+        "home": "0110-galar",
+        "menu": "0110-galar"
+    },
     "baseSpecies": "weezing",
     "baseForms": [],
     "forms": null,

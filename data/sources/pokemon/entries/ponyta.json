@@ -113,6 +113,10 @@
         "showdownDef": "Ponyta",
         "smogon": "ponyta"
     },
+    "imgs": {
+        "home": "0077",
+        "menu": "0077"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

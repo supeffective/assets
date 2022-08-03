@@ -86,6 +86,10 @@
         "showdownDef": "Alcremie-Matcha-Cream-Ribbon",
         "smogon": "alcremie-matcha-cream-ribbon"
     },
+    "imgs": {
+        "home": "0869-matcha-cream-ribbon",
+        "menu": "0869-matcha-cream-ribbon"
+    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,

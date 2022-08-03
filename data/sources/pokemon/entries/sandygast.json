@@ -90,6 +90,10 @@
         "showdownDef": "Sandygast",
         "smogon": "sandygast"
     },
+    "imgs": {
+        "home": "0769",
+        "menu": "0769"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

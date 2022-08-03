@@ -105,6 +105,10 @@
         "showdownDef": "Ledian",
         "smogon": "ledian"
     },
+    "imgs": {
+        "home": "0166",
+        "menu": "0166"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

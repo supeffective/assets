@@ -103,6 +103,10 @@
         "showdownDef": "Rotom",
         "smogon": "rotom"
     },
+    "imgs": {
+        "home": "0479",
+        "menu": "0479"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

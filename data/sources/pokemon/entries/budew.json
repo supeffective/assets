@@ -103,6 +103,10 @@
         "showdownDef": "Budew",
         "smogon": "budew"
     },
+    "imgs": {
+        "home": "0406",
+        "menu": "0406"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

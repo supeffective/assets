@@ -101,6 +101,10 @@
         "showdownDef": "Cranidos",
         "smogon": "cranidos"
     },
+    "imgs": {
+        "home": "0408",
+        "menu": "0408"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

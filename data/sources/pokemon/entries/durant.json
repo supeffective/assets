@@ -96,6 +96,10 @@
         "showdownDef": "Durant",
         "smogon": "durant"
     },
+    "imgs": {
+        "home": "0632",
+        "menu": "0632"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

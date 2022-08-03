@@ -90,6 +90,10 @@
         "showdownDef": "Gumshoos",
         "smogon": "gumshoos"
     },
+    "imgs": {
+        "home": "0735",
+        "menu": "0735"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

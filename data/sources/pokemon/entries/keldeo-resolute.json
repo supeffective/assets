@@ -93,6 +93,10 @@
         "showdownDef": "Keldeo-Resolute",
         "smogon": "keldeo-resolute"
     },
+    "imgs": {
+        "home": "0647-resolute",
+        "menu": "0647-resolute"
+    },
     "baseSpecies": "keldeo",
     "baseForms": [
         "keldeo"

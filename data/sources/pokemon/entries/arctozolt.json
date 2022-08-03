@@ -86,6 +86,10 @@
         "showdownDef": "Arctozolt",
         "smogon": "arctozolt"
     },
+    "imgs": {
+        "home": "0881",
+        "menu": "0881"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

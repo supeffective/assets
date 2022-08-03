@@ -105,6 +105,10 @@
         "showdownDef": "Nosepass",
         "smogon": "nosepass"
     },
+    "imgs": {
+        "home": "0299",
+        "menu": "0299"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

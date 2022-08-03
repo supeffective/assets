@@ -103,6 +103,10 @@
         "showdownDef": "Gible",
         "smogon": "gible"
     },
+    "imgs": {
+        "home": "0443",
+        "menu": "0443"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

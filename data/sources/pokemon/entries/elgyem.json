@@ -96,6 +96,10 @@
         "showdownDef": "Elgyem",
         "smogon": "elgyem"
     },
+    "imgs": {
+        "home": "0605",
+        "menu": "0605"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -90,6 +90,10 @@
         "showdownDef": "Cosmog",
         "smogon": "cosmog"
     },
+    "imgs": {
+        "home": "0789",
+        "menu": "0789"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

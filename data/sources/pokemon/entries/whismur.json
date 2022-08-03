@@ -105,6 +105,10 @@
         "showdownDef": "Whismur",
         "smogon": "whismur"
     },
+    "imgs": {
+        "home": "0293",
+        "menu": "0293"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

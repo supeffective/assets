@@ -89,6 +89,10 @@
         "showdownDef": "Silvally-Ghost",
         "smogon": "silvally-ghost"
     },
+    "imgs": {
+        "home": "0773-ghost",
+        "menu": "0773-ghost"
+    },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"

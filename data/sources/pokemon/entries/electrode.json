@@ -109,6 +109,10 @@
         "showdownDef": "Electrode",
         "smogon": "electrode"
     },
+    "imgs": {
+        "home": "0101",
+        "menu": "0101"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

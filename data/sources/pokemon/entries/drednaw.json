@@ -86,6 +86,10 @@
         "showdownDef": "Drednaw",
         "smogon": "drednaw"
     },
+    "imgs": {
+        "home": "0834",
+        "menu": "0834"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

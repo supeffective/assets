@@ -109,6 +109,10 @@
         "showdownDef": "Mankey",
         "smogon": "mankey"
     },
+    "imgs": {
+        "home": "0056",
+        "menu": "0056"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

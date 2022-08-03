@@ -111,6 +111,10 @@
         "showdownDef": "Kingler",
         "smogon": "kingler"
     },
+    "imgs": {
+        "home": "0099",
+        "menu": "0099"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

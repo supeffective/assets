@@ -111,6 +111,10 @@
         "showdownDef": "Golem",
         "smogon": "golem"
     },
+    "imgs": {
+        "home": "0076",
+        "menu": "0076"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

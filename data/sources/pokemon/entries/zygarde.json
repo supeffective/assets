@@ -91,6 +91,10 @@
         "showdownDef": "Zygarde",
         "smogon": "zygarde"
     },
+    "imgs": {
+        "home": "0718",
+        "menu": "0718"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

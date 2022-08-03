@@ -96,6 +96,10 @@
         "showdownDef": "Oshawott",
         "smogon": "oshawott"
     },
+    "imgs": {
+        "home": "0501",
+        "menu": "0501"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -90,6 +90,10 @@
         "showdownDef": "Turtonator",
         "smogon": "turtonator"
     },
+    "imgs": {
+        "home": "0776",
+        "menu": "0776"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

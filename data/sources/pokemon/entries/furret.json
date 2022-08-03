@@ -105,6 +105,10 @@
         "showdownDef": "Furret",
         "smogon": "furret"
     },
+    "imgs": {
+        "home": "0162",
+        "menu": "0162"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

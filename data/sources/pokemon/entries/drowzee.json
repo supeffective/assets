@@ -109,6 +109,10 @@
         "showdownDef": "Drowzee",
         "smogon": "drowzee"
     },
+    "imgs": {
+        "home": "0096",
+        "menu": "0096"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

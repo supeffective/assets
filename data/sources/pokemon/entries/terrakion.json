@@ -96,6 +96,10 @@
         "showdownDef": "Terrakion",
         "smogon": "terrakion"
     },
+    "imgs": {
+        "home": "0639",
+        "menu": "0639"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

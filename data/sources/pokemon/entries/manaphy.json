@@ -100,6 +100,10 @@
         "showdownDef": "Manaphy",
         "smogon": "manaphy"
     },
+    "imgs": {
+        "home": "0490",
+        "menu": "0490"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

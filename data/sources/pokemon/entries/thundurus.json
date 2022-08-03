@@ -98,6 +98,10 @@
         "showdownDef": "Thundurus",
         "smogon": "thundurus"
     },
+    "imgs": {
+        "home": "0642",
+        "menu": "0642"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

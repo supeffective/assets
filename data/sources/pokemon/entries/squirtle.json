@@ -111,6 +111,10 @@
         "showdownDef": "Squirtle",
         "smogon": "squirtle"
     },
+    "imgs": {
+        "home": "0007",
+        "menu": "0007"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -107,6 +107,10 @@
         "showdownDef": "Miltank",
         "smogon": "miltank"
     },
+    "imgs": {
+        "home": "0241",
+        "menu": "0241"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

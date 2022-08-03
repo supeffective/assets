@@ -94,6 +94,10 @@
         "showdownDef": "Zorua",
         "smogon": "zorua"
     },
+    "imgs": {
+        "home": "0570",
+        "menu": "0570"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

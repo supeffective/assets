@@ -83,6 +83,10 @@
         "showdownDef": "Lapras-Gmax",
         "smogon": "lapras-gmax"
     },
+    "imgs": {
+        "home": "0131-gmax",
+        "menu": "0131-gmax"
+    },
     "baseSpecies": "lapras",
     "baseForms": [
         "lapras"

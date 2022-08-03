@@ -111,6 +111,10 @@
         "showdownDef": "Blastoise",
         "smogon": "blastoise"
     },
+    "imgs": {
+        "home": "0009",
+        "menu": "0009"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

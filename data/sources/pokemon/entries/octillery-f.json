@@ -102,6 +102,10 @@
         "showdownDef": "Octillery",
         "smogon": "octillery"
     },
+    "imgs": {
+        "home": "0224-f",
+        "menu": "0224"
+    },
     "baseSpecies": "octillery",
     "baseForms": [],
     "forms": null,

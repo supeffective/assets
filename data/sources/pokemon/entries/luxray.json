@@ -103,6 +103,10 @@
         "showdownDef": "Luxray",
         "smogon": "luxray"
     },
+    "imgs": {
+        "home": "0405",
+        "menu": "0405"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

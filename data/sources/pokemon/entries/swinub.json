@@ -109,6 +109,10 @@
         "showdownDef": "Swinub",
         "smogon": "swinub"
     },
+    "imgs": {
+        "home": "0220",
+        "menu": "0220"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

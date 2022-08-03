@@ -109,6 +109,10 @@
         "showdownDef": "Pichu",
         "smogon": "pichu"
     },
+    "imgs": {
+        "home": "0172",
+        "menu": "0172"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

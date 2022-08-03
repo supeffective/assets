@@ -96,6 +96,10 @@
         "showdownDef": "Cinccino",
         "smogon": "cinccino"
     },
+    "imgs": {
+        "home": "0573",
+        "menu": "0573"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

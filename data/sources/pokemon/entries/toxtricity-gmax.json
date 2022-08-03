@@ -83,6 +83,10 @@
         "showdownDef": "Toxtricity-Gmax",
         "smogon": "toxtricity-gmax"
     },
+    "imgs": {
+        "home": "0849-gmax",
+        "menu": "0849-gmax"
+    },
     "baseSpecies": "toxtricity",
     "baseForms": [
         "toxtricity"

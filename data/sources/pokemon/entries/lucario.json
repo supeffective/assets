@@ -103,6 +103,10 @@
         "showdownDef": "Lucario",
         "smogon": "lucario"
     },
+    "imgs": {
+        "home": "0448",
+        "menu": "0448"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

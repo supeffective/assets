@@ -101,6 +101,10 @@
         "showdownDef": "Pachirisu",
         "smogon": "pachirisu"
     },
+    "imgs": {
+        "home": "0417-f",
+        "menu": "0417"
+    },
     "baseSpecies": "pachirisu",
     "baseForms": [],
     "forms": null,

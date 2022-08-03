@@ -107,6 +107,10 @@
         "showdownDef": "Raikou",
         "smogon": "raikou"
     },
+    "imgs": {
+        "home": "0243",
+        "menu": "0243"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

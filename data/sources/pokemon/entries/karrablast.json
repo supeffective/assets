@@ -96,6 +96,10 @@
         "showdownDef": "Karrablast",
         "smogon": "karrablast"
     },
+    "imgs": {
+        "home": "0588",
+        "menu": "0588"
+    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [

@@ -88,6 +88,10 @@
         "showdownDef": "Growlithe-Hisui",
         "smogon": "growlithe-hisui"
     },
+    "imgs": {
+        "home": "0058-hisui",
+        "menu": "0058-hisui"
+    },
     "baseSpecies": "growlithe",
     "baseForms": [],
     "forms": [],
