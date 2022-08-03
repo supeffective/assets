@@ -5058,8 +5058,8 @@
             "smogon": "pikachu-original"
         },
         "imgs": {
-            "home": "0025-original-cap",
-            "menu": "0025-original-cap"
+            "home": "0025-original",
+            "menu": "0025-original"
         },
         "baseSpecies": "pikachu",
         "baseForms": [],
@@ -5159,8 +5159,8 @@
             "smogon": "pikachu-hoenn"
         },
         "imgs": {
-            "home": "0025-hoenn-cap",
-            "menu": "0025-hoenn-cap"
+            "home": "0025-hoenn",
+            "menu": "0025-hoenn"
         },
         "baseSpecies": "pikachu",
         "baseForms": [],
@@ -5260,8 +5260,8 @@
             "smogon": "pikachu-sinnoh"
         },
         "imgs": {
-            "home": "0025-sinnoh-cap",
-            "menu": "0025-sinnoh-cap"
+            "home": "0025-sinnoh",
+            "menu": "0025-sinnoh"
         },
         "baseSpecies": "pikachu",
         "baseForms": [],
@@ -5361,8 +5361,8 @@
             "smogon": "pikachu-unova"
         },
         "imgs": {
-            "home": "0025-unova-cap",
-            "menu": "0025-unova-cap"
+            "home": "0025-unova",
+            "menu": "0025-unova"
         },
         "baseSpecies": "pikachu",
         "baseForms": [],
@@ -5462,8 +5462,8 @@
             "smogon": "pikachu-kalos"
         },
         "imgs": {
-            "home": "0025-kalos-cap",
-            "menu": "0025-kalos-cap"
+            "home": "0025-kalos",
+            "menu": "0025-kalos"
         },
         "baseSpecies": "pikachu",
         "baseForms": [],
@@ -5563,8 +5563,8 @@
             "smogon": "pikachu-alola"
         },
         "imgs": {
-            "home": "0025-alola-cap",
-            "menu": "0025-alola-cap"
+            "home": "0025-alola",
+            "menu": "0025-alola"
         },
         "baseSpecies": "pikachu",
         "baseForms": [],
@@ -5662,8 +5662,8 @@
             "smogon": "pikachu-partner"
         },
         "imgs": {
-            "home": "0025-partner-cap",
-            "menu": "0025-partner-cap"
+            "home": "0025-partner",
+            "menu": "0025-partner"
         },
         "baseSpecies": "pikachu",
         "baseForms": [],
@@ -5759,8 +5759,8 @@
             "smogon": "pikachu-world"
         },
         "imgs": {
-            "home": "0025-world-cap",
-            "menu": "0025-world-cap"
+            "home": "0025-world",
+            "menu": "0025-world"
         },
         "baseSpecies": "pikachu",
         "baseForms": [],
@@ -34332,7 +34332,8 @@
         "baseForms": [],
         "forms": [
             "wooper",
-            "wooper-f"
+            "wooper-f",
+            "wooper-paldea"
         ],
         "evolutions": []
     },
@@ -154784,7 +154785,7 @@
         "storableIn": [
             "sv"
         ],
-        "shinyReleased": true,
+        "shinyReleased": false,
         "shinyBase": null,
         "baseStats": {
             "hp": -1,
@@ -154824,6 +154825,10 @@
             "showdownDef": "Sprigatito",
             "smogon": "sprigatito"
         },
+        "imgs": {
+            "home": "9001",
+            "menu": "9001"
+        },
         "baseSpecies": null,
         "baseForms": [],
         "forms": [
@@ -154838,7 +154843,7 @@
         "formId": null,
         "name": "Fuecoco",
         "formName": null,
-        "region": "_titan_",
+        "region": "paldea",
         "generation": 9,
         "type1": "fire",
         "type2": null,
@@ -154878,7 +154883,7 @@
         "storableIn": [
             "sv"
         ],
-        "shinyReleased": true,
+        "shinyReleased": false,
         "shinyBase": null,
         "baseStats": {
             "hp": -1,
@@ -154917,6 +154922,10 @@
             "showdown": "fuecoco",
             "showdownDef": "Fuecoco",
             "smogon": "fuecoco"
+        },
+        "imgs": {
+            "home": "9004",
+            "menu": "9004"
         },
         "baseSpecies": null,
         "baseForms": [],
@@ -154972,7 +154981,7 @@
         "storableIn": [
             "sv"
         ],
-        "shinyReleased": true,
+        "shinyReleased": false,
         "shinyBase": null,
         "baseStats": {
             "hp": -1,
@@ -155011,6 +155020,10 @@
             "showdown": "quaxly",
             "showdownDef": "Quaxly",
             "smogon": "quaxly"
+        },
+        "imgs": {
+            "home": "9007",
+            "menu": "9007"
         },
         "baseSpecies": null,
         "baseForms": [],
@@ -155066,7 +155079,7 @@
         "storableIn": [
             "sv"
         ],
-        "shinyReleased": true,
+        "shinyReleased": false,
         "shinyBase": null,
         "baseStats": {
             "hp": -1,
@@ -155106,6 +155119,10 @@
             "showdownDef": "Pawmi",
             "smogon": "pawmi"
         },
+        "imgs": {
+            "home": "9010",
+            "menu": "9010"
+        },
         "baseSpecies": null,
         "baseForms": [],
         "forms": [
@@ -155115,8 +155132,8 @@
     },
     "lechonk": {
         "id": "lechonk",
-        "nid": "9011",
-        "dexNum": 9011,
+        "nid": "9020",
+        "dexNum": 9020,
         "formId": null,
         "name": "Lechonk",
         "formName": null,
@@ -155160,7 +155177,7 @@
         "storableIn": [
             "sv"
         ],
-        "shinyReleased": true,
+        "shinyReleased": false,
         "shinyBase": null,
         "baseStats": {
             "hp": -1,
@@ -155200,6 +155217,10 @@
             "showdownDef": "Lechonk",
             "smogon": "lechonk"
         },
+        "imgs": {
+            "home": "9020",
+            "menu": "9020"
+        },
         "baseSpecies": null,
         "baseForms": [],
         "forms": [
@@ -155209,8 +155230,8 @@
     },
     "smoliv": {
         "id": "smoliv",
-        "nid": "9012",
-        "dexNum": 9012,
+        "nid": "9030",
+        "dexNum": 9030,
         "formId": null,
         "name": "Smoliv",
         "formName": null,
@@ -155254,7 +155275,7 @@
         "storableIn": [
             "sv"
         ],
-        "shinyReleased": true,
+        "shinyReleased": false,
         "shinyBase": null,
         "baseStats": {
             "hp": -1,
@@ -155294,6 +155315,10 @@
             "showdownDef": "Smoliv",
             "smogon": "smoliv"
         },
+        "imgs": {
+            "home": "9030",
+            "menu": "9030"
+        },
         "baseSpecies": null,
         "baseForms": [],
         "forms": [
@@ -155301,20 +155326,116 @@
         ],
         "evolutions": []
     },
-    "koraidon": {
-        "id": "koraidon",
-        "nid": "9900",
-        "dexNum": 9900,
+    "wooper-paldea": {
+        "id": "wooper-paldea",
+        "nid": "0194-paldea",
+        "dexNum": 194,
+        "formId": "paldea",
+        "name": "Paldean Wooper",
+        "formName": "Paldean",
+        "region": "paldea",
+        "generation": 9,
+        "type1": "poison",
+        "type2": "ground",
+        "color": "brown",
+        "abilities": {
+            "primary": "Poison Point",
+            "secondary": "Water Absorb",
+            "hidden": null
+        },
+        "isLegendary": false,
+        "isMythical": false,
+        "isUltraBeast": false,
+        "ultraBeastCode": null,
+        "isDefault": false,
+        "isForm": true,
+        "isSpecialAbilityForm": false,
+        "isCosmeticForm": false,
+        "isFemaleForm": false,
+        "hasGenderDifferences": false,
+        "isBattleOnlyForm": false,
+        "isSwitchableForm": false,
+        "isFusion": false,
+        "fusedWith": null,
+        "isMega": false,
+        "isPrimal": false,
+        "isRegional": true,
+        "isGmax": false,
+        "canGmax": false,
+        "canDynamax": false,
+        "canBeAlpha": false,
+        "debutIn": "sv",
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false,
+        "shinyBase": null,
+        "baseStats": {
+            "hp": -1,
+            "atk": -1,
+            "def": -1,
+            "spa": -1,
+            "spd": -1,
+            "spe": -1
+        },
+        "goStats": {
+            "atk": -1,
+            "def": -1,
+            "sta": -1
+        },
+        "weight": {
+            "avg": 11,
+            "min": 11,
+            "max": 11,
+            "alpha": 11
+        },
+        "height": {
+            "avg": 0.4,
+            "min": 0.4,
+            "max": 0.4,
+            "alpha": 0.4
+        },
+        "maleRate": -1,
+        "femaleRate": -1,
+        "refs": {
+            "pogo": null,
+            "veekunDb": null,
+            "smogon": null,
+            "showdown": null,
+            "showdownDef": null,
+            "serebii": null,
+            "bulbapedia": null,
+            "homeSprite": "0194-paldea",
+            "miniSprite": "0194-paldea"
+        },
+        "imgs": {
+            "home": "0194-paldea",
+            "menu": "0194-paldea"
+        },
+        "baseSpecies": "wooper",
+        "baseForms": [],
+        "forms": null,
+        "evolutions": []
+    },
+    "fidough": {
+        "id": "fidough",
+        "nid": "9050",
+        "dexNum": 9050,
         "formId": null,
-        "name": "Koraidon",
+        "name": "Fidough",
         "formName": null,
         "region": "paldea",
         "generation": 9,
-        "type1": "dragon",
-        "type2": "fighting",
-        "color": "red",
+        "type1": "fairy",
+        "type2": null,
+        "color": "yellow",
         "abilities": {
-            "primary": "pressure",
+            "primary": "Own Tempo",
             "secondary": null,
             "hidden": null
         },
@@ -155348,7 +155469,203 @@
         "storableIn": [
             "sv"
         ],
-        "shinyReleased": true,
+        "shinyReleased": false,
+        "shinyBase": null,
+        "baseStats": {
+            "hp": -1,
+            "atk": -1,
+            "def": -1,
+            "spa": -1,
+            "spd": -1,
+            "spe": -1
+        },
+        "goStats": {
+            "atk": -1,
+            "def": -1,
+            "sta": -1
+        },
+        "weight": {
+            "avg": -1,
+            "min": -1,
+            "max": -1,
+            "alpha": -1
+        },
+        "height": {
+            "avg": -1,
+            "min": -1,
+            "max": -1,
+            "alpha": -1
+        },
+        "maleRate": -1,
+        "femaleRate": -1,
+        "refs": {
+            "pogo": null,
+            "veekunDb": null,
+            "smogon": null,
+            "showdown": null,
+            "showdownDef": null,
+            "serebii": null,
+            "bulbapedia": null,
+            "homeSprite": "9050",
+            "miniSprite": "9050"
+        },
+        "imgs": {
+            "home": "9050",
+            "menu": "9050"
+        },
+        "baseSpecies": null,
+        "baseForms": [],
+        "forms": [
+            "fidough"
+        ],
+        "evolutions": []
+    },
+    "cetitan": {
+        "id": "cetitan",
+        "nid": "9040",
+        "dexNum": 9040,
+        "formId": null,
+        "name": "Cetitan",
+        "formName": null,
+        "region": "paldea",
+        "generation": 9,
+        "type1": "ice",
+        "type2": null,
+        "color": "white",
+        "abilities": {
+            "primary": "Thick Fat",
+            "secondary": "Slush Rush",
+            "hidden": null
+        },
+        "isLegendary": false,
+        "isMythical": false,
+        "isUltraBeast": false,
+        "ultraBeastCode": null,
+        "isDefault": true,
+        "isForm": false,
+        "isSpecialAbilityForm": false,
+        "isCosmeticForm": false,
+        "isFemaleForm": false,
+        "hasGenderDifferences": false,
+        "isBattleOnlyForm": false,
+        "isSwitchableForm": false,
+        "isFusion": false,
+        "fusedWith": null,
+        "isMega": false,
+        "isPrimal": false,
+        "isRegional": false,
+        "isGmax": false,
+        "canGmax": false,
+        "canDynamax": false,
+        "canBeAlpha": false,
+        "debutIn": "sv",
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false,
+        "shinyBase": null,
+        "baseStats": {
+            "hp": -1,
+            "atk": -1,
+            "def": -1,
+            "spa": -1,
+            "spd": -1,
+            "spe": -1
+        },
+        "goStats": {
+            "atk": -1,
+            "def": -1,
+            "sta": -1
+        },
+        "weight": {
+            "avg": -1,
+            "min": -1,
+            "max": -1,
+            "alpha": -1
+        },
+        "height": {
+            "avg": -1,
+            "min": -1,
+            "max": -1,
+            "alpha": -1
+        },
+        "maleRate": -1,
+        "femaleRate": -1,
+        "refs": {
+            "pogo": null,
+            "veekunDb": null,
+            "smogon": null,
+            "showdown": null,
+            "showdownDef": null,
+            "serebii": null,
+            "bulbapedia": null,
+            "homeSprite": "9040",
+            "miniSprite": "9040"
+        },
+        "imgs": {
+            "home": "9040",
+            "menu": "9040"
+        },
+        "baseSpecies": null,
+        "baseForms": [],
+        "forms": [
+            "cetitan"
+        ],
+        "evolutions": []
+    },
+    "koraidon": {
+        "id": "koraidon",
+        "nid": "9900",
+        "dexNum": 9900,
+        "formId": null,
+        "name": "Koraidon",
+        "formName": null,
+        "region": "paldea",
+        "generation": 9,
+        "type1": "dragon",
+        "type2": "fighting",
+        "color": "red",
+        "abilities": {
+            "primary": "pressure",
+            "secondary": null,
+            "hidden": null
+        },
+        "isLegendary": true,
+        "isMythical": false,
+        "isUltraBeast": false,
+        "ultraBeastCode": null,
+        "isDefault": true,
+        "isForm": false,
+        "isSpecialAbilityForm": false,
+        "isCosmeticForm": false,
+        "isFemaleForm": false,
+        "hasGenderDifferences": false,
+        "isBattleOnlyForm": false,
+        "isSwitchableForm": false,
+        "isFusion": false,
+        "fusedWith": null,
+        "isMega": false,
+        "isPrimal": false,
+        "isRegional": false,
+        "isGmax": false,
+        "canGmax": false,
+        "canDynamax": false,
+        "canBeAlpha": false,
+        "debutIn": "sv",
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false,
         "shinyBase": null,
         "baseStats": {
             "hp": -1,
@@ -155388,6 +155705,10 @@
             "showdownDef": "Koraidon",
             "smogon": "koraidon"
         },
+        "imgs": {
+            "home": "9900",
+            "menu": "9900"
+        },
         "baseSpecies": null,
         "baseForms": [],
         "forms": [
@@ -155412,7 +155733,7 @@
             "secondary": null,
             "hidden": null
         },
-        "isLegendary": false,
+        "isLegendary": true,
         "isMythical": false,
         "isUltraBeast": false,
         "ultraBeastCode": null,
@@ -155481,6 +155802,10 @@
             "showdown": "miraidon",
             "showdownDef": "Miraidon",
             "smogon": "miraidon"
+        },
+        "imgs": {
+            "home": "9901",
+            "menu": "9901"
         },
         "baseSpecies": null,
         "baseForms": [],

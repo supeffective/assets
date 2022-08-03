@@ -45,7 +45,7 @@
     "storableIn": [
         "sv"
     ],
-    "shinyReleased": true,
+    "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
         "hp": -1,
@@ -84,6 +84,10 @@
         "showdown": "pawmi",
         "showdownDef": "Pawmi",
         "smogon": "pawmi"
+    },
+    "imgs": {
+        "home": "9010",
+        "menu": "9010"
     },
     "baseSpecies": null,
     "baseForms": [],

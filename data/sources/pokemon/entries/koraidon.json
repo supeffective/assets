@@ -15,7 +15,7 @@
         "secondary": null,
         "hidden": null
     },
-    "isLegendary": false,
+    "isLegendary": true,
     "isMythical": false,
     "isUltraBeast": false,
     "ultraBeastCode": null,
@@ -45,7 +45,7 @@
     "storableIn": [
         "sv"
     ],
-    "shinyReleased": true,
+    "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
         "hp": -1,
@@ -84,6 +84,10 @@
         "showdown": "koraidon",
         "showdownDef": "Koraidon",
         "smogon": "koraidon"
+    },
+    "imgs": {
+        "home": "9900",
+        "menu": "9900"
     },
     "baseSpecies": null,
     "baseForms": [],

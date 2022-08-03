@@ -1,18 +1,18 @@
 {
-    "id": "quaxly",
-    "nid": "9007",
-    "dexNum": 9007,
+    "id": "cetitan",
+    "nid": "9040",
+    "dexNum": 9040,
     "formId": null,
-    "name": "Quaxly",
+    "name": "Cetitan",
     "formName": null,
     "region": "paldea",
     "generation": 9,
-    "type1": "water",
+    "type1": "ice",
     "type2": null,
     "color": "white",
     "abilities": {
-        "primary": "torrent",
-        "secondary": null,
+        "primary": "Thick Fat",
+        "secondary": "Slush Rush",
         "hidden": null
     },
     "isLegendary": false,
@@ -75,24 +75,24 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "Quaxly",
-        "veekunDb": "quaxly",
-        "serebii": "quaxly",
-        "bulbapedia": "Quaxly",
-        "homeSprite": "quaxly",
-        "miniSprite": "quaxly",
-        "showdown": "quaxly",
-        "showdownDef": "Quaxly",
-        "smogon": "quaxly"
+        "pogo": null,
+        "veekunDb": null,
+        "smogon": null,
+        "showdown": null,
+        "showdownDef": null,
+        "serebii": null,
+        "bulbapedia": null,
+        "homeSprite": "9040",
+        "miniSprite": "9040"
     },
     "imgs": {
-        "home": "9007",
-        "menu": "9007"
+        "home": "9040",
+        "menu": "9040"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
-        "quaxly"
+        "cetitan"
     ],
     "evolutions": []
 }

@@ -29330,7 +29330,7 @@
         "storableIn": [
             "sv"
         ],
-        "shinyReleased": true
+        "shinyReleased": false
     },
     "fuecoco": {
         "obtainableIn": [
@@ -29339,7 +29339,7 @@
         "storableIn": [
             "sv"
         ],
-        "shinyReleased": true
+        "shinyReleased": false
     },
     "quaxly": {
         "obtainableIn": [
@@ -29348,7 +29348,7 @@
         "storableIn": [
             "sv"
         ],
-        "shinyReleased": true
+        "shinyReleased": false
     },
     "pawmi": {
         "obtainableIn": [
@@ -29357,7 +29357,7 @@
         "storableIn": [
             "sv"
         ],
-        "shinyReleased": true
+        "shinyReleased": false
     },
     "lechonk": {
         "obtainableIn": [
@@ -29366,7 +29366,7 @@
         "storableIn": [
             "sv"
         ],
-        "shinyReleased": true
+        "shinyReleased": false
     },
     "smoliv": {
         "obtainableIn": [
@@ -29375,7 +29375,34 @@
         "storableIn": [
             "sv"
         ],
-        "shinyReleased": true
+        "shinyReleased": false
+    },
+    "wooper-paldea": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false
+    },
+    "fidough": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false
+    },
+    "cetitan": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false
     },
     "koraidon": {
         "obtainableIn": [
@@ -29384,7 +29411,7 @@
         "storableIn": [
             "sv"
         ],
-        "shinyReleased": true
+        "shinyReleased": false
     },
     "miraidon": {
         "obtainableIn": [

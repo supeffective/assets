@@ -45,7 +45,7 @@
     "storableIn": [
         "sv"
     ],
-    "shinyReleased": true,
+    "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
         "hp": -1,
@@ -84,6 +84,10 @@
         "showdown": "sprigatito",
         "showdownDef": "Sprigatito",
         "smogon": "sprigatito"
+    },
+    "imgs": {
+        "home": "9001",
+        "menu": "9001"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -1,17 +1,17 @@
 {
-    "id": "quaxly",
-    "nid": "9007",
-    "dexNum": 9007,
+    "id": "fidough",
+    "nid": "9050",
+    "dexNum": 9050,
     "formId": null,
-    "name": "Quaxly",
+    "name": "Fidough",
     "formName": null,
     "region": "paldea",
     "generation": 9,
-    "type1": "water",
+    "type1": "fairy",
     "type2": null,
-    "color": "white",
+    "color": "yellow",
     "abilities": {
-        "primary": "torrent",
+        "primary": "Own Tempo",
         "secondary": null,
         "hidden": null
     },
@@ -75,24 +75,24 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "Quaxly",
-        "veekunDb": "quaxly",
-        "serebii": "quaxly",
-        "bulbapedia": "Quaxly",
-        "homeSprite": "quaxly",
-        "miniSprite": "quaxly",
-        "showdown": "quaxly",
-        "showdownDef": "Quaxly",
-        "smogon": "quaxly"
+        "pogo": null,
+        "veekunDb": null,
+        "smogon": null,
+        "showdown": null,
+        "showdownDef": null,
+        "serebii": null,
+        "bulbapedia": null,
+        "homeSprite": "9050",
+        "miniSprite": "9050"
     },
     "imgs": {
-        "home": "9007",
-        "menu": "9007"
+        "home": "9050",
+        "menu": "9050"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
-        "quaxly"
+        "fidough"
     ],
     "evolutions": []
 }

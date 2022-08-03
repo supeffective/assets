@@ -23,12 +23,12 @@ require_once __DIR__ . '/_bootstrap.php';
     "name": null,
     "formName": null,
     "region": null,
-    "generation": -1,
-    "type1": null,
+    "generation": 9,
+    "type1": "xxxx",
     "type2": null,
     "color": null,
     "abilities": {
-        "primary": null,
+        "primary": "xxxx",
         "secondary": null,
         "hidden": null
     },
@@ -36,7 +36,7 @@ require_once __DIR__ . '/_bootstrap.php';
     "isMythical": false,
     "isUltraBeast": false,
     "ultraBeastCode": null,
-    "isDefault": false,
+    "isDefault": true,
     "isForm": false,
     "isSpecialAbilityForm": false,
     "isCosmeticForm": false,
@@ -53,11 +53,11 @@ require_once __DIR__ . '/_bootstrap.php';
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "?",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": ["sv"],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": ["home"],
+    "storableIn": ["sv"],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -99,8 +99,8 @@ require_once __DIR__ . '/_bootstrap.php';
         "miniSprite": null
     },
     "imgs": {
-        "home": null,
-        "menu": null
+        "home": "xxxx",
+        "menu": "xxxx"
     },
     "baseSpecies": null,
     "baseForms": [],

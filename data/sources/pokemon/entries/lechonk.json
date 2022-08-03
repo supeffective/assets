@@ -1,7 +1,7 @@
 {
     "id": "lechonk",
-    "nid": "9011",
-    "dexNum": 9011,
+    "nid": "9020",
+    "dexNum": 9020,
     "formId": null,
     "name": "Lechonk",
     "formName": null,
@@ -45,7 +45,7 @@
     "storableIn": [
         "sv"
     ],
-    "shinyReleased": true,
+    "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
         "hp": -1,
@@ -84,6 +84,10 @@
         "showdown": "lechonk",
         "showdownDef": "Lechonk",
         "smogon": "lechonk"
+    },
+    "imgs": {
+        "home": "9020",
+        "menu": "9020"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -18153,8 +18153,15 @@
                         "pawmi",
                         "lechonk",
                         "smoliv",
+                        "fidough",
+                        "cetitan",
                         "koraidon",
                         "miraidon"
+                    ]
+                },
+                {
+                    "pokemon": [
+                        "wooper-paldea"
                     ]
                 }
             ]
@@ -18174,6 +18181,9 @@
                         "pawmi",
                         "lechonk",
                         "smoliv",
+                        "wooper-paldea",
+                        "fidough",
+                        "cetitan",
                         "koraidon",
                         "miraidon"
                     ]

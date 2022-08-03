@@ -1,7 +1,7 @@
 {
     "id": "smoliv",
-    "nid": "9012",
-    "dexNum": 9012,
+    "nid": "9030",
+    "dexNum": 9030,
     "formId": null,
     "name": "Smoliv",
     "formName": null,
@@ -45,7 +45,7 @@
     "storableIn": [
         "sv"
     ],
-    "shinyReleased": true,
+    "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
         "hp": -1,
@@ -84,6 +84,10 @@
         "showdown": "smoliv",
         "showdownDef": "Smoliv",
         "smogon": "smoliv"
+    },
+    "imgs": {
+        "home": "9030",
+        "menu": "9030"
     },
     "baseSpecies": null,
     "baseForms": [],

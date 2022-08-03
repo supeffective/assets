@@ -1455,7 +1455,8 @@
         "dexNum": 194,
         "forms": [
             "wooper",
-            "wooper-f"
+            "wooper-f",
+            "wooper-paldea"
         ]
     },
     {
@@ -6880,15 +6881,29 @@
         ]
     },
     {
-        "id": "koraidon",
+        "id": "fidough",
         "dexNum": 912,
+        "forms": [
+            "fidough"
+        ]
+    },
+    {
+        "id": "cetitan",
+        "dexNum": 913,
+        "forms": [
+            "cetitan"
+        ]
+    },
+    {
+        "id": "koraidon",
+        "dexNum": 914,
         "forms": [
             "koraidon"
         ]
     },
     {
         "id": "miraidon",
-        "dexNum": 913,
+        "dexNum": 915,
         "forms": [
             "miraidon"
         ]
