@@ -152,8 +152,7 @@
         "forms": [
             "raticate",
             "raticate-f",
-            "raticate-alola",
-            "raticate-alola-totem"
+            "raticate-alola"
         ]
     },
     {
@@ -196,7 +195,6 @@
             "pikachu-pop-star",
             "pikachu-phd",
             "pikachu-libre",
-            "pikachu-starter",
             "pikachu-gmax",
             "pikachu-original",
             "pikachu-hoenn",
@@ -808,8 +806,7 @@
         "dexNum": 105,
         "forms": [
             "marowak",
-            "marowak-alola",
-            "marowak-alola-totem"
+            "marowak-alola"
         ]
     },
     {
@@ -5518,8 +5515,7 @@
         "id": "gumshoos",
         "dexNum": 735,
         "forms": [
-            "gumshoos",
-            "gumshoos-totem"
+            "gumshoos"
         ]
     },
     {
@@ -5540,8 +5536,7 @@
         "id": "vikavolt",
         "dexNum": 738,
         "forms": [
-            "vikavolt",
-            "vikavolt-totem"
+            "vikavolt"
         ]
     },
     {
@@ -5579,8 +5574,7 @@
         "id": "ribombee",
         "dexNum": 743,
         "forms": [
-            "ribombee",
-            "ribombee-totem"
+            "ribombee"
         ]
     },
     {
@@ -5647,8 +5641,7 @@
         "id": "araquanid",
         "dexNum": 752,
         "forms": [
-            "araquanid",
-            "araquanid-totem"
+            "araquanid"
         ]
     },
     {
@@ -5662,8 +5655,7 @@
         "id": "lurantis",
         "dexNum": 754,
         "forms": [
-            "lurantis",
-            "lurantis-totem"
+            "lurantis"
         ]
     },
     {
@@ -5691,8 +5683,7 @@
         "id": "salazzle",
         "dexNum": 758,
         "forms": [
-            "salazzle",
-            "salazzle-totem"
+            "salazzle"
         ]
     },
     {
@@ -5849,8 +5840,7 @@
         "id": "togedemaru",
         "dexNum": 777,
         "forms": [
-            "togedemaru",
-            "togedemaru-totem"
+            "togedemaru"
         ]
     },
     {
@@ -5858,9 +5848,7 @@
         "dexNum": 778,
         "forms": [
             "mimikyu",
-            "mimikyu-busted",
-            "mimikyu-totem",
-            "mimikyu-busted-totem"
+            "mimikyu-busted"
         ]
     },
     {
@@ -5902,8 +5890,7 @@
         "id": "kommoo",
         "dexNum": 784,
         "forms": [
-            "kommoo",
-            "kommoo-totem"
+            "kommoo"
         ]
     },
     {

@@ -3911,8 +3911,7 @@
         "forms": [
             "raticate",
             "raticate-f",
-            "raticate-alola",
-            "raticate-alola-totem"
+            "raticate-alola"
         ],
         "evolutions": []
     },
@@ -4747,7 +4746,6 @@
             "pikachu-pop-star",
             "pikachu-phd",
             "pikachu-libre",
-            "pikachu-starter",
             "pikachu-gmax",
             "pikachu-original",
             "pikachu-hoenn",
@@ -20109,8 +20107,7 @@
         "baseForms": [],
         "forms": [
             "marowak",
-            "marowak-alola",
-            "marowak-alola-totem"
+            "marowak-alola"
         ],
         "evolutions": []
     },
@@ -124025,8 +124022,7 @@
         "baseSpecies": null,
         "baseForms": [],
         "forms": [
-            "gumshoos",
-            "gumshoos-totem"
+            "gumshoos"
         ],
         "evolutions": []
     },
@@ -124335,8 +124331,7 @@
         "baseSpecies": null,
         "baseForms": [],
         "forms": [
-            "vikavolt",
-            "vikavolt-totem"
+            "vikavolt"
         ],
         "evolutions": []
     },
@@ -125153,8 +125148,7 @@
         "baseSpecies": null,
         "baseForms": [],
         "forms": [
-            "ribombee",
-            "ribombee-totem"
+            "ribombee"
         ],
         "evolutions": []
     },
@@ -126492,8 +126486,7 @@
         "baseSpecies": null,
         "baseForms": [],
         "forms": [
-            "araquanid",
-            "araquanid-totem"
+            "araquanid"
         ],
         "evolutions": []
     },
@@ -126703,8 +126696,7 @@
         "baseSpecies": null,
         "baseForms": [],
         "forms": [
-            "lurantis",
-            "lurantis-totem"
+            "lurantis"
         ],
         "evolutions": []
     },
@@ -127120,8 +127112,7 @@
         "baseSpecies": null,
         "baseForms": [],
         "forms": [
-            "salazzle",
-            "salazzle-totem"
+            "salazzle"
         ],
         "evolutions": []
     },
@@ -131553,8 +131544,7 @@
         "baseSpecies": null,
         "baseForms": [],
         "forms": [
-            "togedemaru",
-            "togedemaru-totem"
+            "togedemaru"
         ],
         "evolutions": []
     },
@@ -131658,9 +131648,7 @@
         "baseForms": [],
         "forms": [
             "mimikyu",
-            "mimikyu-busted",
-            "mimikyu-totem",
-            "mimikyu-busted-totem"
+            "mimikyu-busted"
         ],
         "evolutions": []
     },
@@ -132380,8 +132368,7 @@
         "baseSpecies": null,
         "baseForms": [],
         "forms": [
-            "kommoo",
-            "kommoo-totem"
+            "kommoo"
         ],
         "evolutions": []
     },
