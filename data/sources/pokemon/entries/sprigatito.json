@@ -79,20 +79,20 @@
         "veekunDb": "sprigatito",
         "serebii": "sprigatito",
         "bulbapedia": "Sprigatito",
-        "homeSprite": "sprigatito",
-        "miniSprite": "sprigatito",
+        "homeSprite": "9001",
+        "miniSprite": "9001",
         "showdown": "sprigatito",
         "showdownDef": "Sprigatito",
         "smogon": "sprigatito"
-    },
-    "imgs": {
-        "home": "9001",
-        "menu": "9001"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "sprigatito"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "9001",
+        "menu": "9001"
+    }
 }

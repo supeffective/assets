@@ -105,15 +105,11 @@
         "veekunDb": "marowak",
         "serebii": "marowak",
         "bulbapedia": "Marowak",
-        "homeSprite": "marowak",
-        "miniSprite": "marowak",
+        "homeSprite": "0105",
+        "miniSprite": "0105",
         "showdown": "marowak",
         "showdownDef": "Marowak",
         "smogon": "marowak"
-    },
-    "imgs": {
-        "home": "0105",
-        "menu": "0105"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -121,5 +117,9 @@
         "marowak",
         "marowak-alola"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0105",
+        "menu": "0105"
+    }
 }

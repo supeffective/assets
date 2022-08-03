@@ -80,20 +80,20 @@
         "veekunDb": "clobbopus",
         "serebii": "clobbopus",
         "bulbapedia": "Clobbopus",
-        "homeSprite": "clobbopus",
-        "miniSprite": "clobbopus",
+        "homeSprite": "0852",
+        "miniSprite": "0852",
         "showdown": "clobbopus",
         "showdownDef": "Clobbopus",
         "smogon": "clobbopus"
-    },
-    "imgs": {
-        "home": "0852",
-        "menu": "0852"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "clobbopus"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0852",
+        "menu": "0852"
+    }
 }

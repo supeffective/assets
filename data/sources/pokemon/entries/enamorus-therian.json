@@ -80,18 +80,18 @@
         "veekunDb": "enamorus-therian",
         "serebii": "enamorus",
         "bulbapedia": "Enamorus",
-        "homeSprite": "enamorus-therian",
-        "miniSprite": "enamorus-therian",
+        "homeSprite": "0905-therian",
+        "miniSprite": "0905-therian",
         "showdown": "enamorustherian",
         "showdownDef": "Enamorus-Therian",
         "smogon": "enamorus-therian"
     },
-    "imgs": {
-        "home": "0905-therian",
-        "menu": "0905-therian"
-    },
     "baseSpecies": "enamorus",
     "baseForms": [],
     "forms": [],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0905-therian",
+        "menu": "0905-therian"
+    }
 }

@@ -97,20 +97,20 @@
         "veekunDb": "clamperl",
         "serebii": "clamperl",
         "bulbapedia": "Clamperl",
-        "homeSprite": "clamperl",
-        "miniSprite": "clamperl",
+        "homeSprite": "0366",
+        "miniSprite": "0366",
         "showdown": "clamperl",
         "showdownDef": "Clamperl",
         "smogon": "clamperl"
-    },
-    "imgs": {
-        "home": "0366",
-        "menu": "0366"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "clamperl"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0366",
+        "menu": "0366"
+    }
 }

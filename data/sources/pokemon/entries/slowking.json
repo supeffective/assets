@@ -101,15 +101,11 @@
         "veekunDb": "slowking",
         "serebii": "slowking",
         "bulbapedia": "Slowking",
-        "homeSprite": "slowking",
-        "miniSprite": "slowking",
+        "homeSprite": "0199",
+        "miniSprite": "0199",
         "showdown": "slowking",
         "showdownDef": "Slowking",
         "smogon": "slowking"
-    },
-    "imgs": {
-        "home": "0199",
-        "menu": "0199"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -117,5 +113,9 @@
         "slowking",
         "slowking-galar"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0199",
+        "menu": "0199"
+    }
 }

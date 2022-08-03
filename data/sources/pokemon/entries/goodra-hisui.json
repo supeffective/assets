@@ -80,18 +80,18 @@
         "veekunDb": null,
         "serebii": "goodra",
         "bulbapedia": "Goodra",
-        "homeSprite": "goodra-hisui",
-        "miniSprite": "goodra-hisui",
+        "homeSprite": "0706-hisui",
+        "miniSprite": "0706-hisui",
         "showdown": "goodrahisui",
         "showdownDef": "Goodra-Hisui",
         "smogon": "goodra-hisui"
     },
-    "imgs": {
-        "home": "0706-hisui",
-        "menu": "0706-hisui"
-    },
     "baseSpecies": "goodra",
     "baseForms": [],
     "forms": [],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0706-hisui",
+        "menu": "0706-hisui"
+    }
 }

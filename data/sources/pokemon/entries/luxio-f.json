@@ -97,18 +97,18 @@
         "veekunDb": "luxio",
         "serebii": "luxio",
         "bulbapedia": "Luxio",
-        "homeSprite": "luxio-f",
-        "miniSprite": "luxio-f",
+        "homeSprite": "0404-f",
+        "miniSprite": "0404",
         "showdown": "luxio",
         "showdownDef": "Luxio",
         "smogon": "luxio"
     },
-    "imgs": {
-        "home": "0404-f",
-        "menu": "0404"
-    },
     "baseSpecies": "luxio",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0404-f",
+        "menu": "0404"
+    }
 }

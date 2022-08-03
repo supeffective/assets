@@ -90,18 +90,18 @@
         "veekunDb": "ninetales-alola",
         "serebii": "ninetales",
         "bulbapedia": "Ninetales",
-        "homeSprite": "ninetales-alola",
-        "miniSprite": "ninetales-alola",
+        "homeSprite": "0038-alola",
+        "miniSprite": "0038-alola",
         "showdown": "ninetalesalola",
         "showdownDef": "Ninetales-Alola",
         "smogon": "ninetales-alola"
     },
-    "imgs": {
-        "home": "0038-alola",
-        "menu": "0038-alola"
-    },
     "baseSpecies": "ninetales",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0038-alola",
+        "menu": "0038-alola"
+    }
 }

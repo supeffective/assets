@@ -97,20 +97,20 @@
         "veekunDb": "skuntank",
         "serebii": "skuntank",
         "bulbapedia": "Skuntank",
-        "homeSprite": "skuntank",
-        "miniSprite": "skuntank",
+        "homeSprite": "0435",
+        "miniSprite": "0435",
         "showdown": "skuntank",
         "showdownDef": "Skuntank",
         "smogon": "skuntank"
-    },
-    "imgs": {
-        "home": "0435",
-        "menu": "0435"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "skuntank"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0435",
+        "menu": "0435"
+    }
 }

@@ -107,20 +107,20 @@
         "veekunDb": "porygon",
         "serebii": "porygon",
         "bulbapedia": "Porygon",
-        "homeSprite": "porygon",
-        "miniSprite": "porygon",
+        "homeSprite": "0137",
+        "miniSprite": "0137",
         "showdown": "porygon",
         "showdownDef": "Porygon",
         "smogon": "porygon"
-    },
-    "imgs": {
-        "home": "0137",
-        "menu": "0137"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "porygon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0137",
+        "menu": "0137"
+    }
 }

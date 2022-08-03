@@ -77,20 +77,20 @@
         "veekunDb": "kingler-gmax",
         "serebii": "kingler",
         "bulbapedia": "Kingler",
-        "homeSprite": "kingler-gmax",
-        "miniSprite": "kingler-gmax",
+        "homeSprite": "0099-gmax",
+        "miniSprite": "0099-gmax",
         "showdown": "kinglergmax",
         "showdownDef": "Kingler-Gmax",
         "smogon": "kingler-gmax"
-    },
-    "imgs": {
-        "home": "0099-gmax",
-        "menu": "0099-gmax"
     },
     "baseSpecies": "kingler",
     "baseForms": [
         "kingler"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0099-gmax",
+        "menu": "0099-gmax"
+    }
 }

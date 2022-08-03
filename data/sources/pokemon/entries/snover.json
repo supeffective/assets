@@ -97,15 +97,11 @@
         "veekunDb": "snover",
         "serebii": "snover",
         "bulbapedia": "Snover",
-        "homeSprite": "snover",
-        "miniSprite": "snover",
+        "homeSprite": "0459",
+        "miniSprite": "0459",
         "showdown": "snover",
         "showdownDef": "Snover",
         "smogon": "snover"
-    },
-    "imgs": {
-        "home": "0459",
-        "menu": "0459"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -113,5 +109,9 @@
         "snover",
         "snover-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0459",
+        "menu": "0459"
+    }
 }

@@ -78,20 +78,20 @@
         "veekunDb": "latios-mega",
         "serebii": "latios",
         "bulbapedia": "Latios",
-        "homeSprite": "latios-mega",
-        "miniSprite": "latios-mega",
+        "homeSprite": "0381-mega",
+        "miniSprite": "0381-mega",
         "showdown": "latiosmega",
         "showdownDef": "Latios-Mega",
         "smogon": "latios-mega"
-    },
-    "imgs": {
-        "home": "0381-mega",
-        "menu": "0381-mega"
     },
     "baseSpecies": "latios",
     "baseForms": [
         "latios"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0381-mega",
+        "menu": "0381-mega"
+    }
 }

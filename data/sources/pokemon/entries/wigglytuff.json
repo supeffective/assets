@@ -105,20 +105,20 @@
         "veekunDb": "wigglytuff",
         "serebii": "wigglytuff",
         "bulbapedia": "Wigglytuff",
-        "homeSprite": "wigglytuff",
-        "miniSprite": "wigglytuff",
+        "homeSprite": "0040",
+        "miniSprite": "0040",
         "showdown": "wigglytuff",
         "showdownDef": "Wigglytuff",
         "smogon": "wigglytuff"
-    },
-    "imgs": {
-        "home": "0040",
-        "menu": "0040"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "wigglytuff"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0040",
+        "menu": "0040"
+    }
 }

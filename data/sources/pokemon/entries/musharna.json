@@ -90,20 +90,20 @@
         "veekunDb": "musharna",
         "serebii": "musharna",
         "bulbapedia": "Musharna",
-        "homeSprite": "musharna",
-        "miniSprite": "musharna",
+        "homeSprite": "0518",
+        "miniSprite": "0518",
         "showdown": "musharna",
         "showdownDef": "Musharna",
         "smogon": "musharna"
-    },
-    "imgs": {
-        "home": "0518",
-        "menu": "0518"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "musharna"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0518",
+        "menu": "0518"
+    }
 }

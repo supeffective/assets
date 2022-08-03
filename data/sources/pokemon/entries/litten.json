@@ -86,20 +86,20 @@
         "veekunDb": "litten",
         "serebii": "litten",
         "bulbapedia": "Litten",
-        "homeSprite": "litten",
-        "miniSprite": "litten",
+        "homeSprite": "0725",
+        "miniSprite": "0725",
         "showdown": "litten",
         "showdownDef": "Litten",
         "smogon": "litten"
-    },
-    "imgs": {
-        "home": "0725",
-        "menu": "0725"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "litten"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0725",
+        "menu": "0725"
+    }
 }

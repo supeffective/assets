@@ -80,18 +80,18 @@
         "veekunDb": "basculin-white-striped",
         "serebii": "basculin",
         "bulbapedia": "Basculin",
-        "homeSprite": "basculin-white-striped",
-        "miniSprite": "basculin-white-striped",
+        "homeSprite": "0550-white-striped",
+        "miniSprite": "0550-white-striped",
         "showdown": "basculinwhitestriped",
         "showdownDef": "Basculin-white-Striped",
         "smogon": "basculin-white-striped"
     },
-    "imgs": {
-        "home": "0550-white-striped",
-        "menu": "0550-white-striped"
-    },
     "baseSpecies": "basculin",
     "baseForms": [],
     "forms": [],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0550-white-striped",
+        "menu": "0550-white-striped"
+    }
 }

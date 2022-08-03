@@ -80,20 +80,20 @@
         "veekunDb": "grookey",
         "serebii": "grookey",
         "bulbapedia": "Grookey",
-        "homeSprite": "grookey",
-        "miniSprite": "grookey",
+        "homeSprite": "0810",
+        "miniSprite": "0810",
         "showdown": "grookey",
         "showdownDef": "Grookey",
         "smogon": "grookey"
-    },
-    "imgs": {
-        "home": "0810",
-        "menu": "0810"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "grookey"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0810",
+        "menu": "0810"
+    }
 }

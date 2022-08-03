@@ -82,18 +82,18 @@
         "veekunDb": null,
         "serebii": "qwilfish",
         "bulbapedia": "Qwilfish",
-        "homeSprite": "qwilfish-hisui",
-        "miniSprite": "qwilfish-hisui",
+        "homeSprite": "0211-hisui",
+        "miniSprite": "0211-hisui",
         "showdown": "qwilfishhisui",
         "showdownDef": "Qwilfish-Hisui",
         "smogon": "qwilfish-hisui"
     },
-    "imgs": {
-        "home": "0211-hisui",
-        "menu": "0211-hisui"
-    },
     "baseSpecies": "qwilfish",
     "baseForms": [],
     "forms": [],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0211-hisui",
+        "menu": "0211-hisui"
+    }
 }

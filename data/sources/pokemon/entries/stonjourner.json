@@ -80,20 +80,20 @@
         "veekunDb": "stonjourner",
         "serebii": "stonjourner",
         "bulbapedia": "Stonjourner",
-        "homeSprite": "stonjourner",
-        "miniSprite": "stonjourner",
+        "homeSprite": "0874",
+        "miniSprite": "0874",
         "showdown": "stonjourner",
         "showdownDef": "Stonjourner",
         "smogon": "stonjourner"
-    },
-    "imgs": {
-        "home": "0874",
-        "menu": "0874"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "stonjourner"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0874",
+        "menu": "0874"
+    }
 }

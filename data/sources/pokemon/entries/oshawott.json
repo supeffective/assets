@@ -90,20 +90,20 @@
         "veekunDb": "oshawott",
         "serebii": "oshawott",
         "bulbapedia": "Oshawott",
-        "homeSprite": "oshawott",
-        "miniSprite": "oshawott",
+        "homeSprite": "0501",
+        "miniSprite": "0501",
         "showdown": "oshawott",
         "showdownDef": "Oshawott",
         "smogon": "oshawott"
-    },
-    "imgs": {
-        "home": "0501",
-        "menu": "0501"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "oshawott"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0501",
+        "menu": "0501"
+    }
 }

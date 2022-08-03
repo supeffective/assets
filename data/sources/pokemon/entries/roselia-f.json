@@ -96,18 +96,18 @@
         "veekunDb": "roselia",
         "serebii": "roselia",
         "bulbapedia": "Roselia",
-        "homeSprite": "roselia-f",
-        "miniSprite": "roselia-f",
+        "homeSprite": "0315-f",
+        "miniSprite": "0315",
         "showdown": "roselia",
         "showdownDef": "Roselia",
         "smogon": "roselia"
     },
-    "imgs": {
-        "home": "0315-f",
-        "menu": "0315"
-    },
     "baseSpecies": "roselia",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0315-f",
+        "menu": "0315"
+    }
 }

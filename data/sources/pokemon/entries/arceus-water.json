@@ -92,20 +92,20 @@
         "veekunDb": "arceus-water",
         "serebii": "arceus",
         "bulbapedia": "Arceus",
-        "homeSprite": "arceus-water",
-        "miniSprite": "arceus-water",
+        "homeSprite": "0493-water",
+        "miniSprite": "0493-water",
         "showdown": "arceuswater",
         "showdownDef": "Arceus-Water",
         "smogon": "arceus-water"
-    },
-    "imgs": {
-        "home": "0493-water",
-        "menu": "0493-water"
     },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0493-water",
+        "menu": "0493-water"
+    }
 }

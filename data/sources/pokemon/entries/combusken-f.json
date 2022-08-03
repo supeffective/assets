@@ -94,18 +94,18 @@
         "veekunDb": "combusken",
         "serebii": "combusken",
         "bulbapedia": "Combusken",
-        "homeSprite": "combusken-f",
-        "miniSprite": "combusken-f",
+        "homeSprite": "0256-f",
+        "miniSprite": "0256",
         "showdown": "combusken",
         "showdownDef": "Combusken",
         "smogon": "combusken"
     },
-    "imgs": {
-        "home": "0256-f",
-        "menu": "0256"
-    },
     "baseSpecies": "combusken",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0256-f",
+        "menu": "0256"
+    }
 }

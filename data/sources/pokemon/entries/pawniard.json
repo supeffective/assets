@@ -90,20 +90,20 @@
         "veekunDb": "pawniard",
         "serebii": "pawniard",
         "bulbapedia": "Pawniard",
-        "homeSprite": "pawniard",
-        "miniSprite": "pawniard",
+        "homeSprite": "0624",
+        "miniSprite": "0624",
         "showdown": "pawniard",
         "showdownDef": "Pawniard",
         "smogon": "pawniard"
-    },
-    "imgs": {
-        "home": "0624",
-        "menu": "0624"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "pawniard"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0624",
+        "menu": "0624"
+    }
 }

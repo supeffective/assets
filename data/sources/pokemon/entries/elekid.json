@@ -103,20 +103,20 @@
         "veekunDb": "elekid",
         "serebii": "elekid",
         "bulbapedia": "Elekid",
-        "homeSprite": "elekid",
-        "miniSprite": "elekid",
+        "homeSprite": "0239",
+        "miniSprite": "0239",
         "showdown": "elekid",
         "showdownDef": "Elekid",
         "smogon": "elekid"
-    },
-    "imgs": {
-        "home": "0239",
-        "menu": "0239"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "elekid"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0239",
+        "menu": "0239"
+    }
 }

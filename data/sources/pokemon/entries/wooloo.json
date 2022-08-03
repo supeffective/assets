@@ -82,20 +82,20 @@
         "veekunDb": "wooloo",
         "serebii": "wooloo",
         "bulbapedia": "Wooloo",
-        "homeSprite": "wooloo",
-        "miniSprite": "wooloo",
+        "homeSprite": "0831",
+        "miniSprite": "0831",
         "showdown": "wooloo",
         "showdownDef": "Wooloo",
         "smogon": "wooloo"
-    },
-    "imgs": {
-        "home": "0831",
-        "menu": "0831"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "wooloo"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0831",
+        "menu": "0831"
+    }
 }

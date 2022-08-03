@@ -90,20 +90,20 @@
         "veekunDb": "klinklang",
         "serebii": "klinklang",
         "bulbapedia": "Klinklang",
-        "homeSprite": "klinklang",
-        "miniSprite": "klinklang",
+        "homeSprite": "0601",
+        "miniSprite": "0601",
         "showdown": "klinklang",
         "showdownDef": "Klinklang",
         "smogon": "klinklang"
-    },
-    "imgs": {
-        "home": "0601",
-        "menu": "0601"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "klinklang"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0601",
+        "menu": "0601"
+    }
 }

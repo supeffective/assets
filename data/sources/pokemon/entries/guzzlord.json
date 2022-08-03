@@ -84,20 +84,20 @@
         "veekunDb": "guzzlord",
         "serebii": "guzzlord",
         "bulbapedia": "Guzzlord",
-        "homeSprite": "guzzlord",
-        "miniSprite": "guzzlord",
+        "homeSprite": "0799",
+        "miniSprite": "0799",
         "showdown": "guzzlord",
         "showdownDef": "Guzzlord",
         "smogon": "guzzlord"
-    },
-    "imgs": {
-        "home": "0799",
-        "menu": "0799"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "guzzlord"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0799",
+        "menu": "0799"
+    }
 }

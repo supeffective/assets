@@ -93,18 +93,18 @@
         "veekunDb": "doduo",
         "serebii": "doduo",
         "bulbapedia": "Doduo",
-        "homeSprite": "doduo-f",
-        "miniSprite": "doduo-f",
+        "homeSprite": "0084-f",
+        "miniSprite": "0084",
         "showdown": "doduo",
         "showdownDef": "Doduo",
         "smogon": "doduo"
     },
-    "imgs": {
-        "home": "0084-f",
-        "menu": "0084"
-    },
     "baseSpecies": "doduo",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0084-f",
+        "menu": "0084"
+    }
 }

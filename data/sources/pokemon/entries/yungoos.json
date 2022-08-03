@@ -84,20 +84,20 @@
         "veekunDb": "yungoos",
         "serebii": "yungoos",
         "bulbapedia": "Yungoos",
-        "homeSprite": "yungoos",
-        "miniSprite": "yungoos",
+        "homeSprite": "0734",
+        "miniSprite": "0734",
         "showdown": "yungoos",
         "showdownDef": "Yungoos",
         "smogon": "yungoos"
-    },
-    "imgs": {
-        "home": "0734",
-        "menu": "0734"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "yungoos"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0734",
+        "menu": "0734"
+    }
 }

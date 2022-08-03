@@ -97,20 +97,20 @@
         "veekunDb": "dusknoir",
         "serebii": "dusknoir",
         "bulbapedia": "Dusknoir",
-        "homeSprite": "dusknoir",
-        "miniSprite": "dusknoir",
+        "homeSprite": "0477",
+        "miniSprite": "0477",
         "showdown": "dusknoir",
         "showdownDef": "Dusknoir",
         "smogon": "dusknoir"
-    },
-    "imgs": {
-        "home": "0477",
-        "menu": "0477"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "dusknoir"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0477",
+        "menu": "0477"
+    }
 }

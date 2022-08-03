@@ -103,20 +103,20 @@
         "veekunDb": "spearow",
         "serebii": "spearow",
         "bulbapedia": "Spearow",
-        "homeSprite": "spearow",
-        "miniSprite": "spearow",
+        "homeSprite": "0021",
+        "miniSprite": "0021",
         "showdown": "spearow",
         "showdownDef": "Spearow",
         "smogon": "spearow"
-    },
-    "imgs": {
-        "home": "0021",
-        "menu": "0021"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "spearow"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0021",
+        "menu": "0021"
+    }
 }

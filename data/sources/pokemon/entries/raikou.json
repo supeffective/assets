@@ -101,20 +101,20 @@
         "veekunDb": "raikou",
         "serebii": "raikou",
         "bulbapedia": "Raikou",
-        "homeSprite": "raikou",
-        "miniSprite": "raikou",
+        "homeSprite": "0243",
+        "miniSprite": "0243",
         "showdown": "raikou",
         "showdownDef": "Raikou",
         "smogon": "raikou"
-    },
-    "imgs": {
-        "home": "0243",
-        "menu": "0243"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "raikou"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0243",
+        "menu": "0243"
+    }
 }

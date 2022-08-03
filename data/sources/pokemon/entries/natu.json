@@ -101,20 +101,20 @@
         "veekunDb": "natu",
         "serebii": "natu",
         "bulbapedia": "Natu",
-        "homeSprite": "natu",
-        "miniSprite": "natu",
+        "homeSprite": "0177",
+        "miniSprite": "0177",
         "showdown": "natu",
         "showdownDef": "Natu",
         "smogon": "natu"
-    },
-    "imgs": {
-        "home": "0177",
-        "menu": "0177"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "natu"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0177",
+        "menu": "0177"
+    }
 }

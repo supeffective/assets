@@ -80,18 +80,18 @@
         "veekunDb": null,
         "serebii": "lilligant",
         "bulbapedia": "Lilligant",
-        "homeSprite": "lilligant-hisui",
-        "miniSprite": "lilligant-hisui",
+        "homeSprite": "0549-hisui",
+        "miniSprite": "0549-hisui",
         "showdown": "lilliganthisui",
         "showdownDef": "Lilligant-Hisui",
         "smogon": "lilligant-hisui"
     },
-    "imgs": {
-        "home": "0549-hisui",
-        "menu": "0549-hisui"
-    },
     "baseSpecies": "lilligant",
     "baseForms": [],
     "forms": [],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0549-hisui",
+        "menu": "0549-hisui"
+    }
 }

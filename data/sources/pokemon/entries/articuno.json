@@ -105,15 +105,11 @@
         "veekunDb": "articuno",
         "serebii": "articuno",
         "bulbapedia": "Articuno",
-        "homeSprite": "articuno",
-        "miniSprite": "articuno",
+        "homeSprite": "0144",
+        "miniSprite": "0144",
         "showdown": "articuno",
         "showdownDef": "Articuno",
         "smogon": "articuno"
-    },
-    "imgs": {
-        "home": "0144",
-        "menu": "0144"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -121,5 +117,9 @@
         "articuno",
         "articuno-galar"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0144",
+        "menu": "0144"
+    }
 }

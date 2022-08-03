@@ -88,20 +88,20 @@
         "veekunDb": "servine",
         "serebii": "servine",
         "bulbapedia": "Servine",
-        "homeSprite": "servine",
-        "miniSprite": "servine",
+        "homeSprite": "0496",
+        "miniSprite": "0496",
         "showdown": "servine",
         "showdownDef": "Servine",
         "smogon": "servine"
-    },
-    "imgs": {
-        "home": "0496",
-        "menu": "0496"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "servine"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0496",
+        "menu": "0496"
+    }
 }

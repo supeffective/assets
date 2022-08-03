@@ -84,20 +84,20 @@
         "veekunDb": "passimian",
         "serebii": "passimian",
         "bulbapedia": "Passimian",
-        "homeSprite": "passimian",
-        "miniSprite": "passimian",
+        "homeSprite": "0766",
+        "miniSprite": "0766",
         "showdown": "passimian",
         "showdownDef": "Passimian",
         "smogon": "passimian"
-    },
-    "imgs": {
-        "home": "0766",
-        "menu": "0766"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "passimian"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0766",
+        "menu": "0766"
+    }
 }

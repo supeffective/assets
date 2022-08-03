@@ -97,18 +97,18 @@
         "veekunDb": "weavile",
         "serebii": "weavile",
         "bulbapedia": "Weavile",
-        "homeSprite": "weavile-f",
-        "miniSprite": "weavile-f",
+        "homeSprite": "0461-f",
+        "miniSprite": "0461",
         "showdown": "weavile",
         "showdownDef": "Weavile",
         "smogon": "weavile"
     },
-    "imgs": {
-        "home": "0461-f",
-        "menu": "0461"
-    },
     "baseSpecies": "weavile",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0461-f",
+        "menu": "0461"
+    }
 }

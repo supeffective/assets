@@ -86,20 +86,20 @@
         "veekunDb": "xurkitree",
         "serebii": "xurkitree",
         "bulbapedia": "Xurkitree",
-        "homeSprite": "xurkitree",
-        "miniSprite": "xurkitree",
+        "homeSprite": "0796",
+        "miniSprite": "0796",
         "showdown": "xurkitree",
         "showdownDef": "Xurkitree",
         "smogon": "xurkitree"
-    },
-    "imgs": {
-        "home": "0796",
-        "menu": "0796"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "xurkitree"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0796",
+        "menu": "0796"
+    }
 }

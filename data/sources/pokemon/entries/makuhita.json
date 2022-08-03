@@ -97,20 +97,20 @@
         "veekunDb": "makuhita",
         "serebii": "makuhita",
         "bulbapedia": "Makuhita",
-        "homeSprite": "makuhita",
-        "miniSprite": "makuhita",
+        "homeSprite": "0296",
+        "miniSprite": "0296",
         "showdown": "makuhita",
         "showdownDef": "Makuhita",
         "smogon": "makuhita"
-    },
-    "imgs": {
-        "home": "0296",
-        "menu": "0296"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "makuhita"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0296",
+        "menu": "0296"
+    }
 }

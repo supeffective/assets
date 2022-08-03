@@ -105,20 +105,20 @@
         "veekunDb": "jynx",
         "serebii": "jynx",
         "bulbapedia": "Jynx",
-        "homeSprite": "jynx",
-        "miniSprite": "jynx",
+        "homeSprite": "0124",
+        "miniSprite": "0124",
         "showdown": "jynx",
         "showdownDef": "Jynx",
         "smogon": "jynx"
-    },
-    "imgs": {
-        "home": "0124",
-        "menu": "0124"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "jynx"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0124",
+        "menu": "0124"
+    }
 }

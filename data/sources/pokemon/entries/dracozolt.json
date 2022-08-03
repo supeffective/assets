@@ -80,20 +80,20 @@
         "veekunDb": "dracozolt",
         "serebii": "dracozolt",
         "bulbapedia": "Dracozolt",
-        "homeSprite": "dracozolt",
-        "miniSprite": "dracozolt",
+        "homeSprite": "0880",
+        "miniSprite": "0880",
         "showdown": "dracozolt",
         "showdownDef": "Dracozolt",
         "smogon": "dracozolt"
-    },
-    "imgs": {
-        "home": "0880",
-        "menu": "0880"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "dracozolt"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0880",
+        "menu": "0880"
+    }
 }

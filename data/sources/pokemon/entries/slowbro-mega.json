@@ -79,20 +79,20 @@
         "veekunDb": "slowbro-mega",
         "serebii": "slowbro",
         "bulbapedia": "Slowbro",
-        "homeSprite": "slowbro-mega",
-        "miniSprite": "slowbro-mega",
+        "homeSprite": "0080-mega",
+        "miniSprite": "0080-mega",
         "showdown": "slowbromega",
         "showdownDef": "Slowbro-Mega",
         "smogon": "slowbro-mega"
-    },
-    "imgs": {
-        "home": "0080-mega",
-        "menu": "0080-mega"
     },
     "baseSpecies": "slowbro",
     "baseForms": [
         "slowbro"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0080-mega",
+        "menu": "0080-mega"
+    }
 }

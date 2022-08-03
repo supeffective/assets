@@ -87,20 +87,20 @@
         "veekunDb": "skrelp",
         "serebii": "skrelp",
         "bulbapedia": "Skrelp",
-        "homeSprite": "skrelp",
-        "miniSprite": "skrelp",
+        "homeSprite": "0690",
+        "miniSprite": "0690",
         "showdown": "skrelp",
         "showdownDef": "Skrelp",
         "smogon": "skrelp"
-    },
-    "imgs": {
-        "home": "0690",
-        "menu": "0690"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "skrelp"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0690",
+        "menu": "0690"
+    }
 }

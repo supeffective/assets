@@ -88,20 +88,20 @@
         "veekunDb": "pignite",
         "serebii": "pignite",
         "bulbapedia": "Pignite",
-        "homeSprite": "pignite",
-        "miniSprite": "pignite",
+        "homeSprite": "0499",
+        "miniSprite": "0499",
         "showdown": "pignite",
         "showdownDef": "Pignite",
         "smogon": "pignite"
-    },
-    "imgs": {
-        "home": "0499",
-        "menu": "0499"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "pignite"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0499",
+        "menu": "0499"
+    }
 }

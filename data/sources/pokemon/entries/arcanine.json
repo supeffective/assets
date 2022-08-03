@@ -105,15 +105,11 @@
         "veekunDb": "arcanine",
         "serebii": "arcanine",
         "bulbapedia": "Arcanine",
-        "homeSprite": "arcanine",
-        "miniSprite": "arcanine",
+        "homeSprite": "0059",
+        "miniSprite": "0059",
         "showdown": "arcanine",
         "showdownDef": "Arcanine",
         "smogon": "arcanine"
-    },
-    "imgs": {
-        "home": "0059",
-        "menu": "0059"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -121,5 +117,9 @@
         "arcanine",
         "arcanine-hisui"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0059",
+        "menu": "0059"
+    }
 }

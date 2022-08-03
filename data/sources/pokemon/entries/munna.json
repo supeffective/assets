@@ -90,20 +90,20 @@
         "veekunDb": "munna",
         "serebii": "munna",
         "bulbapedia": "Munna",
-        "homeSprite": "munna",
-        "miniSprite": "munna",
+        "homeSprite": "0517",
+        "miniSprite": "0517",
         "showdown": "munna",
         "showdownDef": "Munna",
         "smogon": "munna"
-    },
-    "imgs": {
-        "home": "0517",
-        "menu": "0517"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "munna"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0517",
+        "menu": "0517"
+    }
 }

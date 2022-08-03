@@ -101,15 +101,11 @@
         "veekunDb": "glalie",
         "serebii": "glalie",
         "bulbapedia": "Glalie",
-        "homeSprite": "glalie",
-        "miniSprite": "glalie",
+        "homeSprite": "0362",
+        "miniSprite": "0362",
         "showdown": "glalie",
         "showdownDef": "Glalie",
         "smogon": "glalie"
-    },
-    "imgs": {
-        "home": "0362",
-        "menu": "0362"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -117,5 +113,9 @@
         "glalie",
         "glalie-mega"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0362",
+        "menu": "0362"
+    }
 }

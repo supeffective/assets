@@ -87,20 +87,20 @@
         "veekunDb": "amaura",
         "serebii": "amaura",
         "bulbapedia": "Amaura",
-        "homeSprite": "amaura",
-        "miniSprite": "amaura",
+        "homeSprite": "0698",
+        "miniSprite": "0698",
         "showdown": "amaura",
         "showdownDef": "Amaura",
         "smogon": "amaura"
-    },
-    "imgs": {
-        "home": "0698",
-        "menu": "0698"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "amaura"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0698",
+        "menu": "0698"
+    }
 }

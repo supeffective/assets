@@ -80,20 +80,20 @@
         "veekunDb": "arrokuda",
         "serebii": "arrokuda",
         "bulbapedia": "Arrokuda",
-        "homeSprite": "arrokuda",
-        "miniSprite": "arrokuda",
+        "homeSprite": "0846",
+        "miniSprite": "0846",
         "showdown": "arrokuda",
         "showdownDef": "Arrokuda",
         "smogon": "arrokuda"
-    },
-    "imgs": {
-        "home": "0846",
-        "menu": "0846"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "arrokuda"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0846",
+        "menu": "0846"
+    }
 }

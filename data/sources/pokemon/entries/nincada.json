@@ -99,20 +99,20 @@
         "veekunDb": "nincada",
         "serebii": "nincada",
         "bulbapedia": "Nincada",
-        "homeSprite": "nincada",
-        "miniSprite": "nincada",
+        "homeSprite": "0290",
+        "miniSprite": "0290",
         "showdown": "nincada",
         "showdownDef": "Nincada",
         "smogon": "nincada"
-    },
-    "imgs": {
-        "home": "0290",
-        "menu": "0290"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "nincada"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0290",
+        "menu": "0290"
+    }
 }

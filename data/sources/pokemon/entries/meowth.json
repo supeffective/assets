@@ -105,15 +105,11 @@
         "veekunDb": "meowth",
         "serebii": "meowth",
         "bulbapedia": "Meowth",
-        "homeSprite": "meowth",
-        "miniSprite": "meowth",
+        "homeSprite": "0052",
+        "miniSprite": "0052",
         "showdown": "meowth",
         "showdownDef": "Meowth",
         "smogon": "meowth"
-    },
-    "imgs": {
-        "home": "0052",
-        "menu": "0052"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -123,5 +119,9 @@
         "meowth-alola",
         "meowth-galar"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0052",
+        "menu": "0052"
+    }
 }

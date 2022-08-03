@@ -86,20 +86,20 @@
         "veekunDb": "bewear",
         "serebii": "bewear",
         "bulbapedia": "Bewear",
-        "homeSprite": "bewear",
-        "miniSprite": "bewear",
+        "homeSprite": "0760",
+        "miniSprite": "0760",
         "showdown": "bewear",
         "showdownDef": "Bewear",
         "smogon": "bewear"
-    },
-    "imgs": {
-        "home": "0760",
-        "menu": "0760"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "bewear"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0760",
+        "menu": "0760"
+    }
 }

@@ -97,15 +97,11 @@
         "veekunDb": "gallade",
         "serebii": "gallade",
         "bulbapedia": "Gallade",
-        "homeSprite": "gallade",
-        "miniSprite": "gallade",
+        "homeSprite": "0475",
+        "miniSprite": "0475",
         "showdown": "gallade",
         "showdownDef": "Gallade",
         "smogon": "gallade"
-    },
-    "imgs": {
-        "home": "0475",
-        "menu": "0475"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -113,5 +109,9 @@
         "gallade",
         "gallade-mega"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0475",
+        "menu": "0475"
+    }
 }

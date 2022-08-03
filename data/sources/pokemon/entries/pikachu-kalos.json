@@ -84,18 +84,18 @@
         "veekunDb": "pikachu-kalos",
         "serebii": "pikachu",
         "bulbapedia": "Pikachu",
-        "homeSprite": "pikachu-kalos",
-        "miniSprite": "pikachu-kalos",
+        "homeSprite": "0025-kalos",
+        "miniSprite": "0025-kalos",
         "showdown": "pikachukalos",
         "showdownDef": "Pikachu-Kalos",
         "smogon": "pikachu-kalos"
     },
-    "imgs": {
-        "home": "0025-kalos",
-        "menu": "0025-kalos"
-    },
     "baseSpecies": "pikachu",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0025-kalos",
+        "menu": "0025-kalos"
+    }
 }

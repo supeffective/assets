@@ -95,15 +95,11 @@
         "veekunDb": "ambipom",
         "serebii": "ambipom",
         "bulbapedia": "Ambipom",
-        "homeSprite": "ambipom",
-        "miniSprite": "ambipom",
+        "homeSprite": "0424",
+        "miniSprite": "0424",
         "showdown": "ambipom",
         "showdownDef": "Ambipom",
         "smogon": "ambipom"
-    },
-    "imgs": {
-        "home": "0424",
-        "menu": "0424"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -111,5 +107,9 @@
         "ambipom",
         "ambipom-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0424",
+        "menu": "0424"
+    }
 }

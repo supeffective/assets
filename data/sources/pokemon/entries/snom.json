@@ -80,20 +80,20 @@
         "veekunDb": "snom",
         "serebii": "snom",
         "bulbapedia": "Snom",
-        "homeSprite": "snom",
-        "miniSprite": "snom",
+        "homeSprite": "0872",
+        "miniSprite": "0872",
         "showdown": "snom",
         "showdownDef": "Snom",
         "smogon": "snom"
-    },
-    "imgs": {
-        "home": "0872",
-        "menu": "0872"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "snom"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0872",
+        "menu": "0872"
+    }
 }

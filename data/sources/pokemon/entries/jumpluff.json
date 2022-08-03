@@ -99,20 +99,20 @@
         "veekunDb": "jumpluff",
         "serebii": "jumpluff",
         "bulbapedia": "Jumpluff",
-        "homeSprite": "jumpluff",
-        "miniSprite": "jumpluff",
+        "homeSprite": "0189",
+        "miniSprite": "0189",
         "showdown": "jumpluff",
         "showdownDef": "Jumpluff",
         "smogon": "jumpluff"
-    },
-    "imgs": {
-        "home": "0189",
-        "menu": "0189"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "jumpluff"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0189",
+        "menu": "0189"
+    }
 }

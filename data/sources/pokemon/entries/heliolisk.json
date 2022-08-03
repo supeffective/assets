@@ -87,20 +87,20 @@
         "veekunDb": "heliolisk",
         "serebii": "heliolisk",
         "bulbapedia": "Heliolisk",
-        "homeSprite": "heliolisk",
-        "miniSprite": "heliolisk",
+        "homeSprite": "0695",
+        "miniSprite": "0695",
         "showdown": "heliolisk",
         "showdownDef": "Heliolisk",
         "smogon": "heliolisk"
-    },
-    "imgs": {
-        "home": "0695",
-        "menu": "0695"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "heliolisk"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0695",
+        "menu": "0695"
+    }
 }

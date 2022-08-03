@@ -79,20 +79,20 @@
         "veekunDb": "pawmi",
         "serebii": "pawmi",
         "bulbapedia": "Pawmi",
-        "homeSprite": "pawmi",
-        "miniSprite": "pawmi",
+        "homeSprite": "9010",
+        "miniSprite": "9010",
         "showdown": "pawmi",
         "showdownDef": "Pawmi",
         "smogon": "pawmi"
-    },
-    "imgs": {
-        "home": "9010",
-        "menu": "9010"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "pawmi"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "9010",
+        "menu": "9010"
+    }
 }

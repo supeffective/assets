@@ -90,20 +90,20 @@
         "veekunDb": "galvantula",
         "serebii": "galvantula",
         "bulbapedia": "Galvantula",
-        "homeSprite": "galvantula",
-        "miniSprite": "galvantula",
+        "homeSprite": "0596",
+        "miniSprite": "0596",
         "showdown": "galvantula",
         "showdownDef": "Galvantula",
         "smogon": "galvantula"
-    },
-    "imgs": {
-        "home": "0596",
-        "menu": "0596"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "galvantula"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0596",
+        "menu": "0596"
+    }
 }

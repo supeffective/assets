@@ -97,15 +97,11 @@
         "veekunDb": "meditite",
         "serebii": "meditite",
         "bulbapedia": "Meditite",
-        "homeSprite": "meditite",
-        "miniSprite": "meditite",
+        "homeSprite": "0307",
+        "miniSprite": "0307",
         "showdown": "meditite",
         "showdownDef": "Meditite",
         "smogon": "meditite"
-    },
-    "imgs": {
-        "home": "0307",
-        "menu": "0307"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -113,5 +109,9 @@
         "meditite",
         "meditite-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0307",
+        "menu": "0307"
+    }
 }

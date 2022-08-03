@@ -101,20 +101,20 @@
         "veekunDb": "delibird",
         "serebii": "delibird",
         "bulbapedia": "Delibird",
-        "homeSprite": "delibird",
-        "miniSprite": "delibird",
+        "homeSprite": "0225",
+        "miniSprite": "0225",
         "showdown": "delibird",
         "showdownDef": "Delibird",
         "smogon": "delibird"
-    },
-    "imgs": {
-        "home": "0225",
-        "menu": "0225"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "delibird"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0225",
+        "menu": "0225"
+    }
 }

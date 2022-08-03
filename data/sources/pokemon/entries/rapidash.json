@@ -107,15 +107,11 @@
         "veekunDb": "rapidash",
         "serebii": "rapidash",
         "bulbapedia": "Rapidash",
-        "homeSprite": "rapidash",
-        "miniSprite": "rapidash",
+        "homeSprite": "0078",
+        "miniSprite": "0078",
         "showdown": "rapidash",
         "showdownDef": "Rapidash",
         "smogon": "rapidash"
-    },
-    "imgs": {
-        "home": "0078",
-        "menu": "0078"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -123,5 +119,9 @@
         "rapidash",
         "rapidash-galar"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0078",
+        "menu": "0078"
+    }
 }

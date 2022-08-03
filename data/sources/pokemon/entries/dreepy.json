@@ -80,20 +80,20 @@
         "veekunDb": "dreepy",
         "serebii": "dreepy",
         "bulbapedia": "Dreepy",
-        "homeSprite": "dreepy",
-        "miniSprite": "dreepy",
+        "homeSprite": "0885",
+        "miniSprite": "0885",
         "showdown": "dreepy",
         "showdownDef": "Dreepy",
         "smogon": "dreepy"
-    },
-    "imgs": {
-        "home": "0885",
-        "menu": "0885"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "dreepy"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0885",
+        "menu": "0885"
+    }
 }

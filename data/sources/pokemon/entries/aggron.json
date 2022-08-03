@@ -99,15 +99,11 @@
         "veekunDb": "aggron",
         "serebii": "aggron",
         "bulbapedia": "Aggron",
-        "homeSprite": "aggron",
-        "miniSprite": "aggron",
+        "homeSprite": "0306",
+        "miniSprite": "0306",
         "showdown": "aggron",
         "showdownDef": "Aggron",
         "smogon": "aggron"
-    },
-    "imgs": {
-        "home": "0306",
-        "menu": "0306"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -115,5 +111,9 @@
         "aggron",
         "aggron-mega"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0306",
+        "menu": "0306"
+    }
 }

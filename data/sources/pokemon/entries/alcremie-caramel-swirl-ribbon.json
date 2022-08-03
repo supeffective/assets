@@ -80,18 +80,18 @@
         "veekunDb": "alcremie-caramel-swirl-ribbon",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
-        "homeSprite": "alcremie-caramel-swirl-ribbon",
-        "miniSprite": "alcremie-caramel-swirl-ribbon",
+        "homeSprite": "0869-caramel-swirl-ribbon",
+        "miniSprite": "0869-caramel-swirl-ribbon",
         "showdown": "alcremie",
         "showdownDef": "Alcremie-Caramel-Swirl-Ribbon",
         "smogon": "alcremie-caramel-swirl-ribbon"
     },
-    "imgs": {
-        "home": "0869-caramel-swirl-ribbon",
-        "menu": "0869-caramel-swirl-ribbon"
-    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0869-caramel-swirl-ribbon",
+        "menu": "0869-caramel-swirl-ribbon"
+    }
 }

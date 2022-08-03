@@ -97,20 +97,20 @@
         "veekunDb": "spiritomb",
         "serebii": "spiritomb",
         "bulbapedia": "Spiritomb",
-        "homeSprite": "spiritomb",
-        "miniSprite": "spiritomb",
+        "homeSprite": "0442",
+        "miniSprite": "0442",
         "showdown": "spiritomb",
         "showdownDef": "Spiritomb",
         "smogon": "spiritomb"
-    },
-    "imgs": {
-        "home": "0442",
-        "menu": "0442"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "spiritomb"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0442",
+        "menu": "0442"
+    }
 }

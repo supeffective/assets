@@ -99,20 +99,20 @@
         "veekunDb": "bayleef",
         "serebii": "bayleef",
         "bulbapedia": "Bayleef",
-        "homeSprite": "bayleef",
-        "miniSprite": "bayleef",
+        "homeSprite": "0153",
+        "miniSprite": "0153",
         "showdown": "bayleef",
         "showdownDef": "Bayleef",
         "smogon": "bayleef"
-    },
-    "imgs": {
-        "home": "0153",
-        "menu": "0153"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "bayleef"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0153",
+        "menu": "0153"
+    }
 }

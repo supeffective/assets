@@ -90,15 +90,11 @@
         "veekunDb": "yamask",
         "serebii": "yamask",
         "bulbapedia": "Yamask",
-        "homeSprite": "yamask",
-        "miniSprite": "yamask",
+        "homeSprite": "0562",
+        "miniSprite": "0562",
         "showdown": "yamask",
         "showdownDef": "Yamask",
         "smogon": "yamask"
-    },
-    "imgs": {
-        "home": "0562",
-        "menu": "0562"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -106,5 +102,9 @@
         "yamask",
         "yamask-galar"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0562",
+        "menu": "0562"
+    }
 }

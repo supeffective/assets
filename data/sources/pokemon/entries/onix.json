@@ -107,20 +107,20 @@
         "veekunDb": "onix",
         "serebii": "onix",
         "bulbapedia": "Onix",
-        "homeSprite": "onix",
-        "miniSprite": "onix",
+        "homeSprite": "0095",
+        "miniSprite": "0095",
         "showdown": "onix",
         "showdownDef": "Onix",
         "smogon": "onix"
-    },
-    "imgs": {
-        "home": "0095",
-        "menu": "0095"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "onix"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0095",
+        "menu": "0095"
+    }
 }

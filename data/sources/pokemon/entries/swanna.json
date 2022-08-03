@@ -88,20 +88,20 @@
         "veekunDb": "swanna",
         "serebii": "swanna",
         "bulbapedia": "Swanna",
-        "homeSprite": "swanna",
-        "miniSprite": "swanna",
+        "homeSprite": "0581",
+        "miniSprite": "0581",
         "showdown": "swanna",
         "showdownDef": "Swanna",
         "smogon": "swanna"
-    },
-    "imgs": {
-        "home": "0581",
-        "menu": "0581"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "swanna"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0581",
+        "menu": "0581"
+    }
 }

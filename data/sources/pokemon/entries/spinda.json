@@ -97,20 +97,20 @@
         "veekunDb": "spinda",
         "serebii": "spinda",
         "bulbapedia": "Spinda",
-        "homeSprite": "spinda",
-        "miniSprite": "spinda",
+        "homeSprite": "0327",
+        "miniSprite": "0327",
         "showdown": "spinda",
         "showdownDef": "Spinda",
         "smogon": "spinda"
-    },
-    "imgs": {
-        "home": "0327",
-        "menu": "0327"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "spinda"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0327",
+        "menu": "0327"
+    }
 }

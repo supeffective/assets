@@ -82,18 +82,18 @@
         "veekunDb": "mrmime-galar",
         "serebii": "mrmime",
         "bulbapedia": "Mrmime",
-        "homeSprite": "mrmime-galar",
-        "miniSprite": "mrmime-galar",
+        "homeSprite": "0122-galar",
+        "miniSprite": "0122-galar",
         "showdown": "mrmimegalar",
         "showdownDef": "Mrmime-Galar",
         "smogon": "mrmime-galar"
     },
-    "imgs": {
-        "home": "0122-galar",
-        "menu": "0122-galar"
-    },
     "baseSpecies": "mrmime",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0122-galar",
+        "menu": "0122-galar"
+    }
 }

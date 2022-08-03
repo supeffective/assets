@@ -80,20 +80,20 @@
         "veekunDb": "arctovish",
         "serebii": "arctovish",
         "bulbapedia": "Arctovish",
-        "homeSprite": "arctovish",
-        "miniSprite": "arctovish",
+        "homeSprite": "0883",
+        "miniSprite": "0883",
         "showdown": "arctovish",
         "showdownDef": "Arctovish",
         "smogon": "arctovish"
-    },
-    "imgs": {
-        "home": "0883",
-        "menu": "0883"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "arctovish"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0883",
+        "menu": "0883"
+    }
 }

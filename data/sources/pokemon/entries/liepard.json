@@ -90,20 +90,20 @@
         "veekunDb": "liepard",
         "serebii": "liepard",
         "bulbapedia": "Liepard",
-        "homeSprite": "liepard",
-        "miniSprite": "liepard",
+        "homeSprite": "0510",
+        "miniSprite": "0510",
         "showdown": "liepard",
         "showdownDef": "Liepard",
         "smogon": "liepard"
-    },
-    "imgs": {
-        "home": "0510",
-        "menu": "0510"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "liepard"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0510",
+        "menu": "0510"
+    }
 }

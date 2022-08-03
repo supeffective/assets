@@ -75,20 +75,20 @@
         "veekunDb": "eternatus-eternamax",
         "serebii": "eternatus",
         "bulbapedia": "Eternatus",
-        "homeSprite": "eternatus-eternamax",
-        "miniSprite": "eternatus-eternamax",
+        "homeSprite": "0890-eternamax",
+        "miniSprite": "0890-eternamax",
         "showdown": "eternatuseternamax",
         "showdownDef": "Eternatus-Eternamax",
         "smogon": "eternatus-eternamax"
-    },
-    "imgs": {
-        "home": "0890-eternamax",
-        "menu": "0890-eternamax"
     },
     "baseSpecies": "eternatus",
     "baseForms": [
         "eternatus"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0890-eternamax",
+        "menu": "0890-eternamax"
+    }
 }

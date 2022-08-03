@@ -78,20 +78,20 @@
         "veekunDb": "lucario-mega",
         "serebii": "lucario",
         "bulbapedia": "Lucario",
-        "homeSprite": "lucario-mega",
-        "miniSprite": "lucario-mega",
+        "homeSprite": "0448-mega",
+        "miniSprite": "0448-mega",
         "showdown": "lucariomega",
         "showdownDef": "Lucario-Mega",
         "smogon": "lucario-mega"
-    },
-    "imgs": {
-        "home": "0448-mega",
-        "menu": "0448-mega"
     },
     "baseSpecies": "lucario",
     "baseForms": [
         "lucario"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0448-mega",
+        "menu": "0448-mega"
+    }
 }

@@ -97,20 +97,20 @@
         "veekunDb": "breloom",
         "serebii": "breloom",
         "bulbapedia": "Breloom",
-        "homeSprite": "breloom",
-        "miniSprite": "breloom",
+        "homeSprite": "0286",
+        "miniSprite": "0286",
         "showdown": "breloom",
         "showdownDef": "Breloom",
         "smogon": "breloom"
-    },
-    "imgs": {
-        "home": "0286",
-        "menu": "0286"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "breloom"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0286",
+        "menu": "0286"
+    }
 }

@@ -105,20 +105,20 @@
         "veekunDb": "krabby",
         "serebii": "krabby",
         "bulbapedia": "Krabby",
-        "homeSprite": "krabby",
-        "miniSprite": "krabby",
+        "homeSprite": "0098",
+        "miniSprite": "0098",
         "showdown": "krabby",
         "showdownDef": "Krabby",
         "smogon": "krabby"
-    },
-    "imgs": {
-        "home": "0098",
-        "menu": "0098"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "krabby"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0098",
+        "menu": "0098"
+    }
 }

@@ -86,20 +86,20 @@
         "veekunDb": "lurantis",
         "serebii": "lurantis",
         "bulbapedia": "Lurantis",
-        "homeSprite": "lurantis",
-        "miniSprite": "lurantis",
+        "homeSprite": "0754",
+        "miniSprite": "0754",
         "showdown": "lurantis",
         "showdownDef": "Lurantis",
         "smogon": "lurantis"
-    },
-    "imgs": {
-        "home": "0754",
-        "menu": "0754"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "lurantis"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0754",
+        "menu": "0754"
+    }
 }

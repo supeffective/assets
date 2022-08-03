@@ -105,15 +105,11 @@
         "veekunDb": "gloom",
         "serebii": "gloom",
         "bulbapedia": "Gloom",
-        "homeSprite": "gloom",
-        "miniSprite": "gloom",
+        "homeSprite": "0044",
+        "miniSprite": "0044",
         "showdown": "gloom",
         "showdownDef": "Gloom",
         "smogon": "gloom"
-    },
-    "imgs": {
-        "home": "0044",
-        "menu": "0044"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -121,5 +117,9 @@
         "gloom",
         "gloom-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0044",
+        "menu": "0044"
+    }
 }

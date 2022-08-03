@@ -90,20 +90,20 @@
         "veekunDb": "golurk",
         "serebii": "golurk",
         "bulbapedia": "Golurk",
-        "homeSprite": "golurk",
-        "miniSprite": "golurk",
+        "homeSprite": "0623",
+        "miniSprite": "0623",
         "showdown": "golurk",
         "showdownDef": "Golurk",
         "smogon": "golurk"
-    },
-    "imgs": {
-        "home": "0623",
-        "menu": "0623"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "golurk"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0623",
+        "menu": "0623"
+    }
 }

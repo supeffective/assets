@@ -90,20 +90,20 @@
         "veekunDb": "duosion",
         "serebii": "duosion",
         "bulbapedia": "Duosion",
-        "homeSprite": "duosion",
-        "miniSprite": "duosion",
+        "homeSprite": "0578",
+        "miniSprite": "0578",
         "showdown": "duosion",
         "showdownDef": "Duosion",
         "smogon": "duosion"
-    },
-    "imgs": {
-        "home": "0578",
-        "menu": "0578"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "duosion"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0578",
+        "menu": "0578"
+    }
 }

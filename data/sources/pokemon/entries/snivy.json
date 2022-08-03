@@ -88,20 +88,20 @@
         "veekunDb": "snivy",
         "serebii": "snivy",
         "bulbapedia": "Snivy",
-        "homeSprite": "snivy",
-        "miniSprite": "snivy",
+        "homeSprite": "0495",
+        "miniSprite": "0495",
         "showdown": "snivy",
         "showdownDef": "Snivy",
         "smogon": "snivy"
-    },
-    "imgs": {
-        "home": "0495",
-        "menu": "0495"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "snivy"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0495",
+        "menu": "0495"
+    }
 }

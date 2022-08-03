@@ -78,20 +78,20 @@
         "veekunDb": "gardevoir-mega",
         "serebii": "gardevoir",
         "bulbapedia": "Gardevoir",
-        "homeSprite": "gardevoir-mega",
-        "miniSprite": "gardevoir-mega",
+        "homeSprite": "0282-mega",
+        "miniSprite": "0282-mega",
         "showdown": "gardevoirmega",
         "showdownDef": "Gardevoir-Mega",
         "smogon": "gardevoir-mega"
-    },
-    "imgs": {
-        "home": "0282-mega",
-        "menu": "0282-mega"
     },
     "baseSpecies": "gardevoir",
     "baseForms": [
         "gardevoir"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0282-mega",
+        "menu": "0282-mega"
+    }
 }

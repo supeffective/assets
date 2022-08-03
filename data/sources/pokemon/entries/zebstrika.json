@@ -88,20 +88,20 @@
         "veekunDb": "zebstrika",
         "serebii": "zebstrika",
         "bulbapedia": "Zebstrika",
-        "homeSprite": "zebstrika",
-        "miniSprite": "zebstrika",
+        "homeSprite": "0523",
+        "miniSprite": "0523",
         "showdown": "zebstrika",
         "showdownDef": "Zebstrika",
         "smogon": "zebstrika"
-    },
-    "imgs": {
-        "home": "0523",
-        "menu": "0523"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "zebstrika"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0523",
+        "menu": "0523"
+    }
 }

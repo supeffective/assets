@@ -88,20 +88,20 @@
         "veekunDb": "simisage",
         "serebii": "simisage",
         "bulbapedia": "Simisage",
-        "homeSprite": "simisage",
-        "miniSprite": "simisage",
+        "homeSprite": "0512",
+        "miniSprite": "0512",
         "showdown": "simisage",
         "showdownDef": "Simisage",
         "smogon": "simisage"
-    },
-    "imgs": {
-        "home": "0512",
-        "menu": "0512"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "simisage"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0512",
+        "menu": "0512"
+    }
 }

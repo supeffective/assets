@@ -105,20 +105,20 @@
         "veekunDb": "oddish",
         "serebii": "oddish",
         "bulbapedia": "Oddish",
-        "homeSprite": "oddish",
-        "miniSprite": "oddish",
+        "homeSprite": "0043",
+        "miniSprite": "0043",
         "showdown": "oddish",
         "showdownDef": "Oddish",
         "smogon": "oddish"
-    },
-    "imgs": {
-        "home": "0043",
-        "menu": "0043"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "oddish"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0043",
+        "menu": "0043"
+    }
 }

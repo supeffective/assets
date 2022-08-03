@@ -107,20 +107,20 @@
         "veekunDb": "magnemite",
         "serebii": "magnemite",
         "bulbapedia": "Magnemite",
-        "homeSprite": "magnemite",
-        "miniSprite": "magnemite",
+        "homeSprite": "0081",
+        "miniSprite": "0081",
         "showdown": "magnemite",
         "showdownDef": "Magnemite",
         "smogon": "magnemite"
-    },
-    "imgs": {
-        "home": "0081",
-        "menu": "0081"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "magnemite"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0081",
+        "menu": "0081"
+    }
 }

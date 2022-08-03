@@ -101,20 +101,20 @@
         "veekunDb": "chinchou",
         "serebii": "chinchou",
         "bulbapedia": "Chinchou",
-        "homeSprite": "chinchou",
-        "miniSprite": "chinchou",
+        "homeSprite": "0170",
+        "miniSprite": "0170",
         "showdown": "chinchou",
         "showdownDef": "Chinchou",
         "smogon": "chinchou"
-    },
-    "imgs": {
-        "home": "0170",
-        "menu": "0170"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "chinchou"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0170",
+        "menu": "0170"
+    }
 }

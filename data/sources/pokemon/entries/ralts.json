@@ -101,20 +101,20 @@
         "veekunDb": "ralts",
         "serebii": "ralts",
         "bulbapedia": "Ralts",
-        "homeSprite": "ralts",
-        "miniSprite": "ralts",
+        "homeSprite": "0280",
+        "miniSprite": "0280",
         "showdown": "ralts",
         "showdownDef": "Ralts",
         "smogon": "ralts"
-    },
-    "imgs": {
-        "home": "0280",
-        "menu": "0280"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "ralts"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0280",
+        "menu": "0280"
+    }
 }

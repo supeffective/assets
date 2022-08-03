@@ -107,20 +107,20 @@
         "veekunDb": "machop",
         "serebii": "machop",
         "bulbapedia": "Machop",
-        "homeSprite": "machop",
-        "miniSprite": "machop",
+        "homeSprite": "0066",
+        "miniSprite": "0066",
         "showdown": "machop",
         "showdownDef": "Machop",
         "smogon": "machop"
-    },
-    "imgs": {
-        "home": "0066",
-        "menu": "0066"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "machop"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0066",
+        "menu": "0066"
+    }
 }

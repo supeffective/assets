@@ -101,15 +101,11 @@
         "veekunDb": "tyranitar",
         "serebii": "tyranitar",
         "bulbapedia": "Tyranitar",
-        "homeSprite": "tyranitar",
-        "miniSprite": "tyranitar",
+        "homeSprite": "0248",
+        "miniSprite": "0248",
         "showdown": "tyranitar",
         "showdownDef": "Tyranitar",
         "smogon": "tyranitar"
-    },
-    "imgs": {
-        "home": "0248",
-        "menu": "0248"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -117,5 +113,9 @@
         "tyranitar",
         "tyranitar-mega"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0248",
+        "menu": "0248"
+    }
 }

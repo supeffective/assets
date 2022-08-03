@@ -99,20 +99,20 @@
         "veekunDb": "slugma",
         "serebii": "slugma",
         "bulbapedia": "Slugma",
-        "homeSprite": "slugma",
-        "miniSprite": "slugma",
+        "homeSprite": "0218",
+        "miniSprite": "0218",
         "showdown": "slugma",
         "showdownDef": "Slugma",
         "smogon": "slugma"
-    },
-    "imgs": {
-        "home": "0218",
-        "menu": "0218"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "slugma"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0218",
+        "menu": "0218"
+    }
 }

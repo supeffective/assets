@@ -85,20 +85,20 @@
         "veekunDb": "chespin",
         "serebii": "chespin",
         "bulbapedia": "Chespin",
-        "homeSprite": "chespin",
-        "miniSprite": "chespin",
+        "homeSprite": "0650",
+        "miniSprite": "0650",
         "showdown": "chespin",
         "showdownDef": "Chespin",
         "smogon": "chespin"
-    },
-    "imgs": {
-        "home": "0650",
-        "menu": "0650"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "chespin"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0650",
+        "menu": "0650"
+    }
 }

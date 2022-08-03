@@ -107,20 +107,20 @@
         "veekunDb": "clefable",
         "serebii": "clefable",
         "bulbapedia": "Clefable",
-        "homeSprite": "clefable",
-        "miniSprite": "clefable",
+        "homeSprite": "0036",
+        "miniSprite": "0036",
         "showdown": "clefable",
         "showdownDef": "Clefable",
         "smogon": "clefable"
-    },
-    "imgs": {
-        "home": "0036",
-        "menu": "0036"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "clefable"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0036",
+        "menu": "0036"
+    }
 }

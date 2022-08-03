@@ -97,20 +97,20 @@
         "veekunDb": "surskit",
         "serebii": "surskit",
         "bulbapedia": "Surskit",
-        "homeSprite": "surskit",
-        "miniSprite": "surskit",
+        "homeSprite": "0283",
+        "miniSprite": "0283",
         "showdown": "surskit",
         "showdownDef": "Surskit",
         "smogon": "surskit"
-    },
-    "imgs": {
-        "home": "0283",
-        "menu": "0283"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "surskit"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0283",
+        "menu": "0283"
+    }
 }

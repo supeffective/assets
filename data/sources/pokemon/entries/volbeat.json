@@ -97,20 +97,20 @@
         "veekunDb": "volbeat",
         "serebii": "volbeat",
         "bulbapedia": "Volbeat",
-        "homeSprite": "volbeat",
-        "miniSprite": "volbeat",
+        "homeSprite": "0313",
+        "miniSprite": "0313",
         "showdown": "volbeat",
         "showdownDef": "Volbeat",
         "smogon": "volbeat"
-    },
-    "imgs": {
-        "home": "0313",
-        "menu": "0313"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "volbeat"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0313",
+        "menu": "0313"
+    }
 }

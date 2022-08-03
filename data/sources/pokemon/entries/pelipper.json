@@ -99,20 +99,20 @@
         "veekunDb": "pelipper",
         "serebii": "pelipper",
         "bulbapedia": "Pelipper",
-        "homeSprite": "pelipper",
-        "miniSprite": "pelipper",
+        "homeSprite": "0279",
+        "miniSprite": "0279",
         "showdown": "pelipper",
         "showdownDef": "Pelipper",
         "smogon": "pelipper"
-    },
-    "imgs": {
-        "home": "0279",
-        "menu": "0279"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "pelipper"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0279",
+        "menu": "0279"
+    }
 }

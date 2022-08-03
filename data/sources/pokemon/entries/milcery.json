@@ -80,20 +80,20 @@
         "veekunDb": "milcery",
         "serebii": "milcery",
         "bulbapedia": "Milcery",
-        "homeSprite": "milcery",
-        "miniSprite": "milcery",
+        "homeSprite": "0868",
+        "miniSprite": "0868",
         "showdown": "milcery",
         "showdownDef": "Milcery",
         "smogon": "milcery"
-    },
-    "imgs": {
-        "home": "0868",
-        "menu": "0868"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "milcery"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0868",
+        "menu": "0868"
+    }
 }

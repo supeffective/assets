@@ -83,20 +83,20 @@
         "veekunDb": "silvally-electric",
         "serebii": "silvally",
         "bulbapedia": "Silvally",
-        "homeSprite": "silvally-electric",
-        "miniSprite": "silvally-electric",
+        "homeSprite": "0773-electric",
+        "miniSprite": "0773-electric",
         "showdown": "silvallyelectric",
         "showdownDef": "Silvally-Electric",
         "smogon": "silvally-electric"
-    },
-    "imgs": {
-        "home": "0773-electric",
-        "menu": "0773-electric"
     },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0773-electric",
+        "menu": "0773-electric"
+    }
 }

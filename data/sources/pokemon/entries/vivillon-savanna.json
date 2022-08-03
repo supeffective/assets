@@ -83,18 +83,18 @@
         "veekunDb": "vivillon-savanna",
         "serebii": "vivillon",
         "bulbapedia": "Vivillon",
-        "homeSprite": "vivillon-savanna",
-        "miniSprite": "vivillon-savanna",
+        "homeSprite": "0666-savanna",
+        "miniSprite": "0666-savanna",
         "showdown": "vivillon",
         "showdownDef": "Vivillon-Savanna",
         "smogon": "vivillon-savanna"
     },
-    "imgs": {
-        "home": "0666-savanna",
-        "menu": "0666-savanna"
-    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0666-savanna",
+        "menu": "0666-savanna"
+    }
 }

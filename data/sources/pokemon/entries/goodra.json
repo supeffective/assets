@@ -87,15 +87,11 @@
         "veekunDb": "goodra",
         "serebii": "goodra",
         "bulbapedia": "Goodra",
-        "homeSprite": "goodra",
-        "miniSprite": "goodra",
+        "homeSprite": "0706",
+        "miniSprite": "0706",
         "showdown": "goodra",
         "showdownDef": "Goodra",
         "smogon": "goodra"
-    },
-    "imgs": {
-        "home": "0706",
-        "menu": "0706"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -103,5 +99,9 @@
         "goodra",
         "goodra-hisui"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0706",
+        "menu": "0706"
+    }
 }

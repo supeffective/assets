@@ -94,18 +94,18 @@
         "veekunDb": "blaziken",
         "serebii": "blaziken",
         "bulbapedia": "Blaziken",
-        "homeSprite": "blaziken-f",
-        "miniSprite": "blaziken-f",
+        "homeSprite": "0257-f",
+        "miniSprite": "0257",
         "showdown": "blaziken",
         "showdownDef": "Blaziken",
         "smogon": "blaziken"
     },
-    "imgs": {
-        "home": "0257-f",
-        "menu": "0257"
-    },
     "baseSpecies": "blaziken",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0257-f",
+        "menu": "0257"
+    }
 }

@@ -88,20 +88,20 @@
         "veekunDb": "rowlet",
         "serebii": "rowlet",
         "bulbapedia": "Rowlet",
-        "homeSprite": "rowlet",
-        "miniSprite": "rowlet",
+        "homeSprite": "0722",
+        "miniSprite": "0722",
         "showdown": "rowlet",
         "showdownDef": "Rowlet",
         "smogon": "rowlet"
-    },
-    "imgs": {
-        "home": "0722",
-        "menu": "0722"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "rowlet"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0722",
+        "menu": "0722"
+    }
 }

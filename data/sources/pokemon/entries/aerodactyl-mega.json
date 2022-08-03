@@ -78,20 +78,20 @@
         "veekunDb": "aerodactyl-mega",
         "serebii": "aerodactyl",
         "bulbapedia": "Aerodactyl",
-        "homeSprite": "aerodactyl-mega",
-        "miniSprite": "aerodactyl-mega",
+        "homeSprite": "0142-mega",
+        "miniSprite": "0142-mega",
         "showdown": "aerodactylmega",
         "showdownDef": "Aerodactyl-Mega",
         "smogon": "aerodactyl-mega"
-    },
-    "imgs": {
-        "home": "0142-mega",
-        "menu": "0142-mega"
     },
     "baseSpecies": "aerodactyl",
     "baseForms": [
         "aerodactyl"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0142-mega",
+        "menu": "0142-mega"
+    }
 }

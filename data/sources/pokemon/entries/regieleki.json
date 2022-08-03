@@ -80,20 +80,20 @@
         "veekunDb": "regieleki",
         "serebii": "regieleki",
         "bulbapedia": "Regieleki",
-        "homeSprite": "regieleki",
-        "miniSprite": "regieleki",
+        "homeSprite": "0894",
+        "miniSprite": "0894",
         "showdown": "regieleki",
         "showdownDef": "Regieleki",
         "smogon": "regieleki"
-    },
-    "imgs": {
-        "home": "0894",
-        "menu": "0894"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "regieleki"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0894",
+        "menu": "0894"
+    }
 }

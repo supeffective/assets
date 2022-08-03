@@ -87,20 +87,20 @@
         "veekunDb": "dedenne",
         "serebii": "dedenne",
         "bulbapedia": "Dedenne",
-        "homeSprite": "dedenne",
-        "miniSprite": "dedenne",
+        "homeSprite": "0702",
+        "miniSprite": "0702",
         "showdown": "dedenne",
         "showdownDef": "Dedenne",
         "smogon": "dedenne"
-    },
-    "imgs": {
-        "home": "0702",
-        "menu": "0702"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "dedenne"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0702",
+        "menu": "0702"
+    }
 }

@@ -80,20 +80,20 @@
         "veekunDb": "raboot",
         "serebii": "raboot",
         "bulbapedia": "Raboot",
-        "homeSprite": "raboot",
-        "miniSprite": "raboot",
+        "homeSprite": "0814",
+        "miniSprite": "0814",
         "showdown": "raboot",
         "showdownDef": "Raboot",
         "smogon": "raboot"
-    },
-    "imgs": {
-        "home": "0814",
-        "menu": "0814"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "raboot"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0814",
+        "menu": "0814"
+    }
 }

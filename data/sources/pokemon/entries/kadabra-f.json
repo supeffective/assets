@@ -97,18 +97,18 @@
         "veekunDb": "kadabra",
         "serebii": "kadabra",
         "bulbapedia": "Kadabra",
-        "homeSprite": "kadabra-f",
-        "miniSprite": "kadabra-f",
+        "homeSprite": "0064-f",
+        "miniSprite": "0064",
         "showdown": "kadabra",
         "showdownDef": "Kadabra",
         "smogon": "kadabra"
     },
-    "imgs": {
-        "home": "0064-f",
-        "menu": "0064"
-    },
     "baseSpecies": "kadabra",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0064-f",
+        "menu": "0064"
+    }
 }

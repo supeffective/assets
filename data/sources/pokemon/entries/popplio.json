@@ -86,20 +86,20 @@
         "veekunDb": "popplio",
         "serebii": "popplio",
         "bulbapedia": "Popplio",
-        "homeSprite": "popplio",
-        "miniSprite": "popplio",
+        "homeSprite": "0728",
+        "miniSprite": "0728",
         "showdown": "popplio",
         "showdownDef": "Popplio",
         "smogon": "popplio"
-    },
-    "imgs": {
-        "home": "0728",
-        "menu": "0728"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "popplio"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0728",
+        "menu": "0728"
+    }
 }

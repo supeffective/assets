@@ -80,20 +80,20 @@
         "veekunDb": "yamper",
         "serebii": "yamper",
         "bulbapedia": "Yamper",
-        "homeSprite": "yamper",
-        "miniSprite": "yamper",
+        "homeSprite": "0835",
+        "miniSprite": "0835",
         "showdown": "yamper",
         "showdownDef": "Yamper",
         "smogon": "yamper"
-    },
-    "imgs": {
-        "home": "0835",
-        "menu": "0835"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "yamper"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0835",
+        "menu": "0835"
+    }
 }

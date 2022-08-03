@@ -77,20 +77,20 @@
         "veekunDb": "drednaw-gmax",
         "serebii": "drednaw",
         "bulbapedia": "Drednaw",
-        "homeSprite": "drednaw-gmax",
-        "miniSprite": "drednaw-gmax",
+        "homeSprite": "0834-gmax",
+        "miniSprite": "0834-gmax",
         "showdown": "drednawgmax",
         "showdownDef": "Drednaw-Gmax",
         "smogon": "drednaw-gmax"
-    },
-    "imgs": {
-        "home": "0834-gmax",
-        "menu": "0834-gmax"
     },
     "baseSpecies": "drednaw",
     "baseForms": [
         "drednaw"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0834-gmax",
+        "menu": "0834-gmax"
+    }
 }

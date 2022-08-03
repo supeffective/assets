@@ -78,20 +78,20 @@
         "veekunDb": "latias-mega",
         "serebii": "latias",
         "bulbapedia": "Latias",
-        "homeSprite": "latias-mega",
-        "miniSprite": "latias-mega",
+        "homeSprite": "0380-mega",
+        "miniSprite": "0380-mega",
         "showdown": "latiasmega",
         "showdownDef": "Latias-Mega",
         "smogon": "latias-mega"
-    },
-    "imgs": {
-        "home": "0380-mega",
-        "menu": "0380-mega"
     },
     "baseSpecies": "latias",
     "baseForms": [
         "latias"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0380-mega",
+        "menu": "0380-mega"
+    }
 }

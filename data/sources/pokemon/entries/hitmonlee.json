@@ -105,20 +105,20 @@
         "veekunDb": "hitmonlee",
         "serebii": "hitmonlee",
         "bulbapedia": "Hitmonlee",
-        "homeSprite": "hitmonlee",
-        "miniSprite": "hitmonlee",
+        "homeSprite": "0106",
+        "miniSprite": "0106",
         "showdown": "hitmonlee",
         "showdownDef": "Hitmonlee",
         "smogon": "hitmonlee"
-    },
-    "imgs": {
-        "home": "0106",
-        "menu": "0106"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "hitmonlee"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0106",
+        "menu": "0106"
+    }
 }

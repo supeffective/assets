@@ -82,20 +82,20 @@
         "veekunDb": "falinks",
         "serebii": "falinks",
         "bulbapedia": "Falinks",
-        "homeSprite": "falinks",
-        "miniSprite": "falinks",
+        "homeSprite": "0870",
+        "miniSprite": "0870",
         "showdown": "falinks",
         "showdownDef": "Falinks",
         "smogon": "falinks"
-    },
-    "imgs": {
-        "home": "0870",
-        "menu": "0870"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "falinks"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0870",
+        "menu": "0870"
+    }
 }

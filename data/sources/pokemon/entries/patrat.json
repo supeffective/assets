@@ -88,20 +88,20 @@
         "veekunDb": "patrat",
         "serebii": "patrat",
         "bulbapedia": "Patrat",
-        "homeSprite": "patrat",
-        "miniSprite": "patrat",
+        "homeSprite": "0504",
+        "miniSprite": "0504",
         "showdown": "patrat",
         "showdownDef": "Patrat",
         "smogon": "patrat"
-    },
-    "imgs": {
-        "home": "0504",
-        "menu": "0504"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "patrat"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0504",
+        "menu": "0504"
+    }
 }

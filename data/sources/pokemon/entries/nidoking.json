@@ -105,20 +105,20 @@
         "veekunDb": "nidoking",
         "serebii": "nidoking",
         "bulbapedia": "Nidoking",
-        "homeSprite": "nidoking",
-        "miniSprite": "nidoking",
+        "homeSprite": "0034",
+        "miniSprite": "0034",
         "showdown": "nidoking",
         "showdownDef": "Nidoking",
         "smogon": "nidoking"
-    },
-    "imgs": {
-        "home": "0034",
-        "menu": "0034"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "nidoking"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0034",
+        "menu": "0034"
+    }
 }

@@ -80,20 +80,20 @@
         "veekunDb": "thievul",
         "serebii": "thievul",
         "bulbapedia": "Thievul",
-        "homeSprite": "thievul",
-        "miniSprite": "thievul",
+        "homeSprite": "0828",
+        "miniSprite": "0828",
         "showdown": "thievul",
         "showdownDef": "Thievul",
         "smogon": "thievul"
-    },
-    "imgs": {
-        "home": "0828",
-        "menu": "0828"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "thievul"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0828",
+        "menu": "0828"
+    }
 }

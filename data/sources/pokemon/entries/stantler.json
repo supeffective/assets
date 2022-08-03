@@ -101,20 +101,20 @@
         "veekunDb": "stantler",
         "serebii": "stantler",
         "bulbapedia": "Stantler",
-        "homeSprite": "stantler",
-        "miniSprite": "stantler",
+        "homeSprite": "0234",
+        "miniSprite": "0234",
         "showdown": "stantler",
         "showdownDef": "Stantler",
         "smogon": "stantler"
-    },
-    "imgs": {
-        "home": "0234",
-        "menu": "0234"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "stantler"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0234",
+        "menu": "0234"
+    }
 }

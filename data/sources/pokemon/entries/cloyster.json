@@ -105,20 +105,20 @@
         "veekunDb": "cloyster",
         "serebii": "cloyster",
         "bulbapedia": "Cloyster",
-        "homeSprite": "cloyster",
-        "miniSprite": "cloyster",
+        "homeSprite": "0091",
+        "miniSprite": "0091",
         "showdown": "cloyster",
         "showdownDef": "Cloyster",
         "smogon": "cloyster"
-    },
-    "imgs": {
-        "home": "0091",
-        "menu": "0091"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "cloyster"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0091",
+        "menu": "0091"
+    }
 }

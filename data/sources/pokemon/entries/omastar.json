@@ -105,20 +105,20 @@
         "veekunDb": "omastar",
         "serebii": "omastar",
         "bulbapedia": "Omastar",
-        "homeSprite": "omastar",
-        "miniSprite": "omastar",
+        "homeSprite": "0139",
+        "miniSprite": "0139",
         "showdown": "omastar",
         "showdownDef": "Omastar",
         "smogon": "omastar"
-    },
-    "imgs": {
-        "home": "0139",
-        "menu": "0139"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "omastar"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0139",
+        "menu": "0139"
+    }
 }

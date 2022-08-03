@@ -88,20 +88,20 @@
         "veekunDb": "watchog",
         "serebii": "watchog",
         "bulbapedia": "Watchog",
-        "homeSprite": "watchog",
-        "miniSprite": "watchog",
+        "homeSprite": "0505",
+        "miniSprite": "0505",
         "showdown": "watchog",
         "showdownDef": "Watchog",
         "smogon": "watchog"
-    },
-    "imgs": {
-        "home": "0505",
-        "menu": "0505"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "watchog"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0505",
+        "menu": "0505"
+    }
 }

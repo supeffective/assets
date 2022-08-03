@@ -82,20 +82,20 @@
         "veekunDb": "stakataka",
         "serebii": "stakataka",
         "bulbapedia": "Stakataka",
-        "homeSprite": "stakataka",
-        "miniSprite": "stakataka",
+        "homeSprite": "0805",
+        "miniSprite": "0805",
         "showdown": "stakataka",
         "showdownDef": "Stakataka",
         "smogon": "stakataka"
-    },
-    "imgs": {
-        "home": "0805",
-        "menu": "0805"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "stakataka"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0805",
+        "menu": "0805"
+    }
 }

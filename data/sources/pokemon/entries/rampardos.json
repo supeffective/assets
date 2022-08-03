@@ -95,20 +95,20 @@
         "veekunDb": "rampardos",
         "serebii": "rampardos",
         "bulbapedia": "Rampardos",
-        "homeSprite": "rampardos",
-        "miniSprite": "rampardos",
+        "homeSprite": "0409",
+        "miniSprite": "0409",
         "showdown": "rampardos",
         "showdownDef": "Rampardos",
         "smogon": "rampardos"
-    },
-    "imgs": {
-        "home": "0409",
-        "menu": "0409"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "rampardos"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0409",
+        "menu": "0409"
+    }
 }

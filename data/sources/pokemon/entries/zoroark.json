@@ -88,15 +88,11 @@
         "veekunDb": "zoroark",
         "serebii": "zoroark",
         "bulbapedia": "Zoroark",
-        "homeSprite": "zoroark",
-        "miniSprite": "zoroark",
+        "homeSprite": "0571",
+        "miniSprite": "0571",
         "showdown": "zoroark",
         "showdownDef": "Zoroark",
         "smogon": "zoroark"
-    },
-    "imgs": {
-        "home": "0571",
-        "menu": "0571"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -104,5 +100,9 @@
         "zoroark",
         "zoroark-hisui"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0571",
+        "menu": "0571"
+    }
 }

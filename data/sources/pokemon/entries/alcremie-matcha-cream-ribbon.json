@@ -80,18 +80,18 @@
         "veekunDb": "alcremie-matcha-cream-ribbon",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
-        "homeSprite": "alcremie-matcha-cream-ribbon",
-        "miniSprite": "alcremie-matcha-cream-ribbon",
+        "homeSprite": "0869-matcha-cream-ribbon",
+        "miniSprite": "0869-matcha-cream-ribbon",
         "showdown": "alcremie",
         "showdownDef": "Alcremie-Matcha-Cream-Ribbon",
         "smogon": "alcremie-matcha-cream-ribbon"
     },
-    "imgs": {
-        "home": "0869-matcha-cream-ribbon",
-        "menu": "0869-matcha-cream-ribbon"
-    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0869-matcha-cream-ribbon",
+        "menu": "0869-matcha-cream-ribbon"
+    }
 }

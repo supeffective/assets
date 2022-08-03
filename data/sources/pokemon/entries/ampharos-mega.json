@@ -78,20 +78,20 @@
         "veekunDb": "ampharos-mega",
         "serebii": "ampharos",
         "bulbapedia": "Ampharos",
-        "homeSprite": "ampharos-mega",
-        "miniSprite": "ampharos-mega",
+        "homeSprite": "0181-mega",
+        "miniSprite": "0181-mega",
         "showdown": "ampharosmega",
         "showdownDef": "Ampharos-Mega",
         "smogon": "ampharos-mega"
-    },
-    "imgs": {
-        "home": "0181-mega",
-        "menu": "0181-mega"
     },
     "baseSpecies": "ampharos",
     "baseForms": [
         "ampharos"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0181-mega",
+        "menu": "0181-mega"
+    }
 }

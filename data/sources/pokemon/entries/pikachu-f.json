@@ -97,20 +97,20 @@
         "veekunDb": "pikachu",
         "serebii": "pikachu",
         "bulbapedia": "Pikachu",
-        "homeSprite": "pikachu-f",
-        "miniSprite": "pikachu-f",
+        "homeSprite": "0025-f",
+        "miniSprite": "0025-f",
         "showdown": "pikachu",
         "showdownDef": "Pikachu",
         "smogon": "pikachu"
-    },
-    "imgs": {
-        "home": "0025-f",
-        "menu": "0025-f"
     },
     "baseSpecies": "pikachu",
     "baseForms": [],
     "forms": null,
     "evolutions": [
         "raichu-f"
-    ]
+    ],
+    "imgs": {
+        "home": "0025-f",
+        "menu": "0025-f"
+    }
 }

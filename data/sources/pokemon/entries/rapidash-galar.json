@@ -82,18 +82,18 @@
         "veekunDb": "rapidash-galar",
         "serebii": "rapidash",
         "bulbapedia": "Rapidash",
-        "homeSprite": "rapidash-galar",
-        "miniSprite": "rapidash-galar",
+        "homeSprite": "0078-galar",
+        "miniSprite": "0078-galar",
         "showdown": "rapidashgalar",
         "showdownDef": "Rapidash-Galar",
         "smogon": "rapidash-galar"
     },
-    "imgs": {
-        "home": "0078-galar",
-        "menu": "0078-galar"
-    },
     "baseSpecies": "rapidash",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0078-galar",
+        "menu": "0078-galar"
+    }
 }

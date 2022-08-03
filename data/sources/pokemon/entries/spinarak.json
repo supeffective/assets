@@ -99,20 +99,20 @@
         "veekunDb": "spinarak",
         "serebii": "spinarak",
         "bulbapedia": "Spinarak",
-        "homeSprite": "spinarak",
-        "miniSprite": "spinarak",
+        "homeSprite": "0167",
+        "miniSprite": "0167",
         "showdown": "spinarak",
         "showdownDef": "Spinarak",
         "smogon": "spinarak"
-    },
-    "imgs": {
-        "home": "0167",
-        "menu": "0167"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "spinarak"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0167",
+        "menu": "0167"
+    }
 }

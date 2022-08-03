@@ -101,15 +101,11 @@
         "veekunDb": "quagsire",
         "serebii": "quagsire",
         "bulbapedia": "Quagsire",
-        "homeSprite": "quagsire",
-        "miniSprite": "quagsire",
+        "homeSprite": "0195",
+        "miniSprite": "0195",
         "showdown": "quagsire",
         "showdownDef": "Quagsire",
         "smogon": "quagsire"
-    },
-    "imgs": {
-        "home": "0195",
-        "menu": "0195"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -117,5 +113,9 @@
         "quagsire",
         "quagsire-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0195",
+        "menu": "0195"
+    }
 }

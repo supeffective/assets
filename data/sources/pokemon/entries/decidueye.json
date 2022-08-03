@@ -86,15 +86,11 @@
         "veekunDb": "decidueye",
         "serebii": "decidueye",
         "bulbapedia": "Decidueye",
-        "homeSprite": "decidueye",
-        "miniSprite": "decidueye",
+        "homeSprite": "0724",
+        "miniSprite": "0724",
         "showdown": "decidueye",
         "showdownDef": "Decidueye",
         "smogon": "decidueye"
-    },
-    "imgs": {
-        "home": "0724",
-        "menu": "0724"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -102,5 +98,9 @@
         "decidueye",
         "decidueye-hisui"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0724",
+        "menu": "0724"
+    }
 }

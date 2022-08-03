@@ -105,15 +105,11 @@
         "veekunDb": "growlithe",
         "serebii": "growlithe",
         "bulbapedia": "Growlithe",
-        "homeSprite": "growlithe",
-        "miniSprite": "growlithe",
+        "homeSprite": "0058",
+        "miniSprite": "0058",
         "showdown": "growlithe",
         "showdownDef": "Growlithe",
         "smogon": "growlithe"
-    },
-    "imgs": {
-        "home": "0058",
-        "menu": "0058"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -121,5 +117,9 @@
         "growlithe",
         "growlithe-hisui"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0058",
+        "menu": "0058"
+    }
 }

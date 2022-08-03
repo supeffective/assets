@@ -79,20 +79,20 @@
         "veekunDb": "darmanitan-zen",
         "serebii": "darmanitan",
         "bulbapedia": "Darmanitan",
-        "homeSprite": "darmanitan-zen",
-        "miniSprite": "darmanitan-zen",
+        "homeSprite": "0555-zen",
+        "miniSprite": "0555-zen",
         "showdown": "darmanitanzen",
         "showdownDef": "Darmanitan-Zen",
         "smogon": "darmanitan-zen"
-    },
-    "imgs": {
-        "home": "0555-zen",
-        "menu": "0555-zen"
     },
     "baseSpecies": "darmanitan",
     "baseForms": [
         "darmanitan"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0555-zen",
+        "menu": "0555-zen"
+    }
 }

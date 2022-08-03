@@ -89,20 +89,20 @@
         "veekunDb": "goomy",
         "serebii": "goomy",
         "bulbapedia": "Goomy",
-        "homeSprite": "goomy",
-        "miniSprite": "goomy",
+        "homeSprite": "0704",
+        "miniSprite": "0704",
         "showdown": "goomy",
         "showdownDef": "Goomy",
         "smogon": "goomy"
-    },
-    "imgs": {
-        "home": "0704",
-        "menu": "0704"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "goomy"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0704",
+        "menu": "0704"
+    }
 }

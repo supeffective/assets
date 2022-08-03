@@ -94,18 +94,18 @@
         "veekunDb": "murkrow",
         "serebii": "murkrow",
         "bulbapedia": "Murkrow",
-        "homeSprite": "murkrow-f",
-        "miniSprite": "murkrow-f",
+        "homeSprite": "0198-f",
+        "miniSprite": "0198",
         "showdown": "murkrow",
         "showdownDef": "Murkrow",
         "smogon": "murkrow"
     },
-    "imgs": {
-        "home": "0198-f",
-        "menu": "0198"
-    },
     "baseSpecies": "murkrow",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0198-f",
+        "menu": "0198"
+    }
 }

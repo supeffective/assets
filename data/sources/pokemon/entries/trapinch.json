@@ -99,20 +99,20 @@
         "veekunDb": "trapinch",
         "serebii": "trapinch",
         "bulbapedia": "Trapinch",
-        "homeSprite": "trapinch",
-        "miniSprite": "trapinch",
+        "homeSprite": "0328",
+        "miniSprite": "0328",
         "showdown": "trapinch",
         "showdownDef": "Trapinch",
         "smogon": "trapinch"
-    },
-    "imgs": {
-        "home": "0328",
-        "menu": "0328"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "trapinch"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0328",
+        "menu": "0328"
+    }
 }

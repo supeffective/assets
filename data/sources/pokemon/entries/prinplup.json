@@ -95,20 +95,20 @@
         "veekunDb": "prinplup",
         "serebii": "prinplup",
         "bulbapedia": "Prinplup",
-        "homeSprite": "prinplup",
-        "miniSprite": "prinplup",
+        "homeSprite": "0394",
+        "miniSprite": "0394",
         "showdown": "prinplup",
         "showdownDef": "Prinplup",
         "smogon": "prinplup"
-    },
-    "imgs": {
-        "home": "0394",
-        "menu": "0394"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "prinplup"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0394",
+        "menu": "0394"
+    }
 }

@@ -85,18 +85,18 @@
         "veekunDb": "florges-white",
         "serebii": "florges",
         "bulbapedia": "Florges",
-        "homeSprite": "florges-white",
-        "miniSprite": "florges-white",
+        "homeSprite": "0671-white",
+        "miniSprite": "0671-white",
         "showdown": "florges",
         "showdownDef": "Florges-White",
         "smogon": "florges-white"
     },
-    "imgs": {
-        "home": "0671-white",
-        "menu": "0671-white"
-    },
     "baseSpecies": "florges",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0671-white",
+        "menu": "0671-white"
+    }
 }

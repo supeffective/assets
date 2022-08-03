@@ -90,20 +90,20 @@
         "veekunDb": "conkeldurr",
         "serebii": "conkeldurr",
         "bulbapedia": "Conkeldurr",
-        "homeSprite": "conkeldurr",
-        "miniSprite": "conkeldurr",
+        "homeSprite": "0534",
+        "miniSprite": "0534",
         "showdown": "conkeldurr",
         "showdownDef": "Conkeldurr",
         "smogon": "conkeldurr"
-    },
-    "imgs": {
-        "home": "0534",
-        "menu": "0534"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "conkeldurr"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0534",
+        "menu": "0534"
+    }
 }

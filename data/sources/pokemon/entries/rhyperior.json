@@ -97,15 +97,11 @@
         "veekunDb": "rhyperior",
         "serebii": "rhyperior",
         "bulbapedia": "Rhyperior",
-        "homeSprite": "rhyperior",
-        "miniSprite": "rhyperior",
+        "homeSprite": "0464",
+        "miniSprite": "0464",
         "showdown": "rhyperior",
         "showdownDef": "Rhyperior",
         "smogon": "rhyperior"
-    },
-    "imgs": {
-        "home": "0464",
-        "menu": "0464"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -113,5 +109,9 @@
         "rhyperior",
         "rhyperior-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0464",
+        "menu": "0464"
+    }
 }

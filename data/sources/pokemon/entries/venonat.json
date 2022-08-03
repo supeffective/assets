@@ -103,20 +103,20 @@
         "veekunDb": "venonat",
         "serebii": "venonat",
         "bulbapedia": "Venonat",
-        "homeSprite": "venonat",
-        "miniSprite": "venonat",
+        "homeSprite": "0048",
+        "miniSprite": "0048",
         "showdown": "venonat",
         "showdownDef": "Venonat",
         "smogon": "venonat"
-    },
-    "imgs": {
-        "home": "0048",
-        "menu": "0048"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "venonat"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0048",
+        "menu": "0048"
+    }
 }

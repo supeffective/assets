@@ -77,20 +77,20 @@
         "veekunDb": "sandaconda-gmax",
         "serebii": "sandaconda",
         "bulbapedia": "Sandaconda",
-        "homeSprite": "sandaconda-gmax",
-        "miniSprite": "sandaconda-gmax",
+        "homeSprite": "0844-gmax",
+        "miniSprite": "0844-gmax",
         "showdown": "sandacondagmax",
         "showdownDef": "Sandaconda-Gmax",
         "smogon": "sandaconda-gmax"
-    },
-    "imgs": {
-        "home": "0844-gmax",
-        "menu": "0844-gmax"
     },
     "baseSpecies": "sandaconda",
     "baseForms": [
         "sandaconda"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0844-gmax",
+        "menu": "0844-gmax"
+    }
 }

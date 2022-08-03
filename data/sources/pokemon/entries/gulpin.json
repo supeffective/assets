@@ -97,15 +97,11 @@
         "veekunDb": "gulpin",
         "serebii": "gulpin",
         "bulbapedia": "Gulpin",
-        "homeSprite": "gulpin",
-        "miniSprite": "gulpin",
+        "homeSprite": "0316",
+        "miniSprite": "0316",
         "showdown": "gulpin",
         "showdownDef": "Gulpin",
         "smogon": "gulpin"
-    },
-    "imgs": {
-        "home": "0316",
-        "menu": "0316"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -113,5 +109,9 @@
         "gulpin",
         "gulpin-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0316",
+        "menu": "0316"
+    }
 }

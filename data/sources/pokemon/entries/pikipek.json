@@ -84,20 +84,20 @@
         "veekunDb": "pikipek",
         "serebii": "pikipek",
         "bulbapedia": "Pikipek",
-        "homeSprite": "pikipek",
-        "miniSprite": "pikipek",
+        "homeSprite": "0731",
+        "miniSprite": "0731",
         "showdown": "pikipek",
         "showdownDef": "Pikipek",
         "smogon": "pikipek"
-    },
-    "imgs": {
-        "home": "0731",
-        "menu": "0731"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "pikipek"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0731",
+        "menu": "0731"
+    }
 }

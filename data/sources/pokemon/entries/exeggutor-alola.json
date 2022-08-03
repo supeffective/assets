@@ -88,18 +88,18 @@
         "veekunDb": "exeggutor-alola",
         "serebii": "exeggutor",
         "bulbapedia": "Exeggutor",
-        "homeSprite": "exeggutor-alola",
-        "miniSprite": "exeggutor-alola",
+        "homeSprite": "0103-alola",
+        "miniSprite": "0103-alola",
         "showdown": "exeggutoralola",
         "showdownDef": "Exeggutor-Alola",
         "smogon": "exeggutor-alola"
     },
-    "imgs": {
-        "home": "0103-alola",
-        "menu": "0103-alola"
-    },
     "baseSpecies": "exeggutor",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0103-alola",
+        "menu": "0103-alola"
+    }
 }

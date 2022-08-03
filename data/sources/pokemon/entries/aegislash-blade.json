@@ -78,20 +78,20 @@
         "veekunDb": "aegislash-blade",
         "serebii": "aegislash",
         "bulbapedia": "Aegislash",
-        "homeSprite": "aegislash-blade",
-        "miniSprite": "aegislash-blade",
+        "homeSprite": "0681-blade",
+        "miniSprite": "0681-blade",
         "showdown": "aegislashblade",
         "showdownDef": "Aegislash-Blade",
         "smogon": "aegislash-blade"
-    },
-    "imgs": {
-        "home": "0681-blade",
-        "menu": "0681-blade"
     },
     "baseSpecies": "aegislash",
     "baseForms": [
         "aegislash"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0681-blade",
+        "menu": "0681-blade"
+    }
 }

@@ -80,20 +80,20 @@
         "veekunDb": "grapploct",
         "serebii": "grapploct",
         "bulbapedia": "Grapploct",
-        "homeSprite": "grapploct",
-        "miniSprite": "grapploct",
+        "homeSprite": "0853",
+        "miniSprite": "0853",
         "showdown": "grapploct",
         "showdownDef": "Grapploct",
         "smogon": "grapploct"
-    },
-    "imgs": {
-        "home": "0853",
-        "menu": "0853"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "grapploct"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0853",
+        "menu": "0853"
+    }
 }

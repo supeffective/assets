@@ -83,20 +83,20 @@
         "veekunDb": "skiddo",
         "serebii": "skiddo",
         "bulbapedia": "Skiddo",
-        "homeSprite": "skiddo",
-        "miniSprite": "skiddo",
+        "homeSprite": "0672",
+        "miniSprite": "0672",
         "showdown": "skiddo",
         "showdownDef": "Skiddo",
         "smogon": "skiddo"
-    },
-    "imgs": {
-        "home": "0672",
-        "menu": "0672"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "skiddo"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0672",
+        "menu": "0672"
+    }
 }

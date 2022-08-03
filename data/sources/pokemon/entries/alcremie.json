@@ -80,15 +80,11 @@
         "veekunDb": "alcremie",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
-        "homeSprite": "alcremie",
-        "miniSprite": "alcremie",
+        "homeSprite": "0869",
+        "miniSprite": "0869",
         "showdown": "alcremie",
         "showdownDef": "Alcremie",
         "smogon": "alcremie"
-    },
-    "imgs": {
-        "home": "0869",
-        "menu": "0869"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -158,5 +154,9 @@
         "alcremie-rainbow-swirl-ribbon",
         "alcremie-gmax"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0869",
+        "menu": "0869"
+    }
 }

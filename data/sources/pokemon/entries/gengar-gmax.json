@@ -77,20 +77,20 @@
         "veekunDb": "gengar-gmax",
         "serebii": "gengar",
         "bulbapedia": "Gengar",
-        "homeSprite": "gengar-gmax",
-        "miniSprite": "gengar-gmax",
+        "homeSprite": "0094-gmax",
+        "miniSprite": "0094-gmax",
         "showdown": "gengargmax",
         "showdownDef": "Gengar-Gmax",
         "smogon": "gengar-gmax"
-    },
-    "imgs": {
-        "home": "0094-gmax",
-        "menu": "0094-gmax"
     },
     "baseSpecies": "gengar",
     "baseForms": [
         "gengar"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0094-gmax",
+        "menu": "0094-gmax"
+    }
 }

@@ -99,15 +99,11 @@
         "veekunDb": "typhlosion",
         "serebii": "typhlosion",
         "bulbapedia": "Typhlosion",
-        "homeSprite": "typhlosion",
-        "miniSprite": "typhlosion",
+        "homeSprite": "0157",
+        "miniSprite": "0157",
         "showdown": "typhlosion",
         "showdownDef": "Typhlosion",
         "smogon": "typhlosion"
-    },
-    "imgs": {
-        "home": "0157",
-        "menu": "0157"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -115,5 +111,9 @@
         "typhlosion",
         "typhlosion-hisui"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0157",
+        "menu": "0157"
+    }
 }

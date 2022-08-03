@@ -90,20 +90,20 @@
         "veekunDb": "boldore",
         "serebii": "boldore",
         "bulbapedia": "Boldore",
-        "homeSprite": "boldore",
-        "miniSprite": "boldore",
+        "homeSprite": "0525",
+        "miniSprite": "0525",
         "showdown": "boldore",
         "showdownDef": "Boldore",
         "smogon": "boldore"
-    },
-    "imgs": {
-        "home": "0525",
-        "menu": "0525"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "boldore"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0525",
+        "menu": "0525"
+    }
 }

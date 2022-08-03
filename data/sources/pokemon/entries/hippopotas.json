@@ -97,15 +97,11 @@
         "veekunDb": "hippopotas",
         "serebii": "hippopotas",
         "bulbapedia": "Hippopotas",
-        "homeSprite": "hippopotas",
-        "miniSprite": "hippopotas",
+        "homeSprite": "0449",
+        "miniSprite": "0449",
         "showdown": "hippopotas",
         "showdownDef": "Hippopotas",
         "smogon": "hippopotas"
-    },
-    "imgs": {
-        "home": "0449",
-        "menu": "0449"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -113,5 +109,9 @@
         "hippopotas",
         "hippopotas-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0449",
+        "menu": "0449"
+    }
 }

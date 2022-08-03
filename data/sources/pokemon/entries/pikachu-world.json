@@ -80,18 +80,18 @@
         "veekunDb": "pikachu-world",
         "serebii": "pikachu",
         "bulbapedia": "Pikachu",
-        "homeSprite": "pikachu-world",
-        "miniSprite": "pikachu-world",
+        "homeSprite": "0025-world",
+        "miniSprite": "0025-world",
         "showdown": "pikachuworld",
         "showdownDef": "Pikachu-World",
         "smogon": "pikachu-world"
     },
-    "imgs": {
-        "home": "0025-world",
-        "menu": "0025-world"
-    },
     "baseSpecies": "pikachu",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0025-world",
+        "menu": "0025-world"
+    }
 }

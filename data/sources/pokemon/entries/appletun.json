@@ -80,15 +80,11 @@
         "veekunDb": "appletun",
         "serebii": "appletun",
         "bulbapedia": "Appletun",
-        "homeSprite": "appletun",
-        "miniSprite": "appletun",
+        "homeSprite": "0842",
+        "miniSprite": "0842",
         "showdown": "appletun",
         "showdownDef": "Appletun",
         "smogon": "appletun"
-    },
-    "imgs": {
-        "home": "0842",
-        "menu": "0842"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -96,5 +92,9 @@
         "appletun",
         "appletun-gmax"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0842",
+        "menu": "0842"
+    }
 }

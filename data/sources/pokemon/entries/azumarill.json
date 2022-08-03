@@ -101,20 +101,20 @@
         "veekunDb": "azumarill",
         "serebii": "azumarill",
         "bulbapedia": "Azumarill",
-        "homeSprite": "azumarill",
-        "miniSprite": "azumarill",
+        "homeSprite": "0184",
+        "miniSprite": "0184",
         "showdown": "azumarill",
         "showdownDef": "Azumarill",
         "smogon": "azumarill"
-    },
-    "imgs": {
-        "home": "0184",
-        "menu": "0184"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "azumarill"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0184",
+        "menu": "0184"
+    }
 }

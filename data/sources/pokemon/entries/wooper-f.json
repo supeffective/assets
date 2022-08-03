@@ -94,18 +94,18 @@
         "veekunDb": "wooper",
         "serebii": "wooper",
         "bulbapedia": "Wooper",
-        "homeSprite": "wooper-f",
-        "miniSprite": "wooper-f",
+        "homeSprite": "0194-f",
+        "miniSprite": "0194",
         "showdown": "wooper",
         "showdownDef": "Wooper",
         "smogon": "wooper"
     },
-    "imgs": {
-        "home": "0194-f",
-        "menu": "0194"
-    },
     "baseSpecies": "wooper",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0194-f",
+        "menu": "0194"
+    }
 }

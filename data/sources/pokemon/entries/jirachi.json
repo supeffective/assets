@@ -96,20 +96,20 @@
         "veekunDb": "jirachi",
         "serebii": "jirachi",
         "bulbapedia": "Jirachi",
-        "homeSprite": "jirachi",
-        "miniSprite": "jirachi",
+        "homeSprite": "0385",
+        "miniSprite": "0385",
         "showdown": "jirachi",
         "showdownDef": "Jirachi",
         "smogon": "jirachi"
-    },
-    "imgs": {
-        "home": "0385",
-        "menu": "0385"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "jirachi"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0385",
+        "menu": "0385"
+    }
 }

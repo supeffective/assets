@@ -80,18 +80,18 @@
         "veekunDb": null,
         "serebii": "zorua",
         "bulbapedia": "Zorua",
-        "homeSprite": "zorua-hisui",
-        "miniSprite": "zorua-hisui",
+        "homeSprite": "0570-hisui",
+        "miniSprite": "0570-hisui",
         "showdown": "zoruahisui",
         "showdownDef": "Zorua-Hisui",
         "smogon": "zorua-hisui"
     },
-    "imgs": {
-        "home": "0570-hisui",
-        "menu": "0570-hisui"
-    },
     "baseSpecies": "zorua",
     "baseForms": [],
     "forms": [],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0570-hisui",
+        "menu": "0570-hisui"
+    }
 }

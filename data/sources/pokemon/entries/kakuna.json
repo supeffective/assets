@@ -103,20 +103,20 @@
         "veekunDb": "kakuna",
         "serebii": "kakuna",
         "bulbapedia": "Kakuna",
-        "homeSprite": "kakuna",
-        "miniSprite": "kakuna",
+        "homeSprite": "0014",
+        "miniSprite": "0014",
         "showdown": "kakuna",
         "showdownDef": "Kakuna",
         "smogon": "kakuna"
-    },
-    "imgs": {
-        "home": "0014",
-        "menu": "0014"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "kakuna"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0014",
+        "menu": "0014"
+    }
 }

@@ -101,15 +101,11 @@
         "veekunDb": "wobbuffet",
         "serebii": "wobbuffet",
         "bulbapedia": "Wobbuffet",
-        "homeSprite": "wobbuffet",
-        "miniSprite": "wobbuffet",
+        "homeSprite": "0202",
+        "miniSprite": "0202",
         "showdown": "wobbuffet",
         "showdownDef": "Wobbuffet",
         "smogon": "wobbuffet"
-    },
-    "imgs": {
-        "home": "0202",
-        "menu": "0202"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -117,5 +113,9 @@
         "wobbuffet",
         "wobbuffet-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0202",
+        "menu": "0202"
+    }
 }

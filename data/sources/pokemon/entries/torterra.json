@@ -95,20 +95,20 @@
         "veekunDb": "torterra",
         "serebii": "torterra",
         "bulbapedia": "Torterra",
-        "homeSprite": "torterra",
-        "miniSprite": "torterra",
+        "homeSprite": "0389",
+        "miniSprite": "0389",
         "showdown": "torterra",
         "showdownDef": "Torterra",
         "smogon": "torterra"
-    },
-    "imgs": {
-        "home": "0389",
-        "menu": "0389"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "torterra"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0389",
+        "menu": "0389"
+    }
 }

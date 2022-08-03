@@ -83,18 +83,18 @@
         "veekunDb": "vivillon-sun",
         "serebii": "vivillon",
         "bulbapedia": "Vivillon",
-        "homeSprite": "vivillon-sun",
-        "miniSprite": "vivillon-sun",
+        "homeSprite": "0666-sun",
+        "miniSprite": "0666-sun",
         "showdown": "vivillon",
         "showdownDef": "Vivillon-Sun",
         "smogon": "vivillon-sun"
     },
-    "imgs": {
-        "home": "0666-sun",
-        "menu": "0666-sun"
-    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0666-sun",
+        "menu": "0666-sun"
+    }
 }

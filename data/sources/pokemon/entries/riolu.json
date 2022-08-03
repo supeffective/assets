@@ -97,20 +97,20 @@
         "veekunDb": "riolu",
         "serebii": "riolu",
         "bulbapedia": "Riolu",
-        "homeSprite": "riolu",
-        "miniSprite": "riolu",
+        "homeSprite": "0447",
+        "miniSprite": "0447",
         "showdown": "riolu",
         "showdownDef": "Riolu",
         "smogon": "riolu"
-    },
-    "imgs": {
-        "home": "0447",
-        "menu": "0447"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "riolu"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0447",
+        "menu": "0447"
+    }
 }

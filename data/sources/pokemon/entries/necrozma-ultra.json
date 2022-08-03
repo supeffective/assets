@@ -86,15 +86,11 @@
         "veekunDb": "necrozma-ultra",
         "serebii": "necrozma",
         "bulbapedia": "Necrozma",
-        "homeSprite": "necrozma-ultra",
-        "miniSprite": "necrozma-ultra",
+        "homeSprite": "0800-ultra",
+        "miniSprite": "0800-ultra",
         "showdown": "necrozmaultra",
         "showdownDef": "Necrozma-Ultra",
         "smogon": "necrozma-ultra"
-    },
-    "imgs": {
-        "home": "0800-ultra",
-        "menu": "0800-ultra"
     },
     "baseSpecies": "necrozma",
     "baseForms": [
@@ -102,5 +98,9 @@
         "necrozma-dawn-wings"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0800-ultra",
+        "menu": "0800-ultra"
+    }
 }

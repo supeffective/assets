@@ -80,20 +80,20 @@
         "veekunDb": "nickit",
         "serebii": "nickit",
         "bulbapedia": "Nickit",
-        "homeSprite": "nickit",
-        "miniSprite": "nickit",
+        "homeSprite": "0827",
+        "miniSprite": "0827",
         "showdown": "nickit",
         "showdownDef": "Nickit",
         "smogon": "nickit"
-    },
-    "imgs": {
-        "home": "0827",
-        "menu": "0827"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "nickit"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0827",
+        "menu": "0827"
+    }
 }

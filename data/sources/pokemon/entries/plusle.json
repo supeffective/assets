@@ -97,20 +97,20 @@
         "veekunDb": "plusle",
         "serebii": "plusle",
         "bulbapedia": "Plusle",
-        "homeSprite": "plusle",
-        "miniSprite": "plusle",
+        "homeSprite": "0311",
+        "miniSprite": "0311",
         "showdown": "plusle",
         "showdownDef": "Plusle",
         "smogon": "plusle"
-    },
-    "imgs": {
-        "home": "0311",
-        "menu": "0311"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "plusle"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0311",
+        "menu": "0311"
+    }
 }

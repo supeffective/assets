@@ -105,20 +105,20 @@
         "veekunDb": "ditto",
         "serebii": "ditto",
         "bulbapedia": "Ditto",
-        "homeSprite": "ditto",
-        "miniSprite": "ditto",
+        "homeSprite": "0132",
+        "miniSprite": "0132",
         "showdown": "ditto",
         "showdownDef": "Ditto",
         "smogon": "ditto"
-    },
-    "imgs": {
-        "home": "0132",
-        "menu": "0132"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "ditto"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0132",
+        "menu": "0132"
+    }
 }

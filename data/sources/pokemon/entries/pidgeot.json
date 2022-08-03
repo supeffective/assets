@@ -103,15 +103,11 @@
         "veekunDb": "pidgeot",
         "serebii": "pidgeot",
         "bulbapedia": "Pidgeot",
-        "homeSprite": "pidgeot",
-        "miniSprite": "pidgeot",
+        "homeSprite": "0018",
+        "miniSprite": "0018",
         "showdown": "pidgeot",
         "showdownDef": "Pidgeot",
         "smogon": "pidgeot"
-    },
-    "imgs": {
-        "home": "0018",
-        "menu": "0018"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -119,5 +115,9 @@
         "pidgeot",
         "pidgeot-mega"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0018",
+        "menu": "0018"
+    }
 }

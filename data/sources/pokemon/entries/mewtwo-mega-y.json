@@ -78,20 +78,20 @@
         "veekunDb": "mewtwo-mega-y",
         "serebii": "mewtwo",
         "bulbapedia": "Mewtwo",
-        "homeSprite": "mewtwo-mega-y",
-        "miniSprite": "mewtwo-mega-y",
+        "homeSprite": "0150-mega-y",
+        "miniSprite": "0150-mega-y",
         "showdown": "mewtwomegay",
         "showdownDef": "Mewtwo-Mega-Y",
         "smogon": "mewtwo-mega-y"
-    },
-    "imgs": {
-        "home": "0150-mega-y",
-        "menu": "0150-mega-y"
     },
     "baseSpecies": "mewtwo",
     "baseForms": [
         "mewtwo"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0150-mega-y",
+        "menu": "0150-mega-y"
+    }
 }

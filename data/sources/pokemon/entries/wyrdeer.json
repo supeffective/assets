@@ -80,20 +80,20 @@
         "veekunDb": "wyrdeer",
         "serebii": "wyrdeer",
         "bulbapedia": "Wyrdeer",
-        "homeSprite": "wyrdeer",
-        "miniSprite": "wyrdeer",
+        "homeSprite": "0899",
+        "miniSprite": "0899",
         "showdown": "wyrdeer",
         "showdownDef": "Wyrdeer",
         "smogon": "wyrdeer"
-    },
-    "imgs": {
-        "home": "0899",
-        "menu": "0899"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "wyrdeer"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0899",
+        "menu": "0899"
+    }
 }

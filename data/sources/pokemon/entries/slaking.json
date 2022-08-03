@@ -97,20 +97,20 @@
         "veekunDb": "slaking",
         "serebii": "slaking",
         "bulbapedia": "Slaking",
-        "homeSprite": "slaking",
-        "miniSprite": "slaking",
+        "homeSprite": "0289",
+        "miniSprite": "0289",
         "showdown": "slaking",
         "showdownDef": "Slaking",
         "smogon": "slaking"
-    },
-    "imgs": {
-        "home": "0289",
-        "menu": "0289"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "slaking"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0289",
+        "menu": "0289"
+    }
 }

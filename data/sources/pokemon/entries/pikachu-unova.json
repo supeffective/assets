@@ -84,18 +84,18 @@
         "veekunDb": "pikachu-unova",
         "serebii": "pikachu",
         "bulbapedia": "Pikachu",
-        "homeSprite": "pikachu-unova",
-        "miniSprite": "pikachu-unova",
+        "homeSprite": "0025-unova",
+        "miniSprite": "0025-unova",
         "showdown": "pikachuunova",
         "showdownDef": "Pikachu-Unova",
         "smogon": "pikachu-unova"
     },
-    "imgs": {
-        "home": "0025-unova",
-        "menu": "0025-unova"
-    },
     "baseSpecies": "pikachu",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0025-unova",
+        "menu": "0025-unova"
+    }
 }

@@ -103,15 +103,11 @@
         "veekunDb": "muk",
         "serebii": "muk",
         "bulbapedia": "Muk",
-        "homeSprite": "muk",
-        "miniSprite": "muk",
+        "homeSprite": "0089",
+        "miniSprite": "0089",
         "showdown": "muk",
         "showdownDef": "Muk",
         "smogon": "muk"
-    },
-    "imgs": {
-        "home": "0089",
-        "menu": "0089"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -119,5 +115,9 @@
         "muk",
         "muk-alola"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0089",
+        "menu": "0089"
+    }
 }

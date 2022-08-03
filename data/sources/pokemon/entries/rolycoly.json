@@ -80,20 +80,20 @@
         "veekunDb": "rolycoly",
         "serebii": "rolycoly",
         "bulbapedia": "Rolycoly",
-        "homeSprite": "rolycoly",
-        "miniSprite": "rolycoly",
+        "homeSprite": "0837",
+        "miniSprite": "0837",
         "showdown": "rolycoly",
         "showdownDef": "Rolycoly",
         "smogon": "rolycoly"
-    },
-    "imgs": {
-        "home": "0837",
-        "menu": "0837"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "rolycoly"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0837",
+        "menu": "0837"
+    }
 }

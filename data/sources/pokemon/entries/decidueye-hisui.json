@@ -80,18 +80,18 @@
         "veekunDb": null,
         "serebii": "decidueye",
         "bulbapedia": "Decidueye",
-        "homeSprite": "decidueye-hisui",
-        "miniSprite": "decidueye-hisui",
+        "homeSprite": "0724-hisui",
+        "miniSprite": "0724-hisui",
         "showdown": "decidueyehisui",
         "showdownDef": "Decidueye-Hisui",
         "smogon": "decidueye-hisui"
     },
-    "imgs": {
-        "home": "0724-hisui",
-        "menu": "0724-hisui"
-    },
     "baseSpecies": "decidueye",
     "baseForms": [],
     "forms": [],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0724-hisui",
+        "menu": "0724-hisui"
+    }
 }

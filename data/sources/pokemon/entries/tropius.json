@@ -97,20 +97,20 @@
         "veekunDb": "tropius",
         "serebii": "tropius",
         "bulbapedia": "Tropius",
-        "homeSprite": "tropius",
-        "miniSprite": "tropius",
+        "homeSprite": "0357",
+        "miniSprite": "0357",
         "showdown": "tropius",
         "showdownDef": "Tropius",
         "smogon": "tropius"
-    },
-    "imgs": {
-        "home": "0357",
-        "menu": "0357"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "tropius"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0357",
+        "menu": "0357"
+    }
 }

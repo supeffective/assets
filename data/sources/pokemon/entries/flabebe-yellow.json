@@ -85,18 +85,18 @@
         "veekunDb": "flabebe-yellow",
         "serebii": "flabebe",
         "bulbapedia": "Flabebe",
-        "homeSprite": "flabebe-yellow",
-        "miniSprite": "flabebe-yellow",
+        "homeSprite": "0669-yellow",
+        "miniSprite": "0669-yellow",
         "showdown": "flabebe",
         "showdownDef": "Flabebe-Yellow",
         "smogon": "flabebe-yellow"
     },
-    "imgs": {
-        "home": "0669-yellow",
-        "menu": "0669-yellow"
-    },
     "baseSpecies": "flabebe",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0669-yellow",
+        "menu": "0669-yellow"
+    }
 }

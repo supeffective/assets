@@ -77,20 +77,20 @@
         "veekunDb": "eiscue-noice",
         "serebii": "eiscue",
         "bulbapedia": "Eiscue",
-        "homeSprite": "eiscue-noice",
-        "miniSprite": "eiscue-noice",
+        "homeSprite": "0875-noice",
+        "miniSprite": "0875-noice",
         "showdown": "eiscuenoice",
         "showdownDef": "Eiscue-Noice",
         "smogon": "eiscue-noice"
-    },
-    "imgs": {
-        "home": "0875-noice",
-        "menu": "0875-noice"
     },
     "baseSpecies": "eiscue",
     "baseForms": [
         "eiscue"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0875-noice",
+        "menu": "0875-noice"
+    }
 }

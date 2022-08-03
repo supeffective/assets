@@ -105,20 +105,20 @@
         "veekunDb": "kabuto",
         "serebii": "kabuto",
         "bulbapedia": "Kabuto",
-        "homeSprite": "kabuto",
-        "miniSprite": "kabuto",
+        "homeSprite": "0140",
+        "miniSprite": "0140",
         "showdown": "kabuto",
         "showdownDef": "Kabuto",
         "smogon": "kabuto"
-    },
-    "imgs": {
-        "home": "0140",
-        "menu": "0140"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "kabuto"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0140",
+        "menu": "0140"
+    }
 }

@@ -82,18 +82,18 @@
         "veekunDb": null,
         "serebii": "arcanine",
         "bulbapedia": "Arcanine",
-        "homeSprite": "arcanine-hisui",
-        "miniSprite": "arcanine-hisui",
+        "homeSprite": "0059-hisui",
+        "miniSprite": "0059-hisui",
         "showdown": "arcaninehisui",
         "showdownDef": "Arcanine-Hisui",
         "smogon": "arcanine-hisui"
     },
-    "imgs": {
-        "home": "0059-hisui",
-        "menu": "0059-hisui"
-    },
     "baseSpecies": "arcanine",
     "baseForms": [],
     "forms": [],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0059-hisui",
+        "menu": "0059-hisui"
+    }
 }

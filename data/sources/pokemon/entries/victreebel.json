@@ -103,20 +103,20 @@
         "veekunDb": "victreebel",
         "serebii": "victreebel",
         "bulbapedia": "Victreebel",
-        "homeSprite": "victreebel",
-        "miniSprite": "victreebel",
+        "homeSprite": "0071",
+        "miniSprite": "0071",
         "showdown": "victreebel",
         "showdownDef": "Victreebel",
         "smogon": "victreebel"
-    },
-    "imgs": {
-        "home": "0071",
-        "menu": "0071"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "victreebel"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0071",
+        "menu": "0071"
+    }
 }

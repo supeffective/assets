@@ -84,20 +84,20 @@
         "veekunDb": "trumbeak",
         "serebii": "trumbeak",
         "bulbapedia": "Trumbeak",
-        "homeSprite": "trumbeak",
-        "miniSprite": "trumbeak",
+        "homeSprite": "0732",
+        "miniSprite": "0732",
         "showdown": "trumbeak",
         "showdownDef": "Trumbeak",
         "smogon": "trumbeak"
-    },
-    "imgs": {
-        "home": "0732",
-        "menu": "0732"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "trumbeak"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0732",
+        "menu": "0732"
+    }
 }

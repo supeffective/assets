@@ -99,20 +99,20 @@
         "veekunDb": "phanpy",
         "serebii": "phanpy",
         "bulbapedia": "Phanpy",
-        "homeSprite": "phanpy",
-        "miniSprite": "phanpy",
+        "homeSprite": "0231",
+        "miniSprite": "0231",
         "showdown": "phanpy",
         "showdownDef": "Phanpy",
         "smogon": "phanpy"
-    },
-    "imgs": {
-        "home": "0231",
-        "menu": "0231"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "phanpy"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0231",
+        "menu": "0231"
+    }
 }

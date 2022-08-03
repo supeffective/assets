@@ -88,15 +88,11 @@
         "veekunDb": "sawsbuck",
         "serebii": "sawsbuck",
         "bulbapedia": "Sawsbuck",
-        "homeSprite": "sawsbuck",
-        "miniSprite": "sawsbuck",
+        "homeSprite": "0586",
+        "miniSprite": "0586",
         "showdown": "sawsbuck",
         "showdownDef": "Sawsbuck",
         "smogon": "sawsbuck"
-    },
-    "imgs": {
-        "home": "0586",
-        "menu": "0586"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -106,5 +102,9 @@
         "sawsbuck-autumn",
         "sawsbuck-winter"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0586",
+        "menu": "0586"
+    }
 }

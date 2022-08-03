@@ -90,20 +90,20 @@
         "veekunDb": "vanillite",
         "serebii": "vanillite",
         "bulbapedia": "Vanillite",
-        "homeSprite": "vanillite",
-        "miniSprite": "vanillite",
+        "homeSprite": "0582",
+        "miniSprite": "0582",
         "showdown": "vanillite",
         "showdownDef": "Vanillite",
         "smogon": "vanillite"
-    },
-    "imgs": {
-        "home": "0582",
-        "menu": "0582"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "vanillite"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0582",
+        "menu": "0582"
+    }
 }

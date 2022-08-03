@@ -80,18 +80,18 @@
         "veekunDb": "alcremie-vanilla-cream-flower",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
-        "homeSprite": "alcremie-vanilla-cream-flower",
-        "miniSprite": "alcremie-vanilla-cream-flower",
+        "homeSprite": "0869-vanilla-cream-flower",
+        "miniSprite": "0869-vanilla-cream-flower",
         "showdown": "alcremie",
         "showdownDef": "Alcremie-Vanilla-Cream-Flower",
         "smogon": "alcremie-vanilla-cream-flower"
     },
-    "imgs": {
-        "home": "0869-vanilla-cream-flower",
-        "menu": "0869-vanilla-cream-flower"
-    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0869-vanilla-cream-flower",
+        "menu": "0869-vanilla-cream-flower"
+    }
 }

@@ -89,15 +89,11 @@
         "veekunDb": "keldeo",
         "serebii": "keldeo",
         "bulbapedia": "Keldeo",
-        "homeSprite": "keldeo",
-        "miniSprite": "keldeo",
+        "homeSprite": "0647",
+        "miniSprite": "0647",
         "showdown": "keldeo",
         "showdownDef": "Keldeo",
         "smogon": "keldeo"
-    },
-    "imgs": {
-        "home": "0647",
-        "menu": "0647"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -105,5 +101,9 @@
         "keldeo",
         "keldeo-resolute"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0647",
+        "menu": "0647"
+    }
 }

@@ -99,20 +99,20 @@
         "veekunDb": "snubbull",
         "serebii": "snubbull",
         "bulbapedia": "Snubbull",
-        "homeSprite": "snubbull",
-        "miniSprite": "snubbull",
+        "homeSprite": "0209",
+        "miniSprite": "0209",
         "showdown": "snubbull",
         "showdownDef": "Snubbull",
         "smogon": "snubbull"
-    },
-    "imgs": {
-        "home": "0209",
-        "menu": "0209"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "snubbull"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0209",
+        "menu": "0209"
+    }
 }

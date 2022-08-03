@@ -90,20 +90,20 @@
         "veekunDb": "tranquill",
         "serebii": "tranquill",
         "bulbapedia": "Tranquill",
-        "homeSprite": "tranquill",
-        "miniSprite": "tranquill",
+        "homeSprite": "0520",
+        "miniSprite": "0520",
         "showdown": "tranquill",
         "showdownDef": "Tranquill",
         "smogon": "tranquill"
-    },
-    "imgs": {
-        "home": "0520",
-        "menu": "0520"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "tranquill"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0520",
+        "menu": "0520"
+    }
 }

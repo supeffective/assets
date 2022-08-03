@@ -84,15 +84,11 @@
         "veekunDb": "oricorio",
         "serebii": "oricorio",
         "bulbapedia": "Oricorio",
-        "homeSprite": "oricorio",
-        "miniSprite": "oricorio",
+        "homeSprite": "0741",
+        "miniSprite": "0741",
         "showdown": "oricorio",
         "showdownDef": "Oricorio",
         "smogon": "oricorio"
-    },
-    "imgs": {
-        "home": "0741",
-        "menu": "0741"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -102,5 +98,9 @@
         "oricorio-pau",
         "oricorio-sensu"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0741",
+        "menu": "0741"
+    }
 }

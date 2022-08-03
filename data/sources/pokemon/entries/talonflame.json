@@ -87,20 +87,20 @@
         "veekunDb": "talonflame",
         "serebii": "talonflame",
         "bulbapedia": "Talonflame",
-        "homeSprite": "talonflame",
-        "miniSprite": "talonflame",
+        "homeSprite": "0663",
+        "miniSprite": "0663",
         "showdown": "talonflame",
         "showdownDef": "Talonflame",
         "smogon": "talonflame"
-    },
-    "imgs": {
-        "home": "0663",
-        "menu": "0663"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "talonflame"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0663",
+        "menu": "0663"
+    }
 }

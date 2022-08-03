@@ -84,20 +84,20 @@
         "veekunDb": "morelull",
         "serebii": "morelull",
         "bulbapedia": "Morelull",
-        "homeSprite": "morelull",
-        "miniSprite": "morelull",
+        "homeSprite": "0755",
+        "miniSprite": "0755",
         "showdown": "morelull",
         "showdownDef": "Morelull",
         "smogon": "morelull"
-    },
-    "imgs": {
-        "home": "0755",
-        "menu": "0755"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "morelull"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0755",
+        "menu": "0755"
+    }
 }

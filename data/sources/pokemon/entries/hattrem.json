@@ -80,20 +80,20 @@
         "veekunDb": "hattrem",
         "serebii": "hattrem",
         "bulbapedia": "Hattrem",
-        "homeSprite": "hattrem",
-        "miniSprite": "hattrem",
+        "homeSprite": "0857",
+        "miniSprite": "0857",
         "showdown": "hattrem",
         "showdownDef": "Hattrem",
         "smogon": "hattrem"
-    },
-    "imgs": {
-        "home": "0857",
-        "menu": "0857"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "hattrem"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0857",
+        "menu": "0857"
+    }
 }

@@ -83,15 +83,11 @@
         "veekunDb": "vivillon",
         "serebii": "vivillon",
         "bulbapedia": "Vivillon",
-        "homeSprite": "vivillon",
-        "miniSprite": "vivillon",
+        "homeSprite": "0666",
+        "miniSprite": "0666",
         "showdown": "vivillon",
         "showdownDef": "Vivillon",
         "smogon": "vivillon"
-    },
-    "imgs": {
-        "home": "0666",
-        "menu": "0666"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -117,5 +113,9 @@
         "vivillon-fancy",
         "vivillon-pokeball"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0666",
+        "menu": "0666"
+    }
 }

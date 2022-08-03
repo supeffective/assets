@@ -90,15 +90,11 @@
         "veekunDb": "stunfisk",
         "serebii": "stunfisk",
         "bulbapedia": "Stunfisk",
-        "homeSprite": "stunfisk",
-        "miniSprite": "stunfisk",
+        "homeSprite": "0618",
+        "miniSprite": "0618",
         "showdown": "stunfisk",
         "showdownDef": "Stunfisk",
         "smogon": "stunfisk"
-    },
-    "imgs": {
-        "home": "0618",
-        "menu": "0618"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -106,5 +102,9 @@
         "stunfisk",
         "stunfisk-galar"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0618",
+        "menu": "0618"
+    }
 }

@@ -99,20 +99,20 @@
         "veekunDb": "swablu",
         "serebii": "swablu",
         "bulbapedia": "Swablu",
-        "homeSprite": "swablu",
-        "miniSprite": "swablu",
+        "homeSprite": "0333",
+        "miniSprite": "0333",
         "showdown": "swablu",
         "showdownDef": "Swablu",
         "smogon": "swablu"
-    },
-    "imgs": {
-        "home": "0333",
-        "menu": "0333"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "swablu"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0333",
+        "menu": "0333"
+    }
 }

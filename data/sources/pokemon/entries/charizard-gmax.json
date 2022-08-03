@@ -77,20 +77,20 @@
         "veekunDb": "charizard-gmax",
         "serebii": "charizard",
         "bulbapedia": "Charizard",
-        "homeSprite": "charizard-gmax",
-        "miniSprite": "charizard-gmax",
+        "homeSprite": "0006-gmax",
+        "miniSprite": "0006-gmax",
         "showdown": "charizardgmax",
         "showdownDef": "Charizard-Gmax",
         "smogon": "charizard-gmax"
-    },
-    "imgs": {
-        "home": "0006-gmax",
-        "menu": "0006-gmax"
     },
     "baseSpecies": "charizard",
     "baseForms": [
         "charizard"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0006-gmax",
+        "menu": "0006-gmax"
+    }
 }

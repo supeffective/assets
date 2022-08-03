@@ -99,20 +99,20 @@
         "veekunDb": "carvanha",
         "serebii": "carvanha",
         "bulbapedia": "Carvanha",
-        "homeSprite": "carvanha",
-        "miniSprite": "carvanha",
+        "homeSprite": "0318",
+        "miniSprite": "0318",
         "showdown": "carvanha",
         "showdownDef": "Carvanha",
         "smogon": "carvanha"
-    },
-    "imgs": {
-        "home": "0318",
-        "menu": "0318"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "carvanha"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0318",
+        "menu": "0318"
+    }
 }

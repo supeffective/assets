@@ -101,15 +101,11 @@
         "veekunDb": "ursaring",
         "serebii": "ursaring",
         "bulbapedia": "Ursaring",
-        "homeSprite": "ursaring",
-        "miniSprite": "ursaring",
+        "homeSprite": "0217",
+        "miniSprite": "0217",
         "showdown": "ursaring",
         "showdownDef": "Ursaring",
         "smogon": "ursaring"
-    },
-    "imgs": {
-        "home": "0217",
-        "menu": "0217"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -117,5 +113,9 @@
         "ursaring",
         "ursaring-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0217",
+        "menu": "0217"
+    }
 }

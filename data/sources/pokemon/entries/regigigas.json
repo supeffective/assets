@@ -97,20 +97,20 @@
         "veekunDb": "regigigas",
         "serebii": "regigigas",
         "bulbapedia": "Regigigas",
-        "homeSprite": "regigigas",
-        "miniSprite": "regigigas",
+        "homeSprite": "0486",
+        "miniSprite": "0486",
         "showdown": "regigigas",
         "showdownDef": "Regigigas",
         "smogon": "regigigas"
-    },
-    "imgs": {
-        "home": "0486",
-        "menu": "0486"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "regigigas"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0486",
+        "menu": "0486"
+    }
 }

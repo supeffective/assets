@@ -85,12 +85,12 @@
         "homeSprite": "0194-paldea",
         "miniSprite": "0194-paldea"
     },
-    "imgs": {
-        "home": "0194-paldea",
-        "menu": "0194-paldea"
-    },
     "baseSpecies": "wooper",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0194-paldea",
+        "menu": "0194-paldea"
+    }
 }

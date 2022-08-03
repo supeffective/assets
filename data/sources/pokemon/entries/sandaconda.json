@@ -80,15 +80,11 @@
         "veekunDb": "sandaconda",
         "serebii": "sandaconda",
         "bulbapedia": "Sandaconda",
-        "homeSprite": "sandaconda",
-        "miniSprite": "sandaconda",
+        "homeSprite": "0844",
+        "miniSprite": "0844",
         "showdown": "sandaconda",
         "showdownDef": "Sandaconda",
         "smogon": "sandaconda"
-    },
-    "imgs": {
-        "home": "0844",
-        "menu": "0844"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -96,5 +92,9 @@
         "sandaconda",
         "sandaconda-gmax"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0844",
+        "menu": "0844"
+    }
 }

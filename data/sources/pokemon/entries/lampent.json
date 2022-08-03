@@ -90,20 +90,20 @@
         "veekunDb": "lampent",
         "serebii": "lampent",
         "bulbapedia": "Lampent",
-        "homeSprite": "lampent",
-        "miniSprite": "lampent",
+        "homeSprite": "0608",
+        "miniSprite": "0608",
         "showdown": "lampent",
         "showdownDef": "Lampent",
         "smogon": "lampent"
-    },
-    "imgs": {
-        "home": "0608",
-        "menu": "0608"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "lampent"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0608",
+        "menu": "0608"
+    }
 }

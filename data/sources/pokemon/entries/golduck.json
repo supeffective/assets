@@ -107,20 +107,20 @@
         "veekunDb": "golduck",
         "serebii": "golduck",
         "bulbapedia": "Golduck",
-        "homeSprite": "golduck",
-        "miniSprite": "golduck",
+        "homeSprite": "0055",
+        "miniSprite": "0055",
         "showdown": "golduck",
         "showdownDef": "Golduck",
         "smogon": "golduck"
-    },
-    "imgs": {
-        "home": "0055",
-        "menu": "0055"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "golduck"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0055",
+        "menu": "0055"
+    }
 }

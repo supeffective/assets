@@ -108,20 +108,20 @@
         "veekunDb": "bulbasaur",
         "serebii": "bulbasaur",
         "bulbapedia": "Bulbasaur",
-        "homeSprite": "bulbasaur",
-        "miniSprite": "bulbasaur",
+        "homeSprite": "0001",
+        "miniSprite": "0001",
         "showdown": "bulbasaur",
         "showdownDef": "Bulbasaur",
         "smogon": "bulbasaur"
-    },
-    "imgs": {
-        "home": "0001",
-        "menu": "0001"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "bulbasaur"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0001",
+        "menu": "0001"
+    }
 }

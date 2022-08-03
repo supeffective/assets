@@ -78,20 +78,20 @@
         "veekunDb": "steelix-mega",
         "serebii": "steelix",
         "bulbapedia": "Steelix",
-        "homeSprite": "steelix-mega",
-        "miniSprite": "steelix-mega",
+        "homeSprite": "0208-mega",
+        "miniSprite": "0208-mega",
         "showdown": "steelixmega",
         "showdownDef": "Steelix-Mega",
         "smogon": "steelix-mega"
-    },
-    "imgs": {
-        "home": "0208-mega",
-        "menu": "0208-mega"
     },
     "baseSpecies": "steelix",
     "baseForms": [
         "steelix"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0208-mega",
+        "menu": "0208-mega"
+    }
 }

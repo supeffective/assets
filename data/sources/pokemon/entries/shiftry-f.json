@@ -94,18 +94,18 @@
         "veekunDb": "shiftry",
         "serebii": "shiftry",
         "bulbapedia": "Shiftry",
-        "homeSprite": "shiftry-f",
-        "miniSprite": "shiftry-f",
+        "homeSprite": "0275-f",
+        "miniSprite": "0275",
         "showdown": "shiftry",
         "showdownDef": "Shiftry",
         "smogon": "shiftry"
     },
-    "imgs": {
-        "home": "0275-f",
-        "menu": "0275"
-    },
     "baseSpecies": "shiftry",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0275-f",
+        "menu": "0275"
+    }
 }

@@ -90,20 +90,20 @@
         "veekunDb": "archeops",
         "serebii": "archeops",
         "bulbapedia": "Archeops",
-        "homeSprite": "archeops",
-        "miniSprite": "archeops",
+        "homeSprite": "0567",
+        "miniSprite": "0567",
         "showdown": "archeops",
         "showdownDef": "Archeops",
         "smogon": "archeops"
-    },
-    "imgs": {
-        "home": "0567",
-        "menu": "0567"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "archeops"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0567",
+        "menu": "0567"
+    }
 }

@@ -107,15 +107,11 @@
         "veekunDb": "scyther",
         "serebii": "scyther",
         "bulbapedia": "Scyther",
-        "homeSprite": "scyther",
-        "miniSprite": "scyther",
+        "homeSprite": "0123",
+        "miniSprite": "0123",
         "showdown": "scyther",
         "showdownDef": "Scyther",
         "smogon": "scyther"
-    },
-    "imgs": {
-        "home": "0123",
-        "menu": "0123"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -123,5 +119,9 @@
         "scyther",
         "scyther-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0123",
+        "menu": "0123"
+    }
 }

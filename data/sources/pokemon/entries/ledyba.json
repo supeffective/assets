@@ -99,15 +99,11 @@
         "veekunDb": "ledyba",
         "serebii": "ledyba",
         "bulbapedia": "Ledyba",
-        "homeSprite": "ledyba",
-        "miniSprite": "ledyba",
+        "homeSprite": "0165",
+        "miniSprite": "0165",
         "showdown": "ledyba",
         "showdownDef": "Ledyba",
         "smogon": "ledyba"
-    },
-    "imgs": {
-        "home": "0165",
-        "menu": "0165"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -115,5 +111,9 @@
         "ledyba",
         "ledyba-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0165",
+        "menu": "0165"
+    }
 }

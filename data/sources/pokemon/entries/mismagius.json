@@ -95,20 +95,20 @@
         "veekunDb": "mismagius",
         "serebii": "mismagius",
         "bulbapedia": "Mismagius",
-        "homeSprite": "mismagius",
-        "miniSprite": "mismagius",
+        "homeSprite": "0429",
+        "miniSprite": "0429",
         "showdown": "mismagius",
         "showdownDef": "Mismagius",
         "smogon": "mismagius"
-    },
-    "imgs": {
-        "home": "0429",
-        "menu": "0429"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "mismagius"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0429",
+        "menu": "0429"
+    }
 }

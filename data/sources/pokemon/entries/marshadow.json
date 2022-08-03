@@ -83,20 +83,20 @@
         "veekunDb": "marshadow",
         "serebii": "marshadow",
         "bulbapedia": "Marshadow",
-        "homeSprite": "marshadow",
-        "miniSprite": "marshadow",
+        "homeSprite": "0802",
+        "miniSprite": "0802",
         "showdown": "marshadow",
         "showdownDef": "Marshadow",
         "smogon": "marshadow"
-    },
-    "imgs": {
-        "home": "0802",
-        "menu": "0802"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "marshadow"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0802",
+        "menu": "0802"
+    }
 }

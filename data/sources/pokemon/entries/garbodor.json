@@ -90,15 +90,11 @@
         "veekunDb": "garbodor",
         "serebii": "garbodor",
         "bulbapedia": "Garbodor",
-        "homeSprite": "garbodor",
-        "miniSprite": "garbodor",
+        "homeSprite": "0569",
+        "miniSprite": "0569",
         "showdown": "garbodor",
         "showdownDef": "Garbodor",
         "smogon": "garbodor"
-    },
-    "imgs": {
-        "home": "0569",
-        "menu": "0569"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -106,5 +102,9 @@
         "garbodor",
         "garbodor-gmax"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0569",
+        "menu": "0569"
+    }
 }

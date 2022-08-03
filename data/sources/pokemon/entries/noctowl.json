@@ -101,20 +101,20 @@
         "veekunDb": "noctowl",
         "serebii": "noctowl",
         "bulbapedia": "Noctowl",
-        "homeSprite": "noctowl",
-        "miniSprite": "noctowl",
+        "homeSprite": "0164",
+        "miniSprite": "0164",
         "showdown": "noctowl",
         "showdownDef": "Noctowl",
         "smogon": "noctowl"
-    },
-    "imgs": {
-        "home": "0164",
-        "menu": "0164"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "noctowl"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0164",
+        "menu": "0164"
+    }
 }

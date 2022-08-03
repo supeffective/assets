@@ -95,20 +95,20 @@
         "veekunDb": "purugly",
         "serebii": "purugly",
         "bulbapedia": "Purugly",
-        "homeSprite": "purugly",
-        "miniSprite": "purugly",
+        "homeSprite": "0432",
+        "miniSprite": "0432",
         "showdown": "purugly",
         "showdownDef": "Purugly",
         "smogon": "purugly"
-    },
-    "imgs": {
-        "home": "0432",
-        "menu": "0432"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "purugly"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0432",
+        "menu": "0432"
+    }
 }

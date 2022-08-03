@@ -97,20 +97,20 @@
         "veekunDb": "mantyke",
         "serebii": "mantyke",
         "bulbapedia": "Mantyke",
-        "homeSprite": "mantyke",
-        "miniSprite": "mantyke",
+        "homeSprite": "0458",
+        "miniSprite": "0458",
         "showdown": "mantyke",
         "showdownDef": "Mantyke",
         "smogon": "mantyke"
-    },
-    "imgs": {
-        "home": "0458",
-        "menu": "0458"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "mantyke"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0458",
+        "menu": "0458"
+    }
 }

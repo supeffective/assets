@@ -88,15 +88,11 @@
         "veekunDb": "deerling",
         "serebii": "deerling",
         "bulbapedia": "Deerling",
-        "homeSprite": "deerling",
-        "miniSprite": "deerling",
+        "homeSprite": "0585",
+        "miniSprite": "0585",
         "showdown": "deerling",
         "showdownDef": "Deerling",
         "smogon": "deerling"
-    },
-    "imgs": {
-        "home": "0585",
-        "menu": "0585"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -106,5 +102,9 @@
         "deerling-autumn",
         "deerling-winter"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0585",
+        "menu": "0585"
+    }
 }

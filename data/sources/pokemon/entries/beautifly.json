@@ -99,15 +99,11 @@
         "veekunDb": "beautifly",
         "serebii": "beautifly",
         "bulbapedia": "Beautifly",
-        "homeSprite": "beautifly",
-        "miniSprite": "beautifly",
+        "homeSprite": "0267",
+        "miniSprite": "0267",
         "showdown": "beautifly",
         "showdownDef": "Beautifly",
         "smogon": "beautifly"
-    },
-    "imgs": {
-        "home": "0267",
-        "menu": "0267"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -115,5 +111,9 @@
         "beautifly",
         "beautifly-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0267",
+        "menu": "0267"
+    }
 }

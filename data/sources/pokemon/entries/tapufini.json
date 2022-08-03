@@ -86,20 +86,20 @@
         "veekunDb": "tapufini",
         "serebii": "tapufini",
         "bulbapedia": "Tapu Fini",
-        "homeSprite": "tapufini",
-        "miniSprite": "tapufini",
+        "homeSprite": "0788",
+        "miniSprite": "0788",
         "showdown": "tapufini",
         "showdownDef": "Tapufini",
         "smogon": "tapufini"
-    },
-    "imgs": {
-        "home": "0788",
-        "menu": "0788"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "tapufini"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0788",
+        "menu": "0788"
+    }
 }

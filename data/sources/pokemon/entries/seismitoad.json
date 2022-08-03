@@ -90,20 +90,20 @@
         "veekunDb": "seismitoad",
         "serebii": "seismitoad",
         "bulbapedia": "Seismitoad",
-        "homeSprite": "seismitoad",
-        "miniSprite": "seismitoad",
+        "homeSprite": "0537",
+        "miniSprite": "0537",
         "showdown": "seismitoad",
         "showdownDef": "Seismitoad",
         "smogon": "seismitoad"
-    },
-    "imgs": {
-        "home": "0537",
-        "menu": "0537"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "seismitoad"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0537",
+        "menu": "0537"
+    }
 }

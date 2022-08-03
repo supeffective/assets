@@ -80,20 +80,20 @@
         "veekunDb": "drizzile",
         "serebii": "drizzile",
         "bulbapedia": "Drizzile",
-        "homeSprite": "drizzile",
-        "miniSprite": "drizzile",
+        "homeSprite": "0817",
+        "miniSprite": "0817",
         "showdown": "drizzile",
         "showdownDef": "Drizzile",
         "smogon": "drizzile"
-    },
-    "imgs": {
-        "home": "0817",
-        "menu": "0817"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "drizzile"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0817",
+        "menu": "0817"
+    }
 }

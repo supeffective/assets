@@ -86,20 +86,20 @@
         "veekunDb": "kommoo",
         "serebii": "kommoo",
         "bulbapedia": "Kommo-o",
-        "homeSprite": "kommoo",
-        "miniSprite": "kommoo",
+        "homeSprite": "0784",
+        "miniSprite": "0784",
         "showdown": "kommoo",
         "showdownDef": "Kommoo",
         "smogon": "kommoo"
-    },
-    "imgs": {
-        "home": "0784",
-        "menu": "0784"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "kommoo"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0784",
+        "menu": "0784"
+    }
 }

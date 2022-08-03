@@ -90,20 +90,20 @@
         "veekunDb": "tirtouga",
         "serebii": "tirtouga",
         "bulbapedia": "Tirtouga",
-        "homeSprite": "tirtouga",
-        "miniSprite": "tirtouga",
+        "homeSprite": "0564",
+        "miniSprite": "0564",
         "showdown": "tirtouga",
         "showdownDef": "Tirtouga",
         "smogon": "tirtouga"
-    },
-    "imgs": {
-        "home": "0564",
-        "menu": "0564"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "tirtouga"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0564",
+        "menu": "0564"
+    }
 }

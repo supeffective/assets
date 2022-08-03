@@ -90,20 +90,20 @@
         "veekunDb": "litwick",
         "serebii": "litwick",
         "bulbapedia": "Litwick",
-        "homeSprite": "litwick",
-        "miniSprite": "litwick",
+        "homeSprite": "0607",
+        "miniSprite": "0607",
         "showdown": "litwick",
         "showdownDef": "Litwick",
         "smogon": "litwick"
-    },
-    "imgs": {
-        "home": "0607",
-        "menu": "0607"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "litwick"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0607",
+        "menu": "0607"
+    }
 }

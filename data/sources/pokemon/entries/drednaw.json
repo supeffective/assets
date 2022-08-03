@@ -80,15 +80,11 @@
         "veekunDb": "drednaw",
         "serebii": "drednaw",
         "bulbapedia": "Drednaw",
-        "homeSprite": "drednaw",
-        "miniSprite": "drednaw",
+        "homeSprite": "0834",
+        "miniSprite": "0834",
         "showdown": "drednaw",
         "showdownDef": "Drednaw",
         "smogon": "drednaw"
-    },
-    "imgs": {
-        "home": "0834",
-        "menu": "0834"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -96,5 +92,9 @@
         "drednaw",
         "drednaw-gmax"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0834",
+        "menu": "0834"
+    }
 }

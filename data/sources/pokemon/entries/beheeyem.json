@@ -90,20 +90,20 @@
         "veekunDb": "beheeyem",
         "serebii": "beheeyem",
         "bulbapedia": "Beheeyem",
-        "homeSprite": "beheeyem",
-        "miniSprite": "beheeyem",
+        "homeSprite": "0606",
+        "miniSprite": "0606",
         "showdown": "beheeyem",
         "showdownDef": "Beheeyem",
         "smogon": "beheeyem"
-    },
-    "imgs": {
-        "home": "0606",
-        "menu": "0606"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "beheeyem"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0606",
+        "menu": "0606"
+    }
 }

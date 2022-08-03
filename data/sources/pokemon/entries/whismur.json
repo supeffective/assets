@@ -99,20 +99,20 @@
         "veekunDb": "whismur",
         "serebii": "whismur",
         "bulbapedia": "Whismur",
-        "homeSprite": "whismur",
-        "miniSprite": "whismur",
+        "homeSprite": "0293",
+        "miniSprite": "0293",
         "showdown": "whismur",
         "showdownDef": "Whismur",
         "smogon": "whismur"
-    },
-    "imgs": {
-        "home": "0293",
-        "menu": "0293"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "whismur"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0293",
+        "menu": "0293"
+    }
 }

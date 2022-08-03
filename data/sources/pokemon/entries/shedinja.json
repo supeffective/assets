@@ -99,20 +99,20 @@
         "veekunDb": "shedinja",
         "serebii": "shedinja",
         "bulbapedia": "Shedinja",
-        "homeSprite": "shedinja",
-        "miniSprite": "shedinja",
+        "homeSprite": "0292",
+        "miniSprite": "0292",
         "showdown": "shedinja",
         "showdownDef": "Shedinja",
         "smogon": "shedinja"
-    },
-    "imgs": {
-        "home": "0292",
-        "menu": "0292"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "shedinja"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0292",
+        "menu": "0292"
+    }
 }

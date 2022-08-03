@@ -95,20 +95,20 @@
         "veekunDb": "mothim",
         "serebii": "mothim",
         "bulbapedia": "Mothim",
-        "homeSprite": "mothim",
-        "miniSprite": "mothim",
+        "homeSprite": "0414",
+        "miniSprite": "0414",
         "showdown": "mothim",
         "showdownDef": "Mothim",
         "smogon": "mothim"
-    },
-    "imgs": {
-        "home": "0414",
-        "menu": "0414"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "mothim"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0414",
+        "menu": "0414"
+    }
 }

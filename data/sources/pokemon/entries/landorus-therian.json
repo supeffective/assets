@@ -90,20 +90,20 @@
         "veekunDb": "landorus-therian",
         "serebii": "landorus",
         "bulbapedia": "Landorus",
-        "homeSprite": "landorus-therian",
-        "miniSprite": "landorus-therian",
+        "homeSprite": "0645-therian",
+        "miniSprite": "0645-therian",
         "showdown": "landorustherian",
         "showdownDef": "Landorus-Therian",
         "smogon": "landorus-therian"
-    },
-    "imgs": {
-        "home": "0645-therian",
-        "menu": "0645-therian"
     },
     "baseSpecies": "landorus",
     "baseForms": [
         "landorus"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0645-therian",
+        "menu": "0645-therian"
+    }
 }

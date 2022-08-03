@@ -107,20 +107,20 @@
         "veekunDb": "magmar",
         "serebii": "magmar",
         "bulbapedia": "Magmar",
-        "homeSprite": "magmar",
-        "miniSprite": "magmar",
+        "homeSprite": "0126",
+        "miniSprite": "0126",
         "showdown": "magmar",
         "showdownDef": "Magmar",
         "smogon": "magmar"
-    },
-    "imgs": {
-        "home": "0126",
-        "menu": "0126"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "magmar"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0126",
+        "menu": "0126"
+    }
 }

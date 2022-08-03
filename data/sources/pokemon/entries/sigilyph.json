@@ -90,20 +90,20 @@
         "veekunDb": "sigilyph",
         "serebii": "sigilyph",
         "bulbapedia": "Sigilyph",
-        "homeSprite": "sigilyph",
-        "miniSprite": "sigilyph",
+        "homeSprite": "0561",
+        "miniSprite": "0561",
         "showdown": "sigilyph",
         "showdownDef": "Sigilyph",
         "smogon": "sigilyph"
-    },
-    "imgs": {
-        "home": "0561",
-        "menu": "0561"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "sigilyph"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0561",
+        "menu": "0561"
+    }
 }

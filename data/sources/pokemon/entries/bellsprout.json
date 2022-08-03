@@ -103,20 +103,20 @@
         "veekunDb": "bellsprout",
         "serebii": "bellsprout",
         "bulbapedia": "Bellsprout",
-        "homeSprite": "bellsprout",
-        "miniSprite": "bellsprout",
+        "homeSprite": "0069",
+        "miniSprite": "0069",
         "showdown": "bellsprout",
         "showdownDef": "Bellsprout",
         "smogon": "bellsprout"
-    },
-    "imgs": {
-        "home": "0069",
-        "menu": "0069"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "bellsprout"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0069",
+        "menu": "0069"
+    }
 }

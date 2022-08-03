@@ -88,20 +88,20 @@
         "veekunDb": "larvesta",
         "serebii": "larvesta",
         "bulbapedia": "Larvesta",
-        "homeSprite": "larvesta",
-        "miniSprite": "larvesta",
+        "homeSprite": "0636",
+        "miniSprite": "0636",
         "showdown": "larvesta",
         "showdownDef": "Larvesta",
         "smogon": "larvesta"
-    },
-    "imgs": {
-        "home": "0636",
-        "menu": "0636"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "larvesta"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0636",
+        "menu": "0636"
+    }
 }

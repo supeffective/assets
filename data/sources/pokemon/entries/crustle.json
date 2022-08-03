@@ -90,20 +90,20 @@
         "veekunDb": "crustle",
         "serebii": "crustle",
         "bulbapedia": "Crustle",
-        "homeSprite": "crustle",
-        "miniSprite": "crustle",
+        "homeSprite": "0558",
+        "miniSprite": "0558",
         "showdown": "crustle",
         "showdownDef": "Crustle",
         "smogon": "crustle"
-    },
-    "imgs": {
-        "home": "0558",
-        "menu": "0558"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "crustle"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0558",
+        "menu": "0558"
+    }
 }

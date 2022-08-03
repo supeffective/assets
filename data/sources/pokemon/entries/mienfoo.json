@@ -90,20 +90,20 @@
         "veekunDb": "mienfoo",
         "serebii": "mienfoo",
         "bulbapedia": "Mienfoo",
-        "homeSprite": "mienfoo",
-        "miniSprite": "mienfoo",
+        "homeSprite": "0619",
+        "miniSprite": "0619",
         "showdown": "mienfoo",
         "showdownDef": "Mienfoo",
         "smogon": "mienfoo"
-    },
-    "imgs": {
-        "home": "0619",
-        "menu": "0619"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "mienfoo"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0619",
+        "menu": "0619"
+    }
 }

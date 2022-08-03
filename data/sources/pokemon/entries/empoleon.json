@@ -95,20 +95,20 @@
         "veekunDb": "empoleon",
         "serebii": "empoleon",
         "bulbapedia": "Empoleon",
-        "homeSprite": "empoleon",
-        "miniSprite": "empoleon",
+        "homeSprite": "0395",
+        "miniSprite": "0395",
         "showdown": "empoleon",
         "showdownDef": "Empoleon",
         "smogon": "empoleon"
-    },
-    "imgs": {
-        "home": "0395",
-        "menu": "0395"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "empoleon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0395",
+        "menu": "0395"
+    }
 }

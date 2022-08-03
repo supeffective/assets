@@ -88,20 +88,20 @@
         "veekunDb": "simisear",
         "serebii": "simisear",
         "bulbapedia": "Simisear",
-        "homeSprite": "simisear",
-        "miniSprite": "simisear",
+        "homeSprite": "0514",
+        "miniSprite": "0514",
         "showdown": "simisear",
         "showdownDef": "Simisear",
         "smogon": "simisear"
-    },
-    "imgs": {
-        "home": "0514",
-        "menu": "0514"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "simisear"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0514",
+        "menu": "0514"
+    }
 }

@@ -99,20 +99,20 @@
         "veekunDb": "lunatone",
         "serebii": "lunatone",
         "bulbapedia": "Lunatone",
-        "homeSprite": "lunatone",
-        "miniSprite": "lunatone",
+        "homeSprite": "0337",
+        "miniSprite": "0337",
         "showdown": "lunatone",
         "showdownDef": "Lunatone",
         "smogon": "lunatone"
-    },
-    "imgs": {
-        "home": "0337",
-        "menu": "0337"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "lunatone"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0337",
+        "menu": "0337"
+    }
 }

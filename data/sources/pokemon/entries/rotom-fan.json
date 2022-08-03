@@ -95,20 +95,20 @@
         "veekunDb": "rotom-fan",
         "serebii": "rotom",
         "bulbapedia": "Rotom",
-        "homeSprite": "rotom-fan",
-        "miniSprite": "rotom-fan",
+        "homeSprite": "0479-fan",
+        "miniSprite": "0479-fan",
         "showdown": "rotomfan",
         "showdownDef": "Rotom-Fan",
         "smogon": "rotom-fan"
-    },
-    "imgs": {
-        "home": "0479-fan",
-        "menu": "0479-fan"
     },
     "baseSpecies": "rotom",
     "baseForms": [
         "rotom"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0479-fan",
+        "menu": "0479-fan"
+    }
 }

@@ -95,20 +95,20 @@
         "veekunDb": "carnivine",
         "serebii": "carnivine",
         "bulbapedia": "Carnivine",
-        "homeSprite": "carnivine",
-        "miniSprite": "carnivine",
+        "homeSprite": "0455",
+        "miniSprite": "0455",
         "showdown": "carnivine",
         "showdownDef": "Carnivine",
         "smogon": "carnivine"
-    },
-    "imgs": {
-        "home": "0455",
-        "menu": "0455"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "carnivine"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0455",
+        "menu": "0455"
+    }
 }

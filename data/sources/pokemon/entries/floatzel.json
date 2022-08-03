@@ -95,15 +95,11 @@
         "veekunDb": "floatzel",
         "serebii": "floatzel",
         "bulbapedia": "Floatzel",
-        "homeSprite": "floatzel",
-        "miniSprite": "floatzel",
+        "homeSprite": "0419",
+        "miniSprite": "0419",
         "showdown": "floatzel",
         "showdownDef": "Floatzel",
         "smogon": "floatzel"
-    },
-    "imgs": {
-        "home": "0419",
-        "menu": "0419"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -111,5 +107,9 @@
         "floatzel",
         "floatzel-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0419",
+        "menu": "0419"
+    }
 }

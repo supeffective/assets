@@ -90,18 +90,18 @@
         "veekunDb": "vulpix-alola",
         "serebii": "vulpix",
         "bulbapedia": "Vulpix",
-        "homeSprite": "vulpix-alola",
-        "miniSprite": "vulpix-alola",
+        "homeSprite": "0037-alola",
+        "miniSprite": "0037-alola",
         "showdown": "vulpixalola",
         "showdownDef": "Vulpix-Alola",
         "smogon": "vulpix-alola"
     },
-    "imgs": {
-        "home": "0037-alola",
-        "menu": "0037-alola"
-    },
     "baseSpecies": "vulpix",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0037-alola",
+        "menu": "0037-alola"
+    }
 }

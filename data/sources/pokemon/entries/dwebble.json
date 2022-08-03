@@ -90,20 +90,20 @@
         "veekunDb": "dwebble",
         "serebii": "dwebble",
         "bulbapedia": "Dwebble",
-        "homeSprite": "dwebble",
-        "miniSprite": "dwebble",
+        "homeSprite": "0557",
+        "miniSprite": "0557",
         "showdown": "dwebble",
         "showdownDef": "Dwebble",
         "smogon": "dwebble"
-    },
-    "imgs": {
-        "home": "0557",
-        "menu": "0557"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "dwebble"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0557",
+        "menu": "0557"
+    }
 }

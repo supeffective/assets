@@ -101,20 +101,20 @@
         "veekunDb": "marill",
         "serebii": "marill",
         "bulbapedia": "Marill",
-        "homeSprite": "marill",
-        "miniSprite": "marill",
+        "homeSprite": "0183",
+        "miniSprite": "0183",
         "showdown": "marill",
         "showdownDef": "Marill",
         "smogon": "marill"
-    },
-    "imgs": {
-        "home": "0183",
-        "menu": "0183"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "marill"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0183",
+        "menu": "0183"
+    }
 }

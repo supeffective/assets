@@ -103,15 +103,11 @@
         "veekunDb": "raticate",
         "serebii": "raticate",
         "bulbapedia": "Raticate",
-        "homeSprite": "raticate",
-        "miniSprite": "raticate",
+        "homeSprite": "0020",
+        "miniSprite": "0020",
         "showdown": "raticate",
         "showdownDef": "Raticate",
         "smogon": "raticate"
-    },
-    "imgs": {
-        "home": "0020",
-        "menu": "0020"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -120,5 +116,9 @@
         "raticate-f",
         "raticate-alola"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0020",
+        "menu": "0020"
+    }
 }

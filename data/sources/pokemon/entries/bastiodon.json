@@ -95,20 +95,20 @@
         "veekunDb": "bastiodon",
         "serebii": "bastiodon",
         "bulbapedia": "Bastiodon",
-        "homeSprite": "bastiodon",
-        "miniSprite": "bastiodon",
+        "homeSprite": "0411",
+        "miniSprite": "0411",
         "showdown": "bastiodon",
         "showdownDef": "Bastiodon",
         "smogon": "bastiodon"
-    },
-    "imgs": {
-        "home": "0411",
-        "menu": "0411"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "bastiodon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0411",
+        "menu": "0411"
+    }
 }

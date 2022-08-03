@@ -97,20 +97,20 @@
         "veekunDb": "vigoroth",
         "serebii": "vigoroth",
         "bulbapedia": "Vigoroth",
-        "homeSprite": "vigoroth",
-        "miniSprite": "vigoroth",
+        "homeSprite": "0288",
+        "miniSprite": "0288",
         "showdown": "vigoroth",
         "showdownDef": "Vigoroth",
         "smogon": "vigoroth"
-    },
-    "imgs": {
-        "home": "0288",
-        "menu": "0288"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "vigoroth"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0288",
+        "menu": "0288"
+    }
 }

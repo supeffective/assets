@@ -90,20 +90,20 @@
         "veekunDb": "scraggy",
         "serebii": "scraggy",
         "bulbapedia": "Scraggy",
-        "homeSprite": "scraggy",
-        "miniSprite": "scraggy",
+        "homeSprite": "0559",
+        "miniSprite": "0559",
         "showdown": "scraggy",
         "showdownDef": "Scraggy",
         "smogon": "scraggy"
-    },
-    "imgs": {
-        "home": "0559",
-        "menu": "0559"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "scraggy"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0559",
+        "menu": "0559"
+    }
 }

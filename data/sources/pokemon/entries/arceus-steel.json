@@ -92,20 +92,20 @@
         "veekunDb": "arceus-steel",
         "serebii": "arceus",
         "bulbapedia": "Arceus",
-        "homeSprite": "arceus-steel",
-        "miniSprite": "arceus-steel",
+        "homeSprite": "0493-steel",
+        "miniSprite": "0493-steel",
         "showdown": "arceussteel",
         "showdownDef": "Arceus-Steel",
         "smogon": "arceus-steel"
-    },
-    "imgs": {
-        "home": "0493-steel",
-        "menu": "0493-steel"
     },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0493-steel",
+        "menu": "0493-steel"
+    }
 }

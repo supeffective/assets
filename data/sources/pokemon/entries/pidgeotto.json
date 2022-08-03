@@ -103,20 +103,20 @@
         "veekunDb": "pidgeotto",
         "serebii": "pidgeotto",
         "bulbapedia": "Pidgeotto",
-        "homeSprite": "pidgeotto",
-        "miniSprite": "pidgeotto",
+        "homeSprite": "0017",
+        "miniSprite": "0017",
         "showdown": "pidgeotto",
         "showdownDef": "Pidgeotto",
         "smogon": "pidgeotto"
-    },
-    "imgs": {
-        "home": "0017",
-        "menu": "0017"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "pidgeotto"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0017",
+        "menu": "0017"
+    }
 }

@@ -80,20 +80,20 @@
         "veekunDb": "gossifleur",
         "serebii": "gossifleur",
         "bulbapedia": "Gossifleur",
-        "homeSprite": "gossifleur",
-        "miniSprite": "gossifleur",
+        "homeSprite": "0829",
+        "miniSprite": "0829",
         "showdown": "gossifleur",
         "showdownDef": "Gossifleur",
         "smogon": "gossifleur"
-    },
-    "imgs": {
-        "home": "0829",
-        "menu": "0829"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "gossifleur"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0829",
+        "menu": "0829"
+    }
 }

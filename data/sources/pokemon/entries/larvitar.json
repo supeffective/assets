@@ -101,20 +101,20 @@
         "veekunDb": "larvitar",
         "serebii": "larvitar",
         "bulbapedia": "Larvitar",
-        "homeSprite": "larvitar",
-        "miniSprite": "larvitar",
+        "homeSprite": "0246",
+        "miniSprite": "0246",
         "showdown": "larvitar",
         "showdownDef": "Larvitar",
         "smogon": "larvitar"
-    },
-    "imgs": {
-        "home": "0246",
-        "menu": "0246"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "larvitar"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0246",
+        "menu": "0246"
+    }
 }

@@ -105,20 +105,20 @@
         "veekunDb": "charmeleon",
         "serebii": "charmeleon",
         "bulbapedia": "Charmeleon",
-        "homeSprite": "charmeleon",
-        "miniSprite": "charmeleon",
+        "homeSprite": "0005",
+        "miniSprite": "0005",
         "showdown": "charmeleon",
         "showdownDef": "Charmeleon",
         "smogon": "charmeleon"
-    },
-    "imgs": {
-        "home": "0005",
-        "menu": "0005"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "charmeleon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0005",
+        "menu": "0005"
+    }
 }

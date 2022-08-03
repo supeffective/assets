@@ -86,20 +86,20 @@
         "veekunDb": "tapubulu",
         "serebii": "tapubulu",
         "bulbapedia": "Tapu Bulu",
-        "homeSprite": "tapubulu",
-        "miniSprite": "tapubulu",
+        "homeSprite": "0787",
+        "miniSprite": "0787",
         "showdown": "tapubulu",
         "showdownDef": "Tapubulu",
         "smogon": "tapubulu"
-    },
-    "imgs": {
-        "home": "0787",
-        "menu": "0787"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "tapubulu"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0787",
+        "menu": "0787"
+    }
 }

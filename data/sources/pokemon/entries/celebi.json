@@ -97,20 +97,20 @@
         "veekunDb": "celebi",
         "serebii": "celebi",
         "bulbapedia": "Celebi",
-        "homeSprite": "celebi",
-        "miniSprite": "celebi",
+        "homeSprite": "0251",
+        "miniSprite": "0251",
         "showdown": "celebi",
         "showdownDef": "Celebi",
         "smogon": "celebi"
-    },
-    "imgs": {
-        "home": "0251",
-        "menu": "0251"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "celebi"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0251",
+        "menu": "0251"
+    }
 }

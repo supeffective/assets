@@ -95,15 +95,11 @@
         "veekunDb": "starly",
         "serebii": "starly",
         "bulbapedia": "Starly",
-        "homeSprite": "starly",
-        "miniSprite": "starly",
+        "homeSprite": "0396",
+        "miniSprite": "0396",
         "showdown": "starly",
         "showdownDef": "Starly",
         "smogon": "starly"
-    },
-    "imgs": {
-        "home": "0396",
-        "menu": "0396"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -111,5 +107,9 @@
         "starly",
         "starly-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0396",
+        "menu": "0396"
+    }
 }

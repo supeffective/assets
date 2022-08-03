@@ -87,20 +87,20 @@
         "veekunDb": "helioptile",
         "serebii": "helioptile",
         "bulbapedia": "Helioptile",
-        "homeSprite": "helioptile",
-        "miniSprite": "helioptile",
+        "homeSprite": "0694",
+        "miniSprite": "0694",
         "showdown": "helioptile",
         "showdownDef": "Helioptile",
         "smogon": "helioptile"
-    },
-    "imgs": {
-        "home": "0694",
-        "menu": "0694"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "helioptile"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0694",
+        "menu": "0694"
+    }
 }

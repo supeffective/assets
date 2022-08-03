@@ -99,20 +99,20 @@
         "veekunDb": "metang",
         "serebii": "metang",
         "bulbapedia": "Metang",
-        "homeSprite": "metang",
-        "miniSprite": "metang",
+        "homeSprite": "0375",
+        "miniSprite": "0375",
         "showdown": "metang",
         "showdownDef": "Metang",
         "smogon": "metang"
-    },
-    "imgs": {
-        "home": "0375",
-        "menu": "0375"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "metang"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0375",
+        "menu": "0375"
+    }
 }

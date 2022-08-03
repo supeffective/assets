@@ -90,20 +90,20 @@
         "veekunDb": "bouffalant",
         "serebii": "bouffalant",
         "bulbapedia": "Bouffalant",
-        "homeSprite": "bouffalant",
-        "miniSprite": "bouffalant",
+        "homeSprite": "0626",
+        "miniSprite": "0626",
         "showdown": "bouffalant",
         "showdownDef": "Bouffalant",
         "smogon": "bouffalant"
-    },
-    "imgs": {
-        "home": "0626",
-        "menu": "0626"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "bouffalant"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0626",
+        "menu": "0626"
+    }
 }

@@ -79,20 +79,20 @@
         "veekunDb": "beedrill-mega",
         "serebii": "beedrill",
         "bulbapedia": "Beedrill",
-        "homeSprite": "beedrill-mega",
-        "miniSprite": "beedrill-mega",
+        "homeSprite": "0015-mega",
+        "miniSprite": "0015-mega",
         "showdown": "beedrillmega",
         "showdownDef": "Beedrill-Mega",
         "smogon": "beedrill-mega"
-    },
-    "imgs": {
-        "home": "0015-mega",
-        "menu": "0015-mega"
     },
     "baseSpecies": "beedrill",
     "baseForms": [
         "beedrill"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0015-mega",
+        "menu": "0015-mega"
+    }
 }

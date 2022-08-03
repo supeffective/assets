@@ -97,20 +97,20 @@
         "veekunDb": "vespiquen",
         "serebii": "vespiquen",
         "bulbapedia": "Vespiquen",
-        "homeSprite": "vespiquen",
-        "miniSprite": "vespiquen",
+        "homeSprite": "0416",
+        "miniSprite": "0416",
         "showdown": "vespiquen",
         "showdownDef": "Vespiquen",
         "smogon": "vespiquen"
-    },
-    "imgs": {
-        "home": "0416",
-        "menu": "0416"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "vespiquen"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0416",
+        "menu": "0416"
+    }
 }

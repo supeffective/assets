@@ -90,20 +90,20 @@
         "veekunDb": "zekrom",
         "serebii": "zekrom",
         "bulbapedia": "Zekrom",
-        "homeSprite": "zekrom",
-        "miniSprite": "zekrom",
+        "homeSprite": "0644",
+        "miniSprite": "0644",
         "showdown": "zekrom",
         "showdownDef": "Zekrom",
         "smogon": "zekrom"
-    },
-    "imgs": {
-        "home": "0644",
-        "menu": "0644"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "zekrom"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0644",
+        "menu": "0644"
+    }
 }

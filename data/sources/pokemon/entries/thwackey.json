@@ -80,20 +80,20 @@
         "veekunDb": "thwackey",
         "serebii": "thwackey",
         "bulbapedia": "Thwackey",
-        "homeSprite": "thwackey",
-        "miniSprite": "thwackey",
+        "homeSprite": "0811",
+        "miniSprite": "0811",
         "showdown": "thwackey",
         "showdownDef": "Thwackey",
         "smogon": "thwackey"
-    },
-    "imgs": {
-        "home": "0811",
-        "menu": "0811"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "thwackey"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0811",
+        "menu": "0811"
+    }
 }

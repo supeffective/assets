@@ -88,20 +88,20 @@
         "veekunDb": "ducklett",
         "serebii": "ducklett",
         "bulbapedia": "Ducklett",
-        "homeSprite": "ducklett",
-        "miniSprite": "ducklett",
+        "homeSprite": "0580",
+        "miniSprite": "0580",
         "showdown": "ducklett",
         "showdownDef": "Ducklett",
         "smogon": "ducklett"
-    },
-    "imgs": {
-        "home": "0580",
-        "menu": "0580"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "ducklett"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0580",
+        "menu": "0580"
+    }
 }

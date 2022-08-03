@@ -90,20 +90,20 @@
         "veekunDb": "shelmet",
         "serebii": "shelmet",
         "bulbapedia": "Shelmet",
-        "homeSprite": "shelmet",
-        "miniSprite": "shelmet",
+        "homeSprite": "0616",
+        "miniSprite": "0616",
         "showdown": "shelmet",
         "showdownDef": "Shelmet",
         "smogon": "shelmet"
-    },
-    "imgs": {
-        "home": "0616",
-        "menu": "0616"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "shelmet"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0616",
+        "menu": "0616"
+    }
 }

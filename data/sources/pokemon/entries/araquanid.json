@@ -86,20 +86,20 @@
         "veekunDb": "araquanid",
         "serebii": "araquanid",
         "bulbapedia": "Araquanid",
-        "homeSprite": "araquanid",
-        "miniSprite": "araquanid",
+        "homeSprite": "0752",
+        "miniSprite": "0752",
         "showdown": "araquanid",
         "showdownDef": "Araquanid",
         "smogon": "araquanid"
-    },
-    "imgs": {
-        "home": "0752",
-        "menu": "0752"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "araquanid"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0752",
+        "menu": "0752"
+    }
 }

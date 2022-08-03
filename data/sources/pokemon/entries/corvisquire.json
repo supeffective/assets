@@ -80,20 +80,20 @@
         "veekunDb": "corvisquire",
         "serebii": "corvisquire",
         "bulbapedia": "Corvisquire",
-        "homeSprite": "corvisquire",
-        "miniSprite": "corvisquire",
+        "homeSprite": "0822",
+        "miniSprite": "0822",
         "showdown": "corvisquire",
         "showdownDef": "Corvisquire",
         "smogon": "corvisquire"
-    },
-    "imgs": {
-        "home": "0822",
-        "menu": "0822"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "corvisquire"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0822",
+        "menu": "0822"
+    }
 }

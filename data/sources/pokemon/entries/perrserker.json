@@ -82,20 +82,20 @@
         "veekunDb": "perrserker",
         "serebii": "perrserker",
         "bulbapedia": "Perrserker",
-        "homeSprite": "perrserker",
-        "miniSprite": "perrserker",
+        "homeSprite": "0863",
+        "miniSprite": "0863",
         "showdown": "perrserker",
         "showdownDef": "Perrserker",
         "smogon": "perrserker"
-    },
-    "imgs": {
-        "home": "0863",
-        "menu": "0863"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "perrserker"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0863",
+        "menu": "0863"
+    }
 }

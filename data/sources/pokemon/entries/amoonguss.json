@@ -90,20 +90,20 @@
         "veekunDb": "amoonguss",
         "serebii": "amoonguss",
         "bulbapedia": "Amoonguss",
-        "homeSprite": "amoonguss",
-        "miniSprite": "amoonguss",
+        "homeSprite": "0591",
+        "miniSprite": "0591",
         "showdown": "amoonguss",
         "showdownDef": "Amoonguss",
         "smogon": "amoonguss"
-    },
-    "imgs": {
-        "home": "0591",
-        "menu": "0591"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "amoonguss"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0591",
+        "menu": "0591"
+    }
 }

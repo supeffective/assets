@@ -108,15 +108,11 @@
         "veekunDb": "venusaur",
         "serebii": "venusaur",
         "bulbapedia": "Venusaur",
-        "homeSprite": "venusaur",
-        "miniSprite": "venusaur",
+        "homeSprite": "0003",
+        "miniSprite": "0003",
         "showdown": "venusaur",
         "showdownDef": "Venusaur",
         "smogon": "venusaur"
-    },
-    "imgs": {
-        "home": "0003",
-        "menu": "0003"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -126,5 +122,9 @@
         "venusaur-gmax",
         "venusaur-mega"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0003",
+        "menu": "0003"
+    }
 }

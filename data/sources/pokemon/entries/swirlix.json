@@ -87,20 +87,20 @@
         "veekunDb": "swirlix",
         "serebii": "swirlix",
         "bulbapedia": "Swirlix",
-        "homeSprite": "swirlix",
-        "miniSprite": "swirlix",
+        "homeSprite": "0684",
+        "miniSprite": "0684",
         "showdown": "swirlix",
         "showdownDef": "Swirlix",
         "smogon": "swirlix"
-    },
-    "imgs": {
-        "home": "0684",
-        "menu": "0684"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "swirlix"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0684",
+        "menu": "0684"
+    }
 }

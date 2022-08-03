@@ -101,20 +101,20 @@
         "veekunDb": "suicune",
         "serebii": "suicune",
         "bulbapedia": "Suicune",
-        "homeSprite": "suicune",
-        "miniSprite": "suicune",
+        "homeSprite": "0245",
+        "miniSprite": "0245",
         "showdown": "suicune",
         "showdownDef": "Suicune",
         "smogon": "suicune"
-    },
-    "imgs": {
-        "home": "0245",
-        "menu": "0245"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "suicune"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0245",
+        "menu": "0245"
+    }
 }

@@ -82,18 +82,18 @@
         "veekunDb": "slowbro-galar",
         "serebii": "slowbro",
         "bulbapedia": "Slowbro",
-        "homeSprite": "slowbro-galar",
-        "miniSprite": "slowbro-galar",
+        "homeSprite": "0080-galar",
+        "miniSprite": "0080-galar",
         "showdown": "slowbrogalar",
         "showdownDef": "Slowbro-Galar",
         "smogon": "slowbro-galar"
     },
-    "imgs": {
-        "home": "0080-galar",
-        "menu": "0080-galar"
-    },
     "baseSpecies": "slowbro",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0080-galar",
+        "menu": "0080-galar"
+    }
 }

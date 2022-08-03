@@ -80,15 +80,11 @@
         "veekunDb": "copperajah",
         "serebii": "copperajah",
         "bulbapedia": "Copperajah",
-        "homeSprite": "copperajah",
-        "miniSprite": "copperajah",
+        "homeSprite": "0879",
+        "miniSprite": "0879",
         "showdown": "copperajah",
         "showdownDef": "Copperajah",
         "smogon": "copperajah"
-    },
-    "imgs": {
-        "home": "0879",
-        "menu": "0879"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -96,5 +92,9 @@
         "copperajah",
         "copperajah-gmax"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0879",
+        "menu": "0879"
+    }
 }

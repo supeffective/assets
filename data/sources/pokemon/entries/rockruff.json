@@ -86,15 +86,11 @@
         "veekunDb": "rockruff",
         "serebii": "rockruff",
         "bulbapedia": "Rockruff",
-        "homeSprite": "rockruff",
-        "miniSprite": "rockruff",
+        "homeSprite": "0744",
+        "miniSprite": "0744",
         "showdown": "rockruff",
         "showdownDef": "Rockruff",
         "smogon": "rockruff"
-    },
-    "imgs": {
-        "home": "0744",
-        "menu": "0744"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -102,5 +98,9 @@
         "rockruff",
         "rockruff--own-tempo"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0744",
+        "menu": "0744"
+    }
 }

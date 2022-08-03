@@ -84,20 +84,20 @@
         "veekunDb": "kartana",
         "serebii": "kartana",
         "bulbapedia": "Kartana",
-        "homeSprite": "kartana",
-        "miniSprite": "kartana",
+        "homeSprite": "0798",
+        "miniSprite": "0798",
         "showdown": "kartana",
         "showdownDef": "Kartana",
         "smogon": "kartana"
-    },
-    "imgs": {
-        "home": "0798",
-        "menu": "0798"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "kartana"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0798",
+        "menu": "0798"
+    }
 }

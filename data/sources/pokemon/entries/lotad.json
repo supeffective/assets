@@ -99,20 +99,20 @@
         "veekunDb": "lotad",
         "serebii": "lotad",
         "bulbapedia": "Lotad",
-        "homeSprite": "lotad",
-        "miniSprite": "lotad",
+        "homeSprite": "0270",
+        "miniSprite": "0270",
         "showdown": "lotad",
         "showdownDef": "Lotad",
         "smogon": "lotad"
-    },
-    "imgs": {
-        "home": "0270",
-        "menu": "0270"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "lotad"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0270",
+        "menu": "0270"
+    }
 }

@@ -80,20 +80,20 @@
         "veekunDb": "frosmoth",
         "serebii": "frosmoth",
         "bulbapedia": "Frosmoth",
-        "homeSprite": "frosmoth",
-        "miniSprite": "frosmoth",
+        "homeSprite": "0873",
+        "miniSprite": "0873",
         "showdown": "frosmoth",
         "showdownDef": "Frosmoth",
         "smogon": "frosmoth"
-    },
-    "imgs": {
-        "home": "0873",
-        "menu": "0873"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "frosmoth"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0873",
+        "menu": "0873"
+    }
 }

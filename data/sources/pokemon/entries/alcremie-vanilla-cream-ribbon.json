@@ -80,18 +80,18 @@
         "veekunDb": "alcremie-vanilla-cream-ribbon",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
-        "homeSprite": "alcremie-vanilla-cream-ribbon",
-        "miniSprite": "alcremie-vanilla-cream-ribbon",
+        "homeSprite": "0869-vanilla-cream-ribbon",
+        "miniSprite": "0869-vanilla-cream-ribbon",
         "showdown": "alcremie",
         "showdownDef": "Alcremie-Vanilla-Cream-Ribbon",
         "smogon": "alcremie-vanilla-cream-ribbon"
     },
-    "imgs": {
-        "home": "0869-vanilla-cream-ribbon",
-        "menu": "0869-vanilla-cream-ribbon"
-    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0869-vanilla-cream-ribbon",
+        "menu": "0869-vanilla-cream-ribbon"
+    }
 }

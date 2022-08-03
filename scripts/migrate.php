@@ -95,12 +95,8 @@ require_once __DIR__ . '/_bootstrap.php';
         "showdownDef": null,
         "serebii": null,
         "bulbapedia": null,
-        "homeSprite": null,
-        "miniSprite": null
-    },
-    "imgs": {
-        "home": "xxxx",
-        "menu": "xxxx"
+        "homeSprite": "xxxx",
+        "miniSprite": "xxxx"
     },
     "baseSpecies": null,
     "baseForms": [],

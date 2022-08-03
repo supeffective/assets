@@ -101,20 +101,20 @@
         "veekunDb": "cyndaquil",
         "serebii": "cyndaquil",
         "bulbapedia": "Cyndaquil",
-        "homeSprite": "cyndaquil",
-        "miniSprite": "cyndaquil",
+        "homeSprite": "0155",
+        "miniSprite": "0155",
         "showdown": "cyndaquil",
         "showdownDef": "Cyndaquil",
         "smogon": "cyndaquil"
-    },
-    "imgs": {
-        "home": "0155",
-        "menu": "0155"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "cyndaquil"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0155",
+        "menu": "0155"
+    }
 }

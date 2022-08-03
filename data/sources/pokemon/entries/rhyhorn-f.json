@@ -97,18 +97,18 @@
         "veekunDb": "rhyhorn",
         "serebii": "rhyhorn",
         "bulbapedia": "Rhyhorn",
-        "homeSprite": "rhyhorn-f",
-        "miniSprite": "rhyhorn-f",
+        "homeSprite": "0111-f",
+        "miniSprite": "0111",
         "showdown": "rhyhorn",
         "showdownDef": "Rhyhorn",
         "smogon": "rhyhorn"
     },
-    "imgs": {
-        "home": "0111-f",
-        "menu": "0111"
-    },
     "baseSpecies": "rhyhorn",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0111-f",
+        "menu": "0111"
+    }
 }

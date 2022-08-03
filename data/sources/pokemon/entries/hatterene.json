@@ -80,15 +80,11 @@
         "veekunDb": "hatterene",
         "serebii": "hatterene",
         "bulbapedia": "Hatterene",
-        "homeSprite": "hatterene",
-        "miniSprite": "hatterene",
+        "homeSprite": "0858",
+        "miniSprite": "0858",
         "showdown": "hatterene",
         "showdownDef": "Hatterene",
         "smogon": "hatterene"
-    },
-    "imgs": {
-        "home": "0858",
-        "menu": "0858"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -96,5 +92,9 @@
         "hatterene",
         "hatterene-gmax"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0858",
+        "menu": "0858"
+    }
 }

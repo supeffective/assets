@@ -105,15 +105,11 @@
         "veekunDb": "sandshrew",
         "serebii": "sandshrew",
         "bulbapedia": "Sandshrew",
-        "homeSprite": "sandshrew",
-        "miniSprite": "sandshrew",
+        "homeSprite": "0027",
+        "miniSprite": "0027",
         "showdown": "sandshrew",
         "showdownDef": "Sandshrew",
         "smogon": "sandshrew"
-    },
-    "imgs": {
-        "home": "0027",
-        "menu": "0027"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -121,5 +117,9 @@
         "sandshrew",
         "sandshrew-alola"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0027",
+        "menu": "0027"
+    }
 }

@@ -103,15 +103,11 @@
         "veekunDb": "hypno",
         "serebii": "hypno",
         "bulbapedia": "Hypno",
-        "homeSprite": "hypno",
-        "miniSprite": "hypno",
+        "homeSprite": "0097",
+        "miniSprite": "0097",
         "showdown": "hypno",
         "showdownDef": "Hypno",
         "smogon": "hypno"
-    },
-    "imgs": {
-        "home": "0097",
-        "menu": "0097"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -119,5 +115,9 @@
         "hypno",
         "hypno-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0097",
+        "menu": "0097"
+    }
 }

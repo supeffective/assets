@@ -87,20 +87,20 @@
         "veekunDb": "diggersby",
         "serebii": "diggersby",
         "bulbapedia": "Diggersby",
-        "homeSprite": "diggersby",
-        "miniSprite": "diggersby",
+        "homeSprite": "0660",
+        "miniSprite": "0660",
         "showdown": "diggersby",
         "showdownDef": "Diggersby",
         "smogon": "diggersby"
-    },
-    "imgs": {
-        "home": "0660",
-        "menu": "0660"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "diggersby"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0660",
+        "menu": "0660"
+    }
 }

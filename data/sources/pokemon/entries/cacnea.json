@@ -97,20 +97,20 @@
         "veekunDb": "cacnea",
         "serebii": "cacnea",
         "bulbapedia": "Cacnea",
-        "homeSprite": "cacnea",
-        "miniSprite": "cacnea",
+        "homeSprite": "0331",
+        "miniSprite": "0331",
         "showdown": "cacnea",
         "showdownDef": "Cacnea",
         "smogon": "cacnea"
-    },
-    "imgs": {
-        "home": "0331",
-        "menu": "0331"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "cacnea"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0331",
+        "menu": "0331"
+    }
 }

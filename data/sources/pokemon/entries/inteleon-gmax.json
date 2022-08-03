@@ -77,20 +77,20 @@
         "veekunDb": "inteleon-gmax",
         "serebii": "inteleon",
         "bulbapedia": "Inteleon",
-        "homeSprite": "inteleon-gmax",
-        "miniSprite": "inteleon-gmax",
+        "homeSprite": "0818-gmax",
+        "miniSprite": "0818-gmax",
         "showdown": "inteleongmax",
         "showdownDef": "Inteleon-Gmax",
         "smogon": "inteleon-gmax"
-    },
-    "imgs": {
-        "home": "0818-gmax",
-        "menu": "0818-gmax"
     },
     "baseSpecies": "inteleon",
     "baseForms": [
         "inteleon"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0818-gmax",
+        "menu": "0818-gmax"
+    }
 }

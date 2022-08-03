@@ -90,15 +90,11 @@
         "veekunDb": "lilligant",
         "serebii": "lilligant",
         "bulbapedia": "Lilligant",
-        "homeSprite": "lilligant",
-        "miniSprite": "lilligant",
+        "homeSprite": "0549",
+        "miniSprite": "0549",
         "showdown": "lilligant",
         "showdownDef": "Lilligant",
         "smogon": "lilligant"
-    },
-    "imgs": {
-        "home": "0549",
-        "menu": "0549"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -106,5 +102,9 @@
         "lilligant",
         "lilligant-hisui"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0549",
+        "menu": "0549"
+    }
 }

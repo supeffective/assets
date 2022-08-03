@@ -103,20 +103,20 @@
         "veekunDb": "weedle",
         "serebii": "weedle",
         "bulbapedia": "Weedle",
-        "homeSprite": "weedle",
-        "miniSprite": "weedle",
+        "homeSprite": "0013",
+        "miniSprite": "0013",
         "showdown": "weedle",
         "showdownDef": "Weedle",
         "smogon": "weedle"
-    },
-    "imgs": {
-        "home": "0013",
-        "menu": "0013"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "weedle"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0013",
+        "menu": "0013"
+    }
 }

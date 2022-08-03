@@ -87,20 +87,20 @@
         "veekunDb": "tyrantrum",
         "serebii": "tyrantrum",
         "bulbapedia": "Tyrantrum",
-        "homeSprite": "tyrantrum",
-        "miniSprite": "tyrantrum",
+        "homeSprite": "0697",
+        "miniSprite": "0697",
         "showdown": "tyrantrum",
         "showdownDef": "Tyrantrum",
         "smogon": "tyrantrum"
-    },
-    "imgs": {
-        "home": "0697",
-        "menu": "0697"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "tyrantrum"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0697",
+        "menu": "0697"
+    }
 }

@@ -92,20 +92,20 @@
         "veekunDb": "arceus-dragon",
         "serebii": "arceus",
         "bulbapedia": "Arceus",
-        "homeSprite": "arceus-dragon",
-        "miniSprite": "arceus-dragon",
+        "homeSprite": "0493-dragon",
+        "miniSprite": "0493-dragon",
         "showdown": "arceusdragon",
         "showdownDef": "Arceus-Dragon",
         "smogon": "arceus-dragon"
-    },
-    "imgs": {
-        "home": "0493-dragon",
-        "menu": "0493-dragon"
     },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0493-dragon",
+        "menu": "0493-dragon"
+    }
 }

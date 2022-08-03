@@ -80,15 +80,11 @@
         "veekunDb": "corviknight",
         "serebii": "corviknight",
         "bulbapedia": "Corviknight",
-        "homeSprite": "corviknight",
-        "miniSprite": "corviknight",
+        "homeSprite": "0823",
+        "miniSprite": "0823",
         "showdown": "corviknight",
         "showdownDef": "Corviknight",
         "smogon": "corviknight"
-    },
-    "imgs": {
-        "home": "0823",
-        "menu": "0823"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -96,5 +92,9 @@
         "corviknight",
         "corviknight-gmax"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0823",
+        "menu": "0823"
+    }
 }

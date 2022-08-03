@@ -90,20 +90,20 @@
         "veekunDb": "thundurus-therian",
         "serebii": "thundurus",
         "bulbapedia": "Thundurus",
-        "homeSprite": "thundurus-therian",
-        "miniSprite": "thundurus-therian",
+        "homeSprite": "0642-therian",
+        "miniSprite": "0642-therian",
         "showdown": "thundurustherian",
         "showdownDef": "Thundurus-Therian",
         "smogon": "thundurus-therian"
-    },
-    "imgs": {
-        "home": "0642-therian",
-        "menu": "0642-therian"
     },
     "baseSpecies": "thundurus",
     "baseForms": [
         "thundurus"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0642-therian",
+        "menu": "0642-therian"
+    }
 }

@@ -95,20 +95,20 @@
         "veekunDb": "glameow",
         "serebii": "glameow",
         "bulbapedia": "Glameow",
-        "homeSprite": "glameow",
-        "miniSprite": "glameow",
+        "homeSprite": "0431",
+        "miniSprite": "0431",
         "showdown": "glameow",
         "showdownDef": "Glameow",
         "smogon": "glameow"
-    },
-    "imgs": {
-        "home": "0431",
-        "menu": "0431"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "glameow"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0431",
+        "menu": "0431"
+    }
 }

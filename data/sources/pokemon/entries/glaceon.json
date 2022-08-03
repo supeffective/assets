@@ -97,20 +97,20 @@
         "veekunDb": "glaceon",
         "serebii": "glaceon",
         "bulbapedia": "Glaceon",
-        "homeSprite": "glaceon",
-        "miniSprite": "glaceon",
+        "homeSprite": "0471",
+        "miniSprite": "0471",
         "showdown": "glaceon",
         "showdownDef": "Glaceon",
         "smogon": "glaceon"
-    },
-    "imgs": {
-        "home": "0471",
-        "menu": "0471"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "glaceon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0471",
+        "menu": "0471"
+    }
 }

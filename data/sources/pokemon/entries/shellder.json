@@ -105,20 +105,20 @@
         "veekunDb": "shellder",
         "serebii": "shellder",
         "bulbapedia": "Shellder",
-        "homeSprite": "shellder",
-        "miniSprite": "shellder",
+        "homeSprite": "0090",
+        "miniSprite": "0090",
         "showdown": "shellder",
         "showdownDef": "Shellder",
         "smogon": "shellder"
-    },
-    "imgs": {
-        "home": "0090",
-        "menu": "0090"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "shellder"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0090",
+        "menu": "0090"
+    }
 }

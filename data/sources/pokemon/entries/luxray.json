@@ -97,15 +97,11 @@
         "veekunDb": "luxray",
         "serebii": "luxray",
         "bulbapedia": "Luxray",
-        "homeSprite": "luxray",
-        "miniSprite": "luxray",
+        "homeSprite": "0405",
+        "miniSprite": "0405",
         "showdown": "luxray",
         "showdownDef": "Luxray",
         "smogon": "luxray"
-    },
-    "imgs": {
-        "home": "0405",
-        "menu": "0405"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -113,5 +109,9 @@
         "luxray",
         "luxray-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0405",
+        "menu": "0405"
+    }
 }

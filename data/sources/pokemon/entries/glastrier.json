@@ -80,20 +80,20 @@
         "veekunDb": "glastrier",
         "serebii": "glastrier",
         "bulbapedia": "Glastrier",
-        "homeSprite": "glastrier",
-        "miniSprite": "glastrier",
+        "homeSprite": "0896",
+        "miniSprite": "0896",
         "showdown": "glastrier",
         "showdownDef": "Glastrier",
         "smogon": "glastrier"
-    },
-    "imgs": {
-        "home": "0896",
-        "menu": "0896"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "glastrier"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0896",
+        "menu": "0896"
+    }
 }

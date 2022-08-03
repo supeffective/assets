@@ -99,15 +99,11 @@
         "veekunDb": "meganium",
         "serebii": "meganium",
         "bulbapedia": "Meganium",
-        "homeSprite": "meganium",
-        "miniSprite": "meganium",
+        "homeSprite": "0154",
+        "miniSprite": "0154",
         "showdown": "meganium",
         "showdownDef": "Meganium",
         "smogon": "meganium"
-    },
-    "imgs": {
-        "home": "0154",
-        "menu": "0154"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -115,5 +111,9 @@
         "meganium",
         "meganium-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0154",
+        "menu": "0154"
+    }
 }

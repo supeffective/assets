@@ -80,20 +80,20 @@
         "veekunDb": "impidimp",
         "serebii": "impidimp",
         "bulbapedia": "Impidimp",
-        "homeSprite": "impidimp",
-        "miniSprite": "impidimp",
+        "homeSprite": "0859",
+        "miniSprite": "0859",
         "showdown": "impidimp",
         "showdownDef": "Impidimp",
         "smogon": "impidimp"
-    },
-    "imgs": {
-        "home": "0859",
-        "menu": "0859"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "impidimp"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0859",
+        "menu": "0859"
+    }
 }

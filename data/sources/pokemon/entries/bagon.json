@@ -99,20 +99,20 @@
         "veekunDb": "bagon",
         "serebii": "bagon",
         "bulbapedia": "Bagon",
-        "homeSprite": "bagon",
-        "miniSprite": "bagon",
+        "homeSprite": "0371",
+        "miniSprite": "0371",
         "showdown": "bagon",
         "showdownDef": "Bagon",
         "smogon": "bagon"
-    },
-    "imgs": {
-        "home": "0371",
-        "menu": "0371"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "bagon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0371",
+        "menu": "0371"
+    }
 }

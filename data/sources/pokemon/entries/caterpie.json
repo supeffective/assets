@@ -105,20 +105,20 @@
         "veekunDb": "caterpie",
         "serebii": "caterpie",
         "bulbapedia": "Caterpie",
-        "homeSprite": "caterpie",
-        "miniSprite": "caterpie",
+        "homeSprite": "0010",
+        "miniSprite": "0010",
         "showdown": "caterpie",
         "showdownDef": "Caterpie",
         "smogon": "caterpie"
-    },
-    "imgs": {
-        "home": "0010",
-        "menu": "0010"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "caterpie"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0010",
+        "menu": "0010"
+    }
 }

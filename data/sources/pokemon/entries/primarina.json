@@ -86,20 +86,20 @@
         "veekunDb": "primarina",
         "serebii": "primarina",
         "bulbapedia": "Primarina",
-        "homeSprite": "primarina",
-        "miniSprite": "primarina",
+        "homeSprite": "0730",
+        "miniSprite": "0730",
         "showdown": "primarina",
         "showdownDef": "Primarina",
         "smogon": "primarina"
-    },
-    "imgs": {
-        "home": "0730",
-        "menu": "0730"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "primarina"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0730",
+        "menu": "0730"
+    }
 }

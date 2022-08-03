@@ -90,20 +90,20 @@
         "veekunDb": "deino",
         "serebii": "deino",
         "bulbapedia": "Deino",
-        "homeSprite": "deino",
-        "miniSprite": "deino",
+        "homeSprite": "0633",
+        "miniSprite": "0633",
         "showdown": "deino",
         "showdownDef": "Deino",
         "smogon": "deino"
-    },
-    "imgs": {
-        "home": "0633",
-        "menu": "0633"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "deino"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0633",
+        "menu": "0633"
+    }
 }

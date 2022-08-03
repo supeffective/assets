@@ -90,20 +90,20 @@
         "veekunDb": "scrafty",
         "serebii": "scrafty",
         "bulbapedia": "Scrafty",
-        "homeSprite": "scrafty",
-        "miniSprite": "scrafty",
+        "homeSprite": "0560",
+        "miniSprite": "0560",
         "showdown": "scrafty",
         "showdownDef": "Scrafty",
         "smogon": "scrafty"
-    },
-    "imgs": {
-        "home": "0560",
-        "menu": "0560"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "scrafty"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0560",
+        "menu": "0560"
+    }
 }

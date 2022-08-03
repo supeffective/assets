@@ -80,18 +80,18 @@
         "veekunDb": "toxtricity-low-key",
         "serebii": "toxtricity",
         "bulbapedia": "Toxtricity",
-        "homeSprite": "toxtricity-low-key",
-        "miniSprite": "toxtricity-low-key",
+        "homeSprite": "0849-low-key",
+        "miniSprite": "0849-low-key",
         "showdown": "toxtricitylowkey",
         "showdownDef": "Toxtricity-Low-Key",
         "smogon": "toxtricity-low-key"
     },
-    "imgs": {
-        "home": "0849-low-key",
-        "menu": "0849-low-key"
-    },
     "baseSpecies": "toxtricity",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0849-low-key",
+        "menu": "0849-low-key"
+    }
 }

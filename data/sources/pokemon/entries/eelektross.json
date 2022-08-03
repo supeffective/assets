@@ -88,20 +88,20 @@
         "veekunDb": "eelektross",
         "serebii": "eelektross",
         "bulbapedia": "Eelektross",
-        "homeSprite": "eelektross",
-        "miniSprite": "eelektross",
+        "homeSprite": "0604",
+        "miniSprite": "0604",
         "showdown": "eelektross",
         "showdownDef": "Eelektross",
         "smogon": "eelektross"
-    },
-    "imgs": {
-        "home": "0604",
-        "menu": "0604"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "eelektross"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0604",
+        "menu": "0604"
+    }
 }

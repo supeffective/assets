@@ -80,20 +80,20 @@
         "veekunDb": "drakloak",
         "serebii": "drakloak",
         "bulbapedia": "Drakloak",
-        "homeSprite": "drakloak",
-        "miniSprite": "drakloak",
+        "homeSprite": "0886",
+        "miniSprite": "0886",
         "showdown": "drakloak",
         "showdownDef": "Drakloak",
         "smogon": "drakloak"
-    },
-    "imgs": {
-        "home": "0886",
-        "menu": "0886"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "drakloak"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0886",
+        "menu": "0886"
+    }
 }

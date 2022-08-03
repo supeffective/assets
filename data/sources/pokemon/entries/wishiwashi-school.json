@@ -79,20 +79,20 @@
         "veekunDb": "wishiwashi-school",
         "serebii": "wishiwashi",
         "bulbapedia": "Wishiwashi",
-        "homeSprite": "wishiwashi-school",
-        "miniSprite": "wishiwashi-school",
+        "homeSprite": "0746-school",
+        "miniSprite": "0746-school",
         "showdown": "wishiwashischool",
         "showdownDef": "Wishiwashi-School",
         "smogon": "wishiwashi-school"
-    },
-    "imgs": {
-        "home": "0746-school",
-        "menu": "0746-school"
     },
     "baseSpecies": "wishiwashi",
     "baseForms": [
         "wishiwashi"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0746-school",
+        "menu": "0746-school"
+    }
 }

@@ -83,18 +83,18 @@
         "veekunDb": "vivillon-continental",
         "serebii": "vivillon",
         "bulbapedia": "Vivillon",
-        "homeSprite": "vivillon-continental",
-        "miniSprite": "vivillon-continental",
+        "homeSprite": "0666-continental",
+        "miniSprite": "0666-continental",
         "showdown": "vivillon",
         "showdownDef": "Vivillon-Continental",
         "smogon": "vivillon-continental"
     },
-    "imgs": {
-        "home": "0666-continental",
-        "menu": "0666-continental"
-    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0666-continental",
+        "menu": "0666-continental"
+    }
 }

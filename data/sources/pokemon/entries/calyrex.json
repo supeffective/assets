@@ -80,15 +80,11 @@
         "veekunDb": "calyrex",
         "serebii": "calyrex",
         "bulbapedia": "Calyrex",
-        "homeSprite": "calyrex",
-        "miniSprite": "calyrex",
+        "homeSprite": "0898",
+        "miniSprite": "0898",
         "showdown": "calyrex",
         "showdownDef": "Calyrex",
         "smogon": "calyrex"
-    },
-    "imgs": {
-        "home": "0898",
-        "menu": "0898"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -97,5 +93,9 @@
         "calyrex-ice",
         "calyrex-shadow"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0898",
+        "menu": "0898"
+    }
 }

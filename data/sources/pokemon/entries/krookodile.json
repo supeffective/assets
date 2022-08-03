@@ -90,20 +90,20 @@
         "veekunDb": "krookodile",
         "serebii": "krookodile",
         "bulbapedia": "Krookodile",
-        "homeSprite": "krookodile",
-        "miniSprite": "krookodile",
+        "homeSprite": "0553",
+        "miniSprite": "0553",
         "showdown": "krookodile",
         "showdownDef": "Krookodile",
         "smogon": "krookodile"
-    },
-    "imgs": {
-        "home": "0553",
-        "menu": "0553"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "krookodile"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0553",
+        "menu": "0553"
+    }
 }

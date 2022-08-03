@@ -81,15 +81,11 @@
         "veekunDb": "zarude",
         "serebii": "zarude",
         "bulbapedia": "Zarude",
-        "homeSprite": "zarude",
-        "miniSprite": "zarude",
+        "homeSprite": "0893",
+        "miniSprite": "0893",
         "showdown": "zarude",
         "showdownDef": "Zarude",
         "smogon": "zarude"
-    },
-    "imgs": {
-        "home": "0893",
-        "menu": "0893"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -97,5 +93,9 @@
         "zarude",
         "zarude-dada"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0893",
+        "menu": "0893"
+    }
 }

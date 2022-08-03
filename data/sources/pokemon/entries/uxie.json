@@ -97,20 +97,20 @@
         "veekunDb": "uxie",
         "serebii": "uxie",
         "bulbapedia": "Uxie",
-        "homeSprite": "uxie",
-        "miniSprite": "uxie",
+        "homeSprite": "0480",
+        "miniSprite": "0480",
         "showdown": "uxie",
         "showdownDef": "Uxie",
         "smogon": "uxie"
-    },
-    "imgs": {
-        "home": "0480",
-        "menu": "0480"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "uxie"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0480",
+        "menu": "0480"
+    }
 }

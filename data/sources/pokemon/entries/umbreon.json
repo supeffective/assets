@@ -103,20 +103,20 @@
         "veekunDb": "umbreon",
         "serebii": "umbreon",
         "bulbapedia": "Umbreon",
-        "homeSprite": "umbreon",
-        "miniSprite": "umbreon",
+        "homeSprite": "0197",
+        "miniSprite": "0197",
         "showdown": "umbreon",
         "showdownDef": "Umbreon",
         "smogon": "umbreon"
-    },
-    "imgs": {
-        "home": "0197",
-        "menu": "0197"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "umbreon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0197",
+        "menu": "0197"
+    }
 }

@@ -97,20 +97,20 @@
         "veekunDb": "skitty",
         "serebii": "skitty",
         "bulbapedia": "Skitty",
-        "homeSprite": "skitty",
-        "miniSprite": "skitty",
+        "homeSprite": "0300",
+        "miniSprite": "0300",
         "showdown": "skitty",
         "showdownDef": "Skitty",
         "smogon": "skitty"
-    },
-    "imgs": {
-        "home": "0300",
-        "menu": "0300"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "skitty"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0300",
+        "menu": "0300"
+    }
 }

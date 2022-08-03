@@ -87,20 +87,20 @@
         "veekunDb": "binacle",
         "serebii": "binacle",
         "bulbapedia": "Binacle",
-        "homeSprite": "binacle",
-        "miniSprite": "binacle",
+        "homeSprite": "0688",
+        "miniSprite": "0688",
         "showdown": "binacle",
         "showdownDef": "Binacle",
         "smogon": "binacle"
-    },
-    "imgs": {
-        "home": "0688",
-        "menu": "0688"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "binacle"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0688",
+        "menu": "0688"
+    }
 }

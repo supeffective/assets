@@ -107,15 +107,11 @@
         "veekunDb": "raichu",
         "serebii": "raichu",
         "bulbapedia": "Raichu",
-        "homeSprite": "raichu",
-        "miniSprite": "raichu",
+        "homeSprite": "0026",
+        "miniSprite": "0026",
         "showdown": "raichu",
         "showdownDef": "Raichu",
         "smogon": "raichu"
-    },
-    "imgs": {
-        "home": "0026",
-        "menu": "0026"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -124,5 +120,9 @@
         "raichu-f",
         "raichu-alola"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0026",
+        "menu": "0026"
+    }
 }

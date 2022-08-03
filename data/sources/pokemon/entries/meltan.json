@@ -82,20 +82,20 @@
         "veekunDb": "meltan",
         "serebii": "meltan",
         "bulbapedia": "Meltan",
-        "homeSprite": "meltan",
-        "miniSprite": "meltan",
+        "homeSprite": "0808",
+        "miniSprite": "0808",
         "showdown": "meltan",
         "showdownDef": "Meltan",
         "smogon": "meltan"
-    },
-    "imgs": {
-        "home": "0808",
-        "menu": "0808"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "meltan"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0808",
+        "menu": "0808"
+    }
 }

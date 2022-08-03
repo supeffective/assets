@@ -103,20 +103,20 @@
         "veekunDb": "remoraid",
         "serebii": "remoraid",
         "bulbapedia": "Remoraid",
-        "homeSprite": "remoraid",
-        "miniSprite": "remoraid",
+        "homeSprite": "0223",
+        "miniSprite": "0223",
         "showdown": "remoraid",
         "showdownDef": "Remoraid",
         "smogon": "remoraid"
-    },
-    "imgs": {
-        "home": "0223",
-        "menu": "0223"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "remoraid"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0223",
+        "menu": "0223"
+    }
 }

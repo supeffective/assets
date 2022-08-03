@@ -90,20 +90,20 @@
         "veekunDb": "vanillish",
         "serebii": "vanillish",
         "bulbapedia": "Vanillish",
-        "homeSprite": "vanillish",
-        "miniSprite": "vanillish",
+        "homeSprite": "0583",
+        "miniSprite": "0583",
         "showdown": "vanillish",
         "showdownDef": "Vanillish",
         "smogon": "vanillish"
-    },
-    "imgs": {
-        "home": "0583",
-        "menu": "0583"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "vanillish"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0583",
+        "menu": "0583"
+    }
 }

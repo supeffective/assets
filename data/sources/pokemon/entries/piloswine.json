@@ -103,15 +103,11 @@
         "veekunDb": "piloswine",
         "serebii": "piloswine",
         "bulbapedia": "Piloswine",
-        "homeSprite": "piloswine",
-        "miniSprite": "piloswine",
+        "homeSprite": "0221",
+        "miniSprite": "0221",
         "showdown": "piloswine",
         "showdownDef": "Piloswine",
         "smogon": "piloswine"
-    },
-    "imgs": {
-        "home": "0221",
-        "menu": "0221"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -119,5 +115,9 @@
         "piloswine",
         "piloswine-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0221",
+        "menu": "0221"
+    }
 }

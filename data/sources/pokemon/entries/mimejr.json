@@ -97,20 +97,20 @@
         "veekunDb": "mimejr",
         "serebii": "mimejr",
         "bulbapedia": "Mime Jr.",
-        "homeSprite": "mimejr",
-        "miniSprite": "mimejr",
+        "homeSprite": "0439",
+        "miniSprite": "0439",
         "showdown": "mimejr",
         "showdownDef": "Mimejr",
         "smogon": "mimejr"
-    },
-    "imgs": {
-        "home": "0439",
-        "menu": "0439"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "mimejr"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0439",
+        "menu": "0439"
+    }
 }

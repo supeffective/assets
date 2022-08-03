@@ -80,20 +80,20 @@
         "veekunDb": "morgrem",
         "serebii": "morgrem",
         "bulbapedia": "Morgrem",
-        "homeSprite": "morgrem",
-        "miniSprite": "morgrem",
+        "homeSprite": "0860",
+        "miniSprite": "0860",
         "showdown": "morgrem",
         "showdownDef": "Morgrem",
         "smogon": "morgrem"
-    },
-    "imgs": {
-        "home": "0860",
-        "menu": "0860"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "morgrem"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0860",
+        "menu": "0860"
+    }
 }

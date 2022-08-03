@@ -78,20 +78,20 @@
         "veekunDb": "abomasnow-mega",
         "serebii": "abomasnow",
         "bulbapedia": "Abomasnow",
-        "homeSprite": "abomasnow-mega",
-        "miniSprite": "abomasnow-mega",
+        "homeSprite": "0460-mega",
+        "miniSprite": "0460-mega",
         "showdown": "abomasnowmega",
         "showdownDef": "Abomasnow-Mega",
         "smogon": "abomasnow-mega"
-    },
-    "imgs": {
-        "home": "0460-mega",
-        "menu": "0460-mega"
     },
     "baseSpecies": "abomasnow",
     "baseForms": [
         "abomasnow"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0460-mega",
+        "menu": "0460-mega"
+    }
 }

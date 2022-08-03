@@ -85,20 +85,20 @@
         "veekunDb": "furfrou-star",
         "serebii": "furfrou",
         "bulbapedia": "Furfrou",
-        "homeSprite": "furfrou-star",
-        "miniSprite": "furfrou-star",
+        "homeSprite": "0676-star",
+        "miniSprite": "0676-star",
         "showdown": "furfrou",
         "showdownDef": "Furfrou-Star",
         "smogon": "furfrou-star"
-    },
-    "imgs": {
-        "home": "0676-star",
-        "menu": "0676-star"
     },
     "baseSpecies": "furfrou",
     "baseForms": [
         "furfrou"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0676-star",
+        "menu": "0676-star"
+    }
 }

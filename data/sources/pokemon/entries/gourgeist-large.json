@@ -87,18 +87,18 @@
         "veekunDb": "gourgeist-large",
         "serebii": "gourgeist",
         "bulbapedia": "Gourgeist",
-        "homeSprite": "gourgeist-large",
-        "miniSprite": "gourgeist-large",
+        "homeSprite": "0711-large",
+        "miniSprite": "0711",
         "showdown": "gourgeistlarge",
         "showdownDef": "Gourgeist-Large",
         "smogon": "gourgeist-large"
     },
-    "imgs": {
-        "home": "0711-large",
-        "menu": "0711"
-    },
     "baseSpecies": "gourgeist",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0711-large",
+        "menu": "0711"
+    }
 }

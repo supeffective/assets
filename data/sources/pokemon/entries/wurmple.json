@@ -99,20 +99,20 @@
         "veekunDb": "wurmple",
         "serebii": "wurmple",
         "bulbapedia": "Wurmple",
-        "homeSprite": "wurmple",
-        "miniSprite": "wurmple",
+        "homeSprite": "0265",
+        "miniSprite": "0265",
         "showdown": "wurmple",
         "showdownDef": "Wurmple",
         "smogon": "wurmple"
-    },
-    "imgs": {
-        "home": "0265",
-        "menu": "0265"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "wurmple"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0265",
+        "menu": "0265"
+    }
 }

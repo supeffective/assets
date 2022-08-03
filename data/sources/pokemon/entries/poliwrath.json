@@ -105,20 +105,20 @@
         "veekunDb": "poliwrath",
         "serebii": "poliwrath",
         "bulbapedia": "Poliwrath",
-        "homeSprite": "poliwrath",
-        "miniSprite": "poliwrath",
+        "homeSprite": "0062",
+        "miniSprite": "0062",
         "showdown": "poliwrath",
         "showdownDef": "Poliwrath",
         "smogon": "poliwrath"
-    },
-    "imgs": {
-        "home": "0062",
-        "menu": "0062"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "poliwrath"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0062",
+        "menu": "0062"
+    }
 }

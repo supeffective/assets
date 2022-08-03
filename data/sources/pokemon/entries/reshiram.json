@@ -90,20 +90,20 @@
         "veekunDb": "reshiram",
         "serebii": "reshiram",
         "bulbapedia": "Reshiram",
-        "homeSprite": "reshiram",
-        "miniSprite": "reshiram",
+        "homeSprite": "0643",
+        "miniSprite": "0643",
         "showdown": "reshiram",
         "showdownDef": "Reshiram",
         "smogon": "reshiram"
-    },
-    "imgs": {
-        "home": "0643",
-        "menu": "0643"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "reshiram"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0643",
+        "menu": "0643"
+    }
 }

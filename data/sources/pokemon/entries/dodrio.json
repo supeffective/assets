@@ -103,15 +103,11 @@
         "veekunDb": "dodrio",
         "serebii": "dodrio",
         "bulbapedia": "Dodrio",
-        "homeSprite": "dodrio",
-        "miniSprite": "dodrio",
+        "homeSprite": "0085",
+        "miniSprite": "0085",
         "showdown": "dodrio",
         "showdownDef": "Dodrio",
         "smogon": "dodrio"
-    },
-    "imgs": {
-        "home": "0085",
-        "menu": "0085"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -119,5 +115,9 @@
         "dodrio",
         "dodrio-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0085",
+        "menu": "0085"
+    }
 }

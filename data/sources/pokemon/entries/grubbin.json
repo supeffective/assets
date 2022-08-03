@@ -84,20 +84,20 @@
         "veekunDb": "grubbin",
         "serebii": "grubbin",
         "bulbapedia": "Grubbin",
-        "homeSprite": "grubbin",
-        "miniSprite": "grubbin",
+        "homeSprite": "0736",
+        "miniSprite": "0736",
         "showdown": "grubbin",
         "showdownDef": "Grubbin",
         "smogon": "grubbin"
-    },
-    "imgs": {
-        "home": "0736",
-        "menu": "0736"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "grubbin"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0736",
+        "menu": "0736"
+    }
 }

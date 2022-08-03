@@ -99,20 +99,20 @@
         "veekunDb": "forretress",
         "serebii": "forretress",
         "bulbapedia": "Forretress",
-        "homeSprite": "forretress",
-        "miniSprite": "forretress",
+        "homeSprite": "0205",
+        "miniSprite": "0205",
         "showdown": "forretress",
         "showdownDef": "Forretress",
         "smogon": "forretress"
-    },
-    "imgs": {
-        "home": "0205",
-        "menu": "0205"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "forretress"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0205",
+        "menu": "0205"
+    }
 }

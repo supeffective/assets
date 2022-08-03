@@ -78,20 +78,20 @@
         "veekunDb": "blastoise-mega",
         "serebii": "blastoise",
         "bulbapedia": "Blastoise",
-        "homeSprite": "blastoise-mega",
-        "miniSprite": "blastoise-mega",
+        "homeSprite": "0009-mega",
+        "miniSprite": "0009-mega",
         "showdown": "blastoisemega",
         "showdownDef": "Blastoise-Mega",
         "smogon": "blastoise-mega"
-    },
-    "imgs": {
-        "home": "0009-mega",
-        "menu": "0009-mega"
     },
     "baseSpecies": "blastoise",
     "baseForms": [
         "blastoise"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0009-mega",
+        "menu": "0009-mega"
+    }
 }

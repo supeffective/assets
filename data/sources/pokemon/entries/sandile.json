@@ -90,20 +90,20 @@
         "veekunDb": "sandile",
         "serebii": "sandile",
         "bulbapedia": "Sandile",
-        "homeSprite": "sandile",
-        "miniSprite": "sandile",
+        "homeSprite": "0551",
+        "miniSprite": "0551",
         "showdown": "sandile",
         "showdownDef": "Sandile",
         "smogon": "sandile"
-    },
-    "imgs": {
-        "home": "0551",
-        "menu": "0551"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "sandile"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0551",
+        "menu": "0551"
+    }
 }

@@ -83,18 +83,18 @@
         "veekunDb": "vivillon-high-plains",
         "serebii": "vivillon",
         "bulbapedia": "Vivillon",
-        "homeSprite": "vivillon-high-plains",
-        "miniSprite": "vivillon-high-plains",
+        "homeSprite": "0666-high-plains",
+        "miniSprite": "0666-high-plains",
         "showdown": "vivillon",
         "showdownDef": "Vivillon-High-Plains",
         "smogon": "vivillon-high-plains"
     },
-    "imgs": {
-        "home": "0666-high-plains",
-        "menu": "0666-high-plains"
-    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0666-high-plains",
+        "menu": "0666-high-plains"
+    }
 }

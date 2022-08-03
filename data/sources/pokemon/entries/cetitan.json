@@ -85,14 +85,14 @@
         "homeSprite": "9040",
         "miniSprite": "9040"
     },
-    "imgs": {
-        "home": "9040",
-        "menu": "9040"
-    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "cetitan"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "9040",
+        "menu": "9040"
+    }
 }

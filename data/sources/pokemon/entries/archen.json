@@ -90,20 +90,20 @@
         "veekunDb": "archen",
         "serebii": "archen",
         "bulbapedia": "Archen",
-        "homeSprite": "archen",
-        "miniSprite": "archen",
+        "homeSprite": "0566",
+        "miniSprite": "0566",
         "showdown": "archen",
         "showdownDef": "Archen",
         "smogon": "archen"
-    },
-    "imgs": {
-        "home": "0566",
-        "menu": "0566"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "archen"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0566",
+        "menu": "0566"
+    }
 }

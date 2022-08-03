@@ -85,20 +85,20 @@
         "veekunDb": "hoopa-unbound",
         "serebii": "hoopa",
         "bulbapedia": "Hoopa",
-        "homeSprite": "hoopa-unbound",
-        "miniSprite": "hoopa-unbound",
+        "homeSprite": "0720-unbound",
+        "miniSprite": "0720-unbound",
         "showdown": "hoopaunbound",
         "showdownDef": "Hoopa-Unbound",
         "smogon": "hoopa-unbound"
-    },
-    "imgs": {
-        "home": "0720-unbound",
-        "menu": "0720-unbound"
     },
     "baseSpecies": "hoopa",
     "baseForms": [
         "hoopa"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0720-unbound",
+        "menu": "0720-unbound"
+    }
 }

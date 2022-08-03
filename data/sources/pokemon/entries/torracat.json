@@ -86,20 +86,20 @@
         "veekunDb": "torracat",
         "serebii": "torracat",
         "bulbapedia": "Torracat",
-        "homeSprite": "torracat",
-        "miniSprite": "torracat",
+        "homeSprite": "0726",
+        "miniSprite": "0726",
         "showdown": "torracat",
         "showdownDef": "Torracat",
         "smogon": "torracat"
-    },
-    "imgs": {
-        "home": "0726",
-        "menu": "0726"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "torracat"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0726",
+        "menu": "0726"
+    }
 }

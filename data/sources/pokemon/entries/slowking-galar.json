@@ -82,18 +82,18 @@
         "veekunDb": "slowking-galar",
         "serebii": "slowking",
         "bulbapedia": "Slowking",
-        "homeSprite": "slowking-galar",
-        "miniSprite": "slowking-galar",
+        "homeSprite": "0199-galar",
+        "miniSprite": "0199-galar",
         "showdown": "slowkinggalar",
         "showdownDef": "Slowking-Galar",
         "smogon": "slowking-galar"
     },
-    "imgs": {
-        "home": "0199-galar",
-        "menu": "0199-galar"
-    },
     "baseSpecies": "slowking",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0199-galar",
+        "menu": "0199-galar"
+    }
 }

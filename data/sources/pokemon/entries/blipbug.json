@@ -80,20 +80,20 @@
         "veekunDb": "blipbug",
         "serebii": "blipbug",
         "bulbapedia": "Blipbug",
-        "homeSprite": "blipbug",
-        "miniSprite": "blipbug",
+        "homeSprite": "0824",
+        "miniSprite": "0824",
         "showdown": "blipbug",
         "showdownDef": "Blipbug",
         "smogon": "blipbug"
-    },
-    "imgs": {
-        "home": "0824",
-        "menu": "0824"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "blipbug"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0824",
+        "menu": "0824"
+    }
 }

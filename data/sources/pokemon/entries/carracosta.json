@@ -90,20 +90,20 @@
         "veekunDb": "carracosta",
         "serebii": "carracosta",
         "bulbapedia": "Carracosta",
-        "homeSprite": "carracosta",
-        "miniSprite": "carracosta",
+        "homeSprite": "0565",
+        "miniSprite": "0565",
         "showdown": "carracosta",
         "showdownDef": "Carracosta",
         "smogon": "carracosta"
-    },
-    "imgs": {
-        "home": "0565",
-        "menu": "0565"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "carracosta"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0565",
+        "menu": "0565"
+    }
 }

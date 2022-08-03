@@ -107,20 +107,20 @@
         "veekunDb": "vaporeon",
         "serebii": "vaporeon",
         "bulbapedia": "Vaporeon",
-        "homeSprite": "vaporeon",
-        "miniSprite": "vaporeon",
+        "homeSprite": "0134",
+        "miniSprite": "0134",
         "showdown": "vaporeon",
         "showdownDef": "Vaporeon",
         "smogon": "vaporeon"
-    },
-    "imgs": {
-        "home": "0134",
-        "menu": "0134"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "vaporeon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0134",
+        "menu": "0134"
+    }
 }

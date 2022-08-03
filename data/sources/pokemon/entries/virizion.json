@@ -90,20 +90,20 @@
         "veekunDb": "virizion",
         "serebii": "virizion",
         "bulbapedia": "Virizion",
-        "homeSprite": "virizion",
-        "miniSprite": "virizion",
+        "homeSprite": "0640",
+        "miniSprite": "0640",
         "showdown": "virizion",
         "showdownDef": "Virizion",
         "smogon": "virizion"
-    },
-    "imgs": {
-        "home": "0640",
-        "menu": "0640"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "virizion"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0640",
+        "menu": "0640"
+    }
 }

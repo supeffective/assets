@@ -103,15 +103,11 @@
         "veekunDb": "scizor",
         "serebii": "scizor",
         "bulbapedia": "Scizor",
-        "homeSprite": "scizor",
-        "miniSprite": "scizor",
+        "homeSprite": "0212",
+        "miniSprite": "0212",
         "showdown": "scizor",
         "showdownDef": "Scizor",
         "smogon": "scizor"
-    },
-    "imgs": {
-        "home": "0212",
-        "menu": "0212"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -120,5 +116,9 @@
         "scizor-f",
         "scizor-mega"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0212",
+        "menu": "0212"
+    }
 }

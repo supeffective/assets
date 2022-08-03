@@ -77,15 +77,11 @@
         "veekunDb": "butterfree-gmax",
         "serebii": "butterfree",
         "bulbapedia": "Butterfree",
-        "homeSprite": "butterfree-gmax",
-        "miniSprite": "butterfree-gmax",
+        "homeSprite": "0012-gmax",
+        "miniSprite": "0012-gmax",
         "showdown": "butterfreegmax",
         "showdownDef": "Butterfree-Gmax",
         "smogon": "butterfree-gmax"
-    },
-    "imgs": {
-        "home": "0012-gmax",
-        "menu": "0012-gmax"
     },
     "baseSpecies": "butterfree",
     "baseForms": [
@@ -93,5 +89,9 @@
         "butterfree-f"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0012-gmax",
+        "menu": "0012-gmax"
+    }
 }

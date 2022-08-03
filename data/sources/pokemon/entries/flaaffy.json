@@ -99,20 +99,20 @@
         "veekunDb": "flaaffy",
         "serebii": "flaaffy",
         "bulbapedia": "Flaaffy",
-        "homeSprite": "flaaffy",
-        "miniSprite": "flaaffy",
+        "homeSprite": "0180",
+        "miniSprite": "0180",
         "showdown": "flaaffy",
         "showdownDef": "Flaaffy",
         "smogon": "flaaffy"
-    },
-    "imgs": {
-        "home": "0180",
-        "menu": "0180"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "flaaffy"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0180",
+        "menu": "0180"
+    }
 }

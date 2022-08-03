@@ -90,20 +90,20 @@
         "veekunDb": "stoutland",
         "serebii": "stoutland",
         "bulbapedia": "Stoutland",
-        "homeSprite": "stoutland",
-        "miniSprite": "stoutland",
+        "homeSprite": "0508",
+        "miniSprite": "0508",
         "showdown": "stoutland",
         "showdownDef": "Stoutland",
         "smogon": "stoutland"
-    },
-    "imgs": {
-        "home": "0508",
-        "menu": "0508"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "stoutland"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0508",
+        "menu": "0508"
+    }
 }

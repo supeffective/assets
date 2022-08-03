@@ -105,15 +105,11 @@
         "veekunDb": "geodude",
         "serebii": "geodude",
         "bulbapedia": "Geodude",
-        "homeSprite": "geodude",
-        "miniSprite": "geodude",
+        "homeSprite": "0074",
+        "miniSprite": "0074",
         "showdown": "geodude",
         "showdownDef": "Geodude",
         "smogon": "geodude"
-    },
-    "imgs": {
-        "home": "0074",
-        "menu": "0074"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -121,5 +117,9 @@
         "geodude",
         "geodude-alola"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0074",
+        "menu": "0074"
+    }
 }

@@ -87,20 +87,20 @@
         "veekunDb": "fletchinder",
         "serebii": "fletchinder",
         "bulbapedia": "Fletchinder",
-        "homeSprite": "fletchinder",
-        "miniSprite": "fletchinder",
+        "homeSprite": "0662",
+        "miniSprite": "0662",
         "showdown": "fletchinder",
         "showdownDef": "Fletchinder",
         "smogon": "fletchinder"
-    },
-    "imgs": {
-        "home": "0662",
-        "menu": "0662"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "fletchinder"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0662",
+        "menu": "0662"
+    }
 }

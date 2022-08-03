@@ -97,20 +97,20 @@
         "veekunDb": "drifloon",
         "serebii": "drifloon",
         "bulbapedia": "Drifloon",
-        "homeSprite": "drifloon",
-        "miniSprite": "drifloon",
+        "homeSprite": "0425",
+        "miniSprite": "0425",
         "showdown": "drifloon",
         "showdownDef": "Drifloon",
         "smogon": "drifloon"
-    },
-    "imgs": {
-        "home": "0425",
-        "menu": "0425"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "drifloon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0425",
+        "menu": "0425"
+    }
 }

@@ -84,20 +84,20 @@
         "veekunDb": "mudsdale",
         "serebii": "mudsdale",
         "bulbapedia": "Mudsdale",
-        "homeSprite": "mudsdale",
-        "miniSprite": "mudsdale",
+        "homeSprite": "0750",
+        "miniSprite": "0750",
         "showdown": "mudsdale",
         "showdownDef": "Mudsdale",
         "smogon": "mudsdale"
-    },
-    "imgs": {
-        "home": "0750",
-        "menu": "0750"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "mudsdale"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0750",
+        "menu": "0750"
+    }
 }

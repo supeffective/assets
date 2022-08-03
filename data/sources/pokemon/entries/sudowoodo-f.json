@@ -96,18 +96,18 @@
         "veekunDb": "sudowoodo",
         "serebii": "sudowoodo",
         "bulbapedia": "Sudowoodo",
-        "homeSprite": "sudowoodo-f",
-        "miniSprite": "sudowoodo-f",
+        "homeSprite": "0185-f",
+        "miniSprite": "0185",
         "showdown": "sudowoodo",
         "showdownDef": "Sudowoodo",
         "smogon": "sudowoodo"
     },
-    "imgs": {
-        "home": "0185-f",
-        "menu": "0185"
-    },
     "baseSpecies": "sudowoodo",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0185-f",
+        "menu": "0185"
+    }
 }

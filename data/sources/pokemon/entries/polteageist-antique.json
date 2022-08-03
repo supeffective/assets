@@ -80,18 +80,18 @@
         "veekunDb": "polteageist-antique",
         "serebii": "polteageist",
         "bulbapedia": "Polteageist",
-        "homeSprite": "polteageist-antique",
-        "miniSprite": "polteageist-antique",
+        "homeSprite": "0855",
+        "miniSprite": "0855",
         "showdown": "polteageistantique",
         "showdownDef": "Polteageist-Antique",
         "smogon": "polteageist-antique"
     },
-    "imgs": {
-        "home": "0855",
-        "menu": "0855"
-    },
     "baseSpecies": "polteageist",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0855",
+        "menu": "0855"
+    }
 }

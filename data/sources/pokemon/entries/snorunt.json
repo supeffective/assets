@@ -101,20 +101,20 @@
         "veekunDb": "snorunt",
         "serebii": "snorunt",
         "bulbapedia": "Snorunt",
-        "homeSprite": "snorunt",
-        "miniSprite": "snorunt",
+        "homeSprite": "0361",
+        "miniSprite": "0361",
         "showdown": "snorunt",
         "showdownDef": "Snorunt",
         "smogon": "snorunt"
-    },
-    "imgs": {
-        "home": "0361",
-        "menu": "0361"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "snorunt"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0361",
+        "menu": "0361"
+    }
 }

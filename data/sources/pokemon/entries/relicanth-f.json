@@ -94,18 +94,18 @@
         "veekunDb": "relicanth",
         "serebii": "relicanth",
         "bulbapedia": "Relicanth",
-        "homeSprite": "relicanth-f",
-        "miniSprite": "relicanth-f",
+        "homeSprite": "0369-f",
+        "miniSprite": "0369",
         "showdown": "relicanth",
         "showdownDef": "Relicanth",
         "smogon": "relicanth"
     },
-    "imgs": {
-        "home": "0369-f",
-        "menu": "0369"
-    },
     "baseSpecies": "relicanth",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0369-f",
+        "menu": "0369"
+    }
 }

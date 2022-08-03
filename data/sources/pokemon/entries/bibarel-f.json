@@ -95,18 +95,18 @@
         "veekunDb": "bibarel",
         "serebii": "bibarel",
         "bulbapedia": "Bibarel",
-        "homeSprite": "bibarel-f",
-        "miniSprite": "bibarel-f",
+        "homeSprite": "0400-f",
+        "miniSprite": "0400",
         "showdown": "bibarel",
         "showdownDef": "Bibarel",
         "smogon": "bibarel"
     },
-    "imgs": {
-        "home": "0400-f",
-        "menu": "0400"
-    },
     "baseSpecies": "bibarel",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0400-f",
+        "menu": "0400"
+    }
 }

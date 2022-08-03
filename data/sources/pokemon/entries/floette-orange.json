@@ -85,18 +85,18 @@
         "veekunDb": "floette-orange",
         "serebii": "floette",
         "bulbapedia": "Floette",
-        "homeSprite": "floette-orange",
-        "miniSprite": "floette-orange",
+        "homeSprite": "0670-orange",
+        "miniSprite": "0670-orange",
         "showdown": "floette",
         "showdownDef": "Floette-Orange",
         "smogon": "floette-orange"
     },
-    "imgs": {
-        "home": "0670-orange",
-        "menu": "0670-orange"
-    },
     "baseSpecies": "floette",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0670-orange",
+        "menu": "0670-orange"
+    }
 }

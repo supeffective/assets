@@ -82,15 +82,11 @@
         "veekunDb": "zacian",
         "serebii": "zacian",
         "bulbapedia": "Zacian",
-        "homeSprite": "zacian",
-        "miniSprite": "zacian",
+        "homeSprite": "0888",
+        "miniSprite": "0888",
         "showdown": "zacian",
         "showdownDef": "Zacian",
         "smogon": "zacian"
-    },
-    "imgs": {
-        "home": "0888",
-        "menu": "0888"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -98,5 +94,9 @@
         "zacian",
         "zacian-crowned"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0888",
+        "menu": "0888"
+    }
 }

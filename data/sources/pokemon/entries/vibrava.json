@@ -99,20 +99,20 @@
         "veekunDb": "vibrava",
         "serebii": "vibrava",
         "bulbapedia": "Vibrava",
-        "homeSprite": "vibrava",
-        "miniSprite": "vibrava",
+        "homeSprite": "0329",
+        "miniSprite": "0329",
         "showdown": "vibrava",
         "showdownDef": "Vibrava",
         "smogon": "vibrava"
-    },
-    "imgs": {
-        "home": "0329",
-        "menu": "0329"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "vibrava"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0329",
+        "menu": "0329"
+    }
 }

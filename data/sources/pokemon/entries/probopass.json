@@ -95,20 +95,20 @@
         "veekunDb": "probopass",
         "serebii": "probopass",
         "bulbapedia": "Probopass",
-        "homeSprite": "probopass",
-        "miniSprite": "probopass",
+        "homeSprite": "0476",
+        "miniSprite": "0476",
         "showdown": "probopass",
         "showdownDef": "Probopass",
         "smogon": "probopass"
-    },
-    "imgs": {
-        "home": "0476",
-        "menu": "0476"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "probopass"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0476",
+        "menu": "0476"
+    }
 }

@@ -97,20 +97,20 @@
         "veekunDb": "azelf",
         "serebii": "azelf",
         "bulbapedia": "Azelf",
-        "homeSprite": "azelf",
-        "miniSprite": "azelf",
+        "homeSprite": "0482",
+        "miniSprite": "0482",
         "showdown": "azelf",
         "showdownDef": "Azelf",
         "smogon": "azelf"
-    },
-    "imgs": {
-        "home": "0482",
-        "menu": "0482"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "azelf"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0482",
+        "menu": "0482"
+    }
 }

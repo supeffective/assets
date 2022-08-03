@@ -95,20 +95,20 @@
         "veekunDb": "honchkrow",
         "serebii": "honchkrow",
         "bulbapedia": "Honchkrow",
-        "homeSprite": "honchkrow",
-        "miniSprite": "honchkrow",
+        "homeSprite": "0430",
+        "miniSprite": "0430",
         "showdown": "honchkrow",
         "showdownDef": "Honchkrow",
         "smogon": "honchkrow"
-    },
-    "imgs": {
-        "home": "0430",
-        "menu": "0430"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "honchkrow"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0430",
+        "menu": "0430"
+    }
 }

@@ -83,18 +83,18 @@
         "veekunDb": "vivillon-modern",
         "serebii": "vivillon",
         "bulbapedia": "Vivillon",
-        "homeSprite": "vivillon-modern",
-        "miniSprite": "vivillon-modern",
+        "homeSprite": "0666-modern",
+        "miniSprite": "0666-modern",
         "showdown": "vivillon",
         "showdownDef": "Vivillon-Modern",
         "smogon": "vivillon-modern"
     },
-    "imgs": {
-        "home": "0666-modern",
-        "menu": "0666-modern"
-    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0666-modern",
+        "menu": "0666-modern"
+    }
 }

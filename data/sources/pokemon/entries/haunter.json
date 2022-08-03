@@ -107,20 +107,20 @@
         "veekunDb": "haunter",
         "serebii": "haunter",
         "bulbapedia": "Haunter",
-        "homeSprite": "haunter",
-        "miniSprite": "haunter",
+        "homeSprite": "0093",
+        "miniSprite": "0093",
         "showdown": "haunter",
         "showdownDef": "Haunter",
         "smogon": "haunter"
-    },
-    "imgs": {
-        "home": "0093",
-        "menu": "0093"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "haunter"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0093",
+        "menu": "0093"
+    }
 }

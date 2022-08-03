@@ -86,20 +86,20 @@
         "veekunDb": "stufful",
         "serebii": "stufful",
         "bulbapedia": "Stufful",
-        "homeSprite": "stufful",
-        "miniSprite": "stufful",
+        "homeSprite": "0759",
+        "miniSprite": "0759",
         "showdown": "stufful",
         "showdownDef": "Stufful",
         "smogon": "stufful"
-    },
-    "imgs": {
-        "home": "0759",
-        "menu": "0759"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "stufful"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0759",
+        "menu": "0759"
+    }
 }

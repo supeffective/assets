@@ -82,18 +82,18 @@
         "veekunDb": "linoone-galar",
         "serebii": "linoone",
         "bulbapedia": "Linoone",
-        "homeSprite": "linoone-galar",
-        "miniSprite": "linoone-galar",
+        "homeSprite": "0264-galar",
+        "miniSprite": "0264-galar",
         "showdown": "linoonegalar",
         "showdownDef": "Linoone-Galar",
         "smogon": "linoone-galar"
     },
-    "imgs": {
-        "home": "0264-galar",
-        "menu": "0264-galar"
-    },
     "baseSpecies": "linoone",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0264-galar",
+        "menu": "0264-galar"
+    }
 }

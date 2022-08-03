@@ -82,20 +82,20 @@
         "veekunDb": "komala",
         "serebii": "komala",
         "bulbapedia": "Komala",
-        "homeSprite": "komala",
-        "miniSprite": "komala",
+        "homeSprite": "0775",
+        "miniSprite": "0775",
         "showdown": "komala",
         "showdownDef": "Komala",
         "smogon": "komala"
-    },
-    "imgs": {
-        "home": "0775",
-        "menu": "0775"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "komala"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0775",
+        "menu": "0775"
+    }
 }

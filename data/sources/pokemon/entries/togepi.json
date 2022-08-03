@@ -103,20 +103,20 @@
         "veekunDb": "togepi",
         "serebii": "togepi",
         "bulbapedia": "Togepi",
-        "homeSprite": "togepi",
-        "miniSprite": "togepi",
+        "homeSprite": "0175",
+        "miniSprite": "0175",
         "showdown": "togepi",
         "showdownDef": "Togepi",
         "smogon": "togepi"
-    },
-    "imgs": {
-        "home": "0175",
-        "menu": "0175"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "togepi"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0175",
+        "menu": "0175"
+    }
 }

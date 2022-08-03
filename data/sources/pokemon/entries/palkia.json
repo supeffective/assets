@@ -97,15 +97,11 @@
         "veekunDb": "palkia",
         "serebii": "palkia",
         "bulbapedia": "Palkia",
-        "homeSprite": "palkia",
-        "miniSprite": "palkia",
+        "homeSprite": "0484",
+        "miniSprite": "0484",
         "showdown": "palkia",
         "showdownDef": "Palkia",
         "smogon": "palkia"
-    },
-    "imgs": {
-        "home": "0484",
-        "menu": "0484"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -113,5 +109,9 @@
         "palkia",
         "palkia-origin"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0484",
+        "menu": "0484"
+    }
 }

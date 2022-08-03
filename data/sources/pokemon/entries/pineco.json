@@ -99,20 +99,20 @@
         "veekunDb": "pineco",
         "serebii": "pineco",
         "bulbapedia": "Pineco",
-        "homeSprite": "pineco",
-        "miniSprite": "pineco",
+        "homeSprite": "0204",
+        "miniSprite": "0204",
         "showdown": "pineco",
         "showdownDef": "Pineco",
         "smogon": "pineco"
-    },
-    "imgs": {
-        "home": "0204",
-        "menu": "0204"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "pineco"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0204",
+        "menu": "0204"
+    }
 }

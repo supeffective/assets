@@ -86,18 +86,18 @@
         "veekunDb": "graveler-alola",
         "serebii": "graveler",
         "bulbapedia": "Graveler",
-        "homeSprite": "graveler-alola",
-        "miniSprite": "graveler-alola",
+        "homeSprite": "0075-alola",
+        "miniSprite": "0075-alola",
         "showdown": "graveleralola",
         "showdownDef": "Graveler-Alola",
         "smogon": "graveler-alola"
     },
-    "imgs": {
-        "home": "0075-alola",
-        "menu": "0075-alola"
-    },
     "baseSpecies": "graveler",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0075-alola",
+        "menu": "0075-alola"
+    }
 }

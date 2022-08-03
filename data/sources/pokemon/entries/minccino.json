@@ -90,20 +90,20 @@
         "veekunDb": "minccino",
         "serebii": "minccino",
         "bulbapedia": "Minccino",
-        "homeSprite": "minccino",
-        "miniSprite": "minccino",
+        "homeSprite": "0572",
+        "miniSprite": "0572",
         "showdown": "minccino",
         "showdownDef": "Minccino",
         "smogon": "minccino"
-    },
-    "imgs": {
-        "home": "0572",
-        "menu": "0572"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "minccino"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0572",
+        "menu": "0572"
+    }
 }

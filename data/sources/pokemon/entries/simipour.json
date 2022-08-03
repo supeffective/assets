@@ -88,20 +88,20 @@
         "veekunDb": "simipour",
         "serebii": "simipour",
         "bulbapedia": "Simipour",
-        "homeSprite": "simipour",
-        "miniSprite": "simipour",
+        "homeSprite": "0516",
+        "miniSprite": "0516",
         "showdown": "simipour",
         "showdownDef": "Simipour",
         "smogon": "simipour"
-    },
-    "imgs": {
-        "home": "0516",
-        "menu": "0516"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "simipour"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0516",
+        "menu": "0516"
+    }
 }

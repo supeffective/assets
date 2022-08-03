@@ -90,20 +90,20 @@
         "veekunDb": "joltik",
         "serebii": "joltik",
         "bulbapedia": "Joltik",
-        "homeSprite": "joltik",
-        "miniSprite": "joltik",
+        "homeSprite": "0595",
+        "miniSprite": "0595",
         "showdown": "joltik",
         "showdownDef": "Joltik",
         "smogon": "joltik"
-    },
-    "imgs": {
-        "home": "0595",
-        "menu": "0595"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "joltik"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0595",
+        "menu": "0595"
+    }
 }

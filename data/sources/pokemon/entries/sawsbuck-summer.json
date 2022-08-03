@@ -88,18 +88,18 @@
         "veekunDb": "sawsbuck-summer",
         "serebii": "sawsbuck",
         "bulbapedia": "Sawsbuck",
-        "homeSprite": "sawsbuck-summer",
-        "miniSprite": "sawsbuck-summer",
+        "homeSprite": "0586-summer",
+        "miniSprite": "0586-summer",
         "showdown": "sawsbuck",
         "showdownDef": "Sawsbuck-Summer",
         "smogon": "sawsbuck-summer"
     },
-    "imgs": {
-        "home": "0586-summer",
-        "menu": "0586-summer"
-    },
     "baseSpecies": "sawsbuck",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0586-summer",
+        "menu": "0586-summer"
+    }
 }

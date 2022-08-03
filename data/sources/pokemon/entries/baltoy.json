@@ -99,20 +99,20 @@
         "veekunDb": "baltoy",
         "serebii": "baltoy",
         "bulbapedia": "Baltoy",
-        "homeSprite": "baltoy",
-        "miniSprite": "baltoy",
+        "homeSprite": "0343",
+        "miniSprite": "0343",
         "showdown": "baltoy",
         "showdownDef": "Baltoy",
         "smogon": "baltoy"
-    },
-    "imgs": {
-        "home": "0343",
-        "menu": "0343"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "baltoy"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0343",
+        "menu": "0343"
+    }
 }

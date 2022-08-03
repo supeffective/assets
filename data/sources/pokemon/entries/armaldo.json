@@ -99,20 +99,20 @@
         "veekunDb": "armaldo",
         "serebii": "armaldo",
         "bulbapedia": "Armaldo",
-        "homeSprite": "armaldo",
-        "miniSprite": "armaldo",
+        "homeSprite": "0348",
+        "miniSprite": "0348",
         "showdown": "armaldo",
         "showdownDef": "Armaldo",
         "smogon": "armaldo"
-    },
-    "imgs": {
-        "home": "0348",
-        "menu": "0348"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "armaldo"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0348",
+        "menu": "0348"
+    }
 }

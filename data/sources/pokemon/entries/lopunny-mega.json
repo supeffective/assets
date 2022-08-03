@@ -78,20 +78,20 @@
         "veekunDb": "lopunny-mega",
         "serebii": "lopunny",
         "bulbapedia": "Lopunny",
-        "homeSprite": "lopunny-mega",
-        "miniSprite": "lopunny-mega",
+        "homeSprite": "0428-mega",
+        "miniSprite": "0428-mega",
         "showdown": "lopunnymega",
         "showdownDef": "Lopunny-Mega",
         "smogon": "lopunny-mega"
-    },
-    "imgs": {
-        "home": "0428-mega",
-        "menu": "0428-mega"
     },
     "baseSpecies": "lopunny",
     "baseForms": [
         "lopunny"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0428-mega",
+        "menu": "0428-mega"
+    }
 }

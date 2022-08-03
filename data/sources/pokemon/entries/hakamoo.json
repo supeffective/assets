@@ -86,20 +86,20 @@
         "veekunDb": "hakamoo",
         "serebii": "hakamoo",
         "bulbapedia": "Hakamo-o",
-        "homeSprite": "hakamoo",
-        "miniSprite": "hakamoo",
+        "homeSprite": "0783",
+        "miniSprite": "0783",
         "showdown": "hakamoo",
         "showdownDef": "Hakamoo",
         "smogon": "hakamoo"
-    },
-    "imgs": {
-        "home": "0783",
-        "menu": "0783"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "hakamoo"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0783",
+        "menu": "0783"
+    }
 }

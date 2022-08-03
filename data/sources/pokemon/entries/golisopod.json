@@ -86,20 +86,20 @@
         "veekunDb": "golisopod",
         "serebii": "golisopod",
         "bulbapedia": "Golisopod",
-        "homeSprite": "golisopod",
-        "miniSprite": "golisopod",
+        "homeSprite": "0768",
+        "miniSprite": "0768",
         "showdown": "golisopod",
         "showdownDef": "Golisopod",
         "smogon": "golisopod"
-    },
-    "imgs": {
-        "home": "0768",
-        "menu": "0768"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "golisopod"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0768",
+        "menu": "0768"
+    }
 }

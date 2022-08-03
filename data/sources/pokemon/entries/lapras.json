@@ -105,15 +105,11 @@
         "veekunDb": "lapras",
         "serebii": "lapras",
         "bulbapedia": "Lapras",
-        "homeSprite": "lapras",
-        "miniSprite": "lapras",
+        "homeSprite": "0131",
+        "miniSprite": "0131",
         "showdown": "lapras",
         "showdownDef": "Lapras",
         "smogon": "lapras"
-    },
-    "imgs": {
-        "home": "0131",
-        "menu": "0131"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -121,5 +117,9 @@
         "lapras",
         "lapras-gmax"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0131",
+        "menu": "0131"
+    }
 }

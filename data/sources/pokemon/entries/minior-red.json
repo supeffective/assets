@@ -82,20 +82,20 @@
         "veekunDb": "minior-red",
         "serebii": "minior",
         "bulbapedia": "Minior",
-        "homeSprite": "minior-red",
-        "miniSprite": "minior-red",
+        "homeSprite": "0774-red",
+        "miniSprite": "0774-red",
         "showdown": "minior",
         "showdownDef": "Minior-Red",
         "smogon": "minior-red"
-    },
-    "imgs": {
-        "home": "0774-red",
-        "menu": "0774-red"
     },
     "baseSpecies": "minior",
     "baseForms": [
         "minior"
     ],
     "forms": [],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0774-red",
+        "menu": "0774-red"
+    }
 }

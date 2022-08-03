@@ -101,15 +101,11 @@
         "veekunDb": "corsola",
         "serebii": "corsola",
         "bulbapedia": "Corsola",
-        "homeSprite": "corsola",
-        "miniSprite": "corsola",
+        "homeSprite": "0222",
+        "miniSprite": "0222",
         "showdown": "corsola",
         "showdownDef": "Corsola",
         "smogon": "corsola"
-    },
-    "imgs": {
-        "home": "0222",
-        "menu": "0222"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -117,5 +113,9 @@
         "corsola",
         "corsola-galar"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0222",
+        "menu": "0222"
+    }
 }

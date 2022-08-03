@@ -83,18 +83,18 @@
         "veekunDb": "vivillon-marine",
         "serebii": "vivillon",
         "bulbapedia": "Vivillon",
-        "homeSprite": "vivillon-marine",
-        "miniSprite": "vivillon-marine",
+        "homeSprite": "0666-marine",
+        "miniSprite": "0666-marine",
         "showdown": "vivillon",
         "showdownDef": "Vivillon-Marine",
         "smogon": "vivillon-marine"
     },
-    "imgs": {
-        "home": "0666-marine",
-        "menu": "0666-marine"
-    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0666-marine",
+        "menu": "0666-marine"
+    }
 }

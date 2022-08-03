@@ -88,20 +88,20 @@
         "veekunDb": "panpour",
         "serebii": "panpour",
         "bulbapedia": "Panpour",
-        "homeSprite": "panpour",
-        "miniSprite": "panpour",
+        "homeSprite": "0515",
+        "miniSprite": "0515",
         "showdown": "panpour",
         "showdownDef": "Panpour",
         "smogon": "panpour"
-    },
-    "imgs": {
-        "home": "0515",
-        "menu": "0515"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "panpour"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0515",
+        "menu": "0515"
+    }
 }

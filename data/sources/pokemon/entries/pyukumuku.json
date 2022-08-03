@@ -84,20 +84,20 @@
         "veekunDb": "pyukumuku",
         "serebii": "pyukumuku",
         "bulbapedia": "Pyukumuku",
-        "homeSprite": "pyukumuku",
-        "miniSprite": "pyukumuku",
+        "homeSprite": "0771",
+        "miniSprite": "0771",
         "showdown": "pyukumuku",
         "showdownDef": "Pyukumuku",
         "smogon": "pyukumuku"
-    },
-    "imgs": {
-        "home": "0771",
-        "menu": "0771"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "pyukumuku"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0771",
+        "menu": "0771"
+    }
 }

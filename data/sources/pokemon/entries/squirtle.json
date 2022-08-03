@@ -105,20 +105,20 @@
         "veekunDb": "squirtle",
         "serebii": "squirtle",
         "bulbapedia": "Squirtle",
-        "homeSprite": "squirtle",
-        "miniSprite": "squirtle",
+        "homeSprite": "0007",
+        "miniSprite": "0007",
         "showdown": "squirtle",
         "showdownDef": "Squirtle",
         "smogon": "squirtle"
-    },
-    "imgs": {
-        "home": "0007",
-        "menu": "0007"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "squirtle"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0007",
+        "menu": "0007"
+    }
 }

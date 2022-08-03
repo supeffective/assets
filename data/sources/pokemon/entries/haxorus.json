@@ -90,20 +90,20 @@
         "veekunDb": "haxorus",
         "serebii": "haxorus",
         "bulbapedia": "Haxorus",
-        "homeSprite": "haxorus",
-        "miniSprite": "haxorus",
+        "homeSprite": "0612",
+        "miniSprite": "0612",
         "showdown": "haxorus",
         "showdownDef": "Haxorus",
         "smogon": "haxorus"
-    },
-    "imgs": {
-        "home": "0612",
-        "menu": "0612"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "haxorus"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0612",
+        "menu": "0612"
+    }
 }

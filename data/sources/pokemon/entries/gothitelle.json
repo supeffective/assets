@@ -90,20 +90,20 @@
         "veekunDb": "gothitelle",
         "serebii": "gothitelle",
         "bulbapedia": "Gothitelle",
-        "homeSprite": "gothitelle",
-        "miniSprite": "gothitelle",
+        "homeSprite": "0576",
+        "miniSprite": "0576",
         "showdown": "gothitelle",
         "showdownDef": "Gothitelle",
         "smogon": "gothitelle"
-    },
-    "imgs": {
-        "home": "0576",
-        "menu": "0576"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "gothitelle"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0576",
+        "menu": "0576"
+    }
 }

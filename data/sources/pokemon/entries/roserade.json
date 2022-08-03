@@ -97,15 +97,11 @@
         "veekunDb": "roserade",
         "serebii": "roserade",
         "bulbapedia": "Roserade",
-        "homeSprite": "roserade",
-        "miniSprite": "roserade",
+        "homeSprite": "0407",
+        "miniSprite": "0407",
         "showdown": "roserade",
         "showdownDef": "Roserade",
         "smogon": "roserade"
-    },
-    "imgs": {
-        "home": "0407",
-        "menu": "0407"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -113,5 +109,9 @@
         "roserade",
         "roserade-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0407",
+        "menu": "0407"
+    }
 }

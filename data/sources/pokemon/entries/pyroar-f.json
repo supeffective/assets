@@ -85,18 +85,18 @@
         "veekunDb": "pyroar",
         "serebii": "pyroar",
         "bulbapedia": "Pyroar",
-        "homeSprite": "pyroar-f",
-        "miniSprite": "pyroar-f",
+        "homeSprite": "0668-f",
+        "miniSprite": "0668-f",
         "showdown": "pyroar",
         "showdownDef": "Pyroar",
         "smogon": "pyroar"
     },
-    "imgs": {
-        "home": "0668-f",
-        "menu": "0668-f"
-    },
     "baseSpecies": "pyroar",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0668-f",
+        "menu": "0668-f"
+    }
 }

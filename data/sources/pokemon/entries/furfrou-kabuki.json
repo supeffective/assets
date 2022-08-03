@@ -85,20 +85,20 @@
         "veekunDb": "furfrou-kabuki",
         "serebii": "furfrou",
         "bulbapedia": "Furfrou",
-        "homeSprite": "furfrou-kabuki",
-        "miniSprite": "furfrou-kabuki",
+        "homeSprite": "0676-kabuki",
+        "miniSprite": "0676-kabuki",
         "showdown": "furfrou",
         "showdownDef": "Furfrou-Kabuki",
         "smogon": "furfrou-kabuki"
-    },
-    "imgs": {
-        "home": "0676-kabuki",
-        "menu": "0676-kabuki"
     },
     "baseSpecies": "furfrou",
     "baseForms": [
         "furfrou"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0676-kabuki",
+        "menu": "0676-kabuki"
+    }
 }

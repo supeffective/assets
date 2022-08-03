@@ -80,18 +80,18 @@
         "veekunDb": "alcremie-rainbow-swirl-star",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
-        "homeSprite": "alcremie-rainbow-swirl-star",
-        "miniSprite": "alcremie-rainbow-swirl-star",
+        "homeSprite": "0869-rainbow-swirl-star",
+        "miniSprite": "0869-rainbow-swirl-star",
         "showdown": "alcremie",
         "showdownDef": "Alcremie-Rainbow-Swirl-Star",
         "smogon": "alcremie-rainbow-swirl-star"
     },
-    "imgs": {
-        "home": "0869-rainbow-swirl-star",
-        "menu": "0869-rainbow-swirl-star"
-    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0869-rainbow-swirl-star",
+        "menu": "0869-rainbow-swirl-star"
+    }
 }

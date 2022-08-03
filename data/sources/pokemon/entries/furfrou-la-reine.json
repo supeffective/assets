@@ -85,20 +85,20 @@
         "veekunDb": "furfrou-la-reine",
         "serebii": "furfrou",
         "bulbapedia": "Furfrou",
-        "homeSprite": "furfrou-la-reine",
-        "miniSprite": "furfrou-la-reine",
+        "homeSprite": "0676-la-reine",
+        "miniSprite": "0676-la-reine",
         "showdown": "furfrou",
         "showdownDef": "Furfrou-La-Reine",
         "smogon": "furfrou-la-reine"
-    },
-    "imgs": {
-        "home": "0676-la-reine",
-        "menu": "0676-la-reine"
     },
     "baseSpecies": "furfrou",
     "baseForms": [
         "furfrou"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0676-la-reine",
+        "menu": "0676-la-reine"
+    }
 }

@@ -97,20 +97,20 @@
         "veekunDb": "drifblim",
         "serebii": "drifblim",
         "bulbapedia": "Drifblim",
-        "homeSprite": "drifblim",
-        "miniSprite": "drifblim",
+        "homeSprite": "0426",
+        "miniSprite": "0426",
         "showdown": "drifblim",
         "showdownDef": "Drifblim",
         "smogon": "drifblim"
-    },
-    "imgs": {
-        "home": "0426",
-        "menu": "0426"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "drifblim"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0426",
+        "menu": "0426"
+    }
 }

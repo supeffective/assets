@@ -105,15 +105,11 @@
         "veekunDb": "persian",
         "serebii": "persian",
         "bulbapedia": "Persian",
-        "homeSprite": "persian",
-        "miniSprite": "persian",
+        "homeSprite": "0053",
+        "miniSprite": "0053",
         "showdown": "persian",
         "showdownDef": "Persian",
         "smogon": "persian"
-    },
-    "imgs": {
-        "home": "0053",
-        "menu": "0053"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -121,5 +117,9 @@
         "persian",
         "persian-alola"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0053",
+        "menu": "0053"
+    }
 }

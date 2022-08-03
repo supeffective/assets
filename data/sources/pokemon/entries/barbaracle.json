@@ -87,20 +87,20 @@
         "veekunDb": "barbaracle",
         "serebii": "barbaracle",
         "bulbapedia": "Barbaracle",
-        "homeSprite": "barbaracle",
-        "miniSprite": "barbaracle",
+        "homeSprite": "0689",
+        "miniSprite": "0689",
         "showdown": "barbaracle",
         "showdownDef": "Barbaracle",
         "smogon": "barbaracle"
-    },
-    "imgs": {
-        "home": "0689",
-        "menu": "0689"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "barbaracle"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0689",
+        "menu": "0689"
+    }
 }

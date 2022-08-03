@@ -80,18 +80,18 @@
         "veekunDb": "alcremie-rainbow-swirl-clover",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
-        "homeSprite": "alcremie-rainbow-swirl-clover",
-        "miniSprite": "alcremie-rainbow-swirl-clover",
+        "homeSprite": "0869-rainbow-swirl-clover",
+        "miniSprite": "0869-rainbow-swirl-clover",
         "showdown": "alcremie",
         "showdownDef": "Alcremie-Rainbow-Swirl-Clover",
         "smogon": "alcremie-rainbow-swirl-clover"
     },
-    "imgs": {
-        "home": "0869-rainbow-swirl-clover",
-        "menu": "0869-rainbow-swirl-clover"
-    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0869-rainbow-swirl-clover",
+        "menu": "0869-rainbow-swirl-clover"
+    }
 }

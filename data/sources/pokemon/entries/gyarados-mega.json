@@ -78,20 +78,20 @@
         "veekunDb": "gyarados-mega",
         "serebii": "gyarados",
         "bulbapedia": "Gyarados",
-        "homeSprite": "gyarados-mega",
-        "miniSprite": "gyarados-mega",
+        "homeSprite": "0130-mega",
+        "miniSprite": "0130-mega",
         "showdown": "gyaradosmega",
         "showdownDef": "Gyarados-Mega",
         "smogon": "gyarados-mega"
-    },
-    "imgs": {
-        "home": "0130-mega",
-        "menu": "0130-mega"
     },
     "baseSpecies": "gyarados",
     "baseForms": [
         "gyarados"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0130-mega",
+        "menu": "0130-mega"
+    }
 }

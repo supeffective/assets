@@ -99,20 +99,20 @@
         "veekunDb": "torkoal",
         "serebii": "torkoal",
         "bulbapedia": "Torkoal",
-        "homeSprite": "torkoal",
-        "miniSprite": "torkoal",
+        "homeSprite": "0324",
+        "miniSprite": "0324",
         "showdown": "torkoal",
         "showdownDef": "Torkoal",
         "smogon": "torkoal"
-    },
-    "imgs": {
-        "home": "0324",
-        "menu": "0324"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "torkoal"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0324",
+        "menu": "0324"
+    }
 }

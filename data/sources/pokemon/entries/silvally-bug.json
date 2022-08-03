@@ -83,20 +83,20 @@
         "veekunDb": "silvally-bug",
         "serebii": "silvally",
         "bulbapedia": "Silvally",
-        "homeSprite": "silvally-bug",
-        "miniSprite": "silvally-bug",
+        "homeSprite": "0773-bug",
+        "miniSprite": "0773-bug",
         "showdown": "silvallybug",
         "showdownDef": "Silvally-Bug",
         "smogon": "silvally-bug"
-    },
-    "imgs": {
-        "home": "0773-bug",
-        "menu": "0773-bug"
     },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0773-bug",
+        "menu": "0773-bug"
+    }
 }

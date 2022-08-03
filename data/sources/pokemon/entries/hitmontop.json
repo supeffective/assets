@@ -101,20 +101,20 @@
         "veekunDb": "hitmontop",
         "serebii": "hitmontop",
         "bulbapedia": "Hitmontop",
-        "homeSprite": "hitmontop",
-        "miniSprite": "hitmontop",
+        "homeSprite": "0237",
+        "miniSprite": "0237",
         "showdown": "hitmontop",
         "showdownDef": "Hitmontop",
         "smogon": "hitmontop"
-    },
-    "imgs": {
-        "home": "0237",
-        "menu": "0237"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "hitmontop"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0237",
+        "menu": "0237"
+    }
 }

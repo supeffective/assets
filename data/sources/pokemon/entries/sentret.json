@@ -99,20 +99,20 @@
         "veekunDb": "sentret",
         "serebii": "sentret",
         "bulbapedia": "Sentret",
-        "homeSprite": "sentret",
-        "miniSprite": "sentret",
+        "homeSprite": "0161",
+        "miniSprite": "0161",
         "showdown": "sentret",
         "showdownDef": "Sentret",
         "smogon": "sentret"
-    },
-    "imgs": {
-        "home": "0161",
-        "menu": "0161"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "sentret"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0161",
+        "menu": "0161"
+    }
 }

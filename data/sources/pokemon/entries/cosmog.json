@@ -84,20 +84,20 @@
         "veekunDb": "cosmog",
         "serebii": "cosmog",
         "bulbapedia": "Cosmog",
-        "homeSprite": "cosmog",
-        "miniSprite": "cosmog",
+        "homeSprite": "0789",
+        "miniSprite": "0789",
         "showdown": "cosmog",
         "showdownDef": "Cosmog",
         "smogon": "cosmog"
-    },
-    "imgs": {
-        "home": "0789",
-        "menu": "0789"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "cosmog"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0789",
+        "menu": "0789"
+    }
 }

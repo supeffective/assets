@@ -79,20 +79,20 @@
         "veekunDb": "quaxly",
         "serebii": "quaxly",
         "bulbapedia": "Quaxly",
-        "homeSprite": "quaxly",
-        "miniSprite": "quaxly",
+        "homeSprite": "9007",
+        "miniSprite": "9007",
         "showdown": "quaxly",
         "showdownDef": "Quaxly",
         "smogon": "quaxly"
-    },
-    "imgs": {
-        "home": "9007",
-        "menu": "9007"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "quaxly"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "9007",
+        "menu": "9007"
+    }
 }

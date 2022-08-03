@@ -78,20 +78,20 @@
         "veekunDb": "pinsir-mega",
         "serebii": "pinsir",
         "bulbapedia": "Pinsir",
-        "homeSprite": "pinsir-mega",
-        "miniSprite": "pinsir-mega",
+        "homeSprite": "0127-mega",
+        "miniSprite": "0127-mega",
         "showdown": "pinsirmega",
         "showdownDef": "Pinsir-Mega",
         "smogon": "pinsir-mega"
-    },
-    "imgs": {
-        "home": "0127-mega",
-        "menu": "0127-mega"
     },
     "baseSpecies": "pinsir",
     "baseForms": [
         "pinsir"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0127-mega",
+        "menu": "0127-mega"
+    }
 }

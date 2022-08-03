@@ -103,20 +103,20 @@
         "veekunDb": "seel",
         "serebii": "seel",
         "bulbapedia": "Seel",
-        "homeSprite": "seel",
-        "miniSprite": "seel",
+        "homeSprite": "0086",
+        "miniSprite": "0086",
         "showdown": "seel",
         "showdownDef": "Seel",
         "smogon": "seel"
-    },
-    "imgs": {
-        "home": "0086",
-        "menu": "0086"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "seel"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0086",
+        "menu": "0086"
+    }
 }

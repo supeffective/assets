@@ -90,20 +90,20 @@
         "veekunDb": "chandelure",
         "serebii": "chandelure",
         "bulbapedia": "Chandelure",
-        "homeSprite": "chandelure",
-        "miniSprite": "chandelure",
+        "homeSprite": "0609",
+        "miniSprite": "0609",
         "showdown": "chandelure",
         "showdownDef": "Chandelure",
         "smogon": "chandelure"
-    },
-    "imgs": {
-        "home": "0609",
-        "menu": "0609"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "chandelure"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0609",
+        "menu": "0609"
+    }
 }

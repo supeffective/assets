@@ -97,20 +97,20 @@
         "veekunDb": "budew",
         "serebii": "budew",
         "bulbapedia": "Budew",
-        "homeSprite": "budew",
-        "miniSprite": "budew",
+        "homeSprite": "0406",
+        "miniSprite": "0406",
         "showdown": "budew",
         "showdownDef": "Budew",
         "smogon": "budew"
-    },
-    "imgs": {
-        "home": "0406",
-        "menu": "0406"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "budew"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0406",
+        "menu": "0406"
+    }
 }

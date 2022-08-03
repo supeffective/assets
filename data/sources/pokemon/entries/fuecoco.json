@@ -79,20 +79,20 @@
         "veekunDb": "fuecoco",
         "serebii": "fuecoco",
         "bulbapedia": "Fuecoco",
-        "homeSprite": "fuecoco",
-        "miniSprite": "fuecoco",
+        "homeSprite": "9004",
+        "miniSprite": "9004",
         "showdown": "fuecoco",
         "showdownDef": "Fuecoco",
         "smogon": "fuecoco"
-    },
-    "imgs": {
-        "home": "9004",
-        "menu": "9004"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "fuecoco"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "9004",
+        "menu": "9004"
+    }
 }

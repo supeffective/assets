@@ -101,20 +101,20 @@
         "veekunDb": "entei",
         "serebii": "entei",
         "bulbapedia": "Entei",
-        "homeSprite": "entei",
-        "miniSprite": "entei",
+        "homeSprite": "0244",
+        "miniSprite": "0244",
         "showdown": "entei",
         "showdownDef": "Entei",
         "smogon": "entei"
-    },
-    "imgs": {
-        "home": "0244",
-        "menu": "0244"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "entei"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0244",
+        "menu": "0244"
+    }
 }

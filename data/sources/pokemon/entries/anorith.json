@@ -99,20 +99,20 @@
         "veekunDb": "anorith",
         "serebii": "anorith",
         "bulbapedia": "Anorith",
-        "homeSprite": "anorith",
-        "miniSprite": "anorith",
+        "homeSprite": "0347",
+        "miniSprite": "0347",
         "showdown": "anorith",
         "showdownDef": "Anorith",
         "smogon": "anorith"
-    },
-    "imgs": {
-        "home": "0347",
-        "menu": "0347"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "anorith"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0347",
+        "menu": "0347"
+    }
 }

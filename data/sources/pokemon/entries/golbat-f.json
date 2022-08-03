@@ -97,18 +97,18 @@
         "veekunDb": "golbat",
         "serebii": "golbat",
         "bulbapedia": "Golbat",
-        "homeSprite": "golbat-f",
-        "miniSprite": "golbat-f",
+        "homeSprite": "0042-f",
+        "miniSprite": "0042",
         "showdown": "golbat",
         "showdownDef": "Golbat",
         "smogon": "golbat"
     },
-    "imgs": {
-        "home": "0042-f",
-        "menu": "0042"
-    },
     "baseSpecies": "golbat",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0042-f",
+        "menu": "0042"
+    }
 }

@@ -78,20 +78,20 @@
         "veekunDb": "salamence-mega",
         "serebii": "salamence",
         "bulbapedia": "Salamence",
-        "homeSprite": "salamence-mega",
-        "miniSprite": "salamence-mega",
+        "homeSprite": "0373-mega",
+        "miniSprite": "0373-mega",
         "showdown": "salamencemega",
         "showdownDef": "Salamence-Mega",
         "smogon": "salamence-mega"
-    },
-    "imgs": {
-        "home": "0373-mega",
-        "menu": "0373-mega"
     },
     "baseSpecies": "salamence",
     "baseForms": [
         "salamence"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0373-mega",
+        "menu": "0373-mega"
+    }
 }

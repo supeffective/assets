@@ -85,20 +85,20 @@
         "veekunDb": "froakie",
         "serebii": "froakie",
         "bulbapedia": "Froakie",
-        "homeSprite": "froakie",
-        "miniSprite": "froakie",
+        "homeSprite": "0656",
+        "miniSprite": "0656",
         "showdown": "froakie",
         "showdownDef": "Froakie",
         "smogon": "froakie"
-    },
-    "imgs": {
-        "home": "0656",
-        "menu": "0656"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "froakie"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0656",
+        "menu": "0656"
+    }
 }

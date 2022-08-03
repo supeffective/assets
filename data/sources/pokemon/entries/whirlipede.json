@@ -90,20 +90,20 @@
         "veekunDb": "whirlipede",
         "serebii": "whirlipede",
         "bulbapedia": "Whirlipede",
-        "homeSprite": "whirlipede",
-        "miniSprite": "whirlipede",
+        "homeSprite": "0544",
+        "miniSprite": "0544",
         "showdown": "whirlipede",
         "showdownDef": "Whirlipede",
         "smogon": "whirlipede"
-    },
-    "imgs": {
-        "home": "0544",
-        "menu": "0544"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "whirlipede"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0544",
+        "menu": "0544"
+    }
 }

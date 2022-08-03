@@ -90,20 +90,20 @@
         "veekunDb": "throh",
         "serebii": "throh",
         "bulbapedia": "Throh",
-        "homeSprite": "throh",
-        "miniSprite": "throh",
+        "homeSprite": "0538",
+        "miniSprite": "0538",
         "showdown": "throh",
         "showdownDef": "Throh",
         "smogon": "throh"
-    },
-    "imgs": {
-        "home": "0538",
-        "menu": "0538"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "throh"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0538",
+        "menu": "0538"
+    }
 }

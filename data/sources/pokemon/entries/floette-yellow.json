@@ -85,18 +85,18 @@
         "veekunDb": "floette-yellow",
         "serebii": "floette",
         "bulbapedia": "Floette",
-        "homeSprite": "floette-yellow",
-        "miniSprite": "floette-yellow",
+        "homeSprite": "0670-yellow",
+        "miniSprite": "0670-yellow",
         "showdown": "floette",
         "showdownDef": "Floette-Yellow",
         "smogon": "floette-yellow"
     },
-    "imgs": {
-        "home": "0670-yellow",
-        "menu": "0670-yellow"
-    },
     "baseSpecies": "floette",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0670-yellow",
+        "menu": "0670-yellow"
+    }
 }

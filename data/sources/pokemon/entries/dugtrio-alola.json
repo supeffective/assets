@@ -88,18 +88,18 @@
         "veekunDb": "dugtrio-alola",
         "serebii": "dugtrio",
         "bulbapedia": "Dugtrio",
-        "homeSprite": "dugtrio-alola",
-        "miniSprite": "dugtrio-alola",
+        "homeSprite": "0051-alola",
+        "miniSprite": "0051-alola",
         "showdown": "dugtrioalola",
         "showdownDef": "Dugtrio-Alola",
         "smogon": "dugtrio-alola"
     },
-    "imgs": {
-        "home": "0051-alola",
-        "menu": "0051-alola"
-    },
     "baseSpecies": "dugtrio",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0051-alola",
+        "menu": "0051-alola"
+    }
 }

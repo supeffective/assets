@@ -84,15 +84,11 @@
         "veekunDb": "zygarde-10-power-construct",
         "serebii": "zygarde",
         "bulbapedia": "Zygarde",
-        "homeSprite": "zygarde-10--power-construct",
-        "miniSprite": "zygarde-10--power-construct",
+        "homeSprite": "0718-10",
+        "miniSprite": "0718-10",
         "showdown": "zygarde10",
         "showdownDef": "Zygarde-10",
         "smogon": "zygarde-10--power-construct"
-    },
-    "imgs": {
-        "home": "0718-10",
-        "menu": "0718-10"
     },
     "baseSpecies": "zygarde",
     "baseForms": [
@@ -101,5 +97,9 @@
     "forms": [
         "zygarde-complete"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0718-10",
+        "menu": "0718-10"
+    }
 }

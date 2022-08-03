@@ -82,20 +82,20 @@
         "veekunDb": "bruxish",
         "serebii": "bruxish",
         "bulbapedia": "Bruxish",
-        "homeSprite": "bruxish",
-        "miniSprite": "bruxish",
+        "homeSprite": "0779",
+        "miniSprite": "0779",
         "showdown": "bruxish",
         "showdownDef": "Bruxish",
         "smogon": "bruxish"
-    },
-    "imgs": {
-        "home": "0779",
-        "menu": "0779"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "bruxish"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0779",
+        "menu": "0779"
+    }
 }

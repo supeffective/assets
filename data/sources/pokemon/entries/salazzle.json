@@ -86,20 +86,20 @@
         "veekunDb": "salazzle",
         "serebii": "salazzle",
         "bulbapedia": "Salazzle",
-        "homeSprite": "salazzle",
-        "miniSprite": "salazzle",
+        "homeSprite": "0758",
+        "miniSprite": "0758",
         "showdown": "salazzle",
         "showdownDef": "Salazzle",
         "smogon": "salazzle"
-    },
-    "imgs": {
-        "home": "0758",
-        "menu": "0758"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "salazzle"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0758",
+        "menu": "0758"
+    }
 }

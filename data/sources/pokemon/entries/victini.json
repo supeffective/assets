@@ -90,20 +90,20 @@
         "veekunDb": "victini",
         "serebii": "victini",
         "bulbapedia": "Victini",
-        "homeSprite": "victini",
-        "miniSprite": "victini",
+        "homeSprite": "0494",
+        "miniSprite": "0494",
         "showdown": "victini",
         "showdownDef": "Victini",
         "smogon": "victini"
-    },
-    "imgs": {
-        "home": "0494",
-        "menu": "0494"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "victini"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0494",
+        "menu": "0494"
+    }
 }

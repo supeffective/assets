@@ -85,14 +85,14 @@
         "homeSprite": "9050",
         "miniSprite": "9050"
     },
-    "imgs": {
-        "home": "9050",
-        "menu": "9050"
-    },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "fidough"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "9050",
+        "menu": "9050"
+    }
 }

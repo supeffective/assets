@@ -107,20 +107,20 @@
         "veekunDb": "electabuzz",
         "serebii": "electabuzz",
         "bulbapedia": "Electabuzz",
-        "homeSprite": "electabuzz",
-        "miniSprite": "electabuzz",
+        "homeSprite": "0125",
+        "miniSprite": "0125",
         "showdown": "electabuzz",
         "showdownDef": "Electabuzz",
         "smogon": "electabuzz"
-    },
-    "imgs": {
-        "home": "0125",
-        "menu": "0125"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "electabuzz"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0125",
+        "menu": "0125"
+    }
 }

@@ -95,20 +95,20 @@
         "veekunDb": "chatot",
         "serebii": "chatot",
         "bulbapedia": "Chatot",
-        "homeSprite": "chatot",
-        "miniSprite": "chatot",
+        "homeSprite": "0441",
+        "miniSprite": "0441",
         "showdown": "chatot",
         "showdownDef": "Chatot",
         "smogon": "chatot"
-    },
-    "imgs": {
-        "home": "0441",
-        "menu": "0441"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "chatot"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0441",
+        "menu": "0441"
+    }
 }

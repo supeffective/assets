@@ -90,20 +90,20 @@
         "veekunDb": "karrablast",
         "serebii": "karrablast",
         "bulbapedia": "Karrablast",
-        "homeSprite": "karrablast",
-        "miniSprite": "karrablast",
+        "homeSprite": "0588",
+        "miniSprite": "0588",
         "showdown": "karrablast",
         "showdownDef": "Karrablast",
         "smogon": "karrablast"
-    },
-    "imgs": {
-        "home": "0588",
-        "menu": "0588"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "karrablast"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0588",
+        "menu": "0588"
+    }
 }

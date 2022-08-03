@@ -99,15 +99,11 @@
         "veekunDb": "sceptile",
         "serebii": "sceptile",
         "bulbapedia": "Sceptile",
-        "homeSprite": "sceptile",
-        "miniSprite": "sceptile",
+        "homeSprite": "0254",
+        "miniSprite": "0254",
         "showdown": "sceptile",
         "showdownDef": "Sceptile",
         "smogon": "sceptile"
-    },
-    "imgs": {
-        "home": "0254",
-        "menu": "0254"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -115,5 +111,9 @@
         "sceptile",
         "sceptile-mega"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0254",
+        "menu": "0254"
+    }
 }

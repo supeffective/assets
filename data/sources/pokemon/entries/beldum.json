@@ -99,20 +99,20 @@
         "veekunDb": "beldum",
         "serebii": "beldum",
         "bulbapedia": "Beldum",
-        "homeSprite": "beldum",
-        "miniSprite": "beldum",
+        "homeSprite": "0374",
+        "miniSprite": "0374",
         "showdown": "beldum",
         "showdownDef": "Beldum",
         "smogon": "beldum"
-    },
-    "imgs": {
-        "home": "0374",
-        "menu": "0374"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "beldum"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0374",
+        "menu": "0374"
+    }
 }

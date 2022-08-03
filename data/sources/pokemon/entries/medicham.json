@@ -97,15 +97,11 @@
         "veekunDb": "medicham",
         "serebii": "medicham",
         "bulbapedia": "Medicham",
-        "homeSprite": "medicham",
-        "miniSprite": "medicham",
+        "homeSprite": "0308",
+        "miniSprite": "0308",
         "showdown": "medicham",
         "showdownDef": "Medicham",
         "smogon": "medicham"
-    },
-    "imgs": {
-        "home": "0308",
-        "menu": "0308"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -114,5 +110,9 @@
         "medicham-f",
         "medicham-mega"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0308",
+        "menu": "0308"
+    }
 }

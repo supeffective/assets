@@ -90,20 +90,20 @@
         "veekunDb": "herdier",
         "serebii": "herdier",
         "bulbapedia": "Herdier",
-        "homeSprite": "herdier",
-        "miniSprite": "herdier",
+        "homeSprite": "0507",
+        "miniSprite": "0507",
         "showdown": "herdier",
         "showdownDef": "Herdier",
         "smogon": "herdier"
-    },
-    "imgs": {
-        "home": "0507",
-        "menu": "0507"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "herdier"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0507",
+        "menu": "0507"
+    }
 }

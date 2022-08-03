@@ -88,20 +88,20 @@
         "veekunDb": "pansage",
         "serebii": "pansage",
         "bulbapedia": "Pansage",
-        "homeSprite": "pansage",
-        "miniSprite": "pansage",
+        "homeSprite": "0511",
+        "miniSprite": "0511",
         "showdown": "pansage",
         "showdownDef": "Pansage",
         "smogon": "pansage"
-    },
-    "imgs": {
-        "home": "0511",
-        "menu": "0511"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "pansage"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0511",
+        "menu": "0511"
+    }
 }

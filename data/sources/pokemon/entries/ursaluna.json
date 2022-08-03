@@ -80,20 +80,20 @@
         "veekunDb": "ursaluna",
         "serebii": "ursaluna",
         "bulbapedia": "Ursaluna",
-        "homeSprite": "ursaluna",
-        "miniSprite": "ursaluna",
+        "homeSprite": "0901",
+        "miniSprite": "0901",
         "showdown": "ursaluna",
         "showdownDef": "Ursaluna",
         "smogon": "ursaluna"
-    },
-    "imgs": {
-        "home": "0901",
-        "menu": "0901"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "ursaluna"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0901",
+        "menu": "0901"
+    }
 }

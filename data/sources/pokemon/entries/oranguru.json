@@ -86,20 +86,20 @@
         "veekunDb": "oranguru",
         "serebii": "oranguru",
         "bulbapedia": "Oranguru",
-        "homeSprite": "oranguru",
-        "miniSprite": "oranguru",
+        "homeSprite": "0765",
+        "miniSprite": "0765",
         "showdown": "oranguru",
         "showdownDef": "Oranguru",
         "smogon": "oranguru"
-    },
-    "imgs": {
-        "home": "0765",
-        "menu": "0765"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "oranguru"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0765",
+        "menu": "0765"
+    }
 }

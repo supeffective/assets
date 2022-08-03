@@ -95,20 +95,20 @@
         "veekunDb": "chimchar",
         "serebii": "chimchar",
         "bulbapedia": "Chimchar",
-        "homeSprite": "chimchar",
-        "miniSprite": "chimchar",
+        "homeSprite": "0390",
+        "miniSprite": "0390",
         "showdown": "chimchar",
         "showdownDef": "Chimchar",
         "smogon": "chimchar"
-    },
-    "imgs": {
-        "home": "0390",
-        "menu": "0390"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "chimchar"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0390",
+        "menu": "0390"
+    }
 }

@@ -107,15 +107,11 @@
         "veekunDb": "machamp",
         "serebii": "machamp",
         "bulbapedia": "Machamp",
-        "homeSprite": "machamp",
-        "miniSprite": "machamp",
+        "homeSprite": "0068",
+        "miniSprite": "0068",
         "showdown": "machamp",
         "showdownDef": "Machamp",
         "smogon": "machamp"
-    },
-    "imgs": {
-        "home": "0068",
-        "menu": "0068"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -123,5 +119,9 @@
         "machamp",
         "machamp-gmax"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0068",
+        "menu": "0068"
+    }
 }

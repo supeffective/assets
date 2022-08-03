@@ -87,20 +87,20 @@
         "veekunDb": "bunnelby",
         "serebii": "bunnelby",
         "bulbapedia": "Bunnelby",
-        "homeSprite": "bunnelby",
-        "miniSprite": "bunnelby",
+        "homeSprite": "0659",
+        "miniSprite": "0659",
         "showdown": "bunnelby",
         "showdownDef": "Bunnelby",
         "smogon": "bunnelby"
-    },
-    "imgs": {
-        "home": "0659",
-        "menu": "0659"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "bunnelby"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0659",
+        "menu": "0659"
+    }
 }

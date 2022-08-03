@@ -105,15 +105,11 @@
         "veekunDb": "zapdos",
         "serebii": "zapdos",
         "bulbapedia": "Zapdos",
-        "homeSprite": "zapdos",
-        "miniSprite": "zapdos",
+        "homeSprite": "0145",
+        "miniSprite": "0145",
         "showdown": "zapdos",
         "showdownDef": "Zapdos",
         "smogon": "zapdos"
-    },
-    "imgs": {
-        "home": "0145",
-        "menu": "0145"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -121,5 +117,9 @@
         "zapdos",
         "zapdos-galar"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0145",
+        "menu": "0145"
+    }
 }

@@ -101,18 +101,18 @@
         "veekunDb": "unown-o",
         "serebii": "unown",
         "bulbapedia": "Unown",
-        "homeSprite": "unown-o",
-        "miniSprite": "unown-o",
+        "homeSprite": "0201-o",
+        "miniSprite": "0201-o",
         "showdown": "unown",
         "showdownDef": "Unown-O",
         "smogon": "unown-o"
     },
-    "imgs": {
-        "home": "0201-o",
-        "menu": "0201-o"
-    },
     "baseSpecies": "unown",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0201-o",
+        "menu": "0201-o"
+    }
 }

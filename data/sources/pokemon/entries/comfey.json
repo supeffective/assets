@@ -84,20 +84,20 @@
         "veekunDb": "comfey",
         "serebii": "comfey",
         "bulbapedia": "Comfey",
-        "homeSprite": "comfey",
-        "miniSprite": "comfey",
+        "homeSprite": "0764",
+        "miniSprite": "0764",
         "showdown": "comfey",
         "showdownDef": "Comfey",
         "smogon": "comfey"
-    },
-    "imgs": {
-        "home": "0764",
-        "menu": "0764"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "comfey"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0764",
+        "menu": "0764"
+    }
 }

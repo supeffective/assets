@@ -101,20 +101,20 @@
         "veekunDb": "hooh",
         "serebii": "hooh",
         "bulbapedia": "Ho-Oh",
-        "homeSprite": "hooh",
-        "miniSprite": "hooh",
+        "homeSprite": "0250",
+        "miniSprite": "0250",
         "showdown": "hooh",
         "showdownDef": "Hooh",
         "smogon": "hooh"
-    },
-    "imgs": {
-        "home": "0250",
-        "menu": "0250"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "hooh"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0250",
+        "menu": "0250"
+    }
 }

@@ -87,20 +87,20 @@
         "veekunDb": "malamar",
         "serebii": "malamar",
         "bulbapedia": "Malamar",
-        "homeSprite": "malamar",
-        "miniSprite": "malamar",
+        "homeSprite": "0687",
+        "miniSprite": "0687",
         "showdown": "malamar",
         "showdownDef": "Malamar",
         "smogon": "malamar"
-    },
-    "imgs": {
-        "home": "0687",
-        "menu": "0687"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "malamar"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0687",
+        "menu": "0687"
+    }
 }

@@ -97,20 +97,20 @@
         "veekunDb": "bronzor",
         "serebii": "bronzor",
         "bulbapedia": "Bronzor",
-        "homeSprite": "bronzor",
-        "miniSprite": "bronzor",
+        "homeSprite": "0436",
+        "miniSprite": "0436",
         "showdown": "bronzor",
         "showdownDef": "Bronzor",
         "smogon": "bronzor"
-    },
-    "imgs": {
-        "home": "0436",
-        "menu": "0436"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "bronzor"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0436",
+        "menu": "0436"
+    }
 }

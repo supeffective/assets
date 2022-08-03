@@ -92,20 +92,20 @@
         "veekunDb": "rufflet",
         "serebii": "rufflet",
         "bulbapedia": "Rufflet",
-        "homeSprite": "rufflet",
-        "miniSprite": "rufflet",
+        "homeSprite": "0627",
+        "miniSprite": "0627",
         "showdown": "rufflet",
         "showdownDef": "Rufflet",
         "smogon": "rufflet"
-    },
-    "imgs": {
-        "home": "0627",
-        "menu": "0627"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "rufflet"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0627",
+        "menu": "0627"
+    }
 }

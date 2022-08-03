@@ -98,18 +98,18 @@
         "veekunDb": "unown-exclamation",
         "serebii": "unown",
         "bulbapedia": "Unown",
-        "homeSprite": "unown-exclamation",
-        "miniSprite": "unown-exclamation",
+        "homeSprite": "0201-exclamation",
+        "miniSprite": "0201-exclamation",
         "showdown": "unown",
         "showdownDef": "Unown-Exclamation",
         "smogon": "unown-exclamation"
     },
-    "imgs": {
-        "home": "0201-exclamation",
-        "menu": "0201-exclamation"
-    },
     "baseSpecies": "unown",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0201-exclamation",
+        "menu": "0201-exclamation"
+    }
 }

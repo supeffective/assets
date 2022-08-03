@@ -95,15 +95,11 @@
         "veekunDb": "finneon",
         "serebii": "finneon",
         "bulbapedia": "Finneon",
-        "homeSprite": "finneon",
-        "miniSprite": "finneon",
+        "homeSprite": "0456",
+        "miniSprite": "0456",
         "showdown": "finneon",
         "showdownDef": "Finneon",
         "smogon": "finneon"
-    },
-    "imgs": {
-        "home": "0456",
-        "menu": "0456"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -111,5 +107,9 @@
         "finneon",
         "finneon-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0456",
+        "menu": "0456"
+    }
 }

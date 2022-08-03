@@ -77,20 +77,20 @@
         "veekunDb": "darmanitan-galar-zen",
         "serebii": "darmanitan",
         "bulbapedia": "Darmanitan",
-        "homeSprite": "darmanitan-galar-zen",
-        "miniSprite": "darmanitan-galar-zen",
+        "homeSprite": "0555-galar-zen",
+        "miniSprite": "0555-galar-zen",
         "showdown": "darmanitangalarzen",
         "showdownDef": "Darmanitan-Galar-Zen",
         "smogon": "darmanitan-galar-zen"
-    },
-    "imgs": {
-        "home": "0555-galar-zen",
-        "menu": "0555-galar-zen"
     },
     "baseSpecies": "darmanitan",
     "baseForms": [
         "darmanitan-galar"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0555-galar-zen",
+        "menu": "0555-galar-zen"
+    }
 }

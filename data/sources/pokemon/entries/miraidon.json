@@ -79,20 +79,20 @@
         "veekunDb": "miraidon",
         "serebii": "miraidon",
         "bulbapedia": "Miraidon",
-        "homeSprite": "miraidon",
-        "miniSprite": "miraidon",
+        "homeSprite": "9901",
+        "miniSprite": "9901",
         "showdown": "miraidon",
         "showdownDef": "Miraidon",
         "smogon": "miraidon"
-    },
-    "imgs": {
-        "home": "9901",
-        "menu": "9901"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "miraidon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "9901",
+        "menu": "9901"
+    }
 }

@@ -90,15 +90,11 @@
         "veekunDb": "braviary",
         "serebii": "braviary",
         "bulbapedia": "Braviary",
-        "homeSprite": "braviary",
-        "miniSprite": "braviary",
+        "homeSprite": "0628",
+        "miniSprite": "0628",
         "showdown": "braviary",
         "showdownDef": "Braviary",
         "smogon": "braviary"
-    },
-    "imgs": {
-        "home": "0628",
-        "menu": "0628"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -106,5 +102,9 @@
         "braviary",
         "braviary-hisui"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0628",
+        "menu": "0628"
+    }
 }

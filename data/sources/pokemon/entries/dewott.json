@@ -90,20 +90,20 @@
         "veekunDb": "dewott",
         "serebii": "dewott",
         "bulbapedia": "Dewott",
-        "homeSprite": "dewott",
-        "miniSprite": "dewott",
+        "homeSprite": "0502",
+        "miniSprite": "0502",
         "showdown": "dewott",
         "showdownDef": "Dewott",
         "smogon": "dewott"
-    },
-    "imgs": {
-        "home": "0502",
-        "menu": "0502"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "dewott"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0502",
+        "menu": "0502"
+    }
 }

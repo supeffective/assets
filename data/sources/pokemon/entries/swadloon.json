@@ -88,20 +88,20 @@
         "veekunDb": "swadloon",
         "serebii": "swadloon",
         "bulbapedia": "Swadloon",
-        "homeSprite": "swadloon",
-        "miniSprite": "swadloon",
+        "homeSprite": "0541",
+        "miniSprite": "0541",
         "showdown": "swadloon",
         "showdownDef": "Swadloon",
         "smogon": "swadloon"
-    },
-    "imgs": {
-        "home": "0541",
-        "menu": "0541"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "swadloon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0541",
+        "menu": "0541"
+    }
 }

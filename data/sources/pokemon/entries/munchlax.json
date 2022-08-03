@@ -97,20 +97,20 @@
         "veekunDb": "munchlax",
         "serebii": "munchlax",
         "bulbapedia": "Munchlax",
-        "homeSprite": "munchlax",
-        "miniSprite": "munchlax",
+        "homeSprite": "0446",
+        "miniSprite": "0446",
         "showdown": "munchlax",
         "showdownDef": "Munchlax",
         "smogon": "munchlax"
-    },
-    "imgs": {
-        "home": "0446",
-        "menu": "0446"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "munchlax"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0446",
+        "menu": "0446"
+    }
 }

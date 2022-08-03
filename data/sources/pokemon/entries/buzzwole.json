@@ -86,20 +86,20 @@
         "veekunDb": "buzzwole",
         "serebii": "buzzwole",
         "bulbapedia": "Buzzwole",
-        "homeSprite": "buzzwole",
-        "miniSprite": "buzzwole",
+        "homeSprite": "0794",
+        "miniSprite": "0794",
         "showdown": "buzzwole",
         "showdownDef": "Buzzwole",
         "smogon": "buzzwole"
-    },
-    "imgs": {
-        "home": "0794",
-        "menu": "0794"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "buzzwole"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0794",
+        "menu": "0794"
+    }
 }

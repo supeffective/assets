@@ -80,20 +80,20 @@
         "veekunDb": "rookidee",
         "serebii": "rookidee",
         "bulbapedia": "Rookidee",
-        "homeSprite": "rookidee",
-        "miniSprite": "rookidee",
+        "homeSprite": "0821",
+        "miniSprite": "0821",
         "showdown": "rookidee",
         "showdownDef": "Rookidee",
         "smogon": "rookidee"
-    },
-    "imgs": {
-        "home": "0821",
-        "menu": "0821"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "rookidee"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0821",
+        "menu": "0821"
+    }
 }

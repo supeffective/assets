@@ -88,20 +88,20 @@
         "veekunDb": "volcarona",
         "serebii": "volcarona",
         "bulbapedia": "Volcarona",
-        "homeSprite": "volcarona",
-        "miniSprite": "volcarona",
+        "homeSprite": "0637",
+        "miniSprite": "0637",
         "showdown": "volcarona",
         "showdownDef": "Volcarona",
         "smogon": "volcarona"
-    },
-    "imgs": {
-        "home": "0637",
-        "menu": "0637"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "volcarona"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0637",
+        "menu": "0637"
+    }
 }

@@ -97,20 +97,20 @@
         "veekunDb": "spoink",
         "serebii": "spoink",
         "bulbapedia": "Spoink",
-        "homeSprite": "spoink",
-        "miniSprite": "spoink",
+        "homeSprite": "0325",
+        "miniSprite": "0325",
         "showdown": "spoink",
         "showdownDef": "Spoink",
         "smogon": "spoink"
-    },
-    "imgs": {
-        "home": "0325",
-        "menu": "0325"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "spoink"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0325",
+        "menu": "0325"
+    }
 }

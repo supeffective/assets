@@ -84,20 +84,20 @@
         "veekunDb": "lunala",
         "serebii": "lunala",
         "bulbapedia": "Lunala",
-        "homeSprite": "lunala",
-        "miniSprite": "lunala",
+        "homeSprite": "0792",
+        "miniSprite": "0792",
         "showdown": "lunala",
         "showdownDef": "Lunala",
         "smogon": "lunala"
-    },
-    "imgs": {
-        "home": "0792",
-        "menu": "0792"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "lunala"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0792",
+        "menu": "0792"
+    }
 }

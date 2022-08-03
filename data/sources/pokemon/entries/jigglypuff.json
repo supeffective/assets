@@ -105,20 +105,20 @@
         "veekunDb": "jigglypuff",
         "serebii": "jigglypuff",
         "bulbapedia": "Jigglypuff",
-        "homeSprite": "jigglypuff",
-        "miniSprite": "jigglypuff",
+        "homeSprite": "0039",
+        "miniSprite": "0039",
         "showdown": "jigglypuff",
         "showdownDef": "Jigglypuff",
         "smogon": "jigglypuff"
-    },
-    "imgs": {
-        "home": "0039",
-        "menu": "0039"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "jigglypuff"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0039",
+        "menu": "0039"
+    }
 }

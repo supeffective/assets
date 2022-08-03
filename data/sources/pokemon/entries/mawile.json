@@ -99,15 +99,11 @@
         "veekunDb": "mawile",
         "serebii": "mawile",
         "bulbapedia": "Mawile",
-        "homeSprite": "mawile",
-        "miniSprite": "mawile",
+        "homeSprite": "0303",
+        "miniSprite": "0303",
         "showdown": "mawile",
         "showdownDef": "Mawile",
         "smogon": "mawile"
-    },
-    "imgs": {
-        "home": "0303",
-        "menu": "0303"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -115,5 +111,9 @@
         "mawile",
         "mawile-mega"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0303",
+        "menu": "0303"
+    }
 }

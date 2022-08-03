@@ -82,20 +82,20 @@
         "veekunDb": "naganadel",
         "serebii": "naganadel",
         "bulbapedia": "Naganadel",
-        "homeSprite": "naganadel",
-        "miniSprite": "naganadel",
+        "homeSprite": "0804",
+        "miniSprite": "0804",
         "showdown": "naganadel",
         "showdownDef": "Naganadel",
         "smogon": "naganadel"
-    },
-    "imgs": {
-        "home": "0804",
-        "menu": "0804"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "naganadel"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0804",
+        "menu": "0804"
+    }
 }

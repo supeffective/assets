@@ -99,20 +99,20 @@
         "veekunDb": "aron",
         "serebii": "aron",
         "bulbapedia": "Aron",
-        "homeSprite": "aron",
-        "miniSprite": "aron",
+        "homeSprite": "0304",
+        "miniSprite": "0304",
         "showdown": "aron",
         "showdownDef": "Aron",
         "smogon": "aron"
-    },
-    "imgs": {
-        "home": "0304",
-        "menu": "0304"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "aron"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0304",
+        "menu": "0304"
+    }
 }

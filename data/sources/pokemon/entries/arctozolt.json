@@ -80,20 +80,20 @@
         "veekunDb": "arctozolt",
         "serebii": "arctozolt",
         "bulbapedia": "Arctozolt",
-        "homeSprite": "arctozolt",
-        "miniSprite": "arctozolt",
+        "homeSprite": "0881",
+        "miniSprite": "0881",
         "showdown": "arctozolt",
         "showdownDef": "Arctozolt",
         "smogon": "arctozolt"
-    },
-    "imgs": {
-        "home": "0881",
-        "menu": "0881"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "arctozolt"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0881",
+        "menu": "0881"
+    }
 }

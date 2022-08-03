@@ -87,15 +87,11 @@
         "veekunDb": "genesect",
         "serebii": "genesect",
         "bulbapedia": "Genesect",
-        "homeSprite": "genesect",
-        "miniSprite": "genesect",
+        "homeSprite": "0649",
+        "miniSprite": "0649",
         "showdown": "genesect",
         "showdownDef": "Genesect",
         "smogon": "genesect"
-    },
-    "imgs": {
-        "home": "0649",
-        "menu": "0649"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -106,5 +102,9 @@
         "genesect-burn",
         "genesect-chill"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0649",
+        "menu": "0649"
+    }
 }

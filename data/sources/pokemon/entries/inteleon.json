@@ -80,15 +80,11 @@
         "veekunDb": "inteleon",
         "serebii": "inteleon",
         "bulbapedia": "Inteleon",
-        "homeSprite": "inteleon",
-        "miniSprite": "inteleon",
+        "homeSprite": "0818",
+        "miniSprite": "0818",
         "showdown": "inteleon",
         "showdownDef": "Inteleon",
         "smogon": "inteleon"
-    },
-    "imgs": {
-        "home": "0818",
-        "menu": "0818"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -96,5 +92,9 @@
         "inteleon",
         "inteleon-gmax"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0818",
+        "menu": "0818"
+    }
 }

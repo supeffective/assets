@@ -90,20 +90,20 @@
         "veekunDb": "excadrill",
         "serebii": "excadrill",
         "bulbapedia": "Excadrill",
-        "homeSprite": "excadrill",
-        "miniSprite": "excadrill",
+        "homeSprite": "0530",
+        "miniSprite": "0530",
         "showdown": "excadrill",
         "showdownDef": "Excadrill",
         "smogon": "excadrill"
-    },
-    "imgs": {
-        "home": "0530",
-        "menu": "0530"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "excadrill"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0530",
+        "menu": "0530"
+    }
 }

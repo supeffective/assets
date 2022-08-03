@@ -90,20 +90,20 @@
         "veekunDb": "mienshao",
         "serebii": "mienshao",
         "bulbapedia": "Mienshao",
-        "homeSprite": "mienshao",
-        "miniSprite": "mienshao",
+        "homeSprite": "0620",
+        "miniSprite": "0620",
         "showdown": "mienshao",
         "showdownDef": "Mienshao",
         "smogon": "mienshao"
-    },
-    "imgs": {
-        "home": "0620",
-        "menu": "0620"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "mienshao"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0620",
+        "menu": "0620"
+    }
 }

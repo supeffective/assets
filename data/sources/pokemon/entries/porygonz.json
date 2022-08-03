@@ -97,20 +97,20 @@
         "veekunDb": "porygonz",
         "serebii": "porygonz",
         "bulbapedia": "Porygon-Z",
-        "homeSprite": "porygonz",
-        "miniSprite": "porygonz",
+        "homeSprite": "0474",
+        "miniSprite": "0474",
         "showdown": "porygonz",
         "showdownDef": "Porygonz",
         "smogon": "porygonz"
-    },
-    "imgs": {
-        "home": "0474",
-        "menu": "0474"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "porygonz"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0474",
+        "menu": "0474"
+    }
 }

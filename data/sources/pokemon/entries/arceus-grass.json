@@ -92,20 +92,20 @@
         "veekunDb": "arceus-grass",
         "serebii": "arceus",
         "bulbapedia": "Arceus",
-        "homeSprite": "arceus-grass",
-        "miniSprite": "arceus-grass",
+        "homeSprite": "0493-grass",
+        "miniSprite": "0493-grass",
         "showdown": "arceusgrass",
         "showdownDef": "Arceus-Grass",
         "smogon": "arceus-grass"
-    },
-    "imgs": {
-        "home": "0493-grass",
-        "menu": "0493-grass"
     },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0493-grass",
+        "menu": "0493-grass"
+    }
 }

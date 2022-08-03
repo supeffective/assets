@@ -105,20 +105,20 @@
         "veekunDb": "exeggcute",
         "serebii": "exeggcute",
         "bulbapedia": "Exeggcute",
-        "homeSprite": "exeggcute",
-        "miniSprite": "exeggcute",
+        "homeSprite": "0102",
+        "miniSprite": "0102",
         "showdown": "exeggcute",
         "showdownDef": "Exeggcute",
         "smogon": "exeggcute"
-    },
-    "imgs": {
-        "home": "0102",
-        "menu": "0102"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "exeggcute"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0102",
+        "menu": "0102"
+    }
 }

@@ -90,20 +90,20 @@
         "veekunDb": "axew",
         "serebii": "axew",
         "bulbapedia": "Axew",
-        "homeSprite": "axew",
-        "miniSprite": "axew",
+        "homeSprite": "0610",
+        "miniSprite": "0610",
         "showdown": "axew",
         "showdownDef": "Axew",
         "smogon": "axew"
-    },
-    "imgs": {
-        "home": "0610",
-        "menu": "0610"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "axew"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0610",
+        "menu": "0610"
+    }
 }

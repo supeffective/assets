@@ -95,20 +95,20 @@
         "veekunDb": "monferno",
         "serebii": "monferno",
         "bulbapedia": "Monferno",
-        "homeSprite": "monferno",
-        "miniSprite": "monferno",
+        "homeSprite": "0391",
+        "miniSprite": "0391",
         "showdown": "monferno",
         "showdownDef": "Monferno",
         "smogon": "monferno"
-    },
-    "imgs": {
-        "home": "0391",
-        "menu": "0391"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "monferno"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0391",
+        "menu": "0391"
+    }
 }

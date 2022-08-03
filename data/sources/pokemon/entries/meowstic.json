@@ -87,15 +87,11 @@
         "veekunDb": "meowstic",
         "serebii": "meowstic",
         "bulbapedia": "Meowstic",
-        "homeSprite": "meowstic",
-        "miniSprite": "meowstic",
+        "homeSprite": "0678",
+        "miniSprite": "0678",
         "showdown": "meowstic",
         "showdownDef": "Meowstic",
         "smogon": "meowstic"
-    },
-    "imgs": {
-        "home": "0678",
-        "menu": "0678"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -103,5 +99,9 @@
         "meowstic",
         "meowstic-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0678",
+        "menu": "0678"
+    }
 }

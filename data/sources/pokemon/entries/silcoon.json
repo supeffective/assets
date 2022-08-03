@@ -99,20 +99,20 @@
         "veekunDb": "silcoon",
         "serebii": "silcoon",
         "bulbapedia": "Silcoon",
-        "homeSprite": "silcoon",
-        "miniSprite": "silcoon",
+        "homeSprite": "0266",
+        "miniSprite": "0266",
         "showdown": "silcoon",
         "showdownDef": "Silcoon",
         "smogon": "silcoon"
-    },
-    "imgs": {
-        "home": "0266",
-        "menu": "0266"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "silcoon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0266",
+        "menu": "0266"
+    }
 }

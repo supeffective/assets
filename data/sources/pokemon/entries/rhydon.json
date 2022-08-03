@@ -107,15 +107,11 @@
         "veekunDb": "rhydon",
         "serebii": "rhydon",
         "bulbapedia": "Rhydon",
-        "homeSprite": "rhydon",
-        "miniSprite": "rhydon",
+        "homeSprite": "0112",
+        "miniSprite": "0112",
         "showdown": "rhydon",
         "showdownDef": "Rhydon",
         "smogon": "rhydon"
-    },
-    "imgs": {
-        "home": "0112",
-        "menu": "0112"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -123,5 +119,9 @@
         "rhydon",
         "rhydon-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0112",
+        "menu": "0112"
+    }
 }

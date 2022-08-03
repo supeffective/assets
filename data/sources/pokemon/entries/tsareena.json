@@ -84,20 +84,20 @@
         "veekunDb": "tsareena",
         "serebii": "tsareena",
         "bulbapedia": "Tsareena",
-        "homeSprite": "tsareena",
-        "miniSprite": "tsareena",
+        "homeSprite": "0763",
+        "miniSprite": "0763",
         "showdown": "tsareena",
         "showdownDef": "Tsareena",
         "smogon": "tsareena"
-    },
-    "imgs": {
-        "home": "0763",
-        "menu": "0763"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "tsareena"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0763",
+        "menu": "0763"
+    }
 }

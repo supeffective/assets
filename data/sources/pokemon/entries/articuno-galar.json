@@ -82,18 +82,18 @@
         "veekunDb": "articuno-galar",
         "serebii": "articuno",
         "bulbapedia": "Articuno",
-        "homeSprite": "articuno-galar",
-        "miniSprite": "articuno-galar",
+        "homeSprite": "0144-galar",
+        "miniSprite": "0144-galar",
         "showdown": "articunogalar",
         "showdownDef": "Articuno-Galar",
         "smogon": "articuno-galar"
     },
-    "imgs": {
-        "home": "0144-galar",
-        "menu": "0144-galar"
-    },
     "baseSpecies": "articuno",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0144-galar",
+        "menu": "0144-galar"
+    }
 }

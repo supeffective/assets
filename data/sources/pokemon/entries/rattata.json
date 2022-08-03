@@ -103,15 +103,11 @@
         "veekunDb": "rattata",
         "serebii": "rattata",
         "bulbapedia": "Rattata",
-        "homeSprite": "rattata",
-        "miniSprite": "rattata",
+        "homeSprite": "0019",
+        "miniSprite": "0019",
         "showdown": "rattata",
         "showdownDef": "Rattata",
         "smogon": "rattata"
-    },
-    "imgs": {
-        "home": "0019",
-        "menu": "0019"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -120,5 +116,9 @@
         "rattata-f",
         "rattata-alola"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0019",
+        "menu": "0019"
+    }
 }

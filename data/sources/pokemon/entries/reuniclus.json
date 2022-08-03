@@ -90,20 +90,20 @@
         "veekunDb": "reuniclus",
         "serebii": "reuniclus",
         "bulbapedia": "Reuniclus",
-        "homeSprite": "reuniclus",
-        "miniSprite": "reuniclus",
+        "homeSprite": "0579",
+        "miniSprite": "0579",
         "showdown": "reuniclus",
         "showdownDef": "Reuniclus",
         "smogon": "reuniclus"
-    },
-    "imgs": {
-        "home": "0579",
-        "menu": "0579"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "reuniclus"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0579",
+        "menu": "0579"
+    }
 }

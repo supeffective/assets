@@ -105,15 +105,11 @@
         "veekunDb": "diglett",
         "serebii": "diglett",
         "bulbapedia": "Diglett",
-        "homeSprite": "diglett",
-        "miniSprite": "diglett",
+        "homeSprite": "0050",
+        "miniSprite": "0050",
         "showdown": "diglett",
         "showdownDef": "Diglett",
         "smogon": "diglett"
-    },
-    "imgs": {
-        "home": "0050",
-        "menu": "0050"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -121,5 +117,9 @@
         "diglett",
         "diglett-alola"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0050",
+        "menu": "0050"
+    }
 }

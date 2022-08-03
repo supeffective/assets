@@ -97,18 +97,18 @@
         "veekunDb": "shellos-east",
         "serebii": "shellos",
         "bulbapedia": "Shellos",
-        "homeSprite": "shellos-east",
-        "miniSprite": "shellos-east",
+        "homeSprite": "0422-east",
+        "miniSprite": "0422-east",
         "showdown": "shellos",
         "showdownDef": "Shellos-East",
         "smogon": "shellos-east"
     },
-    "imgs": {
-        "home": "0422-east",
-        "menu": "0422-east"
-    },
     "baseSpecies": "shellos",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0422-east",
+        "menu": "0422-east"
+    }
 }

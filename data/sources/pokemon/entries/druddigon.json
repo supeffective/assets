@@ -90,20 +90,20 @@
         "veekunDb": "druddigon",
         "serebii": "druddigon",
         "bulbapedia": "Druddigon",
-        "homeSprite": "druddigon",
-        "miniSprite": "druddigon",
+        "homeSprite": "0621",
+        "miniSprite": "0621",
         "showdown": "druddigon",
         "showdownDef": "Druddigon",
         "smogon": "druddigon"
-    },
-    "imgs": {
-        "home": "0621",
-        "menu": "0621"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "druddigon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0621",
+        "menu": "0621"
+    }
 }

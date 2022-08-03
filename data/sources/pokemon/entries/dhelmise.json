@@ -84,20 +84,20 @@
         "veekunDb": "dhelmise",
         "serebii": "dhelmise",
         "bulbapedia": "Dhelmise",
-        "homeSprite": "dhelmise",
-        "miniSprite": "dhelmise",
+        "homeSprite": "0781",
+        "miniSprite": "0781",
         "showdown": "dhelmise",
         "showdownDef": "Dhelmise",
         "smogon": "dhelmise"
-    },
-    "imgs": {
-        "home": "0781",
-        "menu": "0781"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "dhelmise"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0781",
+        "menu": "0781"
+    }
 }

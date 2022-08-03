@@ -90,20 +90,20 @@
         "veekunDb": "palpitoad",
         "serebii": "palpitoad",
         "bulbapedia": "Palpitoad",
-        "homeSprite": "palpitoad",
-        "miniSprite": "palpitoad",
+        "homeSprite": "0536",
+        "miniSprite": "0536",
         "showdown": "palpitoad",
         "showdownDef": "Palpitoad",
         "smogon": "palpitoad"
-    },
-    "imgs": {
-        "home": "0536",
-        "menu": "0536"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "palpitoad"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0536",
+        "menu": "0536"
+    }
 }

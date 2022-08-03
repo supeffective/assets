@@ -105,20 +105,20 @@
         "veekunDb": "poliwhirl",
         "serebii": "poliwhirl",
         "bulbapedia": "Poliwhirl",
-        "homeSprite": "poliwhirl",
-        "miniSprite": "poliwhirl",
+        "homeSprite": "0061",
+        "miniSprite": "0061",
         "showdown": "poliwhirl",
         "showdownDef": "Poliwhirl",
         "smogon": "poliwhirl"
-    },
-    "imgs": {
-        "home": "0061",
-        "menu": "0061"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "poliwhirl"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0061",
+        "menu": "0061"
+    }
 }

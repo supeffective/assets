@@ -99,15 +99,11 @@
         "veekunDb": "sharpedo",
         "serebii": "sharpedo",
         "bulbapedia": "Sharpedo",
-        "homeSprite": "sharpedo",
-        "miniSprite": "sharpedo",
+        "homeSprite": "0319",
+        "miniSprite": "0319",
         "showdown": "sharpedo",
         "showdownDef": "Sharpedo",
         "smogon": "sharpedo"
-    },
-    "imgs": {
-        "home": "0319",
-        "menu": "0319"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -115,5 +111,9 @@
         "sharpedo",
         "sharpedo-mega"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0319",
+        "menu": "0319"
+    }
 }

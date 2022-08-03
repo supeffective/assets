@@ -90,15 +90,11 @@
         "veekunDb": "unfezant",
         "serebii": "unfezant",
         "bulbapedia": "Unfezant",
-        "homeSprite": "unfezant",
-        "miniSprite": "unfezant",
+        "homeSprite": "0521",
+        "miniSprite": "0521",
         "showdown": "unfezant",
         "showdownDef": "Unfezant",
         "smogon": "unfezant"
-    },
-    "imgs": {
-        "home": "0521",
-        "menu": "0521"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -106,5 +102,9 @@
         "unfezant",
         "unfezant-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0521",
+        "menu": "0521"
+    }
 }

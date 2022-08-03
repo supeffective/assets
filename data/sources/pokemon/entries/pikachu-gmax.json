@@ -77,15 +77,11 @@
         "veekunDb": "pikachu-gmax",
         "serebii": "pikachu",
         "bulbapedia": "Pikachu",
-        "homeSprite": "pikachu-gmax",
-        "miniSprite": "pikachu-gmax",
+        "homeSprite": "0025-gmax",
+        "miniSprite": "0025-gmax",
         "showdown": "pikachugmax",
         "showdownDef": "Pikachu-Gmax",
         "smogon": "pikachu-gmax"
-    },
-    "imgs": {
-        "home": "0025-gmax",
-        "menu": "0025-gmax"
     },
     "baseSpecies": "pikachu",
     "baseForms": [
@@ -93,5 +89,9 @@
         "pikachu-f"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0025-gmax",
+        "menu": "0025-gmax"
+    }
 }

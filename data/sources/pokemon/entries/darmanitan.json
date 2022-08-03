@@ -90,15 +90,11 @@
         "veekunDb": "darmanitan",
         "serebii": "darmanitan",
         "bulbapedia": "Darmanitan",
-        "homeSprite": "darmanitan",
-        "miniSprite": "darmanitan",
+        "homeSprite": "0555",
+        "miniSprite": "0555",
         "showdown": "darmanitan",
         "showdownDef": "Darmanitan",
         "smogon": "darmanitan"
-    },
-    "imgs": {
-        "home": "0555",
-        "menu": "0555"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -108,5 +104,9 @@
         "darmanitan-galar",
         "darmanitan-galar-zen"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0555",
+        "menu": "0555"
+    }
 }

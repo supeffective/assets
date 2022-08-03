@@ -92,20 +92,20 @@
         "veekunDb": "petilil",
         "serebii": "petilil",
         "bulbapedia": "Petilil",
-        "homeSprite": "petilil",
-        "miniSprite": "petilil",
+        "homeSprite": "0548",
+        "miniSprite": "0548",
         "showdown": "petilil",
         "showdownDef": "Petilil",
         "smogon": "petilil"
-    },
-    "imgs": {
-        "home": "0548",
-        "menu": "0548"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "petilil"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0548",
+        "menu": "0548"
+    }
 }

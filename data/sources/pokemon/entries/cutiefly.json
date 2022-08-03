@@ -84,20 +84,20 @@
         "veekunDb": "cutiefly",
         "serebii": "cutiefly",
         "bulbapedia": "Cutiefly",
-        "homeSprite": "cutiefly",
-        "miniSprite": "cutiefly",
+        "homeSprite": "0742",
+        "miniSprite": "0742",
         "showdown": "cutiefly",
         "showdownDef": "Cutiefly",
         "smogon": "cutiefly"
-    },
-    "imgs": {
-        "home": "0742",
-        "menu": "0742"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "cutiefly"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0742",
+        "menu": "0742"
+    }
 }

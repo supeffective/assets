@@ -97,20 +97,20 @@
         "veekunDb": "delcatty",
         "serebii": "delcatty",
         "bulbapedia": "Delcatty",
-        "homeSprite": "delcatty",
-        "miniSprite": "delcatty",
+        "homeSprite": "0301",
+        "miniSprite": "0301",
         "showdown": "delcatty",
         "showdownDef": "Delcatty",
         "smogon": "delcatty"
-    },
-    "imgs": {
-        "home": "0301",
-        "menu": "0301"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "delcatty"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0301",
+        "menu": "0301"
+    }
 }

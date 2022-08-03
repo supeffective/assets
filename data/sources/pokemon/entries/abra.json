@@ -107,20 +107,20 @@
         "veekunDb": "abra",
         "serebii": "abra",
         "bulbapedia": "Abra",
-        "homeSprite": "abra",
-        "miniSprite": "abra",
+        "homeSprite": "0063",
+        "miniSprite": "0063",
         "showdown": "abra",
         "showdownDef": "Abra",
         "smogon": "abra"
-    },
-    "imgs": {
-        "home": "0063",
-        "menu": "0063"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "abra"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0063",
+        "menu": "0063"
+    }
 }

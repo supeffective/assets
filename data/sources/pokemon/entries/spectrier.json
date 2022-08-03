@@ -80,20 +80,20 @@
         "veekunDb": "spectrier",
         "serebii": "spectrier",
         "bulbapedia": "Spectrier",
-        "homeSprite": "spectrier",
-        "miniSprite": "spectrier",
+        "homeSprite": "0897",
+        "miniSprite": "0897",
         "showdown": "spectrier",
         "showdownDef": "Spectrier",
         "smogon": "spectrier"
-    },
-    "imgs": {
-        "home": "0897",
-        "menu": "0897"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "spectrier"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0897",
+        "menu": "0897"
+    }
 }

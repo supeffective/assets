@@ -105,20 +105,20 @@
         "veekunDb": "poliwag",
         "serebii": "poliwag",
         "bulbapedia": "Poliwag",
-        "homeSprite": "poliwag",
-        "miniSprite": "poliwag",
+        "homeSprite": "0060",
+        "miniSprite": "0060",
         "showdown": "poliwag",
         "showdownDef": "Poliwag",
         "smogon": "poliwag"
-    },
-    "imgs": {
-        "home": "0060",
-        "menu": "0060"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "poliwag"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0060",
+        "menu": "0060"
+    }
 }

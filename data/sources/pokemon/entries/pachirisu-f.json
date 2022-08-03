@@ -95,18 +95,18 @@
         "veekunDb": "pachirisu",
         "serebii": "pachirisu",
         "bulbapedia": "Pachirisu",
-        "homeSprite": "pachirisu-f",
-        "miniSprite": "pachirisu-f",
+        "homeSprite": "0417-f",
+        "miniSprite": "0417",
         "showdown": "pachirisu",
         "showdownDef": "Pachirisu",
         "smogon": "pachirisu"
     },
-    "imgs": {
-        "home": "0417-f",
-        "menu": "0417"
-    },
     "baseSpecies": "pachirisu",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0417-f",
+        "menu": "0417"
+    }
 }

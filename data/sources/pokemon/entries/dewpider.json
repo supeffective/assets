@@ -86,20 +86,20 @@
         "veekunDb": "dewpider",
         "serebii": "dewpider",
         "bulbapedia": "Dewpider",
-        "homeSprite": "dewpider",
-        "miniSprite": "dewpider",
+        "homeSprite": "0751",
+        "miniSprite": "0751",
         "showdown": "dewpider",
         "showdownDef": "Dewpider",
         "smogon": "dewpider"
-    },
-    "imgs": {
-        "home": "0751",
-        "menu": "0751"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "dewpider"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0751",
+        "menu": "0751"
+    }
 }

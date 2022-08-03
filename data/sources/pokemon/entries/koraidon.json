@@ -79,20 +79,20 @@
         "veekunDb": "koraidon",
         "serebii": "koraidon",
         "bulbapedia": "Koraidon",
-        "homeSprite": "koraidon",
-        "miniSprite": "koraidon",
+        "homeSprite": "9900",
+        "miniSprite": "9900",
         "showdown": "koraidon",
         "showdownDef": "Koraidon",
         "smogon": "koraidon"
-    },
-    "imgs": {
-        "home": "9900",
-        "menu": "9900"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "koraidon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "9900",
+        "menu": "9900"
+    }
 }

@@ -107,20 +107,20 @@
         "veekunDb": "tentacool",
         "serebii": "tentacool",
         "bulbapedia": "Tentacool",
-        "homeSprite": "tentacool",
-        "miniSprite": "tentacool",
+        "homeSprite": "0072",
+        "miniSprite": "0072",
         "showdown": "tentacool",
         "showdownDef": "Tentacool",
         "smogon": "tentacool"
-    },
-    "imgs": {
-        "home": "0072",
-        "menu": "0072"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "tentacool"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0072",
+        "menu": "0072"
+    }
 }

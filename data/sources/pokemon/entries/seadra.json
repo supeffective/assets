@@ -105,20 +105,20 @@
         "veekunDb": "seadra",
         "serebii": "seadra",
         "bulbapedia": "Seadra",
-        "homeSprite": "seadra",
-        "miniSprite": "seadra",
+        "homeSprite": "0117",
+        "miniSprite": "0117",
         "showdown": "seadra",
         "showdownDef": "Seadra",
         "smogon": "seadra"
-    },
-    "imgs": {
-        "home": "0117",
-        "menu": "0117"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "seadra"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0117",
+        "menu": "0117"
+    }
 }

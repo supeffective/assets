@@ -86,20 +86,20 @@
         "veekunDb": "salandit",
         "serebii": "salandit",
         "bulbapedia": "Salandit",
-        "homeSprite": "salandit",
-        "miniSprite": "salandit",
+        "homeSprite": "0757",
+        "miniSprite": "0757",
         "showdown": "salandit",
         "showdownDef": "Salandit",
         "smogon": "salandit"
-    },
-    "imgs": {
-        "home": "0757",
-        "menu": "0757"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "salandit"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0757",
+        "menu": "0757"
+    }
 }

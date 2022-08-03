@@ -80,18 +80,18 @@
         "veekunDb": "urshifu-rapid-strike",
         "serebii": "urshifu",
         "bulbapedia": "Urshifu",
-        "homeSprite": "urshifu-rapid-strike",
-        "miniSprite": "urshifu-rapid-strike",
+        "homeSprite": "0892-rapid-strike",
+        "miniSprite": "0892",
         "showdown": "urshifurapidstrike",
         "showdownDef": "Urshifu-Rapid-Strike",
         "smogon": "urshifu-rapid-strike"
     },
-    "imgs": {
-        "home": "0892-rapid-strike",
-        "menu": "0892"
-    },
     "baseSpecies": "urshifu",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0892-rapid-strike",
+        "menu": "0892"
+    }
 }

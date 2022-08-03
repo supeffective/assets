@@ -90,20 +90,20 @@
         "veekunDb": "cryogonal",
         "serebii": "cryogonal",
         "bulbapedia": "Cryogonal",
-        "homeSprite": "cryogonal",
-        "miniSprite": "cryogonal",
+        "homeSprite": "0615",
+        "miniSprite": "0615",
         "showdown": "cryogonal",
         "showdownDef": "Cryogonal",
         "smogon": "cryogonal"
-    },
-    "imgs": {
-        "home": "0615",
-        "menu": "0615"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "cryogonal"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0615",
+        "menu": "0615"
+    }
 }

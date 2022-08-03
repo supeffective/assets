@@ -97,20 +97,20 @@
         "veekunDb": "bronzong",
         "serebii": "bronzong",
         "bulbapedia": "Bronzong",
-        "homeSprite": "bronzong",
-        "miniSprite": "bronzong",
+        "homeSprite": "0437",
+        "miniSprite": "0437",
         "showdown": "bronzong",
         "showdownDef": "Bronzong",
         "smogon": "bronzong"
-    },
-    "imgs": {
-        "home": "0437",
-        "menu": "0437"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "bronzong"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0437",
+        "menu": "0437"
+    }
 }

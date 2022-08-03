@@ -87,20 +87,20 @@
         "veekunDb": "dragalge",
         "serebii": "dragalge",
         "bulbapedia": "Dragalge",
-        "homeSprite": "dragalge",
-        "miniSprite": "dragalge",
+        "homeSprite": "0691",
+        "miniSprite": "0691",
         "showdown": "dragalge",
         "showdownDef": "Dragalge",
         "smogon": "dragalge"
-    },
-    "imgs": {
-        "home": "0691",
-        "menu": "0691"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "dragalge"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0691",
+        "menu": "0691"
+    }
 }

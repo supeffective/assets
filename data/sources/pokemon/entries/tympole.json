@@ -90,20 +90,20 @@
         "veekunDb": "tympole",
         "serebii": "tympole",
         "bulbapedia": "Tympole",
-        "homeSprite": "tympole",
-        "miniSprite": "tympole",
+        "homeSprite": "0535",
+        "miniSprite": "0535",
         "showdown": "tympole",
         "showdownDef": "Tympole",
         "smogon": "tympole"
-    },
-    "imgs": {
-        "home": "0535",
-        "menu": "0535"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "tympole"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0535",
+        "menu": "0535"
+    }
 }

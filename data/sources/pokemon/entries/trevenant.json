@@ -87,20 +87,20 @@
         "veekunDb": "trevenant",
         "serebii": "trevenant",
         "bulbapedia": "Trevenant",
-        "homeSprite": "trevenant",
-        "miniSprite": "trevenant",
+        "homeSprite": "0709",
+        "miniSprite": "0709",
         "showdown": "trevenant",
         "showdownDef": "Trevenant",
         "smogon": "trevenant"
-    },
-    "imgs": {
-        "home": "0709",
-        "menu": "0709"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "trevenant"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0709",
+        "menu": "0709"
+    }
 }

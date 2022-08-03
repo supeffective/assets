@@ -92,18 +92,18 @@
         "veekunDb": "houndoom",
         "serebii": "houndoom",
         "bulbapedia": "Houndoom",
-        "homeSprite": "houndoom-f",
-        "miniSprite": "houndoom-f",
+        "homeSprite": "0229-f",
+        "miniSprite": "0229",
         "showdown": "houndoom",
         "showdownDef": "Houndoom",
         "smogon": "houndoom"
     },
-    "imgs": {
-        "home": "0229-f",
-        "menu": "0229"
-    },
     "baseSpecies": "houndoom",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0229-f",
+        "menu": "0229"
+    }
 }

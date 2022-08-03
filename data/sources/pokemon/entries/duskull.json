@@ -101,20 +101,20 @@
         "veekunDb": "duskull",
         "serebii": "duskull",
         "bulbapedia": "Duskull",
-        "homeSprite": "duskull",
-        "miniSprite": "duskull",
+        "homeSprite": "0355",
+        "miniSprite": "0355",
         "showdown": "duskull",
         "showdownDef": "Duskull",
         "smogon": "duskull"
-    },
-    "imgs": {
-        "home": "0355",
-        "menu": "0355"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "duskull"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0355",
+        "menu": "0355"
+    }
 }

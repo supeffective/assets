@@ -90,20 +90,20 @@
         "veekunDb": "ferroseed",
         "serebii": "ferroseed",
         "bulbapedia": "Ferroseed",
-        "homeSprite": "ferroseed",
-        "miniSprite": "ferroseed",
+        "homeSprite": "0597",
+        "miniSprite": "0597",
         "showdown": "ferroseed",
         "showdownDef": "Ferroseed",
         "smogon": "ferroseed"
-    },
-    "imgs": {
-        "home": "0597",
-        "menu": "0597"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "ferroseed"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0597",
+        "menu": "0597"
+    }
 }

@@ -88,18 +88,18 @@
         "veekunDb": "meowth-alola",
         "serebii": "meowth",
         "bulbapedia": "Meowth",
-        "homeSprite": "meowth-alola",
-        "miniSprite": "meowth-alola",
+        "homeSprite": "0052-alola",
+        "miniSprite": "0052-alola",
         "showdown": "meowthalola",
         "showdownDef": "Meowth-Alola",
         "smogon": "meowth-alola"
     },
-    "imgs": {
-        "home": "0052-alola",
-        "menu": "0052-alola"
-    },
     "baseSpecies": "meowth",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0052-alola",
+        "menu": "0052-alola"
+    }
 }

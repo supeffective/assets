@@ -86,20 +86,20 @@
         "veekunDb": "jangmoo",
         "serebii": "jangmoo",
         "bulbapedia": "Jangmo-o",
-        "homeSprite": "jangmoo",
-        "miniSprite": "jangmoo",
+        "homeSprite": "0782",
+        "miniSprite": "0782",
         "showdown": "jangmoo",
         "showdownDef": "Jangmoo",
         "smogon": "jangmoo"
-    },
-    "imgs": {
-        "home": "0782",
-        "menu": "0782"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "jangmoo"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0782",
+        "menu": "0782"
+    }
 }

@@ -97,15 +97,11 @@
         "veekunDb": "rotom",
         "serebii": "rotom",
         "bulbapedia": "Rotom",
-        "homeSprite": "rotom",
-        "miniSprite": "rotom",
+        "homeSprite": "0479",
+        "miniSprite": "0479",
         "showdown": "rotom",
         "showdownDef": "Rotom",
         "smogon": "rotom"
-    },
-    "imgs": {
-        "home": "0479",
-        "menu": "0479"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -117,5 +113,9 @@
         "rotom-fan",
         "rotom-mow"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0479",
+        "menu": "0479"
+    }
 }

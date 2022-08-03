@@ -90,18 +90,18 @@
         "veekunDb": "frillish",
         "serebii": "frillish",
         "bulbapedia": "Frillish",
-        "homeSprite": "frillish-f",
-        "miniSprite": "frillish-f",
+        "homeSprite": "0592-f",
+        "miniSprite": "0592-f",
         "showdown": "frillish",
         "showdownDef": "Frillish",
         "smogon": "frillish"
     },
-    "imgs": {
-        "home": "0592-f",
-        "menu": "0592-f"
-    },
     "baseSpecies": "frillish",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0592-f",
+        "menu": "0592-f"
+    }
 }

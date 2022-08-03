@@ -103,20 +103,20 @@
         "veekunDb": "blissey",
         "serebii": "blissey",
         "bulbapedia": "Blissey",
-        "homeSprite": "blissey",
-        "miniSprite": "blissey",
+        "homeSprite": "0242",
+        "miniSprite": "0242",
         "showdown": "blissey",
         "showdownDef": "Blissey",
         "smogon": "blissey"
-    },
-    "imgs": {
-        "home": "0242",
-        "menu": "0242"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "blissey"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0242",
+        "menu": "0242"
+    }
 }

@@ -83,20 +83,20 @@
         "veekunDb": "silvally-rock",
         "serebii": "silvally",
         "bulbapedia": "Silvally",
-        "homeSprite": "silvally-rock",
-        "miniSprite": "silvally-rock",
+        "homeSprite": "0773-rock",
+        "miniSprite": "0773-rock",
         "showdown": "silvallyrock",
         "showdownDef": "Silvally-Rock",
         "smogon": "silvally-rock"
-    },
-    "imgs": {
-        "home": "0773-rock",
-        "menu": "0773-rock"
     },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0773-rock",
+        "menu": "0773-rock"
+    }
 }

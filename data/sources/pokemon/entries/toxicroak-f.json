@@ -97,18 +97,18 @@
         "veekunDb": "toxicroak",
         "serebii": "toxicroak",
         "bulbapedia": "Toxicroak",
-        "homeSprite": "toxicroak-f",
-        "miniSprite": "toxicroak-f",
+        "homeSprite": "0454-f",
+        "miniSprite": "0454",
         "showdown": "toxicroak",
         "showdownDef": "Toxicroak",
         "smogon": "toxicroak"
     },
-    "imgs": {
-        "home": "0454-f",
-        "menu": "0454"
-    },
     "baseSpecies": "toxicroak",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0454-f",
+        "menu": "0454"
+    }
 }

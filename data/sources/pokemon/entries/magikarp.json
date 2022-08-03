@@ -107,15 +107,11 @@
         "veekunDb": "magikarp",
         "serebii": "magikarp",
         "bulbapedia": "Magikarp",
-        "homeSprite": "magikarp",
-        "miniSprite": "magikarp",
+        "homeSprite": "0129",
+        "miniSprite": "0129",
         "showdown": "magikarp",
         "showdownDef": "Magikarp",
         "smogon": "magikarp"
-    },
-    "imgs": {
-        "home": "0129",
-        "menu": "0129"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -123,5 +119,9 @@
         "magikarp",
         "magikarp-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0129",
+        "menu": "0129"
+    }
 }

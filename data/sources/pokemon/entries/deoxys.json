@@ -94,15 +94,11 @@
         "veekunDb": "deoxys",
         "serebii": "deoxys",
         "bulbapedia": "Deoxys",
-        "homeSprite": "deoxys",
-        "miniSprite": "deoxys",
+        "homeSprite": "0386",
+        "miniSprite": "0386",
         "showdown": "deoxys",
         "showdownDef": "Deoxys",
         "smogon": "deoxys"
-    },
-    "imgs": {
-        "home": "0386",
-        "menu": "0386"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -112,5 +108,9 @@
         "deoxys-defense",
         "deoxys-speed"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0386",
+        "menu": "0386"
+    }
 }

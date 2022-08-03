@@ -97,20 +97,20 @@
         "veekunDb": "taillow",
         "serebii": "taillow",
         "bulbapedia": "Taillow",
-        "homeSprite": "taillow",
-        "miniSprite": "taillow",
+        "homeSprite": "0276",
+        "miniSprite": "0276",
         "showdown": "taillow",
         "showdownDef": "Taillow",
         "smogon": "taillow"
-    },
-    "imgs": {
-        "home": "0276",
-        "menu": "0276"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "taillow"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0276",
+        "menu": "0276"
+    }
 }

@@ -87,20 +87,20 @@
         "veekunDb": "clauncher",
         "serebii": "clauncher",
         "bulbapedia": "Clauncher",
-        "homeSprite": "clauncher",
-        "miniSprite": "clauncher",
+        "homeSprite": "0692",
+        "miniSprite": "0692",
         "showdown": "clauncher",
         "showdownDef": "Clauncher",
         "smogon": "clauncher"
-    },
-    "imgs": {
-        "home": "0692",
-        "menu": "0692"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "clauncher"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0692",
+        "menu": "0692"
+    }
 }

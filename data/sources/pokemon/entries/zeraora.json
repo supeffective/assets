@@ -82,20 +82,20 @@
         "veekunDb": "zeraora",
         "serebii": "zeraora",
         "bulbapedia": "Zeraora",
-        "homeSprite": "zeraora",
-        "miniSprite": "zeraora",
+        "homeSprite": "0807",
+        "miniSprite": "0807",
         "showdown": "zeraora",
         "showdownDef": "Zeraora",
         "smogon": "zeraora"
-    },
-    "imgs": {
-        "home": "0807",
-        "menu": "0807"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "zeraora"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0807",
+        "menu": "0807"
+    }
 }

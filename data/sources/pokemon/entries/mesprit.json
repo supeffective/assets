@@ -97,20 +97,20 @@
         "veekunDb": "mesprit",
         "serebii": "mesprit",
         "bulbapedia": "Mesprit",
-        "homeSprite": "mesprit",
-        "miniSprite": "mesprit",
+        "homeSprite": "0481",
+        "miniSprite": "0481",
         "showdown": "mesprit",
         "showdownDef": "Mesprit",
         "smogon": "mesprit"
-    },
-    "imgs": {
-        "home": "0481",
-        "menu": "0481"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "mesprit"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0481",
+        "menu": "0481"
+    }
 }

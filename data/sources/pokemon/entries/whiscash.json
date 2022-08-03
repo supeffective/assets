@@ -101,20 +101,20 @@
         "veekunDb": "whiscash",
         "serebii": "whiscash",
         "bulbapedia": "Whiscash",
-        "homeSprite": "whiscash",
-        "miniSprite": "whiscash",
+        "homeSprite": "0340",
+        "miniSprite": "0340",
         "showdown": "whiscash",
         "showdownDef": "Whiscash",
         "smogon": "whiscash"
-    },
-    "imgs": {
-        "home": "0340",
-        "menu": "0340"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "whiscash"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0340",
+        "menu": "0340"
+    }
 }

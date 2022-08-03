@@ -82,18 +82,18 @@
         "veekunDb": "moltres-galar",
         "serebii": "moltres",
         "bulbapedia": "Moltres",
-        "homeSprite": "moltres-galar",
-        "miniSprite": "moltres-galar",
+        "homeSprite": "0146-galar",
+        "miniSprite": "0146-galar",
         "showdown": "moltresgalar",
         "showdownDef": "Moltres-Galar",
         "smogon": "moltres-galar"
     },
-    "imgs": {
-        "home": "0146-galar",
-        "menu": "0146-galar"
-    },
     "baseSpecies": "moltres",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0146-galar",
+        "menu": "0146-galar"
+    }
 }

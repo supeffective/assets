@@ -85,20 +85,20 @@
         "veekunDb": "carbink",
         "serebii": "carbink",
         "bulbapedia": "Carbink",
-        "homeSprite": "carbink",
-        "miniSprite": "carbink",
+        "homeSprite": "0703",
+        "miniSprite": "0703",
         "showdown": "carbink",
         "showdownDef": "Carbink",
         "smogon": "carbink"
-    },
-    "imgs": {
-        "home": "0703",
-        "menu": "0703"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "carbink"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0703",
+        "menu": "0703"
+    }
 }

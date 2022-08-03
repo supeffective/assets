@@ -82,18 +82,18 @@
         "veekunDb": "farfetchd-galar",
         "serebii": "farfetchd",
         "bulbapedia": "Farfetchd",
-        "homeSprite": "farfetchd-galar",
-        "miniSprite": "farfetchd-galar",
+        "homeSprite": "0083-galar",
+        "miniSprite": "0083-galar",
         "showdown": "farfetchdgalar",
         "showdownDef": "Farfetchd-Galar",
         "smogon": "farfetchd-galar"
     },
-    "imgs": {
-        "home": "0083-galar",
-        "menu": "0083-galar"
-    },
     "baseSpecies": "farfetchd",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0083-galar",
+        "menu": "0083-galar"
+    }
 }

@@ -83,20 +83,20 @@
         "veekunDb": "silvally-ice",
         "serebii": "silvally",
         "bulbapedia": "Silvally",
-        "homeSprite": "silvally-ice",
-        "miniSprite": "silvally-ice",
+        "homeSprite": "0773-ice",
+        "miniSprite": "0773-ice",
         "showdown": "silvallyice",
         "showdownDef": "Silvally-Ice",
         "smogon": "silvally-ice"
-    },
-    "imgs": {
-        "home": "0773-ice",
-        "menu": "0773-ice"
     },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0773-ice",
+        "menu": "0773-ice"
+    }
 }

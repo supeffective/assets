@@ -101,20 +101,20 @@
         "veekunDb": "shuckle",
         "serebii": "shuckle",
         "bulbapedia": "Shuckle",
-        "homeSprite": "shuckle",
-        "miniSprite": "shuckle",
+        "homeSprite": "0213",
+        "miniSprite": "0213",
         "showdown": "shuckle",
         "showdownDef": "Shuckle",
         "smogon": "shuckle"
-    },
-    "imgs": {
-        "home": "0213",
-        "menu": "0213"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "shuckle"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0213",
+        "menu": "0213"
+    }
 }

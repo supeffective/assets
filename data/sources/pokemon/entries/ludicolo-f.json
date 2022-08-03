@@ -94,18 +94,18 @@
         "veekunDb": "ludicolo",
         "serebii": "ludicolo",
         "bulbapedia": "Ludicolo",
-        "homeSprite": "ludicolo-f",
-        "miniSprite": "ludicolo-f",
+        "homeSprite": "0272-f",
+        "miniSprite": "0272",
         "showdown": "ludicolo",
         "showdownDef": "Ludicolo",
         "smogon": "ludicolo"
     },
-    "imgs": {
-        "home": "0272-f",
-        "menu": "0272"
-    },
     "baseSpecies": "ludicolo",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0272-f",
+        "menu": "0272"
+    }
 }

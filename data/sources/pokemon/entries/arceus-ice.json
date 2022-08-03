@@ -92,20 +92,20 @@
         "veekunDb": "arceus-ice",
         "serebii": "arceus",
         "bulbapedia": "Arceus",
-        "homeSprite": "arceus-ice",
-        "miniSprite": "arceus-ice",
+        "homeSprite": "0493-ice",
+        "miniSprite": "0493-ice",
         "showdown": "arceusice",
         "showdownDef": "Arceus-Ice",
         "smogon": "arceus-ice"
-    },
-    "imgs": {
-        "home": "0493-ice",
-        "menu": "0493-ice"
     },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0493-ice",
+        "menu": "0493-ice"
+    }
 }

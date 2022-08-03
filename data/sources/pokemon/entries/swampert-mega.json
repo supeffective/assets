@@ -78,20 +78,20 @@
         "veekunDb": "swampert-mega",
         "serebii": "swampert",
         "bulbapedia": "Swampert",
-        "homeSprite": "swampert-mega",
-        "miniSprite": "swampert-mega",
+        "homeSprite": "0260-mega",
+        "miniSprite": "0260-mega",
         "showdown": "swampertmega",
         "showdownDef": "Swampert-Mega",
         "smogon": "swampert-mega"
-    },
-    "imgs": {
-        "home": "0260-mega",
-        "menu": "0260-mega"
     },
     "baseSpecies": "swampert",
     "baseForms": [
         "swampert"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0260-mega",
+        "menu": "0260-mega"
+    }
 }

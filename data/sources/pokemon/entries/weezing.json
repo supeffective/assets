@@ -105,15 +105,11 @@
         "veekunDb": "weezing",
         "serebii": "weezing",
         "bulbapedia": "Weezing",
-        "homeSprite": "weezing",
-        "miniSprite": "weezing",
+        "homeSprite": "0110",
+        "miniSprite": "0110",
         "showdown": "weezing",
         "showdownDef": "Weezing",
         "smogon": "weezing"
-    },
-    "imgs": {
-        "home": "0110",
-        "menu": "0110"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -121,5 +117,9 @@
         "weezing",
         "weezing-galar"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0110",
+        "menu": "0110"
+    }
 }

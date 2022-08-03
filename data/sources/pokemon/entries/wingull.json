@@ -99,20 +99,20 @@
         "veekunDb": "wingull",
         "serebii": "wingull",
         "bulbapedia": "Wingull",
-        "homeSprite": "wingull",
-        "miniSprite": "wingull",
+        "homeSprite": "0278",
+        "miniSprite": "0278",
         "showdown": "wingull",
         "showdownDef": "Wingull",
         "smogon": "wingull"
-    },
-    "imgs": {
-        "home": "0278",
-        "menu": "0278"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "wingull"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0278",
+        "menu": "0278"
+    }
 }

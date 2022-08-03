@@ -86,18 +86,18 @@
         "veekunDb": "grimer-alola",
         "serebii": "grimer",
         "bulbapedia": "Grimer",
-        "homeSprite": "grimer-alola",
-        "miniSprite": "grimer-alola",
+        "homeSprite": "0088-alola",
+        "miniSprite": "0088-alola",
         "showdown": "grimeralola",
         "showdownDef": "Grimer-Alola",
         "smogon": "grimer-alola"
     },
-    "imgs": {
-        "home": "0088-alola",
-        "menu": "0088-alola"
-    },
     "baseSpecies": "grimer",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0088-alola",
+        "menu": "0088-alola"
+    }
 }

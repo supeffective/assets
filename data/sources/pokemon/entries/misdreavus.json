@@ -101,20 +101,20 @@
         "veekunDb": "misdreavus",
         "serebii": "misdreavus",
         "bulbapedia": "Misdreavus",
-        "homeSprite": "misdreavus",
-        "miniSprite": "misdreavus",
+        "homeSprite": "0200",
+        "miniSprite": "0200",
         "showdown": "misdreavus",
         "showdownDef": "Misdreavus",
         "smogon": "misdreavus"
-    },
-    "imgs": {
-        "home": "0200",
-        "menu": "0200"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "misdreavus"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0200",
+        "menu": "0200"
+    }
 }

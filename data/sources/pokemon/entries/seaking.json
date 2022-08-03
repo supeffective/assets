@@ -105,15 +105,11 @@
         "veekunDb": "seaking",
         "serebii": "seaking",
         "bulbapedia": "Seaking",
-        "homeSprite": "seaking",
-        "miniSprite": "seaking",
+        "homeSprite": "0119",
+        "miniSprite": "0119",
         "showdown": "seaking",
         "showdownDef": "Seaking",
         "smogon": "seaking"
-    },
-    "imgs": {
-        "home": "0119",
-        "menu": "0119"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -121,5 +117,9 @@
         "seaking",
         "seaking-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0119",
+        "menu": "0119"
+    }
 }

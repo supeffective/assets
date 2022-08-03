@@ -90,20 +90,20 @@
         "veekunDb": "trubbish",
         "serebii": "trubbish",
         "bulbapedia": "Trubbish",
-        "homeSprite": "trubbish",
-        "miniSprite": "trubbish",
+        "homeSprite": "0568",
+        "miniSprite": "0568",
         "showdown": "trubbish",
         "showdownDef": "Trubbish",
         "smogon": "trubbish"
-    },
-    "imgs": {
-        "home": "0568",
-        "menu": "0568"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "trubbish"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0568",
+        "menu": "0568"
+    }
 }

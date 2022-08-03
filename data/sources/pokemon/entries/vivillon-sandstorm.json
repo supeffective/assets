@@ -83,18 +83,18 @@
         "veekunDb": "vivillon-sandstorm",
         "serebii": "vivillon",
         "bulbapedia": "Vivillon",
-        "homeSprite": "vivillon-sandstorm",
-        "miniSprite": "vivillon-sandstorm",
+        "homeSprite": "0666-sandstorm",
+        "miniSprite": "0666-sandstorm",
         "showdown": "vivillon",
         "showdownDef": "Vivillon-Sandstorm",
         "smogon": "vivillon-sandstorm"
     },
-    "imgs": {
-        "home": "0666-sandstorm",
-        "menu": "0666-sandstorm"
-    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0666-sandstorm",
+        "menu": "0666-sandstorm"
+    }
 }

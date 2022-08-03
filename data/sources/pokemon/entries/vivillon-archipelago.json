@@ -83,18 +83,18 @@
         "veekunDb": "vivillon-archipelago",
         "serebii": "vivillon",
         "bulbapedia": "Vivillon",
-        "homeSprite": "vivillon-archipelago",
-        "miniSprite": "vivillon-archipelago",
+        "homeSprite": "0666-archipelago",
+        "miniSprite": "0666-archipelago",
         "showdown": "vivillon",
         "showdownDef": "Vivillon-Archipelago",
         "smogon": "vivillon-archipelago"
     },
-    "imgs": {
-        "home": "0666-archipelago",
-        "menu": "0666-archipelago"
-    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0666-archipelago",
+        "menu": "0666-archipelago"
+    }
 }

@@ -101,20 +101,20 @@
         "veekunDb": "tyrogue",
         "serebii": "tyrogue",
         "bulbapedia": "Tyrogue",
-        "homeSprite": "tyrogue",
-        "miniSprite": "tyrogue",
+        "homeSprite": "0236",
+        "miniSprite": "0236",
         "showdown": "tyrogue",
         "showdownDef": "Tyrogue",
         "smogon": "tyrogue"
-    },
-    "imgs": {
-        "home": "0236",
-        "menu": "0236"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "tyrogue"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0236",
+        "menu": "0236"
+    }
 }

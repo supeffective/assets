@@ -103,20 +103,20 @@
         "veekunDb": "cleffa",
         "serebii": "cleffa",
         "bulbapedia": "Cleffa",
-        "homeSprite": "cleffa",
-        "miniSprite": "cleffa",
+        "homeSprite": "0173",
+        "miniSprite": "0173",
         "showdown": "cleffa",
         "showdownDef": "Cleffa",
         "smogon": "cleffa"
-    },
-    "imgs": {
-        "home": "0173",
-        "menu": "0173"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "cleffa"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0173",
+        "menu": "0173"
+    }
 }

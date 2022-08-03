@@ -103,15 +103,11 @@
         "veekunDb": "sneasel",
         "serebii": "sneasel",
         "bulbapedia": "Sneasel",
-        "homeSprite": "sneasel",
-        "miniSprite": "sneasel",
+        "homeSprite": "0215",
+        "miniSprite": "0215",
         "showdown": "sneasel",
         "showdownDef": "Sneasel",
         "smogon": "sneasel"
-    },
-    "imgs": {
-        "home": "0215",
-        "menu": "0215"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -121,5 +117,9 @@
         "sneasel-hisui",
         "sneasel-hisui-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0215",
+        "menu": "0215"
+    }
 }

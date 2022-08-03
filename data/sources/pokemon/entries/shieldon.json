@@ -95,20 +95,20 @@
         "veekunDb": "shieldon",
         "serebii": "shieldon",
         "bulbapedia": "Shieldon",
-        "homeSprite": "shieldon",
-        "miniSprite": "shieldon",
+        "homeSprite": "0410",
+        "miniSprite": "0410",
         "showdown": "shieldon",
         "showdownDef": "Shieldon",
         "smogon": "shieldon"
-    },
-    "imgs": {
-        "home": "0410",
-        "menu": "0410"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "shieldon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0410",
+        "menu": "0410"
+    }
 }

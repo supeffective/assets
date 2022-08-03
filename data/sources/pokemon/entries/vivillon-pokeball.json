@@ -83,18 +83,18 @@
         "veekunDb": "vivillon-pokeball",
         "serebii": "vivillon",
         "bulbapedia": "Vivillon",
-        "homeSprite": "vivillon-pokeball",
-        "miniSprite": "vivillon-pokeball",
+        "homeSprite": "0666-pokeball",
+        "miniSprite": "0666-pokeball",
         "showdown": "vivillonpokeball",
         "showdownDef": "Vivillon-Pokeball",
         "smogon": "vivillon-pokeball"
     },
-    "imgs": {
-        "home": "0666-pokeball",
-        "menu": "0666-pokeball"
-    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0666-pokeball",
+        "menu": "0666-pokeball"
+    }
 }

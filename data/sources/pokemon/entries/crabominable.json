@@ -82,20 +82,20 @@
         "veekunDb": "crabominable",
         "serebii": "crabominable",
         "bulbapedia": "Crabominable",
-        "homeSprite": "crabominable",
-        "miniSprite": "crabominable",
+        "homeSprite": "0740",
+        "miniSprite": "0740",
         "showdown": "crabominable",
         "showdownDef": "Crabominable",
         "smogon": "crabominable"
-    },
-    "imgs": {
-        "home": "0740",
-        "menu": "0740"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "crabominable"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0740",
+        "menu": "0740"
+    }
 }

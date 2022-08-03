@@ -105,20 +105,20 @@
         "veekunDb": "nidoqueen",
         "serebii": "nidoqueen",
         "bulbapedia": "Nidoqueen",
-        "homeSprite": "nidoqueen",
-        "miniSprite": "nidoqueen",
+        "homeSprite": "0031",
+        "miniSprite": "0031",
         "showdown": "nidoqueen",
         "showdownDef": "Nidoqueen",
         "smogon": "nidoqueen"
-    },
-    "imgs": {
-        "home": "0031",
-        "menu": "0031"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "nidoqueen"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0031",
+        "menu": "0031"
+    }
 }

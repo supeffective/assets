@@ -103,20 +103,20 @@
         "veekunDb": "swinub",
         "serebii": "swinub",
         "bulbapedia": "Swinub",
-        "homeSprite": "swinub",
-        "miniSprite": "swinub",
+        "homeSprite": "0220",
+        "miniSprite": "0220",
         "showdown": "swinub",
         "showdownDef": "Swinub",
         "smogon": "swinub"
-    },
-    "imgs": {
-        "home": "0220",
-        "menu": "0220"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "swinub"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0220",
+        "menu": "0220"
+    }
 }

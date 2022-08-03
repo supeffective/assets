@@ -84,20 +84,20 @@
         "veekunDb": "mareanie",
         "serebii": "mareanie",
         "bulbapedia": "Mareanie",
-        "homeSprite": "mareanie",
-        "miniSprite": "mareanie",
+        "homeSprite": "0747",
+        "miniSprite": "0747",
         "showdown": "mareanie",
         "showdownDef": "Mareanie",
         "smogon": "mareanie"
-    },
-    "imgs": {
-        "home": "0747",
-        "menu": "0747"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "mareanie"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0747",
+        "menu": "0747"
+    }
 }

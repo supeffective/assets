@@ -107,15 +107,11 @@
         "veekunDb": "ninetales",
         "serebii": "ninetales",
         "bulbapedia": "Ninetales",
-        "homeSprite": "ninetales",
-        "miniSprite": "ninetales",
+        "homeSprite": "0038",
+        "miniSprite": "0038",
         "showdown": "ninetales",
         "showdownDef": "Ninetales",
         "smogon": "ninetales"
-    },
-    "imgs": {
-        "home": "0038",
-        "menu": "0038"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -123,5 +119,9 @@
         "ninetales",
         "ninetales-alola"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0038",
+        "menu": "0038"
+    }
 }

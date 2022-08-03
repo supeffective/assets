@@ -90,20 +90,20 @@
         "veekunDb": "zweilous",
         "serebii": "zweilous",
         "bulbapedia": "Zweilous",
-        "homeSprite": "zweilous",
-        "miniSprite": "zweilous",
+        "homeSprite": "0634",
+        "miniSprite": "0634",
         "showdown": "zweilous",
         "showdownDef": "Zweilous",
         "smogon": "zweilous"
-    },
-    "imgs": {
-        "home": "0634",
-        "menu": "0634"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "zweilous"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0634",
+        "menu": "0634"
+    }
 }

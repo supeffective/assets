@@ -83,20 +83,20 @@
         "veekunDb": "scatterbug",
         "serebii": "scatterbug",
         "bulbapedia": "Scatterbug",
-        "homeSprite": "scatterbug",
-        "miniSprite": "scatterbug",
+        "homeSprite": "0664",
+        "miniSprite": "0664",
         "showdown": "scatterbug",
         "showdownDef": "Scatterbug",
         "smogon": "scatterbug"
-    },
-    "imgs": {
-        "home": "0664",
-        "menu": "0664"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "scatterbug"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0664",
+        "menu": "0664"
+    }
 }

@@ -103,15 +103,11 @@
         "veekunDb": "voltorb",
         "serebii": "voltorb",
         "bulbapedia": "Voltorb",
-        "homeSprite": "voltorb",
-        "miniSprite": "voltorb",
+        "homeSprite": "0100",
+        "miniSprite": "0100",
         "showdown": "voltorb",
         "showdownDef": "Voltorb",
         "smogon": "voltorb"
-    },
-    "imgs": {
-        "home": "0100",
-        "menu": "0100"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -119,5 +115,9 @@
         "voltorb",
         "voltorb-hisui"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0100",
+        "menu": "0100"
+    }
 }

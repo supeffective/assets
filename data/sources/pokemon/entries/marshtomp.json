@@ -99,20 +99,20 @@
         "veekunDb": "marshtomp",
         "serebii": "marshtomp",
         "bulbapedia": "Marshtomp",
-        "homeSprite": "marshtomp",
-        "miniSprite": "marshtomp",
+        "homeSprite": "0259",
+        "miniSprite": "0259",
         "showdown": "marshtomp",
         "showdownDef": "Marshtomp",
         "smogon": "marshtomp"
-    },
-    "imgs": {
-        "home": "0259",
-        "menu": "0259"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "marshtomp"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0259",
+        "menu": "0259"
+    }
 }

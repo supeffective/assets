@@ -95,15 +95,11 @@
         "veekunDb": "lumineon",
         "serebii": "lumineon",
         "bulbapedia": "Lumineon",
-        "homeSprite": "lumineon",
-        "miniSprite": "lumineon",
+        "homeSprite": "0457",
+        "miniSprite": "0457",
         "showdown": "lumineon",
         "showdownDef": "Lumineon",
         "smogon": "lumineon"
-    },
-    "imgs": {
-        "home": "0457",
-        "menu": "0457"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -111,5 +107,9 @@
         "lumineon",
         "lumineon-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0457",
+        "menu": "0457"
+    }
 }

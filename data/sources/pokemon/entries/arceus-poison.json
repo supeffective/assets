@@ -92,20 +92,20 @@
         "veekunDb": "arceus-poison",
         "serebii": "arceus",
         "bulbapedia": "Arceus",
-        "homeSprite": "arceus-poison",
-        "miniSprite": "arceus-poison",
+        "homeSprite": "0493-poison",
+        "miniSprite": "0493-poison",
         "showdown": "arceuspoison",
         "showdownDef": "Arceus-Poison",
         "smogon": "arceus-poison"
-    },
-    "imgs": {
-        "home": "0493-poison",
-        "menu": "0493-poison"
     },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0493-poison",
+        "menu": "0493-poison"
+    }
 }

@@ -87,20 +87,20 @@
         "veekunDb": "espurr",
         "serebii": "espurr",
         "bulbapedia": "Espurr",
-        "homeSprite": "espurr",
-        "miniSprite": "espurr",
+        "homeSprite": "0677",
+        "miniSprite": "0677",
         "showdown": "espurr",
         "showdownDef": "Espurr",
         "smogon": "espurr"
-    },
-    "imgs": {
-        "home": "0677",
-        "menu": "0677"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "espurr"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0677",
+        "menu": "0677"
+    }
 }

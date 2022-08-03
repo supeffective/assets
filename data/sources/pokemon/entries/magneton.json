@@ -107,20 +107,20 @@
         "veekunDb": "magneton",
         "serebii": "magneton",
         "bulbapedia": "Magneton",
-        "homeSprite": "magneton",
-        "miniSprite": "magneton",
+        "homeSprite": "0082",
+        "miniSprite": "0082",
         "showdown": "magneton",
         "showdownDef": "Magneton",
         "smogon": "magneton"
-    },
-    "imgs": {
-        "home": "0082",
-        "menu": "0082"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "magneton"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0082",
+        "menu": "0082"
+    }
 }

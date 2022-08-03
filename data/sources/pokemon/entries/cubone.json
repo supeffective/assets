@@ -105,20 +105,20 @@
         "veekunDb": "cubone",
         "serebii": "cubone",
         "bulbapedia": "Cubone",
-        "homeSprite": "cubone",
-        "miniSprite": "cubone",
+        "homeSprite": "0104",
+        "miniSprite": "0104",
         "showdown": "cubone",
         "showdownDef": "Cubone",
         "smogon": "cubone"
-    },
-    "imgs": {
-        "home": "0104",
-        "menu": "0104"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "cubone"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0104",
+        "menu": "0104"
+    }
 }

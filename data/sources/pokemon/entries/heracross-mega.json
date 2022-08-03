@@ -78,20 +78,20 @@
         "veekunDb": "heracross-mega",
         "serebii": "heracross",
         "bulbapedia": "Heracross",
-        "homeSprite": "heracross-mega",
-        "miniSprite": "heracross-mega",
+        "homeSprite": "0214-mega",
+        "miniSprite": "0214-mega",
         "showdown": "heracrossmega",
         "showdownDef": "Heracross-Mega",
         "smogon": "heracross-mega"
-    },
-    "imgs": {
-        "home": "0214-mega",
-        "menu": "0214-mega"
     },
     "baseSpecies": "heracross",
     "baseForms": [
         "heracross"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0214-mega",
+        "menu": "0214-mega"
+    }
 }

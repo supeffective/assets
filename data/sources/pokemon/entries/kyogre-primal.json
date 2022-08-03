@@ -78,20 +78,20 @@
         "veekunDb": "kyogre-primal",
         "serebii": "kyogre",
         "bulbapedia": "Kyogre",
-        "homeSprite": "kyogre-primal",
-        "miniSprite": "kyogre-primal",
+        "homeSprite": "0382-primal",
+        "miniSprite": "0382-primal",
         "showdown": "kyogreprimal",
         "showdownDef": "Kyogre-Primal",
         "smogon": "kyogre-primal"
-    },
-    "imgs": {
-        "home": "0382-primal",
-        "menu": "0382-primal"
     },
     "baseSpecies": "kyogre",
     "baseForms": [
         "kyogre"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0382-primal",
+        "menu": "0382-primal"
+    }
 }

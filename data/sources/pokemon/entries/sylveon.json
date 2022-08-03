@@ -89,20 +89,20 @@
         "veekunDb": "sylveon",
         "serebii": "sylveon",
         "bulbapedia": "Sylveon",
-        "homeSprite": "sylveon",
-        "miniSprite": "sylveon",
+        "homeSprite": "0700",
+        "miniSprite": "0700",
         "showdown": "sylveon",
         "showdownDef": "Sylveon",
         "smogon": "sylveon"
-    },
-    "imgs": {
-        "home": "0700",
-        "menu": "0700"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "sylveon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0700",
+        "menu": "0700"
+    }
 }

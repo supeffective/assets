@@ -97,20 +97,20 @@
         "veekunDb": "shroomish",
         "serebii": "shroomish",
         "bulbapedia": "Shroomish",
-        "homeSprite": "shroomish",
-        "miniSprite": "shroomish",
+        "homeSprite": "0285",
+        "miniSprite": "0285",
         "showdown": "shroomish",
         "showdownDef": "Shroomish",
         "smogon": "shroomish"
-    },
-    "imgs": {
-        "home": "0285",
-        "menu": "0285"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "shroomish"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0285",
+        "menu": "0285"
+    }
 }

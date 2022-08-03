@@ -77,20 +77,20 @@
         "veekunDb": "appletun-gmax",
         "serebii": "appletun",
         "bulbapedia": "Appletun",
-        "homeSprite": "appletun-gmax",
-        "miniSprite": "appletun-gmax",
+        "homeSprite": "0842-gmax",
+        "miniSprite": "0841-gmax",
         "showdown": "appletungmax",
         "showdownDef": "Appletun-Gmax",
         "smogon": "appletun-gmax"
-    },
-    "imgs": {
-        "home": "0842-gmax",
-        "menu": "0841-gmax"
     },
     "baseSpecies": "appletun",
     "baseForms": [
         "appletun"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0842-gmax",
+        "menu": "0841-gmax"
+    }
 }

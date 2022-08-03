@@ -80,20 +80,20 @@
         "veekunDb": "barraskewda",
         "serebii": "barraskewda",
         "bulbapedia": "Barraskewda",
-        "homeSprite": "barraskewda",
-        "miniSprite": "barraskewda",
+        "homeSprite": "0847",
+        "miniSprite": "0847",
         "showdown": "barraskewda",
         "showdownDef": "Barraskewda",
         "smogon": "barraskewda"
-    },
-    "imgs": {
-        "home": "0847",
-        "menu": "0847"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "barraskewda"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0847",
+        "menu": "0847"
+    }
 }

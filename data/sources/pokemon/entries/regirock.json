@@ -99,20 +99,20 @@
         "veekunDb": "regirock",
         "serebii": "regirock",
         "bulbapedia": "Regirock",
-        "homeSprite": "regirock",
-        "miniSprite": "regirock",
+        "homeSprite": "0377",
+        "miniSprite": "0377",
         "showdown": "regirock",
         "showdownDef": "Regirock",
         "smogon": "regirock"
-    },
-    "imgs": {
-        "home": "0377",
-        "menu": "0377"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "regirock"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0377",
+        "menu": "0377"
+    }
 }

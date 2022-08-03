@@ -90,20 +90,20 @@
         "veekunDb": "kyurem-black",
         "serebii": "kyurem",
         "bulbapedia": "Kyurem",
-        "homeSprite": "kyurem-black",
-        "miniSprite": "kyurem-black",
+        "homeSprite": "0646-black",
+        "miniSprite": "0646-black",
         "showdown": "kyuremblack",
         "showdownDef": "Kyurem-Black",
         "smogon": "kyurem-black"
-    },
-    "imgs": {
-        "home": "0646-black",
-        "menu": "0646-black"
     },
     "baseSpecies": "kyurem",
     "baseForms": [
         "kyurem"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0646-black",
+        "menu": "0646-black"
+    }
 }

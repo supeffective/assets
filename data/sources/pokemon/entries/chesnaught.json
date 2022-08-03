@@ -85,20 +85,20 @@
         "veekunDb": "chesnaught",
         "serebii": "chesnaught",
         "bulbapedia": "Chesnaught",
-        "homeSprite": "chesnaught",
-        "miniSprite": "chesnaught",
+        "homeSprite": "0652",
+        "miniSprite": "0652",
         "showdown": "chesnaught",
         "showdownDef": "Chesnaught",
         "smogon": "chesnaught"
-    },
-    "imgs": {
-        "home": "0652",
-        "menu": "0652"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "chesnaught"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0652",
+        "menu": "0652"
+    }
 }

@@ -97,20 +97,20 @@
         "veekunDb": "electivire",
         "serebii": "electivire",
         "bulbapedia": "Electivire",
-        "homeSprite": "electivire",
-        "miniSprite": "electivire",
+        "homeSprite": "0466",
+        "miniSprite": "0466",
         "showdown": "electivire",
         "showdownDef": "Electivire",
         "smogon": "electivire"
-    },
-    "imgs": {
-        "home": "0466",
-        "menu": "0466"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "electivire"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0466",
+        "menu": "0466"
+    }
 }

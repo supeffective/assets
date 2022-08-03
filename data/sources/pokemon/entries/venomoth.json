@@ -103,20 +103,20 @@
         "veekunDb": "venomoth",
         "serebii": "venomoth",
         "bulbapedia": "Venomoth",
-        "homeSprite": "venomoth",
-        "miniSprite": "venomoth",
+        "homeSprite": "0049",
+        "miniSprite": "0049",
         "showdown": "venomoth",
         "showdownDef": "Venomoth",
         "smogon": "venomoth"
-    },
-    "imgs": {
-        "home": "0049",
-        "menu": "0049"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "venomoth"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0049",
+        "menu": "0049"
+    }
 }

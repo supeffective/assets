@@ -99,20 +99,20 @@
         "veekunDb": "loudred",
         "serebii": "loudred",
         "bulbapedia": "Loudred",
-        "homeSprite": "loudred",
-        "miniSprite": "loudred",
+        "homeSprite": "0294",
+        "miniSprite": "0294",
         "showdown": "loudred",
         "showdownDef": "Loudred",
         "smogon": "loudred"
-    },
-    "imgs": {
-        "home": "0294",
-        "menu": "0294"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "loudred"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0294",
+        "menu": "0294"
+    }
 }

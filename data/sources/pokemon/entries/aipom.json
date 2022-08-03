@@ -101,15 +101,11 @@
         "veekunDb": "aipom",
         "serebii": "aipom",
         "bulbapedia": "Aipom",
-        "homeSprite": "aipom",
-        "miniSprite": "aipom",
+        "homeSprite": "0190",
+        "miniSprite": "0190",
         "showdown": "aipom",
         "showdownDef": "Aipom",
         "smogon": "aipom"
-    },
-    "imgs": {
-        "home": "0190",
-        "menu": "0190"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -117,5 +113,9 @@
         "aipom",
         "aipom-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0190",
+        "menu": "0190"
+    }
 }

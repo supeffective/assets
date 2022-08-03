@@ -82,18 +82,18 @@
         "veekunDb": "meowth-galar",
         "serebii": "meowth",
         "bulbapedia": "Meowth",
-        "homeSprite": "meowth-galar",
-        "miniSprite": "meowth-galar",
+        "homeSprite": "0052-galar",
+        "miniSprite": "0052-galar",
         "showdown": "meowthgalar",
         "showdownDef": "Meowth-Galar",
         "smogon": "meowth-galar"
     },
-    "imgs": {
-        "home": "0052-galar",
-        "menu": "0052-galar"
-    },
     "baseSpecies": "meowth",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0052-galar",
+        "menu": "0052-galar"
+    }
 }

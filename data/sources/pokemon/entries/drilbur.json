@@ -90,20 +90,20 @@
         "veekunDb": "drilbur",
         "serebii": "drilbur",
         "bulbapedia": "Drilbur",
-        "homeSprite": "drilbur",
-        "miniSprite": "drilbur",
+        "homeSprite": "0529",
+        "miniSprite": "0529",
         "showdown": "drilbur",
         "showdownDef": "Drilbur",
         "smogon": "drilbur"
-    },
-    "imgs": {
-        "home": "0529",
-        "menu": "0529"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "drilbur"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0529",
+        "menu": "0529"
+    }
 }

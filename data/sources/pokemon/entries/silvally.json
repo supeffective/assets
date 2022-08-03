@@ -84,15 +84,11 @@
         "veekunDb": "silvally",
         "serebii": "silvally",
         "bulbapedia": "Silvally",
-        "homeSprite": "silvally",
-        "miniSprite": "silvally",
+        "homeSprite": "0773",
+        "miniSprite": "0773",
         "showdown": "silvally",
         "showdownDef": "Silvally",
         "smogon": "silvally"
-    },
-    "imgs": {
-        "home": "0773",
-        "menu": "0773"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -116,5 +112,9 @@
         "silvally-dark",
         "silvally-fairy"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0773",
+        "menu": "0773"
+    }
 }

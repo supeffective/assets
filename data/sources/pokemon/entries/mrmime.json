@@ -107,15 +107,11 @@
         "veekunDb": "mrmime",
         "serebii": "mrmime",
         "bulbapedia": "Mr. Mime",
-        "homeSprite": "mrmime",
-        "miniSprite": "mrmime",
+        "homeSprite": "0122",
+        "miniSprite": "0122",
         "showdown": "mrmime",
         "showdownDef": "Mrmime",
         "smogon": "mrmime"
-    },
-    "imgs": {
-        "home": "0122",
-        "menu": "0122"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -123,5 +119,9 @@
         "mrmime",
         "mrmime-galar"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0122",
+        "menu": "0122"
+    }
 }

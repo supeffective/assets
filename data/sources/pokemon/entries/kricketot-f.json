@@ -95,18 +95,18 @@
         "veekunDb": "kricketot",
         "serebii": "kricketot",
         "bulbapedia": "Kricketot",
-        "homeSprite": "kricketot-f",
-        "miniSprite": "kricketot-f",
+        "homeSprite": "0401-f",
+        "miniSprite": "0401",
         "showdown": "kricketot",
         "showdownDef": "Kricketot",
         "smogon": "kricketot"
     },
-    "imgs": {
-        "home": "0401-f",
-        "menu": "0401"
-    },
     "baseSpecies": "kricketot",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0401-f",
+        "menu": "0401"
+    }
 }

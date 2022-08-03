@@ -101,20 +101,20 @@
         "veekunDb": "dunsparce",
         "serebii": "dunsparce",
         "bulbapedia": "Dunsparce",
-        "homeSprite": "dunsparce",
-        "miniSprite": "dunsparce",
+        "homeSprite": "0206",
+        "miniSprite": "0206",
         "showdown": "dunsparce",
         "showdownDef": "Dunsparce",
         "smogon": "dunsparce"
-    },
-    "imgs": {
-        "home": "0206",
-        "menu": "0206"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "dunsparce"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0206",
+        "menu": "0206"
+    }
 }

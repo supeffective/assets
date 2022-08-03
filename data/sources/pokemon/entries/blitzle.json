@@ -88,20 +88,20 @@
         "veekunDb": "blitzle",
         "serebii": "blitzle",
         "bulbapedia": "Blitzle",
-        "homeSprite": "blitzle",
-        "miniSprite": "blitzle",
+        "homeSprite": "0522",
+        "miniSprite": "0522",
         "showdown": "blitzle",
         "showdownDef": "Blitzle",
         "smogon": "blitzle"
-    },
-    "imgs": {
-        "home": "0522",
-        "menu": "0522"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "blitzle"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0522",
+        "menu": "0522"
+    }
 }

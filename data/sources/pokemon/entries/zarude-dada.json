@@ -80,18 +80,18 @@
         "veekunDb": "zarude-dada",
         "serebii": "zarude",
         "bulbapedia": "Zarude",
-        "homeSprite": "zarude-dada",
-        "miniSprite": "zarude-dada",
+        "homeSprite": "0893-dada",
+        "miniSprite": "0893-dada",
         "showdown": "zarudedada",
         "showdownDef": "Zarude-Dada",
         "smogon": "zarude-dada"
     },
-    "imgs": {
-        "home": "0893-dada",
-        "menu": "0893-dada"
-    },
     "baseSpecies": "zarude",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0893-dada",
+        "menu": "0893-dada"
+    }
 }

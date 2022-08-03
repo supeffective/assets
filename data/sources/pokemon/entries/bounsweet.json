@@ -84,20 +84,20 @@
         "veekunDb": "bounsweet",
         "serebii": "bounsweet",
         "bulbapedia": "Bounsweet",
-        "homeSprite": "bounsweet",
-        "miniSprite": "bounsweet",
+        "homeSprite": "0761",
+        "miniSprite": "0761",
         "showdown": "bounsweet",
         "showdownDef": "Bounsweet",
         "smogon": "bounsweet"
-    },
-    "imgs": {
-        "home": "0761",
-        "menu": "0761"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "bounsweet"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0761",
+        "menu": "0761"
+    }
 }

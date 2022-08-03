@@ -80,15 +80,11 @@
         "veekunDb": "basculegion",
         "serebii": "basculegion",
         "bulbapedia": "Basculegion",
-        "homeSprite": "basculegion",
-        "miniSprite": "basculegion",
+        "homeSprite": "0902",
+        "miniSprite": "0902",
         "showdown": "basculegion",
         "showdownDef": "Basculegion",
         "smogon": "basculegion"
-    },
-    "imgs": {
-        "home": "0902",
-        "menu": "0902"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -96,5 +92,9 @@
         "basculegion",
         "basculegion-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0902",
+        "menu": "0902"
+    }
 }

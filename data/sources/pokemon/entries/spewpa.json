@@ -83,20 +83,20 @@
         "veekunDb": "spewpa",
         "serebii": "spewpa",
         "bulbapedia": "Spewpa",
-        "homeSprite": "spewpa",
-        "miniSprite": "spewpa",
+        "homeSprite": "0665",
+        "miniSprite": "0665",
         "showdown": "spewpa",
         "showdownDef": "Spewpa",
         "smogon": "spewpa"
-    },
-    "imgs": {
-        "home": "0665",
-        "menu": "0665"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "spewpa"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0665",
+        "menu": "0665"
+    }
 }

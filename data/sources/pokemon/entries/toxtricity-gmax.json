@@ -77,20 +77,20 @@
         "veekunDb": "toxtricity-gmax",
         "serebii": "toxtricity",
         "bulbapedia": "Toxtricity",
-        "homeSprite": "toxtricity-gmax",
-        "miniSprite": "toxtricity-gmax",
+        "homeSprite": "0849-gmax",
+        "miniSprite": "0849-gmax",
         "showdown": "toxtricitygmax",
         "showdownDef": "Toxtricity-Gmax",
         "smogon": "toxtricity-gmax"
-    },
-    "imgs": {
-        "home": "0849-gmax",
-        "menu": "0849-gmax"
     },
     "baseSpecies": "toxtricity",
     "baseForms": [
         "toxtricity"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0849-gmax",
+        "menu": "0849-gmax"
+    }
 }

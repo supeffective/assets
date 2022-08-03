@@ -77,20 +77,20 @@
         "veekunDb": "duraludon-gmax",
         "serebii": "duraludon",
         "bulbapedia": "Duraludon",
-        "homeSprite": "duraludon-gmax",
-        "miniSprite": "duraludon-gmax",
+        "homeSprite": "0884-gmax",
+        "miniSprite": "0884-gmax",
         "showdown": "duraludongmax",
         "showdownDef": "Duraludon-Gmax",
         "smogon": "duraludon-gmax"
-    },
-    "imgs": {
-        "home": "0884-gmax",
-        "menu": "0884-gmax"
     },
     "baseSpecies": "duraludon",
     "baseForms": [
         "duraludon"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0884-gmax",
+        "menu": "0884-gmax"
+    }
 }

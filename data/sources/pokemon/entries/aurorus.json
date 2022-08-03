@@ -87,20 +87,20 @@
         "veekunDb": "aurorus",
         "serebii": "aurorus",
         "bulbapedia": "Aurorus",
-        "homeSprite": "aurorus",
-        "miniSprite": "aurorus",
+        "homeSprite": "0699",
+        "miniSprite": "0699",
         "showdown": "aurorus",
         "showdownDef": "Aurorus",
         "smogon": "aurorus"
-    },
-    "imgs": {
-        "home": "0699",
-        "menu": "0699"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "aurorus"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0699",
+        "menu": "0699"
+    }
 }

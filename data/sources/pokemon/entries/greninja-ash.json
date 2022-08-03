@@ -80,20 +80,20 @@
         "veekunDb": "greninja-ash",
         "serebii": "greninja",
         "bulbapedia": "Greninja",
-        "homeSprite": "greninja-ash",
-        "miniSprite": "greninja-ash",
+        "homeSprite": "0658-ash",
+        "miniSprite": "0658-ash",
         "showdown": "greninjaash",
         "showdownDef": "Greninja-Ash",
         "smogon": "greninja-ash"
-    },
-    "imgs": {
-        "home": "0658-ash",
-        "menu": "0658-ash"
     },
     "baseSpecies": "greninja",
     "baseForms": [
         "greninja--battle-bond"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0658-ash",
+        "menu": "0658-ash"
+    }
 }

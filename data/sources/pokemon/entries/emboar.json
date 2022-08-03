@@ -88,20 +88,20 @@
         "veekunDb": "emboar",
         "serebii": "emboar",
         "bulbapedia": "Emboar",
-        "homeSprite": "emboar",
-        "miniSprite": "emboar",
+        "homeSprite": "0500",
+        "miniSprite": "0500",
         "showdown": "emboar",
         "showdownDef": "Emboar",
         "smogon": "emboar"
-    },
-    "imgs": {
-        "home": "0500",
-        "menu": "0500"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "emboar"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0500",
+        "menu": "0500"
+    }
 }

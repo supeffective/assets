@@ -97,20 +97,20 @@
         "veekunDb": "illumise",
         "serebii": "illumise",
         "bulbapedia": "Illumise",
-        "homeSprite": "illumise",
-        "miniSprite": "illumise",
+        "homeSprite": "0314",
+        "miniSprite": "0314",
         "showdown": "illumise",
         "showdownDef": "Illumise",
         "smogon": "illumise"
-    },
-    "imgs": {
-        "home": "0314",
-        "menu": "0314"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "illumise"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0314",
+        "menu": "0314"
+    }
 }

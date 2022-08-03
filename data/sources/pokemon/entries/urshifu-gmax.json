@@ -77,20 +77,20 @@
         "veekunDb": "urshifu-gmax",
         "serebii": "urshifu",
         "bulbapedia": "Urshifu",
-        "homeSprite": "urshifu-gmax",
-        "miniSprite": "urshifu-gmax",
+        "homeSprite": "0892-gmax",
+        "miniSprite": "0892-gmax",
         "showdown": "urshifugmax",
         "showdownDef": "Urshifu-Gmax",
         "smogon": "urshifu-gmax"
-    },
-    "imgs": {
-        "home": "0892-gmax",
-        "menu": "0892-gmax"
     },
     "baseSpecies": "urshifu",
     "baseForms": [
         "urshifu"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0892-gmax",
+        "menu": "0892-gmax"
+    }
 }

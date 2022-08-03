@@ -80,20 +80,20 @@
         "veekunDb": "sobble",
         "serebii": "sobble",
         "bulbapedia": "Sobble",
-        "homeSprite": "sobble",
-        "miniSprite": "sobble",
+        "homeSprite": "0816",
+        "miniSprite": "0816",
         "showdown": "sobble",
         "showdownDef": "Sobble",
         "smogon": "sobble"
-    },
-    "imgs": {
-        "home": "0816",
-        "menu": "0816"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "sobble"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0816",
+        "menu": "0816"
+    }
 }

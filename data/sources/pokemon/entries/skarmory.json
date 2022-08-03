@@ -101,20 +101,20 @@
         "veekunDb": "skarmory",
         "serebii": "skarmory",
         "bulbapedia": "Skarmory",
-        "homeSprite": "skarmory",
-        "miniSprite": "skarmory",
+        "homeSprite": "0227",
+        "miniSprite": "0227",
         "showdown": "skarmory",
         "showdownDef": "Skarmory",
         "smogon": "skarmory"
-    },
-    "imgs": {
-        "home": "0227",
-        "menu": "0227"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "skarmory"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0227",
+        "menu": "0227"
+    }
 }

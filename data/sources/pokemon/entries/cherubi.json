@@ -97,20 +97,20 @@
         "veekunDb": "cherubi",
         "serebii": "cherubi",
         "bulbapedia": "Cherubi",
-        "homeSprite": "cherubi",
-        "miniSprite": "cherubi",
+        "homeSprite": "0420",
+        "miniSprite": "0420",
         "showdown": "cherubi",
         "showdownDef": "Cherubi",
         "smogon": "cherubi"
-    },
-    "imgs": {
-        "home": "0420",
-        "menu": "0420"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "cherubi"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0420",
+        "menu": "0420"
+    }
 }

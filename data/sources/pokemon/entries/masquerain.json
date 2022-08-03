@@ -97,20 +97,20 @@
         "veekunDb": "masquerain",
         "serebii": "masquerain",
         "bulbapedia": "Masquerain",
-        "homeSprite": "masquerain",
-        "miniSprite": "masquerain",
+        "homeSprite": "0284",
+        "miniSprite": "0284",
         "showdown": "masquerain",
         "showdownDef": "Masquerain",
         "smogon": "masquerain"
-    },
-    "imgs": {
-        "home": "0284",
-        "menu": "0284"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "masquerain"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0284",
+        "menu": "0284"
+    }
 }

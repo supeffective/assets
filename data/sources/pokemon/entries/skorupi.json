@@ -97,20 +97,20 @@
         "veekunDb": "skorupi",
         "serebii": "skorupi",
         "bulbapedia": "Skorupi",
-        "homeSprite": "skorupi",
-        "miniSprite": "skorupi",
+        "homeSprite": "0451",
+        "miniSprite": "0451",
         "showdown": "skorupi",
         "showdownDef": "Skorupi",
         "smogon": "skorupi"
-    },
-    "imgs": {
-        "home": "0451",
-        "menu": "0451"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "skorupi"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0451",
+        "menu": "0451"
+    }
 }

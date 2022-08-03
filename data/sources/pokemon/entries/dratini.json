@@ -105,20 +105,20 @@
         "veekunDb": "dratini",
         "serebii": "dratini",
         "bulbapedia": "Dratini",
-        "homeSprite": "dratini",
-        "miniSprite": "dratini",
+        "homeSprite": "0147",
+        "miniSprite": "0147",
         "showdown": "dratini",
         "showdownDef": "Dratini",
         "smogon": "dratini"
-    },
-    "imgs": {
-        "home": "0147",
-        "menu": "0147"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "dratini"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0147",
+        "menu": "0147"
+    }
 }

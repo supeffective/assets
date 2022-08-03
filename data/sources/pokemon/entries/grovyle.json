@@ -99,20 +99,20 @@
         "veekunDb": "grovyle",
         "serebii": "grovyle",
         "bulbapedia": "Grovyle",
-        "homeSprite": "grovyle",
-        "miniSprite": "grovyle",
+        "homeSprite": "0253",
+        "miniSprite": "0253",
         "showdown": "grovyle",
         "showdownDef": "Grovyle",
         "smogon": "grovyle"
-    },
-    "imgs": {
-        "home": "0253",
-        "menu": "0253"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "grovyle"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0253",
+        "menu": "0253"
+    }
 }

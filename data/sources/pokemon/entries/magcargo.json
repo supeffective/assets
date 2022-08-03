@@ -99,20 +99,20 @@
         "veekunDb": "magcargo",
         "serebii": "magcargo",
         "bulbapedia": "Magcargo",
-        "homeSprite": "magcargo",
-        "miniSprite": "magcargo",
+        "homeSprite": "0219",
+        "miniSprite": "0219",
         "showdown": "magcargo",
         "showdownDef": "Magcargo",
         "smogon": "magcargo"
-    },
-    "imgs": {
-        "home": "0219",
-        "menu": "0219"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "magcargo"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0219",
+        "menu": "0219"
+    }
 }

@@ -105,20 +105,20 @@
         "veekunDb": "paras",
         "serebii": "paras",
         "bulbapedia": "Paras",
-        "homeSprite": "paras",
-        "miniSprite": "paras",
+        "homeSprite": "0046",
+        "miniSprite": "0046",
         "showdown": "paras",
         "showdownDef": "Paras",
         "smogon": "paras"
-    },
-    "imgs": {
-        "home": "0046",
-        "menu": "0046"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "paras"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0046",
+        "menu": "0046"
+    }
 }

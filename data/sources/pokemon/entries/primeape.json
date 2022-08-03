@@ -103,20 +103,20 @@
         "veekunDb": "primeape",
         "serebii": "primeape",
         "bulbapedia": "Primeape",
-        "homeSprite": "primeape",
-        "miniSprite": "primeape",
+        "homeSprite": "0057",
+        "miniSprite": "0057",
         "showdown": "primeape",
         "showdownDef": "Primeape",
         "smogon": "primeape"
-    },
-    "imgs": {
-        "home": "0057",
-        "menu": "0057"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "primeape"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0057",
+        "menu": "0057"
+    }
 }

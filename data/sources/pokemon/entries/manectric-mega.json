@@ -78,20 +78,20 @@
         "veekunDb": "manectric-mega",
         "serebii": "manectric",
         "bulbapedia": "Manectric",
-        "homeSprite": "manectric-mega",
-        "miniSprite": "manectric-mega",
+        "homeSprite": "0310-mega",
+        "miniSprite": "0310-mega",
         "showdown": "manectricmega",
         "showdownDef": "Manectric-Mega",
         "smogon": "manectric-mega"
-    },
-    "imgs": {
-        "home": "0310-mega",
-        "menu": "0310-mega"
     },
     "baseSpecies": "manectric",
     "baseForms": [
         "manectric"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0310-mega",
+        "menu": "0310-mega"
+    }
 }

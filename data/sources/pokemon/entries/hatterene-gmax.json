@@ -77,20 +77,20 @@
         "veekunDb": "hatterene-gmax",
         "serebii": "hatterene",
         "bulbapedia": "Hatterene",
-        "homeSprite": "hatterene-gmax",
-        "miniSprite": "hatterene-gmax",
+        "homeSprite": "0858-gmax",
+        "miniSprite": "0858-gmax",
         "showdown": "hatterenegmax",
         "showdownDef": "Hatterene-Gmax",
         "smogon": "hatterene-gmax"
-    },
-    "imgs": {
-        "home": "0858-gmax",
-        "menu": "0858-gmax"
     },
     "baseSpecies": "hatterene",
     "baseForms": [
         "hatterene"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0858-gmax",
+        "menu": "0858-gmax"
+    }
 }

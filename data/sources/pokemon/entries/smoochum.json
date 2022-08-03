@@ -101,20 +101,20 @@
         "veekunDb": "smoochum",
         "serebii": "smoochum",
         "bulbapedia": "Smoochum",
-        "homeSprite": "smoochum",
-        "miniSprite": "smoochum",
+        "homeSprite": "0238",
+        "miniSprite": "0238",
         "showdown": "smoochum",
         "showdownDef": "Smoochum",
         "smogon": "smoochum"
-    },
-    "imgs": {
-        "home": "0238",
-        "menu": "0238"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "smoochum"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0238",
+        "menu": "0238"
+    }
 }

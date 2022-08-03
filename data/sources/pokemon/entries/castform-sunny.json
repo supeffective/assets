@@ -82,20 +82,20 @@
         "veekunDb": "castform-sunny",
         "serebii": "castform",
         "bulbapedia": "Castform",
-        "homeSprite": "castform-sunny",
-        "miniSprite": "castform-sunny",
+        "homeSprite": "0351-sunny",
+        "miniSprite": "0351-sunny",
         "showdown": "castformsunny",
         "showdownDef": "Castform-Sunny",
         "smogon": "castform-sunny"
-    },
-    "imgs": {
-        "home": "0351-sunny",
-        "menu": "0351-sunny"
     },
     "baseSpecies": "castform",
     "baseForms": [
         "castform"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0351-sunny",
+        "menu": "0351-sunny"
+    }
 }

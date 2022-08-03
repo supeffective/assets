@@ -105,20 +105,20 @@
         "veekunDb": "omanyte",
         "serebii": "omanyte",
         "bulbapedia": "Omanyte",
-        "homeSprite": "omanyte",
-        "miniSprite": "omanyte",
+        "homeSprite": "0138",
+        "miniSprite": "0138",
         "showdown": "omanyte",
         "showdownDef": "Omanyte",
         "smogon": "omanyte"
-    },
-    "imgs": {
-        "home": "0138",
-        "menu": "0138"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "omanyte"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0138",
+        "menu": "0138"
+    }
 }

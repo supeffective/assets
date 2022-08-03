@@ -101,20 +101,20 @@
         "veekunDb": "kirlia",
         "serebii": "kirlia",
         "bulbapedia": "Kirlia",
-        "homeSprite": "kirlia",
-        "miniSprite": "kirlia",
+        "homeSprite": "0281",
+        "miniSprite": "0281",
         "showdown": "kirlia",
         "showdownDef": "Kirlia",
         "smogon": "kirlia"
-    },
-    "imgs": {
-        "home": "0281",
-        "menu": "0281"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "kirlia"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0281",
+        "menu": "0281"
+    }
 }

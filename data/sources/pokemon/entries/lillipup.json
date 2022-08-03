@@ -90,20 +90,20 @@
         "veekunDb": "lillipup",
         "serebii": "lillipup",
         "bulbapedia": "Lillipup",
-        "homeSprite": "lillipup",
-        "miniSprite": "lillipup",
+        "homeSprite": "0506",
+        "miniSprite": "0506",
         "showdown": "lillipup",
         "showdownDef": "Lillipup",
         "smogon": "lillipup"
-    },
-    "imgs": {
-        "home": "0506",
-        "menu": "0506"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "lillipup"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0506",
+        "menu": "0506"
+    }
 }

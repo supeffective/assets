@@ -82,18 +82,18 @@
         "veekunDb": null,
         "serebii": "voltorb",
         "bulbapedia": "Voltorb",
-        "homeSprite": "voltorb-hisui",
-        "miniSprite": "voltorb-hisui",
+        "homeSprite": "0100-hisui",
+        "miniSprite": "0100-hisui",
         "showdown": "voltorbhisui",
         "showdownDef": "Voltorb-Hisui",
         "smogon": "voltorb-hisui"
     },
-    "imgs": {
-        "home": "0100-hisui",
-        "menu": "0100-hisui"
-    },
     "baseSpecies": "voltorb",
     "baseForms": [],
     "forms": [],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0100-hisui",
+        "menu": "0100-hisui"
+    }
 }

@@ -99,15 +99,11 @@
         "veekunDb": "nuzleaf",
         "serebii": "nuzleaf",
         "bulbapedia": "Nuzleaf",
-        "homeSprite": "nuzleaf",
-        "miniSprite": "nuzleaf",
+        "homeSprite": "0274",
+        "miniSprite": "0274",
         "showdown": "nuzleaf",
         "showdownDef": "Nuzleaf",
         "smogon": "nuzleaf"
-    },
-    "imgs": {
-        "home": "0274",
-        "menu": "0274"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -115,5 +111,9 @@
         "nuzleaf",
         "nuzleaf-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0274",
+        "menu": "0274"
+    }
 }

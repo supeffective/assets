@@ -84,20 +84,20 @@
         "veekunDb": "mudbray",
         "serebii": "mudbray",
         "bulbapedia": "Mudbray",
-        "homeSprite": "mudbray",
-        "miniSprite": "mudbray",
+        "homeSprite": "0749",
+        "miniSprite": "0749",
         "showdown": "mudbray",
         "showdownDef": "Mudbray",
         "smogon": "mudbray"
-    },
-    "imgs": {
-        "home": "0749",
-        "menu": "0749"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "mudbray"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0749",
+        "menu": "0749"
+    }
 }

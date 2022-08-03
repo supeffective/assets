@@ -103,20 +103,20 @@
         "veekunDb": "crobat",
         "serebii": "crobat",
         "bulbapedia": "Crobat",
-        "homeSprite": "crobat",
-        "miniSprite": "crobat",
+        "homeSprite": "0169",
+        "miniSprite": "0169",
         "showdown": "crobat",
         "showdownDef": "Crobat",
         "smogon": "crobat"
-    },
-    "imgs": {
-        "home": "0169",
-        "menu": "0169"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "crobat"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0169",
+        "menu": "0169"
+    }
 }

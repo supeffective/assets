@@ -80,18 +80,18 @@
         "veekunDb": "corsola-galar",
         "serebii": "corsola",
         "bulbapedia": "Corsola",
-        "homeSprite": "corsola-galar",
-        "miniSprite": "corsola-galar",
+        "homeSprite": "0222-galar",
+        "miniSprite": "0222-galar",
         "showdown": "corsolagalar",
         "showdownDef": "Corsola-Galar",
         "smogon": "corsola-galar"
     },
-    "imgs": {
-        "home": "0222-galar",
-        "menu": "0222-galar"
-    },
     "baseSpecies": "corsola",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0222-galar",
+        "menu": "0222-galar"
+    }
 }

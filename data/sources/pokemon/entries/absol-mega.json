@@ -78,20 +78,20 @@
         "veekunDb": "absol-mega",
         "serebii": "absol",
         "bulbapedia": "Absol",
-        "homeSprite": "absol-mega",
-        "miniSprite": "absol-mega",
+        "homeSprite": "0359-mega",
+        "miniSprite": "0359-mega",
         "showdown": "absolmega",
         "showdownDef": "Absol-Mega",
         "smogon": "absol-mega"
-    },
-    "imgs": {
-        "home": "0359-mega",
-        "menu": "0359-mega"
     },
     "baseSpecies": "absol",
     "baseForms": [
         "absol"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0359-mega",
+        "menu": "0359-mega"
+    }
 }

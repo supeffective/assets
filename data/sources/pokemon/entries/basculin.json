@@ -90,15 +90,11 @@
         "veekunDb": "basculin",
         "serebii": "basculin",
         "bulbapedia": "Basculin",
-        "homeSprite": "basculin",
-        "miniSprite": "basculin",
+        "homeSprite": "0550",
+        "miniSprite": "0550",
         "showdown": "basculin",
         "showdownDef": "Basculin",
         "smogon": "basculin"
-    },
-    "imgs": {
-        "home": "0550",
-        "menu": "0550"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -107,5 +103,9 @@
         "basculin-blue-striped",
         "basculin-white-striped"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0550",
+        "menu": "0550"
+    }
 }

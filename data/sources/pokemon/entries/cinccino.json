@@ -90,20 +90,20 @@
         "veekunDb": "cinccino",
         "serebii": "cinccino",
         "bulbapedia": "Cinccino",
-        "homeSprite": "cinccino",
-        "miniSprite": "cinccino",
+        "homeSprite": "0573",
+        "miniSprite": "0573",
         "showdown": "cinccino",
         "showdownDef": "Cinccino",
         "smogon": "cinccino"
-    },
-    "imgs": {
-        "home": "0573",
-        "menu": "0573"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "cinccino"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0573",
+        "menu": "0573"
+    }
 }

@@ -85,20 +85,20 @@
         "veekunDb": "delphox",
         "serebii": "delphox",
         "bulbapedia": "Delphox",
-        "homeSprite": "delphox",
-        "miniSprite": "delphox",
+        "homeSprite": "0655",
+        "miniSprite": "0655",
         "showdown": "delphox",
         "showdownDef": "Delphox",
         "smogon": "delphox"
-    },
-    "imgs": {
-        "home": "0655",
-        "menu": "0655"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "delphox"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0655",
+        "menu": "0655"
+    }
 }

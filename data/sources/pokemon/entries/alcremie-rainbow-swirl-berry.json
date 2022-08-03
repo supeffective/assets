@@ -80,18 +80,18 @@
         "veekunDb": "alcremie-rainbow-swirl-berry",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
-        "homeSprite": "alcremie-rainbow-swirl-berry",
-        "miniSprite": "alcremie-rainbow-swirl-berry",
+        "homeSprite": "0869-rainbow-swirl-berry",
+        "miniSprite": "0869-rainbow-swirl-berry",
         "showdown": "alcremie",
         "showdownDef": "Alcremie-Rainbow-Swirl-Berry",
         "smogon": "alcremie-rainbow-swirl-berry"
     },
-    "imgs": {
-        "home": "0869-rainbow-swirl-berry",
-        "menu": "0869-rainbow-swirl-berry"
-    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0869-rainbow-swirl-berry",
+        "menu": "0869-rainbow-swirl-berry"
+    }
 }

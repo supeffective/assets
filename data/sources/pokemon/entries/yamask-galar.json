@@ -82,18 +82,18 @@
         "veekunDb": "yamask-galar",
         "serebii": "yamask",
         "bulbapedia": "Yamask",
-        "homeSprite": "yamask-galar",
-        "miniSprite": "yamask-galar",
+        "homeSprite": "0562-galar",
+        "miniSprite": "0562-galar",
         "showdown": "yamaskgalar",
         "showdownDef": "Yamask-Galar",
         "smogon": "yamask-galar"
     },
-    "imgs": {
-        "home": "0562-galar",
-        "menu": "0562-galar"
-    },
     "baseSpecies": "yamask",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0562-galar",
+        "menu": "0562-galar"
+    }
 }

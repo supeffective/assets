@@ -99,20 +99,20 @@
         "veekunDb": "corphish",
         "serebii": "corphish",
         "bulbapedia": "Corphish",
-        "homeSprite": "corphish",
-        "miniSprite": "corphish",
+        "homeSprite": "0341",
+        "miniSprite": "0341",
         "showdown": "corphish",
         "showdownDef": "Corphish",
         "smogon": "corphish"
-    },
-    "imgs": {
-        "home": "0341",
-        "menu": "0341"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "corphish"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0341",
+        "menu": "0341"
+    }
 }

@@ -85,20 +85,20 @@
         "veekunDb": "honedge",
         "serebii": "honedge",
         "bulbapedia": "Honedge",
-        "homeSprite": "honedge",
-        "miniSprite": "honedge",
+        "homeSprite": "0679",
+        "miniSprite": "0679",
         "showdown": "honedge",
         "showdownDef": "Honedge",
         "smogon": "honedge"
-    },
-    "imgs": {
-        "home": "0679",
-        "menu": "0679"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "honedge"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0679",
+        "menu": "0679"
+    }
 }

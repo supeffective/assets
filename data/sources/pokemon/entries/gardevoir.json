@@ -101,15 +101,11 @@
         "veekunDb": "gardevoir",
         "serebii": "gardevoir",
         "bulbapedia": "Gardevoir",
-        "homeSprite": "gardevoir",
-        "miniSprite": "gardevoir",
+        "homeSprite": "0282",
+        "miniSprite": "0282",
         "showdown": "gardevoir",
         "showdownDef": "Gardevoir",
         "smogon": "gardevoir"
-    },
-    "imgs": {
-        "home": "0282",
-        "menu": "0282"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -117,5 +113,9 @@
         "gardevoir",
         "gardevoir-mega"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0282",
+        "menu": "0282"
+    }
 }

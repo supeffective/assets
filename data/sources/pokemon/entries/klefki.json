@@ -87,20 +87,20 @@
         "veekunDb": "klefki",
         "serebii": "klefki",
         "bulbapedia": "Klefki",
-        "homeSprite": "klefki",
-        "miniSprite": "klefki",
+        "homeSprite": "0707",
+        "miniSprite": "0707",
         "showdown": "klefki",
         "showdownDef": "Klefki",
         "smogon": "klefki"
-    },
-    "imgs": {
-        "home": "0707",
-        "menu": "0707"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "klefki"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0707",
+        "menu": "0707"
+    }
 }

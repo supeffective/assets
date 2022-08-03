@@ -80,20 +80,20 @@
         "veekunDb": "kubfu",
         "serebii": "kubfu",
         "bulbapedia": "Kubfu",
-        "homeSprite": "kubfu",
-        "miniSprite": "kubfu",
+        "homeSprite": "0891",
+        "miniSprite": "0891",
         "showdown": "kubfu",
         "showdownDef": "Kubfu",
         "smogon": "kubfu"
-    },
-    "imgs": {
-        "home": "0891",
-        "menu": "0891"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "kubfu"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0891",
+        "menu": "0891"
+    }
 }

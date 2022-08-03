@@ -87,20 +87,20 @@
         "veekunDb": "keldeo-resolute",
         "serebii": "keldeo",
         "bulbapedia": "Keldeo",
-        "homeSprite": "keldeo-resolute",
-        "miniSprite": "keldeo-resolute",
+        "homeSprite": "0647-resolute",
+        "miniSprite": "0647-resolute",
         "showdown": "keldeoresolute",
         "showdownDef": "Keldeo-Resolute",
         "smogon": "keldeo-resolute"
-    },
-    "imgs": {
-        "home": "0647-resolute",
-        "menu": "0647-resolute"
     },
     "baseSpecies": "keldeo",
     "baseForms": [
         "keldeo"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0647-resolute",
+        "menu": "0647-resolute"
+    }
 }

@@ -83,18 +83,18 @@
         "veekunDb": "vivillon-river",
         "serebii": "vivillon",
         "bulbapedia": "Vivillon",
-        "homeSprite": "vivillon-river",
-        "miniSprite": "vivillon-river",
+        "homeSprite": "0666-river",
+        "miniSprite": "0666-river",
         "showdown": "vivillon",
         "showdownDef": "Vivillon-River",
         "smogon": "vivillon-river"
     },
-    "imgs": {
-        "home": "0666-river",
-        "menu": "0666-river"
-    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0666-river",
+        "menu": "0666-river"
+    }
 }

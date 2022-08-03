@@ -80,15 +80,11 @@
         "veekunDb": "orbeetle",
         "serebii": "orbeetle",
         "bulbapedia": "Orbeetle",
-        "homeSprite": "orbeetle",
-        "miniSprite": "orbeetle",
+        "homeSprite": "0826",
+        "miniSprite": "0826",
         "showdown": "orbeetle",
         "showdownDef": "Orbeetle",
         "smogon": "orbeetle"
-    },
-    "imgs": {
-        "home": "0826",
-        "menu": "0826"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -96,5 +92,9 @@
         "orbeetle",
         "orbeetle-gmax"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0826",
+        "menu": "0826"
+    }
 }

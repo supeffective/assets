@@ -84,20 +84,20 @@
         "veekunDb": "togedemaru",
         "serebii": "togedemaru",
         "bulbapedia": "Togedemaru",
-        "homeSprite": "togedemaru",
-        "miniSprite": "togedemaru",
+        "homeSprite": "0777",
+        "miniSprite": "0777",
         "showdown": "togedemaru",
         "showdownDef": "Togedemaru",
         "smogon": "togedemaru"
-    },
-    "imgs": {
-        "home": "0777",
-        "menu": "0777"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "togedemaru"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0777",
+        "menu": "0777"
+    }
 }

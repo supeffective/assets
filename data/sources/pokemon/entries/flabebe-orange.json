@@ -85,18 +85,18 @@
         "veekunDb": "flabebe-orange",
         "serebii": "flabebe",
         "bulbapedia": "Flabebe",
-        "homeSprite": "flabebe-orange",
-        "miniSprite": "flabebe-orange",
+        "homeSprite": "0669-orange",
+        "miniSprite": "0669-orange",
         "showdown": "flabebe",
         "showdownDef": "Flabebe-Orange",
         "smogon": "flabebe-orange"
     },
-    "imgs": {
-        "home": "0669-orange",
-        "menu": "0669-orange"
-    },
     "baseSpecies": "flabebe",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0669-orange",
+        "menu": "0669-orange"
+    }
 }

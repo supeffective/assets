@@ -97,20 +97,20 @@
         "veekunDb": "stunky",
         "serebii": "stunky",
         "bulbapedia": "Stunky",
-        "homeSprite": "stunky",
-        "miniSprite": "stunky",
+        "homeSprite": "0434",
+        "miniSprite": "0434",
         "showdown": "stunky",
         "showdownDef": "Stunky",
         "smogon": "stunky"
-    },
-    "imgs": {
-        "home": "0434",
-        "menu": "0434"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "stunky"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0434",
+        "menu": "0434"
+    }
 }

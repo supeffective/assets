@@ -82,20 +82,20 @@
         "veekunDb": "castform-rainy",
         "serebii": "castform",
         "bulbapedia": "Castform",
-        "homeSprite": "castform-rainy",
-        "miniSprite": "castform-rainy",
+        "homeSprite": "0351-rainy",
+        "miniSprite": "0351-rainy",
         "showdown": "castformrainy",
         "showdownDef": "Castform-Rainy",
         "smogon": "castform-rainy"
-    },
-    "imgs": {
-        "home": "0351-rainy",
-        "menu": "0351-rainy"
     },
     "baseSpecies": "castform",
     "baseForms": [
         "castform"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0351-rainy",
+        "menu": "0351-rainy"
+    }
 }

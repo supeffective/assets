@@ -87,20 +87,20 @@
         "veekunDb": "phantump",
         "serebii": "phantump",
         "bulbapedia": "Phantump",
-        "homeSprite": "phantump",
-        "miniSprite": "phantump",
+        "homeSprite": "0708",
+        "miniSprite": "0708",
         "showdown": "phantump",
         "showdownDef": "Phantump",
         "smogon": "phantump"
-    },
-    "imgs": {
-        "home": "0708",
-        "menu": "0708"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "phantump"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0708",
+        "menu": "0708"
+    }
 }

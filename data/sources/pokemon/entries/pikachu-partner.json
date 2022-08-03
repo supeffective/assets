@@ -82,18 +82,18 @@
         "veekunDb": "pikachu-partner",
         "serebii": "pikachu",
         "bulbapedia": "Pikachu",
-        "homeSprite": "pikachu-partner",
-        "miniSprite": "pikachu-partner",
+        "homeSprite": "0025-partner",
+        "miniSprite": "0025-partner",
         "showdown": "pikachupartner",
         "showdownDef": "Pikachu-Partner",
         "smogon": "pikachu-partner"
     },
-    "imgs": {
-        "home": "0025-partner",
-        "menu": "0025-partner"
-    },
     "baseSpecies": "pikachu",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0025-partner",
+        "menu": "0025-partner"
+    }
 }

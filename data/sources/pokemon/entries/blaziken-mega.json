@@ -78,20 +78,20 @@
         "veekunDb": "blaziken-mega",
         "serebii": "blaziken",
         "bulbapedia": "Blaziken",
-        "homeSprite": "blaziken-mega",
-        "miniSprite": "blaziken-mega",
+        "homeSprite": "0257-mega",
+        "miniSprite": "0257-mega",
         "showdown": "blazikenmega",
         "showdownDef": "Blaziken-Mega",
         "smogon": "blaziken-mega"
-    },
-    "imgs": {
-        "home": "0257-mega",
-        "menu": "0257-mega"
     },
     "baseSpecies": "blaziken",
     "baseForms": [
         "blaziken"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0257-mega",
+        "menu": "0257-mega"
+    }
 }

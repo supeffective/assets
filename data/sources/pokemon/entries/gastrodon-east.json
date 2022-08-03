@@ -97,18 +97,18 @@
         "veekunDb": "gastrodon-east",
         "serebii": "gastrodon",
         "bulbapedia": "Gastrodon",
-        "homeSprite": "gastrodon-east",
-        "miniSprite": "gastrodon-east",
+        "homeSprite": "0423-east",
+        "miniSprite": "0423-east",
         "showdown": "gastrodon",
         "showdownDef": "Gastrodon-East",
         "smogon": "gastrodon-east"
     },
-    "imgs": {
-        "home": "0423-east",
-        "menu": "0423-east"
-    },
     "baseSpecies": "gastrodon",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0423-east",
+        "menu": "0423-east"
+    }
 }

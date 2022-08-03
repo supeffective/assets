@@ -99,20 +99,20 @@
         "veekunDb": "feraligatr",
         "serebii": "feraligatr",
         "bulbapedia": "Feraligatr",
-        "homeSprite": "feraligatr",
-        "miniSprite": "feraligatr",
+        "homeSprite": "0160",
+        "miniSprite": "0160",
         "showdown": "feraligatr",
         "showdownDef": "Feraligatr",
         "smogon": "feraligatr"
-    },
-    "imgs": {
-        "home": "0160",
-        "menu": "0160"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "feraligatr"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0160",
+        "menu": "0160"
+    }
 }

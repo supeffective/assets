@@ -107,20 +107,20 @@
         "veekunDb": "tangela",
         "serebii": "tangela",
         "bulbapedia": "Tangela",
-        "homeSprite": "tangela",
-        "miniSprite": "tangela",
+        "homeSprite": "0114",
+        "miniSprite": "0114",
         "showdown": "tangela",
         "showdownDef": "Tangela",
         "smogon": "tangela"
-    },
-    "imgs": {
-        "home": "0114",
-        "menu": "0114"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "tangela"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0114",
+        "menu": "0114"
+    }
 }

@@ -95,20 +95,20 @@
         "veekunDb": "darkrai",
         "serebii": "darkrai",
         "bulbapedia": "Darkrai",
-        "homeSprite": "darkrai",
-        "miniSprite": "darkrai",
+        "homeSprite": "0491",
+        "miniSprite": "0491",
         "showdown": "darkrai",
         "showdownDef": "Darkrai",
         "smogon": "darkrai"
-    },
-    "imgs": {
-        "home": "0491",
-        "menu": "0491"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "darkrai"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0491",
+        "menu": "0491"
+    }
 }

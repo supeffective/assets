@@ -97,20 +97,20 @@
         "veekunDb": "magnezone",
         "serebii": "magnezone",
         "bulbapedia": "Magnezone",
-        "homeSprite": "magnezone",
-        "miniSprite": "magnezone",
+        "homeSprite": "0462",
+        "miniSprite": "0462",
         "showdown": "magnezone",
         "showdownDef": "Magnezone",
         "smogon": "magnezone"
-    },
-    "imgs": {
-        "home": "0462",
-        "menu": "0462"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "magnezone"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0462",
+        "menu": "0462"
+    }
 }

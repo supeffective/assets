@@ -78,15 +78,11 @@
         "veekunDb": "minior",
         "serebii": "minior",
         "bulbapedia": "Minior Meteor Form",
-        "homeSprite": "minior",
-        "miniSprite": "minior",
+        "homeSprite": "0774",
+        "miniSprite": "0774",
         "showdown": "minior",
         "showdownDef": "Minior",
         "smogon": "minior"
-    },
-    "imgs": {
-        "home": "0774",
-        "menu": "0774"
     },
     "baseSpecies": null,
     "baseForms": [
@@ -108,5 +104,9 @@
         "minior-indigo",
         "minior-violet"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0774",
+        "menu": "0774"
+    }
 }

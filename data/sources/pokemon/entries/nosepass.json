@@ -99,20 +99,20 @@
         "veekunDb": "nosepass",
         "serebii": "nosepass",
         "bulbapedia": "Nosepass",
-        "homeSprite": "nosepass",
-        "miniSprite": "nosepass",
+        "homeSprite": "0299",
+        "miniSprite": "0299",
         "showdown": "nosepass",
         "showdownDef": "Nosepass",
         "smogon": "nosepass"
-    },
-    "imgs": {
-        "home": "0299",
-        "menu": "0299"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "nosepass"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0299",
+        "menu": "0299"
+    }
 }

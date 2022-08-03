@@ -90,20 +90,20 @@
         "veekunDb": "emolga",
         "serebii": "emolga",
         "bulbapedia": "Emolga",
-        "homeSprite": "emolga",
-        "miniSprite": "emolga",
+        "homeSprite": "0587",
+        "miniSprite": "0587",
         "showdown": "emolga",
         "showdownDef": "Emolga",
         "smogon": "emolga"
-    },
-    "imgs": {
-        "home": "0587",
-        "menu": "0587"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "emolga"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0587",
+        "menu": "0587"
+    }
 }

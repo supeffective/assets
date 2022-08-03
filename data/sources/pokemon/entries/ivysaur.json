@@ -108,20 +108,20 @@
         "veekunDb": "ivysaur",
         "serebii": "ivysaur",
         "bulbapedia": "Ivysaur",
-        "homeSprite": "ivysaur",
-        "miniSprite": "ivysaur",
+        "homeSprite": "0002",
+        "miniSprite": "0002",
         "showdown": "ivysaur",
         "showdownDef": "Ivysaur",
         "smogon": "ivysaur"
-    },
-    "imgs": {
-        "home": "0002",
-        "menu": "0002"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "ivysaur"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0002",
+        "menu": "0002"
+    }
 }

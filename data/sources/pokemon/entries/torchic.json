@@ -99,15 +99,11 @@
         "veekunDb": "torchic",
         "serebii": "torchic",
         "bulbapedia": "Torchic",
-        "homeSprite": "torchic",
-        "miniSprite": "torchic",
+        "homeSprite": "0255",
+        "miniSprite": "0255",
         "showdown": "torchic",
         "showdownDef": "Torchic",
         "smogon": "torchic"
-    },
-    "imgs": {
-        "home": "0255",
-        "menu": "0255"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -115,5 +111,9 @@
         "torchic",
         "torchic-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0255",
+        "menu": "0255"
+    }
 }

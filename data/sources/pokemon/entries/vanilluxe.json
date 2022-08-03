@@ -90,20 +90,20 @@
         "veekunDb": "vanilluxe",
         "serebii": "vanilluxe",
         "bulbapedia": "Vanilluxe",
-        "homeSprite": "vanilluxe",
-        "miniSprite": "vanilluxe",
+        "homeSprite": "0584",
+        "miniSprite": "0584",
         "showdown": "vanilluxe",
         "showdownDef": "Vanilluxe",
         "smogon": "vanilluxe"
-    },
-    "imgs": {
-        "home": "0584",
-        "menu": "0584"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "vanilluxe"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0584",
+        "menu": "0584"
+    }
 }

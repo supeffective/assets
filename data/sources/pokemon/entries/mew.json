@@ -102,20 +102,20 @@
         "veekunDb": "mew",
         "serebii": "mew",
         "bulbapedia": "Mew",
-        "homeSprite": "mew",
-        "miniSprite": "mew",
+        "homeSprite": "0151",
+        "miniSprite": "0151",
         "showdown": "mew",
         "showdownDef": "Mew",
         "smogon": "mew"
-    },
-    "imgs": {
-        "home": "0151",
-        "menu": "0151"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "mew"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0151",
+        "menu": "0151"
+    }
 }

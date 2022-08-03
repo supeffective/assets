@@ -80,15 +80,11 @@
         "veekunDb": "eiscue",
         "serebii": "eiscue",
         "bulbapedia": "Eiscue",
-        "homeSprite": "eiscue",
-        "miniSprite": "eiscue",
+        "homeSprite": "0875",
+        "miniSprite": "0875",
         "showdown": "eiscue",
         "showdownDef": "Eiscue",
         "smogon": "eiscue"
-    },
-    "imgs": {
-        "home": "0875",
-        "menu": "0875"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -96,5 +92,9 @@
         "eiscue",
         "eiscue-noice"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0875",
+        "menu": "0875"
+    }
 }

@@ -78,20 +78,20 @@
         "veekunDb": "aggron-mega",
         "serebii": "aggron",
         "bulbapedia": "Aggron",
-        "homeSprite": "aggron-mega",
-        "miniSprite": "aggron-mega",
+        "homeSprite": "0306-mega",
+        "miniSprite": "0306-mega",
         "showdown": "aggronmega",
         "showdownDef": "Aggron-Mega",
         "smogon": "aggron-mega"
-    },
-    "imgs": {
-        "home": "0306-mega",
-        "menu": "0306-mega"
     },
     "baseSpecies": "aggron",
     "baseForms": [
         "aggron"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0306-mega",
+        "menu": "0306-mega"
+    }
 }

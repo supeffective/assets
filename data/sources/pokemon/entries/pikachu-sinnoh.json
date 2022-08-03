@@ -84,18 +84,18 @@
         "veekunDb": "pikachu-sinnoh",
         "serebii": "pikachu",
         "bulbapedia": "Pikachu",
-        "homeSprite": "pikachu-sinnoh",
-        "miniSprite": "pikachu-sinnoh",
+        "homeSprite": "0025-sinnoh",
+        "miniSprite": "0025-sinnoh",
         "showdown": "pikachusinnoh",
         "showdownDef": "Pikachu-Sinnoh",
         "smogon": "pikachu-sinnoh"
     },
-    "imgs": {
-        "home": "0025-sinnoh",
-        "menu": "0025-sinnoh"
-    },
     "baseSpecies": "pikachu",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0025-sinnoh",
+        "menu": "0025-sinnoh"
+    }
 }

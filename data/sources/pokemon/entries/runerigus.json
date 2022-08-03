@@ -82,20 +82,20 @@
         "veekunDb": "runerigus",
         "serebii": "runerigus",
         "bulbapedia": "Runerigus",
-        "homeSprite": "runerigus",
-        "miniSprite": "runerigus",
+        "homeSprite": "0867",
+        "miniSprite": "0867",
         "showdown": "runerigus",
         "showdownDef": "Runerigus",
         "smogon": "runerigus"
-    },
-    "imgs": {
-        "home": "0867",
-        "menu": "0867"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "runerigus"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0867",
+        "menu": "0867"
+    }
 }

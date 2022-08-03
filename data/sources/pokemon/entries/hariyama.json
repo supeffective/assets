@@ -97,20 +97,20 @@
         "veekunDb": "hariyama",
         "serebii": "hariyama",
         "bulbapedia": "Hariyama",
-        "homeSprite": "hariyama",
-        "miniSprite": "hariyama",
+        "homeSprite": "0297",
+        "miniSprite": "0297",
         "showdown": "hariyama",
         "showdownDef": "Hariyama",
         "smogon": "hariyama"
-    },
-    "imgs": {
-        "home": "0297",
-        "menu": "0297"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "hariyama"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0297",
+        "menu": "0297"
+    }
 }

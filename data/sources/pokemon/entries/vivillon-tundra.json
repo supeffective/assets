@@ -83,18 +83,18 @@
         "veekunDb": "vivillon-tundra",
         "serebii": "vivillon",
         "bulbapedia": "Vivillon",
-        "homeSprite": "vivillon-tundra",
-        "miniSprite": "vivillon-tundra",
+        "homeSprite": "0666-tundra",
+        "miniSprite": "0666-tundra",
         "showdown": "vivillon",
         "showdownDef": "Vivillon-Tundra",
         "smogon": "vivillon-tundra"
     },
-    "imgs": {
-        "home": "0666-tundra",
-        "menu": "0666-tundra"
-    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0666-tundra",
+        "menu": "0666-tundra"
+    }
 }

@@ -94,20 +94,20 @@
         "veekunDb": "phione",
         "serebii": "phione",
         "bulbapedia": "Phione",
-        "homeSprite": "phione",
-        "miniSprite": "phione",
+        "homeSprite": "0489",
+        "miniSprite": "0489",
         "showdown": "phione",
         "showdownDef": "Phione",
         "smogon": "phione"
-    },
-    "imgs": {
-        "home": "0489",
-        "menu": "0489"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "phione"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0489",
+        "menu": "0489"
+    }
 }

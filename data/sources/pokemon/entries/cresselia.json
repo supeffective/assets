@@ -97,20 +97,20 @@
         "veekunDb": "cresselia",
         "serebii": "cresselia",
         "bulbapedia": "Cresselia",
-        "homeSprite": "cresselia",
-        "miniSprite": "cresselia",
+        "homeSprite": "0488",
+        "miniSprite": "0488",
         "showdown": "cresselia",
         "showdownDef": "Cresselia",
         "smogon": "cresselia"
-    },
-    "imgs": {
-        "home": "0488",
-        "menu": "0488"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "cresselia"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0488",
+        "menu": "0488"
+    }
 }

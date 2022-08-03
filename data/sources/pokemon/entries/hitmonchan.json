@@ -105,20 +105,20 @@
         "veekunDb": "hitmonchan",
         "serebii": "hitmonchan",
         "bulbapedia": "Hitmonchan",
-        "homeSprite": "hitmonchan",
-        "miniSprite": "hitmonchan",
+        "homeSprite": "0107",
+        "miniSprite": "0107",
         "showdown": "hitmonchan",
         "showdownDef": "Hitmonchan",
         "smogon": "hitmonchan"
-    },
-    "imgs": {
-        "home": "0107",
-        "menu": "0107"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "hitmonchan"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0107",
+        "menu": "0107"
+    }
 }

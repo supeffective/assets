@@ -105,15 +105,11 @@
         "veekunDb": "kangaskhan",
         "serebii": "kangaskhan",
         "bulbapedia": "Kangaskhan",
-        "homeSprite": "kangaskhan",
-        "miniSprite": "kangaskhan",
+        "homeSprite": "0115",
+        "miniSprite": "0115",
         "showdown": "kangaskhan",
         "showdownDef": "Kangaskhan",
         "smogon": "kangaskhan"
-    },
-    "imgs": {
-        "home": "0115",
-        "menu": "0115"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -121,5 +117,9 @@
         "kangaskhan",
         "kangaskhan-mega"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0115",
+        "menu": "0115"
+    }
 }

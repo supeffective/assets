@@ -77,20 +77,20 @@
         "veekunDb": "coalossal-gmax",
         "serebii": "coalossal",
         "bulbapedia": "Coalossal",
-        "homeSprite": "coalossal-gmax",
-        "miniSprite": "coalossal-gmax",
+        "homeSprite": "0839-gmax",
+        "miniSprite": "0839-gmax",
         "showdown": "coalossalgmax",
         "showdownDef": "Coalossal-Gmax",
         "smogon": "coalossal-gmax"
-    },
-    "imgs": {
-        "home": "0839-gmax",
-        "menu": "0839-gmax"
     },
     "baseSpecies": "coalossal",
     "baseForms": [
         "coalossal"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0839-gmax",
+        "menu": "0839-gmax"
+    }
 }

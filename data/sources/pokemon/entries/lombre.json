@@ -99,20 +99,20 @@
         "veekunDb": "lombre",
         "serebii": "lombre",
         "bulbapedia": "Lombre",
-        "homeSprite": "lombre",
-        "miniSprite": "lombre",
+        "homeSprite": "0271",
+        "miniSprite": "0271",
         "showdown": "lombre",
         "showdownDef": "Lombre",
         "smogon": "lombre"
-    },
-    "imgs": {
-        "home": "0271",
-        "menu": "0271"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "lombre"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0271",
+        "menu": "0271"
+    }
 }

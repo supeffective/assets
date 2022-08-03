@@ -92,18 +92,18 @@
         "veekunDb": "cacturne",
         "serebii": "cacturne",
         "bulbapedia": "Cacturne",
-        "homeSprite": "cacturne-f",
-        "miniSprite": "cacturne-f",
+        "homeSprite": "0332-f",
+        "miniSprite": "0332",
         "showdown": "cacturne",
         "showdownDef": "Cacturne",
         "smogon": "cacturne"
     },
-    "imgs": {
-        "home": "0332-f",
-        "menu": "0332"
-    },
     "baseSpecies": "cacturne",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0332-f",
+        "menu": "0332"
+    }
 }

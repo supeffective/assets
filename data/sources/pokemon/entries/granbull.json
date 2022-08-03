@@ -99,20 +99,20 @@
         "veekunDb": "granbull",
         "serebii": "granbull",
         "bulbapedia": "Granbull",
-        "homeSprite": "granbull",
-        "miniSprite": "granbull",
+        "homeSprite": "0210",
+        "miniSprite": "0210",
         "showdown": "granbull",
         "showdownDef": "Granbull",
         "smogon": "granbull"
-    },
-    "imgs": {
-        "home": "0210",
-        "menu": "0210"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "granbull"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0210",
+        "menu": "0210"
+    }
 }

@@ -90,20 +90,20 @@
         "veekunDb": "scolipede",
         "serebii": "scolipede",
         "bulbapedia": "Scolipede",
-        "homeSprite": "scolipede",
-        "miniSprite": "scolipede",
+        "homeSprite": "0545",
+        "miniSprite": "0545",
         "showdown": "scolipede",
         "showdownDef": "Scolipede",
         "smogon": "scolipede"
-    },
-    "imgs": {
-        "home": "0545",
-        "menu": "0545"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "scolipede"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0545",
+        "menu": "0545"
+    }
 }

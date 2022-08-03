@@ -97,20 +97,20 @@
         "veekunDb": "swellow",
         "serebii": "swellow",
         "bulbapedia": "Swellow",
-        "homeSprite": "swellow",
-        "miniSprite": "swellow",
+        "homeSprite": "0277",
+        "miniSprite": "0277",
         "showdown": "swellow",
         "showdownDef": "Swellow",
         "smogon": "swellow"
-    },
-    "imgs": {
-        "home": "0277",
-        "menu": "0277"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "swellow"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0277",
+        "menu": "0277"
+    }
 }

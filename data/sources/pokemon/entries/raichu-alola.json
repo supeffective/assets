@@ -88,18 +88,18 @@
         "veekunDb": "raichu-alola",
         "serebii": "raichu",
         "bulbapedia": "Raichu",
-        "homeSprite": "raichu-alola",
-        "miniSprite": "raichu-alola",
+        "homeSprite": "0026-alola",
+        "miniSprite": "0026-alola",
         "showdown": "raichualola",
         "showdownDef": "Raichu-Alola",
         "smogon": "raichu-alola"
     },
-    "imgs": {
-        "home": "0026-alola",
-        "menu": "0026-alola"
-    },
     "baseSpecies": "raichu",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0026-alola",
+        "menu": "0026-alola"
+    }
 }

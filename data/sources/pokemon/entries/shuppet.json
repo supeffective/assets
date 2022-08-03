@@ -97,20 +97,20 @@
         "veekunDb": "shuppet",
         "serebii": "shuppet",
         "bulbapedia": "Shuppet",
-        "homeSprite": "shuppet",
-        "miniSprite": "shuppet",
+        "homeSprite": "0353",
+        "miniSprite": "0353",
         "showdown": "shuppet",
         "showdownDef": "Shuppet",
         "smogon": "shuppet"
-    },
-    "imgs": {
-        "home": "0353",
-        "menu": "0353"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "shuppet"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0353",
+        "menu": "0353"
+    }
 }

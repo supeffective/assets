@@ -90,20 +90,20 @@
         "veekunDb": "roggenrola",
         "serebii": "roggenrola",
         "bulbapedia": "Roggenrola",
-        "homeSprite": "roggenrola",
-        "miniSprite": "roggenrola",
+        "homeSprite": "0524",
+        "miniSprite": "0524",
         "showdown": "roggenrola",
         "showdownDef": "Roggenrola",
         "smogon": "roggenrola"
-    },
-    "imgs": {
-        "home": "0524",
-        "menu": "0524"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "roggenrola"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0524",
+        "menu": "0524"
+    }
 }

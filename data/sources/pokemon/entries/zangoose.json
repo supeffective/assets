@@ -97,20 +97,20 @@
         "veekunDb": "zangoose",
         "serebii": "zangoose",
         "bulbapedia": "Zangoose",
-        "homeSprite": "zangoose",
-        "miniSprite": "zangoose",
+        "homeSprite": "0335",
+        "miniSprite": "0335",
         "showdown": "zangoose",
         "showdownDef": "Zangoose",
         "smogon": "zangoose"
-    },
-    "imgs": {
-        "home": "0335",
-        "menu": "0335"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "zangoose"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0335",
+        "menu": "0335"
+    }
 }

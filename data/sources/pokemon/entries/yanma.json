@@ -101,20 +101,20 @@
         "veekunDb": "yanma",
         "serebii": "yanma",
         "bulbapedia": "Yanma",
-        "homeSprite": "yanma",
-        "miniSprite": "yanma",
+        "homeSprite": "0193",
+        "miniSprite": "0193",
         "showdown": "yanma",
         "showdownDef": "Yanma",
         "smogon": "yanma"
-    },
-    "imgs": {
-        "home": "0193",
-        "menu": "0193"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "yanma"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0193",
+        "menu": "0193"
+    }
 }

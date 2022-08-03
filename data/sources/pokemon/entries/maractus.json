@@ -90,20 +90,20 @@
         "veekunDb": "maractus",
         "serebii": "maractus",
         "bulbapedia": "Maractus",
-        "homeSprite": "maractus",
-        "miniSprite": "maractus",
+        "homeSprite": "0556",
+        "miniSprite": "0556",
         "showdown": "maractus",
         "showdownDef": "Maractus",
         "smogon": "maractus"
-    },
-    "imgs": {
-        "home": "0556",
-        "menu": "0556"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "maractus"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0556",
+        "menu": "0556"
+    }
 }

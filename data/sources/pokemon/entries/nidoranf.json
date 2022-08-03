@@ -105,20 +105,20 @@
         "veekunDb": "nidoranf",
         "serebii": "nidoranf",
         "bulbapedia": "Nidoran♀",
-        "homeSprite": "nidoranf",
-        "miniSprite": "nidoranf",
+        "homeSprite": "0029",
+        "miniSprite": "0029",
         "showdown": "nidoranf",
         "showdownDef": "Nidoranf",
         "smogon": "nidoranf"
-    },
-    "imgs": {
-        "home": "0029",
-        "menu": "0029"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "nidoranf"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0029",
+        "menu": "0029"
+    }
 }

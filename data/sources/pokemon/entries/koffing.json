@@ -105,20 +105,20 @@
         "veekunDb": "koffing",
         "serebii": "koffing",
         "bulbapedia": "Koffing",
-        "homeSprite": "koffing",
-        "miniSprite": "koffing",
+        "homeSprite": "0109",
+        "miniSprite": "0109",
         "showdown": "koffing",
         "showdownDef": "Koffing",
         "smogon": "koffing"
-    },
-    "imgs": {
-        "home": "0109",
-        "menu": "0109"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "koffing"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0109",
+        "menu": "0109"
+    }
 }

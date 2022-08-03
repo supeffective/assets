@@ -101,15 +101,11 @@
         "veekunDb": "wooper",
         "serebii": "wooper",
         "bulbapedia": "Wooper",
-        "homeSprite": "wooper",
-        "miniSprite": "wooper",
+        "homeSprite": "0194",
+        "miniSprite": "0194",
         "showdown": "wooper",
         "showdownDef": "Wooper",
         "smogon": "wooper"
-    },
-    "imgs": {
-        "home": "0194",
-        "menu": "0194"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -118,5 +114,9 @@
         "wooper-f",
         "wooper-paldea"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0194",
+        "menu": "0194"
+    }
 }

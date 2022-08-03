@@ -97,20 +97,20 @@
         "veekunDb": "magmortar",
         "serebii": "magmortar",
         "bulbapedia": "Magmortar",
-        "homeSprite": "magmortar",
-        "miniSprite": "magmortar",
+        "homeSprite": "0467",
+        "miniSprite": "0467",
         "showdown": "magmortar",
         "showdownDef": "Magmortar",
         "smogon": "magmortar"
-    },
-    "imgs": {
-        "home": "0467",
-        "menu": "0467"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "magmortar"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0467",
+        "menu": "0467"
+    }
 }

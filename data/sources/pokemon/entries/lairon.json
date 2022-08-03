@@ -99,20 +99,20 @@
         "veekunDb": "lairon",
         "serebii": "lairon",
         "bulbapedia": "Lairon",
-        "homeSprite": "lairon",
-        "miniSprite": "lairon",
+        "homeSprite": "0305",
+        "miniSprite": "0305",
         "showdown": "lairon",
         "showdownDef": "Lairon",
         "smogon": "lairon"
-    },
-    "imgs": {
-        "home": "0305",
-        "menu": "0305"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "lairon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0305",
+        "menu": "0305"
+    }
 }

@@ -90,20 +90,20 @@
         "veekunDb": "beartic",
         "serebii": "beartic",
         "bulbapedia": "Beartic",
-        "homeSprite": "beartic",
-        "miniSprite": "beartic",
+        "homeSprite": "0614",
+        "miniSprite": "0614",
         "showdown": "beartic",
         "showdownDef": "Beartic",
         "smogon": "beartic"
-    },
-    "imgs": {
-        "home": "0614",
-        "menu": "0614"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "beartic"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0614",
+        "menu": "0614"
+    }
 }

@@ -80,20 +80,20 @@
         "veekunDb": "dottler",
         "serebii": "dottler",
         "bulbapedia": "Dottler",
-        "homeSprite": "dottler",
-        "miniSprite": "dottler",
+        "homeSprite": "0825",
+        "miniSprite": "0825",
         "showdown": "dottler",
         "showdownDef": "Dottler",
         "smogon": "dottler"
-    },
-    "imgs": {
-        "home": "0825",
-        "menu": "0825"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "dottler"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0825",
+        "menu": "0825"
+    }
 }

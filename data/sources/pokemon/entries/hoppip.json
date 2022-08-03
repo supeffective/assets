@@ -99,20 +99,20 @@
         "veekunDb": "hoppip",
         "serebii": "hoppip",
         "bulbapedia": "Hoppip",
-        "homeSprite": "hoppip",
-        "miniSprite": "hoppip",
+        "homeSprite": "0187",
+        "miniSprite": "0187",
         "showdown": "hoppip",
         "showdownDef": "Hoppip",
         "smogon": "hoppip"
-    },
-    "imgs": {
-        "home": "0187",
-        "menu": "0187"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "hoppip"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0187",
+        "menu": "0187"
+    }
 }

@@ -94,18 +94,18 @@
         "veekunDb": "dustox",
         "serebii": "dustox",
         "bulbapedia": "Dustox",
-        "homeSprite": "dustox-f",
-        "miniSprite": "dustox-f",
+        "homeSprite": "0269-f",
+        "miniSprite": "0269",
         "showdown": "dustox",
         "showdownDef": "Dustox",
         "smogon": "dustox"
     },
-    "imgs": {
-        "home": "0269-f",
-        "menu": "0269"
-    },
     "baseSpecies": "dustox",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0269-f",
+        "menu": "0269"
+    }
 }

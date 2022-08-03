@@ -85,20 +85,20 @@
         "veekunDb": "frogadier",
         "serebii": "frogadier",
         "bulbapedia": "Frogadier",
-        "homeSprite": "frogadier",
-        "miniSprite": "frogadier",
+        "homeSprite": "0657",
+        "miniSprite": "0657",
         "showdown": "frogadier",
         "showdownDef": "Frogadier",
         "smogon": "frogadier"
-    },
-    "imgs": {
-        "home": "0657",
-        "menu": "0657"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "frogadier"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0657",
+        "menu": "0657"
+    }
 }

@@ -86,20 +86,20 @@
         "veekunDb": "wimpod",
         "serebii": "wimpod",
         "bulbapedia": "Wimpod",
-        "homeSprite": "wimpod",
-        "miniSprite": "wimpod",
+        "homeSprite": "0767",
+        "miniSprite": "0767",
         "showdown": "wimpod",
         "showdownDef": "Wimpod",
         "smogon": "wimpod"
-    },
-    "imgs": {
-        "home": "0767",
-        "menu": "0767"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "wimpod"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0767",
+        "menu": "0767"
+    }
 }

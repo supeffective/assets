@@ -88,20 +88,20 @@
         "veekunDb": "dartrix",
         "serebii": "dartrix",
         "bulbapedia": "Dartrix",
-        "homeSprite": "dartrix",
-        "miniSprite": "dartrix",
+        "homeSprite": "0723",
+        "miniSprite": "0723",
         "showdown": "dartrix",
         "showdownDef": "Dartrix",
         "smogon": "dartrix"
-    },
-    "imgs": {
-        "home": "0723",
-        "menu": "0723"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "dartrix"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0723",
+        "menu": "0723"
+    }
 }

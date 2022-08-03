@@ -101,20 +101,20 @@
         "veekunDb": "hoothoot",
         "serebii": "hoothoot",
         "bulbapedia": "Hoothoot",
-        "homeSprite": "hoothoot",
-        "miniSprite": "hoothoot",
+        "homeSprite": "0163",
+        "miniSprite": "0163",
         "showdown": "hoothoot",
         "showdownDef": "Hoothoot",
         "smogon": "hoothoot"
-    },
-    "imgs": {
-        "home": "0163",
-        "menu": "0163"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "hoothoot"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0163",
+        "menu": "0163"
+    }
 }

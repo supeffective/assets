@@ -84,20 +84,20 @@
         "veekunDb": "vikavolt",
         "serebii": "vikavolt",
         "bulbapedia": "Vikavolt",
-        "homeSprite": "vikavolt",
-        "miniSprite": "vikavolt",
+        "homeSprite": "0738",
+        "miniSprite": "0738",
         "showdown": "vikavolt",
         "showdownDef": "Vikavolt",
         "smogon": "vikavolt"
-    },
-    "imgs": {
-        "home": "0738",
-        "menu": "0738"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "vikavolt"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0738",
+        "menu": "0738"
+    }
 }

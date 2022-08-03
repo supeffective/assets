@@ -101,20 +101,20 @@
         "veekunDb": "miltank",
         "serebii": "miltank",
         "bulbapedia": "Miltank",
-        "homeSprite": "miltank",
-        "miniSprite": "miltank",
+        "homeSprite": "0241",
+        "miniSprite": "0241",
         "showdown": "miltank",
         "showdownDef": "Miltank",
         "smogon": "miltank"
-    },
-    "imgs": {
-        "home": "0241",
-        "menu": "0241"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "miltank"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0241",
+        "menu": "0241"
+    }
 }

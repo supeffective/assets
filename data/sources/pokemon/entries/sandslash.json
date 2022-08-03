@@ -105,15 +105,11 @@
         "veekunDb": "sandslash",
         "serebii": "sandslash",
         "bulbapedia": "Sandslash",
-        "homeSprite": "sandslash",
-        "miniSprite": "sandslash",
+        "homeSprite": "0028",
+        "miniSprite": "0028",
         "showdown": "sandslash",
         "showdownDef": "Sandslash",
         "smogon": "sandslash"
-    },
-    "imgs": {
-        "home": "0028",
-        "menu": "0028"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -121,5 +117,9 @@
         "sandslash",
         "sandslash-alola"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0028",
+        "menu": "0028"
+    }
 }

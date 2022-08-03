@@ -80,18 +80,18 @@
         "veekunDb": "alcremie-salted-cream-ribbon",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
-        "homeSprite": "alcremie-salted-cream-ribbon",
-        "miniSprite": "alcremie-salted-cream-ribbon",
+        "homeSprite": "0869-salted-cream-ribbon",
+        "miniSprite": "0869-salted-cream-ribbon",
         "showdown": "alcremie",
         "showdownDef": "Alcremie-Salted-Cream-Ribbon",
         "smogon": "alcremie-salted-cream-ribbon"
     },
-    "imgs": {
-        "home": "0869-salted-cream-ribbon",
-        "menu": "0869-salted-cream-ribbon"
-    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0869-salted-cream-ribbon",
+        "menu": "0869-salted-cream-ribbon"
+    }
 }

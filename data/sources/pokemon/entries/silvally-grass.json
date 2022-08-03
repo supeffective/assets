@@ -83,20 +83,20 @@
         "veekunDb": "silvally-grass",
         "serebii": "silvally",
         "bulbapedia": "Silvally",
-        "homeSprite": "silvally-grass",
-        "miniSprite": "silvally-grass",
+        "homeSprite": "0773-grass",
+        "miniSprite": "0773-grass",
         "showdown": "silvallygrass",
         "showdownDef": "Silvally-Grass",
         "smogon": "silvally-grass"
-    },
-    "imgs": {
-        "home": "0773-grass",
-        "menu": "0773-grass"
     },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0773-grass",
+        "menu": "0773-grass"
+    }
 }

@@ -83,20 +83,20 @@
         "veekunDb": "gogoat",
         "serebii": "gogoat",
         "bulbapedia": "Gogoat",
-        "homeSprite": "gogoat",
-        "miniSprite": "gogoat",
+        "homeSprite": "0673",
+        "miniSprite": "0673",
         "showdown": "gogoat",
         "showdownDef": "Gogoat",
         "smogon": "gogoat"
-    },
-    "imgs": {
-        "home": "0673",
-        "menu": "0673"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "gogoat"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0673",
+        "menu": "0673"
+    }
 }

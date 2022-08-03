@@ -84,20 +84,20 @@
         "veekunDb": "drampa",
         "serebii": "drampa",
         "bulbapedia": "Drampa",
-        "homeSprite": "drampa",
-        "miniSprite": "drampa",
+        "homeSprite": "0780",
+        "miniSprite": "0780",
         "showdown": "drampa",
         "showdownDef": "Drampa",
         "smogon": "drampa"
-    },
-    "imgs": {
-        "home": "0780",
-        "menu": "0780"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "drampa"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0780",
+        "menu": "0780"
+    }
 }

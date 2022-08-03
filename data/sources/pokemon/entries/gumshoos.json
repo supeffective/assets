@@ -84,20 +84,20 @@
         "veekunDb": "gumshoos",
         "serebii": "gumshoos",
         "bulbapedia": "Gumshoos",
-        "homeSprite": "gumshoos",
-        "miniSprite": "gumshoos",
+        "homeSprite": "0735",
+        "miniSprite": "0735",
         "showdown": "gumshoos",
         "showdownDef": "Gumshoos",
         "smogon": "gumshoos"
-    },
-    "imgs": {
-        "home": "0735",
-        "menu": "0735"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "gumshoos"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0735",
+        "menu": "0735"
+    }
 }

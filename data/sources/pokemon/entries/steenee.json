@@ -84,20 +84,20 @@
         "veekunDb": "steenee",
         "serebii": "steenee",
         "bulbapedia": "Steenee",
-        "homeSprite": "steenee",
-        "miniSprite": "steenee",
+        "homeSprite": "0762",
+        "miniSprite": "0762",
         "showdown": "steenee",
         "showdownDef": "Steenee",
         "smogon": "steenee"
-    },
-    "imgs": {
-        "home": "0762",
-        "menu": "0762"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "steenee"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0762",
+        "menu": "0762"
+    }
 }

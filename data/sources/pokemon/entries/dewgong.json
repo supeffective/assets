@@ -103,20 +103,20 @@
         "veekunDb": "dewgong",
         "serebii": "dewgong",
         "bulbapedia": "Dewgong",
-        "homeSprite": "dewgong",
-        "miniSprite": "dewgong",
+        "homeSprite": "0087",
+        "miniSprite": "0087",
         "showdown": "dewgong",
         "showdownDef": "Dewgong",
         "smogon": "dewgong"
-    },
-    "imgs": {
-        "home": "0087",
-        "menu": "0087"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "dewgong"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0087",
+        "menu": "0087"
+    }
 }

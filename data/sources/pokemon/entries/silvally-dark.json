@@ -83,20 +83,20 @@
         "veekunDb": "silvally-dark",
         "serebii": "silvally",
         "bulbapedia": "Silvally",
-        "homeSprite": "silvally-dark",
-        "miniSprite": "silvally-dark",
+        "homeSprite": "0773-dark",
+        "miniSprite": "0773-dark",
         "showdown": "silvallydark",
         "showdownDef": "Silvally-Dark",
         "smogon": "silvally-dark"
-    },
-    "imgs": {
-        "home": "0773-dark",
-        "menu": "0773-dark"
     },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0773-dark",
+        "menu": "0773-dark"
+    }
 }

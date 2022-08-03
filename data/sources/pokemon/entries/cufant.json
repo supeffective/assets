@@ -80,20 +80,20 @@
         "veekunDb": "cufant",
         "serebii": "cufant",
         "bulbapedia": "Cufant",
-        "homeSprite": "cufant",
-        "miniSprite": "cufant",
+        "homeSprite": "0878",
+        "miniSprite": "0878",
         "showdown": "cufant",
         "showdownDef": "Cufant",
         "smogon": "cufant"
-    },
-    "imgs": {
-        "home": "0878",
-        "menu": "0878"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "cufant"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0878",
+        "menu": "0878"
+    }
 }

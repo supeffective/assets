@@ -105,15 +105,11 @@
         "veekunDb": "charizard",
         "serebii": "charizard",
         "bulbapedia": "Charizard",
-        "homeSprite": "charizard",
-        "miniSprite": "charizard",
+        "homeSprite": "0006",
+        "miniSprite": "0006",
         "showdown": "charizard",
         "showdownDef": "Charizard",
         "smogon": "charizard"
-    },
-    "imgs": {
-        "home": "0006",
-        "menu": "0006"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -123,5 +119,9 @@
         "charizard-mega-x",
         "charizard-mega-y"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0006",
+        "menu": "0006"
+    }
 }

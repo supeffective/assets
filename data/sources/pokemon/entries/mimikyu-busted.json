@@ -79,20 +79,20 @@
         "veekunDb": "mimikyu-busted",
         "serebii": "mimikyu",
         "bulbapedia": "Mimikyu",
-        "homeSprite": "mimikyu-busted",
-        "miniSprite": "mimikyu-busted",
+        "homeSprite": "0778-busted",
+        "miniSprite": "0778",
         "showdown": "mimikyubusted",
         "showdownDef": "Mimikyu-Busted",
         "smogon": "mimikyu-busted"
-    },
-    "imgs": {
-        "home": "0778-busted",
-        "menu": "0778"
     },
     "baseSpecies": "mimikyu",
     "baseForms": [
         "mimikyu"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0778-busted",
+        "menu": "0778"
+    }
 }

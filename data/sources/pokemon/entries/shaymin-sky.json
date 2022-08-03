@@ -93,20 +93,20 @@
         "veekunDb": "shaymin-sky",
         "serebii": "shaymin",
         "bulbapedia": "Shaymin",
-        "homeSprite": "shaymin-sky",
-        "miniSprite": "shaymin-sky",
+        "homeSprite": "0492-sky",
+        "miniSprite": "0492-sky",
         "showdown": "shayminsky",
         "showdownDef": "Shaymin-Sky",
         "smogon": "shaymin-sky"
-    },
-    "imgs": {
-        "home": "0492-sky",
-        "menu": "0492-sky"
     },
     "baseSpecies": "shaymin",
     "baseForms": [
         "shaymin"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0492-sky",
+        "menu": "0492-sky"
+    }
 }

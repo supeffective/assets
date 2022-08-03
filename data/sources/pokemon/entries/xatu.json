@@ -101,15 +101,11 @@
         "veekunDb": "xatu",
         "serebii": "xatu",
         "bulbapedia": "Xatu",
-        "homeSprite": "xatu",
-        "miniSprite": "xatu",
+        "homeSprite": "0178",
+        "miniSprite": "0178",
         "showdown": "xatu",
         "showdownDef": "Xatu",
         "smogon": "xatu"
-    },
-    "imgs": {
-        "home": "0178",
-        "menu": "0178"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -117,5 +113,9 @@
         "xatu",
         "xatu-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0178",
+        "menu": "0178"
+    }
 }

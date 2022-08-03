@@ -90,20 +90,20 @@
         "veekunDb": "fraxure",
         "serebii": "fraxure",
         "bulbapedia": "Fraxure",
-        "homeSprite": "fraxure",
-        "miniSprite": "fraxure",
+        "homeSprite": "0611",
+        "miniSprite": "0611",
         "showdown": "fraxure",
         "showdownDef": "Fraxure",
         "smogon": "fraxure"
-    },
-    "imgs": {
-        "home": "0611",
-        "menu": "0611"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "fraxure"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0611",
+        "menu": "0611"
+    }
 }

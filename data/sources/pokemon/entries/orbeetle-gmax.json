@@ -77,20 +77,20 @@
         "veekunDb": "orbeetle-gmax",
         "serebii": "orbeetle",
         "bulbapedia": "Orbeetle",
-        "homeSprite": "orbeetle-gmax",
-        "miniSprite": "orbeetle-gmax",
+        "homeSprite": "0826-gmax",
+        "miniSprite": "0826-gmax",
         "showdown": "orbeetlegmax",
         "showdownDef": "Orbeetle-Gmax",
         "smogon": "orbeetle-gmax"
-    },
-    "imgs": {
-        "home": "0826-gmax",
-        "menu": "0826-gmax"
     },
     "baseSpecies": "orbeetle",
     "baseForms": [
         "orbeetle"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0826-gmax",
+        "menu": "0826-gmax"
+    }
 }

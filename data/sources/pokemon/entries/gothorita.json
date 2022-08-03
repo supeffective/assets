@@ -90,20 +90,20 @@
         "veekunDb": "gothorita",
         "serebii": "gothorita",
         "bulbapedia": "Gothorita",
-        "homeSprite": "gothorita",
-        "miniSprite": "gothorita",
+        "homeSprite": "0575",
+        "miniSprite": "0575",
         "showdown": "gothorita",
         "showdownDef": "Gothorita",
         "smogon": "gothorita"
-    },
-    "imgs": {
-        "home": "0575",
-        "menu": "0575"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "gothorita"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0575",
+        "menu": "0575"
+    }
 }

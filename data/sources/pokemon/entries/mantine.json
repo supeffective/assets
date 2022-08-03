@@ -103,20 +103,20 @@
         "veekunDb": "mantine",
         "serebii": "mantine",
         "bulbapedia": "Mantine",
-        "homeSprite": "mantine",
-        "miniSprite": "mantine",
+        "homeSprite": "0226",
+        "miniSprite": "0226",
         "showdown": "mantine",
         "showdownDef": "Mantine",
         "smogon": "mantine"
-    },
-    "imgs": {
-        "home": "0226",
-        "menu": "0226"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "mantine"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0226",
+        "menu": "0226"
+    }
 }

@@ -89,20 +89,20 @@
         "veekunDb": "genesect-shock",
         "serebii": "genesect",
         "bulbapedia": "Genesect",
-        "homeSprite": "genesect-shock",
-        "miniSprite": "genesect-shock",
+        "homeSprite": "0649-shock",
+        "miniSprite": "0649-shock",
         "showdown": "genesectshock",
         "showdownDef": "Genesect-Shock",
         "smogon": "genesect-shock"
-    },
-    "imgs": {
-        "home": "0649-shock",
-        "menu": "0649-shock"
     },
     "baseSpecies": "genesect",
     "baseForms": [
         "genesect"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0649-shock",
+        "menu": "0649-shock"
+    }
 }

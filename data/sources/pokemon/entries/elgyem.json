@@ -90,20 +90,20 @@
         "veekunDb": "elgyem",
         "serebii": "elgyem",
         "bulbapedia": "Elgyem",
-        "homeSprite": "elgyem",
-        "miniSprite": "elgyem",
+        "homeSprite": "0605",
+        "miniSprite": "0605",
         "showdown": "elgyem",
         "showdownDef": "Elgyem",
         "smogon": "elgyem"
-    },
-    "imgs": {
-        "home": "0605",
-        "menu": "0605"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "elgyem"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0605",
+        "menu": "0605"
+    }
 }

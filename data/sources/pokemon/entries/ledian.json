@@ -99,15 +99,11 @@
         "veekunDb": "ledian",
         "serebii": "ledian",
         "bulbapedia": "Ledian",
-        "homeSprite": "ledian",
-        "miniSprite": "ledian",
+        "homeSprite": "0166",
+        "miniSprite": "0166",
         "showdown": "ledian",
         "showdownDef": "Ledian",
         "smogon": "ledian"
-    },
-    "imgs": {
-        "home": "0166",
-        "menu": "0166"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -115,5 +111,9 @@
         "ledian",
         "ledian-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0166",
+        "menu": "0166"
+    }
 }

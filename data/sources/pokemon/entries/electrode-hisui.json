@@ -82,18 +82,18 @@
         "veekunDb": null,
         "serebii": "electrode",
         "bulbapedia": "Electrode",
-        "homeSprite": "electrode-hisui",
-        "miniSprite": "electrode-hisui",
+        "homeSprite": "0101-hisui",
+        "miniSprite": "0101-hisui",
         "showdown": "electrodehisui",
         "showdownDef": "Electrode-Hisui",
         "smogon": "electrode-hisui"
     },
-    "imgs": {
-        "home": "0101-hisui",
-        "menu": "0101-hisui"
-    },
     "baseSpecies": "electrode",
     "baseForms": [],
     "forms": [],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0101-hisui",
+        "menu": "0101-hisui"
+    }
 }

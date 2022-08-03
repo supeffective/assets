@@ -99,20 +99,20 @@
         "veekunDb": "regice",
         "serebii": "regice",
         "bulbapedia": "Regice",
-        "homeSprite": "regice",
-        "miniSprite": "regice",
+        "homeSprite": "0378",
+        "miniSprite": "0378",
         "showdown": "regice",
         "showdownDef": "Regice",
         "smogon": "regice"
-    },
-    "imgs": {
-        "home": "0378",
-        "menu": "0378"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "regice"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0378",
+        "menu": "0378"
+    }
 }

@@ -99,20 +99,20 @@
         "veekunDb": "cradily",
         "serebii": "cradily",
         "bulbapedia": "Cradily",
-        "homeSprite": "cradily",
-        "miniSprite": "cradily",
+        "homeSprite": "0346",
+        "miniSprite": "0346",
         "showdown": "cradily",
         "showdownDef": "Cradily",
         "smogon": "cradily"
-    },
-    "imgs": {
-        "home": "0346",
-        "menu": "0346"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "cradily"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0346",
+        "menu": "0346"
+    }
 }

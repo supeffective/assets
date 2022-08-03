@@ -82,18 +82,18 @@
         "veekunDb": null,
         "serebii": "braviary",
         "bulbapedia": "Braviary",
-        "homeSprite": "braviary-hisui",
-        "miniSprite": "braviary-hisui",
+        "homeSprite": "0628-hisui",
+        "miniSprite": "0628-hisui",
         "showdown": "braviaryhisui",
         "showdownDef": "Braviary-Hisui",
         "smogon": "braviary-hisui"
     },
-    "imgs": {
-        "home": "0628-hisui",
-        "menu": "0628-hisui"
-    },
     "baseSpecies": "braviary",
     "baseForms": [],
     "forms": [],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0628-hisui",
+        "menu": "0628-hisui"
+    }
 }

@@ -85,20 +85,20 @@
         "veekunDb": "quilladin",
         "serebii": "quilladin",
         "bulbapedia": "Quilladin",
-        "homeSprite": "quilladin",
-        "miniSprite": "quilladin",
+        "homeSprite": "0651",
+        "miniSprite": "0651",
         "showdown": "quilladin",
         "showdownDef": "Quilladin",
         "smogon": "quilladin"
-    },
-    "imgs": {
-        "home": "0651",
-        "menu": "0651"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "quilladin"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0651",
+        "menu": "0651"
+    }
 }

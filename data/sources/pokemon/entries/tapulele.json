@@ -86,20 +86,20 @@
         "veekunDb": "tapulele",
         "serebii": "tapulele",
         "bulbapedia": "Tapu Lele",
-        "homeSprite": "tapulele",
-        "miniSprite": "tapulele",
+        "homeSprite": "0786",
+        "miniSprite": "0786",
         "showdown": "tapulele",
         "showdownDef": "Tapulele",
         "smogon": "tapulele"
-    },
-    "imgs": {
-        "home": "0786",
-        "menu": "0786"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "tapulele"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0786",
+        "menu": "0786"
+    }
 }

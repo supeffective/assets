@@ -80,15 +80,11 @@
         "veekunDb": "coalossal",
         "serebii": "coalossal",
         "bulbapedia": "Coalossal",
-        "homeSprite": "coalossal",
-        "miniSprite": "coalossal",
+        "homeSprite": "0839",
+        "miniSprite": "0839",
         "showdown": "coalossal",
         "showdownDef": "Coalossal",
         "smogon": "coalossal"
-    },
-    "imgs": {
-        "home": "0839",
-        "menu": "0839"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -96,5 +92,9 @@
         "coalossal",
         "coalossal-gmax"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0839",
+        "menu": "0839"
+    }
 }

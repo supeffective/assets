@@ -80,15 +80,11 @@
         "veekunDb": "cramorant",
         "serebii": "cramorant",
         "bulbapedia": "Cramorant",
-        "homeSprite": "cramorant",
-        "miniSprite": "cramorant",
+        "homeSprite": "0845",
+        "miniSprite": "0845",
         "showdown": "cramorant",
         "showdownDef": "Cramorant",
         "smogon": "cramorant"
-    },
-    "imgs": {
-        "home": "0845",
-        "menu": "0845"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -97,5 +93,9 @@
         "cramorant-gulping",
         "cramorant-gorging"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0845",
+        "menu": "0845"
+    }
 }

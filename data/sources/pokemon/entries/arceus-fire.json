@@ -92,20 +92,20 @@
         "veekunDb": "arceus-fire",
         "serebii": "arceus",
         "bulbapedia": "Arceus",
-        "homeSprite": "arceus-fire",
-        "miniSprite": "arceus-fire",
+        "homeSprite": "0493-fire",
+        "miniSprite": "0493-fire",
         "showdown": "arceusfire",
         "showdownDef": "Arceus-Fire",
         "smogon": "arceus-fire"
-    },
-    "imgs": {
-        "home": "0493-fire",
-        "menu": "0493-fire"
     },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0493-fire",
+        "menu": "0493-fire"
+    }
 }

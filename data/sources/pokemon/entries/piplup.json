@@ -95,20 +95,20 @@
         "veekunDb": "piplup",
         "serebii": "piplup",
         "bulbapedia": "Piplup",
-        "homeSprite": "piplup",
-        "miniSprite": "piplup",
+        "homeSprite": "0393",
+        "miniSprite": "0393",
         "showdown": "piplup",
         "showdownDef": "Piplup",
         "smogon": "piplup"
-    },
-    "imgs": {
-        "home": "0393",
-        "menu": "0393"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "piplup"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0393",
+        "menu": "0393"
+    }
 }

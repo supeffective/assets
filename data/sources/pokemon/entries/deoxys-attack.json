@@ -93,20 +93,20 @@
         "veekunDb": "deoxys-attack",
         "serebii": "deoxys",
         "bulbapedia": "Deoxys",
-        "homeSprite": "deoxys-attack",
-        "miniSprite": "deoxys-attack",
+        "homeSprite": "0386-attack",
+        "miniSprite": "0386-attack",
         "showdown": "deoxysattack",
         "showdownDef": "Deoxys-Attack",
         "smogon": "deoxys-attack"
-    },
-    "imgs": {
-        "home": "0386-attack",
-        "menu": "0386-attack"
     },
     "baseSpecies": "deoxys",
     "baseForms": [
         "deoxys"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0386-attack",
+        "menu": "0386-attack"
+    }
 }

@@ -99,20 +99,20 @@
         "veekunDb": "croconaw",
         "serebii": "croconaw",
         "bulbapedia": "Croconaw",
-        "homeSprite": "croconaw",
-        "miniSprite": "croconaw",
+        "homeSprite": "0159",
+        "miniSprite": "0159",
         "showdown": "croconaw",
         "showdownDef": "Croconaw",
         "smogon": "croconaw"
-    },
-    "imgs": {
-        "home": "0159",
-        "menu": "0159"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "croconaw"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0159",
+        "menu": "0159"
+    }
 }

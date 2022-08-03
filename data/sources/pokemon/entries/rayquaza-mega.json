@@ -78,20 +78,20 @@
         "veekunDb": "rayquaza-mega",
         "serebii": "rayquaza",
         "bulbapedia": "Rayquaza",
-        "homeSprite": "rayquaza-mega",
-        "miniSprite": "rayquaza-mega",
+        "homeSprite": "0384-mega",
+        "miniSprite": "0384-mega",
         "showdown": "rayquazamega",
         "showdownDef": "Rayquaza-Mega",
         "smogon": "rayquaza-mega"
-    },
-    "imgs": {
-        "home": "0384-mega",
-        "menu": "0384-mega"
     },
     "baseSpecies": "rayquaza",
     "baseForms": [
         "rayquaza"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0384-mega",
+        "menu": "0384-mega"
+    }
 }

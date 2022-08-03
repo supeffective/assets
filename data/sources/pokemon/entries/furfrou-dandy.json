@@ -85,20 +85,20 @@
         "veekunDb": "furfrou-dandy",
         "serebii": "furfrou",
         "bulbapedia": "Furfrou",
-        "homeSprite": "furfrou-dandy",
-        "miniSprite": "furfrou-dandy",
+        "homeSprite": "0676-dandy",
+        "miniSprite": "0676-dandy",
         "showdown": "furfrou",
         "showdownDef": "Furfrou-Dandy",
         "smogon": "furfrou-dandy"
-    },
-    "imgs": {
-        "home": "0676-dandy",
-        "menu": "0676-dandy"
     },
     "baseSpecies": "furfrou",
     "baseForms": [
         "furfrou"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0676-dandy",
+        "menu": "0676-dandy"
+    }
 }

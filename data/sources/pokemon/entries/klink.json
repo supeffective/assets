@@ -90,20 +90,20 @@
         "veekunDb": "klink",
         "serebii": "klink",
         "bulbapedia": "Klink",
-        "homeSprite": "klink",
-        "miniSprite": "klink",
+        "homeSprite": "0599",
+        "miniSprite": "0599",
         "showdown": "klink",
         "showdownDef": "Klink",
         "smogon": "klink"
-    },
-    "imgs": {
-        "home": "0599",
-        "menu": "0599"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "klink"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0599",
+        "menu": "0599"
+    }
 }

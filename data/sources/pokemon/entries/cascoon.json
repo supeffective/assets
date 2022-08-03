@@ -99,20 +99,20 @@
         "veekunDb": "cascoon",
         "serebii": "cascoon",
         "bulbapedia": "Cascoon",
-        "homeSprite": "cascoon",
-        "miniSprite": "cascoon",
+        "homeSprite": "0268",
+        "miniSprite": "0268",
         "showdown": "cascoon",
         "showdownDef": "Cascoon",
         "smogon": "cascoon"
-    },
-    "imgs": {
-        "home": "0268",
-        "menu": "0268"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "cascoon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0268",
+        "menu": "0268"
+    }
 }

@@ -83,18 +83,18 @@
         "veekunDb": "vivillon-polar",
         "serebii": "vivillon",
         "bulbapedia": "Vivillon",
-        "homeSprite": "vivillon-polar",
-        "miniSprite": "vivillon-polar",
+        "homeSprite": "0666-polar",
+        "miniSprite": "0666-polar",
         "showdown": "vivillon",
         "showdownDef": "Vivillon-Polar",
         "smogon": "vivillon-polar"
     },
-    "imgs": {
-        "home": "0666-polar",
-        "menu": "0666-polar"
-    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0666-polar",
+        "menu": "0666-polar"
+    }
 }

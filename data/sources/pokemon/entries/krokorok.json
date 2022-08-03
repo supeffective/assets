@@ -90,20 +90,20 @@
         "veekunDb": "krokorok",
         "serebii": "krokorok",
         "bulbapedia": "Krokorok",
-        "homeSprite": "krokorok",
-        "miniSprite": "krokorok",
+        "homeSprite": "0552",
+        "miniSprite": "0552",
         "showdown": "krokorok",
         "showdownDef": "Krokorok",
         "smogon": "krokorok"
-    },
-    "imgs": {
-        "home": "0552",
-        "menu": "0552"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "krokorok"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0552",
+        "menu": "0552"
+    }
 }

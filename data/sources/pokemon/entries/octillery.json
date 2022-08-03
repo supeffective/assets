@@ -103,15 +103,11 @@
         "veekunDb": "octillery",
         "serebii": "octillery",
         "bulbapedia": "Octillery",
-        "homeSprite": "octillery",
-        "miniSprite": "octillery",
+        "homeSprite": "0224",
+        "miniSprite": "0224",
         "showdown": "octillery",
         "showdownDef": "Octillery",
         "smogon": "octillery"
-    },
-    "imgs": {
-        "home": "0224",
-        "menu": "0224"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -119,5 +115,9 @@
         "octillery",
         "octillery-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0224",
+        "menu": "0224"
+    }
 }

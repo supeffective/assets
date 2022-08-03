@@ -99,20 +99,20 @@
         "veekunDb": "houndour",
         "serebii": "houndour",
         "bulbapedia": "Houndour",
-        "homeSprite": "houndour",
-        "miniSprite": "houndour",
+        "homeSprite": "0228",
+        "miniSprite": "0228",
         "showdown": "houndour",
         "showdownDef": "Houndour",
         "smogon": "houndour"
-    },
-    "imgs": {
-        "home": "0228",
-        "menu": "0228"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "houndour"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0228",
+        "menu": "0228"
+    }
 }

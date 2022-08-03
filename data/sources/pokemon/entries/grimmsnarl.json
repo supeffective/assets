@@ -80,15 +80,11 @@
         "veekunDb": "grimmsnarl",
         "serebii": "grimmsnarl",
         "bulbapedia": "Grimmsnarl",
-        "homeSprite": "grimmsnarl",
-        "miniSprite": "grimmsnarl",
+        "homeSprite": "0861",
+        "miniSprite": "0861",
         "showdown": "grimmsnarl",
         "showdownDef": "Grimmsnarl",
         "smogon": "grimmsnarl"
-    },
-    "imgs": {
-        "home": "0861",
-        "menu": "0861"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -96,5 +92,9 @@
         "grimmsnarl",
         "grimmsnarl-gmax"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0861",
+        "menu": "0861"
+    }
 }

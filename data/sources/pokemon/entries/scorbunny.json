@@ -80,20 +80,20 @@
         "veekunDb": "scorbunny",
         "serebii": "scorbunny",
         "bulbapedia": "Scorbunny",
-        "homeSprite": "scorbunny",
-        "miniSprite": "scorbunny",
+        "homeSprite": "0813",
+        "miniSprite": "0813",
         "showdown": "scorbunny",
         "showdownDef": "Scorbunny",
         "smogon": "scorbunny"
-    },
-    "imgs": {
-        "home": "0813",
-        "menu": "0813"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "scorbunny"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0813",
+        "menu": "0813"
+    }
 }

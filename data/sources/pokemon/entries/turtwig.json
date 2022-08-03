@@ -95,20 +95,20 @@
         "veekunDb": "turtwig",
         "serebii": "turtwig",
         "bulbapedia": "Turtwig",
-        "homeSprite": "turtwig",
-        "miniSprite": "turtwig",
+        "homeSprite": "0387",
+        "miniSprite": "0387",
         "showdown": "turtwig",
         "showdownDef": "Turtwig",
         "smogon": "turtwig"
-    },
-    "imgs": {
-        "home": "0387",
-        "menu": "0387"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "turtwig"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0387",
+        "menu": "0387"
+    }
 }

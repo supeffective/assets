@@ -99,15 +99,11 @@
         "veekunDb": "girafarig",
         "serebii": "girafarig",
         "bulbapedia": "Girafarig",
-        "homeSprite": "girafarig",
-        "miniSprite": "girafarig",
+        "homeSprite": "0203",
+        "miniSprite": "0203",
         "showdown": "girafarig",
         "showdownDef": "Girafarig",
         "smogon": "girafarig"
-    },
-    "imgs": {
-        "home": "0203",
-        "menu": "0203"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -115,5 +111,9 @@
         "girafarig",
         "girafarig-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0203",
+        "menu": "0203"
+    }
 }

@@ -97,20 +97,20 @@
         "veekunDb": "poochyena",
         "serebii": "poochyena",
         "bulbapedia": "Poochyena",
-        "homeSprite": "poochyena",
-        "miniSprite": "poochyena",
+        "homeSprite": "0261",
+        "miniSprite": "0261",
         "showdown": "poochyena",
         "showdownDef": "Poochyena",
         "smogon": "poochyena"
-    },
-    "imgs": {
-        "home": "0261",
-        "menu": "0261"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "poochyena"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0261",
+        "menu": "0261"
+    }
 }

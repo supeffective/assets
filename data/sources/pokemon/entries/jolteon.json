@@ -107,20 +107,20 @@
         "veekunDb": "jolteon",
         "serebii": "jolteon",
         "bulbapedia": "Jolteon",
-        "homeSprite": "jolteon",
-        "miniSprite": "jolteon",
+        "homeSprite": "0135",
+        "miniSprite": "0135",
         "showdown": "jolteon",
         "showdownDef": "Jolteon",
         "smogon": "jolteon"
-    },
-    "imgs": {
-        "home": "0135",
-        "menu": "0135"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "jolteon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0135",
+        "menu": "0135"
+    }
 }

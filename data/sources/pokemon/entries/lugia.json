@@ -101,20 +101,20 @@
         "veekunDb": "lugia",
         "serebii": "lugia",
         "bulbapedia": "Lugia",
-        "homeSprite": "lugia",
-        "miniSprite": "lugia",
+        "homeSprite": "0249",
+        "miniSprite": "0249",
         "showdown": "lugia",
         "showdownDef": "Lugia",
         "smogon": "lugia"
-    },
-    "imgs": {
-        "home": "0249",
-        "menu": "0249"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "lugia"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0249",
+        "menu": "0249"
+    }
 }

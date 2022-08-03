@@ -85,20 +85,20 @@
         "veekunDb": "doublade",
         "serebii": "doublade",
         "bulbapedia": "Doublade",
-        "homeSprite": "doublade",
-        "miniSprite": "doublade",
+        "homeSprite": "0680",
+        "miniSprite": "0680",
         "showdown": "doublade",
         "showdownDef": "Doublade",
         "smogon": "doublade"
-    },
-    "imgs": {
-        "home": "0680",
-        "menu": "0680"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "doublade"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0680",
+        "menu": "0680"
+    }
 }

@@ -97,20 +97,20 @@
         "veekunDb": "drapion",
         "serebii": "drapion",
         "bulbapedia": "Drapion",
-        "homeSprite": "drapion",
-        "miniSprite": "drapion",
+        "homeSprite": "0452",
+        "miniSprite": "0452",
         "showdown": "drapion",
         "showdownDef": "Drapion",
         "smogon": "drapion"
-    },
-    "imgs": {
-        "home": "0452",
-        "menu": "0452"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "drapion"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0452",
+        "menu": "0452"
+    }
 }

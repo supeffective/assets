@@ -80,20 +80,20 @@
         "veekunDb": "cursola",
         "serebii": "cursola",
         "bulbapedia": "Cursola",
-        "homeSprite": "cursola",
-        "miniSprite": "cursola",
+        "homeSprite": "0864",
+        "miniSprite": "0864",
         "showdown": "cursola",
         "showdownDef": "Cursola",
         "smogon": "cursola"
-    },
-    "imgs": {
-        "home": "0864",
-        "menu": "0864"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "cursola"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0864",
+        "menu": "0864"
+    }
 }

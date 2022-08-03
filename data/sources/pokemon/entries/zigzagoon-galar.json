@@ -82,18 +82,18 @@
         "veekunDb": "zigzagoon-galar",
         "serebii": "zigzagoon",
         "bulbapedia": "Zigzagoon",
-        "homeSprite": "zigzagoon-galar",
-        "miniSprite": "zigzagoon-galar",
+        "homeSprite": "0263-galar",
+        "miniSprite": "0263-galar",
         "showdown": "zigzagoongalar",
         "showdownDef": "Zigzagoon-Galar",
         "smogon": "zigzagoon-galar"
     },
-    "imgs": {
-        "home": "0263-galar",
-        "menu": "0263-galar"
-    },
     "baseSpecies": "zigzagoon",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0263-galar",
+        "menu": "0263-galar"
+    }
 }

@@ -97,18 +97,18 @@
         "veekunDb": "combee",
         "serebii": "combee",
         "bulbapedia": "Combee",
-        "homeSprite": "combee-f",
-        "miniSprite": "combee-f",
+        "homeSprite": "0415-f",
+        "miniSprite": "0415",
         "showdown": "combee",
         "showdownDef": "Combee",
         "smogon": "combee"
     },
-    "imgs": {
-        "home": "0415-f",
-        "menu": "0415"
-    },
     "baseSpecies": "combee",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0415-f",
+        "menu": "0415"
+    }
 }

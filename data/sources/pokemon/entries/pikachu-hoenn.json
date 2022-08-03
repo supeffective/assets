@@ -84,18 +84,18 @@
         "veekunDb": "pikachu-hoenn",
         "serebii": "pikachu",
         "bulbapedia": "Pikachu",
-        "homeSprite": "pikachu-hoenn",
-        "miniSprite": "pikachu-hoenn",
+        "homeSprite": "0025-hoenn",
+        "miniSprite": "0025-hoenn",
         "showdown": "pikachuhoenn",
         "showdownDef": "Pikachu-Hoenn",
         "smogon": "pikachu-hoenn"
     },
-    "imgs": {
-        "home": "0025-hoenn",
-        "menu": "0025-hoenn"
-    },
     "baseSpecies": "pikachu",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0025-hoenn",
+        "menu": "0025-hoenn"
+    }
 }

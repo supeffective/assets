@@ -101,20 +101,20 @@
         "veekunDb": "bellossom",
         "serebii": "bellossom",
         "bulbapedia": "Bellossom",
-        "homeSprite": "bellossom",
-        "miniSprite": "bellossom",
+        "homeSprite": "0182",
+        "miniSprite": "0182",
         "showdown": "bellossom",
         "showdownDef": "Bellossom",
         "smogon": "bellossom"
-    },
-    "imgs": {
-        "home": "0182",
-        "menu": "0182"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "bellossom"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0182",
+        "menu": "0182"
+    }
 }

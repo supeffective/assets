@@ -105,15 +105,11 @@
         "veekunDb": "kingler",
         "serebii": "kingler",
         "bulbapedia": "Kingler",
-        "homeSprite": "kingler",
-        "miniSprite": "kingler",
+        "homeSprite": "0099",
+        "miniSprite": "0099",
         "showdown": "kingler",
         "showdownDef": "Kingler",
         "smogon": "kingler"
-    },
-    "imgs": {
-        "home": "0099",
-        "menu": "0099"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -121,5 +117,9 @@
         "kingler",
         "kingler-gmax"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0099",
+        "menu": "0099"
+    }
 }

@@ -80,18 +80,18 @@
         "veekunDb": "alcremie-mint-cream-strawberry",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
-        "homeSprite": "alcremie-mint-cream-strawberry",
-        "miniSprite": "alcremie-mint-cream-strawberry",
+        "homeSprite": "0869-mint-cream-strawberry",
+        "miniSprite": "0869-mint-cream-strawberry",
         "showdown": "alcremie",
         "showdownDef": "Alcremie-Mint-Cream-Strawberry",
         "smogon": "alcremie-mint-cream-strawberry"
     },
-    "imgs": {
-        "home": "0869-mint-cream-strawberry",
-        "menu": "0869-mint-cream-strawberry"
-    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0869-mint-cream-strawberry",
+        "menu": "0869-mint-cream-strawberry"
+    }
 }

@@ -88,20 +88,20 @@
         "veekunDb": "alomomola",
         "serebii": "alomomola",
         "bulbapedia": "Alomomola",
-        "homeSprite": "alomomola",
-        "miniSprite": "alomomola",
+        "homeSprite": "0594",
+        "miniSprite": "0594",
         "showdown": "alomomola",
         "showdownDef": "Alomomola",
         "smogon": "alomomola"
-    },
-    "imgs": {
-        "home": "0594",
-        "menu": "0594"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "alomomola"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0594",
+        "menu": "0594"
+    }
 }

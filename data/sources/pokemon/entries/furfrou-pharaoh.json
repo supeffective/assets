@@ -85,20 +85,20 @@
         "veekunDb": "furfrou-pharaoh",
         "serebii": "furfrou",
         "bulbapedia": "Furfrou",
-        "homeSprite": "furfrou-pharaoh",
-        "miniSprite": "furfrou-pharaoh",
+        "homeSprite": "0676-pharaoh",
+        "miniSprite": "0676-pharaoh",
         "showdown": "furfrou",
         "showdownDef": "Furfrou-Pharaoh",
         "smogon": "furfrou-pharaoh"
-    },
-    "imgs": {
-        "home": "0676-pharaoh",
-        "menu": "0676-pharaoh"
     },
     "baseSpecies": "furfrou",
     "baseForms": [
         "furfrou"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0676-pharaoh",
+        "menu": "0676-pharaoh"
+    }
 }

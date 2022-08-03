@@ -77,20 +77,20 @@
         "veekunDb": "flapple-gmax",
         "serebii": "flapple",
         "bulbapedia": "Flapple",
-        "homeSprite": "flapple-gmax",
-        "miniSprite": "flapple-gmax",
+        "homeSprite": "0841-gmax",
+        "miniSprite": "0841-gmax",
         "showdown": "flapplegmax",
         "showdownDef": "Flapple-Gmax",
         "smogon": "flapple-gmax"
-    },
-    "imgs": {
-        "home": "0841-gmax",
-        "menu": "0841-gmax"
     },
     "baseSpecies": "flapple",
     "baseForms": [
         "flapple"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0841-gmax",
+        "menu": "0841-gmax"
+    }
 }

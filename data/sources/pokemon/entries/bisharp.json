@@ -90,20 +90,20 @@
         "veekunDb": "bisharp",
         "serebii": "bisharp",
         "bulbapedia": "Bisharp",
-        "homeSprite": "bisharp",
-        "miniSprite": "bisharp",
+        "homeSprite": "0625",
+        "miniSprite": "0625",
         "showdown": "bisharp",
         "showdownDef": "Bisharp",
         "smogon": "bisharp"
-    },
-    "imgs": {
-        "home": "0625",
-        "menu": "0625"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "bisharp"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0625",
+        "menu": "0625"
+    }
 }

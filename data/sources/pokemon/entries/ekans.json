@@ -103,20 +103,20 @@
         "veekunDb": "ekans",
         "serebii": "ekans",
         "bulbapedia": "Ekans",
-        "homeSprite": "ekans",
-        "miniSprite": "ekans",
+        "homeSprite": "0023",
+        "miniSprite": "0023",
         "showdown": "ekans",
         "showdownDef": "Ekans",
         "smogon": "ekans"
-    },
-    "imgs": {
-        "home": "0023",
-        "menu": "0023"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "ekans"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0023",
+        "menu": "0023"
+    }
 }

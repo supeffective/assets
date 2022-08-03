@@ -90,20 +90,20 @@
         "veekunDb": "durant",
         "serebii": "durant",
         "bulbapedia": "Durant",
-        "homeSprite": "durant",
-        "miniSprite": "durant",
+        "homeSprite": "0632",
+        "miniSprite": "0632",
         "showdown": "durant",
         "showdownDef": "Durant",
         "smogon": "durant"
-    },
-    "imgs": {
-        "home": "0632",
-        "menu": "0632"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "durant"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0632",
+        "menu": "0632"
+    }
 }

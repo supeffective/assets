@@ -105,20 +105,20 @@
         "veekunDb": "nidorino",
         "serebii": "nidorino",
         "bulbapedia": "Nidorino",
-        "homeSprite": "nidorino",
-        "miniSprite": "nidorino",
+        "homeSprite": "0033",
+        "miniSprite": "0033",
         "showdown": "nidorino",
         "showdownDef": "Nidorino",
         "smogon": "nidorino"
-    },
-    "imgs": {
-        "home": "0033",
-        "menu": "0033"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "nidorino"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0033",
+        "menu": "0033"
+    }
 }

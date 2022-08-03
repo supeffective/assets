@@ -94,18 +94,18 @@
         "veekunDb": "milotic",
         "serebii": "milotic",
         "bulbapedia": "Milotic",
-        "homeSprite": "milotic-f",
-        "miniSprite": "milotic-f",
+        "homeSprite": "0350-f",
+        "miniSprite": "0350",
         "showdown": "milotic",
         "showdownDef": "Milotic",
         "smogon": "milotic"
     },
-    "imgs": {
-        "home": "0350-f",
-        "menu": "0350"
-    },
     "baseSpecies": "milotic",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0350-f",
+        "menu": "0350"
+    }
 }

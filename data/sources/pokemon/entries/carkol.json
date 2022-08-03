@@ -80,20 +80,20 @@
         "veekunDb": "carkol",
         "serebii": "carkol",
         "bulbapedia": "Carkol",
-        "homeSprite": "carkol",
-        "miniSprite": "carkol",
+        "homeSprite": "0838",
+        "miniSprite": "0838",
         "showdown": "carkol",
         "showdownDef": "Carkol",
         "smogon": "carkol"
-    },
-    "imgs": {
-        "home": "0838",
-        "menu": "0838"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "carkol"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0838",
+        "menu": "0838"
+    }
 }

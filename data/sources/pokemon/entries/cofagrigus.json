@@ -90,20 +90,20 @@
         "veekunDb": "cofagrigus",
         "serebii": "cofagrigus",
         "bulbapedia": "Cofagrigus",
-        "homeSprite": "cofagrigus",
-        "miniSprite": "cofagrigus",
+        "homeSprite": "0563",
+        "miniSprite": "0563",
         "showdown": "cofagrigus",
         "showdownDef": "Cofagrigus",
         "smogon": "cofagrigus"
-    },
-    "imgs": {
-        "home": "0563",
-        "menu": "0563"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "cofagrigus"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0563",
+        "menu": "0563"
+    }
 }

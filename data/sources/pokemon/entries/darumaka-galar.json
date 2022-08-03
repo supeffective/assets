@@ -82,18 +82,18 @@
         "veekunDb": "darumaka-galar",
         "serebii": "darumaka",
         "bulbapedia": "Darumaka",
-        "homeSprite": "darumaka-galar",
-        "miniSprite": "darumaka-galar",
+        "homeSprite": "0554-galar",
+        "miniSprite": "0554-galar",
         "showdown": "darumakagalar",
         "showdownDef": "Darumaka-Galar",
         "smogon": "darumaka-galar"
     },
-    "imgs": {
-        "home": "0554-galar",
-        "menu": "0554-galar"
-    },
     "baseSpecies": "darumaka",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0554-galar",
+        "menu": "0554-galar"
+    }
 }

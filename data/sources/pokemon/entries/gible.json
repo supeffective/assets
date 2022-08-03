@@ -97,15 +97,11 @@
         "veekunDb": "gible",
         "serebii": "gible",
         "bulbapedia": "Gible",
-        "homeSprite": "gible",
-        "miniSprite": "gible",
+        "homeSprite": "0443",
+        "miniSprite": "0443",
         "showdown": "gible",
         "showdownDef": "Gible",
         "smogon": "gible"
-    },
-    "imgs": {
-        "home": "0443",
-        "menu": "0443"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -113,5 +109,9 @@
         "gible",
         "gible-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0443",
+        "menu": "0443"
+    }
 }

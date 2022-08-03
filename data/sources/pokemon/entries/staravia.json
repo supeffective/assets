@@ -95,15 +95,11 @@
         "veekunDb": "staravia",
         "serebii": "staravia",
         "bulbapedia": "Staravia",
-        "homeSprite": "staravia",
-        "miniSprite": "staravia",
+        "homeSprite": "0397",
+        "miniSprite": "0397",
         "showdown": "staravia",
         "showdownDef": "Staravia",
         "smogon": "staravia"
-    },
-    "imgs": {
-        "home": "0397",
-        "menu": "0397"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -111,5 +107,9 @@
         "staravia",
         "staravia-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0397",
+        "menu": "0397"
+    }
 }

@@ -87,20 +87,20 @@
         "veekunDb": "aromatisse",
         "serebii": "aromatisse",
         "bulbapedia": "Aromatisse",
-        "homeSprite": "aromatisse",
-        "miniSprite": "aromatisse",
+        "homeSprite": "0683",
+        "miniSprite": "0683",
         "showdown": "aromatisse",
         "showdownDef": "Aromatisse",
         "smogon": "aromatisse"
-    },
-    "imgs": {
-        "home": "0683",
-        "menu": "0683"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "aromatisse"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0683",
+        "menu": "0683"
+    }
 }

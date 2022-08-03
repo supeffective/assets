@@ -97,15 +97,11 @@
         "veekunDb": "cherrim",
         "serebii": "cherrim",
         "bulbapedia": "Cherrim",
-        "homeSprite": "cherrim",
-        "miniSprite": "cherrim",
+        "homeSprite": "0421",
+        "miniSprite": "0421",
         "showdown": "cherrim",
         "showdownDef": "Cherrim",
         "smogon": "cherrim"
-    },
-    "imgs": {
-        "home": "0421",
-        "menu": "0421"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -113,5 +109,9 @@
         "cherrim",
         "cherrim-sunshine"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0421",
+        "menu": "0421"
+    }
 }

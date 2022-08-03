@@ -83,20 +83,20 @@
         "veekunDb": "silvally-dragon",
         "serebii": "silvally",
         "bulbapedia": "Silvally",
-        "homeSprite": "silvally-dragon",
-        "miniSprite": "silvally-dragon",
+        "homeSprite": "0773-dragon",
+        "miniSprite": "0773-dragon",
         "showdown": "silvallydragon",
         "showdownDef": "Silvally-Dragon",
         "smogon": "silvally-dragon"
-    },
-    "imgs": {
-        "home": "0773-dragon",
-        "menu": "0773-dragon"
     },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0773-dragon",
+        "menu": "0773-dragon"
+    }
 }

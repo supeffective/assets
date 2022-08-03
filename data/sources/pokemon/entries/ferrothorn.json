@@ -90,20 +90,20 @@
         "veekunDb": "ferrothorn",
         "serebii": "ferrothorn",
         "bulbapedia": "Ferrothorn",
-        "homeSprite": "ferrothorn",
-        "miniSprite": "ferrothorn",
+        "homeSprite": "0598",
+        "miniSprite": "0598",
         "showdown": "ferrothorn",
         "showdownDef": "Ferrothorn",
         "smogon": "ferrothorn"
-    },
-    "imgs": {
-        "home": "0598",
-        "menu": "0598"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "ferrothorn"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0598",
+        "menu": "0598"
+    }
 }

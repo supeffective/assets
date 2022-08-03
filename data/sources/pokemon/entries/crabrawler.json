@@ -82,20 +82,20 @@
         "veekunDb": "crabrawler",
         "serebii": "crabrawler",
         "bulbapedia": "Crabrawler",
-        "homeSprite": "crabrawler",
-        "miniSprite": "crabrawler",
+        "homeSprite": "0739",
+        "miniSprite": "0739",
         "showdown": "crabrawler",
         "showdownDef": "Crabrawler",
         "smogon": "crabrawler"
-    },
-    "imgs": {
-        "home": "0739",
-        "menu": "0739"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "crabrawler"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0739",
+        "menu": "0739"
+    }
 }

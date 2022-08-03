@@ -80,18 +80,18 @@
         "veekunDb": null,
         "serebii": "avalugg",
         "bulbapedia": "Avalugg",
-        "homeSprite": "avalugg-hisui",
-        "miniSprite": "avalugg-hisui",
+        "homeSprite": "0713-hisui",
+        "miniSprite": "0713-hisui",
         "showdown": "avalugghisui",
         "showdownDef": "Avalugg-Hisui",
         "smogon": "avalugg-hisui"
     },
-    "imgs": {
-        "home": "0713-hisui",
-        "menu": "0713-hisui"
-    },
     "baseSpecies": "avalugg",
     "baseForms": [],
     "forms": [],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0713-hisui",
+        "menu": "0713-hisui"
+    }
 }

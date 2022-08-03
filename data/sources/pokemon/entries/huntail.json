@@ -97,20 +97,20 @@
         "veekunDb": "huntail",
         "serebii": "huntail",
         "bulbapedia": "Huntail",
-        "homeSprite": "huntail",
-        "miniSprite": "huntail",
+        "homeSprite": "0367",
+        "miniSprite": "0367",
         "showdown": "huntail",
         "showdownDef": "Huntail",
         "smogon": "huntail"
-    },
-    "imgs": {
-        "home": "0367",
-        "menu": "0367"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "huntail"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0367",
+        "menu": "0367"
+    }
 }

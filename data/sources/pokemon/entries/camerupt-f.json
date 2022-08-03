@@ -92,18 +92,18 @@
         "veekunDb": "camerupt",
         "serebii": "camerupt",
         "bulbapedia": "Camerupt",
-        "homeSprite": "camerupt-f",
-        "miniSprite": "camerupt-f",
+        "homeSprite": "0323-f",
+        "miniSprite": "0323",
         "showdown": "camerupt",
         "showdownDef": "Camerupt",
         "smogon": "camerupt"
     },
-    "imgs": {
-        "home": "0323-f",
-        "menu": "0323"
-    },
     "baseSpecies": "camerupt",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0323-f",
+        "menu": "0323"
+    }
 }

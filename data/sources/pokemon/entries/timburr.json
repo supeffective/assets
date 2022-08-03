@@ -90,20 +90,20 @@
         "veekunDb": "timburr",
         "serebii": "timburr",
         "bulbapedia": "Timburr",
-        "homeSprite": "timburr",
-        "miniSprite": "timburr",
+        "homeSprite": "0532",
+        "miniSprite": "0532",
         "showdown": "timburr",
         "showdownDef": "Timburr",
         "smogon": "timburr"
-    },
-    "imgs": {
-        "home": "0532",
-        "menu": "0532"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "timburr"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0532",
+        "menu": "0532"
+    }
 }

@@ -89,20 +89,20 @@
         "veekunDb": "genesect-douse",
         "serebii": "genesect",
         "bulbapedia": "Genesect",
-        "homeSprite": "genesect-douse",
-        "miniSprite": "genesect-douse",
+        "homeSprite": "0649-douse",
+        "miniSprite": "0649-douse",
         "showdown": "genesectdouse",
         "showdownDef": "Genesect-Douse",
         "smogon": "genesect-douse"
-    },
-    "imgs": {
-        "home": "0649-douse",
-        "menu": "0649-douse"
     },
     "baseSpecies": "genesect",
     "baseForms": [
         "genesect"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0649-douse",
+        "menu": "0649-douse"
+    }
 }

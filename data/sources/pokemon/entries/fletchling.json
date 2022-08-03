@@ -87,20 +87,20 @@
         "veekunDb": "fletchling",
         "serebii": "fletchling",
         "bulbapedia": "Fletchling",
-        "homeSprite": "fletchling",
-        "miniSprite": "fletchling",
+        "homeSprite": "0661",
+        "miniSprite": "0661",
         "showdown": "fletchling",
         "showdownDef": "Fletchling",
         "smogon": "fletchling"
-    },
-    "imgs": {
-        "home": "0661",
-        "menu": "0661"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "fletchling"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0661",
+        "menu": "0661"
+    }
 }

@@ -105,20 +105,20 @@
         "veekunDb": "wartortle",
         "serebii": "wartortle",
         "bulbapedia": "Wartortle",
-        "homeSprite": "wartortle",
-        "miniSprite": "wartortle",
+        "homeSprite": "0008",
+        "miniSprite": "0008",
         "showdown": "wartortle",
         "showdownDef": "Wartortle",
         "smogon": "wartortle"
-    },
-    "imgs": {
-        "home": "0008",
-        "menu": "0008"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "wartortle"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0008",
+        "menu": "0008"
+    }
 }

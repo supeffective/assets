@@ -103,20 +103,20 @@
         "veekunDb": "espeon",
         "serebii": "espeon",
         "bulbapedia": "Espeon",
-        "homeSprite": "espeon",
-        "miniSprite": "espeon",
+        "homeSprite": "0196",
+        "miniSprite": "0196",
         "showdown": "espeon",
         "showdownDef": "Espeon",
         "smogon": "espeon"
-    },
-    "imgs": {
-        "home": "0196",
-        "menu": "0196"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "espeon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0196",
+        "menu": "0196"
+    }
 }

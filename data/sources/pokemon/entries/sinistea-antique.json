@@ -80,18 +80,18 @@
         "veekunDb": "sinistea-antique",
         "serebii": "sinistea",
         "bulbapedia": "Sinistea",
-        "homeSprite": "sinistea-antique",
-        "miniSprite": "sinistea-antique",
+        "homeSprite": "0854",
+        "miniSprite": "0854",
         "showdown": "sinisteaantique",
         "showdownDef": "Sinistea-Antique",
         "smogon": "sinistea-antique"
     },
-    "imgs": {
-        "home": "0854",
-        "menu": "0854"
-    },
     "baseSpecies": "sinistea",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0854",
+        "menu": "0854"
+    }
 }

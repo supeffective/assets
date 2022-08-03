@@ -101,20 +101,20 @@
         "veekunDb": "sealeo",
         "serebii": "sealeo",
         "bulbapedia": "Sealeo",
-        "homeSprite": "sealeo",
-        "miniSprite": "sealeo",
+        "homeSprite": "0364",
+        "miniSprite": "0364",
         "showdown": "sealeo",
         "showdownDef": "Sealeo",
         "smogon": "sealeo"
-    },
-    "imgs": {
-        "home": "0364",
-        "menu": "0364"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "sealeo"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0364",
+        "menu": "0364"
+    }
 }

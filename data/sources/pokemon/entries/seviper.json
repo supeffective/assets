@@ -97,20 +97,20 @@
         "veekunDb": "seviper",
         "serebii": "seviper",
         "bulbapedia": "Seviper",
-        "homeSprite": "seviper",
-        "miniSprite": "seviper",
+        "homeSprite": "0336",
+        "miniSprite": "0336",
         "showdown": "seviper",
         "showdownDef": "Seviper",
         "smogon": "seviper"
-    },
-    "imgs": {
-        "home": "0336",
-        "menu": "0336"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "seviper"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0336",
+        "menu": "0336"
+    }
 }

@@ -84,20 +84,20 @@
         "veekunDb": "solgaleo",
         "serebii": "solgaleo",
         "bulbapedia": "Solgaleo",
-        "homeSprite": "solgaleo",
-        "miniSprite": "solgaleo",
+        "homeSprite": "0791",
+        "miniSprite": "0791",
         "showdown": "solgaleo",
         "showdownDef": "Solgaleo",
         "smogon": "solgaleo"
-    },
-    "imgs": {
-        "home": "0791",
-        "menu": "0791"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "solgaleo"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0791",
+        "menu": "0791"
+    }
 }

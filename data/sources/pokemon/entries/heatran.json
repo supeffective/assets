@@ -97,20 +97,20 @@
         "veekunDb": "heatran",
         "serebii": "heatran",
         "bulbapedia": "Heatran",
-        "homeSprite": "heatran",
-        "miniSprite": "heatran",
+        "homeSprite": "0485",
+        "miniSprite": "0485",
         "showdown": "heatran",
         "showdownDef": "Heatran",
         "smogon": "heatran"
-    },
-    "imgs": {
-        "home": "0485",
-        "menu": "0485"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "heatran"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0485",
+        "menu": "0485"
+    }
 }

@@ -95,20 +95,20 @@
         "veekunDb": "cranidos",
         "serebii": "cranidos",
         "bulbapedia": "Cranidos",
-        "homeSprite": "cranidos",
-        "miniSprite": "cranidos",
+        "homeSprite": "0408",
+        "miniSprite": "0408",
         "showdown": "cranidos",
         "showdownDef": "Cranidos",
         "smogon": "cranidos"
-    },
-    "imgs": {
-        "home": "0408",
-        "menu": "0408"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "cranidos"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0408",
+        "menu": "0408"
+    }
 }

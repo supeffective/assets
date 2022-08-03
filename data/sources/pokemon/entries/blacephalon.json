@@ -82,20 +82,20 @@
         "veekunDb": "blacephalon",
         "serebii": "blacephalon",
         "bulbapedia": "Blacephalon",
-        "homeSprite": "blacephalon",
-        "miniSprite": "blacephalon",
+        "homeSprite": "0806",
+        "miniSprite": "0806",
         "showdown": "blacephalon",
         "showdownDef": "Blacephalon",
         "smogon": "blacephalon"
-    },
-    "imgs": {
-        "home": "0806",
-        "menu": "0806"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "blacephalon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0806",
+        "menu": "0806"
+    }
 }

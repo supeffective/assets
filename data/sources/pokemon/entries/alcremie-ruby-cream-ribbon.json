@@ -80,18 +80,18 @@
         "veekunDb": "alcremie-ruby-cream-ribbon",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
-        "homeSprite": "alcremie-ruby-cream-ribbon",
-        "miniSprite": "alcremie-ruby-cream-ribbon",
+        "homeSprite": "0869-ruby-cream-ribbon",
+        "miniSprite": "0869-ruby-cream-ribbon",
         "showdown": "alcremie",
         "showdownDef": "Alcremie-Ruby-Cream-Ribbon",
         "smogon": "alcremie-ruby-cream-ribbon"
     },
-    "imgs": {
-        "home": "0869-ruby-cream-ribbon",
-        "menu": "0869-ruby-cream-ribbon"
-    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0869-ruby-cream-ribbon",
+        "menu": "0869-ruby-cream-ribbon"
+    }
 }

@@ -101,20 +101,20 @@
         "veekunDb": "quilava",
         "serebii": "quilava",
         "bulbapedia": "Quilava",
-        "homeSprite": "quilava",
-        "miniSprite": "quilava",
+        "homeSprite": "0156",
+        "miniSprite": "0156",
         "showdown": "quilava",
         "showdownDef": "Quilava",
         "smogon": "quilava"
-    },
-    "imgs": {
-        "home": "0156",
-        "menu": "0156"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "quilava"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0156",
+        "menu": "0156"
+    }
 }

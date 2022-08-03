@@ -83,20 +83,20 @@
         "veekunDb": "silvally-water",
         "serebii": "silvally",
         "bulbapedia": "Silvally",
-        "homeSprite": "silvally-water",
-        "miniSprite": "silvally-water",
+        "homeSprite": "0773-water",
+        "miniSprite": "0773-water",
         "showdown": "silvallywater",
         "showdownDef": "Silvally-Water",
         "smogon": "silvally-water"
-    },
-    "imgs": {
-        "home": "0773-water",
-        "menu": "0773-water"
     },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0773-water",
+        "menu": "0773-water"
+    }
 }

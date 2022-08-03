@@ -78,20 +78,20 @@
         "veekunDb": "sableye-mega",
         "serebii": "sableye",
         "bulbapedia": "Sableye",
-        "homeSprite": "sableye-mega",
-        "miniSprite": "sableye-mega",
+        "homeSprite": "0302-mega",
+        "miniSprite": "0302-mega",
         "showdown": "sableyemega",
         "showdownDef": "Sableye-Mega",
         "smogon": "sableye-mega"
-    },
-    "imgs": {
-        "home": "0302-mega",
-        "menu": "0302-mega"
     },
     "baseSpecies": "sableye",
     "baseForms": [
         "sableye"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0302-mega",
+        "menu": "0302-mega"
+    }
 }

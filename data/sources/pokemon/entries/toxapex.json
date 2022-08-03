@@ -84,20 +84,20 @@
         "veekunDb": "toxapex",
         "serebii": "toxapex",
         "bulbapedia": "Toxapex",
-        "homeSprite": "toxapex",
-        "miniSprite": "toxapex",
+        "homeSprite": "0748",
+        "miniSprite": "0748",
         "showdown": "toxapex",
         "showdownDef": "Toxapex",
         "smogon": "toxapex"
-    },
-    "imgs": {
-        "home": "0748",
-        "menu": "0748"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "toxapex"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0748",
+        "menu": "0748"
+    }
 }

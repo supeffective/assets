@@ -97,20 +97,20 @@
         "veekunDb": "froslass",
         "serebii": "froslass",
         "bulbapedia": "Froslass",
-        "homeSprite": "froslass",
-        "miniSprite": "froslass",
+        "homeSprite": "0478",
+        "miniSprite": "0478",
         "showdown": "froslass",
         "showdownDef": "Froslass",
         "smogon": "froslass"
-    },
-    "imgs": {
-        "home": "0478",
-        "menu": "0478"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "froslass"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0478",
+        "menu": "0478"
+    }
 }

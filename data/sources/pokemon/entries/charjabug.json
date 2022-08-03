@@ -84,20 +84,20 @@
         "veekunDb": "charjabug",
         "serebii": "charjabug",
         "bulbapedia": "Charjabug",
-        "homeSprite": "charjabug",
-        "miniSprite": "charjabug",
+        "homeSprite": "0737",
+        "miniSprite": "0737",
         "showdown": "charjabug",
         "showdownDef": "Charjabug",
         "smogon": "charjabug"
-    },
-    "imgs": {
-        "home": "0737",
-        "menu": "0737"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "charjabug"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0737",
+        "menu": "0737"
+    }
 }

@@ -95,20 +95,20 @@
         "veekunDb": "burmy-sandy",
         "serebii": "burmy",
         "bulbapedia": "Burmy",
-        "homeSprite": "burmy-sandy",
-        "miniSprite": "burmy-sandy",
+        "homeSprite": "0412-sandy",
+        "miniSprite": "0412-sandy",
         "showdown": "burmy",
         "showdownDef": "Burmy-Sandy",
         "smogon": "burmy-sandy"
-    },
-    "imgs": {
-        "home": "0412-sandy",
-        "menu": "0412-sandy"
     },
     "baseSpecies": "burmy",
     "baseForms": [
         "burmy"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0412-sandy",
+        "menu": "0412-sandy"
+    }
 }

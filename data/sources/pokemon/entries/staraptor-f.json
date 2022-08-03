@@ -95,18 +95,18 @@
         "veekunDb": "staraptor",
         "serebii": "staraptor",
         "bulbapedia": "Staraptor",
-        "homeSprite": "staraptor-f",
-        "miniSprite": "staraptor-f",
+        "homeSprite": "0398-f",
+        "miniSprite": "0398",
         "showdown": "staraptor",
         "showdownDef": "Staraptor",
         "smogon": "staraptor"
     },
-    "imgs": {
-        "home": "0398-f",
-        "menu": "0398"
-    },
     "baseSpecies": "staraptor",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0398-f",
+        "menu": "0398"
+    }
 }

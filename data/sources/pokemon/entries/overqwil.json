@@ -82,20 +82,20 @@
         "veekunDb": "overqwil",
         "serebii": "overqwil",
         "bulbapedia": "Overqwil",
-        "homeSprite": "overqwil",
-        "miniSprite": "overqwil",
+        "homeSprite": "0904",
+        "miniSprite": "0904",
         "showdown": "overqwil",
         "showdownDef": "Overqwil",
         "smogon": "overqwil"
-    },
-    "imgs": {
-        "home": "0904",
-        "menu": "0904"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "overqwil"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0904",
+        "menu": "0904"
+    }
 }

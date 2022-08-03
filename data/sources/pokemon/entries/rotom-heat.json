@@ -95,20 +95,20 @@
         "veekunDb": "rotom-heat",
         "serebii": "rotom",
         "bulbapedia": "Rotom",
-        "homeSprite": "rotom-heat",
-        "miniSprite": "rotom-heat",
+        "homeSprite": "0479-heat",
+        "miniSprite": "0479-heat",
         "showdown": "rotomheat",
         "showdownDef": "Rotom-Heat",
         "smogon": "rotom-heat"
-    },
-    "imgs": {
-        "home": "0479-heat",
-        "menu": "0479-heat"
     },
     "baseSpecies": "rotom",
     "baseForms": [
         "rotom"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0479-heat",
+        "menu": "0479-heat"
+    }
 }

@@ -88,18 +88,18 @@
         "veekunDb": "persian-alola",
         "serebii": "persian",
         "bulbapedia": "Persian",
-        "homeSprite": "persian-alola",
-        "miniSprite": "persian-alola",
+        "homeSprite": "0053-alola",
+        "miniSprite": "0053-alola",
         "showdown": "persianalola",
         "showdownDef": "Persian-Alola",
         "smogon": "persian-alola"
     },
-    "imgs": {
-        "home": "0053-alola",
-        "menu": "0053-alola"
-    },
     "baseSpecies": "persian",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0053-alola",
+        "menu": "0053-alola"
+    }
 }

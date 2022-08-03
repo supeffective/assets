@@ -85,20 +85,20 @@
         "veekunDb": "fennekin",
         "serebii": "fennekin",
         "bulbapedia": "Fennekin",
-        "homeSprite": "fennekin",
-        "miniSprite": "fennekin",
+        "homeSprite": "0653",
+        "miniSprite": "0653",
         "showdown": "fennekin",
         "showdownDef": "Fennekin",
         "smogon": "fennekin"
-    },
-    "imgs": {
-        "home": "0653",
-        "menu": "0653"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "fennekin"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0653",
+        "menu": "0653"
+    }
 }

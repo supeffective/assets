@@ -80,18 +80,18 @@
         "veekunDb": null,
         "serebii": "samurott",
         "bulbapedia": "Samurott",
-        "homeSprite": "samurott-hisui",
-        "miniSprite": "samurott-hisui",
+        "homeSprite": "0503-hisui",
+        "miniSprite": "0503-hisui",
         "showdown": "samurotthisui",
         "showdownDef": "Samurott-Hisui",
         "smogon": "samurott-hisui"
     },
-    "imgs": {
-        "home": "0503-hisui",
-        "menu": "0503-hisui"
-    },
     "baseSpecies": "samurott",
     "baseForms": [],
     "forms": [],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0503-hisui",
+        "menu": "0503-hisui"
+    }
 }

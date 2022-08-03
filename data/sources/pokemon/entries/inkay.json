@@ -87,20 +87,20 @@
         "veekunDb": "inkay",
         "serebii": "inkay",
         "bulbapedia": "Inkay",
-        "homeSprite": "inkay",
-        "miniSprite": "inkay",
+        "homeSprite": "0686",
+        "miniSprite": "0686",
         "showdown": "inkay",
         "showdownDef": "Inkay",
         "smogon": "inkay"
-    },
-    "imgs": {
-        "home": "0686",
-        "menu": "0686"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "inkay"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0686",
+        "menu": "0686"
+    }
 }

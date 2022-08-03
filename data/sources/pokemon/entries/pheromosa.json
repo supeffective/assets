@@ -86,20 +86,20 @@
         "veekunDb": "pheromosa",
         "serebii": "pheromosa",
         "bulbapedia": "Pheromosa",
-        "homeSprite": "pheromosa",
-        "miniSprite": "pheromosa",
+        "homeSprite": "0795",
+        "miniSprite": "0795",
         "showdown": "pheromosa",
         "showdownDef": "Pheromosa",
         "smogon": "pheromosa"
-    },
-    "imgs": {
-        "home": "0795",
-        "menu": "0795"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "pheromosa"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0795",
+        "menu": "0795"
+    }
 }

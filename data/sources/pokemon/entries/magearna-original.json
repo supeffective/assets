@@ -82,18 +82,18 @@
         "veekunDb": "magearna-original",
         "serebii": "magearna",
         "bulbapedia": "Magearna",
-        "homeSprite": "magearna-original",
-        "miniSprite": "magearna-original",
+        "homeSprite": "0801-original",
+        "miniSprite": "0801-original",
         "showdown": "magearnaoriginal",
         "showdownDef": "Magearna-Original",
         "smogon": "magearna-original"
     },
-    "imgs": {
-        "home": "0801-original",
-        "menu": "0801-original"
-    },
     "baseSpecies": "magearna",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0801-original",
+        "menu": "0801-original"
+    }
 }

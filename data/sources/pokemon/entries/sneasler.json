@@ -82,20 +82,20 @@
         "veekunDb": "sneasler",
         "serebii": "sneasler",
         "bulbapedia": "Sneasler",
-        "homeSprite": "sneasler",
-        "miniSprite": "sneasler",
+        "homeSprite": "0903",
+        "miniSprite": "0903",
         "showdown": "sneasler",
         "showdownDef": "Sneasler",
         "smogon": "sneasler"
-    },
-    "imgs": {
-        "home": "0903",
-        "menu": "0903"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "sneasler"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0903",
+        "menu": "0903"
+    }
 }

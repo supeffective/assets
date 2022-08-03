@@ -95,20 +95,20 @@
         "veekunDb": "gliscor",
         "serebii": "gliscor",
         "bulbapedia": "Gliscor",
-        "homeSprite": "gliscor",
-        "miniSprite": "gliscor",
+        "homeSprite": "0472",
+        "miniSprite": "0472",
         "showdown": "gliscor",
         "showdownDef": "Gliscor",
         "smogon": "gliscor"
-    },
-    "imgs": {
-        "home": "0472",
-        "menu": "0472"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "gliscor"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0472",
+        "menu": "0472"
+    }
 }

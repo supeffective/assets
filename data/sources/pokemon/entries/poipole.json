@@ -82,20 +82,20 @@
         "veekunDb": "poipole",
         "serebii": "poipole",
         "bulbapedia": "Poipole",
-        "homeSprite": "poipole",
-        "miniSprite": "poipole",
+        "homeSprite": "0803",
+        "miniSprite": "0803",
         "showdown": "poipole",
         "showdownDef": "Poipole",
         "smogon": "poipole"
-    },
-    "imgs": {
-        "home": "0803",
-        "menu": "0803"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "poipole"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0803",
+        "menu": "0803"
+    }
 }

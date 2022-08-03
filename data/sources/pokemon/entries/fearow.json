@@ -103,20 +103,20 @@
         "veekunDb": "fearow",
         "serebii": "fearow",
         "bulbapedia": "Fearow",
-        "homeSprite": "fearow",
-        "miniSprite": "fearow",
+        "homeSprite": "0022",
+        "miniSprite": "0022",
         "showdown": "fearow",
         "showdownDef": "Fearow",
         "smogon": "fearow"
-    },
-    "imgs": {
-        "home": "0022",
-        "menu": "0022"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "fearow"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0022",
+        "menu": "0022"
+    }
 }

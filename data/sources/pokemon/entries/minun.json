@@ -97,20 +97,20 @@
         "veekunDb": "minun",
         "serebii": "minun",
         "bulbapedia": "Minun",
-        "homeSprite": "minun",
-        "miniSprite": "minun",
+        "homeSprite": "0312",
+        "miniSprite": "0312",
         "showdown": "minun",
         "showdownDef": "Minun",
         "smogon": "minun"
-    },
-    "imgs": {
-        "home": "0312",
-        "menu": "0312"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "minun"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0312",
+        "menu": "0312"
+    }
 }

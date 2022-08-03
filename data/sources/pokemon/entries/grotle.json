@@ -95,20 +95,20 @@
         "veekunDb": "grotle",
         "serebii": "grotle",
         "bulbapedia": "Grotle",
-        "homeSprite": "grotle",
-        "miniSprite": "grotle",
+        "homeSprite": "0388",
+        "miniSprite": "0388",
         "showdown": "grotle",
         "showdownDef": "Grotle",
         "smogon": "grotle"
-    },
-    "imgs": {
-        "home": "0388",
-        "menu": "0388"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "grotle"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0388",
+        "menu": "0388"
+    }
 }

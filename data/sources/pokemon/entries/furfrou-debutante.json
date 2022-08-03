@@ -85,20 +85,20 @@
         "veekunDb": "furfrou-debutante",
         "serebii": "furfrou",
         "bulbapedia": "Furfrou",
-        "homeSprite": "furfrou-debutante",
-        "miniSprite": "furfrou-debutante",
+        "homeSprite": "0676-debutante",
+        "miniSprite": "0676-debutante",
         "showdown": "furfrou",
         "showdownDef": "Furfrou-Debutante",
         "smogon": "furfrou-debutante"
-    },
-    "imgs": {
-        "home": "0676-debutante",
-        "menu": "0676-debutante"
     },
     "baseSpecies": "furfrou",
     "baseForms": [
         "furfrou"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0676-debutante",
+        "menu": "0676-debutante"
+    }
 }

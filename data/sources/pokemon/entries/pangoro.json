@@ -87,20 +87,20 @@
         "veekunDb": "pangoro",
         "serebii": "pangoro",
         "bulbapedia": "Pangoro",
-        "homeSprite": "pangoro",
-        "miniSprite": "pangoro",
+        "homeSprite": "0675",
+        "miniSprite": "0675",
         "showdown": "pangoro",
         "showdownDef": "Pangoro",
         "smogon": "pangoro"
-    },
-    "imgs": {
-        "home": "0675",
-        "menu": "0675"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "pangoro"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0675",
+        "menu": "0675"
+    }
 }

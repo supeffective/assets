@@ -87,20 +87,20 @@
         "veekunDb": "yveltal",
         "serebii": "yveltal",
         "bulbapedia": "Yveltal",
-        "homeSprite": "yveltal",
-        "miniSprite": "yveltal",
+        "homeSprite": "0717",
+        "miniSprite": "0717",
         "showdown": "yveltal",
         "showdownDef": "Yveltal",
         "smogon": "yveltal"
-    },
-    "imgs": {
-        "home": "0717",
-        "menu": "0717"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "yveltal"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0717",
+        "menu": "0717"
+    }
 }

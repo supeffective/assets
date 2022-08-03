@@ -99,20 +99,20 @@
         "veekunDb": "solrock",
         "serebii": "solrock",
         "bulbapedia": "Solrock",
-        "homeSprite": "solrock",
-        "miniSprite": "solrock",
+        "homeSprite": "0338",
+        "miniSprite": "0338",
         "showdown": "solrock",
         "showdownDef": "Solrock",
         "smogon": "solrock"
-    },
-    "imgs": {
-        "home": "0338",
-        "menu": "0338"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "solrock"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0338",
+        "menu": "0338"
+    }
 }

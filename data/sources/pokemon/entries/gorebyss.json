@@ -97,20 +97,20 @@
         "veekunDb": "gorebyss",
         "serebii": "gorebyss",
         "bulbapedia": "Gorebyss",
-        "homeSprite": "gorebyss",
-        "miniSprite": "gorebyss",
+        "homeSprite": "0368",
+        "miniSprite": "0368",
         "showdown": "gorebyss",
         "showdownDef": "Gorebyss",
         "smogon": "gorebyss"
-    },
-    "imgs": {
-        "home": "0368",
-        "menu": "0368"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "gorebyss"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0368",
+        "menu": "0368"
+    }
 }

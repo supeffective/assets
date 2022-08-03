@@ -105,15 +105,11 @@
         "veekunDb": "moltres",
         "serebii": "moltres",
         "bulbapedia": "Moltres",
-        "homeSprite": "moltres",
-        "miniSprite": "moltres",
+        "homeSprite": "0146",
+        "miniSprite": "0146",
         "showdown": "moltres",
         "showdownDef": "Moltres",
         "smogon": "moltres"
-    },
-    "imgs": {
-        "home": "0146",
-        "menu": "0146"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -121,5 +117,9 @@
         "moltres",
         "moltres-galar"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0146",
+        "menu": "0146"
+    }
 }

@@ -105,20 +105,20 @@
         "veekunDb": "starmie",
         "serebii": "starmie",
         "bulbapedia": "Starmie",
-        "homeSprite": "starmie",
-        "miniSprite": "starmie",
+        "homeSprite": "0121",
+        "miniSprite": "0121",
         "showdown": "starmie",
         "showdownDef": "Starmie",
         "smogon": "starmie"
-    },
-    "imgs": {
-        "home": "0121",
-        "menu": "0121"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "starmie"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0121",
+        "menu": "0121"
+    }
 }

@@ -80,15 +80,11 @@
         "veekunDb": "morpeko",
         "serebii": "morpeko",
         "bulbapedia": "Morpeko",
-        "homeSprite": "morpeko",
-        "miniSprite": "morpeko",
+        "homeSprite": "0877",
+        "miniSprite": "0877",
         "showdown": "morpeko",
         "showdownDef": "Morpeko",
         "smogon": "morpeko"
-    },
-    "imgs": {
-        "home": "0877",
-        "menu": "0877"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -96,5 +92,9 @@
         "morpeko",
         "morpeko-hangry"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0877",
+        "menu": "0877"
+    }
 }

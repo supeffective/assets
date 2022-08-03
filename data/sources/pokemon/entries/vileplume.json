@@ -105,15 +105,11 @@
         "veekunDb": "vileplume",
         "serebii": "vileplume",
         "bulbapedia": "Vileplume",
-        "homeSprite": "vileplume",
-        "miniSprite": "vileplume",
+        "homeSprite": "0045",
+        "miniSprite": "0045",
         "showdown": "vileplume",
         "showdownDef": "Vileplume",
         "smogon": "vileplume"
-    },
-    "imgs": {
-        "home": "0045",
-        "menu": "0045"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -121,5 +117,9 @@
         "vileplume",
         "vileplume-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0045",
+        "menu": "0045"
+    }
 }

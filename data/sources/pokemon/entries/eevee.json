@@ -107,15 +107,11 @@
         "veekunDb": "eevee",
         "serebii": "eevee",
         "bulbapedia": "Eevee",
-        "homeSprite": "eevee",
-        "miniSprite": "eevee",
+        "homeSprite": "0133",
+        "miniSprite": "0133",
         "showdown": "eevee",
         "showdownDef": "Eevee",
         "smogon": "eevee"
-    },
-    "imgs": {
-        "home": "0133",
-        "menu": "0133"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -124,5 +120,9 @@
         "eevee-f",
         "eevee-gmax"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0133",
+        "menu": "0133"
+    }
 }

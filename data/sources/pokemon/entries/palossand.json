@@ -84,20 +84,20 @@
         "veekunDb": "palossand",
         "serebii": "palossand",
         "bulbapedia": "Palossand",
-        "homeSprite": "palossand",
-        "miniSprite": "palossand",
+        "homeSprite": "0770",
+        "miniSprite": "0770",
         "showdown": "palossand",
         "showdownDef": "Palossand",
         "smogon": "palossand"
-    },
-    "imgs": {
-        "home": "0770",
-        "menu": "0770"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "palossand"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0770",
+        "menu": "0770"
+    }
 }

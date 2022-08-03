@@ -79,20 +79,20 @@
         "veekunDb": "xerneas-active",
         "serebii": "xerneas",
         "bulbapedia": "Xerneas",
-        "homeSprite": "xerneas-active",
-        "miniSprite": "xerneas-active",
+        "homeSprite": "0716-active",
+        "miniSprite": "0716-active",
         "showdown": "xerneas",
         "showdownDef": "Xerneas-Active",
         "smogon": "xerneas-active"
-    },
-    "imgs": {
-        "home": "0716-active",
-        "menu": "0716-active"
     },
     "baseSpecies": "xerneas",
     "baseForms": [
         "xerneas"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0716-active",
+        "menu": "0716-active"
+    }
 }

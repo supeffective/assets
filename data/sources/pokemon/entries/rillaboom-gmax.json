@@ -77,20 +77,20 @@
         "veekunDb": "rillaboom-gmax",
         "serebii": "rillaboom",
         "bulbapedia": "Rillaboom",
-        "homeSprite": "rillaboom-gmax",
-        "miniSprite": "rillaboom-gmax",
+        "homeSprite": "0812-gmax",
+        "miniSprite": "0812-gmax",
         "showdown": "rillaboomgmax",
         "showdownDef": "Rillaboom-Gmax",
         "smogon": "rillaboom-gmax"
-    },
-    "imgs": {
-        "home": "0812-gmax",
-        "menu": "0812-gmax"
     },
     "baseSpecies": "rillaboom",
     "baseForms": [
         "rillaboom"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0812-gmax",
+        "menu": "0812-gmax"
+    }
 }

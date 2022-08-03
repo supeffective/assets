@@ -82,18 +82,18 @@
         "veekunDb": "weezing-galar",
         "serebii": "weezing",
         "bulbapedia": "Weezing",
-        "homeSprite": "weezing-galar",
-        "miniSprite": "weezing-galar",
+        "homeSprite": "0110-galar",
+        "miniSprite": "0110-galar",
         "showdown": "weezinggalar",
         "showdownDef": "Weezing-Galar",
         "smogon": "weezing-galar"
     },
-    "imgs": {
-        "home": "0110-galar",
-        "menu": "0110-galar"
-    },
     "baseSpecies": "weezing",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0110-galar",
+        "menu": "0110-galar"
+    }
 }

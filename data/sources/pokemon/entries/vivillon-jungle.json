@@ -83,18 +83,18 @@
         "veekunDb": "vivillon-jungle",
         "serebii": "vivillon",
         "bulbapedia": "Vivillon",
-        "homeSprite": "vivillon-jungle",
-        "miniSprite": "vivillon-jungle",
+        "homeSprite": "0666-jungle",
+        "miniSprite": "0666-jungle",
         "showdown": "vivillon",
         "showdownDef": "Vivillon-Jungle",
         "smogon": "vivillon-jungle"
     },
-    "imgs": {
-        "home": "0666-jungle",
-        "menu": "0666-jungle"
-    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0666-jungle",
+        "menu": "0666-jungle"
+    }
 }

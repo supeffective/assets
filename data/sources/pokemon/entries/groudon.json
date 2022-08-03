@@ -99,15 +99,11 @@
         "veekunDb": "groudon",
         "serebii": "groudon",
         "bulbapedia": "Groudon",
-        "homeSprite": "groudon",
-        "miniSprite": "groudon",
+        "homeSprite": "0383",
+        "miniSprite": "0383",
         "showdown": "groudon",
         "showdownDef": "Groudon",
         "smogon": "groudon"
-    },
-    "imgs": {
-        "home": "0383",
-        "menu": "0383"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -115,5 +111,9 @@
         "groudon",
         "groudon-primal"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0383",
+        "menu": "0383"
+    }
 }

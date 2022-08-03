@@ -87,20 +87,20 @@
         "veekunDb": "noibat",
         "serebii": "noibat",
         "bulbapedia": "Noibat",
-        "homeSprite": "noibat",
-        "miniSprite": "noibat",
+        "homeSprite": "0714",
+        "miniSprite": "0714",
         "showdown": "noibat",
         "showdownDef": "Noibat",
         "smogon": "noibat"
-    },
-    "imgs": {
-        "home": "0714",
-        "menu": "0714"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "noibat"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0714",
+        "menu": "0714"
+    }
 }

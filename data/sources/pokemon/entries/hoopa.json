@@ -86,15 +86,11 @@
         "veekunDb": "hoopa",
         "serebii": "hoopa",
         "bulbapedia": "Hoopa",
-        "homeSprite": "hoopa",
-        "miniSprite": "hoopa",
+        "homeSprite": "0720",
+        "miniSprite": "0720",
         "showdown": "hoopa",
         "showdownDef": "Hoopa",
         "smogon": "hoopa"
-    },
-    "imgs": {
-        "home": "0720",
-        "menu": "0720"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -102,5 +98,9 @@
         "hoopa",
         "hoopa-unbound"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0720",
+        "menu": "0720"
+    }
 }

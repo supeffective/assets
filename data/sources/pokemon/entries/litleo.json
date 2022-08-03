@@ -85,20 +85,20 @@
         "veekunDb": "litleo",
         "serebii": "litleo",
         "bulbapedia": "Litleo",
-        "homeSprite": "litleo",
-        "miniSprite": "litleo",
+        "homeSprite": "0667",
+        "miniSprite": "0667",
         "showdown": "litleo",
         "showdownDef": "Litleo",
         "smogon": "litleo"
-    },
-    "imgs": {
-        "home": "0667",
-        "menu": "0667"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "litleo"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0667",
+        "menu": "0667"
+    }
 }

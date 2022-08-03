@@ -82,18 +82,18 @@
         "veekunDb": "zapdos-galar",
         "serebii": "zapdos",
         "bulbapedia": "Zapdos",
-        "homeSprite": "zapdos-galar",
-        "miniSprite": "zapdos-galar",
+        "homeSprite": "0145-galar",
+        "miniSprite": "0145-galar",
         "showdown": "zapdosgalar",
         "showdownDef": "Zapdos-Galar",
         "smogon": "zapdos-galar"
     },
-    "imgs": {
-        "home": "0145-galar",
-        "menu": "0145-galar"
-    },
     "baseSpecies": "zapdos",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0145-galar",
+        "menu": "0145-galar"
+    }
 }

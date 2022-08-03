@@ -95,20 +95,20 @@
         "veekunDb": "kecleon",
         "serebii": "kecleon",
         "bulbapedia": "Kecleon",
-        "homeSprite": "kecleon",
-        "miniSprite": "kecleon",
+        "homeSprite": "0352",
+        "miniSprite": "0352",
         "showdown": "kecleon",
         "showdownDef": "Kecleon",
         "smogon": "kecleon"
-    },
-    "imgs": {
-        "home": "0352",
-        "menu": "0352"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "kecleon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0352",
+        "menu": "0352"
+    }
 }

@@ -77,20 +77,20 @@
         "veekunDb": "zamazenta-crowned",
         "serebii": "zamazenta",
         "bulbapedia": "Zamazenta",
-        "homeSprite": "zamazenta-crowned",
-        "miniSprite": "zamazenta-crowned",
+        "homeSprite": "0889-crowned",
+        "miniSprite": "0889-crowned",
         "showdown": "zamazentacrowned",
         "showdownDef": "Zamazenta-Crowned",
         "smogon": "zamazenta-crowned"
-    },
-    "imgs": {
-        "home": "0889-crowned",
-        "menu": "0889-crowned"
     },
     "baseSpecies": "zamazenta",
     "baseForms": [
         "zamazenta"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0889-crowned",
+        "menu": "0889-crowned"
+    }
 }

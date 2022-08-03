@@ -97,15 +97,11 @@
         "veekunDb": "tangrowth",
         "serebii": "tangrowth",
         "bulbapedia": "Tangrowth",
-        "homeSprite": "tangrowth",
-        "miniSprite": "tangrowth",
+        "homeSprite": "0465",
+        "miniSprite": "0465",
         "showdown": "tangrowth",
         "showdownDef": "Tangrowth",
         "smogon": "tangrowth"
-    },
-    "imgs": {
-        "home": "0465",
-        "menu": "0465"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -113,5 +109,9 @@
         "tangrowth",
         "tangrowth-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0465",
+        "menu": "0465"
+    }
 }

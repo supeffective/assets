@@ -80,20 +80,20 @@
         "veekunDb": "applin",
         "serebii": "applin",
         "bulbapedia": "Applin",
-        "homeSprite": "applin",
-        "miniSprite": "applin",
+        "homeSprite": "0840",
+        "miniSprite": "0840",
         "showdown": "applin",
         "showdownDef": "Applin",
         "smogon": "applin"
-    },
-    "imgs": {
-        "home": "0840",
-        "menu": "0840"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "applin"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0840",
+        "menu": "0840"
+    }
 }

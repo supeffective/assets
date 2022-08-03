@@ -82,20 +82,20 @@
         "veekunDb": "skwovet",
         "serebii": "skwovet",
         "bulbapedia": "Skwovet",
-        "homeSprite": "skwovet",
-        "miniSprite": "skwovet",
+        "homeSprite": "0819",
+        "miniSprite": "0819",
         "showdown": "skwovet",
         "showdownDef": "Skwovet",
         "smogon": "skwovet"
-    },
-    "imgs": {
-        "home": "0819",
-        "menu": "0819"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "skwovet"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0819",
+        "menu": "0819"
+    }
 }

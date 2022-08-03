@@ -107,15 +107,11 @@
         "veekunDb": "gengar",
         "serebii": "gengar",
         "bulbapedia": "Gengar",
-        "homeSprite": "gengar",
-        "miniSprite": "gengar",
+        "homeSprite": "0094",
+        "miniSprite": "0094",
         "showdown": "gengar",
         "showdownDef": "Gengar",
         "smogon": "gengar"
-    },
-    "imgs": {
-        "home": "0094",
-        "menu": "0094"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -124,5 +120,9 @@
         "gengar-gmax",
         "gengar-mega"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0094",
+        "menu": "0094"
+    }
 }

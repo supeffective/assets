@@ -99,20 +99,20 @@
         "veekunDb": "flygon",
         "serebii": "flygon",
         "bulbapedia": "Flygon",
-        "homeSprite": "flygon",
-        "miniSprite": "flygon",
+        "homeSprite": "0330",
+        "miniSprite": "0330",
         "showdown": "flygon",
         "showdownDef": "Flygon",
         "smogon": "flygon"
-    },
-    "imgs": {
-        "home": "0330",
-        "menu": "0330"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "flygon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0330",
+        "menu": "0330"
+    }
 }

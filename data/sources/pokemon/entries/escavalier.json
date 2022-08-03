@@ -90,20 +90,20 @@
         "veekunDb": "escavalier",
         "serebii": "escavalier",
         "bulbapedia": "Escavalier",
-        "homeSprite": "escavalier",
-        "miniSprite": "escavalier",
+        "homeSprite": "0589",
+        "miniSprite": "0589",
         "showdown": "escavalier",
         "showdownDef": "Escavalier",
         "smogon": "escavalier"
-    },
-    "imgs": {
-        "home": "0589",
-        "menu": "0589"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "escavalier"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0589",
+        "menu": "0589"
+    }
 }

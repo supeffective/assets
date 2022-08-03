@@ -78,20 +78,20 @@
         "veekunDb": "audino-mega",
         "serebii": "audino",
         "bulbapedia": "Audino",
-        "homeSprite": "audino-mega",
-        "miniSprite": "audino-mega",
+        "homeSprite": "0531-mega",
+        "miniSprite": "0531-mega",
         "showdown": "audinomega",
         "showdownDef": "Audino-Mega",
         "smogon": "audino-mega"
-    },
-    "imgs": {
-        "home": "0531-mega",
-        "menu": "0531-mega"
     },
     "baseSpecies": "audino",
     "baseForms": [
         "audino"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0531-mega",
+        "menu": "0531-mega"
+    }
 }

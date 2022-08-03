@@ -84,20 +84,20 @@
         "veekunDb": "typenull",
         "serebii": "typenull",
         "bulbapedia": "Type: Null",
-        "homeSprite": "typenull",
-        "miniSprite": "typenull",
+        "homeSprite": "0772",
+        "miniSprite": "0772",
         "showdown": "typenull",
         "showdownDef": "Typenull",
         "smogon": "typenull"
-    },
-    "imgs": {
-        "home": "0772",
-        "menu": "0772"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "typenull"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0772",
+        "menu": "0772"
+    }
 }

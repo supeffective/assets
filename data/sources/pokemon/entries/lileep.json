@@ -99,20 +99,20 @@
         "veekunDb": "lileep",
         "serebii": "lileep",
         "bulbapedia": "Lileep",
-        "homeSprite": "lileep",
-        "miniSprite": "lileep",
+        "homeSprite": "0345",
+        "miniSprite": "0345",
         "showdown": "lileep",
         "showdownDef": "Lileep",
         "smogon": "lileep"
-    },
-    "imgs": {
-        "home": "0345",
-        "menu": "0345"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "lileep"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0345",
+        "menu": "0345"
+    }
 }

@@ -103,15 +103,11 @@
         "veekunDb": "steelix",
         "serebii": "steelix",
         "bulbapedia": "Steelix",
-        "homeSprite": "steelix",
-        "miniSprite": "steelix",
+        "homeSprite": "0208",
+        "miniSprite": "0208",
         "showdown": "steelix",
         "showdownDef": "Steelix",
         "smogon": "steelix"
-    },
-    "imgs": {
-        "home": "0208",
-        "menu": "0208"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -120,5 +116,9 @@
         "steelix-f",
         "steelix-mega"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0208",
+        "menu": "0208"
+    }
 }

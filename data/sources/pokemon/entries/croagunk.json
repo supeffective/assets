@@ -97,15 +97,11 @@
         "veekunDb": "croagunk",
         "serebii": "croagunk",
         "bulbapedia": "Croagunk",
-        "homeSprite": "croagunk",
-        "miniSprite": "croagunk",
+        "homeSprite": "0453",
+        "miniSprite": "0453",
         "showdown": "croagunk",
         "showdownDef": "Croagunk",
         "smogon": "croagunk"
-    },
-    "imgs": {
-        "home": "0453",
-        "menu": "0453"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -113,5 +109,9 @@
         "croagunk",
         "croagunk-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0453",
+        "menu": "0453"
+    }
 }

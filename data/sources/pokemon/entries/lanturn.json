@@ -101,20 +101,20 @@
         "veekunDb": "lanturn",
         "serebii": "lanturn",
         "bulbapedia": "Lanturn",
-        "homeSprite": "lanturn",
-        "miniSprite": "lanturn",
+        "homeSprite": "0171",
+        "miniSprite": "0171",
         "showdown": "lanturn",
         "showdownDef": "Lanturn",
         "smogon": "lanturn"
-    },
-    "imgs": {
-        "home": "0171",
-        "menu": "0171"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "lanturn"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0171",
+        "menu": "0171"
+    }
 }

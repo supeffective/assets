@@ -101,15 +101,11 @@
         "veekunDb": "gligar",
         "serebii": "gligar",
         "bulbapedia": "Gligar",
-        "homeSprite": "gligar",
-        "miniSprite": "gligar",
+        "homeSprite": "0207",
+        "miniSprite": "0207",
         "showdown": "gligar",
         "showdownDef": "Gligar",
         "smogon": "gligar"
-    },
-    "imgs": {
-        "home": "0207",
-        "menu": "0207"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -117,5 +113,9 @@
         "gligar",
         "gligar-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0207",
+        "menu": "0207"
+    }
 }

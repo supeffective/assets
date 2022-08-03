@@ -94,20 +94,20 @@
         "veekunDb": "manaphy",
         "serebii": "manaphy",
         "bulbapedia": "Manaphy",
-        "homeSprite": "manaphy",
-        "miniSprite": "manaphy",
+        "homeSprite": "0490",
+        "miniSprite": "0490",
         "showdown": "manaphy",
         "showdownDef": "Manaphy",
         "smogon": "manaphy"
-    },
-    "imgs": {
-        "home": "0490",
-        "menu": "0490"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "manaphy"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0490",
+        "menu": "0490"
+    }
 }

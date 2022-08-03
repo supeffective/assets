@@ -105,20 +105,20 @@
         "veekunDb": "tauros",
         "serebii": "tauros",
         "bulbapedia": "Tauros",
-        "homeSprite": "tauros",
-        "miniSprite": "tauros",
+        "homeSprite": "0128",
+        "miniSprite": "0128",
         "showdown": "tauros",
         "showdownDef": "Tauros",
         "smogon": "tauros"
-    },
-    "imgs": {
-        "home": "0128",
-        "menu": "0128"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "tauros"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0128",
+        "menu": "0128"
+    }
 }

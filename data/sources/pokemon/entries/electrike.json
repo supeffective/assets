@@ -99,20 +99,20 @@
         "veekunDb": "electrike",
         "serebii": "electrike",
         "bulbapedia": "Electrike",
-        "homeSprite": "electrike",
-        "miniSprite": "electrike",
+        "homeSprite": "0309",
+        "miniSprite": "0309",
         "showdown": "electrike",
         "showdownDef": "Electrike",
         "smogon": "electrike"
-    },
-    "imgs": {
-        "home": "0309",
-        "menu": "0309"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "electrike"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0309",
+        "menu": "0309"
+    }
 }

@@ -84,20 +84,20 @@
         "veekunDb": "sandygast",
         "serebii": "sandygast",
         "bulbapedia": "Sandygast",
-        "homeSprite": "sandygast",
-        "miniSprite": "sandygast",
+        "homeSprite": "0769",
+        "miniSprite": "0769",
         "showdown": "sandygast",
         "showdownDef": "Sandygast",
         "smogon": "sandygast"
-    },
-    "imgs": {
-        "home": "0769",
-        "menu": "0769"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "sandygast"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0769",
+        "menu": "0769"
+    }
 }

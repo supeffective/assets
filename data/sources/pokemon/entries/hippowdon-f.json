@@ -97,18 +97,18 @@
         "veekunDb": "hippowdon",
         "serebii": "hippowdon",
         "bulbapedia": "Hippowdon",
-        "homeSprite": "hippowdon-f",
-        "miniSprite": "hippowdon-f",
+        "homeSprite": "0450-f",
+        "miniSprite": "0450-f",
         "showdown": "hippowdon",
         "showdownDef": "Hippowdon",
         "smogon": "hippowdon"
     },
-    "imgs": {
-        "home": "0450-f",
-        "menu": "0450-f"
-    },
     "baseSpecies": "hippowdon",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0450-f",
+        "menu": "0450-f"
+    }
 }

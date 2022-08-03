@@ -99,20 +99,20 @@
         "veekunDb": "mudkip",
         "serebii": "mudkip",
         "bulbapedia": "Mudkip",
-        "homeSprite": "mudkip",
-        "miniSprite": "mudkip",
+        "homeSprite": "0258",
+        "miniSprite": "0258",
         "showdown": "mudkip",
         "showdownDef": "Mudkip",
         "smogon": "mudkip"
-    },
-    "imgs": {
-        "home": "0258",
-        "menu": "0258"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "mudkip"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0258",
+        "menu": "0258"
+    }
 }

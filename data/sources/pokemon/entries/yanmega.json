@@ -95,20 +95,20 @@
         "veekunDb": "yanmega",
         "serebii": "yanmega",
         "bulbapedia": "Yanmega",
-        "homeSprite": "yanmega",
-        "miniSprite": "yanmega",
+        "homeSprite": "0469",
+        "miniSprite": "0469",
         "showdown": "yanmega",
         "showdownDef": "Yanmega",
         "smogon": "yanmega"
-    },
-    "imgs": {
-        "home": "0469",
-        "menu": "0469"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "yanmega"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0469",
+        "menu": "0469"
+    }
 }

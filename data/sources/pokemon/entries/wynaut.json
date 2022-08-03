@@ -99,20 +99,20 @@
         "veekunDb": "wynaut",
         "serebii": "wynaut",
         "bulbapedia": "Wynaut",
-        "homeSprite": "wynaut",
-        "miniSprite": "wynaut",
+        "homeSprite": "0360",
+        "miniSprite": "0360",
         "showdown": "wynaut",
         "showdownDef": "Wynaut",
         "smogon": "wynaut"
-    },
-    "imgs": {
-        "home": "0360",
-        "menu": "0360"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "wynaut"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0360",
+        "menu": "0360"
+    }
 }

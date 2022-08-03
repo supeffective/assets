@@ -105,15 +105,11 @@
         "veekunDb": "mewtwo",
         "serebii": "mewtwo",
         "bulbapedia": "Mewtwo",
-        "homeSprite": "mewtwo",
-        "miniSprite": "mewtwo",
+        "homeSprite": "0150",
+        "miniSprite": "0150",
         "showdown": "mewtwo",
         "showdownDef": "Mewtwo",
         "smogon": "mewtwo"
-    },
-    "imgs": {
-        "home": "0150",
-        "menu": "0150"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -122,5 +118,9 @@
         "mewtwo-mega-x",
         "mewtwo-mega-y"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0150",
+        "menu": "0150"
+    }
 }

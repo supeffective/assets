@@ -107,20 +107,20 @@
         "veekunDb": "chansey",
         "serebii": "chansey",
         "bulbapedia": "Chansey",
-        "homeSprite": "chansey",
-        "miniSprite": "chansey",
+        "homeSprite": "0113",
+        "miniSprite": "0113",
         "showdown": "chansey",
         "showdownDef": "Chansey",
         "smogon": "chansey"
-    },
-    "imgs": {
-        "home": "0113",
-        "menu": "0113"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "chansey"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0113",
+        "menu": "0113"
+    }
 }

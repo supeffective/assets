@@ -86,20 +86,20 @@
         "veekunDb": "tapukoko",
         "serebii": "tapukoko",
         "bulbapedia": "Tapu Koko",
-        "homeSprite": "tapukoko",
-        "miniSprite": "tapukoko",
+        "homeSprite": "0785",
+        "miniSprite": "0785",
         "showdown": "tapukoko",
         "showdownDef": "Tapukoko",
         "smogon": "tapukoko"
-    },
-    "imgs": {
-        "home": "0785",
-        "menu": "0785"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "tapukoko"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0785",
+        "menu": "0785"
+    }
 }

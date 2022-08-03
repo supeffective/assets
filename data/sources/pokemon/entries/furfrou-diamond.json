@@ -85,20 +85,20 @@
         "veekunDb": "furfrou-diamond",
         "serebii": "furfrou",
         "bulbapedia": "Furfrou",
-        "homeSprite": "furfrou-diamond",
-        "miniSprite": "furfrou-diamond",
+        "homeSprite": "0676-diamond",
+        "miniSprite": "0676-diamond",
         "showdown": "furfrou",
         "showdownDef": "Furfrou-Diamond",
         "smogon": "furfrou-diamond"
-    },
-    "imgs": {
-        "home": "0676-diamond",
-        "menu": "0676-diamond"
     },
     "baseSpecies": "furfrou",
     "baseForms": [
         "furfrou"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0676-diamond",
+        "menu": "0676-diamond"
+    }
 }

@@ -92,18 +92,18 @@
         "veekunDb": "donphan",
         "serebii": "donphan",
         "bulbapedia": "Donphan",
-        "homeSprite": "donphan-f",
-        "miniSprite": "donphan-f",
+        "homeSprite": "0232-f",
+        "miniSprite": "0232",
         "showdown": "donphan",
         "showdownDef": "Donphan",
         "smogon": "donphan"
     },
-    "imgs": {
-        "home": "0232-f",
-        "menu": "0232"
-    },
     "baseSpecies": "donphan",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0232-f",
+        "menu": "0232"
+    }
 }

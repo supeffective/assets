@@ -103,20 +103,20 @@
         "veekunDb": "magby",
         "serebii": "magby",
         "bulbapedia": "Magby",
-        "homeSprite": "magby",
-        "miniSprite": "magby",
+        "homeSprite": "0240",
+        "miniSprite": "0240",
         "showdown": "magby",
         "showdownDef": "Magby",
         "smogon": "magby"
-    },
-    "imgs": {
-        "home": "0240",
-        "menu": "0240"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "magby"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0240",
+        "menu": "0240"
+    }
 }

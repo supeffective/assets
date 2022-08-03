@@ -83,20 +83,20 @@
         "veekunDb": "silvally-fire",
         "serebii": "silvally",
         "bulbapedia": "Silvally",
-        "homeSprite": "silvally-fire",
-        "miniSprite": "silvally-fire",
+        "homeSprite": "0773-fire",
+        "miniSprite": "0773-fire",
         "showdown": "silvallyfire",
         "showdownDef": "Silvally-Fire",
         "smogon": "silvally-fire"
-    },
-    "imgs": {
-        "home": "0773-fire",
-        "menu": "0773-fire"
     },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0773-fire",
+        "menu": "0773-fire"
+    }
 }

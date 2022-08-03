@@ -80,15 +80,11 @@
         "veekunDb": "indeedee",
         "serebii": "indeedee",
         "bulbapedia": "Indeedee",
-        "homeSprite": "indeedee",
-        "miniSprite": "indeedee",
+        "homeSprite": "0876",
+        "miniSprite": "0876",
         "showdown": "indeedee",
         "showdownDef": "Indeedee",
         "smogon": "indeedee"
-    },
-    "imgs": {
-        "home": "0876",
-        "menu": "0876"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -96,5 +92,9 @@
         "indeedee",
         "indeedee-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0876",
+        "menu": "0876"
+    }
 }

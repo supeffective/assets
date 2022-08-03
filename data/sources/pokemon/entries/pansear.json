@@ -88,20 +88,20 @@
         "veekunDb": "pansear",
         "serebii": "pansear",
         "bulbapedia": "Pansear",
-        "homeSprite": "pansear",
-        "miniSprite": "pansear",
+        "homeSprite": "0513",
+        "miniSprite": "0513",
         "showdown": "pansear",
         "showdownDef": "Pansear",
         "smogon": "pansear"
-    },
-    "imgs": {
-        "home": "0513",
-        "menu": "0513"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "pansear"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0513",
+        "menu": "0513"
+    }
 }

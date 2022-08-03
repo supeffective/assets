@@ -93,15 +93,11 @@
         "veekunDb": "arceus",
         "serebii": "arceus",
         "bulbapedia": "Arceus",
-        "homeSprite": "arceus",
-        "miniSprite": "arceus",
+        "homeSprite": "0493",
+        "miniSprite": "0493",
         "showdown": "arceus",
         "showdownDef": "Arceus",
         "smogon": "arceus"
-    },
-    "imgs": {
-        "home": "0493",
-        "menu": "0493"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -126,5 +122,9 @@
         "arceus-fairy",
         "arceus-legendary"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0493",
+        "menu": "0493"
+    }
 }

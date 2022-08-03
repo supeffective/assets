@@ -90,20 +90,20 @@
         "veekunDb": "accelgor",
         "serebii": "accelgor",
         "bulbapedia": "Accelgor",
-        "homeSprite": "accelgor",
-        "miniSprite": "accelgor",
+        "homeSprite": "0617",
+        "miniSprite": "0617",
         "showdown": "accelgor",
         "showdownDef": "Accelgor",
         "smogon": "accelgor"
-    },
-    "imgs": {
-        "home": "0617",
-        "menu": "0617"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "accelgor"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0617",
+        "menu": "0617"
+    }
 }

@@ -90,20 +90,20 @@
         "veekunDb": "tornadus-therian",
         "serebii": "tornadus",
         "bulbapedia": "Tornadus",
-        "homeSprite": "tornadus-therian",
-        "miniSprite": "tornadus-therian",
+        "homeSprite": "0641-therian",
+        "miniSprite": "0641-therian",
         "showdown": "tornadustherian",
         "showdownDef": "Tornadus-Therian",
         "smogon": "tornadus-therian"
-    },
-    "imgs": {
-        "home": "0641-therian",
-        "menu": "0641-therian"
     },
     "baseSpecies": "tornadus",
     "baseForms": [
         "tornadus"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0641-therian",
+        "menu": "0641-therian"
+    }
 }

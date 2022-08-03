@@ -99,20 +99,20 @@
         "veekunDb": "furret",
         "serebii": "furret",
         "bulbapedia": "Furret",
-        "homeSprite": "furret",
-        "miniSprite": "furret",
+        "homeSprite": "0162",
+        "miniSprite": "0162",
         "showdown": "furret",
         "showdownDef": "Furret",
         "smogon": "furret"
-    },
-    "imgs": {
-        "home": "0162",
-        "menu": "0162"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "furret"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0162",
+        "menu": "0162"
+    }
 }

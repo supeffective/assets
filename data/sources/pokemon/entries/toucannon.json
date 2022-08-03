@@ -84,20 +84,20 @@
         "veekunDb": "toucannon",
         "serebii": "toucannon",
         "bulbapedia": "Toucannon",
-        "homeSprite": "toucannon",
-        "miniSprite": "toucannon",
+        "homeSprite": "0733",
+        "miniSprite": "0733",
         "showdown": "toucannon",
         "showdownDef": "Toucannon",
         "smogon": "toucannon"
-    },
-    "imgs": {
-        "home": "0733",
-        "menu": "0733"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "toucannon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0733",
+        "menu": "0733"
+    }
 }

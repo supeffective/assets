@@ -95,20 +95,20 @@
         "veekunDb": "rotom-wash",
         "serebii": "rotom",
         "bulbapedia": "Rotom",
-        "homeSprite": "rotom-wash",
-        "miniSprite": "rotom-wash",
+        "homeSprite": "0479-wash",
+        "miniSprite": "0479-wash",
         "showdown": "rotomwash",
         "showdownDef": "Rotom-Wash",
         "smogon": "rotom-wash"
-    },
-    "imgs": {
-        "home": "0479-wash",
-        "menu": "0479-wash"
     },
     "baseSpecies": "rotom",
     "baseForms": [
         "rotom"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0479-wash",
+        "menu": "0479-wash"
+    }
 }

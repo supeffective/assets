@@ -99,20 +99,20 @@
         "veekunDb": "sunkern",
         "serebii": "sunkern",
         "bulbapedia": "Sunkern",
-        "homeSprite": "sunkern",
-        "miniSprite": "sunkern",
+        "homeSprite": "0191",
+        "miniSprite": "0191",
         "showdown": "sunkern",
         "showdownDef": "Sunkern",
         "smogon": "sunkern"
-    },
-    "imgs": {
-        "home": "0191",
-        "menu": "0191"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "sunkern"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0191",
+        "menu": "0191"
+    }
 }

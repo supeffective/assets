@@ -105,20 +105,20 @@
         "veekunDb": "dragonair",
         "serebii": "dragonair",
         "bulbapedia": "Dragonair",
-        "homeSprite": "dragonair",
-        "miniSprite": "dragonair",
+        "homeSprite": "0148",
+        "miniSprite": "0148",
         "showdown": "dragonair",
         "showdownDef": "Dragonair",
         "smogon": "dragonair"
-    },
-    "imgs": {
-        "home": "0148",
-        "menu": "0148"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "dragonair"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0148",
+        "menu": "0148"
+    }
 }

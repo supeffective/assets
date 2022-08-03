@@ -83,20 +83,20 @@
         "veekunDb": "silvally-flying",
         "serebii": "silvally",
         "bulbapedia": "Silvally",
-        "homeSprite": "silvally-flying",
-        "miniSprite": "silvally-flying",
+        "homeSprite": "0773-flying",
+        "miniSprite": "0773-flying",
         "showdown": "silvallyflying",
         "showdownDef": "Silvally-Flying",
         "smogon": "silvally-flying"
-    },
-    "imgs": {
-        "home": "0773-flying",
-        "menu": "0773-flying"
     },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0773-flying",
+        "menu": "0773-flying"
+    }
 }

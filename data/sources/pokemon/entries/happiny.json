@@ -97,20 +97,20 @@
         "veekunDb": "happiny",
         "serebii": "happiny",
         "bulbapedia": "Happiny",
-        "homeSprite": "happiny",
-        "miniSprite": "happiny",
+        "homeSprite": "0440",
+        "miniSprite": "0440",
         "showdown": "happiny",
         "showdownDef": "Happiny",
         "smogon": "happiny"
-    },
-    "imgs": {
-        "home": "0440",
-        "menu": "0440"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "happiny"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0440",
+        "menu": "0440"
+    }
 }

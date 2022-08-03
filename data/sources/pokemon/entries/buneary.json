@@ -97,20 +97,20 @@
         "veekunDb": "buneary",
         "serebii": "buneary",
         "bulbapedia": "Buneary",
-        "homeSprite": "buneary",
-        "miniSprite": "buneary",
+        "homeSprite": "0427",
+        "miniSprite": "0427",
         "showdown": "buneary",
         "showdownDef": "Buneary",
         "smogon": "buneary"
-    },
-    "imgs": {
-        "home": "0427",
-        "menu": "0427"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "buneary"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0427",
+        "menu": "0427"
+    }
 }

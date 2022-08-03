@@ -84,20 +84,20 @@
         "veekunDb": "shiinotic",
         "serebii": "shiinotic",
         "bulbapedia": "Shiinotic",
-        "homeSprite": "shiinotic",
-        "miniSprite": "shiinotic",
+        "homeSprite": "0756",
+        "miniSprite": "0756",
         "showdown": "shiinotic",
         "showdownDef": "Shiinotic",
         "smogon": "shiinotic"
-    },
-    "imgs": {
-        "home": "0756",
-        "menu": "0756"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "shiinotic"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0756",
+        "menu": "0756"
+    }
 }

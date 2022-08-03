@@ -107,15 +107,11 @@
         "veekunDb": "zubat",
         "serebii": "zubat",
         "bulbapedia": "Zubat",
-        "homeSprite": "zubat",
-        "miniSprite": "zubat",
+        "homeSprite": "0041",
+        "miniSprite": "0041",
         "showdown": "zubat",
         "showdownDef": "Zubat",
         "smogon": "zubat"
-    },
-    "imgs": {
-        "home": "0041",
-        "menu": "0041"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -123,5 +119,9 @@
         "zubat",
         "zubat-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0041",
+        "menu": "0041"
+    }
 }

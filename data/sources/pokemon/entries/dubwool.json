@@ -82,20 +82,20 @@
         "veekunDb": "dubwool",
         "serebii": "dubwool",
         "bulbapedia": "Dubwool",
-        "homeSprite": "dubwool",
-        "miniSprite": "dubwool",
+        "homeSprite": "0832",
+        "miniSprite": "0832",
         "showdown": "dubwool",
         "showdownDef": "Dubwool",
         "smogon": "dubwool"
-    },
-    "imgs": {
-        "home": "0832",
-        "menu": "0832"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "dubwool"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0832",
+        "menu": "0832"
+    }
 }

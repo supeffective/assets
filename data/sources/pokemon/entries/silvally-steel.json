@@ -83,20 +83,20 @@
         "veekunDb": "silvally-steel",
         "serebii": "silvally",
         "bulbapedia": "Silvally",
-        "homeSprite": "silvally-steel",
-        "miniSprite": "silvally-steel",
+        "homeSprite": "0773-steel",
+        "miniSprite": "0773-steel",
         "showdown": "silvallysteel",
         "showdownDef": "Silvally-Steel",
         "smogon": "silvally-steel"
-    },
-    "imgs": {
-        "home": "0773-steel",
-        "menu": "0773-steel"
     },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0773-steel",
+        "menu": "0773-steel"
+    }
 }

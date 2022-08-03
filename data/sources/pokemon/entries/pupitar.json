@@ -101,20 +101,20 @@
         "veekunDb": "pupitar",
         "serebii": "pupitar",
         "bulbapedia": "Pupitar",
-        "homeSprite": "pupitar",
-        "miniSprite": "pupitar",
+        "homeSprite": "0247",
+        "miniSprite": "0247",
         "showdown": "pupitar",
         "showdownDef": "Pupitar",
         "smogon": "pupitar"
-    },
-    "imgs": {
-        "home": "0247",
-        "menu": "0247"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "pupitar"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0247",
+        "menu": "0247"
+    }
 }

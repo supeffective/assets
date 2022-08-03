@@ -99,20 +99,20 @@
         "veekunDb": "smeargle",
         "serebii": "smeargle",
         "bulbapedia": "Smeargle",
-        "homeSprite": "smeargle",
-        "miniSprite": "smeargle",
+        "homeSprite": "0235",
+        "miniSprite": "0235",
         "showdown": "smeargle",
         "showdownDef": "Smeargle",
         "smogon": "smeargle"
-    },
-    "imgs": {
-        "home": "0235",
-        "menu": "0235"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "smeargle"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0235",
+        "menu": "0235"
+    }
 }

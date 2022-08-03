@@ -97,20 +97,20 @@
         "veekunDb": "grumpig",
         "serebii": "grumpig",
         "bulbapedia": "Grumpig",
-        "homeSprite": "grumpig",
-        "miniSprite": "grumpig",
+        "homeSprite": "0326",
+        "miniSprite": "0326",
         "showdown": "grumpig",
         "showdownDef": "Grumpig",
         "smogon": "grumpig"
-    },
-    "imgs": {
-        "home": "0326",
-        "menu": "0326"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "grumpig"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0326",
+        "menu": "0326"
+    }
 }

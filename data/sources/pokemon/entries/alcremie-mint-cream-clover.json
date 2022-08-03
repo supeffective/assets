@@ -80,18 +80,18 @@
         "veekunDb": "alcremie-mint-cream-clover",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
-        "homeSprite": "alcremie-mint-cream-clover",
-        "miniSprite": "alcremie-mint-cream-clover",
+        "homeSprite": "0869-mint-cream-clover",
+        "miniSprite": "0869-mint-cream-clover",
         "showdown": "alcremie",
         "showdownDef": "Alcremie-Mint-Cream-Clover",
         "smogon": "alcremie-mint-cream-clover"
     },
-    "imgs": {
-        "home": "0869-mint-cream-clover",
-        "menu": "0869-mint-cream-clover"
-    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0869-mint-cream-clover",
+        "menu": "0869-mint-cream-clover"
+    }
 }

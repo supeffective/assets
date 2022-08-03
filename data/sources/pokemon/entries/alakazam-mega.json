@@ -78,20 +78,20 @@
         "veekunDb": "alakazam-mega",
         "serebii": "alakazam",
         "bulbapedia": "Alakazam",
-        "homeSprite": "alakazam-mega",
-        "miniSprite": "alakazam-mega",
+        "homeSprite": "0065-mega",
+        "miniSprite": "0065-mega",
         "showdown": "alakazammega",
         "showdownDef": "Alakazam-Mega",
         "smogon": "alakazam-mega"
-    },
-    "imgs": {
-        "home": "0065-mega",
-        "menu": "0065-mega"
     },
     "baseSpecies": "alakazam",
     "baseForms": [
         "alakazam"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0065-mega",
+        "menu": "0065-mega"
+    }
 }

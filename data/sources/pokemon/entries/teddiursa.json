@@ -101,20 +101,20 @@
         "veekunDb": "teddiursa",
         "serebii": "teddiursa",
         "bulbapedia": "Teddiursa",
-        "homeSprite": "teddiursa",
-        "miniSprite": "teddiursa",
+        "homeSprite": "0216",
+        "miniSprite": "0216",
         "showdown": "teddiursa",
         "showdownDef": "Teddiursa",
         "smogon": "teddiursa"
-    },
-    "imgs": {
-        "home": "0216",
-        "menu": "0216"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "teddiursa"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0216",
+        "menu": "0216"
+    }
 }

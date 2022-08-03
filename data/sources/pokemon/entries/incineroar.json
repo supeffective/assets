@@ -86,20 +86,20 @@
         "veekunDb": "incineroar",
         "serebii": "incineroar",
         "bulbapedia": "Incineroar",
-        "homeSprite": "incineroar",
-        "miniSprite": "incineroar",
+        "homeSprite": "0727",
+        "miniSprite": "0727",
         "showdown": "incineroar",
         "showdownDef": "Incineroar",
         "smogon": "incineroar"
-    },
-    "imgs": {
-        "home": "0727",
-        "menu": "0727"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "incineroar"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0727",
+        "menu": "0727"
+    }
 }

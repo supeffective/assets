@@ -79,20 +79,20 @@
         "veekunDb": "lechonk",
         "serebii": "lechonk",
         "bulbapedia": "Lechonk",
-        "homeSprite": "lechonk",
-        "miniSprite": "lechonk",
+        "homeSprite": "9020",
+        "miniSprite": "9020",
         "showdown": "lechonk",
         "showdownDef": "Lechonk",
         "smogon": "lechonk"
-    },
-    "imgs": {
-        "home": "9020",
-        "menu": "9020"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "lechonk"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "9020",
+        "menu": "9020"
+    }
 }

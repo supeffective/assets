@@ -80,15 +80,11 @@
         "veekunDb": "cinderace",
         "serebii": "cinderace",
         "bulbapedia": "Cinderace",
-        "homeSprite": "cinderace",
-        "miniSprite": "cinderace",
+        "homeSprite": "0815",
+        "miniSprite": "0815",
         "showdown": "cinderace",
         "showdownDef": "Cinderace",
         "smogon": "cinderace"
-    },
-    "imgs": {
-        "home": "0815",
-        "menu": "0815"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -96,5 +92,9 @@
         "cinderace",
         "cinderace-gmax"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0815",
+        "menu": "0815"
+    }
 }

@@ -84,20 +84,20 @@
         "veekunDb": "celesteela",
         "serebii": "celesteela",
         "bulbapedia": "Celesteela",
-        "homeSprite": "celesteela",
-        "miniSprite": "celesteela",
+        "homeSprite": "0797",
+        "miniSprite": "0797",
         "showdown": "celesteela",
         "showdownDef": "Celesteela",
         "smogon": "celesteela"
-    },
-    "imgs": {
-        "home": "0797",
-        "menu": "0797"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "celesteela"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0797",
+        "menu": "0797"
+    }
 }

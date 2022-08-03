@@ -83,18 +83,18 @@
         "veekunDb": "vivillon-ocean",
         "serebii": "vivillon",
         "bulbapedia": "Vivillon",
-        "homeSprite": "vivillon-ocean",
-        "miniSprite": "vivillon-ocean",
+        "homeSprite": "0666-ocean",
+        "miniSprite": "0666-ocean",
         "showdown": "vivillon",
         "showdownDef": "Vivillon-Ocean",
         "smogon": "vivillon-ocean"
     },
-    "imgs": {
-        "home": "0666-ocean",
-        "menu": "0666-ocean"
-    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0666-ocean",
+        "menu": "0666-ocean"
+    }
 }

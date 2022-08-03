@@ -99,20 +99,20 @@
         "veekunDb": "shelgon",
         "serebii": "shelgon",
         "bulbapedia": "Shelgon",
-        "homeSprite": "shelgon",
-        "miniSprite": "shelgon",
+        "homeSprite": "0372",
+        "miniSprite": "0372",
         "showdown": "shelgon",
         "showdownDef": "Shelgon",
         "smogon": "shelgon"
-    },
-    "imgs": {
-        "home": "0372",
-        "menu": "0372"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "shelgon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0372",
+        "menu": "0372"
+    }
 }

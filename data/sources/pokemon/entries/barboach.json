@@ -101,20 +101,20 @@
         "veekunDb": "barboach",
         "serebii": "barboach",
         "bulbapedia": "Barboach",
-        "homeSprite": "barboach",
-        "miniSprite": "barboach",
+        "homeSprite": "0339",
+        "miniSprite": "0339",
         "showdown": "barboach",
         "showdownDef": "Barboach",
         "smogon": "barboach"
-    },
-    "imgs": {
-        "home": "0339",
-        "menu": "0339"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "barboach"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0339",
+        "menu": "0339"
+    }
 }

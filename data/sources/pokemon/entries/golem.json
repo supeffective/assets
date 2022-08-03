@@ -105,15 +105,11 @@
         "veekunDb": "golem",
         "serebii": "golem",
         "bulbapedia": "Golem",
-        "homeSprite": "golem",
-        "miniSprite": "golem",
+        "homeSprite": "0076",
+        "miniSprite": "0076",
         "showdown": "golem",
         "showdownDef": "Golem",
         "smogon": "golem"
-    },
-    "imgs": {
-        "home": "0076",
-        "menu": "0076"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -121,5 +117,9 @@
         "golem",
         "golem-alola"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0076",
+        "menu": "0076"
+    }
 }

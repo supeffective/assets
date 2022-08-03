@@ -78,20 +78,20 @@
         "veekunDb": "garchomp-mega",
         "serebii": "garchomp",
         "bulbapedia": "Garchomp",
-        "homeSprite": "garchomp-mega",
-        "miniSprite": "garchomp-mega",
+        "homeSprite": "0445-mega",
+        "miniSprite": "0445-mega",
         "showdown": "garchompmega",
         "showdownDef": "Garchomp-Mega",
         "smogon": "garchomp-mega"
-    },
-    "imgs": {
-        "home": "0445-mega",
-        "menu": "0445-mega"
     },
     "baseSpecies": "garchomp",
     "baseForms": [
         "garchomp"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0445-mega",
+        "menu": "0445-mega"
+    }
 }

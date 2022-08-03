@@ -103,20 +103,20 @@
         "veekunDb": "togetic",
         "serebii": "togetic",
         "bulbapedia": "Togetic",
-        "homeSprite": "togetic",
-        "miniSprite": "togetic",
+        "homeSprite": "0176",
+        "miniSprite": "0176",
         "showdown": "togetic",
         "showdownDef": "Togetic",
         "smogon": "togetic"
-    },
-    "imgs": {
-        "home": "0176",
-        "menu": "0176"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "togetic"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0176",
+        "menu": "0176"
+    }
 }

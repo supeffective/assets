@@ -80,20 +80,20 @@
         "veekunDb": "regidrago",
         "serebii": "regidrago",
         "bulbapedia": "Regidrago",
-        "homeSprite": "regidrago",
-        "miniSprite": "regidrago",
+        "homeSprite": "0895",
+        "miniSprite": "0895",
         "showdown": "regidrago",
         "showdownDef": "Regidrago",
         "smogon": "regidrago"
-    },
-    "imgs": {
-        "home": "0895",
-        "menu": "0895"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "regidrago"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0895",
+        "menu": "0895"
+    }
 }

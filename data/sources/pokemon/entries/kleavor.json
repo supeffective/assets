@@ -80,20 +80,20 @@
         "veekunDb": "kleavor",
         "serebii": "kleavor",
         "bulbapedia": "Kleavor",
-        "homeSprite": "kleavor",
-        "miniSprite": "kleavor",
+        "homeSprite": "0900",
+        "miniSprite": "0900",
         "showdown": "kleavor",
         "showdownDef": "Kleavor",
         "smogon": "kleavor"
-    },
-    "imgs": {
-        "home": "0900",
-        "menu": "0900"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "kleavor"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0900",
+        "menu": "0900"
+    }
 }

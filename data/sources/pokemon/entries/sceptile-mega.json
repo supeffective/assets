@@ -78,20 +78,20 @@
         "veekunDb": "sceptile-mega",
         "serebii": "sceptile",
         "bulbapedia": "Sceptile",
-        "homeSprite": "sceptile-mega",
-        "miniSprite": "sceptile-mega",
+        "homeSprite": "0254-mega",
+        "miniSprite": "0254-mega",
         "showdown": "sceptilemega",
         "showdownDef": "Sceptile-Mega",
         "smogon": "sceptile-mega"
-    },
-    "imgs": {
-        "home": "0254-mega",
-        "menu": "0254-mega"
     },
     "baseSpecies": "sceptile",
     "baseForms": [
         "sceptile"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0254-mega",
+        "menu": "0254-mega"
+    }
 }

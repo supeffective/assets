@@ -88,18 +88,18 @@
         "veekunDb": "deerling-winter",
         "serebii": "deerling",
         "bulbapedia": "Deerling",
-        "homeSprite": "deerling-winter",
-        "miniSprite": "deerling-winter",
+        "homeSprite": "0585-winter",
+        "miniSprite": "0585-winter",
         "showdown": "deerling",
         "showdownDef": "Deerling-Winter",
         "smogon": "deerling-winter"
     },
-    "imgs": {
-        "home": "0585-winter",
-        "menu": "0585-winter"
-    },
     "baseSpecies": "deerling",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0585-winter",
+        "menu": "0585-winter"
+    }
 }

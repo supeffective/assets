@@ -95,20 +95,20 @@
         "veekunDb": "chingling",
         "serebii": "chingling",
         "bulbapedia": "Chingling",
-        "homeSprite": "chingling",
-        "miniSprite": "chingling",
+        "homeSprite": "0433",
+        "miniSprite": "0433",
         "showdown": "chingling",
         "showdownDef": "Chingling",
         "smogon": "chingling"
-    },
-    "imgs": {
-        "home": "0433",
-        "menu": "0433"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "chingling"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0433",
+        "menu": "0433"
+    }
 }

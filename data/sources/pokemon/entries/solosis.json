@@ -90,20 +90,20 @@
         "veekunDb": "solosis",
         "serebii": "solosis",
         "bulbapedia": "Solosis",
-        "homeSprite": "solosis",
-        "miniSprite": "solosis",
+        "homeSprite": "0577",
+        "miniSprite": "0577",
         "showdown": "solosis",
         "showdownDef": "Solosis",
         "smogon": "solosis"
-    },
-    "imgs": {
-        "home": "0577",
-        "menu": "0577"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "solosis"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0577",
+        "menu": "0577"
+    }
 }

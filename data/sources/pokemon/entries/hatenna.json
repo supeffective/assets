@@ -80,20 +80,20 @@
         "veekunDb": "hatenna",
         "serebii": "hatenna",
         "bulbapedia": "Hatenna",
-        "homeSprite": "hatenna",
-        "miniSprite": "hatenna",
+        "homeSprite": "0856",
+        "miniSprite": "0856",
         "showdown": "hatenna",
         "showdownDef": "Hatenna",
         "smogon": "hatenna"
-    },
-    "imgs": {
-        "home": "0856",
-        "menu": "0856"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "hatenna"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0856",
+        "menu": "0856"
+    }
 }

@@ -97,15 +97,11 @@
         "veekunDb": "banette",
         "serebii": "banette",
         "bulbapedia": "Banette",
-        "homeSprite": "banette",
-        "miniSprite": "banette",
+        "homeSprite": "0354",
+        "miniSprite": "0354",
         "showdown": "banette",
         "showdownDef": "Banette",
         "smogon": "banette"
-    },
-    "imgs": {
-        "home": "0354",
-        "menu": "0354"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -113,5 +109,9 @@
         "banette",
         "banette-mega"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0354",
+        "menu": "0354"
+    }
 }

@@ -90,20 +90,20 @@
         "veekunDb": "venipede",
         "serebii": "venipede",
         "bulbapedia": "Venipede",
-        "homeSprite": "venipede",
-        "miniSprite": "venipede",
+        "homeSprite": "0543",
+        "miniSprite": "0543",
         "showdown": "venipede",
         "showdownDef": "Venipede",
         "smogon": "venipede"
-    },
-    "imgs": {
-        "home": "0543",
-        "menu": "0543"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "venipede"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0543",
+        "menu": "0543"
+    }
 }

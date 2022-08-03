@@ -99,20 +99,20 @@
         "veekunDb": "seedot",
         "serebii": "seedot",
         "bulbapedia": "Seedot",
-        "homeSprite": "seedot",
-        "miniSprite": "seedot",
+        "homeSprite": "0273",
+        "miniSprite": "0273",
         "showdown": "seedot",
         "showdownDef": "Seedot",
         "smogon": "seedot"
-    },
-    "imgs": {
-        "home": "0273",
-        "menu": "0273"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "seedot"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0273",
+        "menu": "0273"
+    }
 }

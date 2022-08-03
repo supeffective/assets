@@ -80,20 +80,20 @@
         "veekunDb": "chewtle",
         "serebii": "chewtle",
         "bulbapedia": "Chewtle",
-        "homeSprite": "chewtle",
-        "miniSprite": "chewtle",
+        "homeSprite": "0833",
+        "miniSprite": "0833",
         "showdown": "chewtle",
         "showdownDef": "Chewtle",
         "smogon": "chewtle"
-    },
-    "imgs": {
-        "home": "0833",
-        "menu": "0833"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "chewtle"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0833",
+        "menu": "0833"
+    }
 }

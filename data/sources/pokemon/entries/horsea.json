@@ -105,20 +105,20 @@
         "veekunDb": "horsea",
         "serebii": "horsea",
         "bulbapedia": "Horsea",
-        "homeSprite": "horsea",
-        "miniSprite": "horsea",
+        "homeSprite": "0116",
+        "miniSprite": "0116",
         "showdown": "horsea",
         "showdownDef": "Horsea",
         "smogon": "horsea"
-    },
-    "imgs": {
-        "home": "0116",
-        "menu": "0116"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "horsea"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0116",
+        "menu": "0116"
+    }
 }

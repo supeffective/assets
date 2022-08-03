@@ -80,20 +80,20 @@
         "veekunDb": "pincurchin",
         "serebii": "pincurchin",
         "bulbapedia": "Pincurchin",
-        "homeSprite": "pincurchin",
-        "miniSprite": "pincurchin",
+        "homeSprite": "0871",
+        "miniSprite": "0871",
         "showdown": "pincurchin",
         "showdownDef": "Pincurchin",
         "smogon": "pincurchin"
-    },
-    "imgs": {
-        "home": "0871",
-        "menu": "0871"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "pincurchin"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0871",
+        "menu": "0871"
+    }
 }

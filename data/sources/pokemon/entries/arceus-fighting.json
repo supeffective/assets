@@ -92,20 +92,20 @@
         "veekunDb": "arceus-fighting",
         "serebii": "arceus",
         "bulbapedia": "Arceus",
-        "homeSprite": "arceus-fighting",
-        "miniSprite": "arceus-fighting",
+        "homeSprite": "0493-fighting",
+        "miniSprite": "0493-fighting",
         "showdown": "arceusfighting",
         "showdownDef": "Arceus-Fighting",
         "smogon": "arceus-fighting"
-    },
-    "imgs": {
-        "home": "0493-fighting",
-        "menu": "0493-fighting"
     },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0493-fighting",
+        "menu": "0493-fighting"
+    }
 }

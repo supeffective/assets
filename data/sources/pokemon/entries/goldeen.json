@@ -105,15 +105,11 @@
         "veekunDb": "goldeen",
         "serebii": "goldeen",
         "bulbapedia": "Goldeen",
-        "homeSprite": "goldeen",
-        "miniSprite": "goldeen",
+        "homeSprite": "0118",
+        "miniSprite": "0118",
         "showdown": "goldeen",
         "showdownDef": "Goldeen",
         "smogon": "goldeen"
-    },
-    "imgs": {
-        "home": "0118",
-        "menu": "0118"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -121,5 +117,9 @@
         "goldeen",
         "goldeen-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0118",
+        "menu": "0118"
+    }
 }

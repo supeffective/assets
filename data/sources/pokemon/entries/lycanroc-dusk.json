@@ -82,18 +82,18 @@
         "veekunDb": "lycanroc-dusk",
         "serebii": "lycanroc",
         "bulbapedia": "Lycanroc",
-        "homeSprite": "lycanroc-dusk",
-        "miniSprite": "lycanroc-dusk",
+        "homeSprite": "0745-dusk",
+        "miniSprite": "0745-dusk",
         "showdown": "lycanrocdusk",
         "showdownDef": "Lycanroc-Dusk",
         "smogon": "lycanroc-dusk"
     },
-    "imgs": {
-        "home": "0745-dusk",
-        "menu": "0745-dusk"
-    },
     "baseSpecies": "lycanroc",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0745-dusk",
+        "menu": "0745-dusk"
+    }
 }

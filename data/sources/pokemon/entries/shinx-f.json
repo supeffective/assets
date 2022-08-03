@@ -97,18 +97,18 @@
         "veekunDb": "shinx",
         "serebii": "shinx",
         "bulbapedia": "Shinx",
-        "homeSprite": "shinx-f",
-        "miniSprite": "shinx-f",
+        "homeSprite": "0403-f",
+        "miniSprite": "0403",
         "showdown": "shinx",
         "showdownDef": "Shinx",
         "smogon": "shinx-"
     },
-    "imgs": {
-        "home": "0403-f",
-        "menu": "0403"
-    },
     "baseSpecies": "shinx",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0403-f",
+        "menu": "0403"
+    }
 }

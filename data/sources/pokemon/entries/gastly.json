@@ -107,20 +107,20 @@
         "veekunDb": "gastly",
         "serebii": "gastly",
         "bulbapedia": "Gastly",
-        "homeSprite": "gastly",
-        "miniSprite": "gastly",
+        "homeSprite": "0092",
+        "miniSprite": "0092",
         "showdown": "gastly",
         "showdownDef": "Gastly",
         "smogon": "gastly"
-    },
-    "imgs": {
-        "home": "0092",
-        "menu": "0092"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "gastly"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0092",
+        "menu": "0092"
+    }
 }

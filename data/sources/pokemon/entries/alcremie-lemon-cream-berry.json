@@ -80,18 +80,18 @@
         "veekunDb": "alcremie-lemon-cream-berry",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
-        "homeSprite": "alcremie-lemon-cream-berry",
-        "miniSprite": "alcremie-lemon-cream-berry",
+        "homeSprite": "0869-lemon-cream-berry",
+        "miniSprite": "0869-lemon-cream-berry",
         "showdown": "alcremie",
         "showdownDef": "Alcremie-Lemon-Cream-Berry",
         "smogon": "alcremie-lemon-cream-berry"
     },
-    "imgs": {
-        "home": "0869-lemon-cream-berry",
-        "menu": "0869-lemon-cream-berry"
-    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0869-lemon-cream-berry",
+        "menu": "0869-lemon-cream-berry"
+    }
 }

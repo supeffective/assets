@@ -80,20 +80,20 @@
         "veekunDb": "dracovish",
         "serebii": "dracovish",
         "bulbapedia": "Dracovish",
-        "homeSprite": "dracovish",
-        "miniSprite": "dracovish",
+        "homeSprite": "0882",
+        "miniSprite": "0882",
         "showdown": "dracovish",
         "showdownDef": "Dracovish",
         "smogon": "dracovish"
-    },
-    "imgs": {
-        "home": "0882",
-        "menu": "0882"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "dracovish"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0882",
+        "menu": "0882"
+    }
 }

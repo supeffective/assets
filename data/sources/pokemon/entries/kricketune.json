@@ -95,15 +95,11 @@
         "veekunDb": "kricketune",
         "serebii": "kricketune",
         "bulbapedia": "Kricketune",
-        "homeSprite": "kricketune",
-        "miniSprite": "kricketune",
+        "homeSprite": "0402",
+        "miniSprite": "0402",
         "showdown": "kricketune",
         "showdownDef": "Kricketune",
         "smogon": "kricketune"
-    },
-    "imgs": {
-        "home": "0402",
-        "menu": "0402"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -111,5 +107,9 @@
         "kricketune",
         "kricketune-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0402",
+        "menu": "0402"
+    }
 }

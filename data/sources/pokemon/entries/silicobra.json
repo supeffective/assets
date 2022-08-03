@@ -80,20 +80,20 @@
         "veekunDb": "silicobra",
         "serebii": "silicobra",
         "bulbapedia": "Silicobra",
-        "homeSprite": "silicobra",
-        "miniSprite": "silicobra",
+        "homeSprite": "0843",
+        "miniSprite": "0843",
         "showdown": "silicobra",
         "showdownDef": "Silicobra",
         "smogon": "silicobra"
-    },
-    "imgs": {
-        "home": "0843",
-        "menu": "0843"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "silicobra"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0843",
+        "menu": "0843"
+    }
 }

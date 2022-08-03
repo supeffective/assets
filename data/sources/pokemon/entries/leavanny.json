@@ -88,20 +88,20 @@
         "veekunDb": "leavanny",
         "serebii": "leavanny",
         "bulbapedia": "Leavanny",
-        "homeSprite": "leavanny",
-        "miniSprite": "leavanny",
+        "homeSprite": "0542",
+        "miniSprite": "0542",
         "showdown": "leavanny",
         "showdownDef": "Leavanny",
         "smogon": "leavanny"
-    },
-    "imgs": {
-        "home": "0542",
-        "menu": "0542"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "leavanny"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0542",
+        "menu": "0542"
+    }
 }

@@ -80,18 +80,18 @@
         "veekunDb": null,
         "serebii": "zoroark",
         "bulbapedia": "Zoroark",
-        "homeSprite": "zoroark-hisui",
-        "miniSprite": "zoroark-hisui",
+        "homeSprite": "0571-hisui",
+        "miniSprite": "0571-hisui",
         "showdown": "zoroarkhisui",
         "showdownDef": "Zoroark-Hisui",
         "smogon": "zoroark-hisui"
     },
-    "imgs": {
-        "home": "0571-hisui",
-        "menu": "0571-hisui"
-    },
     "baseSpecies": "zoroark",
     "baseForms": [],
     "forms": [],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0571-hisui",
+        "menu": "0571-hisui"
+    }
 }

@@ -97,18 +97,18 @@
         "veekunDb": "mamoswine",
         "serebii": "mamoswine",
         "bulbapedia": "Mamoswine",
-        "homeSprite": "mamoswine-f",
-        "miniSprite": "mamoswine-f",
+        "homeSprite": "0473-f",
+        "miniSprite": "0473",
         "showdown": "mamoswine",
         "showdownDef": "Mamoswine",
         "smogon": "mamoswine"
     },
-    "imgs": {
-        "home": "0473-f",
-        "menu": "0473"
-    },
     "baseSpecies": "mamoswine",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0473-f",
+        "menu": "0473"
+    }
 }

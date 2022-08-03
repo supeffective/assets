@@ -88,18 +88,18 @@
         "veekunDb": "diglett-alola",
         "serebii": "diglett",
         "bulbapedia": "Diglett",
-        "homeSprite": "diglett-alola",
-        "miniSprite": "diglett-alola",
+        "homeSprite": "0050-alola",
+        "miniSprite": "0050-alola",
         "showdown": "diglettalola",
         "showdownDef": "Diglett-Alola",
         "smogon": "diglett-alola"
     },
-    "imgs": {
-        "home": "0050-alola",
-        "menu": "0050-alola"
-    },
     "baseSpecies": "diglett",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0050-alola",
+        "menu": "0050-alola"
+    }
 }

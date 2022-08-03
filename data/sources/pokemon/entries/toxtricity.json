@@ -80,15 +80,11 @@
         "veekunDb": "toxtricity",
         "serebii": "toxtricity",
         "bulbapedia": "Toxtricity",
-        "homeSprite": "toxtricity",
-        "miniSprite": "toxtricity",
+        "homeSprite": "0849",
+        "miniSprite": "0849",
         "showdown": "toxtricity",
         "showdownDef": "Toxtricity",
         "smogon": "toxtricity"
-    },
-    "imgs": {
-        "home": "0849",
-        "menu": "0849"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -98,5 +94,9 @@
         "toxtricity-gmax",
         "toxtricity-low-key-gmax"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0849",
+        "menu": "0849"
+    }
 }

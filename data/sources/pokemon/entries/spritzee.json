@@ -87,20 +87,20 @@
         "veekunDb": "spritzee",
         "serebii": "spritzee",
         "bulbapedia": "Spritzee",
-        "homeSprite": "spritzee",
-        "miniSprite": "spritzee",
+        "homeSprite": "0682",
+        "miniSprite": "0682",
         "showdown": "spritzee",
         "showdownDef": "Spritzee",
         "smogon": "spritzee"
-    },
-    "imgs": {
-        "home": "0682",
-        "menu": "0682"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "spritzee"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0682",
+        "menu": "0682"
+    }
 }

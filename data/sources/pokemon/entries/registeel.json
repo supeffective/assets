@@ -99,20 +99,20 @@
         "veekunDb": "registeel",
         "serebii": "registeel",
         "bulbapedia": "Registeel",
-        "homeSprite": "registeel",
-        "miniSprite": "registeel",
+        "homeSprite": "0379",
+        "miniSprite": "0379",
         "showdown": "registeel",
         "showdownDef": "Registeel",
         "smogon": "registeel"
-    },
-    "imgs": {
-        "home": "0379",
-        "menu": "0379"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "registeel"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0379",
+        "menu": "0379"
+    }
 }

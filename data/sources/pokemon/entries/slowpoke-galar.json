@@ -82,18 +82,18 @@
         "veekunDb": "slowpoke-galar",
         "serebii": "slowpoke",
         "bulbapedia": "Slowpoke",
-        "homeSprite": "slowpoke-galar",
-        "miniSprite": "slowpoke-galar",
+        "homeSprite": "0079-galar",
+        "miniSprite": "0079-galar",
         "showdown": "slowpokegalar",
         "showdownDef": "Slowpoke-Galar",
         "smogon": "slowpoke-galar"
     },
-    "imgs": {
-        "home": "0079-galar",
-        "menu": "0079-galar"
-    },
     "baseSpecies": "slowpoke",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0079-galar",
+        "menu": "0079-galar"
+    }
 }

@@ -101,20 +101,20 @@
         "veekunDb": "kingdra",
         "serebii": "kingdra",
         "bulbapedia": "Kingdra",
-        "homeSprite": "kingdra",
-        "miniSprite": "kingdra",
+        "homeSprite": "0230",
+        "miniSprite": "0230",
         "showdown": "kingdra",
         "showdownDef": "Kingdra",
         "smogon": "kingdra"
-    },
-    "imgs": {
-        "home": "0230",
-        "menu": "0230"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "kingdra"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0230",
+        "menu": "0230"
+    }
 }

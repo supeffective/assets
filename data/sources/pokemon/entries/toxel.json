@@ -80,20 +80,20 @@
         "veekunDb": "toxel",
         "serebii": "toxel",
         "bulbapedia": "Toxel",
-        "homeSprite": "toxel",
-        "miniSprite": "toxel",
+        "homeSprite": "0848",
+        "miniSprite": "0848",
         "showdown": "toxel",
         "showdownDef": "Toxel",
         "smogon": "toxel"
-    },
-    "imgs": {
-        "home": "0848",
-        "menu": "0848"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "toxel"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0848",
+        "menu": "0848"
+    }
 }

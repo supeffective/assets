@@ -90,15 +90,11 @@
         "veekunDb": "kyurem",
         "serebii": "kyurem",
         "bulbapedia": "Kyurem",
-        "homeSprite": "kyurem",
-        "miniSprite": "kyurem",
+        "homeSprite": "0646",
+        "miniSprite": "0646",
         "showdown": "kyurem",
         "showdownDef": "Kyurem",
         "smogon": "kyurem"
-    },
-    "imgs": {
-        "home": "0646",
-        "menu": "0646"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -107,5 +103,9 @@
         "kyurem-white",
         "kyurem-black"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0646",
+        "menu": "0646"
+    }
 }

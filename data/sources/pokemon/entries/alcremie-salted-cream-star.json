@@ -80,18 +80,18 @@
         "veekunDb": "alcremie-salted-cream-star",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
-        "homeSprite": "alcremie-salted-cream-star",
-        "miniSprite": "alcremie-salted-cream-star",
+        "homeSprite": "0869-salted-cream-star",
+        "miniSprite": "0869-salted-cream-star",
         "showdown": "alcremie",
         "showdownDef": "Alcremie-Salted-Cream-Star",
         "smogon": "alcremie-salted-cream-star"
     },
-    "imgs": {
-        "home": "0869-salted-cream-star",
-        "menu": "0869-salted-cream-star"
-    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0869-salted-cream-star",
+        "menu": "0869-salted-cream-star"
+    }
 }

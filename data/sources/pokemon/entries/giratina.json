@@ -97,15 +97,11 @@
         "veekunDb": "giratina",
         "serebii": "giratina",
         "bulbapedia": "Giratina",
-        "homeSprite": "giratina",
-        "miniSprite": "giratina",
+        "homeSprite": "0487",
+        "miniSprite": "0487",
         "showdown": "giratina",
         "showdownDef": "Giratina",
         "smogon": "giratina"
-    },
-    "imgs": {
-        "home": "0487",
-        "menu": "0487"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -113,5 +109,9 @@
         "giratina",
         "giratina-origin"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0487",
+        "menu": "0487"
+    }
 }

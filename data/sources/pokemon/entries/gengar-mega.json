@@ -78,20 +78,20 @@
         "veekunDb": "gengar-mega",
         "serebii": "gengar",
         "bulbapedia": "Gengar",
-        "homeSprite": "gengar-mega",
-        "miniSprite": "gengar-mega",
+        "homeSprite": "0094-mega",
+        "miniSprite": "0094-mega",
         "showdown": "gengarmega",
         "showdownDef": "Gengar-Mega",
         "smogon": "gengar-mega"
-    },
-    "imgs": {
-        "home": "0094-mega",
-        "menu": "0094-mega"
     },
     "baseSpecies": "gengar",
     "baseForms": [
         "gengar"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0094-mega",
+        "menu": "0094-mega"
+    }
 }

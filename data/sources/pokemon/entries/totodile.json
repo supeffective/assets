@@ -99,20 +99,20 @@
         "veekunDb": "totodile",
         "serebii": "totodile",
         "bulbapedia": "Totodile",
-        "homeSprite": "totodile",
-        "miniSprite": "totodile",
+        "homeSprite": "0158",
+        "miniSprite": "0158",
         "showdown": "totodile",
         "showdownDef": "Totodile",
         "smogon": "totodile"
-    },
-    "imgs": {
-        "home": "0158",
-        "menu": "0158"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "totodile"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0158",
+        "menu": "0158"
+    }
 }

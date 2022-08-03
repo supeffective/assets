@@ -99,15 +99,11 @@
         "veekunDb": "altaria",
         "serebii": "altaria",
         "bulbapedia": "Altaria",
-        "homeSprite": "altaria",
-        "miniSprite": "altaria",
+        "homeSprite": "0334",
+        "miniSprite": "0334",
         "showdown": "altaria",
         "showdownDef": "Altaria",
         "smogon": "altaria"
-    },
-    "imgs": {
-        "home": "0334",
-        "menu": "0334"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -115,5 +111,9 @@
         "altaria",
         "altaria-mega"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0334",
+        "menu": "0334"
+    }
 }

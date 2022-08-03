@@ -90,20 +90,20 @@
         "veekunDb": "gothita",
         "serebii": "gothita",
         "bulbapedia": "Gothita",
-        "homeSprite": "gothita",
-        "miniSprite": "gothita",
+        "homeSprite": "0574",
+        "miniSprite": "0574",
         "showdown": "gothita",
         "showdownDef": "Gothita",
         "smogon": "gothita"
-    },
-    "imgs": {
-        "home": "0574",
-        "menu": "0574"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "gothita"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0574",
+        "menu": "0574"
+    }
 }

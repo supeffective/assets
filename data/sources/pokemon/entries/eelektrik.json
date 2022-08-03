@@ -88,20 +88,20 @@
         "veekunDb": "eelektrik",
         "serebii": "eelektrik",
         "bulbapedia": "Eelektrik",
-        "homeSprite": "eelektrik",
-        "miniSprite": "eelektrik",
+        "homeSprite": "0603",
+        "miniSprite": "0603",
         "showdown": "eelektrik",
         "showdownDef": "Eelektrik",
         "smogon": "eelektrik"
-    },
-    "imgs": {
-        "home": "0603",
-        "menu": "0603"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "eelektrik"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0603",
+        "menu": "0603"
+    }
 }

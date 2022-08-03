@@ -85,20 +85,20 @@
         "veekunDb": "volcanion",
         "serebii": "volcanion",
         "bulbapedia": "Volcanion",
-        "homeSprite": "volcanion",
-        "miniSprite": "volcanion",
+        "homeSprite": "0721",
+        "miniSprite": "0721",
         "showdown": "volcanion",
         "showdownDef": "Volcanion",
         "smogon": "volcanion"
-    },
-    "imgs": {
-        "home": "0721",
-        "menu": "0721"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "volcanion"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0721",
+        "menu": "0721"
+    }
 }

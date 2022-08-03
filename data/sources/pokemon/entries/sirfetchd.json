@@ -82,20 +82,20 @@
         "veekunDb": "sirfetchd",
         "serebii": "sirfetchd",
         "bulbapedia": "Sirfetch’d",
-        "homeSprite": "sirfetchd",
-        "miniSprite": "sirfetchd",
+        "homeSprite": "0865",
+        "miniSprite": "0865",
         "showdown": "sirfetchd",
         "showdownDef": "Sirfetchd",
         "smogon": "sirfetchd"
-    },
-    "imgs": {
-        "home": "0865",
-        "menu": "0865"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "sirfetchd"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0865",
+        "menu": "0865"
+    }
 }

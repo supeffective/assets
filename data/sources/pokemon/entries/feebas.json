@@ -99,20 +99,20 @@
         "veekunDb": "feebas",
         "serebii": "feebas",
         "bulbapedia": "Feebas",
-        "homeSprite": "feebas",
-        "miniSprite": "feebas",
+        "homeSprite": "0349",
+        "miniSprite": "0349",
         "showdown": "feebas",
         "showdownDef": "Feebas",
         "smogon": "feebas"
-    },
-    "imgs": {
-        "home": "0349",
-        "menu": "0349"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "feebas"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0349",
+        "menu": "0349"
+    }
 }

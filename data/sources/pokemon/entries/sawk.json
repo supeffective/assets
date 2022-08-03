@@ -90,20 +90,20 @@
         "veekunDb": "sawk",
         "serebii": "sawk",
         "bulbapedia": "Sawk",
-        "homeSprite": "sawk",
-        "miniSprite": "sawk",
+        "homeSprite": "0539",
+        "miniSprite": "0539",
         "showdown": "sawk",
         "showdownDef": "Sawk",
         "smogon": "sawk"
-    },
-    "imgs": {
-        "home": "0539",
-        "menu": "0539"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "sawk"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0539",
+        "menu": "0539"
+    }
 }

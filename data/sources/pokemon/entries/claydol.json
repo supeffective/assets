@@ -99,20 +99,20 @@
         "veekunDb": "claydol",
         "serebii": "claydol",
         "bulbapedia": "Claydol",
-        "homeSprite": "claydol",
-        "miniSprite": "claydol",
+        "homeSprite": "0344",
+        "miniSprite": "0344",
         "showdown": "claydol",
         "showdownDef": "Claydol",
         "smogon": "claydol"
-    },
-    "imgs": {
-        "home": "0344",
-        "menu": "0344"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "claydol"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0344",
+        "menu": "0344"
+    }
 }

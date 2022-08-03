@@ -95,20 +95,20 @@
         "veekunDb": "infernape",
         "serebii": "infernape",
         "bulbapedia": "Infernape",
-        "homeSprite": "infernape",
-        "miniSprite": "infernape",
+        "homeSprite": "0392",
+        "miniSprite": "0392",
         "showdown": "infernape",
         "showdownDef": "Infernape",
         "smogon": "infernape"
-    },
-    "imgs": {
-        "home": "0392",
-        "menu": "0392"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "infernape"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0392",
+        "menu": "0392"
+    }
 }

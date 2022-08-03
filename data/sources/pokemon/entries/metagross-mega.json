@@ -78,20 +78,20 @@
         "veekunDb": "metagross-mega",
         "serebii": "metagross",
         "bulbapedia": "Metagross",
-        "homeSprite": "metagross-mega",
-        "miniSprite": "metagross-mega",
+        "homeSprite": "0376-mega",
+        "miniSprite": "0376-mega",
         "showdown": "metagrossmega",
         "showdownDef": "Metagross-Mega",
         "smogon": "metagross-mega"
-    },
-    "imgs": {
-        "home": "0376-mega",
-        "menu": "0376-mega"
     },
     "baseSpecies": "metagross",
     "baseForms": [
         "metagross"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0376-mega",
+        "menu": "0376-mega"
+    }
 }

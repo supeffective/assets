@@ -95,20 +95,20 @@
         "veekunDb": "rotom-frost",
         "serebii": "rotom",
         "bulbapedia": "Rotom",
-        "homeSprite": "rotom-frost",
-        "miniSprite": "rotom-frost",
+        "homeSprite": "0479-frost",
+        "miniSprite": "0479-frost",
         "showdown": "rotomfrost",
         "showdownDef": "Rotom-Frost",
         "smogon": "rotom-frost"
-    },
-    "imgs": {
-        "home": "0479-frost",
-        "menu": "0479-frost"
     },
     "baseSpecies": "rotom",
     "baseForms": [
         "rotom"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0479-frost",
+        "menu": "0479-frost"
+    }
 }

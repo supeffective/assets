@@ -99,20 +99,20 @@
         "veekunDb": "ninjask",
         "serebii": "ninjask",
         "bulbapedia": "Ninjask",
-        "homeSprite": "ninjask",
-        "miniSprite": "ninjask",
+        "homeSprite": "0291",
+        "miniSprite": "0291",
         "showdown": "ninjask",
         "showdownDef": "Ninjask",
         "smogon": "ninjask"
-    },
-    "imgs": {
-        "home": "0291",
-        "menu": "0291"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "ninjask"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0291",
+        "menu": "0291"
+    }
 }

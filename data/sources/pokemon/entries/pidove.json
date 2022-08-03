@@ -90,20 +90,20 @@
         "veekunDb": "pidove",
         "serebii": "pidove",
         "bulbapedia": "Pidove",
-        "homeSprite": "pidove",
-        "miniSprite": "pidove",
+        "homeSprite": "0519",
+        "miniSprite": "0519",
         "showdown": "pidove",
         "showdownDef": "Pidove",
         "smogon": "pidove"
-    },
-    "imgs": {
-        "home": "0519",
-        "menu": "0519"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "pidove"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0519",
+        "menu": "0519"
+    }
 }

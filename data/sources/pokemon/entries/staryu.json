@@ -105,20 +105,20 @@
         "veekunDb": "staryu",
         "serebii": "staryu",
         "bulbapedia": "Staryu",
-        "homeSprite": "staryu",
-        "miniSprite": "staryu",
+        "homeSprite": "0120",
+        "miniSprite": "0120",
         "showdown": "staryu",
         "showdownDef": "Staryu",
         "smogon": "staryu"
-    },
-    "imgs": {
-        "home": "0120",
-        "menu": "0120"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "staryu"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0120",
+        "menu": "0120"
+    }
 }

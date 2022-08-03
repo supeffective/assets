@@ -97,20 +97,20 @@
         "veekunDb": "bonsly",
         "serebii": "bonsly",
         "bulbapedia": "Bonsly",
-        "homeSprite": "bonsly",
-        "miniSprite": "bonsly",
+        "homeSprite": "0438",
+        "miniSprite": "0438",
         "showdown": "bonsly",
         "showdownDef": "Bonsly",
         "smogon": "bonsly"
-    },
-    "imgs": {
-        "home": "0438",
-        "menu": "0438"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "bonsly"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0438",
+        "menu": "0438"
+    }
 }

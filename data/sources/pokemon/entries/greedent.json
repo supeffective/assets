@@ -82,20 +82,20 @@
         "veekunDb": "greedent",
         "serebii": "greedent",
         "bulbapedia": "Greedent",
-        "homeSprite": "greedent",
-        "miniSprite": "greedent",
+        "homeSprite": "0820",
+        "miniSprite": "0820",
         "showdown": "greedent",
         "showdownDef": "Greedent",
         "smogon": "greedent"
-    },
-    "imgs": {
-        "home": "0820",
-        "menu": "0820"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "greedent"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0820",
+        "menu": "0820"
+    }
 }

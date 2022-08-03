@@ -99,20 +99,20 @@
         "veekunDb": "chikorita",
         "serebii": "chikorita",
         "bulbapedia": "Chikorita",
-        "homeSprite": "chikorita",
-        "miniSprite": "chikorita",
+        "homeSprite": "0152",
+        "miniSprite": "0152",
         "showdown": "chikorita",
         "showdownDef": "Chikorita",
         "smogon": "chikorita"
-    },
-    "imgs": {
-        "home": "0152",
-        "menu": "0152"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "chikorita"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0152",
+        "menu": "0152"
+    }
 }

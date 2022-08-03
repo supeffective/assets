@@ -92,20 +92,20 @@
         "veekunDb": "arceus-electric",
         "serebii": "arceus",
         "bulbapedia": "Arceus",
-        "homeSprite": "arceus-electric",
-        "miniSprite": "arceus-electric",
+        "homeSprite": "0493-electric",
+        "miniSprite": "0493-electric",
         "showdown": "arceuselectric",
         "showdownDef": "Arceus-Electric",
         "smogon": "arceus-electric"
-    },
-    "imgs": {
-        "home": "0493-electric",
-        "menu": "0493-electric"
     },
     "baseSpecies": "arceus",
     "baseForms": [
         "arceus"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0493-electric",
+        "menu": "0493-electric"
+    }
 }

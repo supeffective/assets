@@ -99,20 +99,20 @@
         "veekunDb": "wailmer",
         "serebii": "wailmer",
         "bulbapedia": "Wailmer",
-        "homeSprite": "wailmer",
-        "miniSprite": "wailmer",
+        "homeSprite": "0320",
+        "miniSprite": "0320",
         "showdown": "wailmer",
         "showdownDef": "Wailmer",
         "smogon": "wailmer"
-    },
-    "imgs": {
-        "home": "0320",
-        "menu": "0320"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "wailmer"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0320",
+        "menu": "0320"
+    }
 }

@@ -80,20 +80,20 @@
         "veekunDb": "eldegoss",
         "serebii": "eldegoss",
         "bulbapedia": "Eldegoss",
-        "homeSprite": "eldegoss",
-        "miniSprite": "eldegoss",
+        "homeSprite": "0830",
+        "miniSprite": "0830",
         "showdown": "eldegoss",
         "showdownDef": "Eldegoss",
         "smogon": "eldegoss"
-    },
-    "imgs": {
-        "home": "0830",
-        "menu": "0830"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "eldegoss"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0830",
+        "menu": "0830"
+    }
 }

@@ -87,15 +87,11 @@
         "veekunDb": "sliggoo",
         "serebii": "sliggoo",
         "bulbapedia": "Sliggoo",
-        "homeSprite": "sliggoo",
-        "miniSprite": "sliggoo",
+        "homeSprite": "0705",
+        "miniSprite": "0705",
         "showdown": "sliggoo",
         "showdownDef": "Sliggoo",
         "smogon": "sliggoo"
-    },
-    "imgs": {
-        "home": "0705",
-        "menu": "0705"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -103,5 +99,9 @@
         "sliggoo",
         "sliggoo-hisui"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0705",
+        "menu": "0705"
+    }
 }

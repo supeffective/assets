@@ -99,20 +99,20 @@
         "veekunDb": "azurill",
         "serebii": "azurill",
         "bulbapedia": "Azurill",
-        "homeSprite": "azurill",
-        "miniSprite": "azurill",
+        "homeSprite": "0298",
+        "miniSprite": "0298",
         "showdown": "azurill",
         "showdownDef": "Azurill",
         "smogon": "azurill"
-    },
-    "imgs": {
-        "home": "0298",
-        "menu": "0298"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "azurill"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0298",
+        "menu": "0298"
+    }
 }

@@ -85,18 +85,18 @@
         "veekunDb": "florges-yellow",
         "serebii": "florges",
         "bulbapedia": "Florges",
-        "homeSprite": "florges-yellow",
-        "miniSprite": "florges-yellow",
+        "homeSprite": "0671-yellow",
+        "miniSprite": "0671-yellow",
         "showdown": "florges",
         "showdownDef": "Florges-Yellow",
         "smogon": "florges-yellow"
     },
-    "imgs": {
-        "home": "0671-yellow",
-        "menu": "0671-yellow"
-    },
     "baseSpecies": "florges",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0671-yellow",
+        "menu": "0671-yellow"
+    }
 }

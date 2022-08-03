@@ -80,20 +80,20 @@
         "veekunDb": "dragapult",
         "serebii": "dragapult",
         "bulbapedia": "Dragapult",
-        "homeSprite": "dragapult",
-        "miniSprite": "dragapult",
+        "homeSprite": "0887",
+        "miniSprite": "0887",
         "showdown": "dragapult",
         "showdownDef": "Dragapult",
         "smogon": "dragapult"
-    },
-    "imgs": {
-        "home": "0887",
-        "menu": "0887"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "dragapult"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0887",
+        "menu": "0887"
+    }
 }

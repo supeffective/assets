@@ -88,15 +88,11 @@
         "veekunDb": "meloetta",
         "serebii": "meloetta",
         "bulbapedia": "Meloetta",
-        "homeSprite": "meloetta",
-        "miniSprite": "meloetta",
+        "homeSprite": "0648",
+        "miniSprite": "0648",
         "showdown": "meloetta",
         "showdownDef": "Meloetta",
         "smogon": "meloetta"
-    },
-    "imgs": {
-        "home": "0648",
-        "menu": "0648"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -104,5 +100,9 @@
         "meloetta",
         "meloetta-pirouette"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0648",
+        "menu": "0648"
+    }
 }

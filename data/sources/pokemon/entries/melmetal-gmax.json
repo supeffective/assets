@@ -77,20 +77,20 @@
         "veekunDb": "melmetal-gmax",
         "serebii": "melmetal",
         "bulbapedia": "Melmetal",
-        "homeSprite": "melmetal-gmax",
-        "miniSprite": "melmetal-gmax",
+        "homeSprite": "0809-gmax",
+        "miniSprite": "0809-gmax",
         "showdown": "melmetalgmax",
         "showdownDef": "Melmetal-Gmax",
         "smogon": "melmetal-gmax"
-    },
-    "imgs": {
-        "home": "0809-gmax",
-        "menu": "0809-gmax"
     },
     "baseSpecies": "melmetal",
     "baseForms": [
         "melmetal"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0809-gmax",
+        "menu": "0809-gmax"
+    }
 }

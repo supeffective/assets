@@ -105,20 +105,20 @@
         "veekunDb": "dragonite",
         "serebii": "dragonite",
         "bulbapedia": "Dragonite",
-        "homeSprite": "dragonite",
-        "miniSprite": "dragonite",
+        "homeSprite": "0149",
+        "miniSprite": "0149",
         "showdown": "dragonite",
         "showdownDef": "Dragonite",
         "smogon": "dragonite"
-    },
-    "imgs": {
-        "home": "0149",
-        "menu": "0149"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "dragonite"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0149",
+        "menu": "0149"
+    }
 }

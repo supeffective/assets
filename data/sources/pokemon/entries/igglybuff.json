@@ -101,20 +101,20 @@
         "veekunDb": "igglybuff",
         "serebii": "igglybuff",
         "bulbapedia": "Igglybuff",
-        "homeSprite": "igglybuff",
-        "miniSprite": "igglybuff",
+        "homeSprite": "0174",
+        "miniSprite": "0174",
         "showdown": "igglybuff",
         "showdownDef": "Igglybuff",
         "smogon": "igglybuff"
-    },
-    "imgs": {
-        "home": "0174",
-        "menu": "0174"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "igglybuff"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0174",
+        "menu": "0174"
+    }
 }

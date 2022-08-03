@@ -99,20 +99,20 @@
         "veekunDb": "treecko",
         "serebii": "treecko",
         "bulbapedia": "Treecko",
-        "homeSprite": "treecko",
-        "miniSprite": "treecko",
+        "homeSprite": "0252",
+        "miniSprite": "0252",
         "showdown": "treecko",
         "showdownDef": "Treecko",
         "smogon": "treecko"
-    },
-    "imgs": {
-        "home": "0252",
-        "menu": "0252"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "treecko"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0252",
+        "menu": "0252"
+    }
 }

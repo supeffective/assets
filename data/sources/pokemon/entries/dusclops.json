@@ -101,20 +101,20 @@
         "veekunDb": "dusclops",
         "serebii": "dusclops",
         "bulbapedia": "Dusclops",
-        "homeSprite": "dusclops",
-        "miniSprite": "dusclops",
+        "homeSprite": "0356",
+        "miniSprite": "0356",
         "showdown": "dusclops",
         "showdownDef": "Dusclops",
         "smogon": "dusclops"
-    },
-    "imgs": {
-        "home": "0356",
-        "menu": "0356"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "dusclops"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0356",
+        "menu": "0356"
+    }
 }

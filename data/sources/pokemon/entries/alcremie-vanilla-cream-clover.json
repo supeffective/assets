@@ -80,18 +80,18 @@
         "veekunDb": "alcremie-vanilla-cream-clover",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
-        "homeSprite": "alcremie-vanilla-cream-clover",
-        "miniSprite": "alcremie-vanilla-cream-clover",
+        "homeSprite": "0869-vanilla-cream-clover",
+        "miniSprite": "0869-vanilla-cream-clover",
         "showdown": "alcremie",
         "showdownDef": "Alcremie-Vanilla-Cream-Clover",
         "smogon": "alcremie-vanilla-cream-clover"
     },
-    "imgs": {
-        "home": "0869-vanilla-cream-clover",
-        "menu": "0869-vanilla-cream-clover"
-    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0869-vanilla-cream-clover",
+        "menu": "0869-vanilla-cream-clover"
+    }
 }

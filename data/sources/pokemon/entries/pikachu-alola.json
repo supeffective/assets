@@ -84,18 +84,18 @@
         "veekunDb": "pikachu-alola",
         "serebii": "pikachu",
         "bulbapedia": "Pikachu",
-        "homeSprite": "pikachu-alola",
-        "miniSprite": "pikachu-alola",
+        "homeSprite": "0025-alola",
+        "miniSprite": "0025-alola",
         "showdown": "pikachualola",
         "showdownDef": "Pikachu-Alola",
         "smogon": "pikachu-alola"
     },
-    "imgs": {
-        "home": "0025-alola",
-        "menu": "0025-alola"
-    },
     "baseSpecies": "pikachu",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0025-alola",
+        "menu": "0025-alola"
+    }
 }

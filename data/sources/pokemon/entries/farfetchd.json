@@ -105,15 +105,11 @@
         "veekunDb": "farfetchd",
         "serebii": "farfetchd",
         "bulbapedia": "Farfetch’d",
-        "homeSprite": "farfetchd",
-        "miniSprite": "farfetchd",
+        "homeSprite": "0083",
+        "miniSprite": "0083",
         "showdown": "farfetchd",
         "showdownDef": "Farfetchd",
         "smogon": "farfetchd"
-    },
-    "imgs": {
-        "home": "0083",
-        "menu": "0083"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -121,5 +117,9 @@
         "farfetchd",
         "farfetchd-galar"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0083",
+        "menu": "0083"
+    }
 }

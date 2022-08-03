@@ -79,20 +79,20 @@
         "veekunDb": "smoliv",
         "serebii": "smoliv",
         "bulbapedia": "Smoliv",
-        "homeSprite": "smoliv",
-        "miniSprite": "smoliv",
+        "homeSprite": "9030",
+        "miniSprite": "9030",
         "showdown": "smoliv",
         "showdownDef": "Smoliv",
         "smogon": "smoliv"
-    },
-    "imgs": {
-        "home": "9030",
-        "menu": "9030"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "smoliv"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "9030",
+        "menu": "9030"
+    }
 }

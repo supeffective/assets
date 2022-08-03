@@ -107,20 +107,20 @@
         "veekunDb": "machoke",
         "serebii": "machoke",
         "bulbapedia": "Machoke",
-        "homeSprite": "machoke",
-        "miniSprite": "machoke",
+        "homeSprite": "0067",
+        "miniSprite": "0067",
         "showdown": "machoke",
         "showdownDef": "Machoke",
         "smogon": "machoke"
-    },
-    "imgs": {
-        "home": "0067",
-        "menu": "0067"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "machoke"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0067",
+        "menu": "0067"
+    }
 }

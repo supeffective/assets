@@ -95,15 +95,11 @@
         "veekunDb": "bidoof",
         "serebii": "bidoof",
         "bulbapedia": "Bidoof",
-        "homeSprite": "bidoof",
-        "miniSprite": "bidoof",
+        "homeSprite": "0399",
+        "miniSprite": "0399",
         "showdown": "bidoof",
         "showdownDef": "Bidoof",
         "smogon": "bidoof"
-    },
-    "imgs": {
-        "home": "0399",
-        "menu": "0399"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -111,5 +107,9 @@
         "bidoof",
         "bidoof-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0399",
+        "menu": "0399"
+    }
 }

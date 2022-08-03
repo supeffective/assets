@@ -90,20 +90,20 @@
         "veekunDb": "gigalith",
         "serebii": "gigalith",
         "bulbapedia": "Gigalith",
-        "homeSprite": "gigalith",
-        "miniSprite": "gigalith",
+        "homeSprite": "0526",
+        "miniSprite": "0526",
         "showdown": "gigalith",
         "showdownDef": "Gigalith",
         "smogon": "gigalith"
-    },
-    "imgs": {
-        "home": "0526",
-        "menu": "0526"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "gigalith"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0526",
+        "menu": "0526"
+    }
 }

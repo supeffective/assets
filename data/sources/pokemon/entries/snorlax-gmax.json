@@ -77,20 +77,20 @@
         "veekunDb": "snorlax-gmax",
         "serebii": "snorlax",
         "bulbapedia": "Snorlax",
-        "homeSprite": "snorlax-gmax",
-        "miniSprite": "snorlax-gmax",
+        "homeSprite": "0143-gmax",
+        "miniSprite": "0143-gmax",
         "showdown": "snorlaxgmax",
         "showdownDef": "Snorlax-Gmax",
         "smogon": "snorlax-gmax"
-    },
-    "imgs": {
-        "home": "0143-gmax",
-        "menu": "0143-gmax"
     },
     "baseSpecies": "snorlax",
     "baseForms": [
         "snorlax"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0143-gmax",
+        "menu": "0143-gmax"
+    }
 }

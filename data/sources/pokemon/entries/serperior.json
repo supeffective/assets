@@ -88,20 +88,20 @@
         "veekunDb": "serperior",
         "serebii": "serperior",
         "bulbapedia": "Serperior",
-        "homeSprite": "serperior",
-        "miniSprite": "serperior",
+        "homeSprite": "0497",
+        "miniSprite": "0497",
         "showdown": "serperior",
         "showdownDef": "Serperior",
         "smogon": "serperior"
-    },
-    "imgs": {
-        "home": "0497",
-        "menu": "0497"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "serperior"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0497",
+        "menu": "0497"
+    }
 }

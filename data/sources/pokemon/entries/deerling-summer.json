@@ -88,18 +88,18 @@
         "veekunDb": "deerling-summer",
         "serebii": "deerling",
         "bulbapedia": "Deerling",
-        "homeSprite": "deerling-summer",
-        "miniSprite": "deerling-summer",
+        "homeSprite": "0585-summer",
+        "miniSprite": "0585-summer",
         "showdown": "deerling",
         "showdownDef": "Deerling-Summer",
         "smogon": "deerling-summer"
     },
-    "imgs": {
-        "home": "0585-summer",
-        "menu": "0585-summer"
-    },
     "baseSpecies": "deerling",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0585-summer",
+        "menu": "0585-summer"
+    }
 }

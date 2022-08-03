@@ -80,15 +80,11 @@
         "veekunDb": "duraludon",
         "serebii": "duraludon",
         "bulbapedia": "Duraludon",
-        "homeSprite": "duraludon",
-        "miniSprite": "duraludon",
+        "homeSprite": "0884",
+        "miniSprite": "0884",
         "showdown": "duraludon",
         "showdownDef": "Duraludon",
         "smogon": "duraludon"
-    },
-    "imgs": {
-        "home": "0884",
-        "menu": "0884"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -96,5 +92,9 @@
         "duraludon",
         "duraludon-gmax"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0884",
+        "menu": "0884"
+    }
 }

@@ -95,18 +95,18 @@
         "veekunDb": "wormadam-sandy",
         "serebii": "wormadam",
         "bulbapedia": "Wormadam",
-        "homeSprite": "wormadam-sandy",
-        "miniSprite": "wormadam-sandy",
+        "homeSprite": "0413-sandy",
+        "miniSprite": "0413-sandy",
         "showdown": "wormadamsandy",
         "showdownDef": "Wormadam-Sandy",
         "smogon": "wormadam-sandy"
     },
-    "imgs": {
-        "home": "0413-sandy",
-        "menu": "0413-sandy"
-    },
     "baseSpecies": "wormadam",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0413-sandy",
+        "menu": "0413-sandy"
+    }
 }

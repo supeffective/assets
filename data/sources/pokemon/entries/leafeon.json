@@ -97,20 +97,20 @@
         "veekunDb": "leafeon",
         "serebii": "leafeon",
         "bulbapedia": "Leafeon",
-        "homeSprite": "leafeon",
-        "miniSprite": "leafeon",
+        "homeSprite": "0470",
+        "miniSprite": "0470",
         "showdown": "leafeon",
         "showdownDef": "Leafeon",
         "smogon": "leafeon"
-    },
-    "imgs": {
-        "home": "0470",
-        "menu": "0470"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "leafeon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0470",
+        "menu": "0470"
+    }
 }

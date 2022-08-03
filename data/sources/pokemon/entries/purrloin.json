@@ -90,20 +90,20 @@
         "veekunDb": "purrloin",
         "serebii": "purrloin",
         "bulbapedia": "Purrloin",
-        "homeSprite": "purrloin",
-        "miniSprite": "purrloin",
+        "homeSprite": "0509",
+        "miniSprite": "0509",
         "showdown": "purrloin",
         "showdownDef": "Purrloin",
         "smogon": "purrloin"
-    },
-    "imgs": {
-        "home": "0509",
-        "menu": "0509"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "purrloin"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0509",
+        "menu": "0509"
+    }
 }

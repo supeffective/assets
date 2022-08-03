@@ -97,20 +97,20 @@
         "veekunDb": "lickilicky",
         "serebii": "lickilicky",
         "bulbapedia": "Lickilicky",
-        "homeSprite": "lickilicky",
-        "miniSprite": "lickilicky",
+        "homeSprite": "0463",
+        "miniSprite": "0463",
         "showdown": "lickilicky",
         "showdownDef": "Lickilicky",
         "smogon": "lickilicky"
-    },
-    "imgs": {
-        "home": "0463",
-        "menu": "0463"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "lickilicky"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0463",
+        "menu": "0463"
+    }
 }

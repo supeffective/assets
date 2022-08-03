@@ -86,20 +86,20 @@
         "veekunDb": "brionne",
         "serebii": "brionne",
         "bulbapedia": "Brionne",
-        "homeSprite": "brionne",
-        "miniSprite": "brionne",
+        "homeSprite": "0729",
+        "miniSprite": "0729",
         "showdown": "brionne",
         "showdownDef": "Brionne",
         "smogon": "brionne"
-    },
-    "imgs": {
-        "home": "0729",
-        "menu": "0729"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "brionne"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0729",
+        "menu": "0729"
+    }
 }

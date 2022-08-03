@@ -80,15 +80,11 @@
         "veekunDb": "centiskorch",
         "serebii": "centiskorch",
         "bulbapedia": "Centiskorch",
-        "homeSprite": "centiskorch",
-        "miniSprite": "centiskorch",
+        "homeSprite": "0851",
+        "miniSprite": "0851",
         "showdown": "centiskorch",
         "showdownDef": "Centiskorch",
         "smogon": "centiskorch"
-    },
-    "imgs": {
-        "home": "0851",
-        "menu": "0851"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -96,5 +92,9 @@
         "centiskorch",
         "centiskorch-gmax"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0851",
+        "menu": "0851"
+    }
 }

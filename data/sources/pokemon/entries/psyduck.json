@@ -107,20 +107,20 @@
         "veekunDb": "psyduck",
         "serebii": "psyduck",
         "bulbapedia": "Psyduck",
-        "homeSprite": "psyduck",
-        "miniSprite": "psyduck",
+        "homeSprite": "0054",
+        "miniSprite": "0054",
         "showdown": "psyduck",
         "showdownDef": "Psyduck",
         "smogon": "psyduck"
-    },
-    "imgs": {
-        "home": "0054",
-        "menu": "0054"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "psyduck"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0054",
+        "menu": "0054"
+    }
 }

@@ -101,15 +101,11 @@
         "veekunDb": "politoed",
         "serebii": "politoed",
         "bulbapedia": "Politoed",
-        "homeSprite": "politoed",
-        "miniSprite": "politoed",
+        "homeSprite": "0186",
+        "miniSprite": "0186",
         "showdown": "politoed",
         "showdownDef": "Politoed",
         "smogon": "politoed"
-    },
-    "imgs": {
-        "home": "0186",
-        "menu": "0186"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -117,5 +113,9 @@
         "politoed",
         "politoed-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0186",
+        "menu": "0186"
+    }
 }

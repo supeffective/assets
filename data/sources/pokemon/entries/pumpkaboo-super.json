@@ -87,18 +87,18 @@
         "veekunDb": "pumpkaboo-super",
         "serebii": "pumpkaboo",
         "bulbapedia": "Pumpkaboo",
-        "homeSprite": "pumpkaboo-super",
-        "miniSprite": "pumpkaboo-super",
+        "homeSprite": "0710-super",
+        "miniSprite": "0710-super",
         "showdown": "pumpkaboosuper",
         "showdownDef": "Pumpkaboo-Super",
         "smogon": "pumpkaboo-super"
     },
-    "imgs": {
-        "home": "0710-super",
-        "menu": "0710-super"
-    },
     "baseSpecies": "pumpkaboo",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0710-super",
+        "menu": "0710-super"
+    }
 }

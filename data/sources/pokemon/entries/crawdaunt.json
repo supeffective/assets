@@ -99,20 +99,20 @@
         "veekunDb": "crawdaunt",
         "serebii": "crawdaunt",
         "bulbapedia": "Crawdaunt",
-        "homeSprite": "crawdaunt",
-        "miniSprite": "crawdaunt",
+        "homeSprite": "0342",
+        "miniSprite": "0342",
         "showdown": "crawdaunt",
         "showdownDef": "Crawdaunt",
         "smogon": "crawdaunt"
-    },
-    "imgs": {
-        "home": "0342",
-        "menu": "0342"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "crawdaunt"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0342",
+        "menu": "0342"
+    }
 }

@@ -101,20 +101,20 @@
         "veekunDb": "spheal",
         "serebii": "spheal",
         "bulbapedia": "Spheal",
-        "homeSprite": "spheal",
-        "miniSprite": "spheal",
+        "homeSprite": "0363",
+        "miniSprite": "0363",
         "showdown": "spheal",
         "showdownDef": "Spheal",
         "smogon": "spheal"
-    },
-    "imgs": {
-        "home": "0363",
-        "menu": "0363"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "spheal"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0363",
+        "menu": "0363"
+    }
 }

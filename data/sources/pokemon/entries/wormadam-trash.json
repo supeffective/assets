@@ -95,18 +95,18 @@
         "veekunDb": "wormadam-trash",
         "serebii": "wormadam",
         "bulbapedia": "Wormadam",
-        "homeSprite": "wormadam-trash",
-        "miniSprite": "wormadam-trash",
+        "homeSprite": "0413-trash",
+        "miniSprite": "0413-trash",
         "showdown": "wormadamtrash",
         "showdownDef": "Wormadam-Trash",
         "smogon": "wormadam-trash"
     },
-    "imgs": {
-        "home": "0413-trash",
-        "menu": "0413-trash"
-    },
     "baseSpecies": "wormadam",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0413-trash",
+        "menu": "0413-trash"
+    }
 }

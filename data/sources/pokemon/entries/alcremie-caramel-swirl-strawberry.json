@@ -80,18 +80,18 @@
         "veekunDb": "alcremie-caramel-swirl-strawberry",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
-        "homeSprite": "alcremie-caramel-swirl-strawberry",
-        "miniSprite": "alcremie-caramel-swirl-strawberry",
+        "homeSprite": "0869-caramel-swirl-strawberry",
+        "miniSprite": "0869-caramel-swirl-strawberry",
         "showdown": "alcremie",
         "showdownDef": "Alcremie-Caramel-Swirl-Strawberry",
         "smogon": "alcremie-caramel-swirl-strawberry"
     },
-    "imgs": {
-        "home": "0869-caramel-swirl-strawberry",
-        "menu": "0869-caramel-swirl-strawberry"
-    },
     "baseSpecies": "alcremie",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0869-caramel-swirl-strawberry",
+        "menu": "0869-caramel-swirl-strawberry"
+    }
 }

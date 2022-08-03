@@ -103,20 +103,20 @@
         "veekunDb": "pichu",
         "serebii": "pichu",
         "bulbapedia": "Pichu",
-        "homeSprite": "pichu",
-        "miniSprite": "pichu",
+        "homeSprite": "0172",
+        "miniSprite": "0172",
         "showdown": "pichu",
         "showdownDef": "Pichu",
         "smogon": "pichu"
-    },
-    "imgs": {
-        "home": "0172",
-        "menu": "0172"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "pichu"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0172",
+        "menu": "0172"
+    }
 }

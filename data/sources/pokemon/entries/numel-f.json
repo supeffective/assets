@@ -92,18 +92,18 @@
         "veekunDb": "numel",
         "serebii": "numel",
         "bulbapedia": "Numel",
-        "homeSprite": "numel-f",
-        "miniSprite": "numel-f",
+        "homeSprite": "0322-f",
+        "miniSprite": "0322",
         "showdown": "numel",
         "showdownDef": "Numel",
         "smogon": "numel"
     },
-    "imgs": {
-        "home": "0322-f",
-        "menu": "0322"
-    },
     "baseSpecies": "numel",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0322-f",
+        "menu": "0322"
+    }
 }

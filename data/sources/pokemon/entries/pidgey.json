@@ -103,20 +103,20 @@
         "veekunDb": "pidgey",
         "serebii": "pidgey",
         "bulbapedia": "Pidgey",
-        "homeSprite": "pidgey",
-        "miniSprite": "pidgey",
+        "homeSprite": "0016",
+        "miniSprite": "0016",
         "showdown": "pidgey",
         "showdownDef": "Pidgey",
         "smogon": "pidgey"
-    },
-    "imgs": {
-        "home": "0016",
-        "menu": "0016"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "pidgey"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0016",
+        "menu": "0016"
+    }
 }

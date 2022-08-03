@@ -97,18 +97,18 @@
         "veekunDb": "gabite",
         "serebii": "gabite",
         "bulbapedia": "Gabite",
-        "homeSprite": "gabite-f",
-        "miniSprite": "gabite-f",
+        "homeSprite": "0444-f",
+        "miniSprite": "0444",
         "showdown": "gabite",
         "showdownDef": "Gabite",
         "smogon": "gabite"
     },
-    "imgs": {
-        "home": "0444-f",
-        "menu": "0444"
-    },
     "baseSpecies": "gabite",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0444-f",
+        "menu": "0444"
+    }
 }

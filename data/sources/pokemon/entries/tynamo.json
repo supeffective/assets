@@ -88,20 +88,20 @@
         "veekunDb": "tynamo",
         "serebii": "tynamo",
         "bulbapedia": "Tynamo",
-        "homeSprite": "tynamo",
-        "miniSprite": "tynamo",
+        "homeSprite": "0602",
+        "miniSprite": "0602",
         "showdown": "tynamo",
         "showdownDef": "Tynamo",
         "smogon": "tynamo"
-    },
-    "imgs": {
-        "home": "0602",
-        "menu": "0602"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "tynamo"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0602",
+        "menu": "0602"
+    }
 }

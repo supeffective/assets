@@ -99,20 +99,20 @@
         "veekunDb": "chimecho",
         "serebii": "chimecho",
         "bulbapedia": "Chimecho",
-        "homeSprite": "chimecho",
-        "miniSprite": "chimecho",
+        "homeSprite": "0358",
+        "miniSprite": "0358",
         "showdown": "chimecho",
         "showdownDef": "Chimecho",
         "smogon": "chimecho"
-    },
-    "imgs": {
-        "home": "0358",
-        "menu": "0358"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "chimecho"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0358",
+        "menu": "0358"
+    }
 }

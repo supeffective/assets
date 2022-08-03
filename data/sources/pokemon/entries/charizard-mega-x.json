@@ -78,20 +78,20 @@
         "veekunDb": "charizard-mega-x",
         "serebii": "charizard",
         "bulbapedia": "Charizard",
-        "homeSprite": "charizard-mega-x",
-        "miniSprite": "charizard-mega-x",
+        "homeSprite": "0006-mega-x",
+        "miniSprite": "0006-mega-x",
         "showdown": "charizardmegax",
         "showdownDef": "Charizard-Mega-X",
         "smogon": "charizard-mega-x"
-    },
-    "imgs": {
-        "home": "0006-mega-x",
-        "menu": "0006-mega-x"
     },
     "baseSpecies": "charizard",
     "baseForms": [
         "charizard"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0006-mega-x",
+        "menu": "0006-mega-x"
+    }
 }

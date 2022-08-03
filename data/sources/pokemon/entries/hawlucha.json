@@ -85,20 +85,20 @@
         "veekunDb": "hawlucha",
         "serebii": "hawlucha",
         "bulbapedia": "Hawlucha",
-        "homeSprite": "hawlucha",
-        "miniSprite": "hawlucha",
+        "homeSprite": "0701",
+        "miniSprite": "0701",
         "showdown": "hawlucha",
         "showdownDef": "Hawlucha",
         "smogon": "hawlucha"
-    },
-    "imgs": {
-        "home": "0701",
-        "menu": "0701"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "hawlucha"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0701",
+        "menu": "0701"
+    }
 }

@@ -80,20 +80,20 @@
         "veekunDb": "sizzlipede",
         "serebii": "sizzlipede",
         "bulbapedia": "Sizzlipede",
-        "homeSprite": "sizzlipede",
-        "miniSprite": "sizzlipede",
+        "homeSprite": "0850",
+        "miniSprite": "0850",
         "showdown": "sizzlipede",
         "showdownDef": "Sizzlipede",
         "smogon": "sizzlipede"
-    },
-    "imgs": {
-        "home": "0850",
-        "menu": "0850"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "sizzlipede"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0850",
+        "menu": "0850"
+    }
 }

@@ -107,20 +107,20 @@
         "veekunDb": "flareon",
         "serebii": "flareon",
         "bulbapedia": "Flareon",
-        "homeSprite": "flareon",
-        "miniSprite": "flareon",
+        "homeSprite": "0136",
+        "miniSprite": "0136",
         "showdown": "flareon",
         "showdownDef": "Flareon",
         "smogon": "flareon"
-    },
-    "imgs": {
-        "home": "0136",
-        "menu": "0136"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "flareon"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0136",
+        "menu": "0136"
+    }
 }

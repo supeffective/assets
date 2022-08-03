@@ -99,15 +99,11 @@
         "veekunDb": "linoone",
         "serebii": "linoone",
         "bulbapedia": "Linoone",
-        "homeSprite": "linoone",
-        "miniSprite": "linoone",
+        "homeSprite": "0264",
+        "miniSprite": "0264",
         "showdown": "linoone",
         "showdownDef": "Linoone",
         "smogon": "linoone"
-    },
-    "imgs": {
-        "home": "0264",
-        "menu": "0264"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -115,5 +111,9 @@
         "linoone",
         "linoone-galar"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0264",
+        "menu": "0264"
+    }
 }

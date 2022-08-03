@@ -107,20 +107,20 @@
         "veekunDb": "tentacruel",
         "serebii": "tentacruel",
         "bulbapedia": "Tentacruel",
-        "homeSprite": "tentacruel",
-        "miniSprite": "tentacruel",
+        "homeSprite": "0073",
+        "miniSprite": "0073",
         "showdown": "tentacruel",
         "showdownDef": "Tentacruel",
         "smogon": "tentacruel"
-    },
-    "imgs": {
-        "home": "0073",
-        "menu": "0073"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "tentacruel"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0073",
+        "menu": "0073"
+    }
 }

@@ -99,20 +99,20 @@
         "veekunDb": "exploud",
         "serebii": "exploud",
         "bulbapedia": "Exploud",
-        "homeSprite": "exploud",
-        "miniSprite": "exploud",
+        "homeSprite": "0295",
+        "miniSprite": "0295",
         "showdown": "exploud",
         "showdownDef": "Exploud",
         "smogon": "exploud"
-    },
-    "imgs": {
-        "home": "0295",
-        "menu": "0295"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "exploud"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0295",
+        "menu": "0295"
+    }
 }

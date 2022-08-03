@@ -105,20 +105,20 @@
         "veekunDb": "kabutops",
         "serebii": "kabutops",
         "bulbapedia": "Kabutops",
-        "homeSprite": "kabutops",
-        "miniSprite": "kabutops",
+        "homeSprite": "0141",
+        "miniSprite": "0141",
         "showdown": "kabutops",
         "showdownDef": "Kabutops",
         "smogon": "kabutops"
-    },
-    "imgs": {
-        "home": "0141",
-        "menu": "0141"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "kabutops"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0141",
+        "menu": "0141"
+    }
 }

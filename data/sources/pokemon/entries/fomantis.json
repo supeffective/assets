@@ -86,20 +86,20 @@
         "veekunDb": "fomantis",
         "serebii": "fomantis",
         "bulbapedia": "Fomantis",
-        "homeSprite": "fomantis",
-        "miniSprite": "fomantis",
+        "homeSprite": "0753",
+        "miniSprite": "0753",
         "showdown": "fomantis",
         "showdownDef": "Fomantis",
         "smogon": "fomantis"
-    },
-    "imgs": {
-        "home": "0753",
-        "menu": "0753"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "fomantis"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0753",
+        "menu": "0753"
+    }
 }

@@ -83,20 +83,20 @@
         "veekunDb": "silvally-psychic",
         "serebii": "silvally",
         "bulbapedia": "Silvally",
-        "homeSprite": "silvally-psychic",
-        "miniSprite": "silvally-psychic",
+        "homeSprite": "0773-psychic",
+        "miniSprite": "0773-psychic",
         "showdown": "silvallypsychic",
         "showdownDef": "Silvally-Psychic",
         "smogon": "silvally-psychic"
-    },
-    "imgs": {
-        "home": "0773-psychic",
-        "menu": "0773-psychic"
     },
     "baseSpecies": "silvally",
     "baseForms": [
         "silvally"
     ],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0773-psychic",
+        "menu": "0773-psychic"
+    }
 }

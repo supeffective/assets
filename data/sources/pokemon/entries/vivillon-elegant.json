@@ -83,18 +83,18 @@
         "veekunDb": "vivillon-elegant",
         "serebii": "vivillon",
         "bulbapedia": "Vivillon",
-        "homeSprite": "vivillon-elegant",
-        "miniSprite": "vivillon-elegant",
+        "homeSprite": "0666-elegant",
+        "miniSprite": "0666-elegant",
         "showdown": "vivillon",
         "showdownDef": "Vivillon-Elegant",
         "smogon": "vivillon-elegant"
     },
-    "imgs": {
-        "home": "0666-elegant",
-        "menu": "0666-elegant"
-    },
     "baseSpecies": "vivillon",
     "baseForms": [],
     "forms": null,
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0666-elegant",
+        "menu": "0666-elegant"
+    }
 }

@@ -90,15 +90,11 @@
         "veekunDb": "jellicent",
         "serebii": "jellicent",
         "bulbapedia": "Jellicent",
-        "homeSprite": "jellicent",
-        "miniSprite": "jellicent",
+        "homeSprite": "0593",
+        "miniSprite": "0593",
         "showdown": "jellicent",
         "showdownDef": "Jellicent",
         "smogon": "jellicent"
-    },
-    "imgs": {
-        "home": "0593",
-        "menu": "0593"
     },
     "baseSpecies": null,
     "baseForms": [],
@@ -106,5 +102,9 @@
         "jellicent",
         "jellicent-f"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0593",
+        "menu": "0593"
+    }
 }

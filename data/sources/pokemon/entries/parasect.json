@@ -105,20 +105,20 @@
         "veekunDb": "parasect",
         "serebii": "parasect",
         "bulbapedia": "Parasect",
-        "homeSprite": "parasect",
-        "miniSprite": "parasect",
+        "homeSprite": "0047",
+        "miniSprite": "0047",
         "showdown": "parasect",
         "showdownDef": "Parasect",
         "smogon": "parasect"
-    },
-    "imgs": {
-        "home": "0047",
-        "menu": "0047"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "parasect"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0047",
+        "menu": "0047"
+    }
 }

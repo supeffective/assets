@@ -90,20 +90,20 @@
         "veekunDb": "golett",
         "serebii": "golett",
         "bulbapedia": "Golett",
-        "homeSprite": "golett",
-        "miniSprite": "golett",
+        "homeSprite": "0622",
+        "miniSprite": "0622",
         "showdown": "golett",
         "showdownDef": "Golett",
         "smogon": "golett"
-    },
-    "imgs": {
-        "home": "0622",
-        "menu": "0622"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "golett"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0622",
+        "menu": "0622"
+    }
 }

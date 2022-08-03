@@ -87,20 +87,20 @@
         "veekunDb": "slurpuff",
         "serebii": "slurpuff",
         "bulbapedia": "Slurpuff",
-        "homeSprite": "slurpuff",
-        "miniSprite": "slurpuff",
+        "homeSprite": "0685",
+        "miniSprite": "0685",
         "showdown": "slurpuff",
         "showdownDef": "Slurpuff",
         "smogon": "slurpuff"
-    },
-    "imgs": {
-        "home": "0685",
-        "menu": "0685"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
         "slurpuff"
     ],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0685",
+        "menu": "0685"
+    }
 }

@@ -79,18 +79,18 @@
         "veekunDb": null,
         "serebii": "dialga",
         "bulbapedia": "Dialga",
-        "homeSprite": "dialga-origin",
-        "miniSprite": "dialga-origin",
+        "homeSprite": "0483-origin",
+        "miniSprite": "0483-origin",
         "showdown": "dialgaorigin",
         "showdownDef": "Dialga-Origin",
         "smogon": "dialga-origin"
     },
-    "imgs": {
-        "home": "0483-origin",
-        "menu": "0483-origin"
-    },
     "baseSpecies": "dialga",
     "baseForms": [],
     "forms": [],
-    "evolutions": []
+    "evolutions": [],
+    "imgs": {
+        "home": "0483-origin",
+        "menu": "0483-origin"
+    }
 }
