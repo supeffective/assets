@@ -11,7 +11,6 @@
     <script src="https://cdn.jsdelivr.net/npm/jsoneditor@9.8.0/dist/jsoneditor.min.js"></script>
 
     <link rel="stylesheet" href="/assets/spritesheets/pokemon/spritesheet.css">
-    <link rel="stylesheet" href="/assets/spritesheets/pokemon/spritesheet-fixes.css">
     <link rel="stylesheet" href="/assets/styles.css">
 </head>
 <body>
