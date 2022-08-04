@@ -108,9 +108,5 @@
     "forms": [
         "volbeat"
     ],
-    "evolutions": [],
-    "imgs": {
-        "home": "0313",
-        "menu": "0313"
-    }
+    "evolutions": []
 }

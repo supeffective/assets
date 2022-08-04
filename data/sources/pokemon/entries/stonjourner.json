@@ -91,9 +91,5 @@
     "forms": [
         "stonjourner"
     ],
-    "evolutions": [],
-    "imgs": {
-        "home": "0874",
-        "menu": "0874"
-    }
+    "evolutions": []
 }

@@ -112,9 +112,5 @@
     "forms": [
         "whiscash"
     ],
-    "evolutions": [],
-    "imgs": {
-        "home": "0340",
-        "menu": "0340"
-    }
+    "evolutions": []
 }

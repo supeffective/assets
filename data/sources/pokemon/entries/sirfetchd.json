@@ -93,9 +93,5 @@
     "forms": [
         "sirfetchd"
     ],
-    "evolutions": [],
-    "imgs": {
-        "home": "0865",
-        "menu": "0865"
-    }
+    "evolutions": []
 }

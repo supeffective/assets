@@ -98,9 +98,5 @@
         "oricorio-pau",
         "oricorio-sensu"
     ],
-    "evolutions": [],
-    "imgs": {
-        "home": "0741",
-        "menu": "0741"
-    }
+    "evolutions": []
 }

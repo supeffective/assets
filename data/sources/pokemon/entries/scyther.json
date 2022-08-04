@@ -119,9 +119,5 @@
         "scyther",
         "scyther-f"
     ],
-    "evolutions": [],
-    "imgs": {
-        "home": "0123",
-        "menu": "0123"
-    }
+    "evolutions": []
 }

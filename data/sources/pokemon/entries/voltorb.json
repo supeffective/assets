@@ -115,9 +115,5 @@
         "voltorb",
         "voltorb-hisui"
     ],
-    "evolutions": [],
-    "imgs": {
-        "home": "0100",
-        "menu": "0100"
-    }
+    "evolutions": []
 }

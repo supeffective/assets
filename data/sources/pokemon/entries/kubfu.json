@@ -91,9 +91,5 @@
     "forms": [
         "kubfu"
     ],
-    "evolutions": [],
-    "imgs": {
-        "home": "0891",
-        "menu": "0891"
-    }
+    "evolutions": []
 }

@@ -109,9 +109,5 @@
         "dialga",
         "dialga-origin"
     ],
-    "evolutions": [],
-    "imgs": {
-        "home": "0483",
-        "menu": "0483"
-    }
+    "evolutions": []
 }

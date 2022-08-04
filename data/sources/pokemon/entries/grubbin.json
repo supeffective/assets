@@ -95,9 +95,5 @@
     "forms": [
         "grubbin"
     ],
-    "evolutions": [],
-    "imgs": {
-        "home": "0736",
-        "menu": "0736"
-    }
+    "evolutions": []
 }

@@ -98,9 +98,5 @@
         "rockruff",
         "rockruff--own-tempo"
     ],
-    "evolutions": [],
-    "imgs": {
-        "home": "0744",
-        "menu": "0744"
-    }
+    "evolutions": []
 }

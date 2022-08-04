@@ -91,9 +91,5 @@
     "forms": [
         "raboot"
     ],
-    "evolutions": [],
-    "imgs": {
-        "home": "0814",
-        "menu": "0814"
-    }
+    "evolutions": []
 }

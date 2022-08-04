@@ -103,9 +103,5 @@
     "forms": [
         "rufflet"
     ],
-    "evolutions": [],
-    "imgs": {
-        "home": "0627",
-        "menu": "0627"
-    }
+    "evolutions": []
 }

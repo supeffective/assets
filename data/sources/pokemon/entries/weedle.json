@@ -114,9 +114,5 @@
     "forms": [
         "weedle"
     ],
-    "evolutions": [],
-    "imgs": {
-        "home": "0013",
-        "menu": "0013"
-    }
+    "evolutions": []
 }

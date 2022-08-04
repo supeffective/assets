@@ -109,9 +109,5 @@
         "luxio",
         "luxio-f"
     ],
-    "evolutions": [],
-    "imgs": {
-        "home": "0404",
-        "menu": "0404"
-    }
+    "evolutions": []
 }

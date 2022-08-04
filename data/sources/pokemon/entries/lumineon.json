@@ -107,9 +107,5 @@
         "lumineon",
         "lumineon-f"
     ],
-    "evolutions": [],
-    "imgs": {
-        "home": "0457",
-        "menu": "0457"
-    }
+    "evolutions": []
 }

@@ -111,9 +111,5 @@
         "castform-rainy",
         "castform-snowy"
     ],
-    "evolutions": [],
-    "imgs": {
-        "home": "0351",
-        "menu": "0351"
-    }
+    "evolutions": []
 }
