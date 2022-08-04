@@ -8195,6 +8195,15 @@
         ],
         "shinyReleased": true
     },
+    "wooper-paldea": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false
+    },
     "quagsire": {
         "obtainableIn": [
             "bdsp",
@@ -29369,15 +29378,6 @@
         "shinyReleased": false
     },
     "smoliv": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": false
-    },
-    "wooper-paldea": {
         "obtainableIn": [
             "sv"
         ],

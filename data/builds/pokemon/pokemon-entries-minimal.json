@@ -11537,6 +11537,26 @@
         ]
     },
     {
+        "id": "wooper-paldea",
+        "dexNum": 194,
+        "name": "Paldean Wooper",
+        "type1": "poison",
+        "type2": "ground",
+        "isForm": true,
+        "baseSpecies": "wooper",
+        "baseForms": [],
+        "shinyReleased": false,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
         "id": "quagsire",
         "dexNum": 195,
         "name": "Quagsire",
@@ -45477,26 +45497,6 @@
         "type2": "normal",
         "isForm": false,
         "baseSpecies": null,
-        "baseForms": [],
-        "shinyReleased": false,
-        "shinyBase": null,
-        "obtainableIn": [
-            "sv"
-        ],
-        "versionExclusiveIn": [],
-        "eventOnlyIn": [],
-        "storableIn": [
-            "sv"
-        ]
-    },
-    {
-        "id": "wooper-paldea",
-        "dexNum": 194,
-        "name": "Paldean Wooper",
-        "type1": "poison",
-        "type2": "ground",
-        "isForm": true,
-        "baseSpecies": "wooper",
         "baseForms": [],
         "shinyReleased": false,
         "shinyBase": null,
