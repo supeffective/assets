@@ -45510,10 +45510,10 @@
         ]
     },
     {
-        "id": "fidough",
-        "dexNum": 9050,
-        "name": "Fidough",
-        "type1": "fairy",
+        "id": "cetitan",
+        "dexNum": 9041,
+        "name": "Cetitan",
+        "type1": "ice",
         "type2": null,
         "isForm": false,
         "baseSpecies": null,
@@ -45530,10 +45530,10 @@
         ]
     },
     {
-        "id": "cetitan",
-        "dexNum": 9040,
-        "name": "Cetitan",
-        "type1": "ice",
+        "id": "fidough",
+        "dexNum": 9051,
+        "name": "Fidough",
+        "type1": "fairy",
         "type2": null,
         "isForm": false,
         "baseSpecies": null,

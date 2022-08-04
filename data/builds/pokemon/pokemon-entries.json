@@ -149763,103 +149763,9 @@
         "evolutions": []
     },
     {
-        "id": "fidough",
-        "nid": "9050",
-        "dexNum": 9050,
-        "formId": null,
-        "name": "Fidough",
-        "formName": null,
-        "region": "paldea",
-        "generation": 9,
-        "type1": "fairy",
-        "type2": null,
-        "color": "yellow",
-        "abilities": {
-            "primary": "Own Tempo",
-            "secondary": null,
-            "hidden": null
-        },
-        "isLegendary": false,
-        "isMythical": false,
-        "isUltraBeast": false,
-        "ultraBeastCode": null,
-        "isDefault": true,
-        "isForm": false,
-        "isSpecialAbilityForm": false,
-        "isCosmeticForm": false,
-        "isFemaleForm": false,
-        "hasGenderDifferences": false,
-        "isBattleOnlyForm": false,
-        "isSwitchableForm": false,
-        "isFusion": false,
-        "fusedWith": null,
-        "isMega": false,
-        "isPrimal": false,
-        "isRegional": false,
-        "isGmax": false,
-        "canGmax": false,
-        "canDynamax": false,
-        "canBeAlpha": false,
-        "debutIn": "sv",
-        "obtainableIn": [
-            "sv"
-        ],
-        "versionExclusiveIn": [],
-        "eventOnlyIn": [],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": false,
-        "shinyBase": null,
-        "baseStats": {
-            "hp": -1,
-            "atk": -1,
-            "def": -1,
-            "spa": -1,
-            "spd": -1,
-            "spe": -1
-        },
-        "goStats": {
-            "atk": -1,
-            "def": -1,
-            "sta": -1
-        },
-        "weight": {
-            "avg": -1,
-            "min": -1,
-            "max": -1,
-            "alpha": -1
-        },
-        "height": {
-            "avg": -1,
-            "min": -1,
-            "max": -1,
-            "alpha": -1
-        },
-        "maleRate": -1,
-        "femaleRate": -1,
-        "refs": {
-            "pogo": null,
-            "veekunDb": null,
-            "smogon": null,
-            "showdown": null,
-            "showdownDef": null,
-            "serebii": null,
-            "bulbapedia": null,
-            "homeSprite": "9050",
-            "miniSprite": "9050"
-        },
-        "baseSpecies": null,
-        "baseForms": [],
-        "forms": [
-            "fidough"
-        ],
-        "evolutions": []
-    },
-    {
         "id": "cetitan",
-        "nid": "9040",
-        "dexNum": 9040,
+        "nid": "9041",
+        "dexNum": 9041,
         "formId": null,
         "name": "Cetitan",
         "formName": null,
@@ -149940,13 +149846,107 @@
             "showdownDef": null,
             "serebii": null,
             "bulbapedia": null,
-            "homeSprite": "9040",
-            "miniSprite": "9040"
+            "homeSprite": "9041",
+            "miniSprite": "9041"
         },
         "baseSpecies": null,
         "baseForms": [],
         "forms": [
             "cetitan"
+        ],
+        "evolutions": []
+    },
+    {
+        "id": "fidough",
+        "nid": "9051",
+        "dexNum": 9051,
+        "formId": null,
+        "name": "Fidough",
+        "formName": null,
+        "region": "paldea",
+        "generation": 9,
+        "type1": "fairy",
+        "type2": null,
+        "color": "yellow",
+        "abilities": {
+            "primary": "Own Tempo",
+            "secondary": null,
+            "hidden": null
+        },
+        "isLegendary": false,
+        "isMythical": false,
+        "isUltraBeast": false,
+        "ultraBeastCode": null,
+        "isDefault": true,
+        "isForm": false,
+        "isSpecialAbilityForm": false,
+        "isCosmeticForm": false,
+        "isFemaleForm": false,
+        "hasGenderDifferences": false,
+        "isBattleOnlyForm": false,
+        "isSwitchableForm": false,
+        "isFusion": false,
+        "fusedWith": null,
+        "isMega": false,
+        "isPrimal": false,
+        "isRegional": false,
+        "isGmax": false,
+        "canGmax": false,
+        "canDynamax": false,
+        "canBeAlpha": false,
+        "debutIn": "sv",
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false,
+        "shinyBase": null,
+        "baseStats": {
+            "hp": -1,
+            "atk": -1,
+            "def": -1,
+            "spa": -1,
+            "spd": -1,
+            "spe": -1
+        },
+        "goStats": {
+            "atk": -1,
+            "def": -1,
+            "sta": -1
+        },
+        "weight": {
+            "avg": -1,
+            "min": -1,
+            "max": -1,
+            "alpha": -1
+        },
+        "height": {
+            "avg": -1,
+            "min": -1,
+            "max": -1,
+            "alpha": -1
+        },
+        "maleRate": -1,
+        "femaleRate": -1,
+        "refs": {
+            "pogo": null,
+            "veekunDb": null,
+            "smogon": null,
+            "showdown": null,
+            "showdownDef": null,
+            "serebii": null,
+            "bulbapedia": null,
+            "homeSprite": "9051",
+            "miniSprite": "9051"
+        },
+        "baseSpecies": null,
+        "baseForms": [],
+        "forms": [
+            "fidough"
         ],
         "evolutions": []
     },
