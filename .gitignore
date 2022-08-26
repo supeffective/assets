@@ -6,3 +6,8 @@
 /data/builds/box-presets/
 .ipynb_checkpoints/
 __pycache__
+
+dist/
+node_modules/
+vendor/
+datasrc/
