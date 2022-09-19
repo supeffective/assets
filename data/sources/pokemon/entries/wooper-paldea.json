@@ -37,10 +37,14 @@
     "canDynamax": false,
     "canBeAlpha": false,
     "debutIn": "sv",
-    "obtainableIn": ["sv"],
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": ["sv"],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
