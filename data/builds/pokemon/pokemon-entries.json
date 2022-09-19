@@ -119744,17 +119744,19 @@
         "canBeAlpha": false,
         "debutIn": "sm",
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -119843,17 +119845,19 @@
         "canBeAlpha": false,
         "debutIn": "sm",
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -119942,17 +119946,19 @@
         "canBeAlpha": false,
         "debutIn": "sm",
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -126875,17 +126881,19 @@
         "canBeAlpha": false,
         "debutIn": "sm",
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -128170,17 +128178,19 @@
         "canBeAlpha": false,
         "debutIn": "sm",
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": false,
         "shinyBase": null,
@@ -128970,17 +128980,19 @@
         "canBeAlpha": false,
         "debutIn": "sm",
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -129069,17 +129081,19 @@
         "canBeAlpha": false,
         "debutIn": "sm",
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -146868,7 +146882,7 @@
             "home",
             "swsh"
         ],
-        "shinyReleased": false,
+        "shinyReleased": true,
         "shinyBase": null,
         "baseStats": {
             "hp": 140,
@@ -149952,8 +149966,8 @@
     },
     {
         "id": "koraidon",
-        "nid": "9900",
-        "dexNum": 9900,
+        "nid": "9052",
+        "dexNum": 9052,
         "formId": null,
         "name": "Koraidon",
         "formName": null,
@@ -150031,8 +150045,8 @@
             "veekunDb": "koraidon",
             "serebii": "koraidon",
             "bulbapedia": "Koraidon",
-            "homeSprite": "9900",
-            "miniSprite": "9900",
+            "homeSprite": "9052",
+            "miniSprite": "9052",
             "showdown": "koraidon",
             "showdownDef": "Koraidon",
             "smogon": "koraidon"
@@ -150046,8 +150060,8 @@
     },
     {
         "id": "miraidon",
-        "nid": "9901",
-        "dexNum": 9901,
+        "nid": "9053",
+        "dexNum": 9053,
         "formId": null,
         "name": "Miraidon",
         "formName": null,
@@ -150125,8 +150139,8 @@
             "veekunDb": "miraidon",
             "serebii": "miraidon",
             "bulbapedia": "Miraidon",
-            "homeSprite": "9901",
-            "miniSprite": "9901",
+            "homeSprite": "9053",
+            "miniSprite": "9053",
             "showdown": "miraidon",
             "showdownDef": "Miraidon",
             "smogon": "miraidon"
@@ -150135,6 +150149,476 @@
         "baseForms": [],
         "forms": [
             "miraidon"
+        ],
+        "evolutions": []
+    },
+    {
+        "id": "cyclizar",
+        "nid": "9054",
+        "dexNum": 9054,
+        "formId": null,
+        "name": "Cyclizar",
+        "formName": null,
+        "region": "paldea",
+        "generation": 9,
+        "type1": "dragon",
+        "type2": "normal",
+        "color": "green",
+        "abilities": {
+            "primary": "shed-skin",
+            "secondary": null,
+            "hidden": null
+        },
+        "isLegendary": false,
+        "isMythical": false,
+        "isUltraBeast": false,
+        "ultraBeastCode": null,
+        "isDefault": true,
+        "isForm": false,
+        "isSpecialAbilityForm": false,
+        "isCosmeticForm": false,
+        "isFemaleForm": false,
+        "hasGenderDifferences": false,
+        "isBattleOnlyForm": false,
+        "isSwitchableForm": false,
+        "isFusion": false,
+        "fusedWith": null,
+        "isMega": false,
+        "isPrimal": false,
+        "isRegional": false,
+        "isGmax": false,
+        "canGmax": false,
+        "canDynamax": false,
+        "canBeAlpha": false,
+        "debutIn": "sv",
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false,
+        "shinyBase": null,
+        "baseStats": {
+            "hp": -1,
+            "atk": -1,
+            "def": -1,
+            "spa": -1,
+            "spd": -1,
+            "spe": -1
+        },
+        "goStats": {
+            "atk": -1,
+            "def": -1,
+            "sta": -1
+        },
+        "weight": {
+            "avg": -1,
+            "min": -1,
+            "max": -1,
+            "alpha": -1
+        },
+        "height": {
+            "avg": -1,
+            "min": -1,
+            "max": -1,
+            "alpha": -1
+        },
+        "maleRate": -1,
+        "femaleRate": -1,
+        "refs": {
+            "pogo": "Cyclizar",
+            "veekunDb": "cyclizar",
+            "serebii": "cyclizar",
+            "bulbapedia": "Cyclizar",
+            "homeSprite": "9054",
+            "miniSprite": "9054",
+            "showdown": "cyclizar",
+            "showdownDef": "Cyclizar",
+            "smogon": "cyclizar"
+        },
+        "baseSpecies": null,
+        "baseForms": [],
+        "forms": [
+            "cyclizar"
+        ],
+        "evolutions": []
+    },
+    {
+        "id": "armarouge",
+        "nid": "9055",
+        "dexNum": 9055,
+        "formId": null,
+        "name": "Armarouge",
+        "formName": null,
+        "region": "paldea",
+        "generation": 9,
+        "type1": "fire",
+        "type2": "psychic",
+        "color": "red",
+        "abilities": {
+            "primary": "flash-fire",
+            "secondary": null,
+            "hidden": null
+        },
+        "isLegendary": false,
+        "isMythical": false,
+        "isUltraBeast": false,
+        "ultraBeastCode": null,
+        "isDefault": true,
+        "isForm": false,
+        "isSpecialAbilityForm": false,
+        "isCosmeticForm": false,
+        "isFemaleForm": false,
+        "hasGenderDifferences": false,
+        "isBattleOnlyForm": false,
+        "isSwitchableForm": false,
+        "isFusion": false,
+        "fusedWith": null,
+        "isMega": false,
+        "isPrimal": false,
+        "isRegional": false,
+        "isGmax": false,
+        "canGmax": false,
+        "canDynamax": false,
+        "canBeAlpha": false,
+        "debutIn": "sv",
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false,
+        "shinyBase": null,
+        "baseStats": {
+            "hp": -1,
+            "atk": -1,
+            "def": -1,
+            "spa": -1,
+            "spd": -1,
+            "spe": -1
+        },
+        "goStats": {
+            "atk": -1,
+            "def": -1,
+            "sta": -1
+        },
+        "weight": {
+            "avg": -1,
+            "min": -1,
+            "max": -1,
+            "alpha": -1
+        },
+        "height": {
+            "avg": -1,
+            "min": -1,
+            "max": -1,
+            "alpha": -1
+        },
+        "maleRate": -1,
+        "femaleRate": -1,
+        "refs": {
+            "pogo": "Armarouge",
+            "veekunDb": "armarouge",
+            "serebii": "armarouge",
+            "bulbapedia": "Armarouge",
+            "homeSprite": "9055",
+            "miniSprite": "9055",
+            "showdown": "armarouge",
+            "showdownDef": "Armarouge",
+            "smogon": "armarouge"
+        },
+        "baseSpecies": null,
+        "baseForms": [],
+        "forms": [
+            "armarouge"
+        ],
+        "evolutions": []
+    },
+    {
+        "id": "ceruledge",
+        "nid": "9056",
+        "dexNum": 9056,
+        "formId": null,
+        "name": "Ceruledge",
+        "formName": null,
+        "region": "paldea",
+        "generation": 9,
+        "type1": "fire",
+        "type2": "ghost",
+        "color": "purple",
+        "abilities": {
+            "primary": "flash-fire",
+            "secondary": null,
+            "hidden": null
+        },
+        "isLegendary": false,
+        "isMythical": false,
+        "isUltraBeast": false,
+        "ultraBeastCode": null,
+        "isDefault": true,
+        "isForm": false,
+        "isSpecialAbilityForm": false,
+        "isCosmeticForm": false,
+        "isFemaleForm": false,
+        "hasGenderDifferences": false,
+        "isBattleOnlyForm": false,
+        "isSwitchableForm": false,
+        "isFusion": false,
+        "fusedWith": null,
+        "isMega": false,
+        "isPrimal": false,
+        "isRegional": false,
+        "isGmax": false,
+        "canGmax": false,
+        "canDynamax": false,
+        "canBeAlpha": false,
+        "debutIn": "sv",
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false,
+        "shinyBase": null,
+        "baseStats": {
+            "hp": -1,
+            "atk": -1,
+            "def": -1,
+            "spa": -1,
+            "spd": -1,
+            "spe": -1
+        },
+        "goStats": {
+            "atk": -1,
+            "def": -1,
+            "sta": -1
+        },
+        "weight": {
+            "avg": -1,
+            "min": -1,
+            "max": -1,
+            "alpha": -1
+        },
+        "height": {
+            "avg": -1,
+            "min": -1,
+            "max": -1,
+            "alpha": -1
+        },
+        "maleRate": -1,
+        "femaleRate": -1,
+        "refs": {
+            "pogo": "Ceruledge",
+            "veekunDb": "ceruledge",
+            "serebii": "ceruledge",
+            "bulbapedia": "Ceruledge",
+            "homeSprite": "9056",
+            "miniSprite": "9056",
+            "showdown": "ceruledge",
+            "showdownDef": "Ceruledge",
+            "smogon": "ceruledge"
+        },
+        "baseSpecies": null,
+        "baseForms": [],
+        "forms": [
+            "ceruledge"
+        ],
+        "evolutions": []
+    },
+    {
+        "id": "grafaiai",
+        "nid": "9057",
+        "dexNum": 9057,
+        "formId": null,
+        "name": "Grafaiai",
+        "formName": null,
+        "region": "paldea",
+        "generation": 9,
+        "type1": "poison",
+        "type2": "normal",
+        "color": "black",
+        "abilities": {
+            "primary": "unburden",
+            "secondary": "poison-touch",
+            "hidden": null
+        },
+        "isLegendary": false,
+        "isMythical": false,
+        "isUltraBeast": false,
+        "ultraBeastCode": null,
+        "isDefault": true,
+        "isForm": false,
+        "isSpecialAbilityForm": false,
+        "isCosmeticForm": false,
+        "isFemaleForm": false,
+        "hasGenderDifferences": false,
+        "isBattleOnlyForm": false,
+        "isSwitchableForm": false,
+        "isFusion": false,
+        "fusedWith": null,
+        "isMega": false,
+        "isPrimal": false,
+        "isRegional": false,
+        "isGmax": false,
+        "canGmax": false,
+        "canDynamax": false,
+        "canBeAlpha": false,
+        "debutIn": "sv",
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false,
+        "shinyBase": null,
+        "baseStats": {
+            "hp": -1,
+            "atk": -1,
+            "def": -1,
+            "spa": -1,
+            "spd": -1,
+            "spe": -1
+        },
+        "goStats": {
+            "atk": -1,
+            "def": -1,
+            "sta": -1
+        },
+        "weight": {
+            "avg": -1,
+            "min": -1,
+            "max": -1,
+            "alpha": -1
+        },
+        "height": {
+            "avg": -1,
+            "min": -1,
+            "max": -1,
+            "alpha": -1
+        },
+        "maleRate": -1,
+        "femaleRate": -1,
+        "refs": {
+            "pogo": "Grafaiai",
+            "veekunDb": "grafaiai",
+            "serebii": "grafaiai",
+            "bulbapedia": "Grafaiai",
+            "homeSprite": "9057",
+            "miniSprite": "9057",
+            "showdown": "grafaiai",
+            "showdownDef": "Grafaiai",
+            "smogon": "grafaiai"
+        },
+        "baseSpecies": null,
+        "baseForms": [],
+        "forms": [
+            "grafaiai"
+        ],
+        "evolutions": []
+    },
+    {
+        "id": "klawf",
+        "nid": "9058",
+        "dexNum": 9058,
+        "formId": null,
+        "name": "Klawf",
+        "formName": null,
+        "region": "paldea",
+        "generation": 9,
+        "type1": "rock",
+        "type2": null,
+        "color": "orange",
+        "abilities": {
+            "primary": "anger-shell",
+            "secondary": "shell-armor",
+            "hidden": null
+        },
+        "isLegendary": false,
+        "isMythical": false,
+        "isUltraBeast": false,
+        "ultraBeastCode": null,
+        "isDefault": true,
+        "isForm": false,
+        "isSpecialAbilityForm": false,
+        "isCosmeticForm": false,
+        "isFemaleForm": false,
+        "hasGenderDifferences": false,
+        "isBattleOnlyForm": false,
+        "isSwitchableForm": false,
+        "isFusion": false,
+        "fusedWith": null,
+        "isMega": false,
+        "isPrimal": false,
+        "isRegional": false,
+        "isGmax": false,
+        "canGmax": false,
+        "canDynamax": false,
+        "canBeAlpha": false,
+        "debutIn": "sv",
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false,
+        "shinyBase": null,
+        "baseStats": {
+            "hp": -1,
+            "atk": -1,
+            "def": -1,
+            "spa": -1,
+            "spd": -1,
+            "spe": -1
+        },
+        "goStats": {
+            "atk": -1,
+            "def": -1,
+            "sta": -1
+        },
+        "weight": {
+            "avg": -1,
+            "min": -1,
+            "max": -1,
+            "alpha": -1
+        },
+        "height": {
+            "avg": -1,
+            "min": -1,
+            "max": -1,
+            "alpha": -1
+        },
+        "maleRate": -1,
+        "femaleRate": -1,
+        "refs": {
+            "pogo": "Klawf",
+            "veekunDb": "klawf",
+            "serebii": "klawf",
+            "bulbapedia": "Klawf",
+            "homeSprite": "9058",
+            "miniSprite": "9058",
+            "showdown": "klawf",
+            "showdownDef": "Klawf",
+            "smogon": "klawf"
+        },
+        "baseSpecies": null,
+        "baseForms": [],
+        "forms": [
+            "klawf"
         ],
         "evolutions": []
     }

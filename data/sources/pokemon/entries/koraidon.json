@@ -1,7 +1,7 @@
 {
     "id": "koraidon",
-    "nid": "9900",
-    "dexNum": 9900,
+    "nid": "9052",
+    "dexNum": 9052,
     "formId": null,
     "name": "Koraidon",
     "formName": null,
@@ -79,8 +79,8 @@
         "veekunDb": "koraidon",
         "serebii": "koraidon",
         "bulbapedia": "Koraidon",
-        "homeSprite": "9900",
-        "miniSprite": "9900",
+        "homeSprite": "9052",
+        "miniSprite": "9052",
         "showdown": "koraidon",
         "showdownDef": "Koraidon",
         "smogon": "koraidon"

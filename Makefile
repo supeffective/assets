@@ -1,5 +1,8 @@
 default: build
 
+install:
+	docker-compose run --rm --workdir=/usr/src/app previewer composer install
+
 build:
 	rm -rf data/builds
 	php scripts/build.php

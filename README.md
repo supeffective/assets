@@ -53,3 +53,11 @@ Data that is not covered in the previous sources, comes from the following sourc
 > Currently, some of the data for Pokémon entries, abilities, moves and items is incomplete or erroneous like
 > for example: the types and stats of the Pokémon. This is a known issue and will be fixed in the future
 > piece by piece as soon as the supereffective.gg site needs that info.
+
+
+## How to add a new Pokémon or form
+
+- Add the entry in `data/sources/pokemon.json`
+- Add individual `.json` file entry under the `data/sources/pokemon/entries` directory.
+- Add the missing entries in the boxes for the proper games under `data/sources/box-presets/*`.
+- Run `make` and make sure there is no error.

@@ -38444,17 +38444,19 @@
         "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ]
     },
     {
@@ -38469,17 +38471,19 @@
         "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ]
     },
     {
@@ -38494,17 +38498,19 @@
         "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ]
     },
     {
@@ -40278,17 +40284,19 @@
         "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ]
     },
     {
@@ -40612,17 +40620,19 @@
         "shinyReleased": false,
         "shinyBase": null,
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ]
     },
     {
@@ -40820,17 +40830,19 @@
         "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ]
     },
     {
@@ -40845,17 +40857,19 @@
         "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ]
     },
     {
@@ -44871,7 +44885,7 @@
         "isForm": false,
         "baseSpecies": null,
         "baseForms": [],
-        "shinyReleased": false,
+        "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
             "swsh"
@@ -45551,7 +45565,7 @@
     },
     {
         "id": "koraidon",
-        "dexNum": 9900,
+        "dexNum": 9052,
         "name": "Koraidon",
         "type1": "dragon",
         "type2": "fighting",
@@ -45571,7 +45585,7 @@
     },
     {
         "id": "miraidon",
-        "dexNum": 9901,
+        "dexNum": 9053,
         "name": "Miraidon",
         "type1": "dragon",
         "type2": "electric",
@@ -45579,6 +45593,106 @@
         "baseSpecies": null,
         "baseForms": [],
         "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "cyclizar",
+        "dexNum": 9054,
+        "name": "Cyclizar",
+        "type1": "dragon",
+        "type2": "normal",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": false,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "armarouge",
+        "dexNum": 9055,
+        "name": "Armarouge",
+        "type1": "fire",
+        "type2": "psychic",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": false,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "ceruledge",
+        "dexNum": 9056,
+        "name": "Ceruledge",
+        "type1": "fire",
+        "type2": "ghost",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": false,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "grafaiai",
+        "dexNum": 9057,
+        "name": "Grafaiai",
+        "type1": "poison",
+        "type2": "normal",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": false,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "klawf",
+        "dexNum": 9058,
+        "name": "Klawf",
+        "type1": "rock",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": false,
         "shinyBase": null,
         "obtainableIn": [
             "sv"

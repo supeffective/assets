@@ -86,8 +86,8 @@ RUN pip install setuptools
 COPY scripts/dumper-pogo /usr/src/pogo-dumper
 WORKDIR /usr/src/pogo-dumper
 RUN ls /usr/src/pogo-dumper/pogo-dumper && \
-  echo "Setting up pogodata..." && \
-  pip install .
+    echo "Setting up pogodata..." && \
+    pip install .
 
 WORKDIR /usr/src/app
 

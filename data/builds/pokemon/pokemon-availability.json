@@ -25948,43 +25948,49 @@
     },
     "grubbin": {
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true
     },
     "charjabug": {
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true
     },
     "vikavolt": {
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true
     },
@@ -26932,15 +26938,17 @@
     },
     "togedemaru": {
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true
     },
@@ -27121,15 +27129,17 @@
     },
     "cosmog": {
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": false
     },
@@ -27241,29 +27251,33 @@
     },
     "celesteela": {
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true
     },
     "kartana": {
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true
     },
@@ -29102,7 +29116,7 @@
             "home",
             "swsh"
         ],
-        "shinyReleased": false
+        "shinyReleased": true
     },
     "eternatus-eternamax": {
         "obtainableIn": [],
@@ -29421,5 +29435,50 @@
             "sv"
         ],
         "shinyReleased": true
+    },
+    "cyclizar": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false
+    },
+    "armarouge": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false
+    },
+    "ceruledge": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false
+    },
+    "grafaiai": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false
+    },
+    "klawf": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false
     }
 }

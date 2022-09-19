@@ -1,17 +1,17 @@
 {
-    "id": "charjabug",
-    "nid": "0737",
-    "dexNum": 737,
+    "id": "ceruledge",
+    "nid": "9056",
+    "dexNum": 9056,
     "formId": null,
-    "name": "Charjabug",
+    "name": "Ceruledge",
     "formName": null,
-    "region": "alola",
-    "generation": 7,
-    "type1": "bug",
-    "type2": "electric",
-    "color": "green",
+    "region": "paldea",
+    "generation": 9,
+    "type1": "fire",
+    "type2": "ghost",
+    "color": "purple",
     "abilities": {
-        "primary": "Battery",
+        "primary": "flash-fire",
         "secondary": null,
         "hidden": null
     },
@@ -34,47 +34,40 @@
     "isRegional": false,
     "isGmax": false,
     "canGmax": false,
-    "canDynamax": true,
+    "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "sm",
+    "debutIn": "sv",
     "obtainableIn": [
-        "go",
-        "sm",
-        "usum",
-        "swsh"
+        "sv"
     ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
     "storableIn": [
-        "go",
-        "sm",
-        "usum",
-        "swsh",
-        "home"
+        "sv"
     ],
-    "shinyReleased": true,
+    "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
-        "hp": 57,
-        "atk": 82,
-        "def": 95,
-        "spa": 55,
-        "spd": 75,
-        "spe": 36
+        "hp": -1,
+        "atk": -1,
+        "def": -1,
+        "spa": -1,
+        "spd": -1,
+        "spe": -1
     },
     "goStats": {
-        "atk": 145,
-        "def": 161,
-        "sta": 149
+        "atk": -1,
+        "def": -1,
+        "sta": -1
     },
     "weight": {
-        "avg": 10.5,
+        "avg": -1,
         "min": -1,
         "max": -1,
         "alpha": -1
     },
     "height": {
-        "avg": 0.5,
+        "avg": -1,
         "min": -1,
         "max": -1,
         "alpha": -1
@@ -82,20 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "CHARJABUG",
-        "veekunDb": "charjabug",
-        "serebii": "charjabug",
-        "bulbapedia": "Charjabug",
-        "homeSprite": "0737",
-        "miniSprite": "0737",
-        "showdown": "charjabug",
-        "showdownDef": "Charjabug",
-        "smogon": "charjabug"
+        "pogo": "Ceruledge",
+        "veekunDb": "ceruledge",
+        "serebii": "ceruledge",
+        "bulbapedia": "Ceruledge",
+        "homeSprite": "9056",
+        "miniSprite": "9056",
+        "showdown": "ceruledge",
+        "showdownDef": "Ceruledge",
+        "smogon": "ceruledge"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
-        "charjabug"
+        "ceruledge"
     ],
     "evolutions": []
 }
