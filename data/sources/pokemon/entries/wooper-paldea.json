@@ -37,14 +37,10 @@
     "canDynamax": false,
     "canBeAlpha": false,
     "debutIn": "sv",
-    "obtainableIn": [
-        "sv"
-    ],
+    "obtainableIn": ["sv"],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [
-        "sv"
-    ],
+    "storableIn": ["sv"],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -75,15 +71,15 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": null,
-        "veekunDb": null,
-        "smogon": null,
-        "showdown": null,
-        "showdownDef": null,
-        "serebii": null,
-        "bulbapedia": null,
+        "pogo": "WOOPER",
+        "veekunDb": "wooper",
+        "serebii": "wooper",
+        "bulbapedia": "Wooper",
         "homeSprite": "0194-paldea",
-        "miniSprite": "0194-paldea"
+        "miniSprite": "0194-paldea",
+        "showdown": "wooper",
+        "showdownDef": "Wooper",
+        "smogon": "wooper"
     },
     "baseSpecies": "wooper",
     "baseForms": [],
