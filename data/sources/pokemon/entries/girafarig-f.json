@@ -38,25 +38,27 @@
     "canBeAlpha": false,
     "debutIn": "dp",
     "obtainableIn": [
-        "hgss",
+        "bdsp",
         "go",
-        "bdsp"
+        "hgss",
+        "sv"
     ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
     "storableIn": [
-        "dp",
-        "pt",
-        "hgss",
-        "bw",
         "b2w2",
-        "xy",
-        "oras",
+        "bdsp",
+        "bw",
+        "dp",
         "go",
-        "sm",
-        "usum",
+        "hgss",
         "home",
-        "bdsp"
+        "oras",
+        "pt",
+        "sm",
+        "sv",
+        "usum",
+        "xy"
     ],
     "shinyReleased": true,
     "shinyBase": null,

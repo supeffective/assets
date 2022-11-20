@@ -40,6 +40,7 @@
     "obtainableIn": [
         "go",
         "sm",
+        "sv",
         "usum"
     ],
     "versionExclusiveIn": [],
@@ -48,6 +49,7 @@
         "go",
         "home",
         "sm",
+        "sv",
         "usum"
     ],
     "shinyReleased": true,

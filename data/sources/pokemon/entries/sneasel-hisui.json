@@ -39,14 +39,16 @@
     "debutIn": "la",
     "obtainableIn": [
         "go",
-        "la"
+        "la",
+        "sv"
     ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
     "storableIn": [
         "go",
         "home",
-        "la"
+        "la",
+        "sv"
     ],
     "shinyReleased": true,
     "shinyBase": null,

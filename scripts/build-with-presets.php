@@ -18,11 +18,7 @@ require_once __DIR__ . '/_bootstrap.php';
         $dataSetById[$data['id']] = $data;
     }
 
-    $generateGamesetBoxesPreset = static function (
-        string $gameSetId,
-        int $maxPkmPerBox = 30,
-        bool $createMinimal = true
-    ) use ($dataSetById): void {
+    $generateGamesetBoxesPreset = static function (string $gameSetId, int $maxPkmPerBox = 30, bool $createMinimal = true) use ($dataSetById): void{
         $storables = sgg_data_load("builds/pokemon/storable/storable-pokemon-{$gameSetId}.json");
         $preset = [
             'id' => 'fully-sorted',
@@ -202,36 +198,36 @@ require_once __DIR__ . '/_bootstrap.php';
         sgg_data_save("builds/box-presets/{$gameSetId}/101-sorted-species.json", $presetBySpecies, minify: false);
         if ($createMinimal && ($total2 !== $minimalTotal2)) {
             sgg_data_save(
-                        "builds/box-presets/{$gameSetId}/102-sorted-species-minimal.json",
-                        $presetBySpeciesMinimal,
-                minify: false
+                "builds/box-presets/{$gameSetId}/102-sorted-species-minimal.json",
+                $presetBySpeciesMinimal,
+            minify: false
             );
         }
 
         sgg_data_save("builds/box-presets/{$gameSetId}/103-fully-sorted.json", $preset, minify: false);
         if ($createMinimal && ($total !== $minimalTotal)) {
             sgg_data_save(
-                        "builds/box-presets/{$gameSetId}/104-fully-sorted-minimal.json",
-                        $presetMinimal,
-                minify: false
+                "builds/box-presets/{$gameSetId}/104-fully-sorted-minimal.json",
+                $presetMinimal,
+            minify: false
             );
         }
     };
 
-    $generateHisuiBoxesPreset = static function () use ($dataSetById): void {
-        $hisuiDex = sgg_data_load('sources/pokedexes/hisui.json');
+    $generatePokedexBoxesPreset = static function (string $pokedexId, string $gamesetId) use ($dataSetById): void{
+        $dexData = sgg_data_load('sources/pokedexes/' . $pokedexId . '.json');
         $preset = [
             'id' => 'fully-sorted',
             'name' => 'Regional: Sorted by Forms',
             'version' => 1,
-            'gameSet' => 'la',
+            'gameSet' => $gamesetId,
             //'shortDescription' => 'Sorted by Species and their Forms, in their HOME order.',
-            "description" => "(Recommended) Pokémon Boxes are sorted by Species and Forms together, following original Legends: Arceus Pokédex order.",
+            "description" => "(Recommended) Pokémon Boxes are sorted by Species and Forms together, following regional Pokédex order.",
             "boxes" => [],
         ];
         $maxPkmPerBox = 30;
         $currentBox = 0;
-        foreach ($hisuiDex as $dexPkm) {
+        foreach ($dexData as $dexPkm) {
             foreach ($dexPkm['forms'] as $pkmId) {
                 foreach (SGG_BOXES_EXCLUDE_FORMS_PREFIX as $prefix) {
                     if (str_starts_with($pkmId, $prefix)) {
@@ -239,7 +235,7 @@ require_once __DIR__ . '/_bootstrap.php';
                     }
                 }
                 $pkm = $dataSetById[$pkmId];
-                if (!in_array('la', $pkm['storableIn'], true)) {
+                if (!in_array($gamesetId, $pkm['storableIn'], true)) {
                     continue;
                 }
                 if (
@@ -256,10 +252,10 @@ require_once __DIR__ . '/_bootstrap.php';
                 $preset['boxes'][$currentBox]['pokemon'][] = $pkm['id'];
             }
         }
-        sgg_data_save('builds/box-presets/la/100-fully-sorted.json', $preset, minify: false);
+        sgg_data_save('builds/box-presets/' . $gamesetId . '/100-fully-sorted.json', $preset, minify: false);
     };
 
-    // Tasks
+    // National pokedex order:
     $generateGamesetBoxesPreset('rb', 20);
     $generateGamesetBoxesPreset('y', 20);
     $generateGamesetBoxesPreset('gs', 20);
@@ -281,8 +277,11 @@ require_once __DIR__ . '/_bootstrap.php';
     $generateGamesetBoxesPreset('swsh', 30);
     $generateGamesetBoxesPreset('home', 30);
     $generateGamesetBoxesPreset('bdsp', 30);
-    $generateHisuiBoxesPreset(); // la
     $generateGamesetBoxesPreset('sv', 30);
+
+    // Regional pokedex order:
+    $generatePokedexBoxesPreset('hisui', 'la');
+    $generatePokedexBoxesPreset('paldea', 'sv');
 
     echo "[OK] Build finished!\n";
 })();

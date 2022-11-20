@@ -38,12 +38,14 @@
     "canBeAlpha": false,
     "debutIn": "swsh",
     "obtainableIn": [
+        "sv",
         "swsh"
     ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
     "storableIn": [
         "home",
+        "sv",
         "swsh"
     ],
     "shinyReleased": true,

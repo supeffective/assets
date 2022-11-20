@@ -40,7 +40,8 @@
     "obtainableIn": [
         "b2w2",
         "bw",
-        "go"
+        "go",
+        "sv"
     ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
@@ -51,6 +52,7 @@
         "home",
         "oras",
         "sm",
+        "sv",
         "usum",
         "xy"
     ],

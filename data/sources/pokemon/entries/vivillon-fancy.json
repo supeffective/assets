@@ -37,7 +37,9 @@
     "canDynamax": true,
     "canBeAlpha": false,
     "debutIn": "xy",
-    "obtainableIn": [],
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [
         "xy"
@@ -46,6 +48,7 @@
         "home",
         "oras",
         "sm",
+        "sv",
         "usum",
         "xy"
     ],
