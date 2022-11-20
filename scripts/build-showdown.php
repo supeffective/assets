@@ -80,7 +80,7 @@ require_once __DIR__ . '/_bootstrap.php';
         'tatsugiri-sketchy' => 'tatsugiri',
     ];
 
-    $showdownIgnore = ['num980', 'num987'];
+    $showdownIgnore = ['greninja--battle-bond', 'rockruff--own-tempo', 'zygarde--power-construct', 'zygarde-10--power-construct'];
     $showdownIgnoreFromDexNum = 20000;
 
     // Import showdown data
