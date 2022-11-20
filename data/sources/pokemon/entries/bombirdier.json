@@ -3,9 +3,9 @@
     "nid": "0959",
     "dexNum": 959,
     "formId": null,
-    "name": "???",
+    "name": "Bombirdier",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "flying",
     "type2": "dark",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "BOMBIRDIER",
+        "veekunDb": "bombirdier",
+        "smogon": "bombirdier",
         "showdown": "bombirdier",
         "showdownDef": "Bombirdier",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "bombirdier",
+        "bulbapedia": "Bombirdier",
+        "homeSprite": "0959",
+        "miniSprite": "0959"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "bombirdier"
+    ],
     "evolutions": []
 }

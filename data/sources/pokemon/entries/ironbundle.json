@@ -3,9 +3,9 @@
     "nid": "0992",
     "dexNum": 992,
     "formId": null,
-    "name": "???",
+    "name": "Iron Bundle",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "ice",
     "type2": "water",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "IRONBUNDLE",
+        "veekunDb": "ironbundle",
+        "smogon": "ironbundle",
         "showdown": "ironbundle",
         "showdownDef": "Ironbundle",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "ironbundle",
+        "bulbapedia": "Ironbundle",
+        "homeSprite": "0992",
+        "miniSprite": "0992"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "ironbundle"
+    ],
     "evolutions": []
 }

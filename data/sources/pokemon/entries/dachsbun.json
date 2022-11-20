@@ -3,9 +3,9 @@
     "nid": "0971",
     "dexNum": 971,
     "formId": null,
-    "name": "???",
+    "name": "Dachsbun",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "fairy",
     "type2": null,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "DACHSBUN",
+        "veekunDb": "dachsbun",
+        "smogon": "dachsbun",
         "showdown": "dachsbun",
         "showdownDef": "Dachsbun",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "dachsbun",
+        "bulbapedia": "Dachsbun",
+        "homeSprite": "0971",
+        "miniSprite": "0971"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "dachsbun"
+    ],
     "evolutions": []
 }

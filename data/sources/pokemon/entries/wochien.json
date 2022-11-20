@@ -3,9 +3,9 @@
     "nid": "0996",
     "dexNum": 996,
     "formId": null,
-    "name": "???",
+    "name": "Wochien",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "dark",
     "type2": "grass",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "WOCHIEN",
+        "veekunDb": "wochien",
+        "smogon": "wochien",
         "showdown": "wochien",
         "showdownDef": "Wochien",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "wochien",
+        "bulbapedia": "Wochien",
+        "homeSprite": "0996",
+        "miniSprite": "0996"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "wochien"
+    ],
     "evolutions": []
 }

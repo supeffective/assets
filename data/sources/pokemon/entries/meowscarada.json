@@ -3,9 +3,9 @@
     "nid": "0908",
     "dexNum": 908,
     "formId": null,
-    "name": "???",
+    "name": "Meowscarada",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "grass",
     "type2": "dark",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "MEOWSCARADA",
+        "veekunDb": "meowscarada",
+        "smogon": "meowscarada",
         "showdown": "meowscarada",
         "showdownDef": "Meowscarada",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "meowscarada",
+        "bulbapedia": "Meowscarada",
+        "homeSprite": "0908",
+        "miniSprite": "0908"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "meowscarada"
+    ],
     "evolutions": []
 }

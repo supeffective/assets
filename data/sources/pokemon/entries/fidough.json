@@ -3,9 +3,9 @@
     "nid": "0970",
     "dexNum": 970,
     "formId": null,
-    "name": "???",
+    "name": "Fidough",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "fairy",
     "type2": null,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "FIDOUGH",
+        "veekunDb": "fidough",
+        "smogon": "fidough",
         "showdown": "fidough",
         "showdownDef": "Fidough",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "fidough",
+        "bulbapedia": "Fidough",
+        "homeSprite": "0970",
+        "miniSprite": "0970"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "fidough"
+    ],
     "evolutions": []
 }

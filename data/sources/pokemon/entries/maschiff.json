@@ -3,9 +3,9 @@
     "nid": "0972",
     "dexNum": 972,
     "formId": null,
-    "name": "???",
+    "name": "Maschiff",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "dark",
     "type2": null,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "MASCHIFF",
+        "veekunDb": "maschiff",
+        "smogon": "maschiff",
         "showdown": "maschiff",
         "showdownDef": "Maschiff",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "maschiff",
+        "bulbapedia": "Maschiff",
+        "homeSprite": "0972",
+        "miniSprite": "0972"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "maschiff"
+    ],
     "evolutions": []
 }

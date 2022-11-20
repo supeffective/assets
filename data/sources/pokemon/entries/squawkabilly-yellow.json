@@ -3,9 +3,9 @@
     "nid": "0960-yellow",
     "dexNum": 960,
     "formId": "yellow",
-    "name": "???",
-    "formName": null,
-    "region": "???",
+    "name": "Squawkabilly Yellow-feathered",
+    "formName": "Yellow-feathered",
+    "region": "paldea",
     "generation": 9,
     "type1": "normal",
     "type2": "flying",
@@ -19,7 +19,7 @@
     "isMythical": false,
     "isUltraBeast": false,
     "ultraBeastCode": null,
-    "isDefault": true,
+    "isDefault": false,
     "isForm": true,
     "isSpecialAbilityForm": false,
     "isCosmeticForm": false,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,17 +75,17 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "SQUAWKABILLY_YELLOW",
+        "veekunDb": "squawkabilly-yellow",
+        "smogon": "squawkabilly-yellow",
         "showdown": "squawkabillyyellow",
         "showdownDef": "Squawkabilly-Yellow",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "Squawkabilly",
+        "bulbapedia": "Squawkabilly_Yellow",
+        "homeSprite": "0960-yellow",
+        "miniSprite": "0960-yellow"
     },
-    "baseSpecies": null,
+    "baseSpecies": "Squawkabilly",
     "baseForms": [],
     "forms": [],
     "evolutions": []

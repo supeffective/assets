@@ -3,9 +3,9 @@
     "nid": "0986",
     "dexNum": 986,
     "formId": null,
-    "name": "???",
+    "name": "Iron Treads",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "ground",
     "type2": "steel",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "IRONTREADS",
+        "veekunDb": "irontreads",
+        "smogon": "irontreads",
         "showdown": "irontreads",
         "showdownDef": "Irontreads",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "irontreads",
+        "bulbapedia": "Irontreads",
+        "homeSprite": "0986",
+        "miniSprite": "0986"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "irontreads"
+    ],
     "evolutions": []
 }

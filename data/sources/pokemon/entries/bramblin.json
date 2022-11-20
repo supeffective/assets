@@ -3,9 +3,9 @@
     "nid": "0974",
     "dexNum": 974,
     "formId": null,
-    "name": "???",
+    "name": "Bramblin",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "grass",
     "type2": "ghost",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "BRAMBLIN",
+        "veekunDb": "bramblin",
+        "smogon": "bramblin",
         "showdown": "bramblin",
         "showdownDef": "Bramblin",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "bramblin",
+        "bulbapedia": "Bramblin",
+        "homeSprite": "0974",
+        "miniSprite": "0974"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "bramblin"
+    ],
     "evolutions": []
 }

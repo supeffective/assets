@@ -3,9 +3,9 @@
     "nid": "0963",
     "dexNum": 963,
     "formId": null,
-    "name": "???",
+    "name": "Nacli",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "rock",
     "type2": null,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "NACLI",
+        "veekunDb": "nacli",
+        "smogon": "nacli",
         "showdown": "nacli",
         "showdownDef": "Nacli",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "nacli",
+        "bulbapedia": "Nacli",
+        "homeSprite": "0963",
+        "miniSprite": "0963"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "nacli"
+    ],
     "evolutions": []
 }

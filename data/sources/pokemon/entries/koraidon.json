@@ -3,9 +3,9 @@
     "nid": "0998",
     "dexNum": 998,
     "formId": null,
-    "name": "???",
+    "name": "Koraidon",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "fighting",
     "type2": "dragon",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "KORAIDON",
+        "veekunDb": "koraidon",
+        "smogon": "koraidon",
         "showdown": "koraidon",
         "showdownDef": "Koraidon",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "koraidon",
+        "bulbapedia": "Koraidon",
+        "homeSprite": "0998",
+        "miniSprite": "0998"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "koraidon"
+    ],
     "evolutions": []
 }

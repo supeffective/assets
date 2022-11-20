@@ -3,9 +3,9 @@
     "nid": "0937",
     "dexNum": 937,
     "formId": null,
-    "name": "???",
+    "name": "Arboliva",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "grass",
     "type2": "normal",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "ARBOLIVA",
+        "veekunDb": "arboliva",
+        "smogon": "arboliva",
         "showdown": "arboliva",
         "showdownDef": "Arboliva",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "arboliva",
+        "bulbapedia": "Arboliva",
+        "homeSprite": "0937",
+        "miniSprite": "0937"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "arboliva"
+    ],
     "evolutions": []
 }

@@ -3,9 +3,9 @@
     "nid": "0990",
     "dexNum": 990,
     "formId": null,
-    "name": "???",
+    "name": "Iron Jugulis",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "dark",
     "type2": "flying",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "IRONJUGULIS",
+        "veekunDb": "ironjugulis",
+        "smogon": "ironjugulis",
         "showdown": "ironjugulis",
         "showdownDef": "Ironjugulis",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "ironjugulis",
+        "bulbapedia": "Ironjugulis",
+        "homeSprite": "0990",
+        "miniSprite": "0990"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "ironjugulis"
+    ],
     "evolutions": []
 }

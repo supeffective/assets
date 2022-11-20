@@ -3,9 +3,9 @@
     "nid": "0934-hero",
     "dexNum": 934,
     "formId": "hero",
-    "name": "???",
-    "formName": null,
-    "region": "???",
+    "name": "Palafin Hero Form",
+    "formName": "Hero Form",
+    "region": "paldea",
     "generation": 9,
     "type1": "water",
     "type2": null,
@@ -19,7 +19,7 @@
     "isMythical": false,
     "isUltraBeast": false,
     "ultraBeastCode": null,
-    "isDefault": true,
+    "isDefault": false,
     "isForm": true,
     "isSpecialAbilityForm": false,
     "isCosmeticForm": false,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,17 +75,17 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "PALAFIN_HERO",
+        "veekunDb": "palafin-hero",
+        "smogon": "palafin-hero",
         "showdown": "palafinhero",
         "showdownDef": "Palafin-Hero",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "Palafin",
+        "bulbapedia": "Palafin_Hero",
+        "homeSprite": "0934-hero",
+        "miniSprite": "0934-hero"
     },
-    "baseSpecies": null,
+    "baseSpecies": "Palafin",
     "baseForms": [],
     "forms": [],
     "evolutions": []

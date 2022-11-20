@@ -3,9 +3,9 @@
     "nid": "0923",
     "dexNum": 923,
     "formId": null,
-    "name": "???",
+    "name": "Rabsca",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "bug",
     "type2": "psychic",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "RABSCA",
+        "veekunDb": "rabsca",
+        "smogon": "rabsca",
         "showdown": "rabsca",
         "showdownDef": "Rabsca",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "rabsca",
+        "bulbapedia": "Rabsca",
+        "homeSprite": "0923",
+        "miniSprite": "0923"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "rabsca"
+    ],
     "evolutions": []
 }

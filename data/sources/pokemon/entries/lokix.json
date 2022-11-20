@@ -3,9 +3,9 @@
     "nid": "0921",
     "dexNum": 921,
     "formId": null,
-    "name": "???",
+    "name": "Lokix",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "bug",
     "type2": "dark",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "LOKIX",
+        "veekunDb": "lokix",
+        "smogon": "lokix",
         "showdown": "lokix",
         "showdownDef": "Lokix",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "lokix",
+        "bulbapedia": "Lokix",
+        "homeSprite": "0921",
+        "miniSprite": "0921"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "lokix"
+    ],
     "evolutions": []
 }

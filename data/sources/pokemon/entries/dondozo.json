@@ -3,9 +3,9 @@
     "nid": "0931",
     "dexNum": 931,
     "formId": null,
-    "name": "???",
+    "name": "Dondozo",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "water",
     "type2": null,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "DONDOZO",
+        "veekunDb": "dondozo",
+        "smogon": "dondozo",
         "showdown": "dondozo",
         "showdownDef": "Dondozo",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "dondozo",
+        "bulbapedia": "Dondozo",
+        "homeSprite": "0931",
+        "miniSprite": "0931"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "dondozo"
+    ],
     "evolutions": []
 }

@@ -3,9 +3,9 @@
     "nid": "0969",
     "dexNum": 969,
     "formId": null,
-    "name": "???",
+    "name": "Grafaiai",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "poison",
     "type2": "normal",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "GRAFAIAI",
+        "veekunDb": "grafaiai",
+        "smogon": "grafaiai",
         "showdown": "grafaiai",
         "showdownDef": "Grafaiai",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "grafaiai",
+        "bulbapedia": "Grafaiai",
+        "homeSprite": "0969",
+        "miniSprite": "0969"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "grafaiai"
+    ],
     "evolutions": []
 }

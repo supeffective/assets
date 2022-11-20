@@ -3,9 +3,9 @@
     "nid": "0194-paldea",
     "dexNum": 194,
     "formId": "paldea",
-    "name": "???",
-    "formName": null,
-    "region": "???",
+    "name": "Paldean Wooper",
+    "formName": "Paldean",
+    "region": "paldea",
     "generation": 9,
     "type1": "poison",
     "type2": "ground",
@@ -19,7 +19,7 @@
     "isMythical": false,
     "isUltraBeast": false,
     "ultraBeastCode": null,
-    "isDefault": true,
+    "isDefault": false,
     "isForm": true,
     "isSpecialAbilityForm": false,
     "isCosmeticForm": false,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,17 +75,17 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "WOOPER_PALDEA",
+        "veekunDb": "wooper-paldea",
+        "smogon": "wooper-paldea",
         "showdown": "wooperpaldea",
         "showdownDef": "Wooper-Paldea",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "Wooper",
+        "bulbapedia": "Wooper_Paldea",
+        "homeSprite": "0194-paldea",
+        "miniSprite": "0194-paldea"
     },
-    "baseSpecies": null,
+    "baseSpecies": "Wooper",
     "baseForms": [],
     "forms": [],
     "evolutions": []

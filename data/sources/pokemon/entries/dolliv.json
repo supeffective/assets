@@ -3,9 +3,9 @@
     "nid": "0936",
     "dexNum": 936,
     "formId": null,
-    "name": "???",
+    "name": "Dolliv",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "grass",
     "type2": "normal",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "DOLLIV",
+        "veekunDb": "dolliv",
+        "smogon": "dolliv",
         "showdown": "dolliv",
         "showdownDef": "Dolliv",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "dolliv",
+        "bulbapedia": "Dolliv",
+        "homeSprite": "0936",
+        "miniSprite": "0936"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "dolliv"
+    ],
     "evolutions": []
 }

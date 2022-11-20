@@ -3,9 +3,9 @@
     "nid": "1008",
     "dexNum": 1008,
     "formId": null,
-    "name": "???",
+    "name": "Kingambit",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "dark",
     "type2": "steel",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "KINGAMBIT",
+        "veekunDb": "kingambit",
+        "smogon": "kingambit",
         "showdown": "kingambit",
         "showdownDef": "Kingambit",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "kingambit",
+        "bulbapedia": "Kingambit",
+        "homeSprite": "1008",
+        "miniSprite": "1008"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "kingambit"
+    ],
     "evolutions": []
 }

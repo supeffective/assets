@@ -3,9 +3,9 @@
     "nid": "0967",
     "dexNum": 967,
     "formId": null,
-    "name": "???",
+    "name": "Glimmora",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "rock",
     "type2": "poison",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "GLIMMORA",
+        "veekunDb": "glimmora",
+        "smogon": "glimmora",
         "showdown": "glimmora",
         "showdownDef": "Glimmora",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "glimmora",
+        "bulbapedia": "Glimmora",
+        "homeSprite": "0967",
+        "miniSprite": "0967"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "glimmora"
+    ],
     "evolutions": []
 }

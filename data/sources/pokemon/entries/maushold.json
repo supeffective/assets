@@ -3,9 +3,9 @@
     "nid": "0946",
     "dexNum": 946,
     "formId": null,
-    "name": "???",
-    "formName": null,
-    "region": "???",
+    "name": "Maushold",
+    "formName": "Family of Three",
+    "region": "paldea",
     "generation": 9,
     "type1": "normal",
     "type2": null,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "MAUSHOLD",
+        "veekunDb": "maushold",
+        "smogon": "maushold",
         "showdown": "maushold",
         "showdownDef": "Maushold",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "maushold",
+        "bulbapedia": "Maushold",
+        "homeSprite": "0946",
+        "miniSprite": "0946"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "maushold"
+    ],
     "evolutions": []
 }

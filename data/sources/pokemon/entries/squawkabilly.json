@@ -3,9 +3,9 @@
     "nid": "0960",
     "dexNum": 960,
     "formId": null,
-    "name": "???",
-    "formName": null,
-    "region": "???",
+    "name": "Squawkabilly",
+    "formName": "Green-feathered",
+    "region": "paldea",
     "generation": 9,
     "type1": "normal",
     "type2": "flying",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "SQUAWKABILLY",
+        "veekunDb": "squawkabilly",
+        "smogon": "squawkabilly",
         "showdown": "squawkabilly",
         "showdownDef": "Squawkabilly",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "squawkabilly",
+        "bulbapedia": "Squawkabilly",
+        "homeSprite": "0960",
+        "miniSprite": "0960"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "squawkabilly"
+    ],
     "evolutions": []
 }

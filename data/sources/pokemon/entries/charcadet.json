@@ -3,9 +3,9 @@
     "nid": "1003",
     "dexNum": 1003,
     "formId": null,
-    "name": "???",
+    "name": "Charcadet",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "fire",
     "type2": null,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "CHARCADET",
+        "veekunDb": "charcadet",
+        "smogon": "charcadet",
         "showdown": "charcadet",
         "showdownDef": "Charcadet",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "charcadet",
+        "bulbapedia": "Charcadet",
+        "homeSprite": "1003",
+        "miniSprite": "1003"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "charcadet"
+    ],
     "evolutions": []
 }

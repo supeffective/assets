@@ -3,9 +3,9 @@
     "nid": "0960-blue",
     "dexNum": 960,
     "formId": "blue",
-    "name": "???",
-    "formName": null,
-    "region": "???",
+    "name": "Squawkabilly Blue-feathered",
+    "formName": "Blue-feathered",
+    "region": "paldea",
     "generation": 9,
     "type1": "normal",
     "type2": "flying",
@@ -19,7 +19,7 @@
     "isMythical": false,
     "isUltraBeast": false,
     "ultraBeastCode": null,
-    "isDefault": true,
+    "isDefault": false,
     "isForm": true,
     "isSpecialAbilityForm": false,
     "isCosmeticForm": false,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,17 +75,17 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "SQUAWKABILLY_BLUE",
+        "veekunDb": "squawkabilly-blue",
+        "smogon": "squawkabilly-blue",
         "showdown": "squawkabillyblue",
         "showdownDef": "Squawkabilly-Blue",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "Squawkabilly",
+        "bulbapedia": "Squawkabilly_Blue",
+        "homeSprite": "0960-blue",
+        "miniSprite": "0960-blue"
     },
-    "baseSpecies": null,
+    "baseSpecies": "Squawkabilly",
     "baseForms": [],
     "forms": [],
     "evolutions": []

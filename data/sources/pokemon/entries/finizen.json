@@ -3,9 +3,9 @@
     "nid": "0933",
     "dexNum": 933,
     "formId": null,
-    "name": "???",
+    "name": "Finizen",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "water",
     "type2": null,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "FINIZEN",
+        "veekunDb": "finizen",
+        "smogon": "finizen",
         "showdown": "finizen",
         "showdownDef": "Finizen",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "finizen",
+        "bulbapedia": "Finizen",
+        "homeSprite": "0933",
+        "miniSprite": "0933"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "finizen"
+    ],
     "evolutions": []
 }

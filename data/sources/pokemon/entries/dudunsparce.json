@@ -3,9 +3,9 @@
     "nid": "0917",
     "dexNum": 917,
     "formId": null,
-    "name": "???",
-    "formName": null,
-    "region": "???",
+    "name": "Dudunsparce",
+    "formName": "Two-Segment Form",
+    "region": "paldea",
     "generation": 9,
     "type1": "normal",
     "type2": null,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,21 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "DUDUNSPARCE",
+        "veekunDb": "dudunsparce",
+        "smogon": "dudunsparce",
         "showdown": "dudunsparce",
         "showdownDef": "Dudunsparce",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "dudunsparce",
+        "bulbapedia": "Dudunsparce",
+        "homeSprite": "0917",
+        "miniSprite": "0917"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
-        "dudunsparce",
-        "dudunsparce-three-segment"
+        "dudunsparce"
     ],
     "evolutions": []
 }

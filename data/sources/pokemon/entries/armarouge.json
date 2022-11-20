@@ -3,9 +3,9 @@
     "nid": "1004",
     "dexNum": 1004,
     "formId": null,
-    "name": "???",
+    "name": "Armarouge",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "fire",
     "type2": "psychic",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "ARMAROUGE",
+        "veekunDb": "armarouge",
+        "smogon": "armarouge",
         "showdown": "armarouge",
         "showdownDef": "Armarouge",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "armarouge",
+        "bulbapedia": "Armarouge",
+        "homeSprite": "1004",
+        "miniSprite": "1004"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "armarouge"
+    ],
     "evolutions": []
 }

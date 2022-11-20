@@ -3,9 +3,9 @@
     "nid": "0925",
     "dexNum": 925,
     "formId": null,
-    "name": "???",
+    "name": "Houndstone",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "ghost",
     "type2": null,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "HOUNDSTONE",
+        "veekunDb": "houndstone",
+        "smogon": "houndstone",
         "showdown": "houndstone",
         "showdownDef": "Houndstone",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "houndstone",
+        "bulbapedia": "Houndstone",
+        "homeSprite": "0925",
+        "miniSprite": "0925"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "houndstone"
+    ],
     "evolutions": []
 }

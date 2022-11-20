@@ -3,9 +3,9 @@
     "nid": "0938",
     "dexNum": 938,
     "formId": null,
-    "name": "???",
+    "name": "Capsakid",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "grass",
     "type2": null,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "CAPSAKID",
+        "veekunDb": "capsakid",
+        "smogon": "capsakid",
         "showdown": "capsakid",
         "showdownDef": "Capsakid",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "capsakid",
+        "bulbapedia": "Capsakid",
+        "homeSprite": "0938",
+        "miniSprite": "0938"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "capsakid"
+    ],
     "evolutions": []
 }

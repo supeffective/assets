@@ -3,9 +3,9 @@
     "nid": "0983",
     "dexNum": 983,
     "formId": null,
-    "name": "???",
+    "name": "Flutter Mane",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "ghost",
     "type2": "fairy",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "FLUTTERMANE",
+        "veekunDb": "fluttermane",
+        "smogon": "fluttermane",
         "showdown": "fluttermane",
         "showdownDef": "Fluttermane",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "fluttermane",
+        "bulbapedia": "Fluttermane",
+        "homeSprite": "0983",
+        "miniSprite": "0983"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "fluttermane"
+    ],
     "evolutions": []
 }

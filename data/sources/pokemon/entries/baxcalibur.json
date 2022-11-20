@@ -3,9 +3,9 @@
     "nid": "0951",
     "dexNum": 951,
     "formId": null,
-    "name": "???",
+    "name": "Baxcalibur",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "dragon",
     "type2": "ice",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "BAXCALIBUR",
+        "veekunDb": "baxcalibur",
+        "smogon": "baxcalibur",
         "showdown": "baxcalibur",
         "showdownDef": "Baxcalibur",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "baxcalibur",
+        "bulbapedia": "Baxcalibur",
+        "homeSprite": "0951",
+        "miniSprite": "0951"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "baxcalibur"
+    ],
     "evolutions": []
 }

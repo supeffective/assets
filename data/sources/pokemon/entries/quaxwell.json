@@ -3,9 +3,9 @@
     "nid": "0913",
     "dexNum": 913,
     "formId": null,
-    "name": "???",
+    "name": "Quaxwell",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "water",
     "type2": null,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "QUAXWELL",
+        "veekunDb": "quaxwell",
+        "smogon": "quaxwell",
         "showdown": "quaxwell",
         "showdownDef": "Quaxwell",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "quaxwell",
+        "bulbapedia": "Quaxwell",
+        "homeSprite": "0913",
+        "miniSprite": "0913"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "quaxwell"
+    ],
     "evolutions": []
 }

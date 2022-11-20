@@ -3,9 +3,9 @@
     "nid": "0916-f",
     "dexNum": 916,
     "formId": "f",
-    "name": "???",
-    "formName": null,
-    "region": "???",
+    "name": "Oinkologne (Female)",
+    "formName": "Female",
+    "region": "paldea",
     "generation": 9,
     "type1": "normal",
     "type2": null,
@@ -19,7 +19,7 @@
     "isMythical": false,
     "isUltraBeast": false,
     "ultraBeastCode": null,
-    "isDefault": true,
+    "isDefault": false,
     "isForm": true,
     "isSpecialAbilityForm": false,
     "isCosmeticForm": false,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,17 +75,17 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "OINKOLOGNE_F",
+        "veekunDb": "oinkologne-f",
+        "smogon": "oinkologne-f",
         "showdown": "oinkolognef",
         "showdownDef": "Oinkologne-F",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "Oinkologne",
+        "bulbapedia": "Oinkologne_F",
+        "homeSprite": "0916-f",
+        "miniSprite": "0916-f"
     },
-    "baseSpecies": null,
+    "baseSpecies": "Oinkologne",
     "baseForms": [],
     "forms": [],
     "evolutions": []

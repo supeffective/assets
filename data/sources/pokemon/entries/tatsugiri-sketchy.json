@@ -3,9 +3,9 @@
     "nid": "0952",
     "dexNum": 952,
     "formId": "sketchy",
-    "name": "???",
-    "formName": null,
-    "region": "???",
+    "name": "Tatsugiri Sketchy Form",
+    "formName": "Sketchy Form",
+    "region": "paldea",
     "generation": 9,
     "type1": "dragon",
     "type2": "water",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "TATSUGIRI_SKETCHY",
+        "veekunDb": "tatsugiri-sketchy",
+        "smogon": "tatsugiri-sketchy",
         "showdown": "tatsugiri",
         "showdownDef": "Tatsugiri",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "Tatsugiri",
+        "bulbapedia": "Tatsugiri_Sketchy",
+        "homeSprite": "0952",
+        "miniSprite": "0952"
     },
-    "baseSpecies": "tatsugiri",
+    "baseSpecies": "Tatsugiri",
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "tatsugiri-sketchy"
+    ],
     "evolutions": []
 }

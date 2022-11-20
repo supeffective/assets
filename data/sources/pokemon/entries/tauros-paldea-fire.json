@@ -3,9 +3,9 @@
     "nid": "0128-paldea-fire",
     "dexNum": 128,
     "formId": "paldea-fire",
-    "name": "???",
-    "formName": null,
-    "region": "???",
+    "name": "Tauros Blaze Breed",
+    "formName": "Blaze Breed",
+    "region": "paldea",
     "generation": 9,
     "type1": "fighting",
     "type2": "fire",
@@ -19,7 +19,7 @@
     "isMythical": false,
     "isUltraBeast": false,
     "ultraBeastCode": null,
-    "isDefault": true,
+    "isDefault": false,
     "isForm": true,
     "isSpecialAbilityForm": false,
     "isCosmeticForm": false,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,17 +75,17 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "TAUROS_PALDEA_FIRE",
+        "veekunDb": "tauros-paldea-fire",
+        "smogon": "tauros-paldea-fire",
         "showdown": "taurospaldeafire",
         "showdownDef": "Tauros-Paldea-Fire",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "Tauros",
+        "bulbapedia": "Tauros_Paldea_Fire",
+        "homeSprite": "0128-paldea-fire",
+        "miniSprite": "0128-paldea-fire"
     },
-    "baseSpecies": null,
+    "baseSpecies": "Tauros",
     "baseForms": [],
     "forms": [],
     "evolutions": []

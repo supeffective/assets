@@ -3,9 +3,9 @@
     "nid": "1005",
     "dexNum": 1005,
     "formId": null,
-    "name": "???",
+    "name": "Ceruledge",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "fire",
     "type2": "ghost",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "CERULEDGE",
+        "veekunDb": "ceruledge",
+        "smogon": "ceruledge",
         "showdown": "ceruledge",
         "showdownDef": "Ceruledge",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "ceruledge",
+        "bulbapedia": "Ceruledge",
+        "homeSprite": "1005",
+        "miniSprite": "1005"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "ceruledge"
+    ],
     "evolutions": []
 }

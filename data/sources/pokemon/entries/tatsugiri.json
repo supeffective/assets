@@ -3,9 +3,9 @@
     "nid": "0952",
     "dexNum": 952,
     "formId": null,
-    "name": "???",
-    "formName": null,
-    "region": "???",
+    "name": "Tatsugiri",
+    "formName": "Curly Form",
+    "region": "paldea",
     "generation": 9,
     "type1": "dragon",
     "type2": "water",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,22 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "TATSUGIRI",
+        "veekunDb": "tatsugiri",
+        "smogon": "tatsugiri",
         "showdown": "tatsugiri",
         "showdownDef": "Tatsugiri",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "tatsugiri",
+        "bulbapedia": "Tatsugiri",
+        "homeSprite": "0952",
+        "miniSprite": "0952"
     },
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
-        "tatsugiri",
-        "tatsugiri-droopy",
-        "tatsugiri-sketchy"
+        "tatsugiri"
     ],
     "evolutions": []
 }

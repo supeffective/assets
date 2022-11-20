@@ -3,9 +3,9 @@
     "nid": "0958",
     "dexNum": 958,
     "formId": null,
-    "name": "???",
+    "name": "Kilowattrel",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "electric",
     "type2": "flying",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "KILOWATTREL",
+        "veekunDb": "kilowattrel",
+        "smogon": "kilowattrel",
         "showdown": "kilowattrel",
         "showdownDef": "Kilowattrel",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "kilowattrel",
+        "bulbapedia": "Kilowattrel",
+        "homeSprite": "0958",
+        "miniSprite": "0958"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "kilowattrel"
+    ],
     "evolutions": []
 }

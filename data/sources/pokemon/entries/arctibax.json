@@ -3,9 +3,9 @@
     "nid": "0950",
     "dexNum": 950,
     "formId": null,
-    "name": "???",
+    "name": "Arctibax",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "dragon",
     "type2": "ice",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "ARCTIBAX",
+        "veekunDb": "arctibax",
+        "smogon": "arctibax",
         "showdown": "arctibax",
         "showdownDef": "Arctibax",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "arctibax",
+        "bulbapedia": "Arctibax",
+        "homeSprite": "0950",
+        "miniSprite": "0950"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "arctibax"
+    ],
     "evolutions": []
 }

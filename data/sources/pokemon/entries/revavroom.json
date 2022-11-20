@@ -3,9 +3,9 @@
     "nid": "0943",
     "dexNum": 943,
     "formId": null,
-    "name": "???",
+    "name": "Revavroom",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "steel",
     "type2": "poison",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "REVAVROOM",
+        "veekunDb": "revavroom",
+        "smogon": "revavroom",
         "showdown": "revavroom",
         "showdownDef": "Revavroom",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "revavroom",
+        "bulbapedia": "Revavroom",
+        "homeSprite": "0943",
+        "miniSprite": "0943"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "revavroom"
+    ],
     "evolutions": []
 }

@@ -3,9 +3,9 @@
     "nid": "0916",
     "dexNum": 916,
     "formId": null,
-    "name": "???",
+    "name": "Oinkologne",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "normal",
     "type2": null,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "OINKOLOGNE",
+        "veekunDb": "oinkologne",
+        "smogon": "oinkologne",
         "showdown": "oinkologne",
         "showdownDef": "Oinkologne",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "oinkologne",
+        "bulbapedia": "Oinkologne",
+        "homeSprite": "0916",
+        "miniSprite": "0916"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "oinkologne"
+    ],
     "evolutions": []
 }

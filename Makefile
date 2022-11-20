@@ -25,7 +25,7 @@ validate:
 
 migrate:
 	php scripts/migrate.php
-	make build
+#	make build
 
 preview:
 	docker-compose up -d previewer

@@ -3,9 +3,9 @@
     "nid": "0928",
     "dexNum": 928,
     "formId": null,
-    "name": "???",
+    "name": "Farigiraf",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "normal",
     "type2": "psychic",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "FARIGIRAF",
+        "veekunDb": "farigiraf",
+        "smogon": "farigiraf",
         "showdown": "farigiraf",
         "showdownDef": "Farigiraf",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "farigiraf",
+        "bulbapedia": "Farigiraf",
+        "homeSprite": "0928",
+        "miniSprite": "0928"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "farigiraf"
+    ],
     "evolutions": []
 }

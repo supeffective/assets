@@ -3,9 +3,9 @@
     "nid": "0910",
     "dexNum": 910,
     "formId": null,
-    "name": "???",
+    "name": "Crocalor",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "fire",
     "type2": null,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "CROCALOR",
+        "veekunDb": "crocalor",
+        "smogon": "crocalor",
         "showdown": "crocalor",
         "showdownDef": "Crocalor",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "crocalor",
+        "bulbapedia": "Crocalor",
+        "homeSprite": "0910",
+        "miniSprite": "0910"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "crocalor"
+    ],
     "evolutions": []
 }

@@ -3,9 +3,9 @@
     "nid": "1000",
     "dexNum": 1000,
     "formId": null,
-    "name": "???",
+    "name": "Tinkatink",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "fairy",
     "type2": "steel",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "TINKATINK",
+        "veekunDb": "tinkatink",
+        "smogon": "tinkatink",
         "showdown": "tinkatink",
         "showdownDef": "Tinkatink",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "tinkatink",
+        "bulbapedia": "Tinkatink",
+        "homeSprite": "1000",
+        "miniSprite": "1000"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "tinkatink"
+    ],
     "evolutions": []
 }

@@ -3,9 +3,9 @@
     "nid": "0965",
     "dexNum": 965,
     "formId": null,
-    "name": "???",
+    "name": "Garganacl",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "rock",
     "type2": null,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "GARGANACL",
+        "veekunDb": "garganacl",
+        "smogon": "garganacl",
         "showdown": "garganacl",
         "showdownDef": "Garganacl",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "garganacl",
+        "bulbapedia": "Garganacl",
+        "homeSprite": "0965",
+        "miniSprite": "0965"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "garganacl"
+    ],
     "evolutions": []
 }

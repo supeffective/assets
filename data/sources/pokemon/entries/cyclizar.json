@@ -3,9 +3,9 @@
     "nid": "0953",
     "dexNum": 953,
     "formId": null,
-    "name": "???",
+    "name": "Cyclizar",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "dragon",
     "type2": "normal",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "CYCLIZAR",
+        "veekunDb": "cyclizar",
+        "smogon": "cyclizar",
         "showdown": "cyclizar",
         "showdownDef": "Cyclizar",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "cyclizar",
+        "bulbapedia": "Cyclizar",
+        "homeSprite": "0953",
+        "miniSprite": "0953"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "cyclizar"
+    ],
     "evolutions": []
 }

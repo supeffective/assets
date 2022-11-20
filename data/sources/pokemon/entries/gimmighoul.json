@@ -3,9 +3,9 @@
     "nid": "0976",
     "dexNum": 976,
     "formId": null,
-    "name": "???",
-    "formName": null,
-    "region": "???",
+    "name": "Gimmighoul",
+    "formName": "Chest Form",
+    "region": "paldea",
     "generation": 9,
     "type1": "ghost",
     "type2": null,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "GIMMIGHOUL",
+        "veekunDb": "gimmighoul",
+        "smogon": "gimmighoul",
         "showdown": "gimmighoul",
         "showdownDef": "Gimmighoul",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "gimmighoul",
+        "bulbapedia": "Gimmighoul",
+        "homeSprite": "0976",
+        "miniSprite": "0976"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "gimmighoul"
+    ],
     "evolutions": []
 }

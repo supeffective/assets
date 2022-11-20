@@ -3,9 +3,9 @@
     "nid": "0968",
     "dexNum": 968,
     "formId": null,
-    "name": "???",
+    "name": "Shroodle",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "poison",
     "type2": "normal",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "SHROODLE",
+        "veekunDb": "shroodle",
+        "smogon": "shroodle",
         "showdown": "shroodle",
         "showdownDef": "Shroodle",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "shroodle",
+        "bulbapedia": "Shroodle",
+        "homeSprite": "0968",
+        "miniSprite": "0968"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "shroodle"
+    ],
     "evolutions": []
 }

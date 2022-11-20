@@ -3,9 +3,9 @@
     "nid": "0952-droopy",
     "dexNum": 952,
     "formId": "droopy",
-    "name": "???",
-    "formName": null,
-    "region": "???",
+    "name": "Tatsugiri Droopy Form",
+    "formName": "Droopy Form",
+    "region": "paldea",
     "generation": 9,
     "type1": "dragon",
     "type2": "water",
@@ -37,10 +37,14 @@
     "canDynamax": false,
     "canBeAlpha": false,
     "debutIn": "sv",
-    "obtainableIn": [],
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,17 +75,17 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "TATSUGIRI_DROOPY",
+        "veekunDb": "tatsugiri-droopy",
+        "smogon": "tatsugiri-droopy",
         "showdown": "tatsugiri",
         "showdownDef": "Tatsugiri",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "Tatsugiri",
+        "bulbapedia": "Tatsugiri_Droopy",
+        "homeSprite": "0952-droopy",
+        "miniSprite": "0952-droopy"
     },
-    "baseSpecies": "tatsugiri",
+    "baseSpecies": "Tatsugiri",
     "baseForms": [],
     "forms": [],
     "evolutions": []

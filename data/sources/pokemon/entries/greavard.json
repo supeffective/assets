@@ -3,9 +3,9 @@
     "nid": "0924",
     "dexNum": 924,
     "formId": null,
-    "name": "???",
+    "name": "Greavard",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "ghost",
     "type2": null,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "GREAVARD",
+        "veekunDb": "greavard",
+        "smogon": "greavard",
         "showdown": "greavard",
         "showdownDef": "Greavard",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "greavard",
+        "bulbapedia": "Greavard",
+        "homeSprite": "0924",
+        "miniSprite": "0924"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "greavard"
+    ],
     "evolutions": []
 }

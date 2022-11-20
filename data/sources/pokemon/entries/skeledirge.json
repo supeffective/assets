@@ -3,9 +3,9 @@
     "nid": "0911",
     "dexNum": 911,
     "formId": null,
-    "name": "???",
+    "name": "Skeledirge",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "fire",
     "type2": "ghost",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "SKELEDIRGE",
+        "veekunDb": "skeledirge",
+        "smogon": "skeledirge",
         "showdown": "skeledirge",
         "showdownDef": "Skeledirge",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "skeledirge",
+        "bulbapedia": "Skeledirge",
+        "homeSprite": "0911",
+        "miniSprite": "0911"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "skeledirge"
+    ],
     "evolutions": []
 }

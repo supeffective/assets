@@ -3,9 +3,9 @@
     "nid": "1009",
     "dexNum": 1009,
     "formId": null,
-    "name": "???",
+    "name": "Clodsire",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "poison",
     "type2": "ground",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "CLODSIRE",
+        "veekunDb": "clodsire",
+        "smogon": "clodsire",
         "showdown": "clodsire",
         "showdownDef": "Clodsire",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "clodsire",
+        "bulbapedia": "Clodsire",
+        "homeSprite": "1009",
+        "miniSprite": "1009"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "clodsire"
+    ],
     "evolutions": []
 }

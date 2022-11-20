@@ -3,9 +3,9 @@
     "nid": "1001",
     "dexNum": 1001,
     "formId": null,
-    "name": "???",
+    "name": "Tinkatuff",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "fairy",
     "type2": "steel",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "TINKATUFF",
+        "veekunDb": "tinkatuff",
+        "smogon": "tinkatuff",
         "showdown": "tinkatuff",
         "showdownDef": "Tinkatuff",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "tinkatuff",
+        "bulbapedia": "Tinkatuff",
+        "homeSprite": "1001",
+        "miniSprite": "1001"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "tinkatuff"
+    ],
     "evolutions": []
 }

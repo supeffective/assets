@@ -3,9 +3,9 @@
     "nid": "0977",
     "dexNum": 977,
     "formId": null,
-    "name": "???",
+    "name": "Gholdengo",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "ghost",
     "type2": "steel",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "GHOLDENGO",
+        "veekunDb": "gholdengo",
+        "smogon": "gholdengo",
         "showdown": "gholdengo",
         "showdownDef": "Gholdengo",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "gholdengo",
+        "bulbapedia": "Gholdengo",
+        "homeSprite": "0977",
+        "miniSprite": "0977"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "gholdengo"
+    ],
     "evolutions": []
 }

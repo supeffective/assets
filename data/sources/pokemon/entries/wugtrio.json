@@ -3,9 +3,9 @@
     "nid": "0930",
     "dexNum": 930,
     "formId": null,
-    "name": "???",
+    "name": "Wugtrio",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "water",
     "type2": null,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "WUGTRIO",
+        "veekunDb": "wugtrio",
+        "smogon": "wugtrio",
         "showdown": "wugtrio",
         "showdownDef": "Wugtrio",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "wugtrio",
+        "bulbapedia": "Wugtrio",
+        "homeSprite": "0930",
+        "miniSprite": "0930"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "wugtrio"
+    ],
     "evolutions": []
 }

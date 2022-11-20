@@ -3,9 +3,9 @@
     "nid": "0979",
     "dexNum": 979,
     "formId": null,
-    "name": "???",
+    "name": "Brute Bonnet",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "grass",
     "type2": "dark",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "BRUTEBONNET",
+        "veekunDb": "brutebonnet",
+        "smogon": "brutebonnet",
         "showdown": "brutebonnet",
         "showdownDef": "Brutebonnet",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "brutebonnet",
+        "bulbapedia": "Brutebonnet",
+        "homeSprite": "0979",
+        "miniSprite": "0979"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "brutebonnet"
+    ],
     "evolutions": []
 }

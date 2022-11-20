@@ -3,9 +3,9 @@
     "nid": "0944",
     "dexNum": 944,
     "formId": null,
-    "name": "???",
+    "name": "Orthworm",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "steel",
     "type2": null,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "ORTHWORM",
+        "veekunDb": "orthworm",
+        "smogon": "orthworm",
         "showdown": "orthworm",
         "showdownDef": "Orthworm",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "orthworm",
+        "bulbapedia": "Orthworm",
+        "homeSprite": "0944",
+        "miniSprite": "0944"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "orthworm"
+    ],
     "evolutions": []
 }

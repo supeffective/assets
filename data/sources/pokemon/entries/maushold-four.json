@@ -3,9 +3,9 @@
     "nid": "0946-four",
     "dexNum": 946,
     "formId": "four",
-    "name": "???",
-    "formName": null,
-    "region": "???",
+    "name": "Maushold Family of Four",
+    "formName": "Family of Four",
+    "region": "paldea",
     "generation": 9,
     "type1": "normal",
     "type2": null,
@@ -19,7 +19,7 @@
     "isMythical": false,
     "isUltraBeast": false,
     "ultraBeastCode": null,
-    "isDefault": true,
+    "isDefault": false,
     "isForm": true,
     "isSpecialAbilityForm": false,
     "isCosmeticForm": false,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,17 +75,17 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "MAUSHOLD_FOUR",
+        "veekunDb": "maushold-four",
+        "smogon": "maushold-four",
         "showdown": "mausholdfour",
         "showdownDef": "Maushold-Four",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "Maushold",
+        "bulbapedia": "Maushold_Four",
+        "homeSprite": "0946-four",
+        "miniSprite": "0946-four"
     },
-    "baseSpecies": null,
+    "baseSpecies": "Maushold",
     "baseForms": [],
     "forms": [],
     "evolutions": []

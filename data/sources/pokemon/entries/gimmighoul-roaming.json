@@ -3,9 +3,9 @@
     "nid": "0976-roaming",
     "dexNum": 976,
     "formId": "roaming",
-    "name": "???",
-    "formName": null,
-    "region": "???",
+    "name": "Gimmighoul Roaming Form",
+    "formName": "Roaming Form",
+    "region": "paldea",
     "generation": 9,
     "type1": "ghost",
     "type2": null,
@@ -19,7 +19,7 @@
     "isMythical": false,
     "isUltraBeast": false,
     "ultraBeastCode": null,
-    "isDefault": true,
+    "isDefault": false,
     "isForm": true,
     "isSpecialAbilityForm": false,
     "isCosmeticForm": false,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,17 +75,17 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "GIMMIGHOUL_ROAMING",
+        "veekunDb": "gimmighoul-roaming",
+        "smogon": "gimmighoul-roaming",
         "showdown": "gimmighoulroaming",
         "showdownDef": "Gimmighoul-Roaming",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "Gimmighoul",
+        "bulbapedia": "Gimmighoul_Roaming",
+        "homeSprite": "0976-roaming",
+        "miniSprite": "0976-roaming"
     },
-    "baseSpecies": null,
+    "baseSpecies": "Gimmighoul",
     "baseForms": [],
     "forms": [],
     "evolutions": []

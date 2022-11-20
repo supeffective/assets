@@ -3,9 +3,9 @@
     "nid": "0920",
     "dexNum": 920,
     "formId": null,
-    "name": "???",
+    "name": "Nymble",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "bug",
     "type2": null,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "NYMBLE",
+        "veekunDb": "nymble",
+        "smogon": "nymble",
         "showdown": "nymble",
         "showdownDef": "Nymble",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "nymble",
+        "bulbapedia": "Nymble",
+        "homeSprite": "0920",
+        "miniSprite": "0920"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "nymble"
+    ],
     "evolutions": []
 }

@@ -3,9 +3,9 @@
     "nid": "0932",
     "dexNum": 932,
     "formId": null,
-    "name": "???",
+    "name": "Veluza",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "water",
     "type2": "psychic",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "VELUZA",
+        "veekunDb": "veluza",
+        "smogon": "veluza",
         "showdown": "veluza",
         "showdownDef": "Veluza",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "veluza",
+        "bulbapedia": "Veluza",
+        "homeSprite": "0932",
+        "miniSprite": "0932"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "veluza"
+    ],
     "evolutions": []
 }

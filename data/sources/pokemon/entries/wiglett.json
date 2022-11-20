@@ -3,9 +3,9 @@
     "nid": "0929",
     "dexNum": 929,
     "formId": null,
-    "name": "???",
+    "name": "Wiglett",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "water",
     "type2": null,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "WIGLETT",
+        "veekunDb": "wiglett",
+        "smogon": "wiglett",
         "showdown": "wiglett",
         "showdownDef": "Wiglett",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "wiglett",
+        "bulbapedia": "Wiglett",
+        "homeSprite": "0929",
+        "miniSprite": "0929"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "wiglett"
+    ],
     "evolutions": []
 }

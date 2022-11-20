@@ -3,9 +3,9 @@
     "nid": "0991",
     "dexNum": 991,
     "formId": null,
-    "name": "???",
+    "name": "Iron Thorns",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "rock",
     "type2": "electric",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "IRONTHORNS",
+        "veekunDb": "ironthorns",
+        "smogon": "ironthorns",
         "showdown": "ironthorns",
         "showdownDef": "Ironthorns",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "ironthorns",
+        "bulbapedia": "Ironthorns",
+        "homeSprite": "0991",
+        "miniSprite": "0991"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "ironthorns"
+    ],
     "evolutions": []
 }

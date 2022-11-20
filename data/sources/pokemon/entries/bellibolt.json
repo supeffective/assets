@@ -3,9 +3,9 @@
     "nid": "0941",
     "dexNum": 941,
     "formId": null,
-    "name": "???",
+    "name": "Bellibolt",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "electric",
     "type2": null,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "BELLIBOLT",
+        "veekunDb": "bellibolt",
+        "smogon": "bellibolt",
         "showdown": "bellibolt",
         "showdownDef": "Bellibolt",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "bellibolt",
+        "bulbapedia": "Bellibolt",
+        "homeSprite": "0941",
+        "miniSprite": "0941"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "bellibolt"
+    ],
     "evolutions": []
 }

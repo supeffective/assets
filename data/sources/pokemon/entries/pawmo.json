@@ -3,9 +3,9 @@
     "nid": "0955",
     "dexNum": 955,
     "formId": null,
-    "name": "???",
+    "name": "Pawmo",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "electric",
     "type2": "fighting",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "PAWMO",
+        "veekunDb": "pawmo",
+        "smogon": "pawmo",
         "showdown": "pawmo",
         "showdownDef": "Pawmo",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "pawmo",
+        "bulbapedia": "Pawmo",
+        "homeSprite": "0955",
+        "miniSprite": "0955"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "pawmo"
+    ],
     "evolutions": []
 }

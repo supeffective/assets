@@ -3,9 +3,9 @@
     "nid": "0914",
     "dexNum": 914,
     "formId": null,
-    "name": "???",
+    "name": "Quaquaval",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "water",
     "type2": "fighting",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "QUAQUAVAL",
+        "veekunDb": "quaquaval",
+        "smogon": "quaquaval",
         "showdown": "quaquaval",
         "showdownDef": "Quaquaval",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "quaquaval",
+        "bulbapedia": "Quaquaval",
+        "homeSprite": "0914",
+        "miniSprite": "0914"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "quaquaval"
+    ],
     "evolutions": []
 }

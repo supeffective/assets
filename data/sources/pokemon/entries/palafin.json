@@ -3,9 +3,9 @@
     "nid": "0934",
     "dexNum": 934,
     "formId": null,
-    "name": "???",
-    "formName": null,
-    "region": "???",
+    "name": "Palafin",
+    "formName": "Zero Form",
+    "region": "paldea",
     "generation": 9,
     "type1": "water",
     "type2": null,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "PALAFIN",
+        "veekunDb": "palafin",
+        "smogon": "palafin",
         "showdown": "palafin",
         "showdownDef": "Palafin",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "palafin",
+        "bulbapedia": "Palafin",
+        "homeSprite": "0934",
+        "miniSprite": "0934"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "palafin"
+    ],
     "evolutions": []
 }

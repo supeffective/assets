@@ -3,9 +3,9 @@
     "nid": "0917-three-segment",
     "dexNum": 917,
     "formId": "three-segment",
-    "name": "???",
-    "formName": null,
-    "region": "???",
+    "name": "Dudunsparce Three-Segment Form",
+    "formName": "Three-Segment Form",
+    "region": "paldea",
     "generation": 9,
     "type1": "normal",
     "type2": null,
@@ -19,7 +19,7 @@
     "isMythical": false,
     "isUltraBeast": false,
     "ultraBeastCode": null,
-    "isDefault": true,
+    "isDefault": false,
     "isForm": true,
     "isSpecialAbilityForm": false,
     "isCosmeticForm": false,
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,17 +75,17 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "DUDUNSPARCE_THREE_SEGMENT",
+        "veekunDb": "dudunsparce-three-segment",
+        "smogon": "dudunsparce-three-segment",
         "showdown": "dudunsparcethreesegment",
         "showdownDef": "Dudunsparce-Three-Segment",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "Dudunsparce",
+        "bulbapedia": "Dudunsparce_Three_Segment",
+        "homeSprite": "0917-three-segment",
+        "miniSprite": "0917-three-segment"
     },
-    "baseSpecies": "dudunsparce",
+    "baseSpecies": "Dudunsparce",
     "baseForms": [],
     "forms": [],
     "evolutions": []

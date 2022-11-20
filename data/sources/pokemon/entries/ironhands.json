@@ -3,9 +3,9 @@
     "nid": "0989",
     "dexNum": 989,
     "formId": null,
-    "name": "???",
+    "name": "Iron Hands",
     "formName": null,
-    "region": "???",
+    "region": "paldea",
     "generation": 9,
     "type1": "fighting",
     "type2": "electric",
@@ -36,11 +36,15 @@
     "canGmax": false,
     "canDynamax": false,
     "canBeAlpha": false,
-    "debutIn": "???",
-    "obtainableIn": [],
+    "debutIn": "sv",
+    "obtainableIn": [
+        "sv"
+    ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [],
+    "storableIn": [
+        "sv"
+    ],
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -71,18 +75,20 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "???",
-        "veekunDb": "???",
-        "smogon": "???",
+        "pogo": "IRONHANDS",
+        "veekunDb": "ironhands",
+        "smogon": "ironhands",
         "showdown": "ironhands",
         "showdownDef": "Ironhands",
-        "serebii": "???",
-        "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "serebii": "ironhands",
+        "bulbapedia": "Ironhands",
+        "homeSprite": "0989",
+        "miniSprite": "0989"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "ironhands"
+    ],
     "evolutions": []
 }
