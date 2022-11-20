@@ -45,7 +45,7 @@
     "storableIn": [
         "sv"
     ],
-    "shinyReleased": false,
+    "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
         "hp": 110,
@@ -88,7 +88,8 @@
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
-        "oinkologne"
+        "oinkologne",
+        "oinkologne-f"
     ],
     "evolutions": []
 }

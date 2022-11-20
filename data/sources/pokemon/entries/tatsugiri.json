@@ -45,7 +45,7 @@
     "storableIn": [
         "sv"
     ],
-    "shinyReleased": false,
+    "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
         "hp": 68,
@@ -88,7 +88,9 @@
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
-        "tatsugiri"
+        "tatsugiri",
+        "tatsugiri-droopy",
+        "tatsugiri-sketchy"
     ],
     "evolutions": []
 }

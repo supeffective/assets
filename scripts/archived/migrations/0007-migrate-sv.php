@@ -42,19 +42,20 @@ require_once __DIR__ . '/_bootstrap.php';
             continue;
         }
         // TODO modify $newPkm here, e.g.:
-        $newPkm['name'] = ucwords(str_replace('-', ' ', $pkmId));
-        $newPkm['formName'] = str_contains($pkmId, '-') ? ucwords(str_replace('-', ' ', explode('-', $pkmId, 2)[1])) : null;
+        //$newPkm['name'] = ucwords(str_replace('-', ' ', $pkmId));
+        //$newPkm['formName'] = str_contains($pkmId, '-') ? ucwords(str_replace('-', ' ', explode('-', $pkmId, 2)[1])) : null;
         $newPkm['region'] = 'paldea';
         $newPkm['isDefault'] = $newPkm['isForm'] === false;
         $newPkm['debutIn'] = 'sv';
         $newPkm['obtainableIn'] = ['sv'];
         $newPkm['storableIn'] = ['sv'];
+        //$newPkm['shinyReleased'] = true;
 
         $newPkm['baseSpecies'] = str_contains($pkmId, '-') ? ucwords(str_replace('-', ' ', explode('-', $pkmId, 2)[0])) : null;
 
-        if (!$newPkm['isForm']) {
-            $newPkm['forms'] = [$pkmId];
-        }
+        // if (!$newPkm['isForm']) {
+        //     $newPkm['forms'] = [$pkmId];
+        // }
 
         $species = $newPkm['baseSpecies'] ?: $pkmId;
 

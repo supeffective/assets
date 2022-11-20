@@ -45,7 +45,7 @@
     "storableIn": [
         "sv"
     ],
-    "shinyReleased": false,
+    "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
         "hp": 82,
@@ -88,7 +88,10 @@
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
-        "squawkabilly"
+        "squawkabilly",
+        "squawkabilly-blue",
+        "squawkabilly-yellow",
+        "squawkabilly-white"
     ],
     "evolutions": []
 }
