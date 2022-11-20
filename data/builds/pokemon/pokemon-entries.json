@@ -4502,6 +4502,7 @@
             "la",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -4526,6 +4527,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -4628,30 +4630,32 @@
         "canBeAlpha": true,
         "debutIn": "dp",
         "obtainableIn": [
-            "go",
-            "lgpe",
-            "swsh",
             "bdsp",
-            "la"
+            "go",
+            "la",
+            "lgpe",
+            "sv",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "dp",
-            "pt",
-            "hgss",
-            "bw",
             "b2w2",
-            "xy",
-            "oras",
-            "go",
-            "sm",
-            "usum",
-            "lgpe",
-            "swsh",
-            "home",
             "bdsp",
-            "la"
+            "bw",
+            "dp",
+            "go",
+            "hgss",
+            "home",
+            "la",
+            "lgpe",
+            "oras",
+            "pt",
+            "sm",
+            "sv",
+            "swsh",
+            "usum",
+            "xy"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -5609,6 +5613,7 @@
             "la",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -5633,6 +5638,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -5727,30 +5733,32 @@
         "canBeAlpha": true,
         "debutIn": "dp",
         "obtainableIn": [
-            "go",
-            "lgpe",
-            "swsh",
             "bdsp",
-            "la"
+            "go",
+            "la",
+            "lgpe",
+            "sv",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "dp",
-            "pt",
-            "hgss",
-            "bw",
             "b2w2",
-            "xy",
-            "oras",
-            "go",
-            "sm",
-            "usum",
-            "lgpe",
-            "swsh",
-            "home",
             "bdsp",
-            "la"
+            "bw",
+            "dp",
+            "go",
+            "hgss",
+            "home",
+            "la",
+            "lgpe",
+            "oras",
+            "pt",
+            "sm",
+            "sv",
+            "swsh",
+            "usum",
+            "xy"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -5840,6 +5848,7 @@
             "go",
             "lgpe",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -5850,6 +5859,7 @@
             "home",
             "lgpe",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -7803,6 +7813,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -7826,6 +7837,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -7923,6 +7935,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -7946,6 +7959,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -9327,6 +9341,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "y"
         ],
         "versionExclusiveIn": [],
@@ -9349,6 +9364,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy",
             "y"
@@ -9445,6 +9461,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "y"
         ],
         "versionExclusiveIn": [],
@@ -9467,6 +9484,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy",
             "y"
@@ -9563,6 +9581,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -9586,6 +9605,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -9682,6 +9702,7 @@
             "go",
             "lgpe",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -9692,6 +9713,7 @@
             "home",
             "lgpe",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -9785,6 +9807,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -9808,6 +9831,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -9904,6 +9928,7 @@
             "go",
             "lgpe",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -9914,6 +9939,7 @@
             "home",
             "lgpe",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -10007,6 +10033,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -10030,6 +10057,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -10128,6 +10156,7 @@
             "go",
             "lgpe",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -10138,6 +10167,7 @@
             "home",
             "lgpe",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -10227,6 +10257,7 @@
         "debutIn": "swsh",
         "obtainableIn": [
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -10234,6 +10265,7 @@
         "storableIn": [
             "go",
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -10418,6 +10450,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -10441,6 +10474,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -10537,6 +10571,7 @@
             "go",
             "lgpe",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -10547,6 +10582,7 @@
             "home",
             "lgpe",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -10641,6 +10677,7 @@
             "la",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -10665,6 +10702,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -10763,6 +10801,7 @@
             "la",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -10787,6 +10826,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -10884,6 +10924,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "y"
         ],
         "versionExclusiveIn": [],
@@ -10906,6 +10947,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy",
             "y"
@@ -11002,6 +11044,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "y"
         ],
         "versionExclusiveIn": [],
@@ -11024,6 +11067,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy",
             "y"
@@ -11120,6 +11164,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -11143,6 +11188,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -11237,14 +11283,16 @@
         "debutIn": "la",
         "obtainableIn": [
             "go",
-            "la"
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "go",
             "home",
-            "la"
+            "la",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -11336,6 +11384,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -11359,6 +11408,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -11453,14 +11503,16 @@
         "debutIn": "la",
         "obtainableIn": [
             "go",
-            "la"
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "go",
             "home",
-            "la"
+            "la",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -14747,6 +14799,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -14770,6 +14823,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -14864,6 +14918,7 @@
         "debutIn": "swsh",
         "obtainableIn": [
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -14871,6 +14926,7 @@
         "storableIn": [
             "go",
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -14963,6 +15019,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -14986,6 +15043,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -15175,6 +15233,7 @@
         "debutIn": "swsh",
         "obtainableIn": [
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -15182,6 +15241,7 @@
         "storableIn": [
             "go",
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -15275,6 +15335,7 @@
             "la",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -15299,6 +15360,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -15397,6 +15459,7 @@
             "la",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -15421,6 +15484,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -16420,6 +16484,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "y"
         ],
         "versionExclusiveIn": [],
@@ -16442,6 +16507,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy",
             "y"
@@ -16537,6 +16603,7 @@
             "go",
             "lgpe",
             "sm",
+            "sv",
             "usum"
         ],
         "versionExclusiveIn": [],
@@ -16546,6 +16613,7 @@
             "home",
             "lgpe",
             "sm",
+            "sv",
             "usum"
         ],
         "shinyReleased": true,
@@ -16638,6 +16706,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "y"
         ],
         "versionExclusiveIn": [],
@@ -16660,6 +16729,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy",
             "y"
@@ -16755,6 +16825,7 @@
             "go",
             "lgpe",
             "sm",
+            "sv",
             "usum"
         ],
         "versionExclusiveIn": [],
@@ -16764,6 +16835,7 @@
             "home",
             "lgpe",
             "sm",
+            "sv",
             "usum"
         ],
         "shinyReleased": true,
@@ -16856,6 +16928,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -16879,6 +16952,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -16976,6 +17050,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -16999,6 +17074,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -17097,6 +17173,7 @@
             "la",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -17121,6 +17198,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -17219,6 +17297,7 @@
             "la",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -17243,6 +17322,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -17341,6 +17421,7 @@
             "la",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -17365,6 +17446,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -17771,6 +17853,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "y"
         ],
         "versionExclusiveIn": [],
@@ -17793,6 +17876,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy",
             "y"
@@ -17889,6 +17973,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "y"
         ],
         "versionExclusiveIn": [],
@@ -17911,6 +17996,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy",
             "y"
@@ -18003,26 +18089,28 @@
         "canBeAlpha": false,
         "debutIn": "dp",
         "obtainableIn": [
+            "bdsp",
             "go",
             "lgpe",
-            "bdsp"
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "dp",
-            "pt",
-            "hgss",
-            "bw",
             "b2w2",
-            "xy",
-            "oras",
+            "bdsp",
+            "bw",
+            "dp",
             "go",
-            "sm",
-            "usum",
-            "lgpe",
+            "hgss",
             "home",
-            "bdsp"
+            "lgpe",
+            "oras",
+            "pt",
+            "sm",
+            "sv",
+            "usum",
+            "xy"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -18447,6 +18535,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "y"
         ],
         "versionExclusiveIn": [],
@@ -18469,6 +18558,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy",
             "y"
@@ -18562,14 +18652,16 @@
         "debutIn": "la",
         "obtainableIn": [
             "go",
-            "la"
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "go",
             "home",
-            "la"
+            "la",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -18661,6 +18753,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "y"
         ],
         "versionExclusiveIn": [],
@@ -18683,6 +18776,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy",
             "y"
@@ -18776,14 +18870,16 @@
         "debutIn": "la",
         "obtainableIn": [
             "go",
-            "la"
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "go",
             "home",
-            "la"
+            "la",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -20724,6 +20820,7 @@
             "la",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -20748,6 +20845,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -22338,6 +22436,7 @@
             "la",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -22362,6 +22461,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -22455,30 +22555,32 @@
         "canBeAlpha": true,
         "debutIn": "dp",
         "obtainableIn": [
-            "go",
-            "lgpe",
-            "swsh",
             "bdsp",
-            "la"
+            "go",
+            "la",
+            "lgpe",
+            "sv",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "dp",
-            "pt",
-            "hgss",
-            "bw",
             "b2w2",
-            "xy",
-            "oras",
-            "go",
-            "sm",
-            "usum",
-            "lgpe",
-            "swsh",
-            "home",
             "bdsp",
-            "la"
+            "bw",
+            "dp",
+            "go",
+            "hgss",
+            "home",
+            "la",
+            "lgpe",
+            "oras",
+            "pt",
+            "sm",
+            "sv",
+            "swsh",
+            "usum",
+            "xy"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -23548,6 +23650,7 @@
             "la",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -23572,6 +23675,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -23665,30 +23769,32 @@
         "canBeAlpha": true,
         "debutIn": "dp",
         "obtainableIn": [
-            "go",
-            "lgpe",
-            "swsh",
             "bdsp",
-            "la"
+            "go",
+            "la",
+            "lgpe",
+            "sv",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "dp",
-            "pt",
-            "hgss",
-            "bw",
             "b2w2",
-            "xy",
-            "oras",
-            "go",
-            "sm",
-            "usum",
-            "lgpe",
-            "swsh",
-            "home",
             "bdsp",
-            "la"
+            "bw",
+            "dp",
+            "go",
+            "hgss",
+            "home",
+            "la",
+            "lgpe",
+            "oras",
+            "pt",
+            "sm",
+            "sv",
+            "swsh",
+            "usum",
+            "xy"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -23781,6 +23887,7 @@
             "la",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -23805,6 +23912,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -23899,30 +24007,32 @@
         "canBeAlpha": true,
         "debutIn": "dp",
         "obtainableIn": [
-            "go",
-            "lgpe",
-            "swsh",
             "bdsp",
-            "la"
+            "go",
+            "la",
+            "lgpe",
+            "sv",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "dp",
-            "pt",
-            "hgss",
-            "bw",
             "b2w2",
-            "xy",
-            "oras",
-            "go",
-            "sm",
-            "usum",
-            "lgpe",
-            "swsh",
-            "home",
             "bdsp",
-            "la"
+            "bw",
+            "dp",
+            "go",
+            "hgss",
+            "home",
+            "la",
+            "lgpe",
+            "oras",
+            "pt",
+            "sm",
+            "sv",
+            "swsh",
+            "usum",
+            "xy"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -24320,6 +24430,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -24343,6 +24454,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -24441,6 +24553,7 @@
             "la",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -24465,6 +24578,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -24559,19 +24673,21 @@
         "canBeAlpha": true,
         "debutIn": "swsh",
         "obtainableIn": [
-            "go",
-            "swsh",
             "bdsp",
-            "la"
+            "go",
+            "la",
+            "sv",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "go",
-            "swsh",
-            "home",
             "bdsp",
-            "la"
+            "go",
+            "home",
+            "la",
+            "sv",
+            "swsh"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -24756,6 +24872,7 @@
             "la",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -24780,6 +24897,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -24878,6 +24996,7 @@
             "la",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -24902,6 +25021,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -25000,6 +25120,7 @@
             "la",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -25024,6 +25145,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -26800,6 +26922,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -26823,6 +26946,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -26920,6 +27044,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -26943,6 +27068,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -27040,6 +27166,7 @@
             "go",
             "lgpe",
             "rb",
+            "sv",
             "swsh",
             "y"
         ],
@@ -27063,6 +27190,7 @@
             "rb",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy",
@@ -30294,6 +30422,7 @@
             "gs",
             "hgss",
             "la",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -30315,6 +30444,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -30529,6 +30659,7 @@
             "go",
             "gs",
             "hgss",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -30549,6 +30680,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -31220,7 +31352,8 @@
             "c",
             "go",
             "gs",
-            "hgss"
+            "hgss",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -31240,6 +31373,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -31334,7 +31468,8 @@
             "c",
             "go",
             "gs",
-            "hgss"
+            "hgss",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -31354,6 +31489,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -31448,7 +31584,8 @@
             "c",
             "go",
             "gs",
-            "hgss"
+            "hgss",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -31468,6 +31605,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -31773,6 +31911,7 @@
             "go",
             "gs",
             "hgss",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -31793,6 +31932,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -31889,6 +32029,7 @@
             "go",
             "gs",
             "hgss",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -31909,6 +32050,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -32006,6 +32148,7 @@
             "gs",
             "hgss",
             "la",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -32027,6 +32170,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -32119,29 +32263,31 @@
         "canBeAlpha": true,
         "debutIn": "dp",
         "obtainableIn": [
-            "hgss",
-            "go",
-            "swsh",
             "bdsp",
-            "la"
+            "go",
+            "hgss",
+            "la",
+            "sv",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "dp",
-            "pt",
-            "hgss",
-            "bw",
             "b2w2",
-            "xy",
-            "oras",
-            "go",
-            "sm",
-            "usum",
-            "swsh",
-            "home",
             "bdsp",
-            "la"
+            "bw",
+            "dp",
+            "go",
+            "hgss",
+            "home",
+            "la",
+            "oras",
+            "pt",
+            "sm",
+            "sv",
+            "swsh",
+            "usum",
+            "xy"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -32456,7 +32602,8 @@
             "c",
             "go",
             "gs",
-            "hgss"
+            "hgss",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -32476,6 +32623,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -32570,7 +32718,8 @@
             "c",
             "go",
             "gs",
-            "hgss"
+            "hgss",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -32590,6 +32739,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -32684,7 +32834,8 @@
             "c",
             "go",
             "gs",
-            "hgss"
+            "hgss",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -32704,6 +32855,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -33022,7 +33174,8 @@
             "c",
             "go",
             "gs",
-            "hgss"
+            "hgss",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -33042,6 +33195,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -33136,7 +33290,8 @@
             "c",
             "go",
             "gs",
-            "hgss"
+            "hgss",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -33156,6 +33311,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -33909,6 +34065,7 @@
             "gs",
             "hgss",
             "la",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -33930,6 +34087,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -34027,6 +34185,7 @@
             "gs",
             "hgss",
             "la",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -34048,6 +34207,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -34144,7 +34304,8 @@
             "go",
             "gs",
             "hgss",
-            "la"
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -34165,6 +34326,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -34256,27 +34418,29 @@
         "canBeAlpha": true,
         "debutIn": "dp",
         "obtainableIn": [
-            "hgss",
-            "go",
             "bdsp",
-            "la"
+            "go",
+            "hgss",
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "dp",
-            "pt",
-            "hgss",
-            "bw",
             "b2w2",
-            "xy",
-            "oras",
-            "go",
-            "sm",
-            "usum",
-            "home",
             "bdsp",
-            "la"
+            "bw",
+            "dp",
+            "go",
+            "hgss",
+            "home",
+            "la",
+            "oras",
+            "pt",
+            "sm",
+            "sv",
+            "usum",
+            "xy"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -34368,6 +34532,7 @@
             "go",
             "gs",
             "hgss",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -34388,6 +34553,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -34481,6 +34647,7 @@
         "debutIn": "swsh",
         "obtainableIn": [
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -34488,6 +34655,7 @@
         "storableIn": [
             "go",
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -34580,7 +34748,8 @@
             "go",
             "gs",
             "hgss",
-            "la"
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -34601,6 +34770,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -38134,7 +38304,8 @@
             "c",
             "go",
             "gs",
-            "hgss"
+            "hgss",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -38154,6 +38325,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -38245,25 +38417,27 @@
         "canBeAlpha": false,
         "debutIn": "dp",
         "obtainableIn": [
-            "hgss",
+            "bdsp",
             "go",
-            "bdsp"
+            "hgss",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "dp",
-            "pt",
-            "hgss",
-            "bw",
             "b2w2",
-            "xy",
-            "oras",
+            "bdsp",
+            "bw",
+            "dp",
             "go",
-            "sm",
-            "usum",
+            "hgss",
             "home",
-            "bdsp"
+            "oras",
+            "pt",
+            "sm",
+            "sv",
+            "usum",
+            "xy"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -38354,7 +38528,8 @@
             "c",
             "go",
             "gs",
-            "hgss"
+            "hgss",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -38374,6 +38549,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -38468,7 +38644,8 @@
             "c",
             "go",
             "gs",
-            "hgss"
+            "hgss",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -38488,6 +38665,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -38583,6 +38761,7 @@
             "go",
             "gs",
             "hgss",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -38603,6 +38782,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -39473,6 +39653,7 @@
             "go",
             "gs",
             "hgss",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -39493,6 +39674,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -39586,14 +39768,16 @@
         "debutIn": "la",
         "obtainableIn": [
             "go",
-            "la"
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "go",
             "home",
-            "la"
+            "la",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -39686,6 +39870,7 @@
             "gs",
             "hgss",
             "la",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -39707,6 +39892,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -39800,29 +39986,31 @@
         "canBeAlpha": true,
         "debutIn": "dp",
         "obtainableIn": [
-            "hgss",
-            "go",
-            "swsh",
             "bdsp",
-            "la"
+            "go",
+            "hgss",
+            "la",
+            "sv",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "dp",
-            "pt",
-            "hgss",
-            "bw",
             "b2w2",
-            "xy",
-            "oras",
-            "go",
-            "sm",
-            "usum",
-            "swsh",
-            "home",
             "bdsp",
-            "la"
+            "bw",
+            "dp",
+            "go",
+            "hgss",
+            "home",
+            "la",
+            "oras",
+            "pt",
+            "sm",
+            "sv",
+            "swsh",
+            "usum",
+            "xy"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -40124,6 +40312,7 @@
             "gs",
             "hgss",
             "la",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -40145,6 +40334,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -40238,29 +40428,31 @@
         "canBeAlpha": true,
         "debutIn": "dp",
         "obtainableIn": [
-            "hgss",
-            "go",
-            "swsh",
             "bdsp",
-            "la"
+            "go",
+            "hgss",
+            "la",
+            "sv",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "dp",
-            "pt",
-            "hgss",
-            "bw",
             "b2w2",
-            "xy",
-            "oras",
-            "go",
-            "sm",
-            "usum",
-            "swsh",
-            "home",
             "bdsp",
-            "la"
+            "bw",
+            "dp",
+            "go",
+            "hgss",
+            "home",
+            "la",
+            "oras",
+            "pt",
+            "sm",
+            "sv",
+            "swsh",
+            "usum",
+            "xy"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -40446,6 +40638,7 @@
             "gs",
             "hgss",
             "la",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -40467,6 +40660,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -40561,29 +40755,31 @@
         "canBeAlpha": true,
         "debutIn": "dp",
         "obtainableIn": [
-            "hgss",
-            "go",
-            "swsh",
             "bdsp",
-            "la"
+            "go",
+            "hgss",
+            "la",
+            "sv",
+            "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "dp",
-            "pt",
-            "hgss",
-            "bw",
             "b2w2",
-            "xy",
-            "oras",
-            "go",
-            "sm",
-            "usum",
-            "swsh",
-            "home",
             "bdsp",
-            "la"
+            "bw",
+            "dp",
+            "go",
+            "hgss",
+            "home",
+            "la",
+            "oras",
+            "pt",
+            "sm",
+            "sv",
+            "swsh",
+            "usum",
+            "xy"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -40671,14 +40867,16 @@
         "debutIn": "la",
         "obtainableIn": [
             "go",
-            "la"
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "go",
             "home",
-            "la"
+            "la",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -40766,14 +40964,16 @@
         "debutIn": "la",
         "obtainableIn": [
             "go",
-            "la"
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "go",
             "home",
-            "la"
+            "la",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -40865,7 +41065,8 @@
             "go",
             "gs",
             "hgss",
-            "la"
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -40886,6 +41087,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -40981,7 +41183,8 @@
             "go",
             "gs",
             "hgss",
-            "la"
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -41002,6 +41205,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -41093,27 +41297,29 @@
         "canBeAlpha": true,
         "debutIn": "dp",
         "obtainableIn": [
-            "hgss",
-            "go",
             "bdsp",
-            "la"
+            "go",
+            "hgss",
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "dp",
-            "pt",
-            "hgss",
-            "bw",
             "b2w2",
-            "xy",
-            "oras",
-            "go",
-            "sm",
-            "usum",
-            "home",
             "bdsp",
-            "la"
+            "bw",
+            "dp",
+            "go",
+            "hgss",
+            "home",
+            "la",
+            "oras",
+            "pt",
+            "sm",
+            "sv",
+            "usum",
+            "xy"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -42335,6 +42541,7 @@
             "go",
             "gs",
             "hgss",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -42355,6 +42562,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -42684,7 +42892,8 @@
             "c",
             "go",
             "gs",
-            "hgss"
+            "hgss",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -42704,6 +42913,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -42798,7 +43008,8 @@
             "c",
             "go",
             "gs",
-            "hgss"
+            "hgss",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -42818,6 +43029,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -42910,25 +43122,27 @@
         "canBeAlpha": false,
         "debutIn": "dp",
         "obtainableIn": [
-            "hgss",
+            "bdsp",
             "go",
-            "bdsp"
+            "hgss",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "dp",
-            "pt",
-            "hgss",
-            "bw",
             "b2w2",
-            "xy",
-            "oras",
+            "bdsp",
+            "bw",
+            "dp",
             "go",
-            "sm",
-            "usum",
+            "hgss",
             "home",
-            "bdsp"
+            "oras",
+            "pt",
+            "sm",
+            "sv",
+            "usum",
+            "xy"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -43228,7 +43442,8 @@
             "c",
             "go",
             "gs",
-            "hgss"
+            "hgss",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -43248,6 +43463,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -43342,7 +43558,8 @@
             "c",
             "go",
             "gs",
-            "hgss"
+            "hgss",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -43362,6 +43579,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -43453,25 +43671,27 @@
         "canBeAlpha": false,
         "debutIn": "dp",
         "obtainableIn": [
-            "hgss",
+            "bdsp",
             "go",
-            "bdsp"
+            "hgss",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "dp",
-            "pt",
-            "hgss",
-            "bw",
             "b2w2",
-            "xy",
-            "oras",
+            "bdsp",
+            "bw",
+            "dp",
             "go",
-            "sm",
-            "usum",
+            "hgss",
             "home",
-            "bdsp"
+            "oras",
+            "pt",
+            "sm",
+            "sv",
+            "usum",
+            "xy"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -43681,7 +43901,8 @@
             "go",
             "gs",
             "hgss",
-            "la"
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -43702,6 +43923,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -44612,6 +44834,7 @@
             "gs",
             "hgss",
             "la",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -44633,6 +44856,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -45077,6 +45301,7 @@
             "go",
             "gs",
             "hgss",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -45097,6 +45322,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -45193,6 +45419,7 @@
             "go",
             "gs",
             "hgss",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -45213,6 +45440,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -45309,6 +45537,7 @@
             "go",
             "gs",
             "hgss",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -45329,6 +45558,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -50157,6 +50387,7 @@
             "go",
             "oras",
             "rs",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -50175,6 +50406,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -50271,6 +50503,7 @@
             "go",
             "oras",
             "rs",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -50289,6 +50522,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -50386,6 +50620,7 @@
             "la",
             "oras",
             "rs",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -50405,6 +50640,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -50502,6 +50738,7 @@
             "la",
             "oras",
             "rs",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -50521,6 +50758,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -50618,6 +50856,7 @@
             "la",
             "oras",
             "rs",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -50637,6 +50876,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -50826,7 +51066,8 @@
             "e",
             "go",
             "oras",
-            "rs"
+            "rs",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -50844,6 +51085,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -50938,7 +51180,8 @@
             "e",
             "go",
             "oras",
-            "rs"
+            "rs",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -50956,6 +51199,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -51050,7 +51294,8 @@
             "e",
             "go",
             "oras",
-            "rs"
+            "rs",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -51068,6 +51313,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -51162,7 +51408,8 @@
             "e",
             "go",
             "oras",
-            "rs"
+            "rs",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -51180,6 +51427,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -51274,7 +51522,8 @@
             "e",
             "go",
             "oras",
-            "rs"
+            "rs",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -51292,6 +51541,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -51386,7 +51636,8 @@
             "e",
             "go",
             "oras",
-            "rs"
+            "rs",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -51404,6 +51655,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -51498,7 +51750,8 @@
             "e",
             "go",
             "oras",
-            "rs"
+            "rs",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -51516,6 +51769,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -52294,7 +52548,8 @@
             "e",
             "go",
             "oras",
-            "rs"
+            "rs",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -52312,6 +52567,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -52406,7 +52662,8 @@
             "e",
             "go",
             "oras",
-            "rs"
+            "rs",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -52424,6 +52681,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -52519,6 +52777,7 @@
             "go",
             "oras",
             "rs",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -52537,6 +52796,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -52971,6 +53231,7 @@
             "go",
             "oras",
             "rs",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -52989,6 +53250,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -53822,7 +54084,8 @@
             "e",
             "go",
             "oras",
-            "rs"
+            "rs",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -53840,6 +54103,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -53931,25 +54195,27 @@
         "canBeAlpha": false,
         "debutIn": "dp",
         "obtainableIn": [
-            "oras",
+            "bdsp",
             "go",
-            "bdsp"
+            "oras",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "dp",
-            "pt",
-            "hgss",
-            "bw",
             "b2w2",
-            "xy",
-            "oras",
+            "bdsp",
+            "bw",
+            "dp",
             "go",
-            "sm",
-            "usum",
+            "hgss",
             "home",
-            "bdsp"
+            "oras",
+            "pt",
+            "sm",
+            "sv",
+            "usum",
+            "xy"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -54040,7 +54306,8 @@
             "e",
             "go",
             "oras",
-            "rs"
+            "rs",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -54058,6 +54325,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -54150,25 +54418,27 @@
         "canBeAlpha": false,
         "debutIn": "dp",
         "obtainableIn": [
-            "oras",
+            "bdsp",
             "go",
-            "bdsp"
+            "oras",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "dp",
-            "pt",
-            "hgss",
-            "bw",
             "b2w2",
-            "xy",
-            "oras",
+            "bdsp",
+            "bw",
+            "dp",
             "go",
-            "sm",
-            "usum",
+            "hgss",
             "home",
-            "bdsp"
+            "oras",
+            "pt",
+            "sm",
+            "sv",
+            "usum",
+            "xy"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -55348,7 +55618,8 @@
             "e",
             "go",
             "oras",
-            "rs"
+            "rs",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -55366,6 +55637,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -55457,25 +55729,27 @@
         "canBeAlpha": false,
         "debutIn": "dp",
         "obtainableIn": [
-            "oras",
+            "bdsp",
             "go",
-            "bdsp"
+            "oras",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "dp",
-            "pt",
-            "hgss",
-            "bw",
             "b2w2",
-            "xy",
-            "oras",
+            "bdsp",
+            "bw",
+            "dp",
             "go",
-            "sm",
-            "usum",
+            "hgss",
             "home",
-            "bdsp"
+            "oras",
+            "pt",
+            "sm",
+            "sv",
+            "usum",
+            "xy"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -55566,7 +55840,8 @@
             "e",
             "go",
             "oras",
-            "rs"
+            "rs",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -55584,6 +55859,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -55675,25 +55951,27 @@
         "canBeAlpha": false,
         "debutIn": "dp",
         "obtainableIn": [
-            "oras",
+            "bdsp",
             "go",
-            "bdsp"
+            "oras",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "dp",
-            "pt",
-            "hgss",
-            "bw",
             "b2w2",
-            "xy",
-            "oras",
+            "bdsp",
+            "bw",
+            "dp",
             "go",
-            "sm",
-            "usum",
+            "hgss",
             "home",
-            "bdsp"
+            "oras",
+            "pt",
+            "sm",
+            "sv",
+            "usum",
+            "xy"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -56334,7 +56612,8 @@
             "e",
             "go",
             "oras",
-            "rs"
+            "rs",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -56352,6 +56631,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -56443,25 +56723,27 @@
         "canBeAlpha": false,
         "debutIn": "dp",
         "obtainableIn": [
-            "oras",
+            "bdsp",
             "go",
-            "bdsp"
+            "oras",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "dp",
-            "pt",
-            "hgss",
-            "bw",
             "b2w2",
-            "xy",
-            "oras",
+            "bdsp",
+            "bw",
+            "dp",
             "go",
-            "sm",
-            "usum",
+            "hgss",
             "home",
-            "bdsp"
+            "oras",
+            "pt",
+            "sm",
+            "sv",
+            "usum",
+            "xy"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -56552,7 +56834,8 @@
             "e",
             "go",
             "oras",
-            "rs"
+            "rs",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -56570,6 +56853,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -56662,25 +56946,27 @@
         "canBeAlpha": false,
         "debutIn": "dp",
         "obtainableIn": [
-            "oras",
+            "bdsp",
             "go",
-            "bdsp"
+            "oras",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "dp",
-            "pt",
-            "hgss",
-            "bw",
             "b2w2",
-            "xy",
-            "oras",
+            "bdsp",
+            "bw",
+            "dp",
             "go",
-            "sm",
-            "usum",
+            "hgss",
             "home",
-            "bdsp"
+            "oras",
+            "pt",
+            "sm",
+            "sv",
+            "usum",
+            "xy"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -56865,6 +57151,7 @@
             "go",
             "oras",
             "rs",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -56883,6 +57170,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -56978,7 +57266,8 @@
             "e",
             "go",
             "oras",
-            "rs"
+            "rs",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -56996,6 +57285,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -57090,7 +57380,8 @@
             "e",
             "go",
             "oras",
-            "rs"
+            "rs",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -57108,6 +57399,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -57656,7 +57948,8 @@
             "e",
             "go",
             "oras",
-            "rs"
+            "rs",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -57674,6 +57967,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -57768,7 +58062,8 @@
             "e",
             "go",
             "oras",
-            "rs"
+            "rs",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -57786,6 +58081,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -57877,25 +58173,27 @@
         "canBeAlpha": false,
         "debutIn": "dp",
         "obtainableIn": [
-            "oras",
+            "bdsp",
             "go",
-            "bdsp"
+            "oras",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "dp",
-            "pt",
-            "hgss",
-            "bw",
             "b2w2",
-            "xy",
-            "oras",
+            "bdsp",
+            "bw",
+            "dp",
             "go",
-            "sm",
-            "usum",
+            "hgss",
             "home",
-            "bdsp"
+            "oras",
+            "pt",
+            "sm",
+            "sv",
+            "usum",
+            "xy"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -57987,6 +58285,7 @@
             "go",
             "oras",
             "rs",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -58005,6 +58304,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -58101,6 +58401,7 @@
             "go",
             "oras",
             "rs",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -58119,6 +58420,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -58308,7 +58610,8 @@
             "e",
             "go",
             "oras",
-            "rs"
+            "rs",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -58326,6 +58629,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -58420,7 +58724,8 @@
             "e",
             "go",
             "oras",
-            "rs"
+            "rs",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -58438,6 +58743,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -58762,6 +59068,7 @@
             "la",
             "oras",
             "rs",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -58781,6 +59088,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -58878,6 +59186,7 @@
             "la",
             "oras",
             "rs",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -58897,6 +59206,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -60756,7 +61066,8 @@
             "e",
             "go",
             "oras",
-            "rs"
+            "rs",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -60774,6 +61085,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -60868,7 +61180,8 @@
             "e",
             "go",
             "oras",
-            "rs"
+            "rs",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -60886,6 +61199,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -61306,7 +61620,8 @@
             "e",
             "go",
             "oras",
-            "rs"
+            "rs",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -61324,6 +61639,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -61856,6 +62172,7 @@
             "la",
             "oras",
             "rs",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -61875,6 +62192,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -61972,6 +62290,7 @@
             "la",
             "oras",
             "rs",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -61991,6 +62310,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -63086,7 +63406,8 @@
             "e",
             "go",
             "oras",
-            "rs"
+            "rs",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -63104,6 +63425,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -63199,6 +63521,7 @@
             "go",
             "oras",
             "rs",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -63217,6 +63540,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -63313,6 +63637,7 @@
             "go",
             "oras",
             "rs",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -63331,6 +63656,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -63427,6 +63753,7 @@
             "go",
             "oras",
             "rs",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -63445,6 +63772,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -66988,7 +67316,8 @@
             "dp",
             "go",
             "la",
-            "pt"
+            "pt",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -67004,6 +67333,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -67099,7 +67429,8 @@
             "dp",
             "go",
             "la",
-            "pt"
+            "pt",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -67115,6 +67446,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -67207,7 +67539,8 @@
             "dp",
             "go",
             "la",
-            "pt"
+            "pt",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -67223,6 +67556,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -67318,7 +67652,8 @@
             "dp",
             "go",
             "la",
-            "pt"
+            "pt",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -67334,6 +67669,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -67426,7 +67762,8 @@
             "dp",
             "go",
             "la",
-            "pt"
+            "pt",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -67442,6 +67779,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -67537,7 +67875,8 @@
             "dp",
             "go",
             "la",
-            "pt"
+            "pt",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -67553,6 +67892,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -68083,7 +68423,8 @@
             "dp",
             "go",
             "la",
-            "pt"
+            "pt",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -68099,6 +68440,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -68194,7 +68536,8 @@
             "dp",
             "go",
             "la",
-            "pt"
+            "pt",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -68210,6 +68553,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -68302,7 +68646,8 @@
             "dp",
             "go",
             "la",
-            "pt"
+            "pt",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -68318,6 +68663,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -68413,7 +68759,8 @@
             "dp",
             "go",
             "la",
-            "pt"
+            "pt",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -68429,6 +68776,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -68522,6 +68870,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -68538,6 +68887,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -68635,6 +68985,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -68651,6 +69002,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -68745,6 +69097,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -68761,6 +69114,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -68858,6 +69212,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -68874,6 +69229,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -68968,6 +69324,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -68984,6 +69341,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -69081,6 +69439,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -69097,6 +69456,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -70736,6 +71096,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -70752,6 +71113,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -70849,6 +71211,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -70865,6 +71228,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -70959,6 +71323,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -70975,6 +71340,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -71070,7 +71436,8 @@
             "dp",
             "go",
             "la",
-            "pt"
+            "pt",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -71086,6 +71453,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -71181,7 +71549,8 @@
             "dp",
             "go",
             "la",
-            "pt"
+            "pt",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -71197,6 +71566,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -71289,7 +71659,8 @@
             "dp",
             "go",
             "la",
-            "pt"
+            "pt",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -71305,6 +71676,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -71400,7 +71772,8 @@
             "dp",
             "go",
             "la",
-            "pt"
+            "pt",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -71416,6 +71789,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -71508,7 +71882,8 @@
             "dp",
             "go",
             "la",
-            "pt"
+            "pt",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -71524,6 +71899,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -71619,7 +71995,8 @@
             "dp",
             "go",
             "la",
-            "pt"
+            "pt",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -71635,6 +72012,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -72052,6 +72430,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -72068,6 +72447,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -72165,6 +72545,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -72181,6 +72562,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -72275,6 +72657,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -72291,6 +72674,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -72388,6 +72772,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -72404,6 +72789,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -72717,6 +73103,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -72733,6 +73120,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -72829,6 +73217,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -72845,6 +73234,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -73258,7 +73648,8 @@
             "dp",
             "go",
             "la",
-            "pt"
+            "pt",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -73274,6 +73665,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -73368,7 +73760,8 @@
             "dp",
             "go",
             "la",
-            "pt"
+            "pt",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -73384,6 +73777,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -73809,6 +74203,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -73825,6 +74220,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -73921,6 +74317,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -73937,6 +74334,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -74033,6 +74431,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -74049,6 +74448,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -74145,6 +74545,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -74161,6 +74562,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -74257,6 +74659,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -74273,6 +74676,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -74481,6 +74885,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -74497,6 +74902,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -74703,6 +75109,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -74719,6 +75126,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -74815,6 +75223,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -74831,6 +75240,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -74928,6 +75338,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -74944,6 +75355,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -75038,6 +75450,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -75054,6 +75467,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -75151,6 +75565,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -75167,6 +75582,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -75261,6 +75677,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -75277,6 +75694,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -75375,6 +75793,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -75391,6 +75810,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -75690,6 +76110,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -75706,6 +76127,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -75802,6 +76224,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -75818,6 +76241,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -76008,6 +76432,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -76024,6 +76449,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -76121,6 +76547,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -76137,6 +76564,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -76231,6 +76659,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -76247,6 +76676,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -76344,6 +76774,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -76360,6 +76791,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -76678,6 +77110,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -76694,6 +77127,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -76791,6 +77225,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -76807,6 +77242,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -76901,6 +77337,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -76917,6 +77354,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -77014,6 +77452,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -77030,6 +77469,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -77233,7 +77673,8 @@
             "dp",
             "go",
             "la",
-            "pt"
+            "pt",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -77249,6 +77690,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -77344,7 +77786,8 @@
             "dp",
             "go",
             "la",
-            "pt"
+            "pt",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -77360,6 +77803,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -77452,7 +77896,8 @@
             "dp",
             "go",
             "la",
-            "pt"
+            "pt",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -77468,6 +77913,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -77563,7 +78009,8 @@
             "dp",
             "go",
             "la",
-            "pt"
+            "pt",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -77579,6 +78026,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -77784,6 +78232,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -77800,6 +78249,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -77897,6 +78347,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -77913,6 +78364,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -78007,6 +78459,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -78023,6 +78476,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -78121,6 +78575,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -78137,6 +78592,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -78324,6 +78780,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -78340,6 +78797,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -78437,6 +78895,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -78453,6 +78912,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -78547,6 +79007,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -78563,6 +79024,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -79663,6 +80125,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -79679,6 +80142,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -79775,6 +80239,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -79791,6 +80256,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -80332,6 +80798,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -80348,6 +80815,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -80760,6 +81228,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -80776,6 +81245,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -80872,6 +81342,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -80888,6 +81359,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -80988,6 +81460,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -81003,6 +81476,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -81098,6 +81572,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -81113,6 +81588,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -81208,6 +81684,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -81223,6 +81700,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -81318,6 +81796,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -81333,6 +81812,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -81428,6 +81908,7 @@
             "go",
             "la",
             "pt",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -81443,6 +81924,7 @@
             "oras",
             "pt",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -91344,6 +91826,7 @@
             "bw",
             "go",
             "la",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -91356,6 +91839,7 @@
             "la",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -91450,6 +91934,7 @@
             "b2w2",
             "bw",
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -91461,6 +91946,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -91553,13 +92039,15 @@
         "canBeAlpha": true,
         "debutIn": "la",
         "obtainableIn": [
-            "la"
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
-            "la"
+            "la",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -91649,6 +92137,7 @@
             "b2w2",
             "bw",
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -91660,6 +92149,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -91756,6 +92246,7 @@
             "b2w2",
             "bw",
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -91767,6 +92258,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -91856,13 +92348,15 @@
         "canBeAlpha": true,
         "debutIn": "la",
         "obtainableIn": [
-            "la"
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
-            "la"
+            "la",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -91952,6 +92446,7 @@
             "b2w2",
             "bw",
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -91963,6 +92458,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -92057,6 +92553,7 @@
             "b2w2",
             "bw",
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -92068,6 +92565,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -92162,6 +92660,7 @@
             "b2w2",
             "bw",
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -92173,6 +92672,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -94515,6 +95015,7 @@
         "obtainableIn": [
             "b2w2",
             "bw",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -94525,6 +95026,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -94617,13 +95119,15 @@
         "canBeAlpha": true,
         "debutIn": "la",
         "obtainableIn": [
-            "la"
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
-            "la"
+            "la",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -94712,6 +95216,7 @@
         "obtainableIn": [
             "b2w2",
             "bw",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -94722,6 +95227,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -94814,13 +95320,15 @@
         "canBeAlpha": true,
         "debutIn": "la",
         "obtainableIn": [
-            "la"
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
-            "la"
+            "la",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -95120,6 +95628,7 @@
             "b2w2",
             "bw",
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -95131,6 +95640,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -95225,6 +95735,7 @@
             "b2w2",
             "bw",
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -95236,6 +95747,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -95330,6 +95842,7 @@
             "b2w2",
             "bw",
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -95341,6 +95854,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -96270,7 +96784,8 @@
         "obtainableIn": [
             "b2w2",
             "bw",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -96281,6 +96796,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -96376,7 +96892,8 @@
         "obtainableIn": [
             "b2w2",
             "bw",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -96387,6 +96904,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -96477,7 +96995,8 @@
         "obtainableIn": [
             "b2w2",
             "bw",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -96488,6 +97007,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -96578,7 +97098,8 @@
         "obtainableIn": [
             "b2w2",
             "bw",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -96589,6 +97110,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -96679,7 +97201,8 @@
         "obtainableIn": [
             "b2w2",
             "bw",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -96690,6 +97213,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -96785,7 +97309,8 @@
         "obtainableIn": [
             "b2w2",
             "bw",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -96796,6 +97321,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -96886,7 +97412,8 @@
         "obtainableIn": [
             "b2w2",
             "bw",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -96897,6 +97424,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -96987,7 +97515,8 @@
         "obtainableIn": [
             "b2w2",
             "bw",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -96998,6 +97527,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -97404,6 +97934,7 @@
             "b2w2",
             "bw",
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -97415,6 +97946,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -97509,6 +98041,7 @@
             "b2w2",
             "bw",
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -97520,6 +98053,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -98031,7 +98565,8 @@
         "obtainableIn": [
             "b2w2",
             "bw",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -98042,6 +98577,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -98869,7 +99405,8 @@
         "obtainableIn": [
             "b2w2",
             "bw",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -98880,6 +99417,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -98972,7 +99510,8 @@
         "obtainableIn": [
             "b2w2",
             "bw",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -98983,6 +99522,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -99075,7 +99615,8 @@
         "obtainableIn": [
             "b2w2",
             "bw",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -99086,6 +99627,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -99704,6 +100246,7 @@
             "b2w2",
             "bw",
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -99715,6 +100258,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -99809,6 +100353,7 @@
             "b2w2",
             "bw",
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -99820,6 +100365,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -99914,6 +100460,7 @@
             "b2w2",
             "bw",
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -99925,6 +100472,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -100019,6 +100567,7 @@
             "b2w2",
             "bw",
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -100030,6 +100579,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -100124,6 +100674,7 @@
             "b2w2",
             "bw",
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -100135,6 +100686,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -100229,6 +100781,7 @@
             "b2w2",
             "bw",
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -100240,6 +100793,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -101270,6 +101824,7 @@
             "b2w2",
             "bw",
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -101281,6 +101836,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -101375,6 +101931,7 @@
             "b2w2",
             "bw",
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -101386,6 +101943,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -101586,6 +102144,7 @@
             "bw",
             "go",
             "la",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -101598,6 +102157,7 @@
             "la",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -101692,6 +102252,7 @@
             "b2w2",
             "bw",
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -101703,6 +102264,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -101796,14 +102358,16 @@
         "debutIn": "la",
         "obtainableIn": [
             "go",
-            "la"
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "go",
             "home",
-            "la"
+            "la",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -102313,6 +102877,7 @@
             "b2w2",
             "bw",
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -102324,6 +102889,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -102418,6 +102984,7 @@
             "b2w2",
             "bw",
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -102429,6 +102996,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -102523,6 +103091,7 @@
             "b2w2",
             "bw",
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -102534,6 +103103,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -102627,6 +103197,7 @@
         "obtainableIn": [
             "b2w2",
             "bw",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -102637,6 +103208,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -102730,6 +103302,7 @@
         "obtainableIn": [
             "b2w2",
             "bw",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -102740,6 +103313,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -106533,6 +107107,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "swsh",
             "xy"
         ],
@@ -106543,6 +107118,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -106635,6 +107211,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "swsh",
             "xy"
         ],
@@ -106645,6 +107222,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -106737,6 +107315,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "swsh",
             "xy"
         ],
@@ -106747,6 +107326,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -106838,6 +107418,7 @@
         "canBeAlpha": false,
         "debutIn": "xy",
         "obtainableIn": [
+            "sv",
             "xy"
         ],
         "versionExclusiveIn": [],
@@ -106846,6 +107427,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -106936,6 +107518,7 @@
         "canBeAlpha": false,
         "debutIn": "xy",
         "obtainableIn": [
+            "sv",
             "xy"
         ],
         "versionExclusiveIn": [],
@@ -106944,6 +107527,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -107034,6 +107618,7 @@
         "canBeAlpha": false,
         "debutIn": "xy",
         "obtainableIn": [
+            "sv",
             "xy"
         ],
         "versionExclusiveIn": [],
@@ -107042,6 +107627,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -108782,7 +109368,9 @@
         "canDynamax": true,
         "canBeAlpha": false,
         "debutIn": "xy",
-        "obtainableIn": [],
+        "obtainableIn": [
+            "sv"
+        ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [
             "xy"
@@ -108791,6 +109379,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -108976,6 +109565,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "xy"
         ],
         "versionExclusiveIn": [],
@@ -108985,6 +109575,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -109076,6 +109667,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "xy"
         ],
         "versionExclusiveIn": [],
@@ -109085,6 +109677,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -109177,6 +109770,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "xy"
         ],
         "versionExclusiveIn": [],
@@ -109186,6 +109780,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -109275,6 +109870,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "xy"
         ],
         "versionExclusiveIn": [],
@@ -109284,6 +109880,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -109379,6 +109976,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "xy"
         ],
         "versionExclusiveIn": [],
@@ -109388,6 +109986,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -109477,6 +110076,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "xy"
         ],
         "versionExclusiveIn": [],
@@ -109486,6 +110086,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -109575,6 +110176,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "xy"
         ],
         "versionExclusiveIn": [],
@@ -109584,6 +110186,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -109673,6 +110276,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "xy"
         ],
         "versionExclusiveIn": [],
@@ -109682,6 +110286,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -109771,6 +110376,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "xy"
         ],
         "versionExclusiveIn": [],
@@ -109780,6 +110386,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -109875,6 +110482,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "xy"
         ],
         "versionExclusiveIn": [],
@@ -109884,6 +110492,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -109973,6 +110582,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "xy"
         ],
         "versionExclusiveIn": [],
@@ -109982,6 +110592,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -110071,6 +110682,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "xy"
         ],
         "versionExclusiveIn": [],
@@ -110080,6 +110692,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -110169,6 +110782,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "xy"
         ],
         "versionExclusiveIn": [],
@@ -110178,6 +110792,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -110267,6 +110882,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "xy"
         ],
         "versionExclusiveIn": [],
@@ -110276,6 +110892,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -110371,6 +110988,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "xy"
         ],
         "versionExclusiveIn": [],
@@ -110380,6 +110998,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -110469,6 +111088,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "xy"
         ],
         "versionExclusiveIn": [],
@@ -110478,6 +111098,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -110567,6 +111188,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "xy"
         ],
         "versionExclusiveIn": [],
@@ -110576,6 +111198,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -110665,6 +111288,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "xy"
         ],
         "versionExclusiveIn": [],
@@ -110674,6 +111298,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -110762,6 +111387,7 @@
         "canBeAlpha": false,
         "debutIn": "xy",
         "obtainableIn": [
+            "sv",
             "xy"
         ],
         "versionExclusiveIn": [],
@@ -110770,6 +111396,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -110860,6 +111487,7 @@
         "canBeAlpha": false,
         "debutIn": "xy",
         "obtainableIn": [
+            "sv",
             "xy"
         ],
         "versionExclusiveIn": [],
@@ -110868,6 +111496,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "usum",
             "xy"
         ],
@@ -113687,6 +114316,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "swsh",
             "xy"
         ],
@@ -113697,6 +114327,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -113789,6 +114420,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "swsh",
             "xy"
         ],
@@ -113799,6 +114431,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -113890,20 +114523,22 @@
         "canBeAlpha": false,
         "debutIn": "xy",
         "obtainableIn": [
-            "xy",
             "go",
-            "swsh"
+            "sv",
+            "swsh",
+            "xy"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "xy",
-            "oras",
             "go",
+            "home",
+            "oras",
             "sm",
-            "usum",
+            "sv",
             "swsh",
-            "home"
+            "usum",
+            "xy"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -113992,20 +114627,22 @@
         "canBeAlpha": false,
         "debutIn": "xy",
         "obtainableIn": [
-            "xy",
             "go",
-            "swsh"
+            "sv",
+            "swsh",
+            "xy"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "xy",
-            "oras",
             "go",
+            "home",
+            "oras",
             "sm",
-            "usum",
+            "sv",
             "swsh",
-            "home"
+            "usum",
+            "xy"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -114708,6 +115345,7 @@
         "obtainableIn": [
             "go",
             "la",
+            "sv",
             "swsh",
             "xy"
         ],
@@ -114719,6 +115357,7 @@
             "la",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -114810,6 +115449,7 @@
         "canBeAlpha": false,
         "debutIn": "xy",
         "obtainableIn": [
+            "sv",
             "swsh",
             "xy"
         ],
@@ -114819,6 +115459,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -114911,6 +115552,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "swsh",
             "xy"
         ],
@@ -114921,6 +115563,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -115114,6 +115757,7 @@
         "obtainableIn": [
             "go",
             "la",
+            "sv",
             "swsh",
             "xy"
         ],
@@ -115125,6 +115769,7 @@
             "la",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -115217,6 +115862,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "swsh",
             "xy"
         ],
@@ -115227,6 +115873,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -115319,13 +115966,15 @@
         "canBeAlpha": true,
         "debutIn": "la",
         "obtainableIn": [
-            "la"
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
-            "la"
+            "la",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -115413,6 +116062,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "swsh",
             "xy"
         ],
@@ -115423,6 +116073,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -115515,13 +116166,15 @@
         "canBeAlpha": true,
         "debutIn": "la",
         "obtainableIn": [
-            "la"
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
-            "la"
+            "la",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -115609,6 +116262,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "swsh",
             "xy"
         ],
@@ -115619,6 +116273,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -116726,6 +117381,7 @@
         "obtainableIn": [
             "go",
             "la",
+            "sv",
             "swsh",
             "xy"
         ],
@@ -116737,6 +117393,7 @@
             "la",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -116829,6 +117486,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "swsh",
             "xy"
         ],
@@ -116839,6 +117497,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -116931,13 +117590,15 @@
         "canBeAlpha": true,
         "debutIn": "la",
         "obtainableIn": [
-            "la"
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
-            "la"
+            "la",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -117025,6 +117686,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "swsh",
             "xy"
         ],
@@ -117035,6 +117697,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -117127,6 +117790,7 @@
         "debutIn": "xy",
         "obtainableIn": [
             "go",
+            "sv",
             "swsh",
             "xy"
         ],
@@ -117137,6 +117801,7 @@
             "home",
             "oras",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -119827,6 +120492,7 @@
         "obtainableIn": [
             "go",
             "sm",
+            "sv",
             "usum"
         ],
         "versionExclusiveIn": [],
@@ -119835,6 +120501,7 @@
             "go",
             "home",
             "sm",
+            "sv",
             "usum"
         ],
         "shinyReleased": true,
@@ -119926,6 +120593,7 @@
         "obtainableIn": [
             "go",
             "sm",
+            "sv",
             "usum"
         ],
         "versionExclusiveIn": [],
@@ -119934,6 +120602,7 @@
             "go",
             "home",
             "sm",
+            "sv",
             "usum"
         ],
         "shinyReleased": true,
@@ -120327,6 +120996,7 @@
         "debutIn": "sm",
         "obtainableIn": [
             "sm",
+            "sv",
             "usum"
         ],
         "versionExclusiveIn": [],
@@ -120334,6 +121004,7 @@
         "storableIn": [
             "home",
             "sm",
+            "sv",
             "usum"
         ],
         "shinyReleased": true,
@@ -120424,6 +121095,7 @@
         "debutIn": "sm",
         "obtainableIn": [
             "sm",
+            "sv",
             "usum"
         ],
         "versionExclusiveIn": [],
@@ -120431,6 +121103,7 @@
         "storableIn": [
             "home",
             "sm",
+            "sv",
             "usum"
         ],
         "shinyReleased": true,
@@ -120522,6 +121195,7 @@
         "obtainableIn": [
             "go",
             "sm",
+            "sv",
             "usum"
         ],
         "versionExclusiveIn": [],
@@ -120530,6 +121204,7 @@
             "go",
             "home",
             "sm",
+            "sv",
             "usum"
         ],
         "shinyReleased": true,
@@ -120624,6 +121299,7 @@
         "obtainableIn": [
             "go",
             "sm",
+            "sv",
             "usum"
         ],
         "versionExclusiveIn": [],
@@ -120632,6 +121308,7 @@
             "go",
             "home",
             "sm",
+            "sv",
             "usum"
         ],
         "shinyReleased": true,
@@ -120721,6 +121398,7 @@
         "obtainableIn": [
             "go",
             "sm",
+            "sv",
             "usum"
         ],
         "versionExclusiveIn": [],
@@ -120729,6 +121407,7 @@
             "go",
             "home",
             "sm",
+            "sv",
             "usum"
         ],
         "shinyReleased": true,
@@ -120818,6 +121497,7 @@
         "obtainableIn": [
             "go",
             "sm",
+            "sv",
             "usum"
         ],
         "versionExclusiveIn": [],
@@ -120826,6 +121506,7 @@
             "go",
             "home",
             "sm",
+            "sv",
             "usum"
         ],
         "shinyReleased": true,
@@ -121113,17 +121794,19 @@
         "obtainableIn": [
             "go",
             "sm",
-            "usum",
-            "swsh"
+            "sv",
+            "swsh",
+            "usum"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "go",
+            "home",
             "sm",
-            "usum",
+            "sv",
             "swsh",
-            "home"
+            "usum"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -121213,15 +121896,17 @@
         "canBeAlpha": false,
         "debutIn": "usum",
         "obtainableIn": [
-            "usum",
-            "swsh"
+            "sv",
+            "swsh",
+            "usum"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "usum",
+            "home",
+            "sv",
             "swsh",
-            "home"
+            "usum"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -121310,17 +121995,19 @@
         "obtainableIn": [
             "go",
             "sm",
-            "usum",
-            "swsh"
+            "sv",
+            "swsh",
+            "usum"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "go",
+            "home",
             "sm",
-            "usum",
+            "sv",
             "swsh",
-            "home"
+            "usum"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -121413,17 +122100,19 @@
         "obtainableIn": [
             "go",
             "sm",
-            "usum",
-            "swsh"
+            "sv",
+            "swsh",
+            "usum"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "go",
+            "home",
             "sm",
-            "usum",
+            "sv",
             "swsh",
-            "home"
+            "usum"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -121510,15 +122199,17 @@
         "canBeAlpha": false,
         "debutIn": "usum",
         "obtainableIn": [
-            "usum",
-            "swsh"
+            "sv",
+            "swsh",
+            "usum"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
-            "usum",
+            "home",
+            "sv",
             "swsh",
-            "home"
+            "usum"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -121800,6 +122491,7 @@
         "debutIn": "sm",
         "obtainableIn": [
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -121808,6 +122500,7 @@
         "storableIn": [
             "home",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -121899,6 +122592,7 @@
         "debutIn": "sm",
         "obtainableIn": [
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -121907,6 +122601,7 @@
         "storableIn": [
             "home",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -121998,6 +122693,7 @@
         "debutIn": "sm",
         "obtainableIn": [
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -122006,6 +122702,7 @@
         "storableIn": [
             "home",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -122097,6 +122794,7 @@
         "debutIn": "sm",
         "obtainableIn": [
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -122105,6 +122803,7 @@
         "storableIn": [
             "home",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -122399,6 +123098,7 @@
         "obtainableIn": [
             "go",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -122408,6 +123108,7 @@
             "go",
             "home",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -122500,6 +123201,7 @@
         "obtainableIn": [
             "go",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -122509,6 +123211,7 @@
             "go",
             "home",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -122799,6 +123502,7 @@
         "obtainableIn": [
             "go",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -122808,6 +123512,7 @@
             "go",
             "home",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -122900,6 +123605,7 @@
         "obtainableIn": [
             "go",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -122909,6 +123615,7 @@
             "go",
             "home",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -123202,6 +123909,7 @@
         "debutIn": "sm",
         "obtainableIn": [
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -123210,6 +123918,7 @@
         "storableIn": [
             "home",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -123301,6 +124010,7 @@
         "debutIn": "sm",
         "obtainableIn": [
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -123309,6 +124019,7 @@
         "storableIn": [
             "home",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -123400,6 +124111,7 @@
         "debutIn": "sm",
         "obtainableIn": [
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -123408,6 +124120,7 @@
         "storableIn": [
             "home",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -123599,6 +124312,7 @@
         "obtainableIn": [
             "go",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -123608,6 +124322,7 @@
             "go",
             "home",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -123699,6 +124414,7 @@
         "debutIn": "sm",
         "obtainableIn": [
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -123707,6 +124423,7 @@
         "storableIn": [
             "home",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -124000,6 +124717,7 @@
         "debutIn": "sm",
         "obtainableIn": [
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -124008,6 +124726,7 @@
         "storableIn": [
             "home",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -124099,6 +124818,7 @@
         "debutIn": "sm",
         "obtainableIn": [
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -124107,6 +124827,7 @@
         "storableIn": [
             "home",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -126965,6 +127686,7 @@
         "debutIn": "sm",
         "obtainableIn": [
             "sm",
+            "sv",
             "usum"
         ],
         "versionExclusiveIn": [],
@@ -126972,6 +127694,7 @@
         "storableIn": [
             "home",
             "sm",
+            "sv",
             "usum"
         ],
         "shinyReleased": true,
@@ -127262,6 +127985,7 @@
         "debutIn": "sm",
         "obtainableIn": [
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -127270,6 +127994,7 @@
         "storableIn": [
             "home",
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -127362,6 +128087,7 @@
         "debutIn": "sm",
         "obtainableIn": [
             "sm",
+            "sv",
             "swsh",
             "usum"
         ],
@@ -127456,6 +128182,7 @@
         "debutIn": "sm",
         "obtainableIn": [
             "sm",
+            "sv",
             "usum"
         ],
         "versionExclusiveIn": [],
@@ -127463,6 +128190,7 @@
         "storableIn": [
             "home",
             "sm",
+            "sv",
             "usum"
         ],
         "shinyReleased": true,
@@ -132166,6 +132894,7 @@
         "debutIn": "swsh",
         "obtainableIn": [
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -132173,6 +132902,7 @@
         "storableIn": [
             "go",
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -132263,6 +132993,7 @@
         "debutIn": "swsh",
         "obtainableIn": [
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -132270,6 +133001,7 @@
         "storableIn": [
             "go",
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -132359,12 +133091,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -132454,12 +133188,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -132549,12 +133285,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -133689,12 +134427,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -133784,12 +134524,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -134162,12 +134904,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -134257,12 +135001,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -134352,12 +135098,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -134540,12 +135288,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -134635,12 +135385,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -134823,12 +135575,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -135011,12 +135765,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -135106,12 +135862,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -135575,12 +136333,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -135670,12 +136430,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -135765,12 +136527,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -135860,12 +136624,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -135958,12 +136724,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -136708,12 +137476,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -136804,12 +137574,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -136897,12 +137669,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -136993,12 +137767,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -137086,12 +137862,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -137181,12 +137959,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -137276,12 +138056,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -137464,12 +138246,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -137559,12 +138343,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -137654,12 +138440,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -144596,6 +145384,7 @@
         "debutIn": "swsh",
         "obtainableIn": [
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -144603,6 +145392,7 @@
         "storableIn": [
             "go",
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -144692,12 +145482,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -144787,12 +145579,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -144882,12 +145676,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -144977,12 +145773,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -145072,12 +145870,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -145168,6 +145968,7 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -145260,12 +146061,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -145356,12 +146159,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -145637,12 +146442,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -145732,12 +146539,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -146488,12 +147297,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -146583,12 +147394,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -146678,12 +147491,14 @@
         "canBeAlpha": false,
         "debutIn": "swsh",
         "obtainableIn": [
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true,

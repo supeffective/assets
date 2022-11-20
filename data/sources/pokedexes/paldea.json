@@ -2,497 +2,718 @@
     {
         "id": "sprigatito",
         "dexNum": 1,
-        "forms": ["sprigatito"]
+        "forms": [
+            "sprigatito"
+        ]
     },
     {
         "id": "floragato",
         "dexNum": 2,
-        "forms": ["floragato"]
+        "forms": [
+            "floragato"
+        ]
     },
     {
         "id": "meowscarada",
         "dexNum": 3,
-        "forms": ["meowscarada"]
+        "forms": [
+            "meowscarada"
+        ]
     },
     {
         "id": "fuecoco",
         "dexNum": 4,
-        "forms": ["fuecoco"]
+        "forms": [
+            "fuecoco"
+        ]
     },
     {
         "id": "crocalor",
         "dexNum": 5,
-        "forms": ["crocalor"]
+        "forms": [
+            "crocalor"
+        ]
     },
     {
         "id": "skeledirge",
         "dexNum": 6,
-        "forms": ["skeledirge"]
+        "forms": [
+            "skeledirge"
+        ]
     },
     {
         "id": "quaxly",
         "dexNum": 7,
-        "forms": ["quaxly"]
+        "forms": [
+            "quaxly"
+        ]
     },
     {
         "id": "quaxwell",
         "dexNum": 8,
-        "forms": ["quaxwell"]
+        "forms": [
+            "quaxwell"
+        ]
     },
     {
         "id": "quaquaval",
         "dexNum": 9,
-        "forms": ["quaquaval"]
+        "forms": [
+            "quaquaval"
+        ]
     },
     {
         "id": "lechonk",
         "dexNum": 10,
-        "forms": ["lechonk"]
+        "forms": [
+            "lechonk"
+        ]
     },
     {
         "id": "oinkologne",
         "dexNum": 11,
-        "forms": ["oinkologne", "oinkologne-f"]
+        "forms": [
+            "oinkologne",
+            "oinkologne-f"
+        ]
     },
     {
         "id": "tarountula",
         "dexNum": 12,
-        "forms": ["tarountula"]
+        "forms": [
+            "tarountula"
+        ]
     },
     {
         "id": "spidops",
         "dexNum": 13,
-        "forms": ["spidops"]
+        "forms": [
+            "spidops"
+        ]
     },
     {
         "id": "nymble",
         "dexNum": 14,
-        "forms": ["nymble"]
+        "forms": [
+            "nymble"
+        ]
     },
     {
         "id": "lokix",
         "dexNum": 15,
-        "forms": ["lokix"]
+        "forms": [
+            "lokix"
+        ]
     },
     {
         "id": "hoppip",
         "dexNum": 16,
-        "forms": ["hoppip"]
+        "forms": [
+            "hoppip"
+        ]
     },
     {
         "id": "skiploom",
         "dexNum": 17,
-        "forms": ["skiploom"]
+        "forms": [
+            "skiploom"
+        ]
     },
     {
         "id": "jumpluff",
         "dexNum": 18,
-        "forms": ["jumpluff"]
+        "forms": [
+            "jumpluff"
+        ]
     },
     {
         "id": "fletchling",
         "dexNum": 19,
-        "forms": ["fletchling"]
+        "forms": [
+            "fletchling"
+        ]
     },
     {
         "id": "fletchinder",
         "dexNum": 20,
-        "forms": ["fletchinder"]
+        "forms": [
+            "fletchinder"
+        ]
     },
     {
         "id": "talonflame",
         "dexNum": 21,
-        "forms": ["talonflame"]
+        "forms": [
+            "talonflame"
+        ]
     },
     {
         "id": "pawmi",
         "dexNum": 22,
-        "forms": ["pawmi"]
+        "forms": [
+            "pawmi"
+        ]
     },
     {
         "id": "pawmo",
         "dexNum": 23,
-        "forms": ["pawmo"]
+        "forms": [
+            "pawmo"
+        ]
     },
     {
         "id": "pawmot",
         "dexNum": 24,
-        "forms": ["pawmot"]
+        "forms": [
+            "pawmot"
+        ]
     },
     {
         "id": "houndour",
         "dexNum": 25,
-        "forms": ["houndour"]
+        "forms": [
+            "houndour"
+        ]
     },
     {
         "id": "houndoom",
         "dexNum": 26,
-        "forms": ["houndoom", "houndoom-f"]
+        "forms": [
+            "houndoom",
+            "houndoom-f"
+        ]
     },
     {
         "id": "yungoos",
         "dexNum": 27,
-        "forms": ["yungoos"]
+        "forms": [
+            "yungoos"
+        ]
     },
     {
         "id": "gumshoos",
         "dexNum": 28,
-        "forms": ["gumshoos"]
+        "forms": [
+            "gumshoos"
+        ]
     },
     {
         "id": "skwovet",
         "dexNum": 29,
-        "forms": ["skwovet"]
+        "forms": [
+            "skwovet"
+        ]
     },
     {
         "id": "greedent",
         "dexNum": 30,
-        "forms": ["greedent"]
+        "forms": [
+            "greedent"
+        ]
     },
     {
         "id": "sunkern",
         "dexNum": 31,
-        "forms": ["sunkern"]
+        "forms": [
+            "sunkern"
+        ]
     },
     {
         "id": "sunflora",
         "dexNum": 32,
-        "forms": ["sunflora"]
+        "forms": [
+            "sunflora"
+        ]
     },
     {
         "id": "kricketot",
         "dexNum": 33,
-        "forms": ["kricketot", "kricketot-f"]
+        "forms": [
+            "kricketot",
+            "kricketot-f"
+        ]
     },
     {
         "id": "kricketune",
         "dexNum": 34,
-        "forms": ["kricketune", "kricketune-f"]
+        "forms": [
+            "kricketune",
+            "kricketune-f"
+        ]
     },
     {
         "id": "scatterbug",
         "dexNum": 35,
-        "forms": ["scatterbug"]
+        "forms": [
+            "scatterbug"
+        ]
     },
     {
         "id": "spewpa",
         "dexNum": 36,
-        "forms": ["spewpa"]
+        "forms": [
+            "spewpa"
+        ]
     },
     {
         "id": "vivillon",
         "dexNum": 37,
-        "forms": ["vivillon", "vivillon-fancy"]
+        "forms": [
+            "vivillon",
+            "vivillon-fancy"
+        ]
     },
     {
         "id": "combee",
         "dexNum": 38,
-        "forms": ["combee", "combee-f"]
+        "forms": [
+            "combee",
+            "combee-f"
+        ]
     },
     {
         "id": "vespiquen",
         "dexNum": 39,
-        "forms": ["vespiquen"]
+        "forms": [
+            "vespiquen"
+        ]
     },
     {
         "id": "rookidee",
         "dexNum": 40,
-        "forms": ["rookidee"]
+        "forms": [
+            "rookidee"
+        ]
     },
     {
         "id": "corvisquire",
         "dexNum": 41,
-        "forms": ["corvisquire"]
+        "forms": [
+            "corvisquire"
+        ]
     },
     {
         "id": "corviknight",
         "dexNum": 42,
-        "forms": ["corviknight"]
+        "forms": [
+            "corviknight"
+        ]
     },
     {
         "id": "happiny",
         "dexNum": 43,
-        "forms": ["happiny"]
+        "forms": [
+            "happiny"
+        ]
     },
     {
         "id": "chansey",
         "dexNum": 44,
-        "forms": ["chansey"]
+        "forms": [
+            "chansey"
+        ]
     },
     {
         "id": "blissey",
         "dexNum": 45,
-        "forms": ["blissey"]
+        "forms": [
+            "blissey"
+        ]
     },
     {
         "id": "azurill",
         "dexNum": 46,
-        "forms": ["azurill"]
+        "forms": [
+            "azurill"
+        ]
     },
     {
         "id": "marill",
         "dexNum": 47,
-        "forms": ["marill"]
+        "forms": [
+            "marill"
+        ]
     },
     {
         "id": "azumarill",
         "dexNum": 48,
-        "forms": ["azumarill"]
+        "forms": [
+            "azumarill"
+        ]
     },
     {
         "id": "surskit",
         "dexNum": 49,
-        "forms": ["surskit"]
+        "forms": [
+            "surskit"
+        ]
     },
     {
         "id": "masquerain",
         "dexNum": 50,
-        "forms": ["masquerain"]
+        "forms": [
+            "masquerain"
+        ]
     },
     {
         "id": "buizel",
         "dexNum": 51,
-        "forms": ["buizel", "buizel-f"]
+        "forms": [
+            "buizel",
+            "buizel-f"
+        ]
     },
     {
         "id": "floatzel",
         "dexNum": 52,
-        "forms": ["floatzel", "floatzel-f"]
+        "forms": [
+            "floatzel",
+            "floatzel-f"
+        ]
     },
     {
         "id": "wooper-paldea",
         "dexNum": 53,
-        "forms": ["wooper-paldea"]
+        "forms": [
+            "wooper-paldea"
+        ]
     },
     {
         "id": "clodsire",
         "dexNum": 54,
-        "forms": ["clodsire"]
+        "forms": [
+            "clodsire"
+        ]
     },
     {
         "id": "psyduck",
         "dexNum": 55,
-        "forms": ["psyduck"]
+        "forms": [
+            "psyduck"
+        ]
     },
     {
         "id": "golduck",
         "dexNum": 56,
-        "forms": ["golduck"]
+        "forms": [
+            "golduck"
+        ]
     },
     {
         "id": "chewtle",
         "dexNum": 57,
-        "forms": ["chewtle"]
+        "forms": [
+            "chewtle"
+        ]
     },
     {
         "id": "drednaw",
         "dexNum": 58,
-        "forms": ["drednaw"]
+        "forms": [
+            "drednaw"
+        ]
     },
     {
         "id": "igglybuff",
         "dexNum": 59,
-        "forms": ["igglybuff"]
+        "forms": [
+            "igglybuff"
+        ]
     },
     {
         "id": "jigglypuff",
         "dexNum": 60,
-        "forms": ["jigglypuff"]
+        "forms": [
+            "jigglypuff"
+        ]
     },
     {
         "id": "wigglytuff",
         "dexNum": 61,
-        "forms": ["wigglytuff"]
+        "forms": [
+            "wigglytuff"
+        ]
     },
     {
         "id": "ralts",
         "dexNum": 62,
-        "forms": ["ralts"]
+        "forms": [
+            "ralts"
+        ]
     },
     {
         "id": "kirlia",
         "dexNum": 63,
-        "forms": ["kirlia"]
+        "forms": [
+            "kirlia"
+        ]
     },
     {
         "id": "gardevoir",
         "dexNum": 64,
-        "forms": ["gardevoir"]
+        "forms": [
+            "gardevoir"
+        ]
     },
     {
         "id": "gallade",
         "dexNum": 65,
-        "forms": ["gallade"]
+        "forms": [
+            "gallade"
+        ]
     },
     {
         "id": "drowzee",
         "dexNum": 66,
-        "forms": ["drowzee"]
+        "forms": [
+            "drowzee"
+        ]
     },
     {
         "id": "hypno",
         "dexNum": 67,
-        "forms": ["hypno", "hypno-f"]
+        "forms": [
+            "hypno",
+            "hypno-f"
+        ]
     },
     {
         "id": "gastly",
         "dexNum": 68,
-        "forms": ["gastly"]
+        "forms": [
+            "gastly"
+        ]
     },
     {
         "id": "haunter",
         "dexNum": 69,
-        "forms": ["haunter"]
+        "forms": [
+            "haunter"
+        ]
     },
     {
         "id": "gengar",
         "dexNum": 70,
-        "forms": ["gengar"]
+        "forms": [
+            "gengar"
+        ]
     },
     {
         "id": "tandemaus",
         "dexNum": 71,
-        "forms": ["tandemaus"]
+        "forms": [
+            "tandemaus"
+        ]
     },
     {
         "id": "maushold",
         "dexNum": 72,
-        "forms": ["maushold", "maushold-four"]
+        "forms": [
+            "maushold",
+            "maushold-four"
+        ]
     },
     {
         "id": "pichu",
         "dexNum": 73,
-        "forms": ["pichu"]
+        "forms": [
+            "pichu"
+        ]
     },
     {
         "id": "pikachu",
         "dexNum": 74,
-        "forms": ["pikachu", "pikachu-f"]
+        "forms": [
+            "pikachu",
+            "pikachu-f"
+        ]
     },
     {
         "id": "raichu",
         "dexNum": 75,
-        "forms": ["raichu", "raichu-f", "raichu-alola"]
+        "forms": [
+            "raichu",
+            "raichu-f",
+            "raichu-alola"
+        ]
     },
     {
         "id": "fidough",
         "dexNum": 76,
-        "forms": ["fidough"]
+        "forms": [
+            "fidough"
+        ]
     },
     {
         "id": "dachsbun",
         "dexNum": 77,
-        "forms": ["dachsbun"]
+        "forms": [
+            "dachsbun"
+        ]
     },
     {
         "id": "slakoth",
         "dexNum": 78,
-        "forms": ["slakoth"]
+        "forms": [
+            "slakoth"
+        ]
     },
     {
         "id": "vigoroth",
         "dexNum": 79,
-        "forms": ["vigoroth"]
+        "forms": [
+            "vigoroth"
+        ]
     },
     {
         "id": "slaking",
         "dexNum": 80,
-        "forms": ["slaking"]
+        "forms": [
+            "slaking"
+        ]
     },
     {
         "id": "bounsweet",
         "dexNum": 81,
-        "forms": ["bounsweet"]
+        "forms": [
+            "bounsweet"
+        ]
     },
     {
         "id": "steenee",
         "dexNum": 82,
-        "forms": ["steenee"]
+        "forms": [
+            "steenee"
+        ]
     },
     {
         "id": "tsareena",
         "dexNum": 83,
-        "forms": ["tsareena"]
+        "forms": [
+            "tsareena"
+        ]
     },
     {
         "id": "smoliv",
         "dexNum": 84,
-        "forms": ["smoliv"]
+        "forms": [
+            "smoliv"
+        ]
     },
     {
         "id": "dolliv",
         "dexNum": 85,
-        "forms": ["dolliv"]
+        "forms": [
+            "dolliv"
+        ]
     },
     {
         "id": "arboliva",
         "dexNum": 86,
-        "forms": ["arboliva"]
+        "forms": [
+            "arboliva"
+        ]
     },
     {
         "id": "bonsly",
         "dexNum": 87,
-        "forms": ["bonsly"]
+        "forms": [
+            "bonsly"
+        ]
     },
     {
         "id": "sudowoodo",
         "dexNum": 88,
-        "forms": ["sudowoodo", "sudowoodo-f"]
+        "forms": [
+            "sudowoodo",
+            "sudowoodo-f"
+        ]
     },
     {
         "id": "rockruff",
         "dexNum": 89,
-        "forms": ["rockruff", "rockruff--own-tempo"]
+        "forms": [
+            "rockruff",
+            "rockruff--own-tempo"
+        ]
     },
     {
         "id": "lycanroc",
         "dexNum": 90,
-        "forms": ["lycanroc", "lycanroc-midnight", "lycanroc-dusk"]
+        "forms": [
+            "lycanroc",
+            "lycanroc-midnight",
+            "lycanroc-dusk"
+        ]
     },
     {
         "id": "rolycoly",
         "dexNum": 91,
-        "forms": ["rolycoly"]
+        "forms": [
+            "rolycoly"
+        ]
     },
     {
         "id": "carkol",
         "dexNum": 92,
-        "forms": ["carkol"]
+        "forms": [
+            "carkol"
+        ]
     },
     {
         "id": "coalossal",
         "dexNum": 93,
-        "forms": ["coalossal"]
+        "forms": [
+            "coalossal"
+        ]
     },
     {
         "id": "shinx",
         "dexNum": 94,
-        "forms": ["shinx", "shinx-f"]
+        "forms": [
+            "shinx",
+            "shinx-f"
+        ]
     },
     {
         "id": "luxio",
         "dexNum": 95,
-        "forms": ["luxio", "luxio-f"]
+        "forms": [
+            "luxio",
+            "luxio-f"
+        ]
     },
     {
         "id": "luxray",
         "dexNum": 96,
-        "forms": ["luxray", "luxray-f"]
+        "forms": [
+            "luxray",
+            "luxray-f"
+        ]
     },
     {
         "id": "starly",
         "dexNum": 97,
-        "forms": ["starly", "starly-f"]
+        "forms": [
+            "starly",
+            "starly-f"
+        ]
     },
     {
         "id": "staravia",
         "dexNum": 98,
-        "forms": ["staravia", "staravia-f"]
+        "forms": [
+            "staravia",
+            "staravia-f"
+        ]
     },
     {
         "id": "staraptor",
         "dexNum": 99,
-        "forms": ["staraptor", "staraptor-f"]
+        "forms": [
+            "staraptor",
+            "staraptor-f"
+        ]
     },
     {
         "id": "oricorio",
@@ -507,62 +728,87 @@
     {
         "id": "mareep",
         "dexNum": 101,
-        "forms": ["mareep"]
+        "forms": [
+            "mareep"
+        ]
     },
     {
         "id": "flaaffy",
         "dexNum": 102,
-        "forms": ["flaaffy"]
+        "forms": [
+            "flaaffy"
+        ]
     },
     {
         "id": "ampharos",
         "dexNum": 103,
-        "forms": ["ampharos"]
+        "forms": [
+            "ampharos"
+        ]
     },
     {
         "id": "petilil",
         "dexNum": 104,
-        "forms": ["petilil"]
+        "forms": [
+            "petilil"
+        ]
     },
     {
         "id": "lilligant",
         "dexNum": 105,
-        "forms": ["lilligant", "lilligant-hisui"]
+        "forms": [
+            "lilligant",
+            "lilligant-hisui"
+        ]
     },
     {
         "id": "shroomish",
         "dexNum": 106,
-        "forms": ["shroomish"]
+        "forms": [
+            "shroomish"
+        ]
     },
     {
         "id": "breloom",
         "dexNum": 107,
-        "forms": ["breloom"]
+        "forms": [
+            "breloom"
+        ]
     },
     {
         "id": "applin",
         "dexNum": 108,
-        "forms": ["applin"]
+        "forms": [
+            "applin"
+        ]
     },
     {
         "id": "flapple",
         "dexNum": 109,
-        "forms": ["flapple"]
+        "forms": [
+            "flapple"
+        ]
     },
     {
         "id": "appletun",
         "dexNum": 110,
-        "forms": ["appletun"]
+        "forms": [
+            "appletun"
+        ]
     },
     {
         "id": "spoink",
         "dexNum": 111,
-        "forms": ["spoink"]
+        "forms": [
+            "spoink"
+        ]
     },
     {
         "id": "grumpig",
         "dexNum": 112,
-        "forms": ["grumpig"]
+        "forms": [
+            "grumpig"
+        ]
     },
     {
         "id": "squawkabilly",
@@ -577,157 +823,232 @@
     {
         "id": "misdreavus",
         "dexNum": 114,
-        "forms": ["misdreavus"]
+        "forms": [
+            "misdreavus"
+        ]
     },
     {
         "id": "mismagius",
         "dexNum": 115,
-        "forms": ["mismagius"]
+        "forms": [
+            "mismagius"
+        ]
     },
     {
         "id": "makuhita",
         "dexNum": 116,
-        "forms": ["makuhita"]
+        "forms": [
+            "makuhita"
+        ]
     },
     {
         "id": "hariyama",
         "dexNum": 117,
-        "forms": ["hariyama"]
+        "forms": [
+            "hariyama"
+        ]
     },
     {
         "id": "crabrawler",
         "dexNum": 118,
-        "forms": ["crabrawler"]
+        "forms": [
+            "crabrawler"
+        ]
     },
     {
         "id": "crabominable",
         "dexNum": 119,
-        "forms": ["crabominable"]
+        "forms": [
+            "crabominable"
+        ]
     },
     {
         "id": "salandit",
         "dexNum": 120,
-        "forms": ["salandit"]
+        "forms": [
+            "salandit"
+        ]
     },
     {
         "id": "salazzle",
         "dexNum": 121,
-        "forms": ["salazzle"]
+        "forms": [
+            "salazzle"
+        ]
     },
     {
         "id": "phanpy",
         "dexNum": 122,
-        "forms": ["phanpy"]
+        "forms": [
+            "phanpy"
+        ]
     },
     {
         "id": "donphan",
         "dexNum": 123,
-        "forms": ["donphan", "donphan-f"]
+        "forms": [
+            "donphan",
+            "donphan-f"
+        ]
     },
     {
         "id": "cufant",
         "dexNum": 124,
-        "forms": ["cufant"]
+        "forms": [
+            "cufant"
+        ]
     },
     {
         "id": "copperajah",
         "dexNum": 125,
-        "forms": ["copperajah"]
+        "forms": [
+            "copperajah"
+        ]
     },
     {
         "id": "gible",
         "dexNum": 126,
-        "forms": ["gible", "gible-f"]
+        "forms": [
+            "gible",
+            "gible-f"
+        ]
     },
     {
         "id": "gabite",
         "dexNum": 127,
-        "forms": ["gabite", "gabite-f"]
+        "forms": [
+            "gabite",
+            "gabite-f"
+        ]
     },
     {
         "id": "garchomp",
         "dexNum": 128,
-        "forms": ["garchomp", "garchomp-f"]
+        "forms": [
+            "garchomp",
+            "garchomp-f"
+        ]
     },
     {
         "id": "nacli",
         "dexNum": 129,
-        "forms": ["nacli"]
+        "forms": [
+            "nacli"
+        ]
     },
     {
         "id": "naclstack",
         "dexNum": 130,
-        "forms": ["naclstack"]
+        "forms": [
+            "naclstack"
+        ]
     },
     {
         "id": "garganacl",
         "dexNum": 131,
-        "forms": ["garganacl"]
+        "forms": [
+            "garganacl"
+        ]
     },
     {
         "id": "wingull",
         "dexNum": 132,
-        "forms": ["wingull"]
+        "forms": [
+            "wingull"
+        ]
     },
     {
         "id": "pelipper",
         "dexNum": 133,
-        "forms": ["pelipper"]
+        "forms": [
+            "pelipper"
+        ]
     },
     {
         "id": "magikarp",
         "dexNum": 134,
-        "forms": ["magikarp", "magikarp-f"]
+        "forms": [
+            "magikarp",
+            "magikarp-f"
+        ]
     },
     {
         "id": "gyarados",
         "dexNum": 135,
-        "forms": ["gyarados", "gyarados-f"]
+        "forms": [
+            "gyarados",
+            "gyarados-f"
+        ]
     },
     {
         "id": "arrokuda",
         "dexNum": 136,
-        "forms": ["arrokuda"]
+        "forms": [
+            "arrokuda"
+        ]
     },
     {
         "id": "barraskewda",
         "dexNum": 137,
-        "forms": ["barraskewda"]
+        "forms": [
+            "barraskewda"
+        ]
     },
     {
         "id": "basculin",
         "dexNum": 138,
-        "forms": ["basculin", "basculin-blue-striped", "basculin-white-striped"]
+        "forms": [
+            "basculin",
+            "basculin-blue-striped",
+            "basculin-white-striped"
+        ]
     },
     {
         "id": "gulpin",
         "dexNum": 139,
-        "forms": ["gulpin", "gulpin-f"]
+        "forms": [
+            "gulpin",
+            "gulpin-f"
+        ]
     },
     {
         "id": "swalot",
         "dexNum": 140,
-        "forms": ["swalot", "swalot-f"]
+        "forms": [
+            "swalot",
+            "swalot-f"
+        ]
     },
     {
         "id": "meowth",
         "dexNum": 141,
-        "forms": ["meowth", "meowth-alola", "meowth-galar"]
+        "forms": [
+            "meowth",
+            "meowth-alola",
+            "meowth-galar"
+        ]
     },
     {
         "id": "persian",
         "dexNum": 142,
-        "forms": ["persian", "persian-alola"]
+        "forms": [
+            "persian",
+            "persian-alola"
+        ]
     },
     {
         "id": "drifloon",
         "dexNum": 143,
-        "forms": ["drifloon"]
+        "forms": [
+            "drifloon"
+        ]
     },
     {
         "id": "drifblim",
         "dexNum": 144,
-        "forms": ["drifblim"]
+        "forms": [
+            "drifblim"
+        ]
     },
     {
         "id": "flabebe",
@@ -765,212 +1086,308 @@
     {
         "id": "diglett",
         "dexNum": 148,
-        "forms": ["diglett", "diglett-alola"]
+        "forms": [
+            "diglett",
+            "diglett-alola"
+        ]
     },
     {
         "id": "dugtrio",
         "dexNum": 149,
-        "forms": ["dugtrio", "dugtrio-alola"]
+        "forms": [
+            "dugtrio",
+            "dugtrio-alola"
+        ]
     },
     {
         "id": "torkoal",
         "dexNum": 150,
-        "forms": ["torkoal"]
+        "forms": [
+            "torkoal"
+        ]
     },
     {
         "id": "numel",
         "dexNum": 151,
-        "forms": ["numel", "numel-f"]
+        "forms": [
+            "numel",
+            "numel-f"
+        ]
     },
     {
         "id": "camerupt",
         "dexNum": 152,
-        "forms": ["camerupt", "camerupt-f"]
+        "forms": [
+            "camerupt",
+            "camerupt-f"
+        ]
     },
     {
         "id": "bronzor",
         "dexNum": 153,
-        "forms": ["bronzor"]
+        "forms": [
+            "bronzor"
+        ]
     },
     {
         "id": "bronzong",
         "dexNum": 154,
-        "forms": ["bronzong"]
+        "forms": [
+            "bronzong"
+        ]
     },
     {
         "id": "axew",
         "dexNum": 155,
-        "forms": ["axew"]
+        "forms": [
+            "axew"
+        ]
     },
     {
         "id": "fraxure",
         "dexNum": 156,
-        "forms": ["fraxure"]
+        "forms": [
+            "fraxure"
+        ]
     },
     {
         "id": "haxorus",
         "dexNum": 157,
-        "forms": ["haxorus"]
+        "forms": [
+            "haxorus"
+        ]
     },
     {
         "id": "mankey",
         "dexNum": 158,
-        "forms": ["mankey"]
+        "forms": [
+            "mankey"
+        ]
     },
     {
         "id": "primeape",
         "dexNum": 159,
-        "forms": ["primeape"]
+        "forms": [
+            "primeape"
+        ]
     },
     {
         "id": "annihilape",
         "dexNum": 160,
-        "forms": ["annihilape"]
+        "forms": [
+            "annihilape"
+        ]
     },
     {
         "id": "meditite",
         "dexNum": 161,
-        "forms": ["meditite", "meditite-f"]
+        "forms": [
+            "meditite",
+            "meditite-f"
+        ]
     },
     {
         "id": "medicham",
         "dexNum": 162,
-        "forms": ["medicham", "medicham-f"]
+        "forms": [
+            "medicham",
+            "medicham-f"
+        ]
     },
     {
         "id": "riolu",
         "dexNum": 163,
-        "forms": ["riolu"]
+        "forms": [
+            "riolu"
+        ]
     },
     {
         "id": "lucario",
         "dexNum": 164,
-        "forms": ["lucario"]
+        "forms": [
+            "lucario"
+        ]
     },
     {
         "id": "charcadet",
         "dexNum": 165,
-        "forms": ["charcadet"]
+        "forms": [
+            "charcadet"
+        ]
     },
     {
         "id": "armarouge",
         "dexNum": 166,
-        "forms": ["armarouge"]
+        "forms": [
+            "armarouge"
+        ]
     },
     {
         "id": "ceruledge",
         "dexNum": 167,
-        "forms": ["ceruledge"]
+        "forms": [
+            "ceruledge"
+        ]
     },
     {
         "id": "barboach",
         "dexNum": 168,
-        "forms": ["barboach"]
+        "forms": [
+            "barboach"
+        ]
     },
     {
         "id": "whiscash",
         "dexNum": 169,
-        "forms": ["whiscash"]
+        "forms": [
+            "whiscash"
+        ]
     },
     {
         "id": "tadbulb",
         "dexNum": 170,
-        "forms": ["tadbulb"]
+        "forms": [
+            "tadbulb"
+        ]
     },
     {
         "id": "bellibolt",
         "dexNum": 171,
-        "forms": ["bellibolt"]
+        "forms": [
+            "bellibolt"
+        ]
     },
     {
         "id": "goomy",
         "dexNum": 172,
-        "forms": ["goomy"]
+        "forms": [
+            "goomy"
+        ]
     },
     {
         "id": "sliggoo",
         "dexNum": 173,
-        "forms": ["sliggoo", "sliggoo-hisui"]
+        "forms": [
+            "sliggoo",
+            "sliggoo-hisui"
+        ]
     },
     {
         "id": "goodra",
         "dexNum": 174,
-        "forms": ["goodra", "goodra-hisui"]
+        "forms": [
+            "goodra",
+            "goodra-hisui"
+        ]
     },
     {
         "id": "croagunk",
         "dexNum": 175,
-        "forms": ["croagunk", "croagunk-f"]
+        "forms": [
+            "croagunk",
+            "croagunk-f"
+        ]
     },
     {
         "id": "toxicroak",
         "dexNum": 176,
-        "forms": ["toxicroak", "toxicroak-f"]
+        "forms": [
+            "toxicroak",
+            "toxicroak-f"
+        ]
     },
     {
         "id": "wattrel",
         "dexNum": 177,
-        "forms": ["wattrel"]
+        "forms": [
+            "wattrel"
+        ]
     },
     {
         "id": "kilowattrel",
         "dexNum": 178,
-        "forms": ["kilowattrel"]
+        "forms": [
+            "kilowattrel"
+        ]
     },
     {
         "id": "eevee",
         "dexNum": 179,
-        "forms": ["eevee", "eevee-f"]
+        "forms": [
+            "eevee",
+            "eevee-f"
+        ]
     },
     {
         "id": "vaporeon",
         "dexNum": 180,
-        "forms": ["vaporeon"]
+        "forms": [
+            "vaporeon"
+        ]
     },
     {
         "id": "jolteon",
         "dexNum": 181,
-        "forms": ["jolteon"]
+        "forms": [
+            "jolteon"
+        ]
     },
     {
         "id": "flareon",
         "dexNum": 182,
-        "forms": ["flareon"]
+        "forms": [
+            "flareon"
+        ]
     },
     {
         "id": "espeon",
         "dexNum": 183,
-        "forms": ["espeon"]
+        "forms": [
+            "espeon"
+        ]
     },
     {
         "id": "umbreon",
         "dexNum": 184,
-        "forms": ["umbreon"]
+        "forms": [
+            "umbreon"
+        ]
     },
     {
         "id": "leafeon",
         "dexNum": 185,
-        "forms": ["leafeon"]
+        "forms": [
+            "leafeon"
+        ]
     },
     {
         "id": "glaceon",
         "dexNum": 186,
-        "forms": ["glaceon"]
+        "forms": [
+            "glaceon"
+        ]
     },
     {
         "id": "sylveon",
         "dexNum": 187,
-        "forms": ["sylveon"]
+        "forms": [
+            "sylveon"
+        ]
     },
     {
         "id": "dunsparce",
         "dexNum": 188,
-        "forms": ["dunsparce"]
+        "forms": [
+            "dunsparce"
+        ]
     },
     {
         "id": "dudunsparce",
         "dexNum": 189,
-        "forms": ["dudunsparce", "dudunsparce-three-segment"]
+        "forms": [
+            "dudunsparce",
+            "dudunsparce-three-segment"
+        ]
     },
     {
         "id": "deerling",
@@ -995,592 +1412,859 @@
     {
         "id": "girafarig",
         "dexNum": 192,
-        "forms": ["girafarig", "girafarig-f"]
+        "forms": [
+            "girafarig",
+            "girafarig-f"
+        ]
     },
     {
         "id": "farigiraf",
         "dexNum": 193,
-        "forms": ["farigiraf"]
+        "forms": [
+            "farigiraf"
+        ]
     },
     {
         "id": "grimer",
         "dexNum": 194,
-        "forms": ["grimer", "grimer-alola"]
+        "forms": [
+            "grimer",
+            "grimer-alola"
+        ]
     },
     {
         "id": "muk",
         "dexNum": 195,
-        "forms": ["muk", "muk-alola"]
+        "forms": [
+            "muk",
+            "muk-alola"
+        ]
     },
     {
         "id": "maschiff",
         "dexNum": 196,
-        "forms": ["maschiff"]
+        "forms": [
+            "maschiff"
+        ]
     },
     {
         "id": "mabosstiff",
         "dexNum": 197,
-        "forms": ["mabosstiff"]
+        "forms": [
+            "mabosstiff"
+        ]
     },
     {
         "id": "toxel",
         "dexNum": 198,
-        "forms": ["toxel"]
+        "forms": [
+            "toxel"
+        ]
     },
     {
         "id": "toxtricity",
         "dexNum": 199,
-        "forms": ["toxtricity", "toxtricity-low-key"]
+        "forms": [
+            "toxtricity",
+            "toxtricity-low-key"
+        ]
     },
     {
         "id": "dedenne",
         "dexNum": 200,
-        "forms": ["dedenne"]
+        "forms": [
+            "dedenne"
+        ]
     },
     {
         "id": "pachirisu",
         "dexNum": 201,
-        "forms": ["pachirisu", "pachirisu-f"]
+        "forms": [
+            "pachirisu",
+            "pachirisu-f"
+        ]
     },
     {
         "id": "shroodle",
         "dexNum": 202,
-        "forms": ["shroodle"]
+        "forms": [
+            "shroodle"
+        ]
     },
     {
         "id": "grafaiai",
         "dexNum": 203,
-        "forms": ["grafaiai"]
+        "forms": [
+            "grafaiai"
+        ]
     },
     {
         "id": "stantler",
         "dexNum": 204,
-        "forms": ["stantler"]
+        "forms": [
+            "stantler"
+        ]
     },
     {
         "id": "foongus",
         "dexNum": 205,
-        "forms": ["foongus"]
+        "forms": [
+            "foongus"
+        ]
     },
     {
         "id": "amoonguss",
         "dexNum": 206,
-        "forms": ["amoonguss"]
+        "forms": [
+            "amoonguss"
+        ]
     },
     {
         "id": "voltorb",
         "dexNum": 207,
-        "forms": ["voltorb", "voltorb-hisui"]
+        "forms": [
+            "voltorb",
+            "voltorb-hisui"
+        ]
     },
     {
         "id": "electrode",
         "dexNum": 208,
-        "forms": ["electrode", "electrode-hisui"]
+        "forms": [
+            "electrode",
+            "electrode-hisui"
+        ]
     },
     {
         "id": "magnemite",
         "dexNum": 209,
-        "forms": ["magnemite"]
+        "forms": [
+            "magnemite"
+        ]
     },
     {
         "id": "magneton",
         "dexNum": 210,
-        "forms": ["magneton"]
+        "forms": [
+            "magneton"
+        ]
     },
     {
         "id": "magnezone",
         "dexNum": 211,
-        "forms": ["magnezone"]
+        "forms": [
+            "magnezone"
+        ]
     },
     {
         "id": "ditto",
         "dexNum": 212,
-        "forms": ["ditto"]
+        "forms": [
+            "ditto"
+        ]
     },
     {
         "id": "growlithe",
         "dexNum": 213,
-        "forms": ["growlithe", "growlithe-hisui"]
+        "forms": [
+            "growlithe",
+            "growlithe-hisui"
+        ]
     },
     {
         "id": "arcanine",
         "dexNum": 214,
-        "forms": ["arcanine", "arcanine-hisui"]
+        "forms": [
+            "arcanine",
+            "arcanine-hisui"
+        ]
     },
     {
         "id": "teddiursa",
         "dexNum": 215,
-        "forms": ["teddiursa"]
+        "forms": [
+            "teddiursa"
+        ]
     },
     {
         "id": "ursaring",
         "dexNum": 216,
-        "forms": ["ursaring", "ursaring-f"]
+        "forms": [
+            "ursaring",
+            "ursaring-f"
+        ]
     },
     {
         "id": "zangoose",
         "dexNum": 217,
-        "forms": ["zangoose"]
+        "forms": [
+            "zangoose"
+        ]
     },
     {
         "id": "seviper",
         "dexNum": 218,
-        "forms": ["seviper"]
+        "forms": [
+            "seviper"
+        ]
     },
     {
         "id": "swablu",
         "dexNum": 219,
-        "forms": ["swablu"]
+        "forms": [
+            "swablu"
+        ]
     },
     {
         "id": "altaria",
         "dexNum": 220,
-        "forms": ["altaria"]
+        "forms": [
+            "altaria"
+        ]
     },
     {
         "id": "skiddo",
         "dexNum": 221,
-        "forms": ["skiddo"]
+        "forms": [
+            "skiddo"
+        ]
     },
     {
         "id": "gogoat",
         "dexNum": 222,
-        "forms": ["gogoat"]
+        "forms": [
+            "gogoat"
+        ]
     },
     {
         "id": "tauros-paldea",
         "dexNum": 223,
-        "forms": ["tauros-paldea", "tauros-paldea-fire", "tauros-paldea-water"]
+        "forms": [
+            "tauros-paldea",
+            "tauros-paldea-fire",
+            "tauros-paldea-water"
+        ]
     },
     {
         "id": "litleo",
         "dexNum": 224,
-        "forms": ["litleo"]
+        "forms": [
+            "litleo"
+        ]
     },
     {
         "id": "pyroar",
         "dexNum": 225,
-        "forms": ["pyroar", "pyroar-f"]
+        "forms": [
+            "pyroar",
+            "pyroar-f"
+        ]
     },
     {
         "id": "stunky",
         "dexNum": 226,
-        "forms": ["stunky"]
+        "forms": [
+            "stunky"
+        ]
     },
     {
         "id": "skuntank",
         "dexNum": 227,
-        "forms": ["skuntank"]
+        "forms": [
+            "skuntank"
+        ]
     },
     {
         "id": "zorua",
         "dexNum": 228,
-        "forms": ["zorua", "zorua-hisui"]
+        "forms": [
+            "zorua",
+            "zorua-hisui"
+        ]
     },
     {
         "id": "zoroark",
         "dexNum": 229,
-        "forms": ["zoroark", "zoroark-hisui"]
+        "forms": [
+            "zoroark",
+            "zoroark-hisui"
+        ]
     },
     {
         "id": "sneasel",
         "dexNum": 230,
-        "forms": ["sneasel", "sneasel-f", "sneasel-hisui", "sneasel-hisui-f"]
+        "forms": [
+            "sneasel",
+            "sneasel-f",
+            "sneasel-hisui",
+            "sneasel-hisui-f"
+        ]
     },
     {
         "id": "weavile",
         "dexNum": 231,
-        "forms": ["weavile", "weavile-f"]
+        "forms": [
+            "weavile",
+            "weavile-f"
+        ]
     },
     {
         "id": "murkrow",
         "dexNum": 232,
-        "forms": ["murkrow", "murkrow-f"]
+        "forms": [
+            "murkrow",
+            "murkrow-f"
+        ]
     },
     {
         "id": "honchkrow",
         "dexNum": 233,
-        "forms": ["honchkrow"]
+        "forms": [
+            "honchkrow"
+        ]
     },
     {
         "id": "gothita",
         "dexNum": 234,
-        "forms": ["gothita"]
+        "forms": [
+            "gothita"
+        ]
     },
     {
         "id": "gothorita",
         "dexNum": 235,
-        "forms": ["gothorita"]
+        "forms": [
+            "gothorita"
+        ]
     },
     {
         "id": "gothitelle",
         "dexNum": 236,
-        "forms": ["gothitelle"]
+        "forms": [
+            "gothitelle"
+        ]
     },
     {
         "id": "sinistea",
         "dexNum": 237,
-        "forms": ["sinistea", "sinistea-antique"]
+        "forms": [
+            "sinistea",
+            "sinistea-antique"
+        ]
     },
     {
         "id": "polteageist",
         "dexNum": 238,
-        "forms": ["polteageist", "polteageist-antique"]
+        "forms": [
+            "polteageist",
+            "polteageist-antique"
+        ]
     },
     {
         "id": "mimikyu",
         "dexNum": 239,
-        "forms": ["mimikyu", "mimikyu-busted"]
+        "forms": [
+            "mimikyu",
+            "mimikyu-busted"
+        ]
     },
     {
         "id": "klefki",
         "dexNum": 240,
-        "forms": ["klefki"]
+        "forms": [
+            "klefki"
+        ]
     },
     {
         "id": "indeedee",
         "dexNum": 241,
-        "forms": ["indeedee", "indeedee-f"]
+        "forms": [
+            "indeedee",
+            "indeedee-f"
+        ]
     },
     {
         "id": "bramblin",
         "dexNum": 242,
-        "forms": ["bramblin"]
+        "forms": [
+            "bramblin"
+        ]
     },
     {
         "id": "brambleghast",
         "dexNum": 243,
-        "forms": ["brambleghast"]
+        "forms": [
+            "brambleghast"
+        ]
     },
     {
         "id": "toedscool",
         "dexNum": 244,
-        "forms": ["toedscool"]
+        "forms": [
+            "toedscool"
+        ]
     },
     {
         "id": "toedscruel",
         "dexNum": 245,
-        "forms": ["toedscruel"]
+        "forms": [
+            "toedscruel"
+        ]
     },
     {
         "id": "tropius",
         "dexNum": 246,
-        "forms": ["tropius"]
+        "forms": [
+            "tropius"
+        ]
     },
     {
         "id": "fomantis",
         "dexNum": 247,
-        "forms": ["fomantis"]
+        "forms": [
+            "fomantis"
+        ]
     },
     {
         "id": "lurantis",
         "dexNum": 248,
-        "forms": ["lurantis"]
+        "forms": [
+            "lurantis"
+        ]
     },
     {
         "id": "klawf",
         "dexNum": 249,
-        "forms": ["klawf"]
+        "forms": [
+            "klawf"
+        ]
     },
     {
         "id": "capsakid",
         "dexNum": 250,
-        "forms": ["capsakid"]
+        "forms": [
+            "capsakid"
+        ]
     },
     {
         "id": "scovillain",
         "dexNum": 251,
-        "forms": ["scovillain"]
+        "forms": [
+            "scovillain"
+        ]
     },
     {
         "id": "cacnea",
         "dexNum": 252,
-        "forms": ["cacnea"]
+        "forms": [
+            "cacnea"
+        ]
     },
     {
         "id": "cacturne",
         "dexNum": 253,
-        "forms": ["cacturne", "cacturne-f"]
+        "forms": [
+            "cacturne",
+            "cacturne-f"
+        ]
     },
     {
         "id": "rellor",
         "dexNum": 254,
-        "forms": ["rellor"]
+        "forms": [
+            "rellor"
+        ]
     },
     {
         "id": "rabsca",
         "dexNum": 255,
-        "forms": ["rabsca"]
+        "forms": [
+            "rabsca"
+        ]
     },
     {
         "id": "venonat",
         "dexNum": 256,
-        "forms": ["venonat"]
+        "forms": [
+            "venonat"
+        ]
     },
     {
         "id": "venomoth",
         "dexNum": 257,
-        "forms": ["venomoth"]
+        "forms": [
+            "venomoth"
+        ]
     },
     {
         "id": "pineco",
         "dexNum": 258,
-        "forms": ["pineco"]
+        "forms": [
+            "pineco"
+        ]
     },
     {
         "id": "forretress",
         "dexNum": 259,
-        "forms": ["forretress"]
+        "forms": [
+            "forretress"
+        ]
     },
     {
         "id": "scyther",
         "dexNum": 260,
-        "forms": ["scyther", "scyther-f"]
+        "forms": [
+            "scyther",
+            "scyther-f"
+        ]
     },
     {
         "id": "scizor",
         "dexNum": 261,
-        "forms": ["scizor", "scizor-f"]
+        "forms": [
+            "scizor",
+            "scizor-f"
+        ]
     },
     {
         "id": "heracross",
         "dexNum": 262,
-        "forms": ["heracross", "heracross-f"]
+        "forms": [
+            "heracross",
+            "heracross-f"
+        ]
     },
     {
         "id": "flittle",
         "dexNum": 263,
-        "forms": ["flittle"]
+        "forms": [
+            "flittle"
+        ]
     },
     {
         "id": "espathra",
         "dexNum": 264,
-        "forms": ["espathra"]
+        "forms": [
+            "espathra"
+        ]
     },
     {
         "id": "hippopotas",
         "dexNum": 265,
-        "forms": ["hippopotas", "hippopotas-f"]
+        "forms": [
+            "hippopotas",
+            "hippopotas-f"
+        ]
     },
     {
         "id": "hippowdon",
         "dexNum": 266,
-        "forms": ["hippowdon", "hippowdon-f"]
+        "forms": [
+            "hippowdon",
+            "hippowdon-f"
+        ]
     },
     {
         "id": "sandile",
         "dexNum": 267,
-        "forms": ["sandile"]
+        "forms": [
+            "sandile"
+        ]
     },
     {
         "id": "krokorok",
         "dexNum": 268,
-        "forms": ["krokorok"]
+        "forms": [
+            "krokorok"
+        ]
     },
     {
         "id": "krookodile",
         "dexNum": 269,
-        "forms": ["krookodile"]
+        "forms": [
+            "krookodile"
+        ]
     },
     {
         "id": "silicobra",
         "dexNum": 270,
-        "forms": ["silicobra"]
+        "forms": [
+            "silicobra"
+        ]
     },
     {
         "id": "sandaconda",
         "dexNum": 271,
-        "forms": ["sandaconda"]
+        "forms": [
+            "sandaconda"
+        ]
     },
     {
         "id": "mudbray",
         "dexNum": 272,
-        "forms": ["mudbray"]
+        "forms": [
+            "mudbray"
+        ]
     },
     {
         "id": "mudsdale",
         "dexNum": 273,
-        "forms": ["mudsdale"]
+        "forms": [
+            "mudsdale"
+        ]
     },
     {
         "id": "larvesta",
         "dexNum": 274,
-        "forms": ["larvesta"]
+        "forms": [
+            "larvesta"
+        ]
     },
     {
         "id": "volcarona",
         "dexNum": 275,
-        "forms": ["volcarona"]
+        "forms": [
+            "volcarona"
+        ]
     },
     {
         "id": "bagon",
         "dexNum": 276,
-        "forms": ["bagon"]
+        "forms": [
+            "bagon"
+        ]
     },
     {
         "id": "shelgon",
         "dexNum": 277,
-        "forms": ["shelgon"]
+        "forms": [
+            "shelgon"
+        ]
     },
     {
         "id": "salamence",
         "dexNum": 278,
-        "forms": ["salamence"]
+        "forms": [
+            "salamence"
+        ]
     },
     {
         "id": "tinkatink",
         "dexNum": 279,
-        "forms": ["tinkatink"]
+        "forms": [
+            "tinkatink"
+        ]
     },
     {
         "id": "tinkatuff",
         "dexNum": 280,
-        "forms": ["tinkatuff"]
+        "forms": [
+            "tinkatuff"
+        ]
     },
     {
         "id": "tinkaton",
         "dexNum": 281,
-        "forms": ["tinkaton"]
+        "forms": [
+            "tinkaton"
+        ]
     },
     {
         "id": "hatenna",
         "dexNum": 282,
-        "forms": ["hatenna"]
+        "forms": [
+            "hatenna"
+        ]
     },
     {
         "id": "hattrem",
         "dexNum": 283,
-        "forms": ["hattrem"]
+        "forms": [
+            "hattrem"
+        ]
     },
     {
         "id": "hatterene",
         "dexNum": 284,
-        "forms": ["hatterene"]
+        "forms": [
+            "hatterene"
+        ]
     },
     {
         "id": "impidimp",
         "dexNum": 285,
-        "forms": ["impidimp"]
+        "forms": [
+            "impidimp"
+        ]
     },
     {
         "id": "morgrem",
         "dexNum": 286,
-        "forms": ["morgrem"]
+        "forms": [
+            "morgrem"
+        ]
     },
     {
         "id": "grimmsnarl",
         "dexNum": 287,
-        "forms": ["grimmsnarl"]
+        "forms": [
+            "grimmsnarl"
+        ]
     },
     {
         "id": "wiglett",
         "dexNum": 288,
-        "forms": ["wiglett"]
+        "forms": [
+            "wiglett"
+        ]
     },
     {
         "id": "wugtrio",
         "dexNum": 289,
-        "forms": ["wugtrio"]
+        "forms": [
+            "wugtrio"
+        ]
     },
     {
         "id": "bombirdier",
         "dexNum": 290,
-        "forms": ["bombirdier"]
+        "forms": [
+            "bombirdier"
+        ]
     },
     {
         "id": "finizen",
         "dexNum": 291,
-        "forms": ["finizen"]
+        "forms": [
+            "finizen"
+        ]
     },
     {
         "id": "palafin",
         "dexNum": 292,
-        "forms": ["palafin", "palafin-hero"]
+        "forms": [
+            "palafin",
+            "palafin-hero"
+        ]
     },
     {
         "id": "varoom",
         "dexNum": 293,
-        "forms": ["varoom"]
+        "forms": [
+            "varoom"
+        ]
     },
     {
         "id": "revavroom",
         "dexNum": 294,
-        "forms": ["revavroom"]
+        "forms": [
+            "revavroom"
+        ]
     },
     {
         "id": "cyclizar",
         "dexNum": 295,
-        "forms": ["cyclizar"]
+        "forms": [
+            "cyclizar"
+        ]
     },
     {
         "id": "orthworm",
         "dexNum": 296,
-        "forms": ["orthworm"]
+        "forms": [
+            "orthworm"
+        ]
     },
     {
         "id": "sableye",
         "dexNum": 297,
-        "forms": ["sableye"]
+        "forms": [
+            "sableye"
+        ]
     },
     {
         "id": "shuppet",
         "dexNum": 298,
-        "forms": ["shuppet"]
+        "forms": [
+            "shuppet"
+        ]
     },
     {
         "id": "banette",
         "dexNum": 299,
-        "forms": ["banette"]
+        "forms": [
+            "banette"
+        ]
     },
     {
         "id": "falinks",
         "dexNum": 300,
-        "forms": ["falinks"]
+        "forms": [
+            "falinks"
+        ]
     },
     {
         "id": "hawlucha",
         "dexNum": 301,
-        "forms": ["hawlucha"]
+        "forms": [
+            "hawlucha"
+        ]
     },
     {
         "id": "spiritomb",
         "dexNum": 302,
-        "forms": ["spiritomb"]
+        "forms": [
+            "spiritomb"
+        ]
     },
     {
         "id": "noibat",
         "dexNum": 303,
-        "forms": ["noibat"]
+        "forms": [
+            "noibat"
+        ]
     },
     {
         "id": "noivern",
         "dexNum": 304,
-        "forms": ["noivern"]
+        "forms": [
+            "noivern"
+        ]
     },
     {
         "id": "dreepy",
         "dexNum": 305,
-        "forms": ["dreepy"]
+        "forms": [
+            "dreepy"
+        ]
     },
     {
         "id": "drakloak",
         "dexNum": 306,
-        "forms": ["drakloak"]
+        "forms": [
+            "drakloak"
+        ]
     },
     {
         "id": "dragapult",
         "dexNum": 307,
-        "forms": ["dragapult"]
+        "forms": [
+            "dragapult"
+        ]
     },
     {
         "id": "glimmet",
         "dexNum": 308,
-        "forms": ["glimmet"]
+        "forms": [
+            "glimmet"
+        ]
     },
     {
         "id": "glimmora",
         "dexNum": 309,
-        "forms": ["glimmora"]
+        "forms": [
+            "glimmora"
+        ]
     },
     {
         "id": "rotom",
@@ -1597,451 +2281,647 @@
     {
         "id": "greavard",
         "dexNum": 311,
-        "forms": ["greavard"]
+        "forms": [
+            "greavard"
+        ]
     },
     {
         "id": "houndstone",
         "dexNum": 312,
-        "forms": ["houndstone"]
+        "forms": [
+            "houndstone"
+        ]
     },
     {
         "id": "oranguru",
         "dexNum": 313,
-        "forms": ["oranguru"]
+        "forms": [
+            "oranguru"
+        ]
     },
     {
         "id": "passimian",
         "dexNum": 314,
-        "forms": ["passimian"]
+        "forms": [
+            "passimian"
+        ]
     },
     {
         "id": "komala",
         "dexNum": 315,
-        "forms": ["komala"]
+        "forms": [
+            "komala"
+        ]
     },
     {
         "id": "larvitar",
         "dexNum": 316,
-        "forms": ["larvitar"]
+        "forms": [
+            "larvitar"
+        ]
     },
     {
         "id": "pupitar",
         "dexNum": 317,
-        "forms": ["pupitar"]
+        "forms": [
+            "pupitar"
+        ]
     },
     {
         "id": "tyranitar",
         "dexNum": 318,
-        "forms": ["tyranitar"]
+        "forms": [
+            "tyranitar"
+        ]
     },
     {
         "id": "stonjourner",
         "dexNum": 319,
-        "forms": ["stonjourner"]
+        "forms": [
+            "stonjourner"
+        ]
     },
     {
         "id": "eiscue",
         "dexNum": 320,
-        "forms": ["eiscue", "eiscue-noice"]
+        "forms": [
+            "eiscue",
+            "eiscue-noice"
+        ]
     },
     {
         "id": "pincurchin",
         "dexNum": 321,
-        "forms": ["pincurchin"]
+        "forms": [
+            "pincurchin"
+        ]
     },
     {
         "id": "sandygast",
         "dexNum": 322,
-        "forms": ["sandygast"]
+        "forms": [
+            "sandygast"
+        ]
     },
     {
         "id": "palossand",
         "dexNum": 323,
-        "forms": ["palossand"]
+        "forms": [
+            "palossand"
+        ]
     },
     {
         "id": "slowpoke",
         "dexNum": 324,
-        "forms": ["slowpoke", "slowpoke-galar"]
+        "forms": [
+            "slowpoke",
+            "slowpoke-galar"
+        ]
     },
     {
         "id": "slowbro",
         "dexNum": 325,
-        "forms": ["slowbro", "slowbro-galar"]
+        "forms": [
+            "slowbro",
+            "slowbro-galar"
+        ]
     },
     {
         "id": "slowking",
         "dexNum": 326,
-        "forms": ["slowking", "slowking-galar"]
+        "forms": [
+            "slowking",
+            "slowking-galar"
+        ]
     },
     {
         "id": "shellos",
         "dexNum": 327,
-        "forms": ["shellos", "shellos-east"]
+        "forms": [
+            "shellos",
+            "shellos-east"
+        ]
     },
     {
         "id": "gastrodon",
         "dexNum": 328,
-        "forms": ["gastrodon", "gastrodon-east"]
+        "forms": [
+            "gastrodon",
+            "gastrodon-east"
+        ]
     },
     {
         "id": "shellder",
         "dexNum": 329,
-        "forms": ["shellder"]
+        "forms": [
+            "shellder"
+        ]
     },
     {
         "id": "cloyster",
         "dexNum": 330,
-        "forms": ["cloyster"]
+        "forms": [
+            "cloyster"
+        ]
     },
     {
         "id": "qwilfish",
         "dexNum": 331,
-        "forms": ["qwilfish", "qwilfish-hisui"]
+        "forms": [
+            "qwilfish",
+            "qwilfish-hisui"
+        ]
     },
     {
         "id": "luvdisc",
         "dexNum": 332,
-        "forms": ["luvdisc"]
+        "forms": [
+            "luvdisc"
+        ]
     },
     {
         "id": "finneon",
         "dexNum": 333,
-        "forms": ["finneon", "finneon-f"]
+        "forms": [
+            "finneon",
+            "finneon-f"
+        ]
     },
     {
         "id": "lumineon",
         "dexNum": 334,
-        "forms": ["lumineon", "lumineon-f"]
+        "forms": [
+            "lumineon",
+            "lumineon-f"
+        ]
     },
     {
         "id": "bruxish",
         "dexNum": 335,
-        "forms": ["bruxish"]
+        "forms": [
+            "bruxish"
+        ]
     },
     {
         "id": "alomomola",
         "dexNum": 336,
-        "forms": ["alomomola"]
+        "forms": [
+            "alomomola"
+        ]
     },
     {
         "id": "skrelp",
         "dexNum": 337,
-        "forms": ["skrelp"]
+        "forms": [
+            "skrelp"
+        ]
     },
     {
         "id": "dragalge",
         "dexNum": 338,
-        "forms": ["dragalge"]
+        "forms": [
+            "dragalge"
+        ]
     },
     {
         "id": "clauncher",
         "dexNum": 339,
-        "forms": ["clauncher"]
+        "forms": [
+            "clauncher"
+        ]
     },
     {
         "id": "clawitzer",
         "dexNum": 340,
-        "forms": ["clawitzer"]
+        "forms": [
+            "clawitzer"
+        ]
     },
     {
         "id": "tynamo",
         "dexNum": 341,
-        "forms": ["tynamo"]
+        "forms": [
+            "tynamo"
+        ]
     },
     {
         "id": "eelektrik",
         "dexNum": 342,
-        "forms": ["eelektrik"]
+        "forms": [
+            "eelektrik"
+        ]
     },
     {
         "id": "eelektross",
         "dexNum": 343,
-        "forms": ["eelektross"]
+        "forms": [
+            "eelektross"
+        ]
     },
     {
         "id": "mareanie",
         "dexNum": 344,
-        "forms": ["mareanie"]
+        "forms": [
+            "mareanie"
+        ]
     },
     {
         "id": "toxapex",
         "dexNum": 345,
-        "forms": ["toxapex"]
+        "forms": [
+            "toxapex"
+        ]
     },
     {
         "id": "flamigo",
         "dexNum": 346,
-        "forms": ["flamigo"]
+        "forms": [
+            "flamigo"
+        ]
     },
     {
         "id": "dratini",
         "dexNum": 347,
-        "forms": ["dratini"]
+        "forms": [
+            "dratini"
+        ]
     },
     {
         "id": "dragonair",
         "dexNum": 348,
-        "forms": ["dragonair"]
+        "forms": [
+            "dragonair"
+        ]
     },
     {
         "id": "dragonite",
         "dexNum": 349,
-        "forms": ["dragonite"]
+        "forms": [
+            "dragonite"
+        ]
     },
     {
         "id": "snom",
         "dexNum": 350,
-        "forms": ["snom"]
+        "forms": [
+            "snom"
+        ]
     },
     {
         "id": "frosmoth",
         "dexNum": 351,
-        "forms": ["frosmoth"]
+        "forms": [
+            "frosmoth"
+        ]
     },
     {
         "id": "snover",
         "dexNum": 352,
-        "forms": ["snover", "snover-f"]
+        "forms": [
+            "snover",
+            "snover-f"
+        ]
     },
     {
         "id": "abomasnow",
         "dexNum": 353,
-        "forms": ["abomasnow", "abomasnow-f"]
+        "forms": [
+            "abomasnow",
+            "abomasnow-f"
+        ]
     },
     {
         "id": "delibird",
         "dexNum": 354,
-        "forms": ["delibird"]
+        "forms": [
+            "delibird"
+        ]
     },
     {
         "id": "cubchoo",
         "dexNum": 355,
-        "forms": ["cubchoo"]
+        "forms": [
+            "cubchoo"
+        ]
     },
     {
         "id": "beartic",
         "dexNum": 356,
-        "forms": ["beartic"]
+        "forms": [
+            "beartic"
+        ]
     },
     {
         "id": "snorunt",
         "dexNum": 357,
-        "forms": ["snorunt"]
+        "forms": [
+            "snorunt"
+        ]
     },
     {
         "id": "glalie",
         "dexNum": 358,
-        "forms": ["glalie"]
+        "forms": [
+            "glalie"
+        ]
     },
     {
         "id": "froslass",
         "dexNum": 359,
-        "forms": ["froslass"]
+        "forms": [
+            "froslass"
+        ]
     },
     {
         "id": "cryogonal",
         "dexNum": 360,
-        "forms": ["cryogonal"]
+        "forms": [
+            "cryogonal"
+        ]
     },
     {
         "id": "cetoddle",
         "dexNum": 361,
-        "forms": ["cetoddle"]
+        "forms": [
+            "cetoddle"
+        ]
     },
     {
         "id": "cetitan",
         "dexNum": 362,
-        "forms": ["cetitan"]
+        "forms": [
+            "cetitan"
+        ]
     },
     {
         "id": "bergmite",
         "dexNum": 363,
-        "forms": ["bergmite"]
+        "forms": [
+            "bergmite"
+        ]
     },
     {
         "id": "avalugg",
         "dexNum": 364,
-        "forms": ["avalugg", "avalugg-hisui"]
+        "forms": [
+            "avalugg",
+            "avalugg-hisui"
+        ]
     },
     {
         "id": "rufflet",
         "dexNum": 365,
-        "forms": ["rufflet"]
+        "forms": [
+            "rufflet"
+        ]
     },
     {
         "id": "braviary",
         "dexNum": 366,
-        "forms": ["braviary", "braviary-hisui"]
+        "forms": [
+            "braviary",
+            "braviary-hisui"
+        ]
     },
     {
         "id": "pawniard",
         "dexNum": 367,
-        "forms": ["pawniard"]
+        "forms": [
+            "pawniard"
+        ]
     },
     {
         "id": "bisharp",
         "dexNum": 368,
-        "forms": ["bisharp"]
+        "forms": [
+            "bisharp"
+        ]
     },
     {
         "id": "kingambit",
         "dexNum": 369,
-        "forms": ["kingambit"]
+        "forms": [
+            "kingambit"
+        ]
     },
     {
         "id": "deino",
         "dexNum": 370,
-        "forms": ["deino"]
+        "forms": [
+            "deino"
+        ]
     },
     {
         "id": "zweilous",
         "dexNum": 371,
-        "forms": ["zweilous"]
+        "forms": [
+            "zweilous"
+        ]
     },
     {
         "id": "hydreigon",
         "dexNum": 372,
-        "forms": ["hydreigon"]
+        "forms": [
+            "hydreigon"
+        ]
     },
     {
         "id": "veluza",
         "dexNum": 373,
-        "forms": ["veluza"]
+        "forms": [
+            "veluza"
+        ]
     },
     {
         "id": "dondozo",
         "dexNum": 374,
-        "forms": ["dondozo"]
+        "forms": [
+            "dondozo"
+        ]
     },
     {
         "id": "tatsugiri",
         "dexNum": 375,
-        "forms": ["tatsugiri", "tatsugiri-droopy", "tatsugiri-sketchy"]
+        "forms": [
+            "tatsugiri",
+            "tatsugiri-droopy",
+            "tatsugiri-sketchy"
+        ]
     },
     {
         "id": "greattusk",
         "dexNum": 376,
-        "forms": ["greattusk"]
+        "forms": [
+            "greattusk"
+        ]
     },
     {
         "id": "screamtail",
         "dexNum": 377,
-        "forms": ["screamtail"]
+        "forms": [
+            "screamtail"
+        ]
     },
     {
         "id": "brutebonnet",
         "dexNum": 378,
-        "forms": ["brutebonnet"]
+        "forms": [
+            "brutebonnet"
+        ]
     },
     {
         "id": "fluttermane",
         "dexNum": 379,
-        "forms": ["fluttermane"]
+        "forms": [
+            "fluttermane"
+        ]
     },
     {
         "id": "slitherwing",
         "dexNum": 380,
-        "forms": ["slitherwing"]
+        "forms": [
+            "slitherwing"
+        ]
     },
     {
         "id": "sandyshocks",
         "dexNum": 381,
-        "forms": ["sandyshocks"]
+        "forms": [
+            "sandyshocks"
+        ]
     },
     {
         "id": "irontreads",
         "dexNum": 382,
-        "forms": ["irontreads"]
+        "forms": [
+            "irontreads"
+        ]
     },
     {
         "id": "ironbundle",
         "dexNum": 383,
-        "forms": ["ironbundle"]
+        "forms": [
+            "ironbundle"
+        ]
     },
     {
         "id": "ironhands",
         "dexNum": 384,
-        "forms": ["ironhands"]
+        "forms": [
+            "ironhands"
+        ]
     },
     {
         "id": "ironjugulis",
         "dexNum": 385,
-        "forms": ["ironjugulis"]
+        "forms": [
+            "ironjugulis"
+        ]
     },
     {
         "id": "ironmoth",
         "dexNum": 386,
-        "forms": ["ironmoth"]
+        "forms": [
+            "ironmoth"
+        ]
     },
     {
         "id": "ironthorns",
         "dexNum": 387,
-        "forms": ["ironthorns"]
+        "forms": [
+            "ironthorns"
+        ]
     },
     {
         "id": "frigibax",
         "dexNum": 388,
-        "forms": ["frigibax"]
+        "forms": [
+            "frigibax"
+        ]
     },
     {
         "id": "arctibax",
         "dexNum": 389,
-        "forms": ["arctibax"]
+        "forms": [
+            "arctibax"
+        ]
     },
     {
         "id": "baxcalibur",
         "dexNum": 390,
-        "forms": ["baxcalibur"]
+        "forms": [
+            "baxcalibur"
+        ]
     },
     {
         "id": "gimmighoul",
         "dexNum": 391,
-        "forms": ["gimmighoul", "gimmighoul-roaming"]
+        "forms": [
+            "gimmighoul",
+            "gimmighoul-roaming"
+        ]
     },
     {
         "id": "gholdengo",
         "dexNum": 392,
-        "forms": ["gholdengo"]
+        "forms": [
+            "gholdengo"
+        ]
     },
     {
         "id": "wochien",
         "dexNum": 393,
-        "forms": ["wochien"]
+        "forms": [
+            "wochien"
+        ]
     },
     {
         "id": "chienpao",
         "dexNum": 394,
-        "forms": ["chienpao"]
+        "forms": [
+            "chienpao"
+        ]
     },
     {
         "id": "tinglu",
         "dexNum": 395,
-        "forms": ["tinglu"]
+        "forms": [
+            "tinglu"
+        ]
     },
     {
         "id": "chiyu",
         "dexNum": 396,
-        "forms": ["chiyu"]
+        "forms": [
+            "chiyu"
+        ]
     },
     {
         "id": "roaringmoon",
         "dexNum": 397,
-        "forms": ["roaringmoon"]
+        "forms": [
+            "roaringmoon"
+        ]
     },
     {
         "id": "ironvaliant",
         "dexNum": 398,
-        "forms": ["ironvaliant"]
+        "forms": [
+            "ironvaliant"
+        ]
     },
     {
         "id": "koraidon",
         "dexNum": 399,
-        "forms": ["koraidon"]
+        "forms": [
+            "koraidon"
+        ]
     },
     {
         "id": "miraidon",
         "dexNum": 400,
-        "forms": ["miraidon"]
+        "forms": [
+            "miraidon"
+        ]
     }
 ]
