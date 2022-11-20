@@ -72,17 +72,12 @@ require_once __DIR__ . '/_bootstrap.php';
         }
         $showdownId = isset($showdownMapping[$id]) ? $showdownMapping[$id] : ($data['refs']['showdown'] ?? '???');
         if (!isset($showdownEntries[$showdownId])) {
-            //print_r($data);
             echo "Missing or wrong showdown ID '" . $data['refs']['showdown'] . "' for pokemon $id\n";
-            //break;
         }
 
         //$data = $importData($data, $showdownEntries[$showdownId]);
-        //sgg_data_save(filename: 'sources/pokemon/entries/' . $id . '.json', data: $data, minify: false);
+        sgg_data_save(filename: 'sources/pokemon/entries/' . $id . '.json', data: $data, minify: false);
     }
 
-    // print_r(array_keys($showdownEntries));
-
-
-    echo "[OK] Build finished!\n";
+    echo "[OK] Showdown import finished!\n";
 })();
