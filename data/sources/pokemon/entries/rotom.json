@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "ROTOM",
         "veekunDb": "rotom",
+        "smogon": "rotom",
+        "showdown": "rotom",
+        "showdownDef": "Rotom",
         "serebii": "rotom",
         "bulbapedia": "Rotom",
         "homeSprite": "0479",
-        "miniSprite": "0479",
-        "showdown": "rotom",
-        "showdownDef": "Rotom",
-        "smogon": "rotom"
+        "miniSprite": "0479"
     },
     "baseSpecies": null,
     "baseForms": [],

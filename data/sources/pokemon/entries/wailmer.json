@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "WAILMER",
         "veekunDb": "wailmer",
+        "smogon": "wailmer",
+        "showdown": "wailmer",
+        "showdownDef": "Wailmer",
         "serebii": "wailmer",
         "bulbapedia": "Wailmer",
         "homeSprite": "0320",
-        "miniSprite": "0320",
-        "showdown": "wailmer",
-        "showdownDef": "Wailmer",
-        "smogon": "wailmer"
+        "miniSprite": "0320"
     },
     "baseSpecies": null,
     "baseForms": [],

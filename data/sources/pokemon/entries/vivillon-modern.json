@@ -81,13 +81,13 @@
     "refs": {
         "pogo": "VIVILLON_MODERN",
         "veekunDb": "vivillon-modern",
+        "smogon": "vivillon-modern",
+        "showdown": "vivillon",
+        "showdownDef": "Vivillon-Modern",
         "serebii": "vivillon",
         "bulbapedia": "Vivillon",
         "homeSprite": "0666-modern",
-        "miniSprite": "0666-modern",
-        "showdown": "vivillon",
-        "showdownDef": "Vivillon-Modern",
-        "smogon": "vivillon-modern"
+        "miniSprite": "0666-modern"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

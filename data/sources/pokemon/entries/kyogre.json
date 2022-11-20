@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "KYOGRE",
         "veekunDb": "kyogre",
+        "smogon": "kyogre",
+        "showdown": "kyogre",
+        "showdownDef": "Kyogre",
         "serebii": "kyogre",
         "bulbapedia": "Kyogre",
         "homeSprite": "0382",
-        "miniSprite": "0382",
-        "showdown": "kyogre",
-        "showdownDef": "Kyogre",
-        "smogon": "kyogre"
+        "miniSprite": "0382"
     },
     "baseSpecies": null,
     "baseForms": [],

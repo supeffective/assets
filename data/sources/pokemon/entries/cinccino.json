@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "CINCCINO",
         "veekunDb": "cinccino",
+        "smogon": "cinccino",
+        "showdown": "cinccino",
+        "showdownDef": "Cinccino",
         "serebii": "cinccino",
         "bulbapedia": "Cinccino",
         "homeSprite": "0573",
-        "miniSprite": "0573",
-        "showdown": "cinccino",
-        "showdownDef": "Cinccino",
-        "smogon": "cinccino"
+        "miniSprite": "0573"
     },
     "baseSpecies": null,
     "baseForms": [],

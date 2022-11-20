@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "HAXORUS",
         "veekunDb": "haxorus",
+        "smogon": "haxorus",
+        "showdown": "haxorus",
+        "showdownDef": "Haxorus",
         "serebii": "haxorus",
         "bulbapedia": "Haxorus",
         "homeSprite": "0612",
-        "miniSprite": "0612",
-        "showdown": "haxorus",
-        "showdownDef": "Haxorus",
-        "smogon": "haxorus"
+        "miniSprite": "0612"
     },
     "baseSpecies": null,
     "baseForms": [],

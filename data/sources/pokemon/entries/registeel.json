@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "REGISTEEL",
         "veekunDb": "registeel",
+        "smogon": "registeel",
+        "showdown": "registeel",
+        "showdownDef": "Registeel",
         "serebii": "registeel",
         "bulbapedia": "Registeel",
         "homeSprite": "0379",
-        "miniSprite": "0379",
-        "showdown": "registeel",
-        "showdownDef": "Registeel",
-        "smogon": "registeel"
+        "miniSprite": "0379"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -105,13 +105,13 @@
     "refs": {
         "pogo": "PONYTA",
         "veekunDb": "ponyta",
+        "smogon": "ponyta",
+        "showdown": "ponyta",
+        "showdownDef": "Ponyta",
         "serebii": "ponyta",
         "bulbapedia": "Ponyta",
         "homeSprite": "0077",
-        "miniSprite": "0077",
-        "showdown": "ponyta",
-        "showdownDef": "Ponyta",
-        "smogon": "ponyta"
+        "miniSprite": "0077"
     },
     "baseSpecies": null,
     "baseForms": [],

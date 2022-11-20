@@ -85,13 +85,13 @@
     "refs": {
         "pogo": "KELDEO_RESOLUTE",
         "veekunDb": "keldeo-resolute",
+        "smogon": "keldeo-resolute",
+        "showdown": "keldeoresolute",
+        "showdownDef": "Keldeo-Resolute",
         "serebii": "keldeo",
         "bulbapedia": "Keldeo",
         "homeSprite": "0647-resolute",
-        "miniSprite": "0647-resolute",
-        "showdown": "keldeoresolute",
-        "showdownDef": "Keldeo-Resolute",
-        "smogon": "keldeo-resolute"
+        "miniSprite": "0647-resolute"
     },
     "baseSpecies": "keldeo",
     "baseForms": [

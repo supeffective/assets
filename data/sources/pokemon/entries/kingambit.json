@@ -73,13 +73,13 @@
     "refs": {
         "pogo": "???",
         "veekunDb": "???",
+        "smogon": "???",
+        "showdown": "kingambit",
+        "showdownDef": "Kingambit",
         "serebii": "???",
         "bulbapedia": "???",
         "homeSprite": "???",
-        "miniSprite": "???",
-        "showdown": "kingambit",
-        "showdownDef": "Kingambit",
-        "smogon": "???"
+        "miniSprite": "???"
     },
     "baseSpecies": null,
     "baseForms": [],

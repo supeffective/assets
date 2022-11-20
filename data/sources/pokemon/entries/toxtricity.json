@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "TOXTRICITY",
         "veekunDb": "toxtricity",
+        "smogon": "toxtricity",
+        "showdown": "toxtricity",
+        "showdownDef": "Toxtricity",
         "serebii": "toxtricity",
         "bulbapedia": "Toxtricity",
         "homeSprite": "0849",
-        "miniSprite": "0849",
-        "showdown": "toxtricity",
-        "showdownDef": "Toxtricity",
-        "smogon": "toxtricity"
+        "miniSprite": "0849"
     },
     "baseSpecies": null,
     "baseForms": [],

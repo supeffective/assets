@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "RATICATE_ALOLA",
         "veekunDb": "raticate-alola",
+        "smogon": "raticate-alola",
+        "showdown": "raticatealola",
+        "showdownDef": "Raticate-Alola",
         "serebii": "raticate",
         "bulbapedia": "Raticate",
         "homeSprite": "0020-alola",
-        "miniSprite": "0020-alola",
-        "showdown": "raticatealola",
-        "showdownDef": "Raticate-Alola",
-        "smogon": "raticate-alola"
+        "miniSprite": "0020-alola"
     },
     "baseSpecies": "raticate",
     "baseForms": [],

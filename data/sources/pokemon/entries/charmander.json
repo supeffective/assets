@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "CHARMANDER",
         "veekunDb": "charmander",
+        "smogon": "charmander",
+        "showdown": "charmander",
+        "showdownDef": "Charmander",
         "serebii": "charmander",
         "bulbapedia": "Charmander",
         "homeSprite": "0004",
-        "miniSprite": "0004",
-        "showdown": "charmander",
-        "showdownDef": "Charmander",
-        "smogon": "charmander"
+        "miniSprite": "0004"
     },
     "baseSpecies": null,
     "baseForms": [],

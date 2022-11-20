@@ -76,13 +76,13 @@
     "refs": {
         "pogo": "SALAMENCE_MEGA",
         "veekunDb": "salamence-mega",
+        "smogon": "salamence-mega",
+        "showdown": "salamencemega",
+        "showdownDef": "Salamence-Mega",
         "serebii": "salamence",
         "bulbapedia": "Salamence",
         "homeSprite": "0373-mega",
-        "miniSprite": "0373-mega",
-        "showdown": "salamencemega",
-        "showdownDef": "Salamence-Mega",
-        "smogon": "salamence-mega"
+        "miniSprite": "0373-mega"
     },
     "baseSpecies": "salamence",
     "baseForms": [

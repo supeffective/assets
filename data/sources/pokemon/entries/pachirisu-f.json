@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "PACHIRISU",
         "veekunDb": "pachirisu",
+        "smogon": "pachirisu",
+        "showdown": "pachirisu",
+        "showdownDef": "Pachirisu",
         "serebii": "pachirisu",
         "bulbapedia": "Pachirisu",
         "homeSprite": "0417-f",
-        "miniSprite": "0417",
-        "showdown": "pachirisu",
-        "showdownDef": "Pachirisu",
-        "smogon": "pachirisu"
+        "miniSprite": "0417"
     },
     "baseSpecies": "pachirisu",
     "baseForms": [],

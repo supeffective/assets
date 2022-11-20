@@ -73,13 +73,13 @@
     "refs": {
         "pogo": "???",
         "veekunDb": "???",
+        "smogon": "???",
+        "showdown": "maushold",
+        "showdownDef": "Maushold",
         "serebii": "???",
         "bulbapedia": "???",
         "homeSprite": "???",
-        "miniSprite": "???",
-        "showdown": "maushold",
-        "showdownDef": "Maushold",
-        "smogon": "???"
+        "miniSprite": "???"
     },
     "baseSpecies": null,
     "baseForms": [],

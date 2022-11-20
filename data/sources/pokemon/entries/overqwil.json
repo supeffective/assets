@@ -80,13 +80,13 @@
     "refs": {
         "pogo": "OVERQWIL",
         "veekunDb": "overqwil",
+        "smogon": "overqwil",
+        "showdown": "overqwil",
+        "showdownDef": "Overqwil",
         "serebii": "overqwil",
         "bulbapedia": "Overqwil",
         "homeSprite": "0904",
-        "miniSprite": "0904",
-        "showdown": "overqwil",
-        "showdownDef": "Overqwil",
-        "smogon": "overqwil"
+        "miniSprite": "0904"
     },
     "baseSpecies": null,
     "baseForms": [],

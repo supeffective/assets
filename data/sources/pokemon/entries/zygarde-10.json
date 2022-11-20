@@ -82,13 +82,13 @@
     "refs": {
         "pogo": null,
         "veekunDb": "zygarde-10",
+        "smogon": "zygarde-10",
+        "showdown": "zygarde10",
+        "showdownDef": "Zygarde-10",
         "serebii": "zygarde",
         "bulbapedia": "Zygarde",
         "homeSprite": "0718-10",
-        "miniSprite": "0718-10",
-        "showdown": "zygarde10",
-        "showdownDef": "Zygarde-10",
-        "smogon": "zygarde-10"
+        "miniSprite": "0718-10"
     },
     "baseSpecies": "zygarde",
     "baseForms": [],

@@ -101,13 +101,13 @@
     "refs": {
         "pogo": "UMBREON",
         "veekunDb": "umbreon",
+        "smogon": "umbreon",
+        "showdown": "umbreon",
+        "showdownDef": "Umbreon",
         "serebii": "umbreon",
         "bulbapedia": "Umbreon",
         "homeSprite": "0197",
-        "miniSprite": "0197",
-        "showdown": "umbreon",
-        "showdownDef": "Umbreon",
-        "smogon": "umbreon"
+        "miniSprite": "0197"
     },
     "baseSpecies": null,
     "baseForms": [],

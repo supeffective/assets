@@ -76,13 +76,13 @@
     "refs": {
         "pogo": "METAGROSS_MEGA",
         "veekunDb": "metagross-mega",
+        "smogon": "metagross-mega",
+        "showdown": "metagrossmega",
+        "showdownDef": "Metagross-Mega",
         "serebii": "metagross",
         "bulbapedia": "Metagross",
         "homeSprite": "0376-mega",
-        "miniSprite": "0376-mega",
-        "showdown": "metagrossmega",
-        "showdownDef": "Metagross-Mega",
-        "smogon": "metagross-mega"
+        "miniSprite": "0376-mega"
     },
     "baseSpecies": "metagross",
     "baseForms": [

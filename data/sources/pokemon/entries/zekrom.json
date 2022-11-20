@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "ZEKROM",
         "veekunDb": "zekrom",
+        "smogon": "zekrom",
+        "showdown": "zekrom",
+        "showdownDef": "Zekrom",
         "serebii": "zekrom",
         "bulbapedia": "Zekrom",
         "homeSprite": "0644",
-        "miniSprite": "0644",
-        "showdown": "zekrom",
-        "showdownDef": "Zekrom",
-        "smogon": "zekrom"
+        "miniSprite": "0644"
     },
     "baseSpecies": null,
     "baseForms": [],

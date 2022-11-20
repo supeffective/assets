@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "CHIKORITA",
         "veekunDb": "chikorita",
+        "smogon": "chikorita",
+        "showdown": "chikorita",
+        "showdownDef": "Chikorita",
         "serebii": "chikorita",
         "bulbapedia": "Chikorita",
         "homeSprite": "0152",
-        "miniSprite": "0152",
-        "showdown": "chikorita",
-        "showdownDef": "Chikorita",
-        "smogon": "chikorita"
+        "miniSprite": "0152"
     },
     "baseSpecies": null,
     "baseForms": [],

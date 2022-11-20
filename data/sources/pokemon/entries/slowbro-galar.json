@@ -80,13 +80,13 @@
     "refs": {
         "pogo": "SLOWBRO_GALARIAN",
         "veekunDb": "slowbro-galar",
+        "smogon": "slowbro-galar",
+        "showdown": "slowbrogalar",
+        "showdownDef": "Slowbro-Galar",
         "serebii": "slowbro",
         "bulbapedia": "Slowbro",
         "homeSprite": "0080-galar",
-        "miniSprite": "0080-galar",
-        "showdown": "slowbrogalar",
-        "showdownDef": "Slowbro-Galar",
-        "smogon": "slowbro-galar"
+        "miniSprite": "0080-galar"
     },
     "baseSpecies": "slowbro",
     "baseForms": [],

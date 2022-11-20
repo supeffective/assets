@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "CARRACOSTA",
         "veekunDb": "carracosta",
+        "smogon": "carracosta",
+        "showdown": "carracosta",
+        "showdownDef": "Carracosta",
         "serebii": "carracosta",
         "bulbapedia": "Carracosta",
         "homeSprite": "0565",
-        "miniSprite": "0565",
-        "showdown": "carracosta",
-        "showdownDef": "Carracosta",
-        "smogon": "carracosta"
+        "miniSprite": "0565"
     },
     "baseSpecies": null,
     "baseForms": [],

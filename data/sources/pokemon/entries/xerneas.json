@@ -85,13 +85,13 @@
     "refs": {
         "pogo": "XERNEAS",
         "veekunDb": "xerneas",
+        "smogon": "xerneas",
+        "showdown": "xerneas",
+        "showdownDef": "Xerneas",
         "serebii": "xerneas",
         "bulbapedia": "Xerneas",
         "homeSprite": "0716",
-        "miniSprite": "0716",
-        "showdown": "xerneas",
-        "showdownDef": "Xerneas",
-        "smogon": "xerneas"
+        "miniSprite": "0716"
     },
     "baseSpecies": null,
     "baseForms": [],

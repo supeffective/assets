@@ -85,13 +85,13 @@
     "refs": {
         "pogo": "PUMPKABOO_SUPER",
         "veekunDb": "pumpkaboo-super",
+        "smogon": "pumpkaboo-super",
+        "showdown": "pumpkaboosuper",
+        "showdownDef": "Pumpkaboo-Super",
         "serebii": "pumpkaboo",
         "bulbapedia": "Pumpkaboo",
         "homeSprite": "0710-super",
-        "miniSprite": "0710-super",
-        "showdown": "pumpkaboosuper",
-        "showdownDef": "Pumpkaboo-Super",
-        "smogon": "pumpkaboo-super"
+        "miniSprite": "0710-super"
     },
     "baseSpecies": "pumpkaboo",
     "baseForms": [],

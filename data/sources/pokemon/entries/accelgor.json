@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "ACCELGOR",
         "veekunDb": "accelgor",
+        "smogon": "accelgor",
+        "showdown": "accelgor",
+        "showdownDef": "Accelgor",
         "serebii": "accelgor",
         "bulbapedia": "Accelgor",
         "homeSprite": "0617",
-        "miniSprite": "0617",
-        "showdown": "accelgor",
-        "showdownDef": "Accelgor",
-        "smogon": "accelgor"
+        "miniSprite": "0617"
     },
     "baseSpecies": null,
     "baseForms": [],

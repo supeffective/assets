@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "ALCREMIE_MINT_CREAM_STRAWBERRY",
         "veekunDb": "alcremie-mint-cream-strawberry",
+        "smogon": "alcremie-mint-cream-strawberry",
+        "showdown": "alcremie",
+        "showdownDef": "Alcremie-Mint-Cream-Strawberry",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "0869-mint-cream-strawberry",
-        "miniSprite": "0869-mint-cream-strawberry",
-        "showdown": "alcremie",
-        "showdownDef": "Alcremie-Mint-Cream-Strawberry",
-        "smogon": "alcremie-mint-cream-strawberry"
+        "miniSprite": "0869-mint-cream-strawberry"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

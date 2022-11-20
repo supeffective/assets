@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "BEHEEYEM",
         "veekunDb": "beheeyem",
+        "smogon": "beheeyem",
+        "showdown": "beheeyem",
+        "showdownDef": "Beheeyem",
         "serebii": "beheeyem",
         "bulbapedia": "Beheeyem",
         "homeSprite": "0606",
-        "miniSprite": "0606",
-        "showdown": "beheeyem",
-        "showdownDef": "Beheeyem",
-        "smogon": "beheeyem"
+        "miniSprite": "0606"
     },
     "baseSpecies": null,
     "baseForms": [],

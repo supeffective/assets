@@ -101,13 +101,13 @@
     "refs": {
         "pogo": "FEAROW",
         "veekunDb": "fearow",
+        "smogon": "fearow",
+        "showdown": "fearow",
+        "showdownDef": "Fearow",
         "serebii": "fearow",
         "bulbapedia": "Fearow",
         "homeSprite": "0022",
-        "miniSprite": "0022",
-        "showdown": "fearow",
-        "showdownDef": "Fearow",
-        "smogon": "fearow"
+        "miniSprite": "0022"
     },
     "baseSpecies": null,
     "baseForms": [],

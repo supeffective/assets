@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "ARCTOZOLT",
         "veekunDb": "arctozolt",
+        "smogon": "arctozolt",
+        "showdown": "arctozolt",
+        "showdownDef": "Arctozolt",
         "serebii": "arctozolt",
         "bulbapedia": "Arctozolt",
         "homeSprite": "0881",
-        "miniSprite": "0881",
-        "showdown": "arctozolt",
-        "showdownDef": "Arctozolt",
-        "smogon": "arctozolt"
+        "miniSprite": "0881"
     },
     "baseSpecies": null,
     "baseForms": [],

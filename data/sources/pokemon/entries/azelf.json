@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "AZELF",
         "veekunDb": "azelf",
+        "smogon": "azelf",
+        "showdown": "azelf",
+        "showdownDef": "Azelf",
         "serebii": "azelf",
         "bulbapedia": "Azelf",
         "homeSprite": "0482",
-        "miniSprite": "0482",
-        "showdown": "azelf",
-        "showdownDef": "Azelf",
-        "smogon": "azelf"
+        "miniSprite": "0482"
     },
     "baseSpecies": null,
     "baseForms": [],

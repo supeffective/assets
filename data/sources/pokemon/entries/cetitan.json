@@ -73,13 +73,13 @@
     "refs": {
         "pogo": "???",
         "veekunDb": "???",
+        "smogon": "???",
+        "showdown": "cetitan",
+        "showdownDef": "Cetitan",
         "serebii": "???",
         "bulbapedia": "???",
         "homeSprite": "???",
-        "miniSprite": "???",
-        "showdown": "cetitan",
-        "showdownDef": "Cetitan",
-        "smogon": "???"
+        "miniSprite": "???"
     },
     "baseSpecies": null,
     "baseForms": [],

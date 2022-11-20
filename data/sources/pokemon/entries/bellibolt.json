@@ -73,13 +73,13 @@
     "refs": {
         "pogo": "???",
         "veekunDb": "???",
+        "smogon": "???",
+        "showdown": "bellibolt",
+        "showdownDef": "Bellibolt",
         "serebii": "???",
         "bulbapedia": "???",
         "homeSprite": "???",
-        "miniSprite": "???",
-        "showdown": "bellibolt",
-        "showdownDef": "Bellibolt",
-        "smogon": "???"
+        "miniSprite": "???"
     },
     "baseSpecies": null,
     "baseForms": [],

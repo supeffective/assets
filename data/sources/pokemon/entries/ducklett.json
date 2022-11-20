@@ -86,13 +86,13 @@
     "refs": {
         "pogo": "DUCKLETT",
         "veekunDb": "ducklett",
+        "smogon": "ducklett",
+        "showdown": "ducklett",
+        "showdownDef": "Ducklett",
         "serebii": "ducklett",
         "bulbapedia": "Ducklett",
         "homeSprite": "0580",
-        "miniSprite": "0580",
-        "showdown": "ducklett",
-        "showdownDef": "Ducklett",
-        "smogon": "ducklett"
+        "miniSprite": "0580"
     },
     "baseSpecies": null,
     "baseForms": [],

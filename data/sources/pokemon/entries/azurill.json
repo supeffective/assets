@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "AZURILL",
         "veekunDb": "azurill",
+        "smogon": "azurill",
+        "showdown": "azurill",
+        "showdownDef": "Azurill",
         "serebii": "azurill",
         "bulbapedia": "Azurill",
         "homeSprite": "0298",
-        "miniSprite": "0298",
-        "showdown": "azurill",
-        "showdownDef": "Azurill",
-        "smogon": "azurill"
+        "miniSprite": "0298"
     },
     "baseSpecies": null,
     "baseForms": [],

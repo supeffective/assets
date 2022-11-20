@@ -85,13 +85,13 @@
     "refs": {
         "pogo": "SKRELP",
         "veekunDb": "skrelp",
+        "smogon": "skrelp",
+        "showdown": "skrelp",
+        "showdownDef": "Skrelp",
         "serebii": "skrelp",
         "bulbapedia": "Skrelp",
         "homeSprite": "0690",
-        "miniSprite": "0690",
-        "showdown": "skrelp",
-        "showdownDef": "Skrelp",
-        "smogon": "skrelp"
+        "miniSprite": "0690"
     },
     "baseSpecies": null,
     "baseForms": [],

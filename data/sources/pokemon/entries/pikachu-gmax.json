@@ -75,13 +75,13 @@
     "refs": {
         "pogo": null,
         "veekunDb": "pikachu-gmax",
+        "smogon": "pikachu-gmax",
+        "showdown": "pikachugmax",
+        "showdownDef": "Pikachu-Gmax",
         "serebii": "pikachu",
         "bulbapedia": "Pikachu",
         "homeSprite": "0025-gmax",
-        "miniSprite": "0025-gmax",
-        "showdown": "pikachugmax",
-        "showdownDef": "Pikachu-Gmax",
-        "smogon": "pikachu-gmax"
+        "miniSprite": "0025-gmax"
     },
     "baseSpecies": "pikachu",
     "baseForms": [

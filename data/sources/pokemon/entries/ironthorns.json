@@ -73,13 +73,13 @@
     "refs": {
         "pogo": "???",
         "veekunDb": "???",
+        "smogon": "???",
+        "showdown": "ironthorns",
+        "showdownDef": "Ironthorns",
         "serebii": "???",
         "bulbapedia": "???",
         "homeSprite": "???",
-        "miniSprite": "???",
-        "showdown": "ironthorns",
-        "showdownDef": "Ironthorns",
-        "smogon": "???"
+        "miniSprite": "???"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -86,13 +86,13 @@
     "refs": {
         "pogo": "SAWSBUCK",
         "veekunDb": "sawsbuck",
+        "smogon": "sawsbuck",
+        "showdown": "sawsbuck",
+        "showdownDef": "Sawsbuck",
         "serebii": "sawsbuck",
         "bulbapedia": "Sawsbuck",
         "homeSprite": "0586",
-        "miniSprite": "0586",
-        "showdown": "sawsbuck",
-        "showdownDef": "Sawsbuck",
-        "smogon": "sawsbuck"
+        "miniSprite": "0586"
     },
     "baseSpecies": null,
     "baseForms": [],

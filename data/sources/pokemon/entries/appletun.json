@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "APPLETUN",
         "veekunDb": "appletun",
+        "smogon": "appletun",
+        "showdown": "appletun",
+        "showdownDef": "Appletun",
         "serebii": "appletun",
         "bulbapedia": "Appletun",
         "homeSprite": "0842",
-        "miniSprite": "0842",
-        "showdown": "appletun",
-        "showdownDef": "Appletun",
-        "smogon": "appletun"
+        "miniSprite": "0842"
     },
     "baseSpecies": null,
     "baseForms": [],

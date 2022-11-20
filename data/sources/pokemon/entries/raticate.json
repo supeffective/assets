@@ -101,13 +101,13 @@
     "refs": {
         "pogo": "RATICATE",
         "veekunDb": "raticate",
+        "smogon": "raticate",
+        "showdown": "raticate",
+        "showdownDef": "Raticate",
         "serebii": "raticate",
         "bulbapedia": "Raticate",
         "homeSprite": "0020",
-        "miniSprite": "0020",
-        "showdown": "raticate",
-        "showdownDef": "Raticate",
-        "smogon": "raticate"
+        "miniSprite": "0020"
     },
     "baseSpecies": null,
     "baseForms": [],

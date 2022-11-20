@@ -99,13 +99,13 @@
     "refs": {
         "pogo": "SEALEO",
         "veekunDb": "sealeo",
+        "smogon": "sealeo",
+        "showdown": "sealeo",
+        "showdownDef": "Sealeo",
         "serebii": "sealeo",
         "bulbapedia": "Sealeo",
         "homeSprite": "0364",
-        "miniSprite": "0364",
-        "showdown": "sealeo",
-        "showdownDef": "Sealeo",
-        "smogon": "sealeo"
+        "miniSprite": "0364"
     },
     "baseSpecies": null,
     "baseForms": [],

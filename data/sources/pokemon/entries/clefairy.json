@@ -105,13 +105,13 @@
     "refs": {
         "pogo": "CLEFAIRY",
         "veekunDb": "clefairy",
+        "smogon": "clefairy",
+        "showdown": "clefairy",
+        "showdownDef": "Clefairy",
         "serebii": "clefairy",
         "bulbapedia": "Clefairy",
         "homeSprite": "0035",
-        "miniSprite": "0035",
-        "showdown": "clefairy",
-        "showdownDef": "Clefairy",
-        "smogon": "clefairy"
+        "miniSprite": "0035"
     },
     "baseSpecies": null,
     "baseForms": [],

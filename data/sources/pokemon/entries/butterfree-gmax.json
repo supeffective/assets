@@ -75,13 +75,13 @@
     "refs": {
         "pogo": "BUTTERFREE_GMAX",
         "veekunDb": "butterfree-gmax",
+        "smogon": "butterfree-gmax",
+        "showdown": "butterfreegmax",
+        "showdownDef": "Butterfree-Gmax",
         "serebii": "butterfree",
         "bulbapedia": "Butterfree",
         "homeSprite": "0012-gmax",
-        "miniSprite": "0012-gmax",
-        "showdown": "butterfreegmax",
-        "showdownDef": "Butterfree-Gmax",
-        "smogon": "butterfree-gmax"
+        "miniSprite": "0012-gmax"
     },
     "baseSpecies": "butterfree",
     "baseForms": [

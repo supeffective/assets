@@ -75,13 +75,13 @@
     "refs": {
         "pogo": "INTELEON_GMAX",
         "veekunDb": "inteleon-gmax",
+        "smogon": "inteleon-gmax",
+        "showdown": "inteleongmax",
+        "showdownDef": "Inteleon-Gmax",
         "serebii": "inteleon",
         "bulbapedia": "Inteleon",
         "homeSprite": "0818-gmax",
-        "miniSprite": "0818-gmax",
-        "showdown": "inteleongmax",
-        "showdownDef": "Inteleon-Gmax",
-        "smogon": "inteleon-gmax"
+        "miniSprite": "0818-gmax"
     },
     "baseSpecies": "inteleon",
     "baseForms": [

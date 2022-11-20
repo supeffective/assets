@@ -76,13 +76,13 @@
     "refs": {
         "pogo": null,
         "veekunDb": "groudon-primal",
+        "smogon": "groudon-primal",
+        "showdown": "groudonprimal",
+        "showdownDef": "Groudon-Primal",
         "serebii": "groudon",
         "bulbapedia": "Groudon",
         "homeSprite": "0383-primal",
-        "miniSprite": "0383-primal",
-        "showdown": "groudonprimal",
-        "showdownDef": "Groudon-Primal",
-        "smogon": "groudon-primal"
+        "miniSprite": "0383-primal"
     },
     "baseSpecies": "groudon",
     "baseForms": [

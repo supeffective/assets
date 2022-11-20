@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "DUSKNOIR",
         "veekunDb": "dusknoir",
+        "smogon": "dusknoir",
+        "showdown": "dusknoir",
+        "showdownDef": "Dusknoir",
         "serebii": "dusknoir",
         "bulbapedia": "Dusknoir",
         "homeSprite": "0477",
-        "miniSprite": "0477",
-        "showdown": "dusknoir",
-        "showdownDef": "Dusknoir",
-        "smogon": "dusknoir"
+        "miniSprite": "0477"
     },
     "baseSpecies": null,
     "baseForms": [],

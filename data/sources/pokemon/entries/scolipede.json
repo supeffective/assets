@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "SCOLIPEDE",
         "veekunDb": "scolipede",
+        "smogon": "scolipede",
+        "showdown": "scolipede",
+        "showdownDef": "Scolipede",
         "serebii": "scolipede",
         "bulbapedia": "Scolipede",
         "homeSprite": "0545",
-        "miniSprite": "0545",
-        "showdown": "scolipede",
-        "showdownDef": "Scolipede",
-        "smogon": "scolipede"
+        "miniSprite": "0545"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "MUK_ALOLA",
         "veekunDb": "muk-alola",
+        "smogon": "muk-alola",
+        "showdown": "mukalola",
+        "showdownDef": "Muk-Alola",
         "serebii": "muk",
         "bulbapedia": "Muk",
         "homeSprite": "0089-alola",
-        "miniSprite": "0089-alola",
-        "showdown": "mukalola",
-        "showdownDef": "Muk-Alola",
-        "smogon": "muk-alola"
+        "miniSprite": "0089-alola"
     },
     "baseSpecies": "muk",
     "baseForms": [],

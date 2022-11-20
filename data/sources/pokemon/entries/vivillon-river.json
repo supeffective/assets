@@ -81,13 +81,13 @@
     "refs": {
         "pogo": "VIVILLON_RIVER",
         "veekunDb": "vivillon-river",
+        "smogon": "vivillon-river",
+        "showdown": "vivillon",
+        "showdownDef": "Vivillon-River",
         "serebii": "vivillon",
         "bulbapedia": "Vivillon",
         "homeSprite": "0666-river",
-        "miniSprite": "0666-river",
-        "showdown": "vivillon",
-        "showdownDef": "Vivillon-River",
-        "smogon": "vivillon-river"
+        "miniSprite": "0666-river"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

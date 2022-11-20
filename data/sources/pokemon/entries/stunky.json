@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "STUNKY",
         "veekunDb": "stunky",
+        "smogon": "stunky",
+        "showdown": "stunky",
+        "showdownDef": "Stunky",
         "serebii": "stunky",
         "bulbapedia": "Stunky",
         "homeSprite": "0434",
-        "miniSprite": "0434",
-        "showdown": "stunky",
-        "showdownDef": "Stunky",
-        "smogon": "stunky"
+        "miniSprite": "0434"
     },
     "baseSpecies": null,
     "baseForms": [],

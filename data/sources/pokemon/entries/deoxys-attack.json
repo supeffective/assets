@@ -91,13 +91,13 @@
     "refs": {
         "pogo": "DEOXYS_ATTACK",
         "veekunDb": "deoxys-attack",
+        "smogon": "deoxys-attack",
+        "showdown": "deoxysattack",
+        "showdownDef": "Deoxys-Attack",
         "serebii": "deoxys",
         "bulbapedia": "Deoxys",
         "homeSprite": "0386-attack",
-        "miniSprite": "0386-attack",
-        "showdown": "deoxysattack",
-        "showdownDef": "Deoxys-Attack",
-        "smogon": "deoxys-attack"
+        "miniSprite": "0386-attack"
     },
     "baseSpecies": "deoxys",
     "baseForms": [

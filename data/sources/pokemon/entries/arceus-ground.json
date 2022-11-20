@@ -90,13 +90,13 @@
     "refs": {
         "pogo": "ARCEUS_GROUND",
         "veekunDb": "arceus-ground",
+        "smogon": "arceus-ground",
+        "showdown": "arceusground",
+        "showdownDef": "Arceus-Ground",
         "serebii": "arceus",
         "bulbapedia": "Arceus",
         "homeSprite": "0493-ground",
-        "miniSprite": "0493-ground",
-        "showdown": "arceusground",
-        "showdownDef": "Arceus-Ground",
-        "smogon": "arceus-ground"
+        "miniSprite": "0493-ground"
     },
     "baseSpecies": "arceus",
     "baseForms": [

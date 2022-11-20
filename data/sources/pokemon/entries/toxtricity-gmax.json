@@ -75,13 +75,13 @@
     "refs": {
         "pogo": "TOXTRICITY_GMAX",
         "veekunDb": "toxtricity-gmax",
+        "smogon": "toxtricity-gmax",
+        "showdown": "toxtricitygmax",
+        "showdownDef": "Toxtricity-Gmax",
         "serebii": "toxtricity",
         "bulbapedia": "Toxtricity",
         "homeSprite": "0849-gmax",
-        "miniSprite": "0849-gmax",
-        "showdown": "toxtricitygmax",
-        "showdownDef": "Toxtricity-Gmax",
-        "smogon": "toxtricity-gmax"
+        "miniSprite": "0849-gmax"
     },
     "baseSpecies": "toxtricity",
     "baseForms": [

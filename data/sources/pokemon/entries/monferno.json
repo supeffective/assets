@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "MONFERNO",
         "veekunDb": "monferno",
+        "smogon": "monferno",
+        "showdown": "monferno",
+        "showdownDef": "Monferno",
         "serebii": "monferno",
         "bulbapedia": "Monferno",
         "homeSprite": "0391",
-        "miniSprite": "0391",
-        "showdown": "monferno",
-        "showdownDef": "Monferno",
-        "smogon": "monferno"
+        "miniSprite": "0391"
     },
     "baseSpecies": null,
     "baseForms": [],

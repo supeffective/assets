@@ -75,13 +75,13 @@
     "refs": {
         "pogo": "COALOSSAL_GMAX",
         "veekunDb": "coalossal-gmax",
+        "smogon": "coalossal-gmax",
+        "showdown": "coalossalgmax",
+        "showdownDef": "Coalossal-Gmax",
         "serebii": "coalossal",
         "bulbapedia": "Coalossal",
         "homeSprite": "0839-gmax",
-        "miniSprite": "0839-gmax",
-        "showdown": "coalossalgmax",
-        "showdownDef": "Coalossal-Gmax",
-        "smogon": "coalossal-gmax"
+        "miniSprite": "0839-gmax"
     },
     "baseSpecies": "coalossal",
     "baseForms": [

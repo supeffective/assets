@@ -82,13 +82,13 @@
     "refs": {
         "pogo": "TSAREENA",
         "veekunDb": "tsareena",
+        "smogon": "tsareena",
+        "showdown": "tsareena",
+        "showdownDef": "Tsareena",
         "serebii": "tsareena",
         "bulbapedia": "Tsareena",
         "homeSprite": "0763",
-        "miniSprite": "0763",
-        "showdown": "tsareena",
-        "showdownDef": "Tsareena",
-        "smogon": "tsareena"
+        "miniSprite": "0763"
     },
     "baseSpecies": null,
     "baseForms": [],

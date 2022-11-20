@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "FINNEON",
         "veekunDb": "finneon",
+        "smogon": "finneon",
+        "showdown": "finneon",
+        "showdownDef": "Finneon",
         "serebii": "finneon",
         "bulbapedia": "Finneon",
         "homeSprite": "0456",
-        "miniSprite": "0456",
-        "showdown": "finneon",
-        "showdownDef": "Finneon",
-        "smogon": "finneon"
+        "miniSprite": "0456"
     },
     "baseSpecies": null,
     "baseForms": [],

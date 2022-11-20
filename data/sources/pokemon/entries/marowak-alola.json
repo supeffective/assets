@@ -86,13 +86,13 @@
     "refs": {
         "pogo": "MAROWAK_ALOLA",
         "veekunDb": "marowak-alola",
+        "smogon": "marowak-alola",
+        "showdown": "marowakalola",
+        "showdownDef": "Marowak-Alola",
         "serebii": "marowak",
         "bulbapedia": "Marowak",
         "homeSprite": "0105-alola",
-        "miniSprite": "0105-alola",
-        "showdown": "marowakalola",
-        "showdownDef": "Marowak-Alola",
-        "smogon": "marowak-alola"
+        "miniSprite": "0105-alola"
     },
     "baseSpecies": "marowak",
     "baseForms": [],

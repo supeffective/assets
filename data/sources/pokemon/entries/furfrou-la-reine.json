@@ -83,13 +83,13 @@
     "refs": {
         "pogo": "FURFROU_LA_REINE",
         "veekunDb": "furfrou-la-reine",
+        "smogon": "furfrou-la-reine",
+        "showdown": "furfrou",
+        "showdownDef": "Furfrou-La-Reine",
         "serebii": "furfrou",
         "bulbapedia": "Furfrou",
         "homeSprite": "0676-la-reine",
-        "miniSprite": "0676-la-reine",
-        "showdown": "furfrou",
-        "showdownDef": "Furfrou-La-Reine",
-        "smogon": "furfrou-la-reine"
+        "miniSprite": "0676-la-reine"
     },
     "baseSpecies": "furfrou",
     "baseForms": [

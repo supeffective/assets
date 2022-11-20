@@ -85,13 +85,13 @@
     "refs": {
         "pogo": "PANGORO",
         "veekunDb": "pangoro",
+        "smogon": "pangoro",
+        "showdown": "pangoro",
+        "showdownDef": "Pangoro",
         "serebii": "pangoro",
         "bulbapedia": "Pangoro",
         "homeSprite": "0675",
-        "miniSprite": "0675",
-        "showdown": "pangoro",
-        "showdownDef": "Pangoro",
-        "smogon": "pangoro"
+        "miniSprite": "0675"
     },
     "baseSpecies": null,
     "baseForms": [],

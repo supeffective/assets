@@ -81,13 +81,13 @@
     "refs": {
         "pogo": "SILVALLY_ROCK",
         "veekunDb": "silvally-rock",
+        "smogon": "silvally-rock",
+        "showdown": "silvallyrock",
+        "showdownDef": "Silvally-Rock",
         "serebii": "silvally",
         "bulbapedia": "Silvally",
         "homeSprite": "0773-rock",
-        "miniSprite": "0773-rock",
-        "showdown": "silvallyrock",
-        "showdownDef": "Silvally-Rock",
-        "smogon": "silvally-rock"
+        "miniSprite": "0773-rock"
     },
     "baseSpecies": "silvally",
     "baseForms": [

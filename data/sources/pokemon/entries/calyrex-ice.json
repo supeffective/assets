@@ -82,13 +82,13 @@
     "refs": {
         "pogo": "CALYREX_ICE_RIDER",
         "veekunDb": "calyrex-ice",
+        "smogon": "calyrex-ice",
+        "showdown": "calyrexice",
+        "showdownDef": "Calyrex-Ice",
         "serebii": "calyrex",
         "bulbapedia": "Calyrex",
         "homeSprite": "0898-ice",
-        "miniSprite": "0898-ice",
-        "showdown": "calyrexice",
-        "showdownDef": "Calyrex-Ice",
-        "smogon": "calyrex-ice"
+        "miniSprite": "0898-ice"
     },
     "baseSpecies": "calyrex",
     "baseForms": [

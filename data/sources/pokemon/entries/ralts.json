@@ -99,13 +99,13 @@
     "refs": {
         "pogo": "RALTS",
         "veekunDb": "ralts",
+        "smogon": "ralts",
+        "showdown": "ralts",
+        "showdownDef": "Ralts",
         "serebii": "ralts",
         "bulbapedia": "Ralts",
         "homeSprite": "0280",
-        "miniSprite": "0280",
-        "showdown": "ralts",
-        "showdownDef": "Ralts",
-        "smogon": "ralts"
+        "miniSprite": "0280"
     },
     "baseSpecies": null,
     "baseForms": [],

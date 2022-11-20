@@ -75,13 +75,13 @@
     "refs": {
         "pogo": "BLASTOISE_GMAX",
         "veekunDb": "blastoise-gmax",
+        "smogon": "blastoise-gmax",
+        "showdown": "blastoisegmax",
+        "showdownDef": "Blastoise-Gmax",
         "serebii": "blastoise",
         "bulbapedia": "Blastoise",
         "homeSprite": "0009-gmax",
-        "miniSprite": "0009-gmax",
-        "showdown": "blastoisegmax",
-        "showdownDef": "Blastoise-Gmax",
-        "smogon": "blastoise-gmax"
+        "miniSprite": "0009-gmax"
     },
     "baseSpecies": "blastoise",
     "baseForms": [

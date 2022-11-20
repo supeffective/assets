@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "HIPPOPOTAS",
         "veekunDb": "hippopotas",
+        "smogon": "hippopotas",
+        "showdown": "hippopotas",
+        "showdownDef": "Hippopotas",
         "serebii": "hippopotas",
         "bulbapedia": "Hippopotas",
         "homeSprite": "0449-f",
-        "miniSprite": "0449-f",
-        "showdown": "hippopotas",
-        "showdownDef": "Hippopotas",
-        "smogon": "hippopotas"
+        "miniSprite": "0449-f"
     },
     "baseSpecies": "hippopotas",
     "baseForms": [],

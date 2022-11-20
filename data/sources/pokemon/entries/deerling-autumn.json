@@ -86,13 +86,13 @@
     "refs": {
         "pogo": "DEERLING_AUTUMN",
         "veekunDb": "deerling-autumn",
+        "smogon": "deerling-autumn",
+        "showdown": "deerling",
+        "showdownDef": "Deerling-Autumn",
         "serebii": "deerling",
         "bulbapedia": "Deerling",
         "homeSprite": "0585-autumn",
-        "miniSprite": "0585-autumn",
-        "showdown": "deerling",
-        "showdownDef": "Deerling-Autumn",
-        "smogon": "deerling-autumn"
+        "miniSprite": "0585-autumn"
     },
     "baseSpecies": "deerling",
     "baseForms": [],

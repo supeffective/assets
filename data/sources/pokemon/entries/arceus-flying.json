@@ -90,13 +90,13 @@
     "refs": {
         "pogo": "ARCEUS_FLYING",
         "veekunDb": "arceus-flying",
+        "smogon": "arceus-flying",
+        "showdown": "arceusflying",
+        "showdownDef": "Arceus-Flying",
         "serebii": "arceus",
         "bulbapedia": "Arceus",
         "homeSprite": "0493-flying",
-        "miniSprite": "0493-flying",
-        "showdown": "arceusflying",
-        "showdownDef": "Arceus-Flying",
-        "smogon": "arceus-flying"
+        "miniSprite": "0493-flying"
     },
     "baseSpecies": "arceus",
     "baseForms": [

@@ -75,13 +75,13 @@
     "refs": {
         "pogo": "GRIMMSNARL_GMAX",
         "veekunDb": "grimmsnarl-gmax",
+        "smogon": "grimmsnarl-gmax",
+        "showdown": "grimmsnarlgmax",
+        "showdownDef": "Grimmsnarl-Gmax",
         "serebii": "grimmsnarl",
         "bulbapedia": "Grimmsnarl",
         "homeSprite": "0861-gmax",
-        "miniSprite": "0861-gmax",
-        "showdown": "grimmsnarlgmax",
-        "showdownDef": "Grimmsnarl-Gmax",
-        "smogon": "grimmsnarl-gmax"
+        "miniSprite": "0861-gmax"
     },
     "baseSpecies": "grimmsnarl",
     "baseForms": [

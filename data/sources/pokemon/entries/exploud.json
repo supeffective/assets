@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "EXPLOUD",
         "veekunDb": "exploud",
+        "smogon": "exploud",
+        "showdown": "exploud",
+        "showdownDef": "Exploud",
         "serebii": "exploud",
         "bulbapedia": "Exploud",
         "homeSprite": "0295",
-        "miniSprite": "0295",
-        "showdown": "exploud",
-        "showdownDef": "Exploud",
-        "smogon": "exploud"
+        "miniSprite": "0295"
     },
     "baseSpecies": null,
     "baseForms": [],

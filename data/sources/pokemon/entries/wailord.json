@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "WAILORD",
         "veekunDb": "wailord",
+        "smogon": "wailord",
+        "showdown": "wailord",
+        "showdownDef": "Wailord",
         "serebii": "wailord",
         "bulbapedia": "Wailord",
         "homeSprite": "0321",
-        "miniSprite": "0321",
-        "showdown": "wailord",
-        "showdownDef": "Wailord",
-        "smogon": "wailord"
+        "miniSprite": "0321"
     },
     "baseSpecies": null,
     "baseForms": [],

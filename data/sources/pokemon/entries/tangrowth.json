@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "TANGROWTH",
         "veekunDb": "tangrowth",
+        "smogon": "tangrowth",
+        "showdown": "tangrowth",
+        "showdownDef": "Tangrowth",
         "serebii": "tangrowth",
         "bulbapedia": "Tangrowth",
         "homeSprite": "0465",
-        "miniSprite": "0465",
-        "showdown": "tangrowth",
-        "showdownDef": "Tangrowth",
-        "smogon": "tangrowth"
+        "miniSprite": "0465"
     },
     "baseSpecies": null,
     "baseForms": [],

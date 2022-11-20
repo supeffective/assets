@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "LITWICK",
         "veekunDb": "litwick",
+        "smogon": "litwick",
+        "showdown": "litwick",
+        "showdownDef": "Litwick",
         "serebii": "litwick",
         "bulbapedia": "Litwick",
         "homeSprite": "0607",
-        "miniSprite": "0607",
-        "showdown": "litwick",
-        "showdownDef": "Litwick",
-        "smogon": "litwick"
+        "miniSprite": "0607"
     },
     "baseSpecies": null,
     "baseForms": [],

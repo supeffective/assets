@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "CORPHISH",
         "veekunDb": "corphish",
+        "smogon": "corphish",
+        "showdown": "corphish",
+        "showdownDef": "Corphish",
         "serebii": "corphish",
         "bulbapedia": "Corphish",
         "homeSprite": "0341",
-        "miniSprite": "0341",
-        "showdown": "corphish",
-        "showdownDef": "Corphish",
-        "smogon": "corphish"
+        "miniSprite": "0341"
     },
     "baseSpecies": null,
     "baseForms": [],

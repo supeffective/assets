@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "SAMUROTT_HISUIAN",
         "veekunDb": null,
+        "smogon": "samurott-hisui",
+        "showdown": "samurotthisui",
+        "showdownDef": "Samurott-Hisui",
         "serebii": "samurott",
         "bulbapedia": "Samurott",
         "homeSprite": "0503-hisui",
-        "miniSprite": "0503-hisui",
-        "showdown": "samurotthisui",
-        "showdownDef": "Samurott-Hisui",
-        "smogon": "samurott-hisui"
+        "miniSprite": "0503-hisui"
     },
     "baseSpecies": "samurott",
     "baseForms": [],

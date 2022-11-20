@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "ARROKUDA",
         "veekunDb": "arrokuda",
+        "smogon": "arrokuda",
+        "showdown": "arrokuda",
+        "showdownDef": "Arrokuda",
         "serebii": "arrokuda",
         "bulbapedia": "Arrokuda",
         "homeSprite": "0846",
-        "miniSprite": "0846",
-        "showdown": "arrokuda",
-        "showdownDef": "Arrokuda",
-        "smogon": "arrokuda"
+        "miniSprite": "0846"
     },
     "baseSpecies": null,
     "baseForms": [],

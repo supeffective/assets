@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "ARCEUS_FAIRY",
         "veekunDb": "arceus-fairy",
+        "smogon": "arceus-fairy",
+        "showdown": "arceusfairy",
+        "showdownDef": "Arceus-Fairy",
         "serebii": "arceus",
         "bulbapedia": "Arceus",
         "homeSprite": "0493-fairy",
-        "miniSprite": "0493-fairy",
-        "showdown": "arceusfairy",
-        "showdownDef": "Arceus-Fairy",
-        "smogon": "arceus-fairy"
+        "miniSprite": "0493-fairy"
     },
     "baseSpecies": "arceus",
     "baseForms": [

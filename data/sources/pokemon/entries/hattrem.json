@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "HATTREM",
         "veekunDb": "hattrem",
+        "smogon": "hattrem",
+        "showdown": "hattrem",
+        "showdownDef": "Hattrem",
         "serebii": "hattrem",
         "bulbapedia": "Hattrem",
         "homeSprite": "0857",
-        "miniSprite": "0857",
-        "showdown": "hattrem",
-        "showdownDef": "Hattrem",
-        "smogon": "hattrem"
+        "miniSprite": "0857"
     },
     "baseSpecies": null,
     "baseForms": [],

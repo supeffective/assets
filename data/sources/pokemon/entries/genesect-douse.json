@@ -87,13 +87,13 @@
     "refs": {
         "pogo": "GENESECT_DOUSE",
         "veekunDb": "genesect-douse",
+        "smogon": "genesect-douse",
+        "showdown": "genesectdouse",
+        "showdownDef": "Genesect-Douse",
         "serebii": "genesect",
         "bulbapedia": "Genesect",
         "homeSprite": "0649-douse",
-        "miniSprite": "0649-douse",
-        "showdown": "genesectdouse",
-        "showdownDef": "Genesect-Douse",
-        "smogon": "genesect-douse"
+        "miniSprite": "0649-douse"
     },
     "baseSpecies": "genesect",
     "baseForms": [

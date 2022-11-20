@@ -87,13 +87,13 @@
     "refs": {
         "pogo": "GOOMY",
         "veekunDb": "goomy",
+        "smogon": "goomy",
+        "showdown": "goomy",
+        "showdownDef": "Goomy",
         "serebii": "goomy",
         "bulbapedia": "Goomy",
         "homeSprite": "0704",
-        "miniSprite": "0704",
-        "showdown": "goomy",
-        "showdownDef": "Goomy",
-        "smogon": "goomy"
+        "miniSprite": "0704"
     },
     "baseSpecies": null,
     "baseForms": [],

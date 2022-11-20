@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "URSALUNA",
         "veekunDb": "ursaluna",
+        "smogon": "ursaluna",
+        "showdown": "ursaluna",
+        "showdownDef": "Ursaluna",
         "serebii": "ursaluna",
         "bulbapedia": "Ursaluna",
         "homeSprite": "0901",
-        "miniSprite": "0901",
-        "showdown": "ursaluna",
-        "showdownDef": "Ursaluna",
-        "smogon": "ursaluna"
+        "miniSprite": "0901"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -99,13 +99,13 @@
     "refs": {
         "pogo": "CORSOLA",
         "veekunDb": "corsola",
+        "smogon": "corsola",
+        "showdown": "corsola",
+        "showdownDef": "Corsola",
         "serebii": "corsola",
         "bulbapedia": "Corsola",
         "homeSprite": "0222",
-        "miniSprite": "0222",
-        "showdown": "corsola",
-        "showdownDef": "Corsola",
-        "smogon": "corsola"
+        "miniSprite": "0222"
     },
     "baseSpecies": null,
     "baseForms": [],

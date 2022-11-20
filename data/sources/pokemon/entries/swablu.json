@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "SWABLU",
         "veekunDb": "swablu",
+        "smogon": "swablu",
+        "showdown": "swablu",
+        "showdownDef": "Swablu",
         "serebii": "swablu",
         "bulbapedia": "Swablu",
         "homeSprite": "0333",
-        "miniSprite": "0333",
-        "showdown": "swablu",
-        "showdownDef": "Swablu",
-        "smogon": "swablu"
+        "miniSprite": "0333"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -76,13 +76,13 @@
     "refs": {
         "pogo": "STEELIX_MEGA",
         "veekunDb": "steelix-mega",
+        "smogon": "steelix-mega",
+        "showdown": "steelixmega",
+        "showdownDef": "Steelix-Mega",
         "serebii": "steelix",
         "bulbapedia": "Steelix",
         "homeSprite": "0208-mega",
-        "miniSprite": "0208-mega",
-        "showdown": "steelixmega",
-        "showdownDef": "Steelix-Mega",
-        "smogon": "steelix-mega"
+        "miniSprite": "0208-mega"
     },
     "baseSpecies": "steelix",
     "baseForms": [

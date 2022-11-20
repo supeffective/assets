@@ -76,13 +76,13 @@
     "refs": {
         "pogo": "ALAKAZAM_MEGA",
         "veekunDb": "alakazam-mega",
+        "smogon": "alakazam-mega",
+        "showdown": "alakazammega",
+        "showdownDef": "Alakazam-Mega",
         "serebii": "alakazam",
         "bulbapedia": "Alakazam",
         "homeSprite": "0065-mega",
-        "miniSprite": "0065-mega",
-        "showdown": "alakazammega",
-        "showdownDef": "Alakazam-Mega",
-        "smogon": "alakazam-mega"
+        "miniSprite": "0065-mega"
     },
     "baseSpecies": "alakazam",
     "baseForms": [

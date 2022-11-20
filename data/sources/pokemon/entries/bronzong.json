@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "BRONZONG",
         "veekunDb": "bronzong",
+        "smogon": "bronzong",
+        "showdown": "bronzong",
+        "showdownDef": "Bronzong",
         "serebii": "bronzong",
         "bulbapedia": "Bronzong",
         "homeSprite": "0437",
-        "miniSprite": "0437",
-        "showdown": "bronzong",
-        "showdownDef": "Bronzong",
-        "smogon": "bronzong"
+        "miniSprite": "0437"
     },
     "baseSpecies": null,
     "baseForms": [],

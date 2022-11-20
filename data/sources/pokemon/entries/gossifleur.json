@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "GOSSIFLEUR",
         "veekunDb": "gossifleur",
+        "smogon": "gossifleur",
+        "showdown": "gossifleur",
+        "showdownDef": "Gossifleur",
         "serebii": "gossifleur",
         "bulbapedia": "Gossifleur",
         "homeSprite": "0829",
-        "miniSprite": "0829",
-        "showdown": "gossifleur",
-        "showdownDef": "Gossifleur",
-        "smogon": "gossifleur"
+        "miniSprite": "0829"
     },
     "baseSpecies": null,
     "baseForms": [],

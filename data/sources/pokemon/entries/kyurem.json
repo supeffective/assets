@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "KYUREM",
         "veekunDb": "kyurem",
+        "smogon": "kyurem",
+        "showdown": "kyurem",
+        "showdownDef": "Kyurem",
         "serebii": "kyurem",
         "bulbapedia": "Kyurem",
         "homeSprite": "0646",
-        "miniSprite": "0646",
-        "showdown": "kyurem",
-        "showdownDef": "Kyurem",
-        "smogon": "kyurem"
+        "miniSprite": "0646"
     },
     "baseSpecies": null,
     "baseForms": [],

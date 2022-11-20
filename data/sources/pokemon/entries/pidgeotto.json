@@ -101,13 +101,13 @@
     "refs": {
         "pogo": "PIDGEOTTO",
         "veekunDb": "pidgeotto",
+        "smogon": "pidgeotto",
+        "showdown": "pidgeotto",
+        "showdownDef": "Pidgeotto",
         "serebii": "pidgeotto",
         "bulbapedia": "Pidgeotto",
         "homeSprite": "0017",
-        "miniSprite": "0017",
-        "showdown": "pidgeotto",
-        "showdownDef": "Pidgeotto",
-        "smogon": "pidgeotto"
+        "miniSprite": "0017"
     },
     "baseSpecies": null,
     "baseForms": [],

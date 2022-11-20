@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "DEINO",
         "veekunDb": "deino",
+        "smogon": "deino",
+        "showdown": "deino",
+        "showdownDef": "Deino",
         "serebii": "deino",
         "bulbapedia": "Deino",
         "homeSprite": "0633",
-        "miniSprite": "0633",
-        "showdown": "deino",
-        "showdownDef": "Deino",
-        "smogon": "deino"
+        "miniSprite": "0633"
     },
     "baseSpecies": null,
     "baseForms": [],

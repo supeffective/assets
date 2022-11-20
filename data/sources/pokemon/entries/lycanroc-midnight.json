@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "LYCANROC_MIDNIGHT",
         "veekunDb": "lycanroc-midnight",
+        "smogon": "lycanroc-midnight",
+        "showdown": "lycanrocmidnight",
+        "showdownDef": "Lycanroc-Midnight",
         "serebii": "lycanroc",
         "bulbapedia": "Lycanroc",
         "homeSprite": "0745-midnight",
-        "miniSprite": "0745-midnight",
-        "showdown": "lycanrocmidnight",
-        "showdownDef": "Lycanroc-Midnight",
-        "smogon": "lycanroc-midnight"
+        "miniSprite": "0745-midnight"
     },
     "baseSpecies": "lycanroc",
     "baseForms": [],

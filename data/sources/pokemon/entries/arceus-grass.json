@@ -90,13 +90,13 @@
     "refs": {
         "pogo": "ARCEUS_GRASS",
         "veekunDb": "arceus-grass",
+        "smogon": "arceus-grass",
+        "showdown": "arceusgrass",
+        "showdownDef": "Arceus-Grass",
         "serebii": "arceus",
         "bulbapedia": "Arceus",
         "homeSprite": "0493-grass",
-        "miniSprite": "0493-grass",
-        "showdown": "arceusgrass",
-        "showdownDef": "Arceus-Grass",
-        "smogon": "arceus-grass"
+        "miniSprite": "0493-grass"
     },
     "baseSpecies": "arceus",
     "baseForms": [

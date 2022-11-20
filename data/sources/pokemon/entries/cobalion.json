@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "COBALION",
         "veekunDb": "cobalion",
+        "smogon": "cobalion",
+        "showdown": "cobalion",
+        "showdownDef": "Cobalion",
         "serebii": "cobalion",
         "bulbapedia": "Cobalion",
         "homeSprite": "0638",
-        "miniSprite": "0638",
-        "showdown": "cobalion",
-        "showdownDef": "Cobalion",
-        "smogon": "cobalion"
+        "miniSprite": "0638"
     },
     "baseSpecies": null,
     "baseForms": [],

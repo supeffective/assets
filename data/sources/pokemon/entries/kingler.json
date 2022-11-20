@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "KINGLER",
         "veekunDb": "kingler",
+        "smogon": "kingler",
+        "showdown": "kingler",
+        "showdownDef": "Kingler",
         "serebii": "kingler",
         "bulbapedia": "Kingler",
         "homeSprite": "0099",
-        "miniSprite": "0099",
-        "showdown": "kingler",
-        "showdownDef": "Kingler",
-        "smogon": "kingler"
+        "miniSprite": "0099"
     },
     "baseSpecies": null,
     "baseForms": [],

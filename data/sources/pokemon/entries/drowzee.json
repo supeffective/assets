@@ -101,13 +101,13 @@
     "refs": {
         "pogo": "DROWZEE",
         "veekunDb": "drowzee",
+        "smogon": "drowzee",
+        "showdown": "drowzee",
+        "showdownDef": "Drowzee",
         "serebii": "drowzee",
         "bulbapedia": "Drowzee",
         "homeSprite": "0096",
-        "miniSprite": "0096",
-        "showdown": "drowzee",
-        "showdownDef": "Drowzee",
-        "smogon": "drowzee"
+        "miniSprite": "0096"
     },
     "baseSpecies": null,
     "baseForms": [],

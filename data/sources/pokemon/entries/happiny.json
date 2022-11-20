@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "HAPPINY",
         "veekunDb": "happiny",
+        "smogon": "happiny",
+        "showdown": "happiny",
+        "showdownDef": "Happiny",
         "serebii": "happiny",
         "bulbapedia": "Happiny",
         "homeSprite": "0440",
-        "miniSprite": "0440",
-        "showdown": "happiny",
-        "showdownDef": "Happiny",
-        "smogon": "happiny"
+        "miniSprite": "0440"
     },
     "baseSpecies": null,
     "baseForms": [],

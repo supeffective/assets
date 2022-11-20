@@ -99,13 +99,13 @@
     "refs": {
         "pogo": "HOOTHOOT",
         "veekunDb": "hoothoot",
+        "smogon": "hoothoot",
+        "showdown": "hoothoot",
+        "showdownDef": "Hoothoot",
         "serebii": "hoothoot",
         "bulbapedia": "Hoothoot",
         "homeSprite": "0163",
-        "miniSprite": "0163",
-        "showdown": "hoothoot",
-        "showdownDef": "Hoothoot",
-        "smogon": "hoothoot"
+        "miniSprite": "0163"
     },
     "baseSpecies": null,
     "baseForms": [],

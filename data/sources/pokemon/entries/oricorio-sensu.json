@@ -82,13 +82,13 @@
     "refs": {
         "pogo": "ORICORIO_SENSU",
         "veekunDb": "oricorio-sensu",
+        "smogon": "oricorio-sensu",
+        "showdown": "oricoriosensu",
+        "showdownDef": "Oricorio-Sensu",
         "serebii": "oricorio",
         "bulbapedia": "Oricorio",
         "homeSprite": "0741-sensu",
-        "miniSprite": "0741-sensu",
-        "showdown": "oricoriosensu",
-        "showdownDef": "Oricorio-Sensu",
-        "smogon": "oricorio-sensu"
+        "miniSprite": "0741-sensu"
     },
     "baseSpecies": "oricorio",
     "baseForms": [],

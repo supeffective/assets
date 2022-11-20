@@ -85,13 +85,13 @@
     "refs": {
         "pogo": "SWIRLIX",
         "veekunDb": "swirlix",
+        "smogon": "swirlix",
+        "showdown": "swirlix",
+        "showdownDef": "Swirlix",
         "serebii": "swirlix",
         "bulbapedia": "Swirlix",
         "homeSprite": "0684",
-        "miniSprite": "0684",
-        "showdown": "swirlix",
-        "showdownDef": "Swirlix",
-        "smogon": "swirlix"
+        "miniSprite": "0684"
     },
     "baseSpecies": null,
     "baseForms": [],

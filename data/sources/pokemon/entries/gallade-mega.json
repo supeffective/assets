@@ -76,13 +76,13 @@
     "refs": {
         "pogo": "GALLADE_MEGA",
         "veekunDb": "gallade-mega",
+        "smogon": "gallade-mega",
+        "showdown": "gallademega",
+        "showdownDef": "Gallade-Mega",
         "serebii": "gallade",
         "bulbapedia": "Gallade",
         "homeSprite": "0475-mega",
-        "miniSprite": "0475-mega",
-        "showdown": "gallademega",
-        "showdownDef": "Gallade-Mega",
-        "smogon": "gallade-mega"
+        "miniSprite": "0475-mega"
     },
     "baseSpecies": "gallade",
     "baseForms": [

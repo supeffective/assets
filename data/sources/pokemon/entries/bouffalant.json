@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "BOUFFALANT",
         "veekunDb": "bouffalant",
+        "smogon": "bouffalant",
+        "showdown": "bouffalant",
+        "showdownDef": "Bouffalant",
         "serebii": "bouffalant",
         "bulbapedia": "Bouffalant",
         "homeSprite": "0626",
-        "miniSprite": "0626",
-        "showdown": "bouffalant",
-        "showdownDef": "Bouffalant",
-        "smogon": "bouffalant"
+        "miniSprite": "0626"
     },
     "baseSpecies": null,
     "baseForms": [],

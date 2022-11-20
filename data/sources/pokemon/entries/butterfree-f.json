@@ -105,13 +105,13 @@
     "refs": {
         "pogo": "BUTTERFREE",
         "veekunDb": "butterfree",
+        "smogon": "butterfree",
+        "showdown": "butterfree",
+        "showdownDef": "Butterfree",
         "serebii": "butterfree",
         "bulbapedia": "Butterfree",
         "homeSprite": "0012-f",
-        "miniSprite": "0012",
-        "showdown": "butterfree",
-        "showdownDef": "Butterfree",
-        "smogon": "butterfree"
+        "miniSprite": "0012"
     },
     "baseSpecies": "butterfree",
     "baseForms": [],

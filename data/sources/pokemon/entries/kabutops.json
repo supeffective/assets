@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "KABUTOPS",
         "veekunDb": "kabutops",
+        "smogon": "kabutops",
+        "showdown": "kabutops",
+        "showdownDef": "Kabutops",
         "serebii": "kabutops",
         "bulbapedia": "Kabutops",
         "homeSprite": "0141",
-        "miniSprite": "0141",
-        "showdown": "kabutops",
-        "showdownDef": "Kabutops",
-        "smogon": "kabutops"
+        "miniSprite": "0141"
     },
     "baseSpecies": null,
     "baseForms": [],

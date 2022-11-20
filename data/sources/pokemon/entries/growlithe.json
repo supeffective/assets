@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "GROWLITHE",
         "veekunDb": "growlithe",
+        "smogon": "growlithe",
+        "showdown": "growlithe",
+        "showdownDef": "Growlithe",
         "serebii": "growlithe",
         "bulbapedia": "Growlithe",
         "homeSprite": "0058",
-        "miniSprite": "0058",
-        "showdown": "growlithe",
-        "showdownDef": "Growlithe",
-        "smogon": "growlithe"
+        "miniSprite": "0058"
     },
     "baseSpecies": null,
     "baseForms": [],

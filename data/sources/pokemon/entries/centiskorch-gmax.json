@@ -75,13 +75,13 @@
     "refs": {
         "pogo": "CENTISKORCH_GMAX",
         "veekunDb": "centiskorch-gmax",
+        "smogon": "centiskorch-gmax",
+        "showdown": "centiskorchgmax",
+        "showdownDef": "Centiskorch-Gmax",
         "serebii": "centiskorch",
         "bulbapedia": "Centiskorch",
         "homeSprite": "0851-gmax",
-        "miniSprite": "0851-gmax",
-        "showdown": "centiskorchgmax",
-        "showdownDef": "Centiskorch-Gmax",
-        "smogon": "centiskorch-gmax"
+        "miniSprite": "0851-gmax"
     },
     "baseSpecies": "centiskorch",
     "baseForms": [

@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "FRILLISH",
         "veekunDb": "frillish",
+        "smogon": "frillish",
+        "showdown": "frillish",
+        "showdownDef": "Frillish",
         "serebii": "frillish",
         "bulbapedia": "Frillish",
         "homeSprite": "0592",
-        "miniSprite": "0592",
-        "showdown": "frillish",
-        "showdownDef": "Frillish",
-        "smogon": "frillish"
+        "miniSprite": "0592"
     },
     "baseSpecies": null,
     "baseForms": [],

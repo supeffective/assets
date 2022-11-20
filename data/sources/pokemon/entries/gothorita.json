@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "GOTHORITA",
         "veekunDb": "gothorita",
+        "smogon": "gothorita",
+        "showdown": "gothorita",
+        "showdownDef": "Gothorita",
         "serebii": "gothorita",
         "bulbapedia": "Gothorita",
         "homeSprite": "0575",
-        "miniSprite": "0575",
-        "showdown": "gothorita",
-        "showdownDef": "Gothorita",
-        "smogon": "gothorita"
+        "miniSprite": "0575"
     },
     "baseSpecies": null,
     "baseForms": [],

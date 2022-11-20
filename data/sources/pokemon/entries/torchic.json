@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "TORCHIC",
         "veekunDb": "torchic",
+        "smogon": "torchic",
+        "showdown": "torchic",
+        "showdownDef": "Torchic",
         "serebii": "torchic",
         "bulbapedia": "Torchic",
         "homeSprite": "0255",
-        "miniSprite": "0255",
-        "showdown": "torchic",
-        "showdownDef": "Torchic",
-        "smogon": "torchic"
+        "miniSprite": "0255"
     },
     "baseSpecies": null,
     "baseForms": [],

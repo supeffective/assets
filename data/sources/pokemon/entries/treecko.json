@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "TREECKO",
         "veekunDb": "treecko",
+        "smogon": "treecko",
+        "showdown": "treecko",
+        "showdownDef": "Treecko",
         "serebii": "treecko",
         "bulbapedia": "Treecko",
         "homeSprite": "0252",
-        "miniSprite": "0252",
-        "showdown": "treecko",
-        "showdownDef": "Treecko",
-        "smogon": "treecko"
+        "miniSprite": "0252"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -92,13 +92,13 @@
     "refs": {
         "pogo": "MILOTIC",
         "veekunDb": "milotic",
+        "smogon": "milotic",
+        "showdown": "milotic",
+        "showdownDef": "Milotic",
         "serebii": "milotic",
         "bulbapedia": "Milotic",
         "homeSprite": "0350-f",
-        "miniSprite": "0350",
-        "showdown": "milotic",
-        "showdownDef": "Milotic",
-        "smogon": "milotic"
+        "miniSprite": "0350"
     },
     "baseSpecies": "milotic",
     "baseForms": [],

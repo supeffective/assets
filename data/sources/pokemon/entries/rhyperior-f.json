@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "RHYPERIOR",
         "veekunDb": "rhyperior",
+        "smogon": "rhyperior",
+        "showdown": "rhyperior",
+        "showdownDef": "Rhyperior",
         "serebii": "rhyperior",
         "bulbapedia": "Rhyperior",
         "homeSprite": "0464-f",
-        "miniSprite": "0464",
-        "showdown": "rhyperior",
-        "showdownDef": "Rhyperior",
-        "smogon": "rhyperior"
+        "miniSprite": "0464"
     },
     "baseSpecies": "rhyperior",
     "baseForms": [],

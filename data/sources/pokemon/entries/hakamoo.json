@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "HAKAMO_O",
         "veekunDb": "hakamoo",
+        "smogon": "hakamoo",
+        "showdown": "hakamoo",
+        "showdownDef": "Hakamoo",
         "serebii": "hakamoo",
         "bulbapedia": "Hakamo-o",
         "homeSprite": "0783",
-        "miniSprite": "0783",
-        "showdown": "hakamoo",
-        "showdownDef": "Hakamoo",
-        "smogon": "hakamoo"
+        "miniSprite": "0783"
     },
     "baseSpecies": null,
     "baseForms": [],

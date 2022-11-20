@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "BURMY_SANDY",
         "veekunDb": "burmy-sandy",
+        "smogon": "burmy-sandy",
+        "showdown": "burmy",
+        "showdownDef": "Burmy-Sandy",
         "serebii": "burmy",
         "bulbapedia": "Burmy",
         "homeSprite": "0412-sandy",
-        "miniSprite": "0412-sandy",
-        "showdown": "burmy",
-        "showdownDef": "Burmy-Sandy",
-        "smogon": "burmy-sandy"
+        "miniSprite": "0412-sandy"
     },
     "baseSpecies": "burmy",
     "baseForms": [

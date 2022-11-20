@@ -92,13 +92,13 @@
     "refs": {
         "pogo": "SHAYMIN",
         "veekunDb": "shaymin",
+        "smogon": "shaymin",
+        "showdown": "shaymin",
+        "showdownDef": "Shaymin",
         "serebii": "shaymin",
         "bulbapedia": "Shaymin",
         "homeSprite": "0492",
-        "miniSprite": "0492",
-        "showdown": "shaymin",
-        "showdownDef": "Shaymin",
-        "smogon": "shaymin"
+        "miniSprite": "0492"
     },
     "baseSpecies": null,
     "baseForms": [],

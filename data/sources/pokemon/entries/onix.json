@@ -105,13 +105,13 @@
     "refs": {
         "pogo": "ONIX",
         "veekunDb": "onix",
+        "smogon": "onix",
+        "showdown": "onix",
+        "showdownDef": "Onix",
         "serebii": "onix",
         "bulbapedia": "Onix",
         "homeSprite": "0095",
-        "miniSprite": "0095",
-        "showdown": "onix",
-        "showdownDef": "Onix",
-        "smogon": "onix"
+        "miniSprite": "0095"
     },
     "baseSpecies": null,
     "baseForms": [],

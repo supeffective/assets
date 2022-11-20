@@ -101,13 +101,13 @@
     "refs": {
         "pogo": "SPEAROW",
         "veekunDb": "spearow",
+        "smogon": "spearow",
+        "showdown": "spearow",
+        "showdownDef": "Spearow",
         "serebii": "spearow",
         "bulbapedia": "Spearow",
         "homeSprite": "0021",
-        "miniSprite": "0021",
-        "showdown": "spearow",
-        "showdownDef": "Spearow",
-        "smogon": "spearow"
+        "miniSprite": "0021"
     },
     "baseSpecies": null,
     "baseForms": [],

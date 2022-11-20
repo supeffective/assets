@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "ALTARIA",
         "veekunDb": "altaria",
+        "smogon": "altaria",
+        "showdown": "altaria",
+        "showdownDef": "Altaria",
         "serebii": "altaria",
         "bulbapedia": "Altaria",
         "homeSprite": "0334",
-        "miniSprite": "0334",
-        "showdown": "altaria",
-        "showdownDef": "Altaria",
-        "smogon": "altaria"
+        "miniSprite": "0334"
     },
     "baseSpecies": null,
     "baseForms": [],

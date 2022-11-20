@@ -87,13 +87,13 @@
     "refs": {
         "pogo": "SYLVEON",
         "veekunDb": "sylveon",
+        "smogon": "sylveon",
+        "showdown": "sylveon",
+        "showdownDef": "Sylveon",
         "serebii": "sylveon",
         "bulbapedia": "Sylveon",
         "homeSprite": "0700",
-        "miniSprite": "0700",
-        "showdown": "sylveon",
-        "showdownDef": "Sylveon",
-        "smogon": "sylveon"
+        "miniSprite": "0700"
     },
     "baseSpecies": null,
     "baseForms": [],

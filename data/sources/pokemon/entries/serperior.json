@@ -86,13 +86,13 @@
     "refs": {
         "pogo": "SERPERIOR",
         "veekunDb": "serperior",
+        "smogon": "serperior",
+        "showdown": "serperior",
+        "showdownDef": "Serperior",
         "serebii": "serperior",
         "bulbapedia": "Serperior",
         "homeSprite": "0497",
-        "miniSprite": "0497",
-        "showdown": "serperior",
-        "showdownDef": "Serperior",
-        "smogon": "serperior"
+        "miniSprite": "0497"
     },
     "baseSpecies": null,
     "baseForms": [],

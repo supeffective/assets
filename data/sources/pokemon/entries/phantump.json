@@ -85,13 +85,13 @@
     "refs": {
         "pogo": "PHANTUMP",
         "veekunDb": "phantump",
+        "smogon": "phantump",
+        "showdown": "phantump",
+        "showdownDef": "Phantump",
         "serebii": "phantump",
         "bulbapedia": "Phantump",
         "homeSprite": "0708",
-        "miniSprite": "0708",
-        "showdown": "phantump",
-        "showdownDef": "Phantump",
-        "smogon": "phantump"
+        "miniSprite": "0708"
     },
     "baseSpecies": null,
     "baseForms": [],

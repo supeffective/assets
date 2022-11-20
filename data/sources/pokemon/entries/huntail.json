@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "HUNTAIL",
         "veekunDb": "huntail",
+        "smogon": "huntail",
+        "showdown": "huntail",
+        "showdownDef": "Huntail",
         "serebii": "huntail",
         "bulbapedia": "Huntail",
         "homeSprite": "0367",
-        "miniSprite": "0367",
-        "showdown": "huntail",
-        "showdownDef": "Huntail",
-        "smogon": "huntail"
+        "miniSprite": "0367"
     },
     "baseSpecies": null,
     "baseForms": [],

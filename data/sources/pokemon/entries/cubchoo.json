@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "CUBCHOO",
         "veekunDb": "cubchoo",
+        "smogon": "cubchoo",
+        "showdown": "cubchoo",
+        "showdownDef": "Cubchoo",
         "serebii": "cubchoo",
         "bulbapedia": "Cubchoo",
         "homeSprite": "0613",
-        "miniSprite": "0613",
-        "showdown": "cubchoo",
-        "showdownDef": "Cubchoo",
-        "smogon": "cubchoo"
+        "miniSprite": "0613"
     },
     "baseSpecies": null,
     "baseForms": [],

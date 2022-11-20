@@ -92,13 +92,13 @@
     "refs": {
         "pogo": "NUZLEAF",
         "veekunDb": "nuzleaf",
+        "smogon": "nuzleaf",
+        "showdown": "nuzleaf",
+        "showdownDef": "Nuzleaf",
         "serebii": "nuzleaf",
         "bulbapedia": "Nuzleaf",
         "homeSprite": "0274-f",
-        "miniSprite": "0274",
-        "showdown": "nuzleaf",
-        "showdownDef": "Nuzleaf",
-        "smogon": "nuzleaf"
+        "miniSprite": "0274"
     },
     "baseSpecies": "nuzleaf",
     "baseForms": [],

@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "BAYLEEF",
         "veekunDb": "bayleef",
+        "smogon": "bayleef",
+        "showdown": "bayleef",
+        "showdownDef": "Bayleef",
         "serebii": "bayleef",
         "bulbapedia": "Bayleef",
         "homeSprite": "0153",
-        "miniSprite": "0153",
-        "showdown": "bayleef",
-        "showdownDef": "Bayleef",
-        "smogon": "bayleef"
+        "miniSprite": "0153"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -85,13 +85,13 @@
     "refs": {
         "pogo": "PUMPKABOO_LARGE",
         "veekunDb": "pumpkaboo-large",
+        "smogon": "pumpkaboo-large",
+        "showdown": "pumpkaboolarge",
+        "showdownDef": "Pumpkaboo-Large",
         "serebii": "pumpkaboo",
         "bulbapedia": "Pumpkaboo",
         "homeSprite": "0710-large",
-        "miniSprite": "0710-large",
-        "showdown": "pumpkaboolarge",
-        "showdownDef": "Pumpkaboo-Large",
-        "smogon": "pumpkaboo-large"
+        "miniSprite": "0710-large"
     },
     "baseSpecies": "pumpkaboo",
     "baseForms": [],

@@ -85,13 +85,13 @@
     "refs": {
         "pogo": "NOIBAT",
         "veekunDb": "noibat",
+        "smogon": "noibat",
+        "showdown": "noibat",
+        "showdownDef": "Noibat",
         "serebii": "noibat",
         "bulbapedia": "Noibat",
         "homeSprite": "0714",
-        "miniSprite": "0714",
-        "showdown": "noibat",
-        "showdownDef": "Noibat",
-        "smogon": "noibat"
+        "miniSprite": "0714"
     },
     "baseSpecies": null,
     "baseForms": [],

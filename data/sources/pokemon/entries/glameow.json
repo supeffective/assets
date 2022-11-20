@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "GLAMEOW",
         "veekunDb": "glameow",
+        "smogon": "glameow",
+        "showdown": "glameow",
+        "showdownDef": "Glameow",
         "serebii": "glameow",
         "bulbapedia": "Glameow",
         "homeSprite": "0431",
-        "miniSprite": "0431",
-        "showdown": "glameow",
-        "showdownDef": "Glameow",
-        "smogon": "glameow"
+        "miniSprite": "0431"
     },
     "baseSpecies": null,
     "baseForms": [],

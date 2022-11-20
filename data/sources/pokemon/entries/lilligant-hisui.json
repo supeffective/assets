@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "LILLIGANT_HISUIAN",
         "veekunDb": null,
+        "smogon": "lilligant-hisui",
+        "showdown": "lilliganthisui",
+        "showdownDef": "Lilligant-Hisui",
         "serebii": "lilligant",
         "bulbapedia": "Lilligant",
         "homeSprite": "0549-hisui",
-        "miniSprite": "0549-hisui",
-        "showdown": "lilliganthisui",
-        "showdownDef": "Lilligant-Hisui",
-        "smogon": "lilligant-hisui"
+        "miniSprite": "0549-hisui"
     },
     "baseSpecies": "lilligant",
     "baseForms": [],

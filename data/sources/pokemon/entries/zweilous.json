@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "ZWEILOUS",
         "veekunDb": "zweilous",
+        "smogon": "zweilous",
+        "showdown": "zweilous",
+        "showdownDef": "Zweilous",
         "serebii": "zweilous",
         "bulbapedia": "Zweilous",
         "homeSprite": "0634",
-        "miniSprite": "0634",
-        "showdown": "zweilous",
-        "showdownDef": "Zweilous",
-        "smogon": "zweilous"
+        "miniSprite": "0634"
     },
     "baseSpecies": null,
     "baseForms": [],

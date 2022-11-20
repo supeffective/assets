@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "HEATRAN",
         "veekunDb": "heatran",
+        "smogon": "heatran",
+        "showdown": "heatran",
+        "showdownDef": "Heatran",
         "serebii": "heatran",
         "bulbapedia": "Heatran",
         "homeSprite": "0485",
-        "miniSprite": "0485",
-        "showdown": "heatran",
-        "showdownDef": "Heatran",
-        "smogon": "heatran"
+        "miniSprite": "0485"
     },
     "baseSpecies": null,
     "baseForms": [],

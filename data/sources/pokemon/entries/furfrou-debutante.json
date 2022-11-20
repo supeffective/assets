@@ -83,13 +83,13 @@
     "refs": {
         "pogo": "FURFROU_DEBUTANTE",
         "veekunDb": "furfrou-debutante",
+        "smogon": "furfrou-debutante",
+        "showdown": "furfrou",
+        "showdownDef": "Furfrou-Debutante",
         "serebii": "furfrou",
         "bulbapedia": "Furfrou",
         "homeSprite": "0676-debutante",
-        "miniSprite": "0676-debutante",
-        "showdown": "furfrou",
-        "showdownDef": "Furfrou-Debutante",
-        "smogon": "furfrou-debutante"
+        "miniSprite": "0676-debutante"
     },
     "baseSpecies": "furfrou",
     "baseForms": [

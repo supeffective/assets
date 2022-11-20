@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "GEODUDE",
         "veekunDb": "geodude",
+        "smogon": "geodude",
+        "showdown": "geodude",
+        "showdownDef": "Geodude",
         "serebii": "geodude",
         "bulbapedia": "Geodude",
         "homeSprite": "0074",
-        "miniSprite": "0074",
-        "showdown": "geodude",
-        "showdownDef": "Geodude",
-        "smogon": "geodude"
+        "miniSprite": "0074"
     },
     "baseSpecies": null,
     "baseForms": [],

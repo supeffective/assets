@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "NIDOKING",
         "veekunDb": "nidoking",
+        "smogon": "nidoking",
+        "showdown": "nidoking",
+        "showdownDef": "Nidoking",
         "serebii": "nidoking",
         "bulbapedia": "Nidoking",
         "homeSprite": "0034",
-        "miniSprite": "0034",
-        "showdown": "nidoking",
-        "showdownDef": "Nidoking",
-        "smogon": "nidoking"
+        "miniSprite": "0034"
     },
     "baseSpecies": null,
     "baseForms": [],

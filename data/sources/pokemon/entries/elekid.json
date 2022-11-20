@@ -101,13 +101,13 @@
     "refs": {
         "pogo": "ELEKID",
         "veekunDb": "elekid",
+        "smogon": "elekid",
+        "showdown": "elekid",
+        "showdownDef": "Elekid",
         "serebii": "elekid",
         "bulbapedia": "Elekid",
         "homeSprite": "0239",
-        "miniSprite": "0239",
-        "showdown": "elekid",
-        "showdownDef": "Elekid",
-        "smogon": "elekid"
+        "miniSprite": "0239"
     },
     "baseSpecies": null,
     "baseForms": [],

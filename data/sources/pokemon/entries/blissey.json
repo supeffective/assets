@@ -101,13 +101,13 @@
     "refs": {
         "pogo": "BLISSEY",
         "veekunDb": "blissey",
+        "smogon": "blissey",
+        "showdown": "blissey",
+        "showdownDef": "Blissey",
         "serebii": "blissey",
         "bulbapedia": "Blissey",
         "homeSprite": "0242",
-        "miniSprite": "0242",
-        "showdown": "blissey",
-        "showdownDef": "Blissey",
-        "smogon": "blissey"
+        "miniSprite": "0242"
     },
     "baseSpecies": null,
     "baseForms": [],

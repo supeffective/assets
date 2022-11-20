@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "LOMBRE",
         "veekunDb": "lombre",
+        "smogon": "lombre",
+        "showdown": "lombre",
+        "showdownDef": "Lombre",
         "serebii": "lombre",
         "bulbapedia": "Lombre",
         "homeSprite": "0271",
-        "miniSprite": "0271",
-        "showdown": "lombre",
-        "showdownDef": "Lombre",
-        "smogon": "lombre"
+        "miniSprite": "0271"
     },
     "baseSpecies": null,
     "baseForms": [],

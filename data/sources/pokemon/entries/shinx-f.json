@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "SHINX",
         "veekunDb": "shinx",
+        "smogon": "shinx-",
+        "showdown": "shinx",
+        "showdownDef": "Shinx",
         "serebii": "shinx",
         "bulbapedia": "Shinx",
         "homeSprite": "0403-f",
-        "miniSprite": "0403",
-        "showdown": "shinx",
-        "showdownDef": "Shinx",
-        "smogon": "shinx-"
+        "miniSprite": "0403"
     },
     "baseSpecies": "shinx",
     "baseForms": [],

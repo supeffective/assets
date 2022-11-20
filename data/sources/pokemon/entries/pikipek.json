@@ -82,13 +82,13 @@
     "refs": {
         "pogo": "PIKIPEK",
         "veekunDb": "pikipek",
+        "smogon": "pikipek",
+        "showdown": "pikipek",
+        "showdownDef": "Pikipek",
         "serebii": "pikipek",
         "bulbapedia": "Pikipek",
         "homeSprite": "0731",
-        "miniSprite": "0731",
-        "showdown": "pikipek",
-        "showdownDef": "Pikipek",
-        "smogon": "pikipek"
+        "miniSprite": "0731"
     },
     "baseSpecies": null,
     "baseForms": [],

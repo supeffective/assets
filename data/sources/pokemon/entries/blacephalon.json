@@ -80,13 +80,13 @@
     "refs": {
         "pogo": "BLACEPHALON",
         "veekunDb": "blacephalon",
+        "smogon": "blacephalon",
+        "showdown": "blacephalon",
+        "showdownDef": "Blacephalon",
         "serebii": "blacephalon",
         "bulbapedia": "Blacephalon",
         "homeSprite": "0806",
-        "miniSprite": "0806",
-        "showdown": "blacephalon",
-        "showdownDef": "Blacephalon",
-        "smogon": "blacephalon"
+        "miniSprite": "0806"
     },
     "baseSpecies": null,
     "baseForms": [],

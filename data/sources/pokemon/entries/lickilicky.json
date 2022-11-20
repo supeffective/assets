@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "LICKILICKY",
         "veekunDb": "lickilicky",
+        "smogon": "lickilicky",
+        "showdown": "lickilicky",
+        "showdownDef": "Lickilicky",
         "serebii": "lickilicky",
         "bulbapedia": "Lickilicky",
         "homeSprite": "0463",
-        "miniSprite": "0463",
-        "showdown": "lickilicky",
-        "showdownDef": "Lickilicky",
-        "smogon": "lickilicky"
+        "miniSprite": "0463"
     },
     "baseSpecies": null,
     "baseForms": [],

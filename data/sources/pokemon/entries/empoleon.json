@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "EMPOLEON",
         "veekunDb": "empoleon",
+        "smogon": "empoleon",
+        "showdown": "empoleon",
+        "showdownDef": "Empoleon",
         "serebii": "empoleon",
         "bulbapedia": "Empoleon",
         "homeSprite": "0395",
-        "miniSprite": "0395",
-        "showdown": "empoleon",
-        "showdownDef": "Empoleon",
-        "smogon": "empoleon"
+        "miniSprite": "0395"
     },
     "baseSpecies": null,
     "baseForms": [],

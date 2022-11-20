@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "BIBAREL",
         "veekunDb": "bibarel",
+        "smogon": "bibarel",
+        "showdown": "bibarel",
+        "showdownDef": "Bibarel",
         "serebii": "bibarel",
         "bulbapedia": "Bibarel",
         "homeSprite": "0400",
-        "miniSprite": "0400",
-        "showdown": "bibarel",
-        "showdownDef": "Bibarel",
-        "smogon": "bibarel"
+        "miniSprite": "0400"
     },
     "baseSpecies": null,
     "baseForms": [],

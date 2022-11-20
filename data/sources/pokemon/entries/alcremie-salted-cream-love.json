@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "ALCREMIE_SALTED_CREAM_LOVE",
         "veekunDb": "alcremie-salted-cream-love",
+        "smogon": "alcremie-salted-cream-love",
+        "showdown": "alcremie",
+        "showdownDef": "Alcremie-Salted-Cream-Love",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "0869-salted-cream-love",
-        "miniSprite": "0869-salted-cream-love",
-        "showdown": "alcremie",
-        "showdownDef": "Alcremie-Salted-Cream-Love",
-        "smogon": "alcremie-salted-cream-love"
+        "miniSprite": "0869-salted-cream-love"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

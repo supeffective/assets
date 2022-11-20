@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "MEWTWO",
         "veekunDb": "mewtwo",
+        "smogon": "mewtwo",
+        "showdown": "mewtwo",
+        "showdownDef": "Mewtwo",
         "serebii": "mewtwo",
         "bulbapedia": "Mewtwo",
         "homeSprite": "0150",
-        "miniSprite": "0150",
-        "showdown": "mewtwo",
-        "showdownDef": "Mewtwo",
-        "smogon": "mewtwo"
+        "miniSprite": "0150"
     },
     "baseSpecies": null,
     "baseForms": [],

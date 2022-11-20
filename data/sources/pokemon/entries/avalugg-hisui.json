@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "AVALUGG_HISUIAN",
         "veekunDb": null,
+        "smogon": "avalugg-hisui",
+        "showdown": "avalugghisui",
+        "showdownDef": "Avalugg-Hisui",
         "serebii": "avalugg",
         "bulbapedia": "Avalugg",
         "homeSprite": "0713-hisui",
-        "miniSprite": "0713-hisui",
-        "showdown": "avalugghisui",
-        "showdownDef": "Avalugg-Hisui",
-        "smogon": "avalugg-hisui"
+        "miniSprite": "0713-hisui"
     },
     "baseSpecies": "avalugg",
     "baseForms": [],

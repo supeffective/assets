@@ -80,13 +80,13 @@
     "refs": {
         "pogo": "KOMALA",
         "veekunDb": "komala",
+        "smogon": "komala",
+        "showdown": "komala",
+        "showdownDef": "Komala",
         "serebii": "komala",
         "bulbapedia": "Komala",
         "homeSprite": "0775",
-        "miniSprite": "0775",
-        "showdown": "komala",
-        "showdownDef": "Komala",
-        "smogon": "komala"
+        "miniSprite": "0775"
     },
     "baseSpecies": null,
     "baseForms": [],

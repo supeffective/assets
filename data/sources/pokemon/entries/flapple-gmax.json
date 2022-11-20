@@ -75,13 +75,13 @@
     "refs": {
         "pogo": "FLAPPLE_GMAX",
         "veekunDb": "flapple-gmax",
+        "smogon": "flapple-gmax",
+        "showdown": "flapplegmax",
+        "showdownDef": "Flapple-Gmax",
         "serebii": "flapple",
         "bulbapedia": "Flapple",
         "homeSprite": "0841-gmax",
-        "miniSprite": "0841-gmax",
-        "showdown": "flapplegmax",
-        "showdownDef": "Flapple-Gmax",
-        "smogon": "flapple-gmax"
+        "miniSprite": "0841-gmax"
     },
     "baseSpecies": "flapple",
     "baseForms": [

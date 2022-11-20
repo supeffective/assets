@@ -86,13 +86,13 @@
     "refs": {
         "pogo": "RAICHU_ALOLA",
         "veekunDb": "raichu-alola",
+        "smogon": "raichu-alola",
+        "showdown": "raichualola",
+        "showdownDef": "Raichu-Alola",
         "serebii": "raichu",
         "bulbapedia": "Raichu",
         "homeSprite": "0026-alola",
-        "miniSprite": "0026-alola",
-        "showdown": "raichualola",
-        "showdownDef": "Raichu-Alola",
-        "smogon": "raichu-alola"
+        "miniSprite": "0026-alola"
     },
     "baseSpecies": "raichu",
     "baseForms": [],

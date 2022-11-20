@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "FERALIGATR",
         "veekunDb": "feraligatr",
+        "smogon": "feraligatr",
+        "showdown": "feraligatr",
+        "showdownDef": "Feraligatr",
         "serebii": "feraligatr",
         "bulbapedia": "Feraligatr",
         "homeSprite": "0160",
-        "miniSprite": "0160",
-        "showdown": "feraligatr",
-        "showdownDef": "Feraligatr",
-        "smogon": "feraligatr"
+        "miniSprite": "0160"
     },
     "baseSpecies": null,
     "baseForms": [],

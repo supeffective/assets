@@ -90,13 +90,13 @@
     "refs": {
         "pogo": "ARCEUS_POISON",
         "veekunDb": "arceus-poison",
+        "smogon": "arceus-poison",
+        "showdown": "arceuspoison",
+        "showdownDef": "Arceus-Poison",
         "serebii": "arceus",
         "bulbapedia": "Arceus",
         "homeSprite": "0493-poison",
-        "miniSprite": "0493-poison",
-        "showdown": "arceuspoison",
-        "showdownDef": "Arceus-Poison",
-        "smogon": "arceus-poison"
+        "miniSprite": "0493-poison"
     },
     "baseSpecies": "arceus",
     "baseForms": [

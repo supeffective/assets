@@ -86,13 +86,13 @@
     "refs": {
         "pogo": "PATRAT",
         "veekunDb": "patrat",
+        "smogon": "patrat",
+        "showdown": "patrat",
+        "showdownDef": "Patrat",
         "serebii": "patrat",
         "bulbapedia": "Patrat",
         "homeSprite": "0504",
-        "miniSprite": "0504",
-        "showdown": "patrat",
-        "showdownDef": "Patrat",
-        "smogon": "patrat"
+        "miniSprite": "0504"
     },
     "baseSpecies": null,
     "baseForms": [],

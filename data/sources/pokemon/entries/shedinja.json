@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "SHEDINJA",
         "veekunDb": "shedinja",
+        "smogon": "shedinja",
+        "showdown": "shedinja",
+        "showdownDef": "Shedinja",
         "serebii": "shedinja",
         "bulbapedia": "Shedinja",
         "homeSprite": "0292",
-        "miniSprite": "0292",
-        "showdown": "shedinja",
-        "showdownDef": "Shedinja",
-        "smogon": "shedinja"
+        "miniSprite": "0292"
     },
     "baseSpecies": null,
     "baseForms": [],

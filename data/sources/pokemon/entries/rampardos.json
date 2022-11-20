@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "RAMPARDOS",
         "veekunDb": "rampardos",
+        "smogon": "rampardos",
+        "showdown": "rampardos",
+        "showdownDef": "Rampardos",
         "serebii": "rampardos",
         "bulbapedia": "Rampardos",
         "homeSprite": "0409",
-        "miniSprite": "0409",
-        "showdown": "rampardos",
-        "showdownDef": "Rampardos",
-        "smogon": "rampardos"
+        "miniSprite": "0409"
     },
     "baseSpecies": null,
     "baseForms": [],

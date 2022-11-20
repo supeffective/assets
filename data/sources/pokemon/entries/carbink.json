@@ -83,13 +83,13 @@
     "refs": {
         "pogo": "CARBINK",
         "veekunDb": "carbink",
+        "smogon": "carbink",
+        "showdown": "carbink",
+        "showdownDef": "Carbink",
         "serebii": "carbink",
         "bulbapedia": "Carbink",
         "homeSprite": "0703",
-        "miniSprite": "0703",
-        "showdown": "carbink",
-        "showdownDef": "Carbink",
-        "smogon": "carbink"
+        "miniSprite": "0703"
     },
     "baseSpecies": null,
     "baseForms": [],

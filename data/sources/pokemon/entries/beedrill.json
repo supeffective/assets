@@ -101,13 +101,13 @@
     "refs": {
         "pogo": "BEEDRILL",
         "veekunDb": "beedrill",
+        "smogon": "beedrill",
+        "showdown": "beedrill",
+        "showdownDef": "Beedrill",
         "serebii": "beedrill",
         "bulbapedia": "Beedrill",
         "homeSprite": "0015",
-        "miniSprite": "0015",
-        "showdown": "beedrill",
-        "showdownDef": "Beedrill",
-        "smogon": "beedrill"
+        "miniSprite": "0015"
     },
     "baseSpecies": null,
     "baseForms": [],

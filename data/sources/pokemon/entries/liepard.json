@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "LIEPARD",
         "veekunDb": "liepard",
+        "smogon": "liepard",
+        "showdown": "liepard",
+        "showdownDef": "Liepard",
         "serebii": "liepard",
         "bulbapedia": "Liepard",
         "homeSprite": "0510",
-        "miniSprite": "0510",
-        "showdown": "liepard",
-        "showdownDef": "Liepard",
-        "smogon": "liepard"
+        "miniSprite": "0510"
     },
     "baseSpecies": null,
     "baseForms": [],

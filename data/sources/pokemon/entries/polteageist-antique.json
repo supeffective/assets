@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "POLTEAGEIST_ANTIQUE",
         "veekunDb": "polteageist-antique",
+        "smogon": "polteageist-antique",
+        "showdown": "polteageistantique",
+        "showdownDef": "Polteageist-Antique",
         "serebii": "polteageist",
         "bulbapedia": "Polteageist",
         "homeSprite": "0855",
-        "miniSprite": "0855",
-        "showdown": "polteageistantique",
-        "showdownDef": "Polteageist-Antique",
-        "smogon": "polteageist-antique"
+        "miniSprite": "0855"
     },
     "baseSpecies": "polteageist",
     "baseForms": [],

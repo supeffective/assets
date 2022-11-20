@@ -81,13 +81,13 @@
     "refs": {
         "pogo": "VIVILLON_MARINE",
         "veekunDb": "vivillon-marine",
+        "smogon": "vivillon-marine",
+        "showdown": "vivillon",
+        "showdownDef": "Vivillon-Marine",
         "serebii": "vivillon",
         "bulbapedia": "Vivillon",
         "homeSprite": "0666-marine",
-        "miniSprite": "0666-marine",
-        "showdown": "vivillon",
-        "showdownDef": "Vivillon-Marine",
-        "smogon": "vivillon-marine"
+        "miniSprite": "0666-marine"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

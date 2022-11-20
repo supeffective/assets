@@ -76,13 +76,13 @@
     "refs": {
         "pogo": "ABOMASNOW_MEGA",
         "veekunDb": "abomasnow-mega",
+        "smogon": "abomasnow-mega",
+        "showdown": "abomasnowmega",
+        "showdownDef": "Abomasnow-Mega",
         "serebii": "abomasnow",
         "bulbapedia": "Abomasnow",
         "homeSprite": "0460-mega",
-        "miniSprite": "0460-mega",
-        "showdown": "abomasnowmega",
-        "showdownDef": "Abomasnow-Mega",
-        "smogon": "abomasnow-mega"
+        "miniSprite": "0460-mega"
     },
     "baseSpecies": "abomasnow",
     "baseForms": [

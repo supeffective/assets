@@ -99,13 +99,13 @@
     "refs": {
         "pogo": "QUAGSIRE",
         "veekunDb": "quagsire",
+        "smogon": "quagsire",
+        "showdown": "quagsire",
+        "showdownDef": "Quagsire",
         "serebii": "quagsire",
         "bulbapedia": "Quagsire",
         "homeSprite": "0195",
-        "miniSprite": "0195",
-        "showdown": "quagsire",
-        "showdownDef": "Quagsire",
-        "smogon": "quagsire"
+        "miniSprite": "0195"
     },
     "baseSpecies": null,
     "baseForms": [],

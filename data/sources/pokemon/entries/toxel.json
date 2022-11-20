@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "TOXEL",
         "veekunDb": "toxel",
+        "smogon": "toxel",
+        "showdown": "toxel",
+        "showdownDef": "Toxel",
         "serebii": "toxel",
         "bulbapedia": "Toxel",
         "homeSprite": "0848",
-        "miniSprite": "0848",
-        "showdown": "toxel",
-        "showdownDef": "Toxel",
-        "smogon": "toxel"
+        "miniSprite": "0848"
     },
     "baseSpecies": null,
     "baseForms": [],

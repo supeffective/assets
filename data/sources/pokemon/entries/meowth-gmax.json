@@ -75,13 +75,13 @@
     "refs": {
         "pogo": "MEOWTH_GMAX",
         "veekunDb": "meowth-gmax",
+        "smogon": "meowth-gmax",
+        "showdown": "meowthgmax",
+        "showdownDef": "Meowth-Gmax",
         "serebii": "meowth",
         "bulbapedia": "Meowth",
         "homeSprite": "0052-gmax",
-        "miniSprite": "0052-gmax",
-        "showdown": "meowthgmax",
-        "showdownDef": "Meowth-Gmax",
-        "smogon": "meowth-gmax"
+        "miniSprite": "0052-gmax"
     },
     "baseSpecies": "meowth",
     "baseForms": [

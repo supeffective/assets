@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "SNUBBULL",
         "veekunDb": "snubbull",
+        "smogon": "snubbull",
+        "showdown": "snubbull",
+        "showdownDef": "Snubbull",
         "serebii": "snubbull",
         "bulbapedia": "Snubbull",
         "homeSprite": "0209",
-        "miniSprite": "0209",
-        "showdown": "snubbull",
-        "showdownDef": "Snubbull",
-        "smogon": "snubbull"
+        "miniSprite": "0209"
     },
     "baseSpecies": null,
     "baseForms": [],

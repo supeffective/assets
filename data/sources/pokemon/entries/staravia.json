@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "STARAVIA",
         "veekunDb": "staravia",
+        "smogon": "staravia",
+        "showdown": "staravia",
+        "showdownDef": "Staravia",
         "serebii": "staravia",
         "bulbapedia": "Staravia",
         "homeSprite": "0397",
-        "miniSprite": "0397",
-        "showdown": "staravia",
-        "showdownDef": "Staravia",
-        "smogon": "staravia"
+        "miniSprite": "0397"
     },
     "baseSpecies": null,
     "baseForms": [],

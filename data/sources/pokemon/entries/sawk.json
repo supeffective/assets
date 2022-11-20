@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "SAWK",
         "veekunDb": "sawk",
+        "smogon": "sawk",
+        "showdown": "sawk",
+        "showdownDef": "Sawk",
         "serebii": "sawk",
         "bulbapedia": "Sawk",
         "homeSprite": "0539",
-        "miniSprite": "0539",
-        "showdown": "sawk",
-        "showdownDef": "Sawk",
-        "smogon": "sawk"
+        "miniSprite": "0539"
     },
     "baseSpecies": null,
     "baseForms": [],

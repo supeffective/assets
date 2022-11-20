@@ -76,13 +76,13 @@
     "refs": {
         "pogo": "AUDINO_MEGA",
         "veekunDb": "audino-mega",
+        "smogon": "audino-mega",
+        "showdown": "audinomega",
+        "showdownDef": "Audino-Mega",
         "serebii": "audino",
         "bulbapedia": "Audino",
         "homeSprite": "0531-mega",
-        "miniSprite": "0531-mega",
-        "showdown": "audinomega",
-        "showdownDef": "Audino-Mega",
-        "smogon": "audino-mega"
+        "miniSprite": "0531-mega"
     },
     "baseSpecies": "audino",
     "baseForms": [

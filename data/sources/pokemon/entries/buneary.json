@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "BUNEARY",
         "veekunDb": "buneary",
+        "smogon": "buneary",
+        "showdown": "buneary",
+        "showdownDef": "Buneary",
         "serebii": "buneary",
         "bulbapedia": "Buneary",
         "homeSprite": "0427",
-        "miniSprite": "0427",
-        "showdown": "buneary",
-        "showdownDef": "Buneary",
-        "smogon": "buneary"
+        "miniSprite": "0427"
     },
     "baseSpecies": null,
     "baseForms": [],

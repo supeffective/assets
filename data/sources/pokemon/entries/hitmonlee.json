@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "HITMONLEE",
         "veekunDb": "hitmonlee",
+        "smogon": "hitmonlee",
+        "showdown": "hitmonlee",
+        "showdownDef": "Hitmonlee",
         "serebii": "hitmonlee",
         "bulbapedia": "Hitmonlee",
         "homeSprite": "0106",
-        "miniSprite": "0106",
-        "showdown": "hitmonlee",
-        "showdownDef": "Hitmonlee",
-        "smogon": "hitmonlee"
+        "miniSprite": "0106"
     },
     "baseSpecies": null,
     "baseForms": [],

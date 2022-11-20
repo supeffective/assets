@@ -101,13 +101,13 @@
     "refs": {
         "pogo": "MANTINE",
         "veekunDb": "mantine",
+        "smogon": "mantine",
+        "showdown": "mantine",
+        "showdownDef": "Mantine",
         "serebii": "mantine",
         "bulbapedia": "Mantine",
         "homeSprite": "0226",
-        "miniSprite": "0226",
-        "showdown": "mantine",
-        "showdownDef": "Mantine",
-        "smogon": "mantine"
+        "miniSprite": "0226"
     },
     "baseSpecies": null,
     "baseForms": [],

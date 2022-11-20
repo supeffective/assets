@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "NIDORAN_FEMALE",
         "veekunDb": "nidoranf",
+        "smogon": "nidoranf",
+        "showdown": "nidoranf",
+        "showdownDef": "Nidoranf",
         "serebii": "nidoranf",
         "bulbapedia": "Nidoran♀",
         "homeSprite": "0029",
-        "miniSprite": "0029",
-        "showdown": "nidoranf",
-        "showdownDef": "Nidoranf",
-        "smogon": "nidoranf"
+        "miniSprite": "0029"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "HARIYAMA",
         "veekunDb": "hariyama",
+        "smogon": "hariyama",
+        "showdown": "hariyama",
+        "showdownDef": "Hariyama",
         "serebii": "hariyama",
         "bulbapedia": "Hariyama",
         "homeSprite": "0297",
-        "miniSprite": "0297",
-        "showdown": "hariyama",
-        "showdownDef": "Hariyama",
-        "smogon": "hariyama"
+        "miniSprite": "0297"
     },
     "baseSpecies": null,
     "baseForms": [],

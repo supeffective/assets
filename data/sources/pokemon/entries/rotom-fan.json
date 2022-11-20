@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "ROTOM_FAN",
         "veekunDb": "rotom-fan",
+        "smogon": "rotom-fan",
+        "showdown": "rotomfan",
+        "showdownDef": "Rotom-Fan",
         "serebii": "rotom",
         "bulbapedia": "Rotom",
         "homeSprite": "0479-fan",
-        "miniSprite": "0479-fan",
-        "showdown": "rotomfan",
-        "showdownDef": "Rotom-Fan",
-        "smogon": "rotom-fan"
+        "miniSprite": "0479-fan"
     },
     "baseSpecies": "rotom",
     "baseForms": [

@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "DEWOTT",
         "veekunDb": "dewott",
+        "smogon": "dewott",
+        "showdown": "dewott",
+        "showdownDef": "Dewott",
         "serebii": "dewott",
         "bulbapedia": "Dewott",
         "homeSprite": "0502",
-        "miniSprite": "0502",
-        "showdown": "dewott",
-        "showdownDef": "Dewott",
-        "smogon": "dewott"
+        "miniSprite": "0502"
     },
     "baseSpecies": null,
     "baseForms": [],

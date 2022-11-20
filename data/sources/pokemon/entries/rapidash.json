@@ -105,13 +105,13 @@
     "refs": {
         "pogo": "RAPIDASH",
         "veekunDb": "rapidash",
+        "smogon": "rapidash",
+        "showdown": "rapidash",
+        "showdownDef": "Rapidash",
         "serebii": "rapidash",
         "bulbapedia": "Rapidash",
         "homeSprite": "0078",
-        "miniSprite": "0078",
-        "showdown": "rapidash",
-        "showdownDef": "Rapidash",
-        "smogon": "rapidash"
+        "miniSprite": "0078"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -80,13 +80,13 @@
     "refs": {
         "pogo": "BRUXISH",
         "veekunDb": "bruxish",
+        "smogon": "bruxish",
+        "showdown": "bruxish",
+        "showdownDef": "Bruxish",
         "serebii": "bruxish",
         "bulbapedia": "Bruxish",
         "homeSprite": "0779",
-        "miniSprite": "0779",
-        "showdown": "bruxish",
-        "showdownDef": "Bruxish",
-        "smogon": "bruxish"
+        "miniSprite": "0779"
     },
     "baseSpecies": null,
     "baseForms": [],

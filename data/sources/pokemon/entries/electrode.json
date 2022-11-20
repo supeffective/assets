@@ -101,13 +101,13 @@
     "refs": {
         "pogo": "ELECTRODE",
         "veekunDb": "electrode",
+        "smogon": "electrode",
+        "showdown": "electrode",
+        "showdownDef": "Electrode",
         "serebii": "electrode",
         "bulbapedia": "Electrode",
         "homeSprite": "0101",
-        "miniSprite": "0101",
-        "showdown": "electrode",
-        "showdownDef": "Electrode",
-        "smogon": "electrode"
+        "miniSprite": "0101"
     },
     "baseSpecies": null,
     "baseForms": [],

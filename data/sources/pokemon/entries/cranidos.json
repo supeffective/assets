@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "CRANIDOS",
         "veekunDb": "cranidos",
+        "smogon": "cranidos",
+        "showdown": "cranidos",
+        "showdownDef": "Cranidos",
         "serebii": "cranidos",
         "bulbapedia": "Cranidos",
         "homeSprite": "0408",
-        "miniSprite": "0408",
-        "showdown": "cranidos",
-        "showdownDef": "Cranidos",
-        "smogon": "cranidos"
+        "miniSprite": "0408"
     },
     "baseSpecies": null,
     "baseForms": [],

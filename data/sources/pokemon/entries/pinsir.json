@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "PINSIR",
         "veekunDb": "pinsir",
+        "smogon": "pinsir",
+        "showdown": "pinsir",
+        "showdownDef": "Pinsir",
         "serebii": "pinsir",
         "bulbapedia": "Pinsir",
         "homeSprite": "0127",
-        "miniSprite": "0127",
-        "showdown": "pinsir",
-        "showdownDef": "Pinsir",
-        "smogon": "pinsir"
+        "miniSprite": "0127"
     },
     "baseSpecies": null,
     "baseForms": [],

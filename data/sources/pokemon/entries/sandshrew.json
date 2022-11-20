@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "SANDSHREW",
         "veekunDb": "sandshrew",
+        "smogon": "sandshrew",
+        "showdown": "sandshrew",
+        "showdownDef": "Sandshrew",
         "serebii": "sandshrew",
         "bulbapedia": "Sandshrew",
         "homeSprite": "0027",
-        "miniSprite": "0027",
-        "showdown": "sandshrew",
-        "showdownDef": "Sandshrew",
-        "smogon": "sandshrew"
+        "miniSprite": "0027"
     },
     "baseSpecies": null,
     "baseForms": [],

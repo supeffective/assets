@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "FLYGON",
         "veekunDb": "flygon",
+        "smogon": "flygon",
+        "showdown": "flygon",
+        "showdownDef": "Flygon",
         "serebii": "flygon",
         "bulbapedia": "Flygon",
         "homeSprite": "0330",
-        "miniSprite": "0330",
-        "showdown": "flygon",
-        "showdownDef": "Flygon",
-        "smogon": "flygon"
+        "miniSprite": "0330"
     },
     "baseSpecies": null,
     "baseForms": [],

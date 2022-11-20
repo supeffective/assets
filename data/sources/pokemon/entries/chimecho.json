@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "CHIMECHO",
         "veekunDb": "chimecho",
+        "smogon": "chimecho",
+        "showdown": "chimecho",
+        "showdownDef": "Chimecho",
         "serebii": "chimecho",
         "bulbapedia": "Chimecho",
         "homeSprite": "0358",
-        "miniSprite": "0358",
-        "showdown": "chimecho",
-        "showdownDef": "Chimecho",
-        "smogon": "chimecho"
+        "miniSprite": "0358"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "GRUBBIN",
         "veekunDb": "grubbin",
+        "smogon": "grubbin",
+        "showdown": "grubbin",
+        "showdownDef": "Grubbin",
         "serebii": "grubbin",
         "bulbapedia": "Grubbin",
         "homeSprite": "0736",
-        "miniSprite": "0736",
-        "showdown": "grubbin",
-        "showdownDef": "Grubbin",
-        "smogon": "grubbin"
+        "miniSprite": "0736"
     },
     "baseSpecies": null,
     "baseForms": [],

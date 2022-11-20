@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "KARRABLAST",
         "veekunDb": "karrablast",
+        "smogon": "karrablast",
+        "showdown": "karrablast",
+        "showdownDef": "Karrablast",
         "serebii": "karrablast",
         "bulbapedia": "Karrablast",
         "homeSprite": "0588",
-        "miniSprite": "0588",
-        "showdown": "karrablast",
-        "showdownDef": "Karrablast",
-        "smogon": "karrablast"
+        "miniSprite": "0588"
     },
     "baseSpecies": null,
     "baseForms": [],

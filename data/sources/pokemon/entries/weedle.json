@@ -101,13 +101,13 @@
     "refs": {
         "pogo": "WEEDLE",
         "veekunDb": "weedle",
+        "smogon": "weedle",
+        "showdown": "weedle",
+        "showdownDef": "Weedle",
         "serebii": "weedle",
         "bulbapedia": "Weedle",
         "homeSprite": "0013",
-        "miniSprite": "0013",
-        "showdown": "weedle",
-        "showdownDef": "Weedle",
-        "smogon": "weedle"
+        "miniSprite": "0013"
     },
     "baseSpecies": null,
     "baseForms": [],

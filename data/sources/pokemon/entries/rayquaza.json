@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "RAYQUAZA",
         "veekunDb": "rayquaza",
+        "smogon": "rayquaza",
+        "showdown": "rayquaza",
+        "showdownDef": "Rayquaza",
         "serebii": "rayquaza",
         "bulbapedia": "Rayquaza",
         "homeSprite": "0384",
-        "miniSprite": "0384",
-        "showdown": "rayquaza",
-        "showdownDef": "Rayquaza",
-        "smogon": "rayquaza"
+        "miniSprite": "0384"
     },
     "baseSpecies": null,
     "baseForms": [],

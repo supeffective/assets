@@ -86,13 +86,13 @@
     "refs": {
         "pogo": "SWADLOON",
         "veekunDb": "swadloon",
+        "smogon": "swadloon",
+        "showdown": "swadloon",
+        "showdownDef": "Swadloon",
         "serebii": "swadloon",
         "bulbapedia": "Swadloon",
         "homeSprite": "0541",
-        "miniSprite": "0541",
-        "showdown": "swadloon",
-        "showdownDef": "Swadloon",
-        "smogon": "swadloon"
+        "miniSprite": "0541"
     },
     "baseSpecies": null,
     "baseForms": [],

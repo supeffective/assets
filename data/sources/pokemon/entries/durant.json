@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "DURANT",
         "veekunDb": "durant",
+        "smogon": "durant",
+        "showdown": "durant",
+        "showdownDef": "Durant",
         "serebii": "durant",
         "bulbapedia": "Durant",
         "homeSprite": "0632",
-        "miniSprite": "0632",
-        "showdown": "durant",
-        "showdownDef": "Durant",
-        "smogon": "durant"
+        "miniSprite": "0632"
     },
     "baseSpecies": null,
     "baseForms": [],

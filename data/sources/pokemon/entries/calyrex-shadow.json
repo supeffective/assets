@@ -82,13 +82,13 @@
     "refs": {
         "pogo": "CALYREX_SHADOW_RIDER",
         "veekunDb": "calyrex-shadow",
+        "smogon": "calyrex-shadow",
+        "showdown": "calyrexshadow",
+        "showdownDef": "Calyrex-Shadow",
         "serebii": "calyrex",
         "bulbapedia": "Calyrex",
         "homeSprite": "0898-shadow",
-        "miniSprite": "0898-shadow",
-        "showdown": "calyrexshadow",
-        "showdownDef": "Calyrex-Shadow",
-        "smogon": "calyrex-shadow"
+        "miniSprite": "0898-shadow"
     },
     "baseSpecies": "calyrex",
     "baseForms": [

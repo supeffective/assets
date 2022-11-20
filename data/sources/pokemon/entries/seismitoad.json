@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "SEISMITOAD",
         "veekunDb": "seismitoad",
+        "smogon": "seismitoad",
+        "showdown": "seismitoad",
+        "showdownDef": "Seismitoad",
         "serebii": "seismitoad",
         "bulbapedia": "Seismitoad",
         "homeSprite": "0537",
-        "miniSprite": "0537",
-        "showdown": "seismitoad",
-        "showdownDef": "Seismitoad",
-        "smogon": "seismitoad"
+        "miniSprite": "0537"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "FERROSEED",
         "veekunDb": "ferroseed",
+        "smogon": "ferroseed",
+        "showdown": "ferroseed",
+        "showdownDef": "Ferroseed",
         "serebii": "ferroseed",
         "bulbapedia": "Ferroseed",
         "homeSprite": "0597",
-        "miniSprite": "0597",
-        "showdown": "ferroseed",
-        "showdownDef": "Ferroseed",
-        "smogon": "ferroseed"
+        "miniSprite": "0597"
     },
     "baseSpecies": null,
     "baseForms": [],

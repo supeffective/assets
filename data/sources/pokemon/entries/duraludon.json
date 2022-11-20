@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "DURALUDON",
         "veekunDb": "duraludon",
+        "smogon": "duraludon",
+        "showdown": "duraludon",
+        "showdownDef": "Duraludon",
         "serebii": "duraludon",
         "bulbapedia": "Duraludon",
         "homeSprite": "0884",
-        "miniSprite": "0884",
-        "showdown": "duraludon",
-        "showdownDef": "Duraludon",
-        "smogon": "duraludon"
+        "miniSprite": "0884"
     },
     "baseSpecies": null,
     "baseForms": [],

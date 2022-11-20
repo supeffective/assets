@@ -80,13 +80,13 @@
     "refs": {
         "pogo": "MINIOR_VIOLET",
         "veekunDb": "minior-violet",
+        "smogon": "minior-violet",
+        "showdown": "minior",
+        "showdownDef": "Minior-Violet",
         "serebii": "minior",
         "bulbapedia": "Minior",
         "homeSprite": "0774-violet",
-        "miniSprite": "0774-violet",
-        "showdown": "minior",
-        "showdownDef": "Minior-Violet",
-        "smogon": "minior-violet"
+        "miniSprite": "0774-violet"
     },
     "baseSpecies": "minior",
     "baseForms": [

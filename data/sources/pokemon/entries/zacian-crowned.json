@@ -75,13 +75,13 @@
     "refs": {
         "pogo": "ZACIAN_CROWNED_SWORD",
         "veekunDb": "zacian-crowned",
+        "smogon": "zacian-crowned",
+        "showdown": "zaciancrowned",
+        "showdownDef": "Zacian-Crowned",
         "serebii": "zacian",
         "bulbapedia": "Zacian",
         "homeSprite": "0888-crowned",
-        "miniSprite": "0888-crowned",
-        "showdown": "zaciancrowned",
-        "showdownDef": "Zacian-Crowned",
-        "smogon": "zacian-crowned"
+        "miniSprite": "0888-crowned"
     },
     "baseSpecies": "zacian",
     "baseForms": [

@@ -94,13 +94,13 @@
     "refs": {
         "pogo": "SNEASEL",
         "veekunDb": "sneasel",
+        "smogon": "sneasel",
+        "showdown": "sneasel",
+        "showdownDef": "Sneasel",
         "serebii": "sneasel",
         "bulbapedia": "Sneasel",
         "homeSprite": "0215-f",
-        "miniSprite": "0215",
-        "showdown": "sneasel",
-        "showdownDef": "Sneasel",
-        "smogon": "sneasel"
+        "miniSprite": "0215"
     },
     "baseSpecies": "sneasel",
     "baseForms": [],

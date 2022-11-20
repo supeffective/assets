@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "MAGCARGO",
         "veekunDb": "magcargo",
+        "smogon": "magcargo",
+        "showdown": "magcargo",
+        "showdownDef": "Magcargo",
         "serebii": "magcargo",
         "bulbapedia": "Magcargo",
         "homeSprite": "0219",
-        "miniSprite": "0219",
-        "showdown": "magcargo",
-        "showdownDef": "Magcargo",
-        "smogon": "magcargo"
+        "miniSprite": "0219"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "DRACOVISH",
         "veekunDb": "dracovish",
+        "smogon": "dracovish",
+        "showdown": "dracovish",
+        "showdownDef": "Dracovish",
         "serebii": "dracovish",
         "bulbapedia": "Dracovish",
         "homeSprite": "0882",
-        "miniSprite": "0882",
-        "showdown": "dracovish",
-        "showdownDef": "Dracovish",
-        "smogon": "dracovish"
+        "miniSprite": "0882"
     },
     "baseSpecies": null,
     "baseForms": [],

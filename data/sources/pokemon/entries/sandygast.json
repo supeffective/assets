@@ -82,13 +82,13 @@
     "refs": {
         "pogo": "SANDYGAST",
         "veekunDb": "sandygast",
+        "smogon": "sandygast",
+        "showdown": "sandygast",
+        "showdownDef": "Sandygast",
         "serebii": "sandygast",
         "bulbapedia": "Sandygast",
         "homeSprite": "0769",
-        "miniSprite": "0769",
-        "showdown": "sandygast",
-        "showdownDef": "Sandygast",
-        "smogon": "sandygast"
+        "miniSprite": "0769"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "TURTWIG",
         "veekunDb": "turtwig",
+        "smogon": "turtwig",
+        "showdown": "turtwig",
+        "showdownDef": "Turtwig",
         "serebii": "turtwig",
         "bulbapedia": "Turtwig",
         "homeSprite": "0387",
-        "miniSprite": "0387",
-        "showdown": "turtwig",
-        "showdownDef": "Turtwig",
-        "smogon": "turtwig"
+        "miniSprite": "0387"
     },
     "baseSpecies": null,
     "baseForms": [],

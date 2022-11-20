@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "GOLETT",
         "veekunDb": "golett",
+        "smogon": "golett",
+        "showdown": "golett",
+        "showdownDef": "Golett",
         "serebii": "golett",
         "bulbapedia": "Golett",
         "homeSprite": "0622",
-        "miniSprite": "0622",
-        "showdown": "golett",
-        "showdownDef": "Golett",
-        "smogon": "golett"
+        "miniSprite": "0622"
     },
     "baseSpecies": null,
     "baseForms": [],

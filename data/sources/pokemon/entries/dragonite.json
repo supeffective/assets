@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "DRAGONITE",
         "veekunDb": "dragonite",
+        "smogon": "dragonite",
+        "showdown": "dragonite",
+        "showdownDef": "Dragonite",
         "serebii": "dragonite",
         "bulbapedia": "Dragonite",
         "homeSprite": "0149",
-        "miniSprite": "0149",
-        "showdown": "dragonite",
-        "showdownDef": "Dragonite",
-        "smogon": "dragonite"
+        "miniSprite": "0149"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -75,13 +75,13 @@
     "refs": {
         "pogo": "GENGAR_GMAX",
         "veekunDb": "gengar-gmax",
+        "smogon": "gengar-gmax",
+        "showdown": "gengargmax",
+        "showdownDef": "Gengar-Gmax",
         "serebii": "gengar",
         "bulbapedia": "Gengar",
         "homeSprite": "0094-gmax",
-        "miniSprite": "0094-gmax",
-        "showdown": "gengargmax",
-        "showdownDef": "Gengar-Gmax",
-        "smogon": "gengar-gmax"
+        "miniSprite": "0094-gmax"
     },
     "baseSpecies": "gengar",
     "baseForms": [

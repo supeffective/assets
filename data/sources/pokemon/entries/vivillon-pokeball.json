@@ -81,13 +81,13 @@
     "refs": {
         "pogo": "VIVILLON_POKEBALL",
         "veekunDb": "vivillon-pokeball",
+        "smogon": "vivillon-pokeball",
+        "showdown": "vivillonpokeball",
+        "showdownDef": "Vivillon-Pokeball",
         "serebii": "vivillon",
         "bulbapedia": "Vivillon",
         "homeSprite": "0666-pokeball",
-        "miniSprite": "0666-pokeball",
-        "showdown": "vivillonpokeball",
-        "showdownDef": "Vivillon-Pokeball",
-        "smogon": "vivillon-pokeball"
+        "miniSprite": "0666-pokeball"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

@@ -92,13 +92,13 @@
     "refs": {
         "pogo": "GLIGAR",
         "veekunDb": "gligar",
+        "smogon": "gligar",
+        "showdown": "gligar",
+        "showdownDef": "Gligar",
         "serebii": "gligar",
         "bulbapedia": "Gligar",
         "homeSprite": "0207-f",
-        "miniSprite": "0207",
-        "showdown": "gligar",
-        "showdownDef": "Gligar",
-        "smogon": "gligar"
+        "miniSprite": "0207"
     },
     "baseSpecies": "gligar",
     "baseForms": [],

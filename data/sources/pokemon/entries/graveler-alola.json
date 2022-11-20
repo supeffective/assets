@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "GRAVELER_ALOLA",
         "veekunDb": "graveler-alola",
+        "smogon": "graveler-alola",
+        "showdown": "graveleralola",
+        "showdownDef": "Graveler-Alola",
         "serebii": "graveler",
         "bulbapedia": "Graveler",
         "homeSprite": "0075-alola",
-        "miniSprite": "0075-alola",
-        "showdown": "graveleralola",
-        "showdownDef": "Graveler-Alola",
-        "smogon": "graveler-alola"
+        "miniSprite": "0075-alola"
     },
     "baseSpecies": "graveler",
     "baseForms": [],

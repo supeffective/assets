@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "AMOONGUSS",
         "veekunDb": "amoonguss",
+        "smogon": "amoonguss",
+        "showdown": "amoonguss",
+        "showdownDef": "Amoonguss",
         "serebii": "amoonguss",
         "bulbapedia": "Amoonguss",
         "homeSprite": "0591",
-        "miniSprite": "0591",
-        "showdown": "amoonguss",
-        "showdownDef": "Amoonguss",
-        "smogon": "amoonguss"
+        "miniSprite": "0591"
     },
     "baseSpecies": null,
     "baseForms": [],

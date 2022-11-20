@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "HEATMOR",
         "veekunDb": "heatmor",
+        "smogon": "heatmor",
+        "showdown": "heatmor",
+        "showdownDef": "Heatmor",
         "serebii": "heatmor",
         "bulbapedia": "Heatmor",
         "homeSprite": "0631",
-        "miniSprite": "0631",
-        "showdown": "heatmor",
-        "showdownDef": "Heatmor",
-        "smogon": "heatmor"
+        "miniSprite": "0631"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "PLUSLE",
         "veekunDb": "plusle",
+        "smogon": "plusle",
+        "showdown": "plusle",
+        "showdownDef": "Plusle",
         "serebii": "plusle",
         "bulbapedia": "Plusle",
         "homeSprite": "0311",
-        "miniSprite": "0311",
-        "showdown": "plusle",
-        "showdownDef": "Plusle",
-        "smogon": "plusle"
+        "miniSprite": "0311"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -76,13 +76,13 @@
     "refs": {
         "pogo": "LATIAS_MEGA",
         "veekunDb": "latias-mega",
+        "smogon": "latias-mega",
+        "showdown": "latiasmega",
+        "showdownDef": "Latias-Mega",
         "serebii": "latias",
         "bulbapedia": "Latias",
         "homeSprite": "0380-mega",
-        "miniSprite": "0380-mega",
-        "showdown": "latiasmega",
-        "showdownDef": "Latias-Mega",
-        "smogon": "latias-mega"
+        "miniSprite": "0380-mega"
     },
     "baseSpecies": "latias",
     "baseForms": [

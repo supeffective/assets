@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "WYRDEER",
         "veekunDb": "wyrdeer",
+        "smogon": "wyrdeer",
+        "showdown": "wyrdeer",
+        "showdownDef": "Wyrdeer",
         "serebii": "wyrdeer",
         "bulbapedia": "Wyrdeer",
         "homeSprite": "0899",
-        "miniSprite": "0899",
-        "showdown": "wyrdeer",
-        "showdownDef": "Wyrdeer",
-        "smogon": "wyrdeer"
+        "miniSprite": "0899"
     },
     "baseSpecies": null,
     "baseForms": [],

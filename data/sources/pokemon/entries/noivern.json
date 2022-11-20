@@ -85,13 +85,13 @@
     "refs": {
         "pogo": "NOIVERN",
         "veekunDb": "noivern",
+        "smogon": "noivern",
+        "showdown": "noivern",
+        "showdownDef": "Noivern",
         "serebii": "noivern",
         "bulbapedia": "Noivern",
         "homeSprite": "0715",
-        "miniSprite": "0715",
-        "showdown": "noivern",
-        "showdownDef": "Noivern",
-        "smogon": "noivern"
+        "miniSprite": "0715"
     },
     "baseSpecies": null,
     "baseForms": [],

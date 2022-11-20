@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "CUBONE",
         "veekunDb": "cubone",
+        "smogon": "cubone",
+        "showdown": "cubone",
+        "showdownDef": "Cubone",
         "serebii": "cubone",
         "bulbapedia": "Cubone",
         "homeSprite": "0104",
-        "miniSprite": "0104",
-        "showdown": "cubone",
-        "showdownDef": "Cubone",
-        "smogon": "cubone"
+        "miniSprite": "0104"
     },
     "baseSpecies": null,
     "baseForms": [],

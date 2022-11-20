@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "WEEZING",
         "veekunDb": "weezing",
+        "smogon": "weezing",
+        "showdown": "weezing",
+        "showdownDef": "Weezing",
         "serebii": "weezing",
         "bulbapedia": "Weezing",
         "homeSprite": "0110",
-        "miniSprite": "0110",
-        "showdown": "weezing",
-        "showdownDef": "Weezing",
-        "smogon": "weezing"
+        "miniSprite": "0110"
     },
     "baseSpecies": null,
     "baseForms": [],

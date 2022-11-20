@@ -81,13 +81,13 @@
     "refs": {
         "pogo": "SILVALLY_PSYCHIC",
         "veekunDb": "silvally-psychic",
+        "smogon": "silvally-psychic",
+        "showdown": "silvallypsychic",
+        "showdownDef": "Silvally-Psychic",
         "serebii": "silvally",
         "bulbapedia": "Silvally",
         "homeSprite": "0773-psychic",
-        "miniSprite": "0773-psychic",
-        "showdown": "silvallypsychic",
-        "showdownDef": "Silvally-Psychic",
-        "smogon": "silvally-psychic"
+        "miniSprite": "0773-psychic"
     },
     "baseSpecies": "silvally",
     "baseForms": [

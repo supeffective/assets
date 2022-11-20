@@ -83,13 +83,13 @@
     "refs": {
         "pogo": "FENNEKIN",
         "veekunDb": "fennekin",
+        "smogon": "fennekin",
+        "showdown": "fennekin",
+        "showdownDef": "Fennekin",
         "serebii": "fennekin",
         "bulbapedia": "Fennekin",
         "homeSprite": "0653",
-        "miniSprite": "0653",
-        "showdown": "fennekin",
-        "showdownDef": "Fennekin",
-        "smogon": "fennekin"
+        "miniSprite": "0653"
     },
     "baseSpecies": null,
     "baseForms": [],

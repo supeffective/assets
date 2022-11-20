@@ -105,13 +105,13 @@
     "refs": {
         "pogo": "FLAREON",
         "veekunDb": "flareon",
+        "smogon": "flareon",
+        "showdown": "flareon",
+        "showdownDef": "Flareon",
         "serebii": "flareon",
         "bulbapedia": "Flareon",
         "homeSprite": "0136",
-        "miniSprite": "0136",
-        "showdown": "flareon",
-        "showdownDef": "Flareon",
-        "smogon": "flareon"
+        "miniSprite": "0136"
     },
     "baseSpecies": null,
     "baseForms": [],

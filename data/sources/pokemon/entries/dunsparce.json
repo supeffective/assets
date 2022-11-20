@@ -99,13 +99,13 @@
     "refs": {
         "pogo": "DUNSPARCE",
         "veekunDb": "dunsparce",
+        "smogon": "dunsparce",
+        "showdown": "dunsparce",
+        "showdownDef": "Dunsparce",
         "serebii": "dunsparce",
         "bulbapedia": "Dunsparce",
         "homeSprite": "0206",
-        "miniSprite": "0206",
-        "showdown": "dunsparce",
-        "showdownDef": "Dunsparce",
-        "smogon": "dunsparce"
+        "miniSprite": "0206"
     },
     "baseSpecies": null,
     "baseForms": [],

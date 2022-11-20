@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "LAPRAS",
         "veekunDb": "lapras",
+        "smogon": "lapras",
+        "showdown": "lapras",
+        "showdownDef": "Lapras",
         "serebii": "lapras",
         "bulbapedia": "Lapras",
         "homeSprite": "0131",
-        "miniSprite": "0131",
-        "showdown": "lapras",
-        "showdownDef": "Lapras",
-        "smogon": "lapras"
+        "miniSprite": "0131"
     },
     "baseSpecies": null,
     "baseForms": [],

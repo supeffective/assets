@@ -81,13 +81,13 @@
     "refs": {
         "pogo": "SILVALLY_WATER",
         "veekunDb": "silvally-water",
+        "smogon": "silvally-water",
+        "showdown": "silvallywater",
+        "showdownDef": "Silvally-Water",
         "serebii": "silvally",
         "bulbapedia": "Silvally",
         "homeSprite": "0773-water",
-        "miniSprite": "0773-water",
-        "showdown": "silvallywater",
-        "showdownDef": "Silvally-Water",
-        "smogon": "silvally-water"
+        "miniSprite": "0773-water"
     },
     "baseSpecies": "silvally",
     "baseForms": [

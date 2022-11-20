@@ -80,13 +80,13 @@
     "refs": {
         "pogo": "OBSTAGOON",
         "veekunDb": "obstagoon",
+        "smogon": "obstagoon",
+        "showdown": "obstagoon",
+        "showdownDef": "Obstagoon",
         "serebii": "obstagoon",
         "bulbapedia": "Obstagoon",
         "homeSprite": "0862",
-        "miniSprite": "0862",
-        "showdown": "obstagoon",
-        "showdownDef": "Obstagoon",
-        "smogon": "obstagoon"
+        "miniSprite": "0862"
     },
     "baseSpecies": null,
     "baseForms": [],

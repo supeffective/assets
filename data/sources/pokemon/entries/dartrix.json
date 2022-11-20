@@ -86,13 +86,13 @@
     "refs": {
         "pogo": "DARTRIX",
         "veekunDb": "dartrix",
+        "smogon": "dartrix",
+        "showdown": "dartrix",
+        "showdownDef": "Dartrix",
         "serebii": "dartrix",
         "bulbapedia": "Dartrix",
         "homeSprite": "0723",
-        "miniSprite": "0723",
-        "showdown": "dartrix",
-        "showdownDef": "Dartrix",
-        "smogon": "dartrix"
+        "miniSprite": "0723"
     },
     "baseSpecies": null,
     "baseForms": [],

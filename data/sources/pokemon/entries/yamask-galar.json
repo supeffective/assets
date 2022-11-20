@@ -80,13 +80,13 @@
     "refs": {
         "pogo": "YAMASK_GALARIAN",
         "veekunDb": "yamask-galar",
+        "smogon": "yamask-galar",
+        "showdown": "yamaskgalar",
+        "showdownDef": "Yamask-Galar",
         "serebii": "yamask",
         "bulbapedia": "Yamask",
         "homeSprite": "0562-galar",
-        "miniSprite": "0562-galar",
-        "showdown": "yamaskgalar",
-        "showdownDef": "Yamask-Galar",
-        "smogon": "yamask-galar"
+        "miniSprite": "0562-galar"
     },
     "baseSpecies": "yamask",
     "baseForms": [],

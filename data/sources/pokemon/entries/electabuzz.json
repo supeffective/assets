@@ -105,13 +105,13 @@
     "refs": {
         "pogo": "ELECTABUZZ",
         "veekunDb": "electabuzz",
+        "smogon": "electabuzz",
+        "showdown": "electabuzz",
+        "showdownDef": "Electabuzz",
         "serebii": "electabuzz",
         "bulbapedia": "Electabuzz",
         "homeSprite": "0125",
-        "miniSprite": "0125",
-        "showdown": "electabuzz",
-        "showdownDef": "Electabuzz",
-        "smogon": "electabuzz"
+        "miniSprite": "0125"
     },
     "baseSpecies": null,
     "baseForms": [],

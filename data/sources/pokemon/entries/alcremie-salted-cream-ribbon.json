@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "ALCREMIE_SALTED_CREAM_RIBBON",
         "veekunDb": "alcremie-salted-cream-ribbon",
+        "smogon": "alcremie-salted-cream-ribbon",
+        "showdown": "alcremie",
+        "showdownDef": "Alcremie-Salted-Cream-Ribbon",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "0869-salted-cream-ribbon",
-        "miniSprite": "0869-salted-cream-ribbon",
-        "showdown": "alcremie",
-        "showdownDef": "Alcremie-Salted-Cream-Ribbon",
-        "smogon": "alcremie-salted-cream-ribbon"
+        "miniSprite": "0869-salted-cream-ribbon"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

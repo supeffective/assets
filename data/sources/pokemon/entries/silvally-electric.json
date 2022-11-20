@@ -81,13 +81,13 @@
     "refs": {
         "pogo": "SILVALLY_ELECTRIC",
         "veekunDb": "silvally-electric",
+        "smogon": "silvally-electric",
+        "showdown": "silvallyelectric",
+        "showdownDef": "Silvally-Electric",
         "serebii": "silvally",
         "bulbapedia": "Silvally",
         "homeSprite": "0773-electric",
-        "miniSprite": "0773-electric",
-        "showdown": "silvallyelectric",
-        "showdownDef": "Silvally-Electric",
-        "smogon": "silvally-electric"
+        "miniSprite": "0773-electric"
     },
     "baseSpecies": "silvally",
     "baseForms": [

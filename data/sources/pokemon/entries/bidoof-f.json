@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "BIDOOF",
         "veekunDb": "bidoof",
+        "smogon": "bidoof",
+        "showdown": "bidoof",
+        "showdownDef": "Bidoof",
         "serebii": "bidoof",
         "bulbapedia": "Bidoof",
         "homeSprite": "0399-f",
-        "miniSprite": "0399",
-        "showdown": "bidoof",
-        "showdownDef": "Bidoof",
-        "smogon": "bidoof"
+        "miniSprite": "0399"
     },
     "baseSpecies": "bidoof",
     "baseForms": [],

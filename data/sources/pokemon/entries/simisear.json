@@ -86,13 +86,13 @@
     "refs": {
         "pogo": "SIMISEAR",
         "veekunDb": "simisear",
+        "smogon": "simisear",
+        "showdown": "simisear",
+        "showdownDef": "Simisear",
         "serebii": "simisear",
         "bulbapedia": "Simisear",
         "homeSprite": "0514",
-        "miniSprite": "0514",
-        "showdown": "simisear",
-        "showdownDef": "Simisear",
-        "smogon": "simisear"
+        "miniSprite": "0514"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -99,13 +99,13 @@
     "refs": {
         "pogo": "DUSCLOPS",
         "veekunDb": "dusclops",
+        "smogon": "dusclops",
+        "showdown": "dusclops",
+        "showdownDef": "Dusclops",
         "serebii": "dusclops",
         "bulbapedia": "Dusclops",
         "homeSprite": "0356",
-        "miniSprite": "0356",
-        "showdown": "dusclops",
-        "showdownDef": "Dusclops",
-        "smogon": "dusclops"
+        "miniSprite": "0356"
     },
     "baseSpecies": null,
     "baseForms": [],

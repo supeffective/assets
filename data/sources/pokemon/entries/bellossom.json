@@ -99,13 +99,13 @@
     "refs": {
         "pogo": "BELLOSSOM",
         "veekunDb": "bellossom",
+        "smogon": "bellossom",
+        "showdown": "bellossom",
+        "showdownDef": "Bellossom",
         "serebii": "bellossom",
         "bulbapedia": "Bellossom",
         "homeSprite": "0182",
-        "miniSprite": "0182",
-        "showdown": "bellossom",
-        "showdownDef": "Bellossom",
-        "smogon": "bellossom"
+        "miniSprite": "0182"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "PHANPY",
         "veekunDb": "phanpy",
+        "smogon": "phanpy",
+        "showdown": "phanpy",
+        "showdownDef": "Phanpy",
         "serebii": "phanpy",
         "bulbapedia": "Phanpy",
         "homeSprite": "0231",
-        "miniSprite": "0231",
-        "showdown": "phanpy",
-        "showdownDef": "Phanpy",
-        "smogon": "phanpy"
+        "miniSprite": "0231"
     },
     "baseSpecies": null,
     "baseForms": [],

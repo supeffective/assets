@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "RABOOT",
         "veekunDb": "raboot",
+        "smogon": "raboot",
+        "showdown": "raboot",
+        "showdownDef": "Raboot",
         "serebii": "raboot",
         "bulbapedia": "Raboot",
         "homeSprite": "0814",
-        "miniSprite": "0814",
-        "showdown": "raboot",
-        "showdownDef": "Raboot",
-        "smogon": "raboot"
+        "miniSprite": "0814"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "KARTANA",
         "veekunDb": "kartana",
+        "smogon": "kartana",
+        "showdown": "kartana",
+        "showdownDef": "Kartana",
         "serebii": "kartana",
         "bulbapedia": "Kartana",
         "homeSprite": "0798",
-        "miniSprite": "0798",
-        "showdown": "kartana",
-        "showdownDef": "Kartana",
-        "smogon": "kartana"
+        "miniSprite": "0798"
     },
     "baseSpecies": null,
     "baseForms": [],

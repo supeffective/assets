@@ -82,13 +82,13 @@
     "refs": {
         "pogo": "TRUMBEAK",
         "veekunDb": "trumbeak",
+        "smogon": "trumbeak",
+        "showdown": "trumbeak",
+        "showdownDef": "Trumbeak",
         "serebii": "trumbeak",
         "bulbapedia": "Trumbeak",
         "homeSprite": "0732",
-        "miniSprite": "0732",
-        "showdown": "trumbeak",
-        "showdownDef": "Trumbeak",
-        "smogon": "trumbeak"
+        "miniSprite": "0732"
     },
     "baseSpecies": null,
     "baseForms": [],

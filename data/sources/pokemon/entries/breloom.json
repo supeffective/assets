@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "BRELOOM",
         "veekunDb": "breloom",
+        "smogon": "breloom",
+        "showdown": "breloom",
+        "showdownDef": "Breloom",
         "serebii": "breloom",
         "bulbapedia": "Breloom",
         "homeSprite": "0286",
-        "miniSprite": "0286",
-        "showdown": "breloom",
-        "showdownDef": "Breloom",
-        "smogon": "breloom"
+        "miniSprite": "0286"
     },
     "baseSpecies": null,
     "baseForms": [],

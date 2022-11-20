@@ -101,13 +101,13 @@
     "refs": {
         "pogo": "HYPNO",
         "veekunDb": "hypno",
+        "smogon": "hypno",
+        "showdown": "hypno",
+        "showdownDef": "Hypno",
         "serebii": "hypno",
         "bulbapedia": "Hypno",
         "homeSprite": "0097",
-        "miniSprite": "0097",
-        "showdown": "hypno",
-        "showdownDef": "Hypno",
-        "smogon": "hypno"
+        "miniSprite": "0097"
     },
     "baseSpecies": null,
     "baseForms": [],

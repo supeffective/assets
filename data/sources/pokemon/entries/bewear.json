@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "BEWEAR",
         "veekunDb": "bewear",
+        "smogon": "bewear",
+        "showdown": "bewear",
+        "showdownDef": "Bewear",
         "serebii": "bewear",
         "bulbapedia": "Bewear",
         "homeSprite": "0760",
-        "miniSprite": "0760",
-        "showdown": "bewear",
-        "showdownDef": "Bewear",
-        "smogon": "bewear"
+        "miniSprite": "0760"
     },
     "baseSpecies": null,
     "baseForms": [],

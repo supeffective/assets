@@ -80,13 +80,13 @@
     "refs": {
         "pogo": "SNEASLER",
         "veekunDb": "sneasler",
+        "smogon": "sneasler",
+        "showdown": "sneasler",
+        "showdownDef": "Sneasler",
         "serebii": "sneasler",
         "bulbapedia": "Sneasler",
         "homeSprite": "0903",
-        "miniSprite": "0903",
-        "showdown": "sneasler",
-        "showdownDef": "Sneasler",
-        "smogon": "sneasler"
+        "miniSprite": "0903"
     },
     "baseSpecies": null,
     "baseForms": [],

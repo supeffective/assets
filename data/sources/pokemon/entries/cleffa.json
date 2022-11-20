@@ -101,13 +101,13 @@
     "refs": {
         "pogo": "CLEFFA",
         "veekunDb": "cleffa",
+        "smogon": "cleffa",
+        "showdown": "cleffa",
+        "showdownDef": "Cleffa",
         "serebii": "cleffa",
         "bulbapedia": "Cleffa",
         "homeSprite": "0173",
-        "miniSprite": "0173",
-        "showdown": "cleffa",
-        "showdownDef": "Cleffa",
-        "smogon": "cleffa"
+        "miniSprite": "0173"
     },
     "baseSpecies": null,
     "baseForms": [],

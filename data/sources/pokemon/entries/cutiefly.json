@@ -82,13 +82,13 @@
     "refs": {
         "pogo": "CUTIEFLY",
         "veekunDb": "cutiefly",
+        "smogon": "cutiefly",
+        "showdown": "cutiefly",
+        "showdownDef": "Cutiefly",
         "serebii": "cutiefly",
         "bulbapedia": "Cutiefly",
         "homeSprite": "0742",
-        "miniSprite": "0742",
-        "showdown": "cutiefly",
-        "showdownDef": "Cutiefly",
-        "smogon": "cutiefly"
+        "miniSprite": "0742"
     },
     "baseSpecies": null,
     "baseForms": [],

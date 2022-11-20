@@ -80,13 +80,13 @@
     "refs": {
         "pogo": "PERRSERKER",
         "veekunDb": "perrserker",
+        "smogon": "perrserker",
+        "showdown": "perrserker",
+        "showdownDef": "Perrserker",
         "serebii": "perrserker",
         "bulbapedia": "Perrserker",
         "homeSprite": "0863",
-        "miniSprite": "0863",
-        "showdown": "perrserker",
-        "showdownDef": "Perrserker",
-        "smogon": "perrserker"
+        "miniSprite": "0863"
     },
     "baseSpecies": null,
     "baseForms": [],

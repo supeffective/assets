@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "SCRAFTY",
         "veekunDb": "scrafty",
+        "smogon": "scrafty",
+        "showdown": "scrafty",
+        "showdownDef": "Scrafty",
         "serebii": "scrafty",
         "bulbapedia": "Scrafty",
         "homeSprite": "0560",
-        "miniSprite": "0560",
-        "showdown": "scrafty",
-        "showdownDef": "Scrafty",
-        "smogon": "scrafty"
+        "miniSprite": "0560"
     },
     "baseSpecies": null,
     "baseForms": [],

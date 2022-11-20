@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "REGIDRAGO",
         "veekunDb": "regidrago",
+        "smogon": "regidrago",
+        "showdown": "regidrago",
+        "showdownDef": "Regidrago",
         "serebii": "regidrago",
         "bulbapedia": "Regidrago",
         "homeSprite": "0895",
-        "miniSprite": "0895",
-        "showdown": "regidrago",
-        "showdownDef": "Regidrago",
-        "smogon": "regidrago"
+        "miniSprite": "0895"
     },
     "baseSpecies": null,
     "baseForms": [],

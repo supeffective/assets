@@ -101,13 +101,13 @@
     "refs": {
         "pogo": "DEWGONG",
         "veekunDb": "dewgong",
+        "smogon": "dewgong",
+        "showdown": "dewgong",
+        "showdownDef": "Dewgong",
         "serebii": "dewgong",
         "bulbapedia": "Dewgong",
         "homeSprite": "0087",
-        "miniSprite": "0087",
-        "showdown": "dewgong",
-        "showdownDef": "Dewgong",
-        "smogon": "dewgong"
+        "miniSprite": "0087"
     },
     "baseSpecies": null,
     "baseForms": [],

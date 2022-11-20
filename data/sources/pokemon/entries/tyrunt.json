@@ -85,13 +85,13 @@
     "refs": {
         "pogo": "TYRUNT",
         "veekunDb": "tyrunt",
+        "smogon": "tyrunt",
+        "showdown": "tyrunt",
+        "showdownDef": "Tyrunt",
         "serebii": "tyrunt",
         "bulbapedia": "Tyrunt",
         "homeSprite": "0696",
-        "miniSprite": "0696",
-        "showdown": "tyrunt",
-        "showdownDef": "Tyrunt",
-        "smogon": "tyrunt"
+        "miniSprite": "0696"
     },
     "baseSpecies": null,
     "baseForms": [],

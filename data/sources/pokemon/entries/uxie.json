@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "UXIE",
         "veekunDb": "uxie",
+        "smogon": "uxie",
+        "showdown": "uxie",
+        "showdownDef": "Uxie",
         "serebii": "uxie",
         "bulbapedia": "Uxie",
         "homeSprite": "0480",
-        "miniSprite": "0480",
-        "showdown": "uxie",
-        "showdownDef": "Uxie",
-        "smogon": "uxie"
+        "miniSprite": "0480"
     },
     "baseSpecies": null,
     "baseForms": [],

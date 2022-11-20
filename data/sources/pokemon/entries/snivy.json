@@ -86,13 +86,13 @@
     "refs": {
         "pogo": "SNIVY",
         "veekunDb": "snivy",
+        "smogon": "snivy",
+        "showdown": "snivy",
+        "showdownDef": "Snivy",
         "serebii": "snivy",
         "bulbapedia": "Snivy",
         "homeSprite": "0495",
-        "miniSprite": "0495",
-        "showdown": "snivy",
-        "showdownDef": "Snivy",
-        "smogon": "snivy"
+        "miniSprite": "0495"
     },
     "baseSpecies": null,
     "baseForms": [],

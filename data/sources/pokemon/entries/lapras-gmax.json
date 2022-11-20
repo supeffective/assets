@@ -75,13 +75,13 @@
     "refs": {
         "pogo": "LAPRAS_GMAX",
         "veekunDb": "lapras-gmax",
+        "smogon": "lapras-gmax",
+        "showdown": "laprasgmax",
+        "showdownDef": "Lapras-Gmax",
         "serebii": "lapras",
         "bulbapedia": "Lapras",
         "homeSprite": "0131-gmax",
-        "miniSprite": "0131-gmax",
-        "showdown": "laprasgmax",
-        "showdownDef": "Lapras-Gmax",
-        "smogon": "lapras-gmax"
+        "miniSprite": "0131-gmax"
     },
     "baseSpecies": "lapras",
     "baseForms": [

@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "NIHILEGO",
         "veekunDb": "nihilego",
+        "smogon": "nihilego",
+        "showdown": "nihilego",
+        "showdownDef": "Nihilego",
         "serebii": "nihilego",
         "bulbapedia": "Nihilego",
         "homeSprite": "0793",
-        "miniSprite": "0793",
-        "showdown": "nihilego",
-        "showdownDef": "Nihilego",
-        "smogon": "nihilego"
+        "miniSprite": "0793"
     },
     "baseSpecies": null,
     "baseForms": [],

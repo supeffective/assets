@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "FERROTHORN",
         "veekunDb": "ferrothorn",
+        "smogon": "ferrothorn",
+        "showdown": "ferrothorn",
+        "showdownDef": "Ferrothorn",
         "serebii": "ferrothorn",
         "bulbapedia": "Ferrothorn",
         "homeSprite": "0598",
-        "miniSprite": "0598",
-        "showdown": "ferrothorn",
-        "showdownDef": "Ferrothorn",
-        "smogon": "ferrothorn"
+        "miniSprite": "0598"
     },
     "baseSpecies": null,
     "baseForms": [],

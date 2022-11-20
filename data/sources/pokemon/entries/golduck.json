@@ -105,13 +105,13 @@
     "refs": {
         "pogo": "GOLDUCK",
         "veekunDb": "golduck",
+        "smogon": "golduck",
+        "showdown": "golduck",
+        "showdownDef": "Golduck",
         "serebii": "golduck",
         "bulbapedia": "Golduck",
         "homeSprite": "0055",
-        "miniSprite": "0055",
-        "showdown": "golduck",
-        "showdownDef": "Golduck",
-        "smogon": "golduck"
+        "miniSprite": "0055"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "DEWPIDER",
         "veekunDb": "dewpider",
+        "smogon": "dewpider",
+        "showdown": "dewpider",
+        "showdownDef": "Dewpider",
         "serebii": "dewpider",
         "bulbapedia": "Dewpider",
         "homeSprite": "0751",
-        "miniSprite": "0751",
-        "showdown": "dewpider",
-        "showdownDef": "Dewpider",
-        "smogon": "dewpider"
+        "miniSprite": "0751"
     },
     "baseSpecies": null,
     "baseForms": [],

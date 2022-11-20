@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "SPINARAK",
         "veekunDb": "spinarak",
+        "smogon": "spinarak",
+        "showdown": "spinarak",
+        "showdownDef": "Spinarak",
         "serebii": "spinarak",
         "bulbapedia": "Spinarak",
         "homeSprite": "0167",
-        "miniSprite": "0167",
-        "showdown": "spinarak",
-        "showdownDef": "Spinarak",
-        "smogon": "spinarak"
+        "miniSprite": "0167"
     },
     "baseSpecies": null,
     "baseForms": [],

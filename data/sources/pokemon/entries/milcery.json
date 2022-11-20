@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "MILCERY",
         "veekunDb": "milcery",
+        "smogon": "milcery",
+        "showdown": "milcery",
+        "showdownDef": "Milcery",
         "serebii": "milcery",
         "bulbapedia": "Milcery",
         "homeSprite": "0868",
-        "miniSprite": "0868",
-        "showdown": "milcery",
-        "showdownDef": "Milcery",
-        "smogon": "milcery"
+        "miniSprite": "0868"
     },
     "baseSpecies": null,
     "baseForms": [],

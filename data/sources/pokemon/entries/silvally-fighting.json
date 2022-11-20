@@ -81,13 +81,13 @@
     "refs": {
         "pogo": "SILVALLY_FIGHTING",
         "veekunDb": "silvally-fighting",
+        "smogon": "silvally-fighting",
+        "showdown": "silvallyfighting",
+        "showdownDef": "Silvally-Fighting",
         "serebii": "silvally",
         "bulbapedia": "Silvally",
         "homeSprite": "0773-fighting",
-        "miniSprite": "0773-fighting",
-        "showdown": "silvallyfighting",
-        "showdownDef": "Silvally-Fighting",
-        "smogon": "silvally-fighting"
+        "miniSprite": "0773-fighting"
     },
     "baseSpecies": "silvally",
     "baseForms": [

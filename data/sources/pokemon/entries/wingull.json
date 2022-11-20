@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "WINGULL",
         "veekunDb": "wingull",
+        "smogon": "wingull",
+        "showdown": "wingull",
+        "showdownDef": "Wingull",
         "serebii": "wingull",
         "bulbapedia": "Wingull",
         "homeSprite": "0278",
-        "miniSprite": "0278",
-        "showdown": "wingull",
-        "showdownDef": "Wingull",
-        "smogon": "wingull"
+        "miniSprite": "0278"
     },
     "baseSpecies": null,
     "baseForms": [],

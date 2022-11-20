@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "APPLIN",
         "veekunDb": "applin",
+        "smogon": "applin",
+        "showdown": "applin",
+        "showdownDef": "Applin",
         "serebii": "applin",
         "bulbapedia": "Applin",
         "homeSprite": "0840",
-        "miniSprite": "0840",
-        "showdown": "applin",
-        "showdownDef": "Applin",
-        "smogon": "applin"
+        "miniSprite": "0840"
     },
     "baseSpecies": null,
     "baseForms": [],

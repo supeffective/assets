@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "SIZZLIPEDE",
         "veekunDb": "sizzlipede",
+        "smogon": "sizzlipede",
+        "showdown": "sizzlipede",
+        "showdownDef": "Sizzlipede",
         "serebii": "sizzlipede",
         "bulbapedia": "Sizzlipede",
         "homeSprite": "0850",
-        "miniSprite": "0850",
-        "showdown": "sizzlipede",
-        "showdownDef": "Sizzlipede",
-        "smogon": "sizzlipede"
+        "miniSprite": "0850"
     },
     "baseSpecies": null,
     "baseForms": [],

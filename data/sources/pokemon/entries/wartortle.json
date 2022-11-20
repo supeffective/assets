@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "WARTORTLE",
         "veekunDb": "wartortle",
+        "smogon": "wartortle",
+        "showdown": "wartortle",
+        "showdownDef": "Wartortle",
         "serebii": "wartortle",
         "bulbapedia": "Wartortle",
         "homeSprite": "0008",
-        "miniSprite": "0008",
-        "showdown": "wartortle",
-        "showdownDef": "Wartortle",
-        "smogon": "wartortle"
+        "miniSprite": "0008"
     },
     "baseSpecies": null,
     "baseForms": [],

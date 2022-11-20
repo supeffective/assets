@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "SHELLOS",
         "veekunDb": "shellos",
+        "smogon": "shellos",
+        "showdown": "shellos",
+        "showdownDef": "Shellos",
         "serebii": "shellos",
         "bulbapedia": "Shellos",
         "homeSprite": "0422",
-        "miniSprite": "0422",
-        "showdown": "shellos",
-        "showdownDef": "Shellos",
-        "smogon": "shellos"
+        "miniSprite": "0422"
     },
     "baseSpecies": null,
     "baseForms": [],

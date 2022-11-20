@@ -92,13 +92,13 @@
     "refs": {
         "pogo": "LUDICOLO",
         "veekunDb": "ludicolo",
+        "smogon": "ludicolo",
+        "showdown": "ludicolo",
+        "showdownDef": "Ludicolo",
         "serebii": "ludicolo",
         "bulbapedia": "Ludicolo",
         "homeSprite": "0272-f",
-        "miniSprite": "0272",
-        "showdown": "ludicolo",
-        "showdownDef": "Ludicolo",
-        "smogon": "ludicolo"
+        "miniSprite": "0272"
     },
     "baseSpecies": "ludicolo",
     "baseForms": [],

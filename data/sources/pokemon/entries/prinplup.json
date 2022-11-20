@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "PRINPLUP",
         "veekunDb": "prinplup",
+        "smogon": "prinplup",
+        "showdown": "prinplup",
+        "showdownDef": "Prinplup",
         "serebii": "prinplup",
         "bulbapedia": "Prinplup",
         "homeSprite": "0394",
-        "miniSprite": "0394",
-        "showdown": "prinplup",
-        "showdownDef": "Prinplup",
-        "smogon": "prinplup"
+        "miniSprite": "0394"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "CRYOGONAL",
         "veekunDb": "cryogonal",
+        "smogon": "cryogonal",
+        "showdown": "cryogonal",
+        "showdownDef": "Cryogonal",
         "serebii": "cryogonal",
         "bulbapedia": "Cryogonal",
         "homeSprite": "0615",
-        "miniSprite": "0615",
-        "showdown": "cryogonal",
-        "showdownDef": "Cryogonal",
-        "smogon": "cryogonal"
+        "miniSprite": "0615"
     },
     "baseSpecies": null,
     "baseForms": [],

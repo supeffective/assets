@@ -76,13 +76,13 @@
     "refs": {
         "pogo": "BLASTOISE_MEGA",
         "veekunDb": "blastoise-mega",
+        "smogon": "blastoise-mega",
+        "showdown": "blastoisemega",
+        "showdownDef": "Blastoise-Mega",
         "serebii": "blastoise",
         "bulbapedia": "Blastoise",
         "homeSprite": "0009-mega",
-        "miniSprite": "0009-mega",
-        "showdown": "blastoisemega",
-        "showdownDef": "Blastoise-Mega",
-        "smogon": "blastoise-mega"
+        "miniSprite": "0009-mega"
     },
     "baseSpecies": "blastoise",
     "baseForms": [

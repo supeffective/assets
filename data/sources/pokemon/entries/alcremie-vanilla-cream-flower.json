@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "ALCREMIE_VANILLA_CREAM_FLOWER",
         "veekunDb": "alcremie-vanilla-cream-flower",
+        "smogon": "alcremie-vanilla-cream-flower",
+        "showdown": "alcremie",
+        "showdownDef": "Alcremie-Vanilla-Cream-Flower",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "0869-vanilla-cream-flower",
-        "miniSprite": "0869-vanilla-cream-flower",
-        "showdown": "alcremie",
-        "showdownDef": "Alcremie-Vanilla-Cream-Flower",
-        "smogon": "alcremie-vanilla-cream-flower"
+        "miniSprite": "0869-vanilla-cream-flower"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "LUMINEON",
         "veekunDb": "lumineon",
+        "smogon": "lumineon",
+        "showdown": "lumineon",
+        "showdownDef": "Lumineon",
         "serebii": "lumineon",
         "bulbapedia": "Lumineon",
         "homeSprite": "0457",
-        "miniSprite": "0457",
-        "showdown": "lumineon",
-        "showdownDef": "Lumineon",
-        "smogon": "lumineon"
+        "miniSprite": "0457"
     },
     "baseSpecies": null,
     "baseForms": [],

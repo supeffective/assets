@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "CALYREX",
         "veekunDb": "calyrex",
+        "smogon": "calyrex",
+        "showdown": "calyrex",
+        "showdownDef": "Calyrex",
         "serebii": "calyrex",
         "bulbapedia": "Calyrex",
         "homeSprite": "0898",
-        "miniSprite": "0898",
-        "showdown": "calyrex",
-        "showdownDef": "Calyrex",
-        "smogon": "calyrex"
+        "miniSprite": "0898"
     },
     "baseSpecies": null,
     "baseForms": [],

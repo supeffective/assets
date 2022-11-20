@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "SLIGGOO_HISUIAN",
         "veekunDb": null,
+        "smogon": "sliggoo-hisui",
+        "showdown": "sliggoohisui",
+        "showdownDef": "Sliggoo-Hisui",
         "serebii": "sliggoo",
         "bulbapedia": "Sliggoo",
         "homeSprite": "0705-hisui",
-        "miniSprite": "0705-hisui",
-        "showdown": "sliggoohisui",
-        "showdownDef": "Sliggoo-Hisui",
-        "smogon": "sliggoo-hisui"
+        "miniSprite": "0705-hisui"
     },
     "baseSpecies": "sliggoo",
     "baseForms": [],

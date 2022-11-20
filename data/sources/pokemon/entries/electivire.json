@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "ELECTIVIRE",
         "veekunDb": "electivire",
+        "smogon": "electivire",
+        "showdown": "electivire",
+        "showdownDef": "Electivire",
         "serebii": "electivire",
         "bulbapedia": "Electivire",
         "homeSprite": "0466",
-        "miniSprite": "0466",
-        "showdown": "electivire",
-        "showdownDef": "Electivire",
-        "smogon": "electivire"
+        "miniSprite": "0466"
     },
     "baseSpecies": null,
     "baseForms": [],

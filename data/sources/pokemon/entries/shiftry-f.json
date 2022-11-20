@@ -92,13 +92,13 @@
     "refs": {
         "pogo": "SHIFTRY",
         "veekunDb": "shiftry",
+        "smogon": "shiftry",
+        "showdown": "shiftry",
+        "showdownDef": "Shiftry",
         "serebii": "shiftry",
         "bulbapedia": "Shiftry",
         "homeSprite": "0275-f",
-        "miniSprite": "0275",
-        "showdown": "shiftry",
-        "showdownDef": "Shiftry",
-        "smogon": "shiftry"
+        "miniSprite": "0275"
     },
     "baseSpecies": "shiftry",
     "baseForms": [],

@@ -76,13 +76,13 @@
     "refs": {
         "pogo": "AGGRON_MEGA",
         "veekunDb": "aggron-mega",
+        "smogon": "aggron-mega",
+        "showdown": "aggronmega",
+        "showdownDef": "Aggron-Mega",
         "serebii": "aggron",
         "bulbapedia": "Aggron",
         "homeSprite": "0306-mega",
-        "miniSprite": "0306-mega",
-        "showdown": "aggronmega",
-        "showdownDef": "Aggron-Mega",
-        "smogon": "aggron-mega"
+        "miniSprite": "0306-mega"
     },
     "baseSpecies": "aggron",
     "baseForms": [

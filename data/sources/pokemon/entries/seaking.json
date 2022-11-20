@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "SEAKING",
         "veekunDb": "seaking",
+        "smogon": "seaking",
+        "showdown": "seaking",
+        "showdownDef": "Seaking",
         "serebii": "seaking",
         "bulbapedia": "Seaking",
         "homeSprite": "0119",
-        "miniSprite": "0119",
-        "showdown": "seaking",
-        "showdownDef": "Seaking",
-        "smogon": "seaking"
+        "miniSprite": "0119"
     },
     "baseSpecies": null,
     "baseForms": [],

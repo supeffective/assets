@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "COTTONEE",
         "veekunDb": "cottonee",
+        "smogon": "cottonee",
+        "showdown": "cottonee",
+        "showdownDef": "Cottonee",
         "serebii": "cottonee",
         "bulbapedia": "Cottonee",
         "homeSprite": "0546",
-        "miniSprite": "0546",
-        "showdown": "cottonee",
-        "showdownDef": "Cottonee",
-        "smogon": "cottonee"
+        "miniSprite": "0546"
     },
     "baseSpecies": null,
     "baseForms": [],

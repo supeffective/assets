@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "INCINEROAR",
         "veekunDb": "incineroar",
+        "smogon": "incineroar",
+        "showdown": "incineroar",
+        "showdownDef": "Incineroar",
         "serebii": "incineroar",
         "bulbapedia": "Incineroar",
         "homeSprite": "0727",
-        "miniSprite": "0727",
-        "showdown": "incineroar",
-        "showdownDef": "Incineroar",
-        "smogon": "incineroar"
+        "miniSprite": "0727"
     },
     "baseSpecies": null,
     "baseForms": [],

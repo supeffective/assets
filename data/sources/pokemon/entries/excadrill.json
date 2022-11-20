@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "EXCADRILL",
         "veekunDb": "excadrill",
+        "smogon": "excadrill",
+        "showdown": "excadrill",
+        "showdownDef": "Excadrill",
         "serebii": "excadrill",
         "bulbapedia": "Excadrill",
         "homeSprite": "0530",
-        "miniSprite": "0530",
-        "showdown": "excadrill",
-        "showdownDef": "Excadrill",
-        "smogon": "excadrill"
+        "miniSprite": "0530"
     },
     "baseSpecies": null,
     "baseForms": [],

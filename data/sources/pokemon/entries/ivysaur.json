@@ -106,13 +106,13 @@
     "refs": {
         "pogo": "IVYSAUR",
         "veekunDb": "ivysaur",
+        "smogon": "ivysaur",
+        "showdown": "ivysaur",
+        "showdownDef": "Ivysaur",
         "serebii": "ivysaur",
         "bulbapedia": "Ivysaur",
         "homeSprite": "0002",
-        "miniSprite": "0002",
-        "showdown": "ivysaur",
-        "showdownDef": "Ivysaur",
-        "smogon": "ivysaur"
+        "miniSprite": "0002"
     },
     "baseSpecies": null,
     "baseForms": [],

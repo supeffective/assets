@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "SHIELDON",
         "veekunDb": "shieldon",
+        "smogon": "shieldon",
+        "showdown": "shieldon",
+        "showdownDef": "Shieldon",
         "serebii": "shieldon",
         "bulbapedia": "Shieldon",
         "homeSprite": "0410",
-        "miniSprite": "0410",
-        "showdown": "shieldon",
-        "showdownDef": "Shieldon",
-        "smogon": "shieldon"
+        "miniSprite": "0410"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -99,13 +99,13 @@
     "refs": {
         "pogo": "STANTLER",
         "veekunDb": "stantler",
+        "smogon": "stantler",
+        "showdown": "stantler",
+        "showdownDef": "Stantler",
         "serebii": "stantler",
         "bulbapedia": "Stantler",
         "homeSprite": "0234",
-        "miniSprite": "0234",
-        "showdown": "stantler",
-        "showdownDef": "Stantler",
-        "smogon": "stantler"
+        "miniSprite": "0234"
     },
     "baseSpecies": null,
     "baseForms": [],

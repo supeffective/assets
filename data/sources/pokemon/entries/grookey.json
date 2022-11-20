@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "GROOKEY",
         "veekunDb": "grookey",
+        "smogon": "grookey",
+        "showdown": "grookey",
+        "showdownDef": "Grookey",
         "serebii": "grookey",
         "bulbapedia": "Grookey",
         "homeSprite": "0810",
-        "miniSprite": "0810",
-        "showdown": "grookey",
-        "showdownDef": "Grookey",
-        "smogon": "grookey"
+        "miniSprite": "0810"
     },
     "baseSpecies": null,
     "baseForms": [],

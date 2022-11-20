@@ -105,13 +105,13 @@
     "refs": {
         "pogo": "NINETALES",
         "veekunDb": "ninetales",
+        "smogon": "ninetales",
+        "showdown": "ninetales",
+        "showdownDef": "Ninetales",
         "serebii": "ninetales",
         "bulbapedia": "Ninetales",
         "homeSprite": "0038",
-        "miniSprite": "0038",
-        "showdown": "ninetales",
-        "showdownDef": "Ninetales",
-        "smogon": "ninetales"
+        "miniSprite": "0038"
     },
     "baseSpecies": null,
     "baseForms": [],

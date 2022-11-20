@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "SQUIRTLE",
         "veekunDb": "squirtle",
+        "smogon": "squirtle",
+        "showdown": "squirtle",
+        "showdownDef": "Squirtle",
         "serebii": "squirtle",
         "bulbapedia": "Squirtle",
         "homeSprite": "0007",
-        "miniSprite": "0007",
-        "showdown": "squirtle",
-        "showdownDef": "Squirtle",
-        "smogon": "squirtle"
+        "miniSprite": "0007"
     },
     "baseSpecies": null,
     "baseForms": [],

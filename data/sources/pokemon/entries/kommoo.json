@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "KOMMO_O",
         "veekunDb": "kommoo",
+        "smogon": "kommoo",
+        "showdown": "kommoo",
+        "showdownDef": "Kommoo",
         "serebii": "kommoo",
         "bulbapedia": "Kommo-o",
         "homeSprite": "0784",
-        "miniSprite": "0784",
-        "showdown": "kommoo",
-        "showdownDef": "Kommoo",
-        "smogon": "kommoo"
+        "miniSprite": "0784"
     },
     "baseSpecies": null,
     "baseForms": [],

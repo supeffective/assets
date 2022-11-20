@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "ROGGENROLA",
         "veekunDb": "roggenrola",
+        "smogon": "roggenrola",
+        "showdown": "roggenrola",
+        "showdownDef": "Roggenrola",
         "serebii": "roggenrola",
         "bulbapedia": "Roggenrola",
         "homeSprite": "0524",
-        "miniSprite": "0524",
-        "showdown": "roggenrola",
-        "showdownDef": "Roggenrola",
-        "smogon": "roggenrola"
+        "miniSprite": "0524"
     },
     "baseSpecies": null,
     "baseForms": [],

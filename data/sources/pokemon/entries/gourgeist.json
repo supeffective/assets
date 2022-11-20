@@ -85,13 +85,13 @@
     "refs": {
         "pogo": "GOURGEIST",
         "veekunDb": "gourgeist",
+        "smogon": "gourgeist",
+        "showdown": "gourgeist",
+        "showdownDef": "Gourgeist",
         "serebii": "gourgeist",
         "bulbapedia": "Gourgeist",
         "homeSprite": "0711",
-        "miniSprite": "0711",
-        "showdown": "gourgeist",
-        "showdownDef": "Gourgeist",
-        "smogon": "gourgeist"
+        "miniSprite": "0711"
     },
     "baseSpecies": null,
     "baseForms": [],

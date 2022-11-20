@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "ARCANINE",
         "veekunDb": "arcanine",
+        "smogon": "arcanine",
+        "showdown": "arcanine",
+        "showdownDef": "Arcanine",
         "serebii": "arcanine",
         "bulbapedia": "Arcanine",
         "homeSprite": "0059",
-        "miniSprite": "0059",
-        "showdown": "arcanine",
-        "showdownDef": "Arcanine",
-        "smogon": "arcanine"
+        "miniSprite": "0059"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -92,13 +92,13 @@
     "refs": {
         "pogo": "DEOXYS",
         "veekunDb": "deoxys",
+        "smogon": "deoxys",
+        "showdown": "deoxys",
+        "showdownDef": "Deoxys",
         "serebii": "deoxys",
         "bulbapedia": "Deoxys",
         "homeSprite": "0386",
-        "miniSprite": "0386",
-        "showdown": "deoxys",
-        "showdownDef": "Deoxys",
-        "smogon": "deoxys"
+        "miniSprite": "0386"
     },
     "baseSpecies": null,
     "baseForms": [],

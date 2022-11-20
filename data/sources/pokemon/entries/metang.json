@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "METANG",
         "veekunDb": "metang",
+        "smogon": "metang",
+        "showdown": "metang",
+        "showdownDef": "Metang",
         "serebii": "metang",
         "bulbapedia": "Metang",
         "homeSprite": "0375",
-        "miniSprite": "0375",
-        "showdown": "metang",
-        "showdownDef": "Metang",
-        "smogon": "metang"
+        "miniSprite": "0375"
     },
     "baseSpecies": null,
     "baseForms": [],

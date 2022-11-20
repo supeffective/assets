@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "MEOWTH",
         "veekunDb": "meowth",
+        "smogon": "meowth",
+        "showdown": "meowth",
+        "showdownDef": "Meowth",
         "serebii": "meowth",
         "bulbapedia": "Meowth",
         "homeSprite": "0052",
-        "miniSprite": "0052",
-        "showdown": "meowth",
-        "showdownDef": "Meowth",
-        "smogon": "meowth"
+        "miniSprite": "0052"
     },
     "baseSpecies": null,
     "baseForms": [],

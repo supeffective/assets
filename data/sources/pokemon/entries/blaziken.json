@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "BLAZIKEN",
         "veekunDb": "blaziken",
+        "smogon": "blaziken",
+        "showdown": "blaziken",
+        "showdownDef": "Blaziken",
         "serebii": "blaziken",
         "bulbapedia": "Blaziken",
         "homeSprite": "0257",
-        "miniSprite": "0257",
-        "showdown": "blaziken",
-        "showdownDef": "Blaziken",
-        "smogon": "blaziken"
+        "miniSprite": "0257"
     },
     "baseSpecies": null,
     "baseForms": [],

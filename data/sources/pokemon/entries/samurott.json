@@ -86,13 +86,13 @@
     "refs": {
         "pogo": "SAMUROTT",
         "veekunDb": "samurott",
+        "smogon": "samurott",
+        "showdown": "samurott",
+        "showdownDef": "Samurott",
         "serebii": "samurott",
         "bulbapedia": "Samurott",
         "homeSprite": "0503",
-        "miniSprite": "0503",
-        "showdown": "samurott",
-        "showdownDef": "Samurott",
-        "smogon": "samurott"
+        "miniSprite": "0503"
     },
     "baseSpecies": null,
     "baseForms": [],

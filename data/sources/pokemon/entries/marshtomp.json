@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "MARSHTOMP",
         "veekunDb": "marshtomp",
+        "smogon": "marshtomp",
+        "showdown": "marshtomp",
+        "showdownDef": "Marshtomp",
         "serebii": "marshtomp",
         "bulbapedia": "Marshtomp",
         "homeSprite": "0259",
-        "miniSprite": "0259",
-        "showdown": "marshtomp",
-        "showdownDef": "Marshtomp",
-        "smogon": "marshtomp"
+        "miniSprite": "0259"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "TRAPINCH",
         "veekunDb": "trapinch",
+        "smogon": "trapinch",
+        "showdown": "trapinch",
+        "showdownDef": "Trapinch",
         "serebii": "trapinch",
         "bulbapedia": "Trapinch",
         "homeSprite": "0328",
-        "miniSprite": "0328",
-        "showdown": "trapinch",
-        "showdownDef": "Trapinch",
-        "smogon": "trapinch"
+        "miniSprite": "0328"
     },
     "baseSpecies": null,
     "baseForms": [],

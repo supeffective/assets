@@ -86,13 +86,13 @@
     "refs": {
         "pogo": "PANSAGE",
         "veekunDb": "pansage",
+        "smogon": "pansage",
+        "showdown": "pansage",
+        "showdownDef": "Pansage",
         "serebii": "pansage",
         "bulbapedia": "Pansage",
         "homeSprite": "0511",
-        "miniSprite": "0511",
-        "showdown": "pansage",
-        "showdownDef": "Pansage",
-        "smogon": "pansage"
+        "miniSprite": "0511"
     },
     "baseSpecies": null,
     "baseForms": [],

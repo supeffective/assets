@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "PALKIA",
         "veekunDb": "palkia",
+        "smogon": "palkia",
+        "showdown": "palkia",
+        "showdownDef": "Palkia",
         "serebii": "palkia",
         "bulbapedia": "Palkia",
         "homeSprite": "0484",
-        "miniSprite": "0484",
-        "showdown": "palkia",
-        "showdownDef": "Palkia",
-        "smogon": "palkia"
+        "miniSprite": "0484"
     },
     "baseSpecies": null,
     "baseForms": [],

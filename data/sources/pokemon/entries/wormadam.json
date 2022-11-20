@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "WORMADAM",
         "veekunDb": "wormadam",
+        "smogon": "wormadam",
+        "showdown": "wormadam",
+        "showdownDef": "Wormadam",
         "serebii": "wormadam",
         "bulbapedia": "Wormadam",
         "homeSprite": "0413",
-        "miniSprite": "0413",
-        "showdown": "wormadam",
-        "showdownDef": "Wormadam",
-        "smogon": "wormadam"
+        "miniSprite": "0413"
     },
     "baseSpecies": null,
     "baseForms": [],

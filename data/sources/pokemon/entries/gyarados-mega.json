@@ -76,13 +76,13 @@
     "refs": {
         "pogo": "GYARADOS_MEGA",
         "veekunDb": "gyarados-mega",
+        "smogon": "gyarados-mega",
+        "showdown": "gyaradosmega",
+        "showdownDef": "Gyarados-Mega",
         "serebii": "gyarados",
         "bulbapedia": "Gyarados",
         "homeSprite": "0130-mega",
-        "miniSprite": "0130-mega",
-        "showdown": "gyaradosmega",
-        "showdownDef": "Gyarados-Mega",
-        "smogon": "gyarados-mega"
+        "miniSprite": "0130-mega"
     },
     "baseSpecies": "gyarados",
     "baseForms": [

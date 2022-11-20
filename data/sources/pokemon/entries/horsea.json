@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "HORSEA",
         "veekunDb": "horsea",
+        "smogon": "horsea",
+        "showdown": "horsea",
+        "showdownDef": "Horsea",
         "serebii": "horsea",
         "bulbapedia": "Horsea",
         "homeSprite": "0116",
-        "miniSprite": "0116",
-        "showdown": "horsea",
-        "showdownDef": "Horsea",
-        "smogon": "horsea"
+        "miniSprite": "0116"
     },
     "baseSpecies": null,
     "baseForms": [],

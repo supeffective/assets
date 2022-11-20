@@ -75,13 +75,13 @@
     "refs": {
         "pogo": "ORBEETLE_GMAX",
         "veekunDb": "orbeetle-gmax",
+        "smogon": "orbeetle-gmax",
+        "showdown": "orbeetlegmax",
+        "showdownDef": "Orbeetle-Gmax",
         "serebii": "orbeetle",
         "bulbapedia": "Orbeetle",
         "homeSprite": "0826-gmax",
-        "miniSprite": "0826-gmax",
-        "showdown": "orbeetlegmax",
-        "showdownDef": "Orbeetle-Gmax",
-        "smogon": "orbeetle-gmax"
+        "miniSprite": "0826-gmax"
     },
     "baseSpecies": "orbeetle",
     "baseForms": [

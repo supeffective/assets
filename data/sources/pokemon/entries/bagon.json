@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "BAGON",
         "veekunDb": "bagon",
+        "smogon": "bagon",
+        "showdown": "bagon",
+        "showdownDef": "Bagon",
         "serebii": "bagon",
         "bulbapedia": "Bagon",
         "homeSprite": "0371",
-        "miniSprite": "0371",
-        "showdown": "bagon",
-        "showdownDef": "Bagon",
-        "smogon": "bagon"
+        "miniSprite": "0371"
     },
     "baseSpecies": null,
     "baseForms": [],

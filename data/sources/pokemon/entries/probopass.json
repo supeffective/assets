@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "PROBOPASS",
         "veekunDb": "probopass",
+        "smogon": "probopass",
+        "showdown": "probopass",
+        "showdownDef": "Probopass",
         "serebii": "probopass",
         "bulbapedia": "Probopass",
         "homeSprite": "0476",
-        "miniSprite": "0476",
-        "showdown": "probopass",
-        "showdownDef": "Probopass",
-        "smogon": "probopass"
+        "miniSprite": "0476"
     },
     "baseSpecies": null,
     "baseForms": [],

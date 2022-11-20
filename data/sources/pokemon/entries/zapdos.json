@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "ZAPDOS",
         "veekunDb": "zapdos",
+        "smogon": "zapdos",
+        "showdown": "zapdos",
+        "showdownDef": "Zapdos",
         "serebii": "zapdos",
         "bulbapedia": "Zapdos",
         "homeSprite": "0145",
-        "miniSprite": "0145",
-        "showdown": "zapdos",
-        "showdownDef": "Zapdos",
-        "smogon": "zapdos"
+        "miniSprite": "0145"
     },
     "baseSpecies": null,
     "baseForms": [],

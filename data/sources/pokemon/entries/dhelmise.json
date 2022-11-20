@@ -82,13 +82,13 @@
     "refs": {
         "pogo": "DHELMISE",
         "veekunDb": "dhelmise",
+        "smogon": "dhelmise",
+        "showdown": "dhelmise",
+        "showdownDef": "Dhelmise",
         "serebii": "dhelmise",
         "bulbapedia": "Dhelmise",
         "homeSprite": "0781",
-        "miniSprite": "0781",
-        "showdown": "dhelmise",
-        "showdownDef": "Dhelmise",
-        "smogon": "dhelmise"
+        "miniSprite": "0781"
     },
     "baseSpecies": null,
     "baseForms": [],

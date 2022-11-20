@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "GASTRODON",
         "veekunDb": "gastrodon",
+        "smogon": "gastrodon",
+        "showdown": "gastrodon",
+        "showdownDef": "Gastrodon",
         "serebii": "gastrodon",
         "bulbapedia": "Gastrodon",
         "homeSprite": "0423",
-        "miniSprite": "0423",
-        "showdown": "gastrodon",
-        "showdownDef": "Gastrodon",
-        "smogon": "gastrodon"
+        "miniSprite": "0423"
     },
     "baseSpecies": null,
     "baseForms": [],

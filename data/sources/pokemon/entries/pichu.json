@@ -101,13 +101,13 @@
     "refs": {
         "pogo": "PICHU",
         "veekunDb": "pichu",
+        "smogon": "pichu",
+        "showdown": "pichu",
+        "showdownDef": "Pichu",
         "serebii": "pichu",
         "bulbapedia": "Pichu",
         "homeSprite": "0172",
-        "miniSprite": "0172",
-        "showdown": "pichu",
-        "showdownDef": "Pichu",
-        "smogon": "pichu"
+        "miniSprite": "0172"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "POLIWHIRL",
         "veekunDb": "poliwhirl",
+        "smogon": "poliwhirl",
+        "showdown": "poliwhirl",
+        "showdownDef": "Poliwhirl",
         "serebii": "poliwhirl",
         "bulbapedia": "Poliwhirl",
         "homeSprite": "0061",
-        "miniSprite": "0061",
-        "showdown": "poliwhirl",
-        "showdownDef": "Poliwhirl",
-        "smogon": "poliwhirl"
+        "miniSprite": "0061"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "CHATOT",
         "veekunDb": "chatot",
+        "smogon": "chatot",
+        "showdown": "chatot",
+        "showdownDef": "Chatot",
         "serebii": "chatot",
         "bulbapedia": "Chatot",
         "homeSprite": "0441",
-        "miniSprite": "0441",
-        "showdown": "chatot",
-        "showdownDef": "Chatot",
-        "smogon": "chatot"
+        "miniSprite": "0441"
     },
     "baseSpecies": null,
     "baseForms": [],

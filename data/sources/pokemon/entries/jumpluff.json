@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "JUMPLUFF",
         "veekunDb": "jumpluff",
+        "smogon": "jumpluff",
+        "showdown": "jumpluff",
+        "showdownDef": "Jumpluff",
         "serebii": "jumpluff",
         "bulbapedia": "Jumpluff",
         "homeSprite": "0189",
-        "miniSprite": "0189",
-        "showdown": "jumpluff",
-        "showdownDef": "Jumpluff",
-        "smogon": "jumpluff"
+        "miniSprite": "0189"
     },
     "baseSpecies": null,
     "baseForms": [],

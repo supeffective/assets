@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "SOBBLE",
         "veekunDb": "sobble",
+        "smogon": "sobble",
+        "showdown": "sobble",
+        "showdownDef": "Sobble",
         "serebii": "sobble",
         "bulbapedia": "Sobble",
         "homeSprite": "0816",
-        "miniSprite": "0816",
-        "showdown": "sobble",
-        "showdownDef": "Sobble",
-        "smogon": "sobble"
+        "miniSprite": "0816"
     },
     "baseSpecies": null,
     "baseForms": [],

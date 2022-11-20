@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "COPPERAJAH",
         "veekunDb": "copperajah",
+        "smogon": "copperajah",
+        "showdown": "copperajah",
+        "showdownDef": "Copperajah",
         "serebii": "copperajah",
         "bulbapedia": "Copperajah",
         "homeSprite": "0879",
-        "miniSprite": "0879",
-        "showdown": "copperajah",
-        "showdownDef": "Copperajah",
-        "smogon": "copperajah"
+        "miniSprite": "0879"
     },
     "baseSpecies": null,
     "baseForms": [],

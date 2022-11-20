@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "BURMY",
         "veekunDb": "burmy",
+        "smogon": "burmy",
+        "showdown": "burmy",
+        "showdownDef": "Burmy",
         "serebii": "burmy",
         "bulbapedia": "Burmy",
         "homeSprite": "0412",
-        "miniSprite": "0412",
-        "showdown": "burmy",
-        "showdownDef": "Burmy",
-        "smogon": "burmy"
+        "miniSprite": "0412"
     },
     "baseSpecies": null,
     "baseForms": [],

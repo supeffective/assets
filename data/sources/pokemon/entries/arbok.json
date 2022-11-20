@@ -101,13 +101,13 @@
     "refs": {
         "pogo": "ARBOK",
         "veekunDb": "arbok",
+        "smogon": "arbok",
+        "showdown": "arbok",
+        "showdownDef": "Arbok",
         "serebii": "arbok",
         "bulbapedia": "Arbok",
         "homeSprite": "0024",
-        "miniSprite": "0024",
-        "showdown": "arbok",
-        "showdownDef": "Arbok",
-        "smogon": "arbok"
+        "miniSprite": "0024"
     },
     "baseSpecies": null,
     "baseForms": [],

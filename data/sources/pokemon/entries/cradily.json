@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "CRADILY",
         "veekunDb": "cradily",
+        "smogon": "cradily",
+        "showdown": "cradily",
+        "showdownDef": "Cradily",
         "serebii": "cradily",
         "bulbapedia": "Cradily",
         "homeSprite": "0346",
-        "miniSprite": "0346",
-        "showdown": "cradily",
-        "showdownDef": "Cradily",
-        "smogon": "cradily"
+        "miniSprite": "0346"
     },
     "baseSpecies": null,
     "baseForms": [],

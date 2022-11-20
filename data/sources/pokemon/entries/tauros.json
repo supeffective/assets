@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "TAUROS",
         "veekunDb": "tauros",
+        "smogon": "tauros",
+        "showdown": "tauros",
+        "showdownDef": "Tauros",
         "serebii": "tauros",
         "bulbapedia": "Tauros",
         "homeSprite": "0128",
-        "miniSprite": "0128",
-        "showdown": "tauros",
-        "showdownDef": "Tauros",
-        "smogon": "tauros"
+        "miniSprite": "0128"
     },
     "baseSpecies": null,
     "baseForms": [],

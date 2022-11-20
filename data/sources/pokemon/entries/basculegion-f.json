@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "BASCULEGION_FEMALE",
         "veekunDb": "basculegion-f",
+        "smogon": "basculegion-f",
+        "showdown": "basculegionf",
+        "showdownDef": "Basculegion-F",
         "serebii": "basculegion",
         "bulbapedia": "Basculegion",
         "homeSprite": "0902-f",
-        "miniSprite": "0902-f",
-        "showdown": "basculegionf",
-        "showdownDef": "Basculegion-F",
-        "smogon": "basculegion-f"
+        "miniSprite": "0902-f"
     },
     "baseSpecies": "basculegion",
     "baseForms": [],

@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "CHEWTLE",
         "veekunDb": "chewtle",
+        "smogon": "chewtle",
+        "showdown": "chewtle",
+        "showdownDef": "Chewtle",
         "serebii": "chewtle",
         "bulbapedia": "Chewtle",
         "homeSprite": "0833",
-        "miniSprite": "0833",
-        "showdown": "chewtle",
-        "showdownDef": "Chewtle",
-        "smogon": "chewtle"
+        "miniSprite": "0833"
     },
     "baseSpecies": null,
     "baseForms": [],

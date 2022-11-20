@@ -105,13 +105,13 @@
     "refs": {
         "pogo": "MACHOKE",
         "veekunDb": "machoke",
+        "smogon": "machoke",
+        "showdown": "machoke",
+        "showdownDef": "Machoke",
         "serebii": "machoke",
         "bulbapedia": "Machoke",
         "homeSprite": "0067",
-        "miniSprite": "0067",
-        "showdown": "machoke",
-        "showdownDef": "Machoke",
-        "smogon": "machoke"
+        "miniSprite": "0067"
     },
     "baseSpecies": null,
     "baseForms": [],

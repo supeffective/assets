@@ -75,13 +75,13 @@
     "refs": {
         "pogo": "MELOETTA_PIROUETTE",
         "veekunDb": "meloetta-pirouette",
+        "smogon": "meloetta-pirouette",
+        "showdown": "meloettapirouette",
+        "showdownDef": "Meloetta-Pirouette",
         "serebii": "meloetta",
         "bulbapedia": "Meloetta",
         "homeSprite": "0648-pirouette",
-        "miniSprite": "0648-pirouette",
-        "showdown": "meloettapirouette",
-        "showdownDef": "Meloetta-Pirouette",
-        "smogon": "meloetta-pirouette"
+        "miniSprite": "0648-pirouette"
     },
     "baseSpecies": "meloetta",
     "baseForms": [

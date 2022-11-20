@@ -99,13 +99,13 @@
     "refs": {
         "pogo": "CYNDAQUIL",
         "veekunDb": "cyndaquil",
+        "smogon": "cyndaquil",
+        "showdown": "cyndaquil",
+        "showdownDef": "Cyndaquil",
         "serebii": "cyndaquil",
         "bulbapedia": "Cyndaquil",
         "homeSprite": "0155",
-        "miniSprite": "0155",
-        "showdown": "cyndaquil",
-        "showdownDef": "Cyndaquil",
-        "smogon": "cyndaquil"
+        "miniSprite": "0155"
     },
     "baseSpecies": null,
     "baseForms": [],

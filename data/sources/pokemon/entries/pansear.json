@@ -86,13 +86,13 @@
     "refs": {
         "pogo": "PANSEAR",
         "veekunDb": "pansear",
+        "smogon": "pansear",
+        "showdown": "pansear",
+        "showdownDef": "Pansear",
         "serebii": "pansear",
         "bulbapedia": "Pansear",
         "homeSprite": "0513",
-        "miniSprite": "0513",
-        "showdown": "pansear",
-        "showdownDef": "Pansear",
-        "smogon": "pansear"
+        "miniSprite": "0513"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -80,13 +80,13 @@
     "refs": {
         "pogo": "MR_RIME",
         "veekunDb": "mrrime",
+        "smogon": "mrrime",
+        "showdown": "mrrime",
+        "showdownDef": "Mrrime",
         "serebii": "mrrime",
         "bulbapedia": "Mr. Rime",
         "homeSprite": "0866",
-        "miniSprite": "0866",
-        "showdown": "mrrime",
-        "showdownDef": "Mrrime",
-        "smogon": "mrrime"
+        "miniSprite": "0866"
     },
     "baseSpecies": null,
     "baseForms": [],

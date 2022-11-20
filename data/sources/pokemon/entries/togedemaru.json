@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "TOGEDEMARU",
         "veekunDb": "togedemaru",
+        "smogon": "togedemaru",
+        "showdown": "togedemaru",
+        "showdownDef": "Togedemaru",
         "serebii": "togedemaru",
         "bulbapedia": "Togedemaru",
         "homeSprite": "0777",
-        "miniSprite": "0777",
-        "showdown": "togedemaru",
-        "showdownDef": "Togedemaru",
-        "smogon": "togedemaru"
+        "miniSprite": "0777"
     },
     "baseSpecies": null,
     "baseForms": [],

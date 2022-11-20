@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "LOUDRED",
         "veekunDb": "loudred",
+        "smogon": "loudred",
+        "showdown": "loudred",
+        "showdownDef": "Loudred",
         "serebii": "loudred",
         "bulbapedia": "Loudred",
         "homeSprite": "0294",
-        "miniSprite": "0294",
-        "showdown": "loudred",
-        "showdownDef": "Loudred",
-        "smogon": "loudred"
+        "miniSprite": "0294"
     },
     "baseSpecies": null,
     "baseForms": [],

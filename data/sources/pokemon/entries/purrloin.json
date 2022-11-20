@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "PURRLOIN",
         "veekunDb": "purrloin",
+        "smogon": "purrloin",
+        "showdown": "purrloin",
+        "showdownDef": "Purrloin",
         "serebii": "purrloin",
         "bulbapedia": "Purrloin",
         "homeSprite": "0509",
-        "miniSprite": "0509",
-        "showdown": "purrloin",
-        "showdownDef": "Purrloin",
-        "smogon": "purrloin"
+        "miniSprite": "0509"
     },
     "baseSpecies": null,
     "baseForms": [],

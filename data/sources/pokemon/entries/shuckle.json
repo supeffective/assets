@@ -99,13 +99,13 @@
     "refs": {
         "pogo": "SHUCKLE",
         "veekunDb": "shuckle",
+        "smogon": "shuckle",
+        "showdown": "shuckle",
+        "showdownDef": "Shuckle",
         "serebii": "shuckle",
         "bulbapedia": "Shuckle",
         "homeSprite": "0213",
-        "miniSprite": "0213",
-        "showdown": "shuckle",
-        "showdownDef": "Shuckle",
-        "smogon": "shuckle"
+        "miniSprite": "0213"
     },
     "baseSpecies": null,
     "baseForms": [],

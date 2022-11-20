@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "URSHIFU_RAPID_STRIKE",
         "veekunDb": "urshifu-rapid-strike",
+        "smogon": "urshifu-rapid-strike",
+        "showdown": "urshifurapidstrike",
+        "showdownDef": "Urshifu-Rapid-Strike",
         "serebii": "urshifu",
         "bulbapedia": "Urshifu",
         "homeSprite": "0892-rapid-strike",
-        "miniSprite": "0892",
-        "showdown": "urshifurapidstrike",
-        "showdownDef": "Urshifu-Rapid-Strike",
-        "smogon": "urshifu-rapid-strike"
+        "miniSprite": "0892"
     },
     "baseSpecies": "urshifu",
     "baseForms": [],

@@ -75,13 +75,13 @@
     "refs": {
         "pogo": "SANDACONDA_GMAX",
         "veekunDb": "sandaconda-gmax",
+        "smogon": "sandaconda-gmax",
+        "showdown": "sandacondagmax",
+        "showdownDef": "Sandaconda-Gmax",
         "serebii": "sandaconda",
         "bulbapedia": "Sandaconda",
         "homeSprite": "0844-gmax",
-        "miniSprite": "0844-gmax",
-        "showdown": "sandacondagmax",
-        "showdownDef": "Sandaconda-Gmax",
-        "smogon": "sandaconda-gmax"
+        "miniSprite": "0844-gmax"
     },
     "baseSpecies": "sandaconda",
     "baseForms": [

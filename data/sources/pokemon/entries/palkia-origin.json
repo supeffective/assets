@@ -77,13 +77,13 @@
     "refs": {
         "pogo": null,
         "veekunDb": null,
+        "smogon": "palkia-origin",
+        "showdown": "palkiaorigin",
+        "showdownDef": "Palkia-Origin",
         "serebii": "palkia",
         "bulbapedia": "Palkia",
         "homeSprite": "0484-origin",
-        "miniSprite": "0484-origin",
-        "showdown": "palkiaorigin",
-        "showdownDef": "Palkia-Origin",
-        "smogon": "palkia-origin"
+        "miniSprite": "0484-origin"
     },
     "baseSpecies": "palkia",
     "baseForms": [],

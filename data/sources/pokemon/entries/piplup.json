@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "PIPLUP",
         "veekunDb": "piplup",
+        "smogon": "piplup",
+        "showdown": "piplup",
+        "showdownDef": "Piplup",
         "serebii": "piplup",
         "bulbapedia": "Piplup",
         "homeSprite": "0393",
-        "miniSprite": "0393",
-        "showdown": "piplup",
-        "showdownDef": "Piplup",
-        "smogon": "piplup"
+        "miniSprite": "0393"
     },
     "baseSpecies": null,
     "baseForms": [],

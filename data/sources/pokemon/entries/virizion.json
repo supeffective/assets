@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "VIRIZION",
         "veekunDb": "virizion",
+        "smogon": "virizion",
+        "showdown": "virizion",
+        "showdownDef": "Virizion",
         "serebii": "virizion",
         "bulbapedia": "Virizion",
         "homeSprite": "0640",
-        "miniSprite": "0640",
-        "showdown": "virizion",
-        "showdownDef": "Virizion",
-        "smogon": "virizion"
+        "miniSprite": "0640"
     },
     "baseSpecies": null,
     "baseForms": [],

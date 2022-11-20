@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "KLINKLANG",
         "veekunDb": "klinklang",
+        "smogon": "klinklang",
+        "showdown": "klinklang",
+        "showdownDef": "Klinklang",
         "serebii": "klinklang",
         "bulbapedia": "Klinklang",
         "homeSprite": "0601",
-        "miniSprite": "0601",
-        "showdown": "klinklang",
-        "showdownDef": "Klinklang",
-        "smogon": "klinklang"
+        "miniSprite": "0601"
     },
     "baseSpecies": null,
     "baseForms": [],

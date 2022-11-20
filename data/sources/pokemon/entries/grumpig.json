@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "GRUMPIG",
         "veekunDb": "grumpig",
+        "smogon": "grumpig",
+        "showdown": "grumpig",
+        "showdownDef": "Grumpig",
         "serebii": "grumpig",
         "bulbapedia": "Grumpig",
         "homeSprite": "0326",
-        "miniSprite": "0326",
-        "showdown": "grumpig",
-        "showdownDef": "Grumpig",
-        "smogon": "grumpig"
+        "miniSprite": "0326"
     },
     "baseSpecies": null,
     "baseForms": [],

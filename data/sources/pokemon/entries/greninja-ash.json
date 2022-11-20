@@ -78,13 +78,13 @@
     "refs": {
         "pogo": null,
         "veekunDb": "greninja-ash",
+        "smogon": "greninja-ash",
+        "showdown": "greninjaash",
+        "showdownDef": "Greninja-Ash",
         "serebii": "greninja",
         "bulbapedia": "Greninja",
         "homeSprite": "0658-ash",
-        "miniSprite": "0658-ash",
-        "showdown": "greninjaash",
-        "showdownDef": "Greninja-Ash",
-        "smogon": "greninja-ash"
+        "miniSprite": "0658-ash"
     },
     "baseSpecies": "greninja",
     "baseForms": [

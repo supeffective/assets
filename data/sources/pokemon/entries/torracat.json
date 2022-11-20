@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "TORRACAT",
         "veekunDb": "torracat",
+        "smogon": "torracat",
+        "showdown": "torracat",
+        "showdownDef": "Torracat",
         "serebii": "torracat",
         "bulbapedia": "Torracat",
         "homeSprite": "0726",
-        "miniSprite": "0726",
-        "showdown": "torracat",
-        "showdownDef": "Torracat",
-        "smogon": "torracat"
+        "miniSprite": "0726"
     },
     "baseSpecies": null,
     "baseForms": [],

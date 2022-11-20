@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "GOREBYSS",
         "veekunDb": "gorebyss",
+        "smogon": "gorebyss",
+        "showdown": "gorebyss",
+        "showdownDef": "Gorebyss",
         "serebii": "gorebyss",
         "bulbapedia": "Gorebyss",
         "homeSprite": "0368",
-        "miniSprite": "0368",
-        "showdown": "gorebyss",
-        "showdownDef": "Gorebyss",
-        "smogon": "gorebyss"
+        "miniSprite": "0368"
     },
     "baseSpecies": null,
     "baseForms": [],

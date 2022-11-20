@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "DRIFBLIM",
         "veekunDb": "drifblim",
+        "smogon": "drifblim",
+        "showdown": "drifblim",
+        "showdownDef": "Drifblim",
         "serebii": "drifblim",
         "bulbapedia": "Drifblim",
         "homeSprite": "0426",
-        "miniSprite": "0426",
-        "showdown": "drifblim",
-        "showdownDef": "Drifblim",
-        "smogon": "drifblim"
+        "miniSprite": "0426"
     },
     "baseSpecies": null,
     "baseForms": [],

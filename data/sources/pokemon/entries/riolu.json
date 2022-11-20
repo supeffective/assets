@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "RIOLU",
         "veekunDb": "riolu",
+        "smogon": "riolu",
+        "showdown": "riolu",
+        "showdownDef": "Riolu",
         "serebii": "riolu",
         "bulbapedia": "Riolu",
         "homeSprite": "0447",
-        "miniSprite": "0447",
-        "showdown": "riolu",
-        "showdownDef": "Riolu",
-        "smogon": "riolu"
+        "miniSprite": "0447"
     },
     "baseSpecies": null,
     "baseForms": [],

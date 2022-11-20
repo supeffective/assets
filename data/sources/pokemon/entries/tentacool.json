@@ -105,13 +105,13 @@
     "refs": {
         "pogo": "TENTACOOL",
         "veekunDb": "tentacool",
+        "smogon": "tentacool",
+        "showdown": "tentacool",
+        "showdownDef": "Tentacool",
         "serebii": "tentacool",
         "bulbapedia": "Tentacool",
         "homeSprite": "0072",
-        "miniSprite": "0072",
-        "showdown": "tentacool",
-        "showdownDef": "Tentacool",
-        "smogon": "tentacool"
+        "miniSprite": "0072"
     },
     "baseSpecies": null,
     "baseForms": [],

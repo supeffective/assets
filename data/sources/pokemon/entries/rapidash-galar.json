@@ -80,13 +80,13 @@
     "refs": {
         "pogo": "RAPIDASH_GALARIAN",
         "veekunDb": "rapidash-galar",
+        "smogon": "rapidash-galar",
+        "showdown": "rapidashgalar",
+        "showdownDef": "Rapidash-Galar",
         "serebii": "rapidash",
         "bulbapedia": "Rapidash",
         "homeSprite": "0078-galar",
-        "miniSprite": "0078-galar",
-        "showdown": "rapidashgalar",
-        "showdownDef": "Rapidash-Galar",
-        "smogon": "rapidash-galar"
+        "miniSprite": "0078-galar"
     },
     "baseSpecies": "rapidash",
     "baseForms": [],

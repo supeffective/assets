@@ -86,13 +86,13 @@
     "refs": {
         "pogo": "TEPIG",
         "veekunDb": "tepig",
+        "smogon": "tepig",
+        "showdown": "tepig",
+        "showdownDef": "Tepig",
         "serebii": "tepig",
         "bulbapedia": "Tepig",
         "homeSprite": "0498",
-        "miniSprite": "0498",
-        "showdown": "tepig",
-        "showdownDef": "Tepig",
-        "smogon": "tepig"
+        "miniSprite": "0498"
     },
     "baseSpecies": null,
     "baseForms": [],

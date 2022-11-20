@@ -81,13 +81,13 @@
     "refs": {
         "pogo": "SILVALLY_GHOST",
         "veekunDb": "silvally-ghost",
+        "smogon": "silvally-ghost",
+        "showdown": "silvallyghost",
+        "showdownDef": "Silvally-Ghost",
         "serebii": "silvally",
         "bulbapedia": "Silvally",
         "homeSprite": "0773-ghost",
-        "miniSprite": "0773-ghost",
-        "showdown": "silvallyghost",
-        "showdownDef": "Silvally-Ghost",
-        "smogon": "silvally-ghost"
+        "miniSprite": "0773-ghost"
     },
     "baseSpecies": "silvally",
     "baseForms": [

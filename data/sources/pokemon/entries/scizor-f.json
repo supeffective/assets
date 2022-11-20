@@ -94,13 +94,13 @@
     "refs": {
         "pogo": "SCIZOR",
         "veekunDb": "scizor",
+        "smogon": "scizor",
+        "showdown": "scizor",
+        "showdownDef": "Scizor",
         "serebii": "scizor",
         "bulbapedia": "Scizor",
         "homeSprite": "0212-f",
-        "miniSprite": "0212",
-        "showdown": "scizor",
-        "showdownDef": "Scizor",
-        "smogon": "scizor"
+        "miniSprite": "0212"
     },
     "baseSpecies": "scizor",
     "baseForms": [],

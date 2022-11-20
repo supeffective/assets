@@ -99,13 +99,13 @@
     "refs": {
         "pogo": "WOOPER",
         "veekunDb": "wooper",
+        "smogon": "wooper",
+        "showdown": "wooper",
+        "showdownDef": "Wooper",
         "serebii": "wooper",
         "bulbapedia": "Wooper",
         "homeSprite": "0194",
-        "miniSprite": "0194",
-        "showdown": "wooper",
-        "showdownDef": "Wooper",
-        "smogon": "wooper"
+        "miniSprite": "0194"
     },
     "baseSpecies": null,
     "baseForms": [],

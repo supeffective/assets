@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "HOUNDOUR",
         "veekunDb": "houndour",
+        "smogon": "houndour",
+        "showdown": "houndour",
+        "showdownDef": "Houndour",
         "serebii": "houndour",
         "bulbapedia": "Houndour",
         "homeSprite": "0228",
-        "miniSprite": "0228",
-        "showdown": "houndour",
-        "showdownDef": "Houndour",
-        "smogon": "houndour"
+        "miniSprite": "0228"
     },
     "baseSpecies": null,
     "baseForms": [],

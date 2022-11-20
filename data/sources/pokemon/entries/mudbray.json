@@ -82,13 +82,13 @@
     "refs": {
         "pogo": "MUDBRAY",
         "veekunDb": "mudbray",
+        "smogon": "mudbray",
+        "showdown": "mudbray",
+        "showdownDef": "Mudbray",
         "serebii": "mudbray",
         "bulbapedia": "Mudbray",
         "homeSprite": "0749",
-        "miniSprite": "0749",
-        "showdown": "mudbray",
-        "showdownDef": "Mudbray",
-        "smogon": "mudbray"
+        "miniSprite": "0749"
     },
     "baseSpecies": null,
     "baseForms": [],

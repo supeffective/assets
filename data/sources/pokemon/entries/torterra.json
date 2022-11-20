@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "TORTERRA",
         "veekunDb": "torterra",
+        "smogon": "torterra",
+        "showdown": "torterra",
+        "showdownDef": "Torterra",
         "serebii": "torterra",
         "bulbapedia": "Torterra",
         "homeSprite": "0389",
-        "miniSprite": "0389",
-        "showdown": "torterra",
-        "showdownDef": "Torterra",
-        "smogon": "torterra"
+        "miniSprite": "0389"
     },
     "baseSpecies": null,
     "baseForms": [],

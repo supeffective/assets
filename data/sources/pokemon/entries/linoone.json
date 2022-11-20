@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "LINOONE",
         "veekunDb": "linoone",
+        "smogon": "linoone",
+        "showdown": "linoone",
+        "showdownDef": "Linoone",
         "serebii": "linoone",
         "bulbapedia": "Linoone",
         "homeSprite": "0264",
-        "miniSprite": "0264",
-        "showdown": "linoone",
-        "showdownDef": "Linoone",
-        "smogon": "linoone"
+        "miniSprite": "0264"
     },
     "baseSpecies": null,
     "baseForms": [],

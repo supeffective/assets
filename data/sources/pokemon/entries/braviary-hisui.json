@@ -80,13 +80,13 @@
     "refs": {
         "pogo": "BRAVIARY_HISUIAN",
         "veekunDb": null,
+        "smogon": "braviary-hisui",
+        "showdown": "braviaryhisui",
+        "showdownDef": "Braviary-Hisui",
         "serebii": "braviary",
         "bulbapedia": "Braviary",
         "homeSprite": "0628-hisui",
-        "miniSprite": "0628-hisui",
-        "showdown": "braviaryhisui",
-        "showdownDef": "Braviary-Hisui",
-        "smogon": "braviary-hisui"
+        "miniSprite": "0628-hisui"
     },
     "baseSpecies": "braviary",
     "baseForms": [],

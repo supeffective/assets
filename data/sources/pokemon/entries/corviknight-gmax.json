@@ -75,13 +75,13 @@
     "refs": {
         "pogo": "CORVIKNIGHT_GMAX",
         "veekunDb": "corviknight-gmax",
+        "smogon": "corviknight-gmax",
+        "showdown": "corviknightgmax",
+        "showdownDef": "Corviknight-Gmax",
         "serebii": "corviknight",
         "bulbapedia": "Corviknight",
         "homeSprite": "0823-gmax",
-        "miniSprite": "0823-gmax",
-        "showdown": "corviknightgmax",
-        "showdownDef": "Corviknight-Gmax",
-        "smogon": "corviknight-gmax"
+        "miniSprite": "0823-gmax"
     },
     "baseSpecies": "corviknight",
     "baseForms": [

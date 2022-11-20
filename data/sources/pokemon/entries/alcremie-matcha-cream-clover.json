@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "ALCREMIE_MATCHA_CREAM_CLOVER",
         "veekunDb": "alcremie-matcha-cream-clover",
+        "smogon": "alcremie-matcha-cream-clover",
+        "showdown": "alcremie",
+        "showdownDef": "Alcremie-Matcha-Cream-Clover",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "0869-matcha-cream-clover",
-        "miniSprite": "0869-matcha-cream-clover",
-        "showdown": "alcremie",
-        "showdownDef": "Alcremie-Matcha-Cream-Clover",
-        "smogon": "alcremie-matcha-cream-clover"
+        "miniSprite": "0869-matcha-cream-clover"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

@@ -76,13 +76,13 @@
     "refs": {
         "pogo": "SCIZOR_MEGA",
         "veekunDb": "scizor-mega",
+        "smogon": "scizor-mega",
+        "showdown": "scizormega",
+        "showdownDef": "Scizor-Mega",
         "serebii": "scizor",
         "bulbapedia": "Scizor",
         "homeSprite": "0212-mega",
-        "miniSprite": "0212-mega",
-        "showdown": "scizormega",
-        "showdownDef": "Scizor-Mega",
-        "smogon": "scizor-mega"
+        "miniSprite": "0212-mega"
     },
     "baseSpecies": "scizor",
     "baseForms": [

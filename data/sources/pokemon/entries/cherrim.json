@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "CHERRIM",
         "veekunDb": "cherrim",
+        "smogon": "cherrim",
+        "showdown": "cherrim",
+        "showdownDef": "Cherrim",
         "serebii": "cherrim",
         "bulbapedia": "Cherrim",
         "homeSprite": "0421",
-        "miniSprite": "0421",
-        "showdown": "cherrim",
-        "showdownDef": "Cherrim",
-        "smogon": "cherrim"
+        "miniSprite": "0421"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -76,13 +76,13 @@
     "refs": {
         "pogo": "GARDEVOIR_MEGA",
         "veekunDb": "gardevoir-mega",
+        "smogon": "gardevoir-mega",
+        "showdown": "gardevoirmega",
+        "showdownDef": "Gardevoir-Mega",
         "serebii": "gardevoir",
         "bulbapedia": "Gardevoir",
         "homeSprite": "0282-mega",
-        "miniSprite": "0282-mega",
-        "showdown": "gardevoirmega",
-        "showdownDef": "Gardevoir-Mega",
-        "smogon": "gardevoir-mega"
+        "miniSprite": "0282-mega"
     },
     "baseSpecies": "gardevoir",
     "baseForms": [

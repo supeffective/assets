@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "TYMPOLE",
         "veekunDb": "tympole",
+        "smogon": "tympole",
+        "showdown": "tympole",
+        "showdownDef": "Tympole",
         "serebii": "tympole",
         "bulbapedia": "Tympole",
         "homeSprite": "0535",
-        "miniSprite": "0535",
-        "showdown": "tympole",
-        "showdownDef": "Tympole",
-        "smogon": "tympole"
+        "miniSprite": "0535"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "WYNAUT",
         "veekunDb": "wynaut",
+        "smogon": "wynaut",
+        "showdown": "wynaut",
+        "showdownDef": "Wynaut",
         "serebii": "wynaut",
         "bulbapedia": "Wynaut",
         "homeSprite": "0360",
-        "miniSprite": "0360",
-        "showdown": "wynaut",
-        "showdownDef": "Wynaut",
-        "smogon": "wynaut"
+        "miniSprite": "0360"
     },
     "baseSpecies": null,
     "baseForms": [],

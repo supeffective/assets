@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "VANILLITE",
         "veekunDb": "vanillite",
+        "smogon": "vanillite",
+        "showdown": "vanillite",
+        "showdownDef": "Vanillite",
         "serebii": "vanillite",
         "bulbapedia": "Vanillite",
         "homeSprite": "0582",
-        "miniSprite": "0582",
-        "showdown": "vanillite",
-        "showdownDef": "Vanillite",
-        "smogon": "vanillite"
+        "miniSprite": "0582"
     },
     "baseSpecies": null,
     "baseForms": [],

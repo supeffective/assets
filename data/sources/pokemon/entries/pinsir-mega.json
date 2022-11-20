@@ -76,13 +76,13 @@
     "refs": {
         "pogo": "PINSIR_MEGA",
         "veekunDb": "pinsir-mega",
+        "smogon": "pinsir-mega",
+        "showdown": "pinsirmega",
+        "showdownDef": "Pinsir-Mega",
         "serebii": "pinsir",
         "bulbapedia": "Pinsir",
         "homeSprite": "0127-mega",
-        "miniSprite": "0127-mega",
-        "showdown": "pinsirmega",
-        "showdownDef": "Pinsir-Mega",
-        "smogon": "pinsir-mega"
+        "miniSprite": "0127-mega"
     },
     "baseSpecies": "pinsir",
     "baseForms": [

@@ -76,13 +76,13 @@
     "refs": {
         "pogo": "MANECTRIC_MEGA",
         "veekunDb": "manectric-mega",
+        "smogon": "manectric-mega",
+        "showdown": "manectricmega",
+        "showdownDef": "Manectric-Mega",
         "serebii": "manectric",
         "bulbapedia": "Manectric",
         "homeSprite": "0310-mega",
-        "miniSprite": "0310-mega",
-        "showdown": "manectricmega",
-        "showdownDef": "Manectric-Mega",
-        "smogon": "manectric-mega"
+        "miniSprite": "0310-mega"
     },
     "baseSpecies": "manectric",
     "baseForms": [

@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "DECIDUEYE_HISUIAN",
         "veekunDb": null,
+        "smogon": "decidueye-hisui",
+        "showdown": "decidueyehisui",
+        "showdownDef": "Decidueye-Hisui",
         "serebii": "decidueye",
         "bulbapedia": "Decidueye",
         "homeSprite": "0724-hisui",
-        "miniSprite": "0724-hisui",
-        "showdown": "decidueyehisui",
-        "showdownDef": "Decidueye-Hisui",
-        "smogon": "decidueye-hisui"
+        "miniSprite": "0724-hisui"
     },
     "baseSpecies": "decidueye",
     "baseForms": [],

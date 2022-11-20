@@ -105,13 +105,13 @@
     "refs": {
         "pogo": "MACHOP",
         "veekunDb": "machop",
+        "smogon": "machop",
+        "showdown": "machop",
+        "showdownDef": "Machop",
         "serebii": "machop",
         "bulbapedia": "Machop",
         "homeSprite": "0066",
-        "miniSprite": "0066",
-        "showdown": "machop",
-        "showdownDef": "Machop",
-        "smogon": "machop"
+        "miniSprite": "0066"
     },
     "baseSpecies": null,
     "baseForms": [],

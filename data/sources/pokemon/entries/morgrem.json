@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "MORGREM",
         "veekunDb": "morgrem",
+        "smogon": "morgrem",
+        "showdown": "morgrem",
+        "showdownDef": "Morgrem",
         "serebii": "morgrem",
         "bulbapedia": "Morgrem",
         "homeSprite": "0860",
-        "miniSprite": "0860",
-        "showdown": "morgrem",
-        "showdownDef": "Morgrem",
-        "smogon": "morgrem"
+        "miniSprite": "0860"
     },
     "baseSpecies": null,
     "baseForms": [],

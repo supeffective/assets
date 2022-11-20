@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "GIBLE",
         "veekunDb": "gible",
+        "smogon": "gible",
+        "showdown": "gible",
+        "showdownDef": "Gible",
         "serebii": "gible",
         "bulbapedia": "Gible",
         "homeSprite": "0443-f",
-        "miniSprite": "0443",
-        "showdown": "gible",
-        "showdownDef": "Gible",
-        "smogon": "gible"
+        "miniSprite": "0443"
     },
     "baseSpecies": "gible",
     "baseForms": [],

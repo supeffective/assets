@@ -76,13 +76,13 @@
     "refs": {
         "pogo": "HOUNDOOM_MEGA",
         "veekunDb": "houndoom-mega",
+        "smogon": "houndoom-mega",
+        "showdown": "houndoommega",
+        "showdownDef": "Houndoom-Mega",
         "serebii": "houndoom",
         "bulbapedia": "Houndoom",
         "homeSprite": "0229-mega",
-        "miniSprite": "0229-mega",
-        "showdown": "houndoommega",
-        "showdownDef": "Houndoom-Mega",
-        "smogon": "houndoom-mega"
+        "miniSprite": "0229-mega"
     },
     "baseSpecies": "houndoom",
     "baseForms": [

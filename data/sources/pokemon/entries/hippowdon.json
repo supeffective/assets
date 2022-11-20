@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "HIPPOWDON",
         "veekunDb": "hippowdon",
+        "smogon": "hippowdon",
+        "showdown": "hippowdon",
+        "showdownDef": "Hippowdon",
         "serebii": "hippowdon",
         "bulbapedia": "Hippowdon",
         "homeSprite": "0450",
-        "miniSprite": "0450",
-        "showdown": "hippowdon",
-        "showdownDef": "Hippowdon",
-        "smogon": "hippowdon"
+        "miniSprite": "0450"
     },
     "baseSpecies": null,
     "baseForms": [],

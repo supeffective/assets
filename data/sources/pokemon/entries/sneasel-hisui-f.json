@@ -80,13 +80,13 @@
     "refs": {
         "pogo": "SNEASEL_HISUIAN",
         "veekunDb": null,
+        "smogon": "sneasel-hisui",
+        "showdown": "sneaselhisui",
+        "showdownDef": "Sneasel-Hisui",
         "serebii": "sneasel",
         "bulbapedia": "Sneasel",
         "homeSprite": "0215-hisui-f",
-        "miniSprite": "0215-hisui",
-        "showdown": "sneaselhisui",
-        "showdownDef": "Sneasel-Hisui",
-        "smogon": "sneasel-hisui"
+        "miniSprite": "0215-hisui"
     },
     "baseSpecies": "sneasel",
     "baseForms": [],

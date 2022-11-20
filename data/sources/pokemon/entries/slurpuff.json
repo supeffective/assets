@@ -85,13 +85,13 @@
     "refs": {
         "pogo": "SLURPUFF",
         "veekunDb": "slurpuff",
+        "smogon": "slurpuff",
+        "showdown": "slurpuff",
+        "showdownDef": "Slurpuff",
         "serebii": "slurpuff",
         "bulbapedia": "Slurpuff",
         "homeSprite": "0685",
-        "miniSprite": "0685",
-        "showdown": "slurpuff",
-        "showdownDef": "Slurpuff",
-        "smogon": "slurpuff"
+        "miniSprite": "0685"
     },
     "baseSpecies": null,
     "baseForms": [],

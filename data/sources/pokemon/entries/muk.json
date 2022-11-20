@@ -101,13 +101,13 @@
     "refs": {
         "pogo": "MUK",
         "veekunDb": "muk",
+        "smogon": "muk",
+        "showdown": "muk",
+        "showdownDef": "Muk",
         "serebii": "muk",
         "bulbapedia": "Muk",
         "homeSprite": "0089",
-        "miniSprite": "0089",
-        "showdown": "muk",
-        "showdownDef": "Muk",
-        "smogon": "muk"
+        "miniSprite": "0089"
     },
     "baseSpecies": null,
     "baseForms": [],

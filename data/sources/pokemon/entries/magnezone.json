@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "MAGNEZONE",
         "veekunDb": "magnezone",
+        "smogon": "magnezone",
+        "showdown": "magnezone",
+        "showdownDef": "Magnezone",
         "serebii": "magnezone",
         "bulbapedia": "Magnezone",
         "homeSprite": "0462",
-        "miniSprite": "0462",
-        "showdown": "magnezone",
-        "showdownDef": "Magnezone",
-        "smogon": "magnezone"
+        "miniSprite": "0462"
     },
     "baseSpecies": null,
     "baseForms": [],

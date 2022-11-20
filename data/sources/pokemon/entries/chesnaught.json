@@ -83,13 +83,13 @@
     "refs": {
         "pogo": "CHESNAUGHT",
         "veekunDb": "chesnaught",
+        "smogon": "chesnaught",
+        "showdown": "chesnaught",
+        "showdownDef": "Chesnaught",
         "serebii": "chesnaught",
         "bulbapedia": "Chesnaught",
         "homeSprite": "0652",
-        "miniSprite": "0652",
-        "showdown": "chesnaught",
-        "showdownDef": "Chesnaught",
-        "smogon": "chesnaught"
+        "miniSprite": "0652"
     },
     "baseSpecies": null,
     "baseForms": [],

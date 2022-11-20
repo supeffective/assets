@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "TORKOAL",
         "veekunDb": "torkoal",
+        "smogon": "torkoal",
+        "showdown": "torkoal",
+        "showdownDef": "Torkoal",
         "serebii": "torkoal",
         "bulbapedia": "Torkoal",
         "homeSprite": "0324",
-        "miniSprite": "0324",
-        "showdown": "torkoal",
-        "showdownDef": "Torkoal",
-        "smogon": "torkoal"
+        "miniSprite": "0324"
     },
     "baseSpecies": null,
     "baseForms": [],

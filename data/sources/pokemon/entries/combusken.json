@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "COMBUSKEN",
         "veekunDb": "combusken",
+        "smogon": "combusken",
+        "showdown": "combusken",
+        "showdownDef": "Combusken",
         "serebii": "combusken",
         "bulbapedia": "Combusken",
         "homeSprite": "0256",
-        "miniSprite": "0256",
-        "showdown": "combusken",
-        "showdownDef": "Combusken",
-        "smogon": "combusken"
+        "miniSprite": "0256"
     },
     "baseSpecies": null,
     "baseForms": [],

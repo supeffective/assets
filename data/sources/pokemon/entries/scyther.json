@@ -105,13 +105,13 @@
     "refs": {
         "pogo": "SCYTHER",
         "veekunDb": "scyther",
+        "smogon": "scyther",
+        "showdown": "scyther",
+        "showdownDef": "Scyther",
         "serebii": "scyther",
         "bulbapedia": "Scyther",
         "homeSprite": "0123",
-        "miniSprite": "0123",
-        "showdown": "scyther",
-        "showdownDef": "Scyther",
-        "smogon": "scyther"
+        "miniSprite": "0123"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "SLOWPOKE",
         "veekunDb": "slowpoke",
+        "smogon": "slowpoke",
+        "showdown": "slowpoke",
+        "showdownDef": "Slowpoke",
         "serebii": "slowpoke",
         "bulbapedia": "Slowpoke",
         "homeSprite": "0079",
-        "miniSprite": "0079",
-        "showdown": "slowpoke",
-        "showdownDef": "Slowpoke",
-        "smogon": "slowpoke"
+        "miniSprite": "0079"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "KANGASKHAN",
         "veekunDb": "kangaskhan",
+        "smogon": "kangaskhan",
+        "showdown": "kangaskhan",
+        "showdownDef": "Kangaskhan",
         "serebii": "kangaskhan",
         "bulbapedia": "Kangaskhan",
         "homeSprite": "0115",
-        "miniSprite": "0115",
-        "showdown": "kangaskhan",
-        "showdownDef": "Kangaskhan",
-        "smogon": "kangaskhan"
+        "miniSprite": "0115"
     },
     "baseSpecies": null,
     "baseForms": [],

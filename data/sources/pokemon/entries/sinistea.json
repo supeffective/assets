@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "SINISTEA",
         "veekunDb": "sinistea",
+        "smogon": "sinistea",
+        "showdown": "sinistea",
+        "showdownDef": "Sinistea",
         "serebii": "sinistea",
         "bulbapedia": "Sinistea",
         "homeSprite": "0854",
-        "miniSprite": "0854",
-        "showdown": "sinistea",
-        "showdownDef": "Sinistea",
-        "smogon": "sinistea"
+        "miniSprite": "0854"
     },
     "baseSpecies": null,
     "baseForms": [],

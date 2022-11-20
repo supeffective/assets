@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "GOODRA_HISUIAN",
         "veekunDb": null,
+        "smogon": "goodra-hisui",
+        "showdown": "goodrahisui",
+        "showdownDef": "Goodra-Hisui",
         "serebii": "goodra",
         "bulbapedia": "Goodra",
         "homeSprite": "0706-hisui",
-        "miniSprite": "0706-hisui",
-        "showdown": "goodrahisui",
-        "showdownDef": "Goodra-Hisui",
-        "smogon": "goodra-hisui"
+        "miniSprite": "0706-hisui"
     },
     "baseSpecies": "goodra",
     "baseForms": [],

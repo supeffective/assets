@@ -82,13 +82,13 @@
     "refs": {
         "pogo": "PASSIMIAN",
         "veekunDb": "passimian",
+        "smogon": "passimian",
+        "showdown": "passimian",
+        "showdownDef": "Passimian",
         "serebii": "passimian",
         "bulbapedia": "Passimian",
         "homeSprite": "0766",
-        "miniSprite": "0766",
-        "showdown": "passimian",
-        "showdownDef": "Passimian",
-        "smogon": "passimian"
+        "miniSprite": "0766"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "CHANDELURE",
         "veekunDb": "chandelure",
+        "smogon": "chandelure",
+        "showdown": "chandelure",
+        "showdownDef": "Chandelure",
         "serebii": "chandelure",
         "bulbapedia": "Chandelure",
         "homeSprite": "0609",
-        "miniSprite": "0609",
-        "showdown": "chandelure",
-        "showdownDef": "Chandelure",
-        "smogon": "chandelure"
+        "miniSprite": "0609"
     },
     "baseSpecies": null,
     "baseForms": [],

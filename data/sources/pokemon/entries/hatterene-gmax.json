@@ -75,13 +75,13 @@
     "refs": {
         "pogo": "HATTERENE_GMAX",
         "veekunDb": "hatterene-gmax",
+        "smogon": "hatterene-gmax",
+        "showdown": "hatterenegmax",
+        "showdownDef": "Hatterene-Gmax",
         "serebii": "hatterene",
         "bulbapedia": "Hatterene",
         "homeSprite": "0858-gmax",
-        "miniSprite": "0858-gmax",
-        "showdown": "hatterenegmax",
-        "showdownDef": "Hatterene-Gmax",
-        "smogon": "hatterene-gmax"
+        "miniSprite": "0858-gmax"
     },
     "baseSpecies": "hatterene",
     "baseForms": [

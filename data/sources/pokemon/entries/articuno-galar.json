@@ -80,13 +80,13 @@
     "refs": {
         "pogo": "ARTICUNO_GALARIAN",
         "veekunDb": "articuno-galar",
+        "smogon": "articuno-galar",
+        "showdown": "articunogalar",
+        "showdownDef": "Articuno-Galar",
         "serebii": "articuno",
         "bulbapedia": "Articuno",
         "homeSprite": "0144-galar",
-        "miniSprite": "0144-galar",
-        "showdown": "articunogalar",
-        "showdownDef": "Articuno-Galar",
-        "smogon": "articuno-galar"
+        "miniSprite": "0144-galar"
     },
     "baseSpecies": "articuno",
     "baseForms": [],

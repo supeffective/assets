@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "MANTYKE",
         "veekunDb": "mantyke",
+        "smogon": "mantyke",
+        "showdown": "mantyke",
+        "showdownDef": "Mantyke",
         "serebii": "mantyke",
         "bulbapedia": "Mantyke",
         "homeSprite": "0458",
-        "miniSprite": "0458",
-        "showdown": "mantyke",
-        "showdownDef": "Mantyke",
-        "smogon": "mantyke"
+        "miniSprite": "0458"
     },
     "baseSpecies": null,
     "baseForms": [],

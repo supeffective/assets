@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "CLAMPERL",
         "veekunDb": "clamperl",
+        "smogon": "clamperl",
+        "showdown": "clamperl",
+        "showdownDef": "Clamperl",
         "serebii": "clamperl",
         "bulbapedia": "Clamperl",
         "homeSprite": "0366",
-        "miniSprite": "0366",
-        "showdown": "clamperl",
-        "showdownDef": "Clamperl",
-        "smogon": "clamperl"
+        "miniSprite": "0366"
     },
     "baseSpecies": null,
     "baseForms": [],

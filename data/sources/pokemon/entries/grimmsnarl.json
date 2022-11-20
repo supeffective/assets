@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "GRIMMSNARL",
         "veekunDb": "grimmsnarl",
+        "smogon": "grimmsnarl",
+        "showdown": "grimmsnarl",
+        "showdownDef": "Grimmsnarl",
         "serebii": "grimmsnarl",
         "bulbapedia": "Grimmsnarl",
         "homeSprite": "0861",
-        "miniSprite": "0861",
-        "showdown": "grimmsnarl",
-        "showdownDef": "Grimmsnarl",
-        "smogon": "grimmsnarl"
+        "miniSprite": "0861"
     },
     "baseSpecies": null,
     "baseForms": [],

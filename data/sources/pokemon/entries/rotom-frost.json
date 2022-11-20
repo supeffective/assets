@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "ROTOM_FROST",
         "veekunDb": "rotom-frost",
+        "smogon": "rotom-frost",
+        "showdown": "rotomfrost",
+        "showdownDef": "Rotom-Frost",
         "serebii": "rotom",
         "bulbapedia": "Rotom",
         "homeSprite": "0479-frost",
-        "miniSprite": "0479-frost",
-        "showdown": "rotomfrost",
-        "showdownDef": "Rotom-Frost",
-        "smogon": "rotom-frost"
+        "miniSprite": "0479-frost"
     },
     "baseSpecies": "rotom",
     "baseForms": [

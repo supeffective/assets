@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "ROSERADE",
         "veekunDb": "roserade",
+        "smogon": "roserade",
+        "showdown": "roserade",
+        "showdownDef": "Roserade",
         "serebii": "roserade",
         "bulbapedia": "Roserade",
         "homeSprite": "0407",
-        "miniSprite": "0407",
-        "showdown": "roserade",
-        "showdownDef": "Roserade",
-        "smogon": "roserade"
+        "miniSprite": "0407"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "ARTICUNO",
         "veekunDb": "articuno",
+        "smogon": "articuno",
+        "showdown": "articuno",
+        "showdownDef": "Articuno",
         "serebii": "articuno",
         "bulbapedia": "Articuno",
         "homeSprite": "0144",
-        "miniSprite": "0144",
-        "showdown": "articuno",
-        "showdownDef": "Articuno",
-        "smogon": "articuno"
+        "miniSprite": "0144"
     },
     "baseSpecies": null,
     "baseForms": [],

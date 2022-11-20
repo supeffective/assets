@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "SIGILYPH",
         "veekunDb": "sigilyph",
+        "smogon": "sigilyph",
+        "showdown": "sigilyph",
+        "showdownDef": "Sigilyph",
         "serebii": "sigilyph",
         "bulbapedia": "Sigilyph",
         "homeSprite": "0561",
-        "miniSprite": "0561",
-        "showdown": "sigilyph",
-        "showdownDef": "Sigilyph",
-        "smogon": "sigilyph"
+        "miniSprite": "0561"
     },
     "baseSpecies": null,
     "baseForms": [],

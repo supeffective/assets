@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "MOLTRES",
         "veekunDb": "moltres",
+        "smogon": "moltres",
+        "showdown": "moltres",
+        "showdownDef": "Moltres",
         "serebii": "moltres",
         "bulbapedia": "Moltres",
         "homeSprite": "0146",
-        "miniSprite": "0146",
-        "showdown": "moltres",
-        "showdownDef": "Moltres",
-        "smogon": "moltres"
+        "miniSprite": "0146"
     },
     "baseSpecies": null,
     "baseForms": [],

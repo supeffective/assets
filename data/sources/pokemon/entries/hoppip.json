@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "HOPPIP",
         "veekunDb": "hoppip",
+        "smogon": "hoppip",
+        "showdown": "hoppip",
+        "showdownDef": "Hoppip",
         "serebii": "hoppip",
         "bulbapedia": "Hoppip",
         "homeSprite": "0187",
-        "miniSprite": "0187",
-        "showdown": "hoppip",
-        "showdownDef": "Hoppip",
-        "smogon": "hoppip"
+        "miniSprite": "0187"
     },
     "baseSpecies": null,
     "baseForms": [],

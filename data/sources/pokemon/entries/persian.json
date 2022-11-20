@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "PERSIAN",
         "veekunDb": "persian",
+        "smogon": "persian",
+        "showdown": "persian",
+        "showdownDef": "Persian",
         "serebii": "persian",
         "bulbapedia": "Persian",
         "homeSprite": "0053",
-        "miniSprite": "0053",
-        "showdown": "persian",
-        "showdownDef": "Persian",
-        "smogon": "persian"
+        "miniSprite": "0053"
     },
     "baseSpecies": null,
     "baseForms": [],

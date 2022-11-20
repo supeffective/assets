@@ -75,13 +75,13 @@
     "refs": {
         "pogo": "CRAMORANT",
         "veekunDb": "cramorant-gorging",
+        "smogon": "cramorant-gorging",
+        "showdown": "cramorantgorging",
+        "showdownDef": "Cramorant-Gorging",
         "serebii": "cramorant",
         "bulbapedia": "Cramorant",
         "homeSprite": "0845-gorging",
-        "miniSprite": "0845-gorging",
-        "showdown": "cramorantgorging",
-        "showdownDef": "Cramorant-Gorging",
-        "smogon": "cramorant-gorging"
+        "miniSprite": "0845-gorging"
     },
     "baseSpecies": "cramorant",
     "baseForms": [

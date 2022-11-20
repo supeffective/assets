@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "MUNNA",
         "veekunDb": "munna",
+        "smogon": "munna",
+        "showdown": "munna",
+        "showdownDef": "Munna",
         "serebii": "munna",
         "bulbapedia": "Munna",
         "homeSprite": "0517",
-        "miniSprite": "0517",
-        "showdown": "munna",
-        "showdownDef": "Munna",
-        "smogon": "munna"
+        "miniSprite": "0517"
     },
     "baseSpecies": null,
     "baseForms": [],

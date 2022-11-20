@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "SANDSLASH",
         "veekunDb": "sandslash",
+        "smogon": "sandslash",
+        "showdown": "sandslash",
+        "showdownDef": "Sandslash",
         "serebii": "sandslash",
         "bulbapedia": "Sandslash",
         "homeSprite": "0028",
-        "miniSprite": "0028",
-        "showdown": "sandslash",
-        "showdownDef": "Sandslash",
-        "smogon": "sandslash"
+        "miniSprite": "0028"
     },
     "baseSpecies": null,
     "baseForms": [],

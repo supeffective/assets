@@ -82,13 +82,13 @@
     "refs": {
         "pogo": "TURTONATOR",
         "veekunDb": "turtonator",
+        "smogon": "turtonator",
+        "showdown": "turtonator",
+        "showdownDef": "Turtonator",
         "serebii": "turtonator",
         "bulbapedia": "Turtonator",
         "homeSprite": "0776",
-        "miniSprite": "0776",
-        "showdown": "turtonator",
-        "showdownDef": "Turtonator",
-        "smogon": "turtonator"
+        "miniSprite": "0776"
     },
     "baseSpecies": null,
     "baseForms": [],

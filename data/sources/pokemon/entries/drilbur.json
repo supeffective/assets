@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "DRILBUR",
         "veekunDb": "drilbur",
+        "smogon": "drilbur",
+        "showdown": "drilbur",
+        "showdownDef": "Drilbur",
         "serebii": "drilbur",
         "bulbapedia": "Drilbur",
         "homeSprite": "0529",
-        "miniSprite": "0529",
-        "showdown": "drilbur",
-        "showdownDef": "Drilbur",
-        "smogon": "drilbur"
+        "miniSprite": "0529"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -99,13 +99,13 @@
     "refs": {
         "pogo": "SLOWKING",
         "veekunDb": "slowking",
+        "smogon": "slowking",
+        "showdown": "slowking",
+        "showdownDef": "Slowking",
         "serebii": "slowking",
         "bulbapedia": "Slowking",
         "homeSprite": "0199",
-        "miniSprite": "0199",
-        "showdown": "slowking",
-        "showdownDef": "Slowking",
-        "smogon": "slowking"
+        "miniSprite": "0199"
     },
     "baseSpecies": null,
     "baseForms": [],

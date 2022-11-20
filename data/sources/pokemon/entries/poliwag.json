@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "POLIWAG",
         "veekunDb": "poliwag",
+        "smogon": "poliwag",
+        "showdown": "poliwag",
+        "showdownDef": "Poliwag",
         "serebii": "poliwag",
         "bulbapedia": "Poliwag",
         "homeSprite": "0060",
-        "miniSprite": "0060",
-        "showdown": "poliwag",
-        "showdownDef": "Poliwag",
-        "smogon": "poliwag"
+        "miniSprite": "0060"
     },
     "baseSpecies": null,
     "baseForms": [],

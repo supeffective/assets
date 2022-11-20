@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "SALAMENCE",
         "veekunDb": "salamence",
+        "smogon": "salamence",
+        "showdown": "salamence",
+        "showdownDef": "Salamence",
         "serebii": "salamence",
         "bulbapedia": "Salamence",
         "homeSprite": "0373",
-        "miniSprite": "0373",
-        "showdown": "salamence",
-        "showdownDef": "Salamence",
-        "smogon": "salamence"
+        "miniSprite": "0373"
     },
     "baseSpecies": null,
     "baseForms": [],

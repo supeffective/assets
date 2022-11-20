@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "ILLUMISE",
         "veekunDb": "illumise",
+        "smogon": "illumise",
+        "showdown": "illumise",
+        "showdownDef": "Illumise",
         "serebii": "illumise",
         "bulbapedia": "Illumise",
         "homeSprite": "0314",
-        "miniSprite": "0314",
-        "showdown": "illumise",
-        "showdownDef": "Illumise",
-        "smogon": "illumise"
+        "miniSprite": "0314"
     },
     "baseSpecies": null,
     "baseForms": [],

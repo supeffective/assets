@@ -80,13 +80,13 @@
     "refs": {
         "pogo": "ARCANINE_HISUIAN",
         "veekunDb": null,
+        "smogon": "arcanine-hisui",
+        "showdown": "arcaninehisui",
+        "showdownDef": "Arcanine-Hisui",
         "serebii": "arcanine",
         "bulbapedia": "Arcanine",
         "homeSprite": "0059-hisui",
-        "miniSprite": "0059-hisui",
-        "showdown": "arcaninehisui",
-        "showdownDef": "Arcanine-Hisui",
-        "smogon": "arcanine-hisui"
+        "miniSprite": "0059-hisui"
     },
     "baseSpecies": "arcanine",
     "baseForms": [],

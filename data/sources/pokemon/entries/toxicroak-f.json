@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "TOXICROAK",
         "veekunDb": "toxicroak",
+        "smogon": "toxicroak",
+        "showdown": "toxicroak",
+        "showdownDef": "Toxicroak",
         "serebii": "toxicroak",
         "bulbapedia": "Toxicroak",
         "homeSprite": "0454-f",
-        "miniSprite": "0454",
-        "showdown": "toxicroak",
-        "showdownDef": "Toxicroak",
-        "smogon": "toxicroak"
+        "miniSprite": "0454"
     },
     "baseSpecies": "toxicroak",
     "baseForms": [],

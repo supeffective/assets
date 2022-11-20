@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "MANDIBUZZ",
         "veekunDb": "mandibuzz",
+        "smogon": "mandibuzz",
+        "showdown": "mandibuzz",
+        "showdownDef": "Mandibuzz",
         "serebii": "mandibuzz",
         "bulbapedia": "Mandibuzz",
         "homeSprite": "0630",
-        "miniSprite": "0630",
-        "showdown": "mandibuzz",
-        "showdownDef": "Mandibuzz",
-        "smogon": "mandibuzz"
+        "miniSprite": "0630"
     },
     "baseSpecies": null,
     "baseForms": [],

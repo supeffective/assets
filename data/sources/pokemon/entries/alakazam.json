@@ -105,13 +105,13 @@
     "refs": {
         "pogo": "ALAKAZAM",
         "veekunDb": "alakazam",
+        "smogon": "alakazam",
+        "showdown": "alakazam",
+        "showdownDef": "Alakazam",
         "serebii": "alakazam",
         "bulbapedia": "Alakazam",
         "homeSprite": "0065",
-        "miniSprite": "0065",
-        "showdown": "alakazam",
-        "showdownDef": "Alakazam",
-        "smogon": "alakazam"
+        "miniSprite": "0065"
     },
     "baseSpecies": null,
     "baseForms": [],

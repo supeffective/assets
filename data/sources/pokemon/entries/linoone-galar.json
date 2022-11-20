@@ -80,13 +80,13 @@
     "refs": {
         "pogo": "LINOONE_GALARIAN",
         "veekunDb": "linoone-galar",
+        "smogon": "linoone-galar",
+        "showdown": "linoonegalar",
+        "showdownDef": "Linoone-Galar",
         "serebii": "linoone",
         "bulbapedia": "Linoone",
         "homeSprite": "0264-galar",
-        "miniSprite": "0264-galar",
-        "showdown": "linoonegalar",
-        "showdownDef": "Linoone-Galar",
-        "smogon": "linoone-galar"
+        "miniSprite": "0264-galar"
     },
     "baseSpecies": "linoone",
     "baseForms": [],

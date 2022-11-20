@@ -85,13 +85,13 @@
     "refs": {
         "pogo": "AMAURA",
         "veekunDb": "amaura",
+        "smogon": "amaura",
+        "showdown": "amaura",
+        "showdownDef": "Amaura",
         "serebii": "amaura",
         "bulbapedia": "Amaura",
         "homeSprite": "0698",
-        "miniSprite": "0698",
-        "showdown": "amaura",
-        "showdownDef": "Amaura",
-        "smogon": "amaura"
+        "miniSprite": "0698"
     },
     "baseSpecies": null,
     "baseForms": [],

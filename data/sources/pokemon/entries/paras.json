@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "PARAS",
         "veekunDb": "paras",
+        "smogon": "paras",
+        "showdown": "paras",
+        "showdownDef": "Paras",
         "serebii": "paras",
         "bulbapedia": "Paras",
         "homeSprite": "0046",
-        "miniSprite": "0046",
-        "showdown": "paras",
-        "showdownDef": "Paras",
-        "smogon": "paras"
+        "miniSprite": "0046"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -101,13 +101,13 @@
     "refs": {
         "pogo": "SUDOWOODO",
         "veekunDb": "sudowoodo",
+        "smogon": "sudowoodo",
+        "showdown": "sudowoodo",
+        "showdownDef": "Sudowoodo",
         "serebii": "sudowoodo",
         "bulbapedia": "Sudowoodo",
         "homeSprite": "0185",
-        "miniSprite": "0185",
-        "showdown": "sudowoodo",
-        "showdownDef": "Sudowoodo",
-        "smogon": "sudowoodo"
+        "miniSprite": "0185"
     },
     "baseSpecies": null,
     "baseForms": [],

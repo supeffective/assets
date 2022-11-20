@@ -82,13 +82,13 @@
     "refs": {
         "pogo": "TOXAPEX",
         "veekunDb": "toxapex",
+        "smogon": "toxapex",
+        "showdown": "toxapex",
+        "showdownDef": "Toxapex",
         "serebii": "toxapex",
         "bulbapedia": "Toxapex",
         "homeSprite": "0748",
-        "miniSprite": "0748",
-        "showdown": "toxapex",
-        "showdownDef": "Toxapex",
-        "smogon": "toxapex"
+        "miniSprite": "0748"
     },
     "baseSpecies": null,
     "baseForms": [],

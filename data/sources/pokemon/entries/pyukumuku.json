@@ -82,13 +82,13 @@
     "refs": {
         "pogo": "PYUKUMUKU",
         "veekunDb": "pyukumuku",
+        "smogon": "pyukumuku",
+        "showdown": "pyukumuku",
+        "showdownDef": "Pyukumuku",
         "serebii": "pyukumuku",
         "bulbapedia": "Pyukumuku",
         "homeSprite": "0771",
-        "miniSprite": "0771",
-        "showdown": "pyukumuku",
-        "showdownDef": "Pyukumuku",
-        "smogon": "pyukumuku"
+        "miniSprite": "0771"
     },
     "baseSpecies": null,
     "baseForms": [],

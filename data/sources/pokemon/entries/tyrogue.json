@@ -99,13 +99,13 @@
     "refs": {
         "pogo": "TYROGUE",
         "veekunDb": "tyrogue",
+        "smogon": "tyrogue",
+        "showdown": "tyrogue",
+        "showdownDef": "Tyrogue",
         "serebii": "tyrogue",
         "bulbapedia": "Tyrogue",
         "homeSprite": "0236",
-        "miniSprite": "0236",
-        "showdown": "tyrogue",
-        "showdownDef": "Tyrogue",
-        "smogon": "tyrogue"
+        "miniSprite": "0236"
     },
     "baseSpecies": null,
     "baseForms": [],

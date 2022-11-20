@@ -99,13 +99,13 @@
     "refs": {
         "pogo": "GARDEVOIR",
         "veekunDb": "gardevoir",
+        "smogon": "gardevoir",
+        "showdown": "gardevoir",
+        "showdownDef": "Gardevoir",
         "serebii": "gardevoir",
         "bulbapedia": "Gardevoir",
         "homeSprite": "0282",
-        "miniSprite": "0282",
-        "showdown": "gardevoir",
-        "showdownDef": "Gardevoir",
-        "smogon": "gardevoir"
+        "miniSprite": "0282"
     },
     "baseSpecies": null,
     "baseForms": [],

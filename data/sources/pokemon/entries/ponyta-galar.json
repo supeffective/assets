@@ -80,13 +80,13 @@
     "refs": {
         "pogo": "PONYTA_GALARIAN",
         "veekunDb": "ponyta-galar",
+        "smogon": "ponyta-galar",
+        "showdown": "ponytagalar",
+        "showdownDef": "Ponyta-Galar",
         "serebii": "ponyta",
         "bulbapedia": "Ponyta",
         "homeSprite": "0077-galar",
-        "miniSprite": "0077-galar",
-        "showdown": "ponytagalar",
-        "showdownDef": "Ponyta-Galar",
-        "smogon": "ponyta-galar"
+        "miniSprite": "0077-galar"
     },
     "baseSpecies": "ponyta",
     "baseForms": [],

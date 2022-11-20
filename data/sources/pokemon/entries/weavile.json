@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "WEAVILE",
         "veekunDb": "weavile",
+        "smogon": "weavile",
+        "showdown": "weavile",
+        "showdownDef": "Weavile",
         "serebii": "weavile",
         "bulbapedia": "Weavile",
         "homeSprite": "0461",
-        "miniSprite": "0461",
-        "showdown": "weavile",
-        "showdownDef": "Weavile",
-        "smogon": "weavile"
+        "miniSprite": "0461"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "BOLDORE",
         "veekunDb": "boldore",
+        "smogon": "boldore",
+        "showdown": "boldore",
+        "showdownDef": "Boldore",
         "serebii": "boldore",
         "bulbapedia": "Boldore",
         "homeSprite": "0525",
-        "miniSprite": "0525",
-        "showdown": "boldore",
-        "showdownDef": "Boldore",
-        "smogon": "boldore"
+        "miniSprite": "0525"
     },
     "baseSpecies": null,
     "baseForms": [],

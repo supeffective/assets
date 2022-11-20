@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "GASTRODON_EAST_SEA",
         "veekunDb": "gastrodon-east",
+        "smogon": "gastrodon-east",
+        "showdown": "gastrodon",
+        "showdownDef": "Gastrodon-East",
         "serebii": "gastrodon",
         "bulbapedia": "Gastrodon",
         "homeSprite": "0423-east",
-        "miniSprite": "0423-east",
-        "showdown": "gastrodon",
-        "showdownDef": "Gastrodon-East",
-        "smogon": "gastrodon-east"
+        "miniSprite": "0423-east"
     },
     "baseSpecies": "gastrodon",
     "baseForms": [],

@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "GLISCOR",
         "veekunDb": "gliscor",
+        "smogon": "gliscor",
+        "showdown": "gliscor",
+        "showdownDef": "Gliscor",
         "serebii": "gliscor",
         "bulbapedia": "Gliscor",
         "homeSprite": "0472",
-        "miniSprite": "0472",
-        "showdown": "gliscor",
-        "showdownDef": "Gliscor",
-        "smogon": "gliscor"
+        "miniSprite": "0472"
     },
     "baseSpecies": null,
     "baseForms": [],

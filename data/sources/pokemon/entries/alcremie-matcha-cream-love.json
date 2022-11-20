@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "ALCREMIE_MATCHA_CREAM_LOVE",
         "veekunDb": "alcremie-matcha-cream-love",
+        "smogon": "alcremie-matcha-cream-love",
+        "showdown": "alcremie",
+        "showdownDef": "Alcremie-Matcha-Cream-Love",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "0869-matcha-cream-love",
-        "miniSprite": "0869-matcha-cream-love",
-        "showdown": "alcremie",
-        "showdownDef": "Alcremie-Matcha-Cream-Love",
-        "smogon": "alcremie-matcha-cream-love"
+        "miniSprite": "0869-matcha-cream-love"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

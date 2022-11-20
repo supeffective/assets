@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "NINCADA",
         "veekunDb": "nincada",
+        "smogon": "nincada",
+        "showdown": "nincada",
+        "showdownDef": "Nincada",
         "serebii": "nincada",
         "bulbapedia": "Nincada",
         "homeSprite": "0290",
-        "miniSprite": "0290",
-        "showdown": "nincada",
-        "showdownDef": "Nincada",
-        "smogon": "nincada"
+        "miniSprite": "0290"
     },
     "baseSpecies": null,
     "baseForms": [],

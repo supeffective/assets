@@ -92,13 +92,13 @@
     "refs": {
         "pogo": "POLITOED",
         "veekunDb": "politoed",
+        "smogon": "politoed",
+        "showdown": "politoed",
+        "showdownDef": "Politoed",
         "serebii": "politoed",
         "bulbapedia": "Politoed",
         "homeSprite": "0186-f",
-        "miniSprite": "0186",
-        "showdown": "politoed",
-        "showdownDef": "Politoed",
-        "smogon": "politoed"
+        "miniSprite": "0186"
     },
     "baseSpecies": "politoed",
     "baseForms": [],

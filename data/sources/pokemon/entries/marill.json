@@ -99,13 +99,13 @@
     "refs": {
         "pogo": "MARILL",
         "veekunDb": "marill",
+        "smogon": "marill",
+        "showdown": "marill",
+        "showdownDef": "Marill",
         "serebii": "marill",
         "bulbapedia": "Marill",
         "homeSprite": "0183",
-        "miniSprite": "0183",
-        "showdown": "marill",
-        "showdownDef": "Marill",
-        "smogon": "marill"
+        "miniSprite": "0183"
     },
     "baseSpecies": null,
     "baseForms": [],

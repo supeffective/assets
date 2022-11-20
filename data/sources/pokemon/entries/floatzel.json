@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "FLOATZEL",
         "veekunDb": "floatzel",
+        "smogon": "floatzel",
+        "showdown": "floatzel",
+        "showdownDef": "Floatzel",
         "serebii": "floatzel",
         "bulbapedia": "Floatzel",
         "homeSprite": "0419",
-        "miniSprite": "0419",
-        "showdown": "floatzel",
-        "showdownDef": "Floatzel",
-        "smogon": "floatzel"
+        "miniSprite": "0419"
     },
     "baseSpecies": null,
     "baseForms": [],

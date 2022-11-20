@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "DARMANITAN",
         "veekunDb": "darmanitan",
+        "smogon": "darmanitan",
+        "showdown": "darmanitan",
+        "showdownDef": "Darmanitan",
         "serebii": "darmanitan",
         "bulbapedia": "Darmanitan",
         "homeSprite": "0555",
-        "miniSprite": "0555",
-        "showdown": "darmanitan",
-        "showdownDef": "Darmanitan",
-        "smogon": "darmanitan"
+        "miniSprite": "0555"
     },
     "baseSpecies": null,
     "baseForms": [],

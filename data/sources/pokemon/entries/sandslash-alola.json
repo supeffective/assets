@@ -86,13 +86,13 @@
     "refs": {
         "pogo": "SANDSLASH_ALOLA",
         "veekunDb": "sandslash-alola",
+        "smogon": "sandslash-alola",
+        "showdown": "sandslashalola",
+        "showdownDef": "Sandslash-Alola",
         "serebii": "sandslash",
         "bulbapedia": "Sandslash",
         "homeSprite": "0028-alola",
-        "miniSprite": "0028-alola",
-        "showdown": "sandslashalola",
-        "showdownDef": "Sandslash-Alola",
-        "smogon": "sandslash-alola"
+        "miniSprite": "0028-alola"
     },
     "baseSpecies": "sandslash",
     "baseForms": [],

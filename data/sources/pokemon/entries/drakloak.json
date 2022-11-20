@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "DRAKLOAK",
         "veekunDb": "drakloak",
+        "smogon": "drakloak",
+        "showdown": "drakloak",
+        "showdownDef": "Drakloak",
         "serebii": "drakloak",
         "bulbapedia": "Drakloak",
         "homeSprite": "0886",
-        "miniSprite": "0886",
-        "showdown": "drakloak",
-        "showdownDef": "Drakloak",
-        "smogon": "drakloak"
+        "miniSprite": "0886"
     },
     "baseSpecies": null,
     "baseForms": [],

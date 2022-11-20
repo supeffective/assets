@@ -75,13 +75,13 @@
     "refs": {
         "pogo": "ALCREMIE_GMAX",
         "veekunDb": "alcremie-gmax",
+        "smogon": "alcremie-gmax",
+        "showdown": "alcremiegmax",
+        "showdownDef": "Alcremie-Gmax",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "0869-gmax",
-        "miniSprite": "0869-gmax",
-        "showdown": "alcremiegmax",
-        "showdownDef": "Alcremie-Gmax",
-        "smogon": "alcremie-gmax"
+        "miniSprite": "0869-gmax"
     },
     "baseSpecies": "alcremie",
     "baseForms": [

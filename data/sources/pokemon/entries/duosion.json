@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "DUOSION",
         "veekunDb": "duosion",
+        "smogon": "duosion",
+        "showdown": "duosion",
+        "showdownDef": "Duosion",
         "serebii": "duosion",
         "bulbapedia": "Duosion",
         "homeSprite": "0578",
-        "miniSprite": "0578",
-        "showdown": "duosion",
-        "showdownDef": "Duosion",
-        "smogon": "duosion"
+        "miniSprite": "0578"
     },
     "baseSpecies": null,
     "baseForms": [],

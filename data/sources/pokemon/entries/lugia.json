@@ -99,13 +99,13 @@
     "refs": {
         "pogo": "LUGIA",
         "veekunDb": "lugia",
+        "smogon": "lugia",
+        "showdown": "lugia",
+        "showdownDef": "Lugia",
         "serebii": "lugia",
         "bulbapedia": "Lugia",
         "homeSprite": "0249",
-        "miniSprite": "0249",
-        "showdown": "lugia",
-        "showdownDef": "Lugia",
-        "smogon": "lugia"
+        "miniSprite": "0249"
     },
     "baseSpecies": null,
     "baseForms": [],

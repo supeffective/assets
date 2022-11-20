@@ -85,13 +85,13 @@
     "refs": {
         "pogo": "YVELTAL",
         "veekunDb": "yveltal",
+        "smogon": "yveltal",
+        "showdown": "yveltal",
+        "showdownDef": "Yveltal",
         "serebii": "yveltal",
         "bulbapedia": "Yveltal",
         "homeSprite": "0717",
-        "miniSprite": "0717",
-        "showdown": "yveltal",
-        "showdownDef": "Yveltal",
-        "smogon": "yveltal"
+        "miniSprite": "0717"
     },
     "baseSpecies": null,
     "baseForms": [],

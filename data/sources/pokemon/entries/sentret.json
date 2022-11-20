@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "SENTRET",
         "veekunDb": "sentret",
+        "smogon": "sentret",
+        "showdown": "sentret",
+        "showdownDef": "Sentret",
         "serebii": "sentret",
         "bulbapedia": "Sentret",
         "homeSprite": "0161",
-        "miniSprite": "0161",
-        "showdown": "sentret",
-        "showdownDef": "Sentret",
-        "smogon": "sentret"
+        "miniSprite": "0161"
     },
     "baseSpecies": null,
     "baseForms": [],

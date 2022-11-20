@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "TAPU_BULU",
         "veekunDb": "tapubulu",
+        "smogon": "tapubulu",
+        "showdown": "tapubulu",
+        "showdownDef": "Tapubulu",
         "serebii": "tapubulu",
         "bulbapedia": "Tapu Bulu",
         "homeSprite": "0787",
-        "miniSprite": "0787",
-        "showdown": "tapubulu",
-        "showdownDef": "Tapubulu",
-        "smogon": "tapubulu"
+        "miniSprite": "0787"
     },
     "baseSpecies": null,
     "baseForms": [],

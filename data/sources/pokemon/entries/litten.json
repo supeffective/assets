@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "LITTEN",
         "veekunDb": "litten",
+        "smogon": "litten",
+        "showdown": "litten",
+        "showdownDef": "Litten",
         "serebii": "litten",
         "bulbapedia": "Litten",
         "homeSprite": "0725",
-        "miniSprite": "0725",
-        "showdown": "litten",
-        "showdownDef": "Litten",
-        "smogon": "litten"
+        "miniSprite": "0725"
     },
     "baseSpecies": null,
     "baseForms": [],

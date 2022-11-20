@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "AMPHAROS",
         "veekunDb": "ampharos",
+        "smogon": "ampharos",
+        "showdown": "ampharos",
+        "showdownDef": "Ampharos",
         "serebii": "ampharos",
         "bulbapedia": "Ampharos",
         "homeSprite": "0181",
-        "miniSprite": "0181",
-        "showdown": "ampharos",
-        "showdownDef": "Ampharos",
-        "smogon": "ampharos"
+        "miniSprite": "0181"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "ELDEGOSS",
         "veekunDb": "eldegoss",
+        "smogon": "eldegoss",
+        "showdown": "eldegoss",
+        "showdownDef": "Eldegoss",
         "serebii": "eldegoss",
         "bulbapedia": "Eldegoss",
         "homeSprite": "0830",
-        "miniSprite": "0830",
-        "showdown": "eldegoss",
-        "showdownDef": "Eldegoss",
-        "smogon": "eldegoss"
+        "miniSprite": "0830"
     },
     "baseSpecies": null,
     "baseForms": [],

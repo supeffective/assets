@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "ALCREMIE_RUBY_CREAM_BERRY",
         "veekunDb": "alcremie-ruby-cream-berry",
+        "smogon": "alcremie-ruby-cream-berry",
+        "showdown": "alcremie",
+        "showdownDef": "Alcremie-Ruby-Cream-Berry",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "0869-ruby-cream-berry",
-        "miniSprite": "0869-ruby-cream-berry",
-        "showdown": "alcremie",
-        "showdownDef": "Alcremie-Ruby-Cream-Berry",
-        "smogon": "alcremie-ruby-cream-berry"
+        "miniSprite": "0869-ruby-cream-berry"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

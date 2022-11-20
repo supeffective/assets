@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "SCORBUNNY",
         "veekunDb": "scorbunny",
+        "smogon": "scorbunny",
+        "showdown": "scorbunny",
+        "showdownDef": "Scorbunny",
         "serebii": "scorbunny",
         "bulbapedia": "Scorbunny",
         "homeSprite": "0813",
-        "miniSprite": "0813",
-        "showdown": "scorbunny",
-        "showdownDef": "Scorbunny",
-        "smogon": "scorbunny"
+        "miniSprite": "0813"
     },
     "baseSpecies": null,
     "baseForms": [],

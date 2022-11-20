@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "POLIWRATH",
         "veekunDb": "poliwrath",
+        "smogon": "poliwrath",
+        "showdown": "poliwrath",
+        "showdownDef": "Poliwrath",
         "serebii": "poliwrath",
         "bulbapedia": "Poliwrath",
         "homeSprite": "0062",
-        "miniSprite": "0062",
-        "showdown": "poliwrath",
-        "showdownDef": "Poliwrath",
-        "smogon": "poliwrath"
+        "miniSprite": "0062"
     },
     "baseSpecies": null,
     "baseForms": [],

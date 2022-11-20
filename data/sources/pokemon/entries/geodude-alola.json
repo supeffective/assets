@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "GEODUDE_ALOLA",
         "veekunDb": "geodude-alola",
+        "smogon": "geodude-alola",
+        "showdown": "geodudealola",
+        "showdownDef": "Geodude-Alola",
         "serebii": "geodude",
         "bulbapedia": "Geodude",
         "homeSprite": "0074-alola",
-        "miniSprite": "0074-alola",
-        "showdown": "geodudealola",
-        "showdownDef": "Geodude-Alola",
-        "smogon": "geodude-alola"
+        "miniSprite": "0074-alola"
     },
     "baseSpecies": "geodude",
     "baseForms": [],

@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "SKITTY",
         "veekunDb": "skitty",
+        "smogon": "skitty",
+        "showdown": "skitty",
+        "showdownDef": "Skitty",
         "serebii": "skitty",
         "bulbapedia": "Skitty",
         "homeSprite": "0300",
-        "miniSprite": "0300",
-        "showdown": "skitty",
-        "showdownDef": "Skitty",
-        "smogon": "skitty"
+        "miniSprite": "0300"
     },
     "baseSpecies": null,
     "baseForms": [],

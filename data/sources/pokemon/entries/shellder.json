@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "SHELLDER",
         "veekunDb": "shellder",
+        "smogon": "shellder",
+        "showdown": "shellder",
+        "showdownDef": "Shellder",
         "serebii": "shellder",
         "bulbapedia": "Shellder",
         "homeSprite": "0090",
-        "miniSprite": "0090",
-        "showdown": "shellder",
-        "showdownDef": "Shellder",
-        "smogon": "shellder"
+        "miniSprite": "0090"
     },
     "baseSpecies": null,
     "baseForms": [],

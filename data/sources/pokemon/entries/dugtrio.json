@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "DUGTRIO",
         "veekunDb": "dugtrio",
+        "smogon": "dugtrio",
+        "showdown": "dugtrio",
+        "showdownDef": "Dugtrio",
         "serebii": "dugtrio",
         "bulbapedia": "Dugtrio",
         "homeSprite": "0051",
-        "miniSprite": "0051",
-        "showdown": "dugtrio",
-        "showdownDef": "Dugtrio",
-        "smogon": "dugtrio"
+        "miniSprite": "0051"
     },
     "baseSpecies": null,
     "baseForms": [],

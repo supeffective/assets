@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "ZOROARK_HISUIAN",
         "veekunDb": null,
+        "smogon": "zoroark-hisui",
+        "showdown": "zoroarkhisui",
+        "showdownDef": "Zoroark-Hisui",
         "serebii": "zoroark",
         "bulbapedia": "Zoroark",
         "homeSprite": "0571-hisui",
-        "miniSprite": "0571-hisui",
-        "showdown": "zoroarkhisui",
-        "showdownDef": "Zoroark-Hisui",
-        "smogon": "zoroark-hisui"
+        "miniSprite": "0571-hisui"
     },
     "baseSpecies": "zoroark",
     "baseForms": [],

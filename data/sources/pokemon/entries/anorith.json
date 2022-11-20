@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "ANORITH",
         "veekunDb": "anorith",
+        "smogon": "anorith",
+        "showdown": "anorith",
+        "showdownDef": "Anorith",
         "serebii": "anorith",
         "bulbapedia": "Anorith",
         "homeSprite": "0347",
-        "miniSprite": "0347",
-        "showdown": "anorith",
-        "showdownDef": "Anorith",
-        "smogon": "anorith"
+        "miniSprite": "0347"
     },
     "baseSpecies": null,
     "baseForms": [],

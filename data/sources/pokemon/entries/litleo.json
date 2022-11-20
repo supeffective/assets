@@ -83,13 +83,13 @@
     "refs": {
         "pogo": "LITLEO",
         "veekunDb": "litleo",
+        "smogon": "litleo",
+        "showdown": "litleo",
+        "showdownDef": "Litleo",
         "serebii": "litleo",
         "bulbapedia": "Litleo",
         "homeSprite": "0667",
-        "miniSprite": "0667",
-        "showdown": "litleo",
-        "showdownDef": "Litleo",
-        "smogon": "litleo"
+        "miniSprite": "0667"
     },
     "baseSpecies": null,
     "baseForms": [],

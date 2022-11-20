@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "SWALOT",
         "veekunDb": "swalot",
+        "smogon": "swalot",
+        "showdown": "swalot",
+        "showdownDef": "Swalot",
         "serebii": "swalot",
         "bulbapedia": "Swalot",
         "homeSprite": "0317",
-        "miniSprite": "0317",
-        "showdown": "swalot",
-        "showdownDef": "Swalot",
-        "smogon": "swalot"
+        "miniSprite": "0317"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "TORNADUS_THERIAN",
         "veekunDb": "tornadus-therian",
+        "smogon": "tornadus-therian",
+        "showdown": "tornadustherian",
+        "showdownDef": "Tornadus-Therian",
         "serebii": "tornadus",
         "bulbapedia": "Tornadus",
         "homeSprite": "0641-therian",
-        "miniSprite": "0641-therian",
-        "showdown": "tornadustherian",
-        "showdownDef": "Tornadus-Therian",
-        "smogon": "tornadus-therian"
+        "miniSprite": "0641-therian"
     },
     "baseSpecies": "tornadus",
     "baseForms": [

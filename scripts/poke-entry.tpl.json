@@ -41,7 +41,6 @@
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
     "storableIn": [],
-    "isReleased": true,
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
@@ -79,8 +78,8 @@
         "showdownDef": "???",
         "serebii": "???",
         "bulbapedia": "???",
-        "homeSprite": "???",
-        "miniSprite": "???"
+        "homeSprite": null,
+        "miniSprite": null
     },
     "baseSpecies": null,
     "baseForms": [],

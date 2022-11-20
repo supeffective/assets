@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "CRAWDAUNT",
         "veekunDb": "crawdaunt",
+        "smogon": "crawdaunt",
+        "showdown": "crawdaunt",
+        "showdownDef": "Crawdaunt",
         "serebii": "crawdaunt",
         "bulbapedia": "Crawdaunt",
         "homeSprite": "0342",
-        "miniSprite": "0342",
-        "showdown": "crawdaunt",
-        "showdownDef": "Crawdaunt",
-        "smogon": "crawdaunt"
+        "miniSprite": "0342"
     },
     "baseSpecies": null,
     "baseForms": [],

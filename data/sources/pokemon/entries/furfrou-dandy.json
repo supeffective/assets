@@ -83,13 +83,13 @@
     "refs": {
         "pogo": "FURFROU_DANDY",
         "veekunDb": "furfrou-dandy",
+        "smogon": "furfrou-dandy",
+        "showdown": "furfrou",
+        "showdownDef": "Furfrou-Dandy",
         "serebii": "furfrou",
         "bulbapedia": "Furfrou",
         "homeSprite": "0676-dandy",
-        "miniSprite": "0676-dandy",
-        "showdown": "furfrou",
-        "showdownDef": "Furfrou-Dandy",
-        "smogon": "furfrou-dandy"
+        "miniSprite": "0676-dandy"
     },
     "baseSpecies": "furfrou",
     "baseForms": [

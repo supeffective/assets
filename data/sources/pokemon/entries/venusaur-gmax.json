@@ -75,13 +75,13 @@
     "refs": {
         "pogo": "VENUSAUR_GMAX",
         "veekunDb": "venusaur-gmax",
+        "smogon": "venusaur-gmax",
+        "showdown": "venusaurgmax",
+        "showdownDef": "Venusaur-Gmax",
         "serebii": "venusaur",
         "bulbapedia": "Venusaur",
         "homeSprite": "0003-gmax",
-        "miniSprite": "0003-gmax",
-        "showdown": "venusaurgmax",
-        "showdownDef": "Venusaur-Gmax",
-        "smogon": "venusaur-gmax"
+        "miniSprite": "0003-gmax"
     },
     "baseSpecies": "venusaur",
     "baseForms": [

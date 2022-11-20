@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "CORVISQUIRE",
         "veekunDb": "corvisquire",
+        "smogon": "corvisquire",
+        "showdown": "corvisquire",
+        "showdownDef": "Corvisquire",
         "serebii": "corvisquire",
         "bulbapedia": "Corvisquire",
         "homeSprite": "0822",
-        "miniSprite": "0822",
-        "showdown": "corvisquire",
-        "showdownDef": "Corvisquire",
-        "smogon": "corvisquire"
+        "miniSprite": "0822"
     },
     "baseSpecies": null,
     "baseForms": [],

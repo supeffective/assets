@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "CHERUBI",
         "veekunDb": "cherubi",
+        "smogon": "cherubi",
+        "showdown": "cherubi",
+        "showdownDef": "Cherubi",
         "serebii": "cherubi",
         "bulbapedia": "Cherubi",
         "homeSprite": "0420",
-        "miniSprite": "0420",
-        "showdown": "cherubi",
-        "showdownDef": "Cherubi",
-        "smogon": "cherubi"
+        "miniSprite": "0420"
     },
     "baseSpecies": null,
     "baseForms": [],

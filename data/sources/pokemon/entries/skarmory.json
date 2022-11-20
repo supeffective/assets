@@ -99,13 +99,13 @@
     "refs": {
         "pogo": "SKARMORY",
         "veekunDb": "skarmory",
+        "smogon": "skarmory",
+        "showdown": "skarmory",
+        "showdownDef": "Skarmory",
         "serebii": "skarmory",
         "bulbapedia": "Skarmory",
         "homeSprite": "0227",
-        "miniSprite": "0227",
-        "showdown": "skarmory",
-        "showdownDef": "Skarmory",
-        "smogon": "skarmory"
+        "miniSprite": "0227"
     },
     "baseSpecies": null,
     "baseForms": [],

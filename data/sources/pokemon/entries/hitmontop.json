@@ -99,13 +99,13 @@
     "refs": {
         "pogo": "HITMONTOP",
         "veekunDb": "hitmontop",
+        "smogon": "hitmontop",
+        "showdown": "hitmontop",
+        "showdownDef": "Hitmontop",
         "serebii": "hitmontop",
         "bulbapedia": "Hitmontop",
         "homeSprite": "0237",
-        "miniSprite": "0237",
-        "showdown": "hitmontop",
-        "showdownDef": "Hitmontop",
-        "smogon": "hitmontop"
+        "miniSprite": "0237"
     },
     "baseSpecies": null,
     "baseForms": [],

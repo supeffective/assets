@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "FRAXURE",
         "veekunDb": "fraxure",
+        "smogon": "fraxure",
+        "showdown": "fraxure",
+        "showdownDef": "Fraxure",
         "serebii": "fraxure",
         "bulbapedia": "Fraxure",
         "homeSprite": "0611",
-        "miniSprite": "0611",
-        "showdown": "fraxure",
-        "showdownDef": "Fraxure",
-        "smogon": "fraxure"
+        "miniSprite": "0611"
     },
     "baseSpecies": null,
     "baseForms": [],

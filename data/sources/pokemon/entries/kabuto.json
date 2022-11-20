@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "KABUTO",
         "veekunDb": "kabuto",
+        "smogon": "kabuto",
+        "showdown": "kabuto",
+        "showdownDef": "Kabuto",
         "serebii": "kabuto",
         "bulbapedia": "Kabuto",
         "homeSprite": "0140",
-        "miniSprite": "0140",
-        "showdown": "kabuto",
-        "showdownDef": "Kabuto",
-        "smogon": "kabuto"
+        "miniSprite": "0140"
     },
     "baseSpecies": null,
     "baseForms": [],

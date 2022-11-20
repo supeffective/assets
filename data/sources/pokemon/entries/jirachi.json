@@ -94,13 +94,13 @@
     "refs": {
         "pogo": "JIRACHI",
         "veekunDb": "jirachi",
+        "smogon": "jirachi",
+        "showdown": "jirachi",
+        "showdownDef": "Jirachi",
         "serebii": "jirachi",
         "bulbapedia": "Jirachi",
         "homeSprite": "0385",
-        "miniSprite": "0385",
-        "showdown": "jirachi",
-        "showdownDef": "Jirachi",
-        "smogon": "jirachi"
+        "miniSprite": "0385"
     },
     "baseSpecies": null,
     "baseForms": [],

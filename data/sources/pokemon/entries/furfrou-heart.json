@@ -83,13 +83,13 @@
     "refs": {
         "pogo": "FURFROU_HEART",
         "veekunDb": "furfrou-heart",
+        "smogon": "furfrou-heart",
+        "showdown": "furfrou",
+        "showdownDef": "Furfrou-Heart",
         "serebii": "furfrou",
         "bulbapedia": "Furfrou",
         "homeSprite": "0676-heart",
-        "miniSprite": "0676-heart",
-        "showdown": "furfrou",
-        "showdownDef": "Furfrou-Heart",
-        "smogon": "furfrou-heart"
+        "miniSprite": "0676-heart"
     },
     "baseSpecies": "furfrou",
     "baseForms": [

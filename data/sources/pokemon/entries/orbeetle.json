@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "ORBEETLE",
         "veekunDb": "orbeetle",
+        "smogon": "orbeetle",
+        "showdown": "orbeetle",
+        "showdownDef": "Orbeetle",
         "serebii": "orbeetle",
         "bulbapedia": "Orbeetle",
         "homeSprite": "0826",
-        "miniSprite": "0826",
-        "showdown": "orbeetle",
-        "showdownDef": "Orbeetle",
-        "smogon": "orbeetle"
+        "miniSprite": "0826"
     },
     "baseSpecies": null,
     "baseForms": [],

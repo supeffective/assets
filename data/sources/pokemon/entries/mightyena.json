@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "MIGHTYENA",
         "veekunDb": "mightyena",
+        "smogon": "mightyena",
+        "showdown": "mightyena",
+        "showdownDef": "Mightyena",
         "serebii": "mightyena",
         "bulbapedia": "Mightyena",
         "homeSprite": "0262",
-        "miniSprite": "0262",
-        "showdown": "mightyena",
-        "showdownDef": "Mightyena",
-        "smogon": "mightyena"
+        "miniSprite": "0262"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "BANETTE",
         "veekunDb": "banette",
+        "smogon": "banette",
+        "showdown": "banette",
+        "showdownDef": "Banette",
         "serebii": "banette",
         "bulbapedia": "Banette",
         "homeSprite": "0354",
-        "miniSprite": "0354",
-        "showdown": "banette",
-        "showdownDef": "Banette",
-        "smogon": "banette"
+        "miniSprite": "0354"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -76,13 +76,13 @@
     "refs": {
         "pogo": "ABSOL_MEGA",
         "veekunDb": "absol-mega",
+        "smogon": "absol-mega",
+        "showdown": "absolmega",
+        "showdownDef": "Absol-Mega",
         "serebii": "absol",
         "bulbapedia": "Absol",
         "homeSprite": "0359-mega",
-        "miniSprite": "0359-mega",
-        "showdown": "absolmega",
-        "showdownDef": "Absol-Mega",
-        "smogon": "absol-mega"
+        "miniSprite": "0359-mega"
     },
     "baseSpecies": "absol",
     "baseForms": [

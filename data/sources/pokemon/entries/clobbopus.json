@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "CLOBBOPUS",
         "veekunDb": "clobbopus",
+        "smogon": "clobbopus",
+        "showdown": "clobbopus",
+        "showdownDef": "Clobbopus",
         "serebii": "clobbopus",
         "bulbapedia": "Clobbopus",
         "homeSprite": "0852",
-        "miniSprite": "0852",
-        "showdown": "clobbopus",
-        "showdownDef": "Clobbopus",
-        "smogon": "clobbopus"
+        "miniSprite": "0852"
     },
     "baseSpecies": null,
     "baseForms": [],

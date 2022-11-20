@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "BASTIODON",
         "veekunDb": "bastiodon",
+        "smogon": "bastiodon",
+        "showdown": "bastiodon",
+        "showdownDef": "Bastiodon",
         "serebii": "bastiodon",
         "bulbapedia": "Bastiodon",
         "homeSprite": "0411",
-        "miniSprite": "0411",
-        "showdown": "bastiodon",
-        "showdownDef": "Bastiodon",
-        "smogon": "bastiodon"
+        "miniSprite": "0411"
     },
     "baseSpecies": null,
     "baseForms": [],

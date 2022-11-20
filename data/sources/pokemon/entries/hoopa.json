@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "HOOPA",
         "veekunDb": "hoopa",
+        "smogon": "hoopa",
+        "showdown": "hoopa",
+        "showdownDef": "Hoopa",
         "serebii": "hoopa",
         "bulbapedia": "Hoopa",
         "homeSprite": "0720",
-        "miniSprite": "0720",
-        "showdown": "hoopa",
-        "showdownDef": "Hoopa",
-        "smogon": "hoopa"
+        "miniSprite": "0720"
     },
     "baseSpecies": null,
     "baseForms": [],

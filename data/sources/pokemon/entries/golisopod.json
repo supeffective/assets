@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "GOLISOPOD",
         "veekunDb": "golisopod",
+        "smogon": "golisopod",
+        "showdown": "golisopod",
+        "showdownDef": "Golisopod",
         "serebii": "golisopod",
         "bulbapedia": "Golisopod",
         "homeSprite": "0768",
-        "miniSprite": "0768",
-        "showdown": "golisopod",
-        "showdownDef": "Golisopod",
-        "smogon": "golisopod"
+        "miniSprite": "0768"
     },
     "baseSpecies": null,
     "baseForms": [],

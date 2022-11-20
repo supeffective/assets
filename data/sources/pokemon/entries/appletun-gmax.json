@@ -75,13 +75,13 @@
     "refs": {
         "pogo": "APPLETUN_GMAX",
         "veekunDb": "appletun-gmax",
+        "smogon": "appletun-gmax",
+        "showdown": "appletungmax",
+        "showdownDef": "Appletun-Gmax",
         "serebii": "appletun",
         "bulbapedia": "Appletun",
         "homeSprite": "0842-gmax",
-        "miniSprite": "0841-gmax",
-        "showdown": "appletungmax",
-        "showdownDef": "Appletun-Gmax",
-        "smogon": "appletun-gmax"
+        "miniSprite": "0841-gmax"
     },
     "baseSpecies": "appletun",
     "baseForms": [

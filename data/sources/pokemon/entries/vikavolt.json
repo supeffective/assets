@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "VIKAVOLT",
         "veekunDb": "vikavolt",
+        "smogon": "vikavolt",
+        "showdown": "vikavolt",
+        "showdownDef": "Vikavolt",
         "serebii": "vikavolt",
         "bulbapedia": "Vikavolt",
         "homeSprite": "0738",
-        "miniSprite": "0738",
-        "showdown": "vikavolt",
-        "showdownDef": "Vikavolt",
-        "smogon": "vikavolt"
+        "miniSprite": "0738"
     },
     "baseSpecies": null,
     "baseForms": [],

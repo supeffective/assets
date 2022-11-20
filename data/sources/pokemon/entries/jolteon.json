@@ -105,13 +105,13 @@
     "refs": {
         "pogo": "JOLTEON",
         "veekunDb": "jolteon",
+        "smogon": "jolteon",
+        "showdown": "jolteon",
+        "showdownDef": "Jolteon",
         "serebii": "jolteon",
         "bulbapedia": "Jolteon",
         "homeSprite": "0135",
-        "miniSprite": "0135",
-        "showdown": "jolteon",
-        "showdownDef": "Jolteon",
-        "smogon": "jolteon"
+        "miniSprite": "0135"
     },
     "baseSpecies": null,
     "baseForms": [],

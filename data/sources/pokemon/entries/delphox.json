@@ -83,13 +83,13 @@
     "refs": {
         "pogo": "DELPHOX",
         "veekunDb": "delphox",
+        "smogon": "delphox",
+        "showdown": "delphox",
+        "showdownDef": "Delphox",
         "serebii": "delphox",
         "bulbapedia": "Delphox",
         "homeSprite": "0655",
-        "miniSprite": "0655",
-        "showdown": "delphox",
-        "showdownDef": "Delphox",
-        "smogon": "delphox"
+        "miniSprite": "0655"
     },
     "baseSpecies": null,
     "baseForms": [],

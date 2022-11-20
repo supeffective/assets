@@ -76,13 +76,13 @@
     "refs": {
         "pogo": "LUCARIO_MEGA",
         "veekunDb": "lucario-mega",
+        "smogon": "lucario-mega",
+        "showdown": "lucariomega",
+        "showdownDef": "Lucario-Mega",
         "serebii": "lucario",
         "bulbapedia": "Lucario",
         "homeSprite": "0448-mega",
-        "miniSprite": "0448-mega",
-        "showdown": "lucariomega",
-        "showdownDef": "Lucario-Mega",
-        "smogon": "lucario-mega"
+        "miniSprite": "0448-mega"
     },
     "baseSpecies": "lucario",
     "baseForms": [

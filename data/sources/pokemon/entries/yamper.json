@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "YAMPER",
         "veekunDb": "yamper",
+        "smogon": "yamper",
+        "showdown": "yamper",
+        "showdownDef": "Yamper",
         "serebii": "yamper",
         "bulbapedia": "Yamper",
         "homeSprite": "0835",
-        "miniSprite": "0835",
-        "showdown": "yamper",
-        "showdownDef": "Yamper",
-        "smogon": "yamper"
+        "miniSprite": "0835"
     },
     "baseSpecies": null,
     "baseForms": [],

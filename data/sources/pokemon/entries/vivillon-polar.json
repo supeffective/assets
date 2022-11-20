@@ -81,13 +81,13 @@
     "refs": {
         "pogo": "VIVILLON_POLAR",
         "veekunDb": "vivillon-polar",
+        "smogon": "vivillon-polar",
+        "showdown": "vivillon",
+        "showdownDef": "Vivillon-Polar",
         "serebii": "vivillon",
         "bulbapedia": "Vivillon",
         "homeSprite": "0666-polar",
-        "miniSprite": "0666-polar",
-        "showdown": "vivillon",
-        "showdownDef": "Vivillon-Polar",
-        "smogon": "vivillon-polar"
+        "miniSprite": "0666-polar"
     },
     "baseSpecies": "vivillon",
     "baseForms": [],

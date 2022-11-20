@@ -83,13 +83,13 @@
     "refs": {
         "pogo": "FURFROU_DIAMOND",
         "veekunDb": "furfrou-diamond",
+        "smogon": "furfrou-diamond",
+        "showdown": "furfrou",
+        "showdownDef": "Furfrou-Diamond",
         "serebii": "furfrou",
         "bulbapedia": "Furfrou",
         "homeSprite": "0676-diamond",
-        "miniSprite": "0676-diamond",
-        "showdown": "furfrou",
-        "showdownDef": "Furfrou-Diamond",
-        "smogon": "furfrou-diamond"
+        "miniSprite": "0676-diamond"
     },
     "baseSpecies": "furfrou",
     "baseForms": [

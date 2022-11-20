@@ -77,13 +77,13 @@
     "refs": {
         "pogo": "WISHIWASHI_SCHOOL",
         "veekunDb": "wishiwashi-school",
+        "smogon": "wishiwashi-school",
+        "showdown": "wishiwashischool",
+        "showdownDef": "Wishiwashi-School",
         "serebii": "wishiwashi",
         "bulbapedia": "Wishiwashi",
         "homeSprite": "0746-school",
-        "miniSprite": "0746-school",
-        "showdown": "wishiwashischool",
-        "showdownDef": "Wishiwashi-School",
-        "smogon": "wishiwashi-school"
+        "miniSprite": "0746-school"
     },
     "baseSpecies": "wishiwashi",
     "baseForms": [

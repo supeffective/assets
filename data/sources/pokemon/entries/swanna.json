@@ -86,13 +86,13 @@
     "refs": {
         "pogo": "SWANNA",
         "veekunDb": "swanna",
+        "smogon": "swanna",
+        "showdown": "swanna",
+        "showdownDef": "Swanna",
         "serebii": "swanna",
         "bulbapedia": "Swanna",
         "homeSprite": "0581",
-        "miniSprite": "0581",
-        "showdown": "swanna",
-        "showdownDef": "Swanna",
-        "smogon": "swanna"
+        "miniSprite": "0581"
     },
     "baseSpecies": null,
     "baseForms": [],

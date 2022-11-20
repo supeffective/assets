@@ -82,13 +82,13 @@
     "refs": {
         "pogo": "MAREANIE",
         "veekunDb": "mareanie",
+        "smogon": "mareanie",
+        "showdown": "mareanie",
+        "showdownDef": "Mareanie",
         "serebii": "mareanie",
         "bulbapedia": "Mareanie",
         "homeSprite": "0747",
-        "miniSprite": "0747",
-        "showdown": "mareanie",
-        "showdownDef": "Mareanie",
-        "smogon": "mareanie"
+        "miniSprite": "0747"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -99,13 +99,13 @@
     "refs": {
         "pogo": "KIRLIA",
         "veekunDb": "kirlia",
+        "smogon": "kirlia",
+        "showdown": "kirlia",
+        "showdownDef": "Kirlia",
         "serebii": "kirlia",
         "bulbapedia": "Kirlia",
         "homeSprite": "0281",
-        "miniSprite": "0281",
-        "showdown": "kirlia",
-        "showdownDef": "Kirlia",
-        "smogon": "kirlia"
+        "miniSprite": "0281"
     },
     "baseSpecies": null,
     "baseForms": [],

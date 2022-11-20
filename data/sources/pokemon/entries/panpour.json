@@ -86,13 +86,13 @@
     "refs": {
         "pogo": "PANPOUR",
         "veekunDb": "panpour",
+        "smogon": "panpour",
+        "showdown": "panpour",
+        "showdownDef": "Panpour",
         "serebii": "panpour",
         "bulbapedia": "Panpour",
         "homeSprite": "0515",
-        "miniSprite": "0515",
-        "showdown": "panpour",
-        "showdownDef": "Panpour",
-        "smogon": "panpour"
+        "miniSprite": "0515"
     },
     "baseSpecies": null,
     "baseForms": [],

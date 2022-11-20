@@ -99,13 +99,13 @@
     "refs": {
         "pogo": "SPHEAL",
         "veekunDb": "spheal",
+        "smogon": "spheal",
+        "showdown": "spheal",
+        "showdownDef": "Spheal",
         "serebii": "spheal",
         "bulbapedia": "Spheal",
         "homeSprite": "0363",
-        "miniSprite": "0363",
-        "showdown": "spheal",
-        "showdownDef": "Spheal",
-        "smogon": "spheal"
+        "miniSprite": "0363"
     },
     "baseSpecies": null,
     "baseForms": [],

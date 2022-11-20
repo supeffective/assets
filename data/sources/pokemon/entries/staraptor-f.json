@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "STARAPTOR",
         "veekunDb": "staraptor",
+        "smogon": "staraptor",
+        "showdown": "staraptor",
+        "showdownDef": "Staraptor",
         "serebii": "staraptor",
         "bulbapedia": "Staraptor",
         "homeSprite": "0398-f",
-        "miniSprite": "0398",
-        "showdown": "staraptor",
-        "showdownDef": "Staraptor",
-        "smogon": "staraptor"
+        "miniSprite": "0398"
     },
     "baseSpecies": "staraptor",
     "baseForms": [],

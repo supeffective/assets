@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "MAKUHITA",
         "veekunDb": "makuhita",
+        "smogon": "makuhita",
+        "showdown": "makuhita",
+        "showdownDef": "Makuhita",
         "serebii": "makuhita",
         "bulbapedia": "Makuhita",
         "homeSprite": "0296",
-        "miniSprite": "0296",
-        "showdown": "makuhita",
-        "showdownDef": "Makuhita",
-        "smogon": "makuhita"
+        "miniSprite": "0296"
     },
     "baseSpecies": null,
     "baseForms": [],

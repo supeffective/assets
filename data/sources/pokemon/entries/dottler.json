@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "DOTTLER",
         "veekunDb": "dottler",
+        "smogon": "dottler",
+        "showdown": "dottler",
+        "showdownDef": "Dottler",
         "serebii": "dottler",
         "bulbapedia": "Dottler",
         "homeSprite": "0825",
-        "miniSprite": "0825",
-        "showdown": "dottler",
-        "showdownDef": "Dottler",
-        "smogon": "dottler"
+        "miniSprite": "0825"
     },
     "baseSpecies": null,
     "baseForms": [],

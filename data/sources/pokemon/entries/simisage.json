@@ -86,13 +86,13 @@
     "refs": {
         "pogo": "SIMISAGE",
         "veekunDb": "simisage",
+        "smogon": "simisage",
+        "showdown": "simisage",
+        "showdownDef": "Simisage",
         "serebii": "simisage",
         "bulbapedia": "Simisage",
         "homeSprite": "0512",
-        "miniSprite": "0512",
-        "showdown": "simisage",
-        "showdownDef": "Simisage",
-        "smogon": "simisage"
+        "miniSprite": "0512"
     },
     "baseSpecies": null,
     "baseForms": [],

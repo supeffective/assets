@@ -85,13 +85,13 @@
     "refs": {
         "pogo": "SPRITZEE",
         "veekunDb": "spritzee",
+        "smogon": "spritzee",
+        "showdown": "spritzee",
+        "showdownDef": "Spritzee",
         "serebii": "spritzee",
         "bulbapedia": "Spritzee",
         "homeSprite": "0682",
-        "miniSprite": "0682",
-        "showdown": "spritzee",
-        "showdownDef": "Spritzee",
-        "smogon": "spritzee"
+        "miniSprite": "0682"
     },
     "baseSpecies": null,
     "baseForms": [],

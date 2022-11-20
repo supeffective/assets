@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "SEEDOT",
         "veekunDb": "seedot",
+        "smogon": "seedot",
+        "showdown": "seedot",
+        "showdownDef": "Seedot",
         "serebii": "seedot",
         "bulbapedia": "Seedot",
         "homeSprite": "0273",
-        "miniSprite": "0273",
-        "showdown": "seedot",
-        "showdownDef": "Seedot",
-        "smogon": "seedot"
+        "miniSprite": "0273"
     },
     "baseSpecies": null,
     "baseForms": [],

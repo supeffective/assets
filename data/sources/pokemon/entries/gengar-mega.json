@@ -76,13 +76,13 @@
     "refs": {
         "pogo": "GENGAR_MEGA",
         "veekunDb": "gengar-mega",
+        "smogon": "gengar-mega",
+        "showdown": "gengarmega",
+        "showdownDef": "Gengar-Mega",
         "serebii": "gengar",
         "bulbapedia": "Gengar",
         "homeSprite": "0094-mega",
-        "miniSprite": "0094-mega",
-        "showdown": "gengarmega",
-        "showdownDef": "Gengar-Mega",
-        "smogon": "gengar-mega"
+        "miniSprite": "0094-mega"
     },
     "baseSpecies": "gengar",
     "baseForms": [

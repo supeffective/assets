@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "DECIDUEYE",
         "veekunDb": "decidueye",
+        "smogon": "decidueye",
+        "showdown": "decidueye",
+        "showdownDef": "Decidueye",
         "serebii": "decidueye",
         "bulbapedia": "Decidueye",
         "homeSprite": "0724",
-        "miniSprite": "0724",
-        "showdown": "decidueye",
-        "showdownDef": "Decidueye",
-        "smogon": "decidueye"
+        "miniSprite": "0724"
     },
     "baseSpecies": null,
     "baseForms": [],

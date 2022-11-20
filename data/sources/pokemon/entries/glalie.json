@@ -99,13 +99,13 @@
     "refs": {
         "pogo": "GLALIE",
         "veekunDb": "glalie",
+        "smogon": "glalie",
+        "showdown": "glalie",
+        "showdownDef": "Glalie",
         "serebii": "glalie",
         "bulbapedia": "Glalie",
         "homeSprite": "0362",
-        "miniSprite": "0362",
-        "showdown": "glalie",
-        "showdownDef": "Glalie",
-        "smogon": "glalie"
+        "miniSprite": "0362"
     },
     "baseSpecies": null,
     "baseForms": [],

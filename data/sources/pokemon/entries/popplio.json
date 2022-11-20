@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "POPPLIO",
         "veekunDb": "popplio",
+        "smogon": "popplio",
+        "showdown": "popplio",
+        "showdownDef": "Popplio",
         "serebii": "popplio",
         "bulbapedia": "Popplio",
         "homeSprite": "0728",
-        "miniSprite": "0728",
-        "showdown": "popplio",
-        "showdownDef": "Popplio",
-        "smogon": "popplio"
+        "miniSprite": "0728"
     },
     "baseSpecies": null,
     "baseForms": [],

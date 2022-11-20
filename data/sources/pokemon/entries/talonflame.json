@@ -85,13 +85,13 @@
     "refs": {
         "pogo": "TALONFLAME",
         "veekunDb": "talonflame",
+        "smogon": "talonflame",
+        "showdown": "talonflame",
+        "showdownDef": "Talonflame",
         "serebii": "talonflame",
         "bulbapedia": "Talonflame",
         "homeSprite": "0663",
-        "miniSprite": "0663",
-        "showdown": "talonflame",
-        "showdownDef": "Talonflame",
-        "smogon": "talonflame"
+        "miniSprite": "0663"
     },
     "baseSpecies": null,
     "baseForms": [],

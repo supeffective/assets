@@ -83,13 +83,13 @@
     "refs": {
         "pogo": "FROGADIER",
         "veekunDb": "frogadier",
+        "smogon": "frogadier",
+        "showdown": "frogadier",
+        "showdownDef": "Frogadier",
         "serebii": "frogadier",
         "bulbapedia": "Frogadier",
         "homeSprite": "0657",
-        "miniSprite": "0657",
-        "showdown": "frogadier",
-        "showdownDef": "Frogadier",
-        "smogon": "frogadier"
+        "miniSprite": "0657"
     },
     "baseSpecies": null,
     "baseForms": [],

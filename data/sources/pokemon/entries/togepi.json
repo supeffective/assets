@@ -101,13 +101,13 @@
     "refs": {
         "pogo": "TOGEPI",
         "veekunDb": "togepi",
+        "smogon": "togepi",
+        "showdown": "togepi",
+        "showdownDef": "Togepi",
         "serebii": "togepi",
         "bulbapedia": "Togepi",
         "homeSprite": "0175",
-        "miniSprite": "0175",
-        "showdown": "togepi",
-        "showdownDef": "Togepi",
-        "smogon": "togepi"
+        "miniSprite": "0175"
     },
     "baseSpecies": null,
     "baseForms": [],

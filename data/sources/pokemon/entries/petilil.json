@@ -90,13 +90,13 @@
     "refs": {
         "pogo": "PETILIL",
         "veekunDb": "petilil",
+        "smogon": "petilil",
+        "showdown": "petilil",
+        "showdownDef": "Petilil",
         "serebii": "petilil",
         "bulbapedia": "Petilil",
         "homeSprite": "0548",
-        "miniSprite": "0548",
-        "showdown": "petilil",
-        "showdownDef": "Petilil",
-        "smogon": "petilil"
+        "miniSprite": "0548"
     },
     "baseSpecies": null,
     "baseForms": [],

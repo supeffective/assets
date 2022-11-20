@@ -99,13 +99,13 @@
     "refs": {
         "pogo": "QWILFISH",
         "veekunDb": "qwilfish",
+        "smogon": "qwilfish",
+        "showdown": "qwilfish",
+        "showdownDef": "Qwilfish",
         "serebii": "qwilfish",
         "bulbapedia": "Qwilfish",
         "homeSprite": "0211",
-        "miniSprite": "0211",
-        "showdown": "qwilfish",
-        "showdownDef": "Qwilfish",
-        "smogon": "qwilfish"
+        "miniSprite": "0211"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "WURMPLE",
         "veekunDb": "wurmple",
+        "smogon": "wurmple",
+        "showdown": "wurmple",
+        "showdownDef": "Wurmple",
         "serebii": "wurmple",
         "bulbapedia": "Wurmple",
         "homeSprite": "0265",
-        "miniSprite": "0265",
-        "showdown": "wurmple",
-        "showdownDef": "Wurmple",
-        "smogon": "wurmple"
+        "miniSprite": "0265"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "POOCHYENA",
         "veekunDb": "poochyena",
+        "smogon": "poochyena",
+        "showdown": "poochyena",
+        "showdownDef": "Poochyena",
         "serebii": "poochyena",
         "bulbapedia": "Poochyena",
         "homeSprite": "0261",
-        "miniSprite": "0261",
-        "showdown": "poochyena",
-        "showdownDef": "Poochyena",
-        "smogon": "poochyena"
+        "miniSprite": "0261"
     },
     "baseSpecies": null,
     "baseForms": [],

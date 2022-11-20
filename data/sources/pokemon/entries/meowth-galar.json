@@ -80,13 +80,13 @@
     "refs": {
         "pogo": "MEOWTH_GALARIAN",
         "veekunDb": "meowth-galar",
+        "smogon": "meowth-galar",
+        "showdown": "meowthgalar",
+        "showdownDef": "Meowth-Galar",
         "serebii": "meowth",
         "bulbapedia": "Meowth",
         "homeSprite": "0052-galar",
-        "miniSprite": "0052-galar",
-        "showdown": "meowthgalar",
-        "showdownDef": "Meowth-Galar",
-        "smogon": "meowth-galar"
+        "miniSprite": "0052-galar"
     },
     "baseSpecies": "meowth",
     "baseForms": [],

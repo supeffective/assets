@@ -80,13 +80,13 @@
     "refs": {
         "pogo": "ELECTRODE_HISUIAN",
         "veekunDb": null,
+        "smogon": "electrode-hisui",
+        "showdown": "electrodehisui",
+        "showdownDef": "Electrode-Hisui",
         "serebii": "electrode",
         "bulbapedia": "Electrode",
         "homeSprite": "0101-hisui",
-        "miniSprite": "0101-hisui",
-        "showdown": "electrodehisui",
-        "showdownDef": "Electrode-Hisui",
-        "smogon": "electrode-hisui"
+        "miniSprite": "0101-hisui"
     },
     "baseSpecies": "electrode",
     "baseForms": [],

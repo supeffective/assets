@@ -83,13 +83,13 @@
     "refs": {
         "pogo": "FURFROU_MATRON",
         "veekunDb": "furfrou-matron",
+        "smogon": "furfrou-matron",
+        "showdown": "furfrou",
+        "showdownDef": "Furfrou-Matron",
         "serebii": "furfrou",
         "bulbapedia": "Furfrou",
         "homeSprite": "0676-matron",
-        "miniSprite": "0676-matron",
-        "showdown": "furfrou",
-        "showdownDef": "Furfrou-Matron",
-        "smogon": "furfrou-matron"
+        "miniSprite": "0676-matron"
     },
     "baseSpecies": "furfrou",
     "baseForms": [

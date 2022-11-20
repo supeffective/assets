@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "OMASTAR",
         "veekunDb": "omastar",
+        "smogon": "omastar",
+        "showdown": "omastar",
+        "showdownDef": "Omastar",
         "serebii": "omastar",
         "bulbapedia": "Omastar",
         "homeSprite": "0139",
-        "miniSprite": "0139",
-        "showdown": "omastar",
-        "showdownDef": "Omastar",
-        "smogon": "omastar"
+        "miniSprite": "0139"
     },
     "baseSpecies": null,
     "baseForms": [],

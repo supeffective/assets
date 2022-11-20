@@ -81,13 +81,13 @@
     "refs": {
         "pogo": "GOGOAT",
         "veekunDb": "gogoat",
+        "smogon": "gogoat",
+        "showdown": "gogoat",
+        "showdownDef": "Gogoat",
         "serebii": "gogoat",
         "bulbapedia": "Gogoat",
         "homeSprite": "0673",
-        "miniSprite": "0673",
-        "showdown": "gogoat",
-        "showdownDef": "Gogoat",
-        "smogon": "gogoat"
+        "miniSprite": "0673"
     },
     "baseSpecies": null,
     "baseForms": [],

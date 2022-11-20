@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "FOONGUS",
         "veekunDb": "foongus",
+        "smogon": "foongus",
+        "showdown": "foongus",
+        "showdownDef": "Foongus",
         "serebii": "foongus",
         "bulbapedia": "Foongus",
         "homeSprite": "0590",
-        "miniSprite": "0590",
-        "showdown": "foongus",
-        "showdownDef": "Foongus",
-        "smogon": "foongus"
+        "miniSprite": "0590"
     },
     "baseSpecies": null,
     "baseForms": [],

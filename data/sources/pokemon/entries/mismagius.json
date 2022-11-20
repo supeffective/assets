@@ -93,13 +93,13 @@
     "refs": {
         "pogo": "MISMAGIUS",
         "veekunDb": "mismagius",
+        "smogon": "mismagius",
+        "showdown": "mismagius",
+        "showdownDef": "Mismagius",
         "serebii": "mismagius",
         "bulbapedia": "Mismagius",
         "homeSprite": "0429",
-        "miniSprite": "0429",
-        "showdown": "mismagius",
-        "showdownDef": "Mismagius",
-        "smogon": "mismagius"
+        "miniSprite": "0429"
     },
     "baseSpecies": null,
     "baseForms": [],

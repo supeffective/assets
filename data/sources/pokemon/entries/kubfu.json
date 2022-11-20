@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "KUBFU",
         "veekunDb": "kubfu",
+        "smogon": "kubfu",
+        "showdown": "kubfu",
+        "showdownDef": "Kubfu",
         "serebii": "kubfu",
         "bulbapedia": "Kubfu",
         "homeSprite": "0891",
-        "miniSprite": "0891",
-        "showdown": "kubfu",
-        "showdownDef": "Kubfu",
-        "smogon": "kubfu"
+        "miniSprite": "0891"
     },
     "baseSpecies": null,
     "baseForms": [],

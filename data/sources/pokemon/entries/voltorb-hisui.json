@@ -80,13 +80,13 @@
     "refs": {
         "pogo": "VOLTORB_HISUIAN",
         "veekunDb": null,
+        "smogon": "voltorb-hisui",
+        "showdown": "voltorbhisui",
+        "showdownDef": "Voltorb-Hisui",
         "serebii": "voltorb",
         "bulbapedia": "Voltorb",
         "homeSprite": "0100-hisui",
-        "miniSprite": "0100-hisui",
-        "showdown": "voltorbhisui",
-        "showdownDef": "Voltorb-Hisui",
-        "smogon": "voltorb-hisui"
+        "miniSprite": "0100-hisui"
     },
     "baseSpecies": "voltorb",
     "baseForms": [],

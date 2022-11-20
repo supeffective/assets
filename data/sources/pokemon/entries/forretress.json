@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "FORRETRESS",
         "veekunDb": "forretress",
+        "smogon": "forretress",
+        "showdown": "forretress",
+        "showdownDef": "Forretress",
         "serebii": "forretress",
         "bulbapedia": "Forretress",
         "homeSprite": "0205",
-        "miniSprite": "0205",
-        "showdown": "forretress",
-        "showdownDef": "Forretress",
-        "smogon": "forretress"
+        "miniSprite": "0205"
     },
     "baseSpecies": null,
     "baseForms": [],

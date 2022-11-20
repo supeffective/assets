@@ -90,13 +90,13 @@
     "refs": {
         "pogo": "MEDICHAM",
         "veekunDb": "medicham",
+        "smogon": "medicham",
+        "showdown": "medicham",
+        "showdownDef": "Medicham",
         "serebii": "medicham",
         "bulbapedia": "Medicham",
         "homeSprite": "0308-f",
-        "miniSprite": "0308",
-        "showdown": "medicham",
-        "showdownDef": "Medicham",
-        "smogon": "medicham"
+        "miniSprite": "0308"
     },
     "baseSpecies": "medicham",
     "baseForms": [],

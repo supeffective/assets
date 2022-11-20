@@ -105,13 +105,13 @@
     "refs": {
         "pogo": "CHANSEY",
         "veekunDb": "chansey",
+        "smogon": "chansey",
+        "showdown": "chansey",
+        "showdownDef": "Chansey",
         "serebii": "chansey",
         "bulbapedia": "Chansey",
         "homeSprite": "0113",
-        "miniSprite": "0113",
-        "showdown": "chansey",
-        "showdownDef": "Chansey",
-        "smogon": "chansey"
+        "miniSprite": "0113"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -80,13 +80,13 @@
     "refs": {
         "pogo": "CRABOMINABLE",
         "veekunDb": "crabominable",
+        "smogon": "crabominable",
+        "showdown": "crabominable",
+        "showdownDef": "Crabominable",
         "serebii": "crabominable",
         "bulbapedia": "Crabominable",
         "homeSprite": "0740",
-        "miniSprite": "0740",
-        "showdown": "crabominable",
-        "showdownDef": "Crabominable",
-        "smogon": "crabominable"
+        "miniSprite": "0740"
     },
     "baseSpecies": null,
     "baseForms": [],

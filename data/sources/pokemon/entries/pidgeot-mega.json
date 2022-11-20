@@ -77,13 +77,13 @@
     "refs": {
         "pogo": "PIDGEOT_MEGA",
         "veekunDb": "pidgeot-mega",
+        "smogon": "pidgeot-mega",
+        "showdown": "pidgeotmega",
+        "showdownDef": "Pidgeot-Mega",
         "serebii": "pidgeot",
         "bulbapedia": "Pidgeot",
         "homeSprite": "0018-mega",
-        "miniSprite": "0018-mega",
-        "showdown": "pidgeotmega",
-        "showdownDef": "Pidgeot-Mega",
-        "smogon": "pidgeot-mega"
+        "miniSprite": "0018-mega"
     },
     "baseSpecies": "pidgeot",
     "baseForms": [

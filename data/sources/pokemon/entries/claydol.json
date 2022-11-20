@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "CLAYDOL",
         "veekunDb": "claydol",
+        "smogon": "claydol",
+        "showdown": "claydol",
+        "showdownDef": "Claydol",
         "serebii": "claydol",
         "bulbapedia": "Claydol",
         "homeSprite": "0344",
-        "miniSprite": "0344",
-        "showdown": "claydol",
-        "showdownDef": "Claydol",
-        "smogon": "claydol"
+        "miniSprite": "0344"
     },
     "baseSpecies": null,
     "baseForms": [],

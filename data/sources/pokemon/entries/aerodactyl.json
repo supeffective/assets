@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "AERODACTYL",
         "veekunDb": "aerodactyl",
+        "smogon": "aerodactyl",
+        "showdown": "aerodactyl",
+        "showdownDef": "Aerodactyl",
         "serebii": "aerodactyl",
         "bulbapedia": "Aerodactyl",
         "homeSprite": "0142",
-        "miniSprite": "0142",
-        "showdown": "aerodactyl",
-        "showdownDef": "Aerodactyl",
-        "smogon": "aerodactyl"
+        "miniSprite": "0142"
     },
     "baseSpecies": null,
     "baseForms": [],

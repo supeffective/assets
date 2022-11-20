@@ -76,13 +76,13 @@
     "refs": {
         "pogo": "GARCHOMP_MEGA",
         "veekunDb": "garchomp-mega",
+        "smogon": "garchomp-mega",
+        "showdown": "garchompmega",
+        "showdownDef": "Garchomp-Mega",
         "serebii": "garchomp",
         "bulbapedia": "Garchomp",
         "homeSprite": "0445-mega",
-        "miniSprite": "0445-mega",
-        "showdown": "garchompmega",
-        "showdownDef": "Garchomp-Mega",
-        "smogon": "garchomp-mega"
+        "miniSprite": "0445-mega"
     },
     "baseSpecies": "garchomp",
     "baseForms": [

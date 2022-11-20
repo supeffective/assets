@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "DUSTOX",
         "veekunDb": "dustox",
+        "smogon": "dustox",
+        "showdown": "dustox",
+        "showdownDef": "Dustox",
         "serebii": "dustox",
         "bulbapedia": "Dustox",
         "homeSprite": "0269",
-        "miniSprite": "0269",
-        "showdown": "dustox",
-        "showdownDef": "Dustox",
-        "smogon": "dustox"
+        "miniSprite": "0269"
     },
     "baseSpecies": null,
     "baseForms": [],

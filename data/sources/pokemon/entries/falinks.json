@@ -80,13 +80,13 @@
     "refs": {
         "pogo": "FALINKS",
         "veekunDb": "falinks",
+        "smogon": "falinks",
+        "showdown": "falinks",
+        "showdownDef": "Falinks",
         "serebii": "falinks",
         "bulbapedia": "Falinks",
         "homeSprite": "0870",
-        "miniSprite": "0870",
-        "showdown": "falinks",
-        "showdownDef": "Falinks",
-        "smogon": "falinks"
+        "miniSprite": "0870"
     },
     "baseSpecies": null,
     "baseForms": [],

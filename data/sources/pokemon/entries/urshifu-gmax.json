@@ -75,13 +75,13 @@
     "refs": {
         "pogo": "URSHIFU_GMAX",
         "veekunDb": "urshifu-gmax",
+        "smogon": "urshifu-gmax",
+        "showdown": "urshifugmax",
+        "showdownDef": "Urshifu-Gmax",
         "serebii": "urshifu",
         "bulbapedia": "Urshifu",
         "homeSprite": "0892-gmax",
-        "miniSprite": "0892-gmax",
-        "showdown": "urshifugmax",
-        "showdownDef": "Urshifu-Gmax",
-        "smogon": "urshifu-gmax"
+        "miniSprite": "0892-gmax"
     },
     "baseSpecies": "urshifu",
     "baseForms": [

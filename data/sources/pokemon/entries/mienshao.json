@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "MIENSHAO",
         "veekunDb": "mienshao",
+        "smogon": "mienshao",
+        "showdown": "mienshao",
+        "showdownDef": "Mienshao",
         "serebii": "mienshao",
         "bulbapedia": "Mienshao",
         "homeSprite": "0620",
-        "miniSprite": "0620",
-        "showdown": "mienshao",
-        "showdownDef": "Mienshao",
-        "smogon": "mienshao"
+        "miniSprite": "0620"
     },
     "baseSpecies": null,
     "baseForms": [],

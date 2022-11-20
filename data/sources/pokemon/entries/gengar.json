@@ -105,13 +105,13 @@
     "refs": {
         "pogo": "GENGAR",
         "veekunDb": "gengar",
+        "smogon": "gengar",
+        "showdown": "gengar",
+        "showdownDef": "Gengar",
         "serebii": "gengar",
         "bulbapedia": "Gengar",
         "homeSprite": "0094",
-        "miniSprite": "0094",
-        "showdown": "gengar",
-        "showdownDef": "Gengar",
-        "smogon": "gengar"
+        "miniSprite": "0094"
     },
     "baseSpecies": null,
     "baseForms": [],

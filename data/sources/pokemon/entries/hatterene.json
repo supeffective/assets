@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "HATTERENE",
         "veekunDb": "hatterene",
+        "smogon": "hatterene",
+        "showdown": "hatterene",
+        "showdownDef": "Hatterene",
         "serebii": "hatterene",
         "bulbapedia": "Hatterene",
         "homeSprite": "0858",
-        "miniSprite": "0858",
-        "showdown": "hatterene",
-        "showdownDef": "Hatterene",
-        "smogon": "hatterene"
+        "miniSprite": "0858"
     },
     "baseSpecies": null,
     "baseForms": [],

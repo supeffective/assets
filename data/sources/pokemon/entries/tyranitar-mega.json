@@ -76,13 +76,13 @@
     "refs": {
         "pogo": "TYRANITAR_MEGA",
         "veekunDb": "tyranitar-mega",
+        "smogon": "tyranitar-mega",
+        "showdown": "tyranitarmega",
+        "showdownDef": "Tyranitar-Mega",
         "serebii": "tyranitar",
         "bulbapedia": "Tyranitar",
         "homeSprite": "0248-mega",
-        "miniSprite": "0248-mega",
-        "showdown": "tyranitarmega",
-        "showdownDef": "Tyranitar-Mega",
-        "smogon": "tyranitar-mega"
+        "miniSprite": "0248-mega"
     },
     "baseSpecies": "tyranitar",
     "baseForms": [

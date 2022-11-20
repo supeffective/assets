@@ -90,13 +90,13 @@
     "refs": {
         "pogo": "ARCEUS_ELECTRIC",
         "veekunDb": "arceus-electric",
+        "smogon": "arceus-electric",
+        "showdown": "arceuselectric",
+        "showdownDef": "Arceus-Electric",
         "serebii": "arceus",
         "bulbapedia": "Arceus",
         "homeSprite": "0493-electric",
-        "miniSprite": "0493-electric",
-        "showdown": "arceuselectric",
-        "showdownDef": "Arceus-Electric",
-        "smogon": "arceus-electric"
+        "miniSprite": "0493-electric"
     },
     "baseSpecies": "arceus",
     "baseForms": [

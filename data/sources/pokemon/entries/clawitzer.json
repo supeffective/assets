@@ -85,13 +85,13 @@
     "refs": {
         "pogo": "CLAWITZER",
         "veekunDb": "clawitzer",
+        "smogon": "clawitzer",
+        "showdown": "clawitzer",
+        "showdownDef": "Clawitzer",
         "serebii": "clawitzer",
         "bulbapedia": "Clawitzer",
         "homeSprite": "0693",
-        "miniSprite": "0693",
-        "showdown": "clawitzer",
-        "showdownDef": "Clawitzer",
-        "smogon": "clawitzer"
+        "miniSprite": "0693"
     },
     "baseSpecies": null,
     "baseForms": [],

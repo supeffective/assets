@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "SILCOON",
         "veekunDb": "silcoon",
+        "smogon": "silcoon",
+        "showdown": "silcoon",
+        "showdownDef": "Silcoon",
         "serebii": "silcoon",
         "bulbapedia": "Silcoon",
         "homeSprite": "0266",
-        "miniSprite": "0266",
-        "showdown": "silcoon",
-        "showdownDef": "Silcoon",
-        "smogon": "silcoon"
+        "miniSprite": "0266"
     },
     "baseSpecies": null,
     "baseForms": [],

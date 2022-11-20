@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "ZORUA_HISUIAN",
         "veekunDb": null,
+        "smogon": "zorua-hisui",
+        "showdown": "zoruahisui",
+        "showdownDef": "Zorua-Hisui",
         "serebii": "zorua",
         "bulbapedia": "Zorua",
         "homeSprite": "0570-hisui",
-        "miniSprite": "0570-hisui",
-        "showdown": "zoruahisui",
-        "showdownDef": "Zorua-Hisui",
-        "smogon": "zorua-hisui"
+        "miniSprite": "0570-hisui"
     },
     "baseSpecies": "zorua",
     "baseForms": [],

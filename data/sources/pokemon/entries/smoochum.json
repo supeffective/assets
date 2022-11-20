@@ -99,13 +99,13 @@
     "refs": {
         "pogo": "SMOOCHUM",
         "veekunDb": "smoochum",
+        "smogon": "smoochum",
+        "showdown": "smoochum",
+        "showdownDef": "Smoochum",
         "serebii": "smoochum",
         "bulbapedia": "Smoochum",
         "homeSprite": "0238",
-        "miniSprite": "0238",
-        "showdown": "smoochum",
-        "showdownDef": "Smoochum",
-        "smogon": "smoochum"
+        "miniSprite": "0238"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -101,13 +101,13 @@
     "refs": {
         "pogo": "PILOSWINE",
         "veekunDb": "piloswine",
+        "smogon": "piloswine",
+        "showdown": "piloswine",
+        "showdownDef": "Piloswine",
         "serebii": "piloswine",
         "bulbapedia": "Piloswine",
         "homeSprite": "0221",
-        "miniSprite": "0221",
-        "showdown": "piloswine",
-        "showdownDef": "Piloswine",
-        "smogon": "piloswine"
+        "miniSprite": "0221"
     },
     "baseSpecies": null,
     "baseForms": [],

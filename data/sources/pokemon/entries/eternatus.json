@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "ETERNATUS",
         "veekunDb": "eternatus",
+        "smogon": "eternatus",
+        "showdown": "eternatus",
+        "showdownDef": "Eternatus",
         "serebii": "eternatus",
         "bulbapedia": "Eternatus",
         "homeSprite": "0890",
-        "miniSprite": "0890",
-        "showdown": "eternatus",
-        "showdownDef": "Eternatus",
-        "smogon": "eternatus"
+        "miniSprite": "0890"
     },
     "baseSpecies": null,
     "baseForms": [],

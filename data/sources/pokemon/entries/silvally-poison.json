@@ -81,13 +81,13 @@
     "refs": {
         "pogo": "SILVALLY_POISON",
         "veekunDb": "silvally-poison",
+        "smogon": "silvally-poison",
+        "showdown": "silvallypoison",
+        "showdownDef": "Silvally-Poison",
         "serebii": "silvally",
         "bulbapedia": "Silvally",
         "homeSprite": "0773-poison",
-        "miniSprite": "0773-poison",
-        "showdown": "silvallypoison",
-        "showdownDef": "Silvally-Poison",
-        "smogon": "silvally-poison"
+        "miniSprite": "0773-poison"
     },
     "baseSpecies": "silvally",
     "baseForms": [

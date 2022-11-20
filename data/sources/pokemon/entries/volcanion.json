@@ -83,13 +83,13 @@
     "refs": {
         "pogo": "VOLCANION",
         "veekunDb": "volcanion",
+        "smogon": "volcanion",
+        "showdown": "volcanion",
+        "showdownDef": "Volcanion",
         "serebii": "volcanion",
         "bulbapedia": "Volcanion",
         "homeSprite": "0721",
-        "miniSprite": "0721",
-        "showdown": "volcanion",
-        "showdownDef": "Volcanion",
-        "smogon": "volcanion"
+        "miniSprite": "0721"
     },
     "baseSpecies": null,
     "baseForms": [],

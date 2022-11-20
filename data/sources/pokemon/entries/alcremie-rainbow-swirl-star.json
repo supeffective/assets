@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "ALCREMIE_RAINBOW_SWIRL_STAR",
         "veekunDb": "alcremie-rainbow-swirl-star",
+        "smogon": "alcremie-rainbow-swirl-star",
+        "showdown": "alcremie",
+        "showdownDef": "Alcremie-Rainbow-Swirl-Star",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "0869-rainbow-swirl-star",
-        "miniSprite": "0869-rainbow-swirl-star",
-        "showdown": "alcremie",
-        "showdownDef": "Alcremie-Rainbow-Swirl-Star",
-        "smogon": "alcremie-rainbow-swirl-star"
+        "miniSprite": "0869-rainbow-swirl-star"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

@@ -90,13 +90,13 @@
     "refs": {
         "pogo": "GULPIN",
         "veekunDb": "gulpin",
+        "smogon": "gulpin",
+        "showdown": "gulpin",
+        "showdownDef": "Gulpin",
         "serebii": "gulpin",
         "bulbapedia": "Gulpin",
         "homeSprite": "0316-f",
-        "miniSprite": "0316",
-        "showdown": "gulpin",
-        "showdownDef": "Gulpin",
-        "smogon": "gulpin"
+        "miniSprite": "0316"
     },
     "baseSpecies": "gulpin",
     "baseForms": [],

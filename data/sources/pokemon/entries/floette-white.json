@@ -83,13 +83,13 @@
     "refs": {
         "pogo": "FLOETTE_WHITE",
         "veekunDb": "floette-white",
+        "smogon": "floette-white",
+        "showdown": "floette",
+        "showdownDef": "Floette-White",
         "serebii": "floette",
         "bulbapedia": "Floette",
         "homeSprite": "0670-white",
-        "miniSprite": "0670-white",
-        "showdown": "floette",
-        "showdownDef": "Floette-White",
-        "smogon": "floette-white"
+        "miniSprite": "0670-white"
     },
     "baseSpecies": "floette",
     "baseForms": [],

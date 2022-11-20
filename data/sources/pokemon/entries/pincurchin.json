@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "PINCURCHIN",
         "veekunDb": "pincurchin",
+        "smogon": "pincurchin",
+        "showdown": "pincurchin",
+        "showdownDef": "Pincurchin",
         "serebii": "pincurchin",
         "bulbapedia": "Pincurchin",
         "homeSprite": "0871",
-        "miniSprite": "0871",
-        "showdown": "pincurchin",
-        "showdownDef": "Pincurchin",
-        "smogon": "pincurchin"
+        "miniSprite": "0871"
     },
     "baseSpecies": null,
     "baseForms": [],

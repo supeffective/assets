@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "AXEW",
         "veekunDb": "axew",
+        "smogon": "axew",
+        "showdown": "axew",
+        "showdownDef": "Axew",
         "serebii": "axew",
         "bulbapedia": "Axew",
         "homeSprite": "0610",
-        "miniSprite": "0610",
-        "showdown": "axew",
-        "showdownDef": "Axew",
-        "smogon": "axew"
+        "miniSprite": "0610"
     },
     "baseSpecies": null,
     "baseForms": [],

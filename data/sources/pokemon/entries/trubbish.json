@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "TRUBBISH",
         "veekunDb": "trubbish",
+        "smogon": "trubbish",
+        "showdown": "trubbish",
+        "showdownDef": "Trubbish",
         "serebii": "trubbish",
         "bulbapedia": "Trubbish",
         "homeSprite": "0568",
-        "miniSprite": "0568",
-        "showdown": "trubbish",
-        "showdownDef": "Trubbish",
-        "smogon": "trubbish"
+        "miniSprite": "0568"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -85,13 +85,13 @@
     "refs": {
         "pogo": "ESPURR",
         "veekunDb": "espurr",
+        "smogon": "espurr",
+        "showdown": "espurr",
+        "showdownDef": "Espurr",
         "serebii": "espurr",
         "bulbapedia": "Espurr",
         "homeSprite": "0677",
-        "miniSprite": "0677",
-        "showdown": "espurr",
-        "showdownDef": "Espurr",
-        "smogon": "espurr"
+        "miniSprite": "0677"
     },
     "baseSpecies": null,
     "baseForms": [],

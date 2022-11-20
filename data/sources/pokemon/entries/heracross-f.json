@@ -94,13 +94,13 @@
     "refs": {
         "pogo": "HERACROSS",
         "veekunDb": "heracross",
+        "smogon": "heracross",
+        "showdown": "heracross",
+        "showdownDef": "Heracross",
         "serebii": "heracross",
         "bulbapedia": "Heracross",
         "homeSprite": "0214-f",
-        "miniSprite": "0214",
-        "showdown": "heracross",
-        "showdownDef": "Heracross",
-        "smogon": "heracross"
+        "miniSprite": "0214"
     },
     "baseSpecies": "heracross",
     "baseForms": [],

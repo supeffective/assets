@@ -86,13 +86,13 @@
     "refs": {
         "pogo": "DUGTRIO_ALOLA",
         "veekunDb": "dugtrio-alola",
+        "smogon": "dugtrio-alola",
+        "showdown": "dugtrioalola",
+        "showdownDef": "Dugtrio-Alola",
         "serebii": "dugtrio",
         "bulbapedia": "Dugtrio",
         "homeSprite": "0051-alola",
-        "miniSprite": "0051-alola",
-        "showdown": "dugtrioalola",
-        "showdownDef": "Dugtrio-Alola",
-        "smogon": "dugtrio-alola"
+        "miniSprite": "0051-alola"
     },
     "baseSpecies": "dugtrio",
     "baseForms": [],

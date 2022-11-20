@@ -105,13 +105,13 @@
     "refs": {
         "pogo": "RHYHORN",
         "veekunDb": "rhyhorn",
+        "smogon": "rhyhorn",
+        "showdown": "rhyhorn",
+        "showdownDef": "Rhyhorn",
         "serebii": "rhyhorn",
         "bulbapedia": "Rhyhorn",
         "homeSprite": "0111",
-        "miniSprite": "0111",
-        "showdown": "rhyhorn",
-        "showdownDef": "Rhyhorn",
-        "smogon": "rhyhorn"
+        "miniSprite": "0111"
     },
     "baseSpecies": null,
     "baseForms": [],

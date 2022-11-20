@@ -85,13 +85,13 @@
     "refs": {
         "pogo": "AURORUS",
         "veekunDb": "aurorus",
+        "smogon": "aurorus",
+        "showdown": "aurorus",
+        "showdownDef": "Aurorus",
         "serebii": "aurorus",
         "bulbapedia": "Aurorus",
         "homeSprite": "0699",
-        "miniSprite": "0699",
-        "showdown": "aurorus",
-        "showdownDef": "Aurorus",
-        "smogon": "aurorus"
+        "miniSprite": "0699"
     },
     "baseSpecies": null,
     "baseForms": [],

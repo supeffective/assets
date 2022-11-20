@@ -97,13 +97,13 @@
     "refs": {
         "pogo": "CROCONAW",
         "veekunDb": "croconaw",
+        "smogon": "croconaw",
+        "showdown": "croconaw",
+        "showdownDef": "Croconaw",
         "serebii": "croconaw",
         "bulbapedia": "Croconaw",
         "homeSprite": "0159",
-        "miniSprite": "0159",
-        "showdown": "croconaw",
-        "showdownDef": "Croconaw",
-        "smogon": "croconaw"
+        "miniSprite": "0159"
     },
     "baseSpecies": null,
     "baseForms": [],

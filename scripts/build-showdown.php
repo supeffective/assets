@@ -66,16 +66,14 @@ require_once __DIR__ . '/_bootstrap.php';
 
     // Import showdown data
     foreach ($entries as $id => $data) {
-        if ($data['dexNum'] >= $showdownIgnoreFromDexNum || in_array($id, $showdownIgnore)) {
-            // is not yet supported by Showdown
-            continue;
-        }
-        $showdownId = isset($showdownMapping[$id]) ? $showdownMapping[$id] : ($data['refs']['showdown'] ?? '???');
-        if (!isset($showdownEntries[$showdownId])) {
-            echo "Missing or wrong showdown ID '" . $data['refs']['showdown'] . "' for pokemon $id\n";
-        }
+        if (!in_array($id, $showdownIgnore) && $data['dexNum'] < $showdownIgnoreFromDexNum) {
+            $showdownId = isset($showdownMapping[$id]) ? $showdownMapping[$id] : ($data['refs']['showdown'] ?? '???');
+            if (!isset($showdownEntries[$showdownId])) {
+                echo "Missing or wrong showdown ID '" . $data['refs']['showdown'] . "' for pokemon $id\n";
+            }
 
-        //$data = $importData($data, $showdownEntries[$showdownId]);
+            //$data = $importData($data, $showdownEntries[$showdownId]);
+        }
         sgg_data_save(filename: 'sources/pokemon/entries/' . $id . '.json', data: $data, minify: false);
     }
 

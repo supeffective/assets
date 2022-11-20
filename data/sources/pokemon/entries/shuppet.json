@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "SHUPPET",
         "veekunDb": "shuppet",
+        "smogon": "shuppet",
+        "showdown": "shuppet",
+        "showdownDef": "Shuppet",
         "serebii": "shuppet",
         "bulbapedia": "Shuppet",
         "homeSprite": "0353",
-        "miniSprite": "0353",
-        "showdown": "shuppet",
-        "showdownDef": "Shuppet",
-        "smogon": "shuppet"
+        "miniSprite": "0353"
     },
     "baseSpecies": null,
     "baseForms": [],

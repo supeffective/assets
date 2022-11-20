@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "JANGMO_O",
         "veekunDb": "jangmoo",
+        "smogon": "jangmoo",
+        "showdown": "jangmoo",
+        "showdownDef": "Jangmoo",
         "serebii": "jangmoo",
         "bulbapedia": "Jangmo-o",
         "homeSprite": "0782",
-        "miniSprite": "0782",
-        "showdown": "jangmoo",
-        "showdownDef": "Jangmoo",
-        "smogon": "jangmoo"
+        "miniSprite": "0782"
     },
     "baseSpecies": null,
     "baseForms": [],

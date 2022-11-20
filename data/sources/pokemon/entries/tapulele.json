@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "TAPU_LELE",
         "veekunDb": "tapulele",
+        "smogon": "tapulele",
+        "showdown": "tapulele",
+        "showdownDef": "Tapulele",
         "serebii": "tapulele",
         "bulbapedia": "Tapu Lele",
         "homeSprite": "0786",
-        "miniSprite": "0786",
-        "showdown": "tapulele",
-        "showdownDef": "Tapulele",
-        "smogon": "tapulele"
+        "miniSprite": "0786"
     },
     "baseSpecies": null,
     "baseForms": [],

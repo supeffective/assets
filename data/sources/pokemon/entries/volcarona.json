@@ -86,13 +86,13 @@
     "refs": {
         "pogo": "VOLCARONA",
         "veekunDb": "volcarona",
+        "smogon": "volcarona",
+        "showdown": "volcarona",
+        "showdownDef": "Volcarona",
         "serebii": "volcarona",
         "bulbapedia": "Volcarona",
         "homeSprite": "0637",
-        "miniSprite": "0637",
-        "showdown": "volcarona",
-        "showdownDef": "Volcarona",
-        "smogon": "volcarona"
+        "miniSprite": "0637"
     },
     "baseSpecies": null,
     "baseForms": [],

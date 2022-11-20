@@ -86,13 +86,13 @@
     "refs": {
         "pogo": "SAWSBUCK_SUMMER",
         "veekunDb": "sawsbuck-summer",
+        "smogon": "sawsbuck-summer",
+        "showdown": "sawsbuck",
+        "showdownDef": "Sawsbuck-Summer",
         "serebii": "sawsbuck",
         "bulbapedia": "Sawsbuck",
         "homeSprite": "0586-summer",
-        "miniSprite": "0586-summer",
-        "showdown": "sawsbuck",
-        "showdownDef": "Sawsbuck-Summer",
-        "smogon": "sawsbuck-summer"
+        "miniSprite": "0586-summer"
     },
     "baseSpecies": "sawsbuck",
     "baseForms": [],

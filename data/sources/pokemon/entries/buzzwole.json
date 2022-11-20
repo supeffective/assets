@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "BUZZWOLE",
         "veekunDb": "buzzwole",
+        "smogon": "buzzwole",
+        "showdown": "buzzwole",
+        "showdownDef": "Buzzwole",
         "serebii": "buzzwole",
         "bulbapedia": "Buzzwole",
         "homeSprite": "0794",
-        "miniSprite": "0794",
-        "showdown": "buzzwole",
-        "showdownDef": "Buzzwole",
-        "smogon": "buzzwole"
+        "miniSprite": "0794"
     },
     "baseSpecies": null,
     "baseForms": [],

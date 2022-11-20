@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "DRAGAPULT",
         "veekunDb": "dragapult",
+        "smogon": "dragapult",
+        "showdown": "dragapult",
+        "showdownDef": "Dragapult",
         "serebii": "dragapult",
         "bulbapedia": "Dragapult",
         "homeSprite": "0887",
-        "miniSprite": "0887",
-        "showdown": "dragapult",
-        "showdownDef": "Dragapult",
-        "smogon": "dragapult"
+        "miniSprite": "0887"
     },
     "baseSpecies": null,
     "baseForms": [],

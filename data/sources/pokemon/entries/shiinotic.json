@@ -82,13 +82,13 @@
     "refs": {
         "pogo": "SHIINOTIC",
         "veekunDb": "shiinotic",
+        "smogon": "shiinotic",
+        "showdown": "shiinotic",
+        "showdownDef": "Shiinotic",
         "serebii": "shiinotic",
         "bulbapedia": "Shiinotic",
         "homeSprite": "0756",
-        "miniSprite": "0756",
-        "showdown": "shiinotic",
-        "showdownDef": "Shiinotic",
-        "smogon": "shiinotic"
+        "miniSprite": "0756"
     },
     "baseSpecies": null,
     "baseForms": [],

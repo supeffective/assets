@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "COALOSSAL",
         "veekunDb": "coalossal",
+        "smogon": "coalossal",
+        "showdown": "coalossal",
+        "showdownDef": "Coalossal",
         "serebii": "coalossal",
         "bulbapedia": "Coalossal",
         "homeSprite": "0839",
-        "miniSprite": "0839",
-        "showdown": "coalossal",
-        "showdownDef": "Coalossal",
-        "smogon": "coalossal"
+        "miniSprite": "0839"
     },
     "baseSpecies": null,
     "baseForms": [],

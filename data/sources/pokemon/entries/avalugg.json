@@ -85,13 +85,13 @@
     "refs": {
         "pogo": "AVALUGG",
         "veekunDb": "avalugg",
+        "smogon": "avalugg",
+        "showdown": "avalugg",
+        "showdownDef": "Avalugg",
         "serebii": "avalugg",
         "bulbapedia": "Avalugg",
         "homeSprite": "0713",
-        "miniSprite": "0713",
-        "showdown": "avalugg",
-        "showdownDef": "Avalugg",
-        "smogon": "avalugg"
+        "miniSprite": "0713"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "LANDORUS_THERIAN",
         "veekunDb": "landorus-therian",
+        "smogon": "landorus-therian",
+        "showdown": "landorustherian",
+        "showdownDef": "Landorus-Therian",
         "serebii": "landorus",
         "bulbapedia": "Landorus",
         "homeSprite": "0645-therian",
-        "miniSprite": "0645-therian",
-        "showdown": "landorustherian",
-        "showdownDef": "Landorus-Therian",
-        "smogon": "landorus-therian"
+        "miniSprite": "0645-therian"
     },
     "baseSpecies": "landorus",
     "baseForms": [

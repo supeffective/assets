@@ -88,13 +88,13 @@
     "refs": {
         "pogo": "SHELMET",
         "veekunDb": "shelmet",
+        "smogon": "shelmet",
+        "showdown": "shelmet",
+        "showdownDef": "Shelmet",
         "serebii": "shelmet",
         "bulbapedia": "Shelmet",
         "homeSprite": "0616",
-        "miniSprite": "0616",
-        "showdown": "shelmet",
-        "showdownDef": "Shelmet",
-        "smogon": "shelmet"
+        "miniSprite": "0616"
     },
     "baseSpecies": null,
     "baseForms": [],

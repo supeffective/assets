@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "EISCUE",
         "veekunDb": "eiscue",
+        "smogon": "eiscue",
+        "showdown": "eiscue",
+        "showdownDef": "Eiscue",
         "serebii": "eiscue",
         "bulbapedia": "Eiscue",
         "homeSprite": "0875",
-        "miniSprite": "0875",
-        "showdown": "eiscue",
-        "showdownDef": "Eiscue",
-        "smogon": "eiscue"
+        "miniSprite": "0875"
     },
     "baseSpecies": null,
     "baseForms": [],

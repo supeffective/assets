@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "DIALGA",
         "veekunDb": "dialga",
+        "smogon": "dialga",
+        "showdown": "dialga",
+        "showdownDef": "Dialga",
         "serebii": "dialga",
         "bulbapedia": "Dialga",
         "homeSprite": "0483",
-        "miniSprite": "0483",
-        "showdown": "dialga",
-        "showdownDef": "Dialga",
-        "smogon": "dialga"
+        "miniSprite": "0483"
     },
     "baseSpecies": null,
     "baseForms": [],

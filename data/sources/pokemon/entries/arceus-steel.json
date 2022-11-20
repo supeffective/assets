@@ -90,13 +90,13 @@
     "refs": {
         "pogo": "ARCEUS_STEEL",
         "veekunDb": "arceus-steel",
+        "smogon": "arceus-steel",
+        "showdown": "arceussteel",
+        "showdownDef": "Arceus-Steel",
         "serebii": "arceus",
         "bulbapedia": "Arceus",
         "homeSprite": "0493-steel",
-        "miniSprite": "0493-steel",
-        "showdown": "arceussteel",
-        "showdownDef": "Arceus-Steel",
-        "smogon": "arceus-steel"
+        "miniSprite": "0493-steel"
     },
     "baseSpecies": "arceus",
     "baseForms": [

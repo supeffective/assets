@@ -86,13 +86,13 @@
     "refs": {
         "pogo": "EELEKTROSS",
         "veekunDb": "eelektross",
+        "smogon": "eelektross",
+        "showdown": "eelektross",
+        "showdownDef": "Eelektross",
         "serebii": "eelektross",
         "bulbapedia": "Eelektross",
         "homeSprite": "0604",
-        "miniSprite": "0604",
-        "showdown": "eelektross",
-        "showdownDef": "Eelektross",
-        "smogon": "eelektross"
+        "miniSprite": "0604"
     },
     "baseSpecies": null,
     "baseForms": [],

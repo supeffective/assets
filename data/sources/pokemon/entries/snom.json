@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "SNOM",
         "veekunDb": "snom",
+        "smogon": "snom",
+        "showdown": "snom",
+        "showdownDef": "Snom",
         "serebii": "snom",
         "bulbapedia": "Snom",
         "homeSprite": "0872",
-        "miniSprite": "0872",
-        "showdown": "snom",
-        "showdownDef": "Snom",
-        "smogon": "snom"
+        "miniSprite": "0872"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -80,13 +80,13 @@
     "refs": {
         "pogo": "MINIOR_INDIGO",
         "veekunDb": "minior-indigo",
+        "smogon": "minior-indigo",
+        "showdown": "minior",
+        "showdownDef": "Minior-Indigo",
         "serebii": "minior",
         "bulbapedia": "Minior",
         "homeSprite": "0774-indigo",
-        "miniSprite": "0774-indigo",
-        "showdown": "minior",
-        "showdownDef": "Minior-Indigo",
-        "smogon": "minior-indigo"
+        "miniSprite": "0774-indigo"
     },
     "baseSpecies": "minior",
     "baseForms": [

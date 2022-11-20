@@ -83,13 +83,13 @@
     "refs": {
         "pogo": "HAWLUCHA",
         "veekunDb": "hawlucha",
+        "smogon": "hawlucha",
+        "showdown": "hawlucha",
+        "showdownDef": "Hawlucha",
         "serebii": "hawlucha",
         "bulbapedia": "Hawlucha",
         "homeSprite": "0701",
-        "miniSprite": "0701",
-        "showdown": "hawlucha",
-        "showdownDef": "Hawlucha",
-        "smogon": "hawlucha"
+        "miniSprite": "0701"
     },
     "baseSpecies": null,
     "baseForms": [],

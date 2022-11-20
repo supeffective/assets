@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "PHEROMOSA",
         "veekunDb": "pheromosa",
+        "smogon": "pheromosa",
+        "showdown": "pheromosa",
+        "showdownDef": "Pheromosa",
         "serebii": "pheromosa",
         "bulbapedia": "Pheromosa",
         "homeSprite": "0795",
-        "miniSprite": "0795",
-        "showdown": "pheromosa",
-        "showdownDef": "Pheromosa",
-        "smogon": "pheromosa"
+        "miniSprite": "0795"
     },
     "baseSpecies": null,
     "baseForms": [],

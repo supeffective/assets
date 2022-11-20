@@ -101,13 +101,13 @@
     "refs": {
         "pogo": "WEEPINBELL",
         "veekunDb": "weepinbell",
+        "smogon": "weepinbell",
+        "showdown": "weepinbell",
+        "showdownDef": "Weepinbell",
         "serebii": "weepinbell",
         "bulbapedia": "Weepinbell",
         "homeSprite": "0070",
-        "miniSprite": "0070",
-        "showdown": "weepinbell",
-        "showdownDef": "Weepinbell",
-        "smogon": "weepinbell"
+        "miniSprite": "0070"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -80,13 +80,13 @@
     "refs": {
         "pogo": "ZACIAN",
         "veekunDb": "zacian",
+        "smogon": "zacian",
+        "showdown": "zacian",
+        "showdownDef": "Zacian",
         "serebii": "zacian",
         "bulbapedia": "Zacian",
         "homeSprite": "0888",
-        "miniSprite": "0888",
-        "showdown": "zacian",
-        "showdownDef": "Zacian",
-        "smogon": "zacian"
+        "miniSprite": "0888"
     },
     "baseSpecies": null,
     "baseForms": [],

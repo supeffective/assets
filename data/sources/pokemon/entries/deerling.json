@@ -86,13 +86,13 @@
     "refs": {
         "pogo": "DEERLING",
         "veekunDb": "deerling",
+        "smogon": "deerling",
+        "showdown": "deerling",
+        "showdownDef": "Deerling",
         "serebii": "deerling",
         "bulbapedia": "Deerling",
         "homeSprite": "0585",
-        "miniSprite": "0585",
-        "showdown": "deerling",
-        "showdownDef": "Deerling",
-        "smogon": "deerling"
+        "miniSprite": "0585"
     },
     "baseSpecies": null,
     "baseForms": [],

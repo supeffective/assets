@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "STARMIE",
         "veekunDb": "starmie",
+        "smogon": "starmie",
+        "showdown": "starmie",
+        "showdownDef": "Starmie",
         "serebii": "starmie",
         "bulbapedia": "Starmie",
         "homeSprite": "0121",
-        "miniSprite": "0121",
-        "showdown": "starmie",
-        "showdownDef": "Starmie",
-        "smogon": "starmie"
+        "miniSprite": "0121"
     },
     "baseSpecies": null,
     "baseForms": [],

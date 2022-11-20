@@ -82,13 +82,13 @@
     "refs": {
         "pogo": "WISHIWASHI",
         "veekunDb": "wishiwashi",
+        "smogon": "wishiwashi",
+        "showdown": "wishiwashi",
+        "showdownDef": "Wishiwashi",
         "serebii": "wishiwashi",
         "bulbapedia": "Wishiwashi",
         "homeSprite": "0746",
-        "miniSprite": "0746",
-        "showdown": "wishiwashi",
-        "showdownDef": "Wishiwashi",
-        "smogon": "wishiwashi"
+        "miniSprite": "0746"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -83,13 +83,13 @@
     "refs": {
         "pogo": "FLORGES_ORANGE",
         "veekunDb": "florges-orange",
+        "smogon": "florges-orange",
+        "showdown": "florges",
+        "showdownDef": "Florges-Orange",
         "serebii": "florges",
         "bulbapedia": "Florges",
         "homeSprite": "0671-orange",
-        "miniSprite": "0671-orange",
-        "showdown": "florges",
-        "showdownDef": "Florges-Orange",
-        "smogon": "florges-orange"
+        "miniSprite": "0671-orange"
     },
     "baseSpecies": "florges",
     "baseForms": [],

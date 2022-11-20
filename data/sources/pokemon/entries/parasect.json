@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "PARASECT",
         "veekunDb": "parasect",
+        "smogon": "parasect",
+        "showdown": "parasect",
+        "showdownDef": "Parasect",
         "serebii": "parasect",
         "bulbapedia": "Parasect",
         "homeSprite": "0047",
-        "miniSprite": "0047",
-        "showdown": "parasect",
-        "showdownDef": "Parasect",
-        "smogon": "parasect"
+        "miniSprite": "0047"
     },
     "baseSpecies": null,
     "baseForms": [],

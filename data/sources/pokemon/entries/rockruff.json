@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "ROCKRUFF",
         "veekunDb": "rockruff",
+        "smogon": "rockruff",
+        "showdown": "rockruff",
+        "showdownDef": "Rockruff",
         "serebii": "rockruff",
         "bulbapedia": "Rockruff",
         "homeSprite": "0744",
-        "miniSprite": "0744",
-        "showdown": "rockruff",
-        "showdownDef": "Rockruff",
-        "smogon": "rockruff"
+        "miniSprite": "0744"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "ALCREMIE_CARAMEL_SWIRL_STAR",
         "veekunDb": "alcremie-caramel-swirl-star",
+        "smogon": "alcremie-caramel-swirl-star",
+        "showdown": "alcremie",
+        "showdownDef": "Alcremie-Caramel-Swirl-Star",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "0869-caramel-swirl-star",
-        "miniSprite": "0869-caramel-swirl-star",
-        "showdown": "alcremie",
-        "showdownDef": "Alcremie-Caramel-Swirl-Star",
-        "smogon": "alcremie-caramel-swirl-star"
+        "miniSprite": "0869-caramel-swirl-star"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

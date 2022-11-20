@@ -92,13 +92,13 @@
     "refs": {
         "pogo": "AIPOM",
         "veekunDb": "aipom",
+        "smogon": "aipom",
+        "showdown": "aipom",
+        "showdownDef": "Aipom",
         "serebii": "aipom",
         "bulbapedia": "Aipom",
         "homeSprite": "0190-f",
-        "miniSprite": "0190",
-        "showdown": "aipom",
-        "showdownDef": "Aipom",
-        "smogon": "aipom"
+        "miniSprite": "0190"
     },
     "baseSpecies": "aipom",
     "baseForms": [],

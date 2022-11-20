@@ -84,13 +84,13 @@
     "refs": {
         "pogo": "SALAZZLE",
         "veekunDb": "salazzle",
+        "smogon": "salazzle",
+        "showdown": "salazzle",
+        "showdownDef": "Salazzle",
         "serebii": "salazzle",
         "bulbapedia": "Salazzle",
         "homeSprite": "0758",
-        "miniSprite": "0758",
-        "showdown": "salazzle",
-        "showdownDef": "Salazzle",
-        "smogon": "salazzle"
+        "miniSprite": "0758"
     },
     "baseSpecies": null,
     "baseForms": [],

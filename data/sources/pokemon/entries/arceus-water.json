@@ -90,13 +90,13 @@
     "refs": {
         "pogo": "ARCEUS_WATER",
         "veekunDb": "arceus-water",
+        "smogon": "arceus-water",
+        "showdown": "arceuswater",
+        "showdownDef": "Arceus-Water",
         "serebii": "arceus",
         "bulbapedia": "Arceus",
         "homeSprite": "0493-water",
-        "miniSprite": "0493-water",
-        "showdown": "arceuswater",
-        "showdownDef": "Arceus-Water",
-        "smogon": "arceus-water"
+        "miniSprite": "0493-water"
     },
     "baseSpecies": "arceus",
     "baseForms": [

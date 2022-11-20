@@ -82,13 +82,13 @@
     "refs": {
         "pogo": null,
         "veekunDb": "zygarde-power-construct",
+        "smogon": "zygarde--power-construct",
+        "showdown": "zygarde",
+        "showdownDef": "Zygarde",
         "serebii": "zygarde",
         "bulbapedia": "Zygarde",
         "homeSprite": "0718",
-        "miniSprite": "0718",
-        "showdown": "zygarde",
-        "showdownDef": "Zygarde",
-        "smogon": "zygarde--power-construct"
+        "miniSprite": "0718"
     },
     "baseSpecies": "zygarde",
     "baseForms": [],

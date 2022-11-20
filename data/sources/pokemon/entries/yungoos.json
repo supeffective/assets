@@ -82,13 +82,13 @@
     "refs": {
         "pogo": "YUNGOOS",
         "veekunDb": "yungoos",
+        "smogon": "yungoos",
+        "showdown": "yungoos",
+        "showdownDef": "Yungoos",
         "serebii": "yungoos",
         "bulbapedia": "Yungoos",
         "homeSprite": "0734",
-        "miniSprite": "0734",
-        "showdown": "yungoos",
-        "showdownDef": "Yungoos",
-        "smogon": "yungoos"
+        "miniSprite": "0734"
     },
     "baseSpecies": null,
     "baseForms": [],

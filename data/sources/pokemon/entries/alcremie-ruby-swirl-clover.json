@@ -78,13 +78,13 @@
     "refs": {
         "pogo": "ALCREMIE_RUBY_SWIRL_CLOVER",
         "veekunDb": "alcremie-ruby-swirl-clover",
+        "smogon": "alcremie-ruby-swirl-clover",
+        "showdown": "alcremie",
+        "showdownDef": "Alcremie-Ruby-Swirl-Clover",
         "serebii": "alcremie",
         "bulbapedia": "Alcremie",
         "homeSprite": "0869-ruby-swirl-clover",
-        "miniSprite": "0869-ruby-swirl-clover",
-        "showdown": "alcremie",
-        "showdownDef": "Alcremie-Ruby-Swirl-Clover",
-        "smogon": "alcremie-ruby-swirl-clover"
+        "miniSprite": "0869-ruby-swirl-clover"
     },
     "baseSpecies": "alcremie",
     "baseForms": [],

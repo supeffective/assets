@@ -82,13 +82,13 @@
     "refs": {
         "pogo": "STEENEE",
         "veekunDb": "steenee",
+        "smogon": "steenee",
+        "showdown": "steenee",
+        "showdownDef": "Steenee",
         "serebii": "steenee",
         "bulbapedia": "Steenee",
         "homeSprite": "0762",
-        "miniSprite": "0762",
-        "showdown": "steenee",
-        "showdownDef": "Steenee",
-        "smogon": "steenee"
+        "miniSprite": "0762"
     },
     "baseSpecies": null,
     "baseForms": [],

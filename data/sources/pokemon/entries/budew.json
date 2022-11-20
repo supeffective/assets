@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "BUDEW",
         "veekunDb": "budew",
+        "smogon": "budew",
+        "showdown": "budew",
+        "showdownDef": "Budew",
         "serebii": "budew",
         "bulbapedia": "Budew",
         "homeSprite": "0406",
-        "miniSprite": "0406",
-        "showdown": "budew",
-        "showdownDef": "Budew",
-        "smogon": "budew"
+        "miniSprite": "0406"
     },
     "baseSpecies": null,
     "baseForms": [],

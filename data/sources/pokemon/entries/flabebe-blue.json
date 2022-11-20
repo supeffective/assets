@@ -83,13 +83,13 @@
     "refs": {
         "pogo": "FLABEBE_BLUE",
         "veekunDb": "flabebe-blue",
+        "smogon": "flabebe-blue",
+        "showdown": "flabebe",
+        "showdownDef": "Flabebe-Blue",
         "serebii": "flabebe",
         "bulbapedia": "Flabebe",
         "homeSprite": "0669-blue",
-        "miniSprite": "0669-blue",
-        "showdown": "flabebe",
-        "showdownDef": "Flabebe-Blue",
-        "smogon": "flabebe-blue"
+        "miniSprite": "0669-blue"
     },
     "baseSpecies": "flabebe",
     "baseForms": [],

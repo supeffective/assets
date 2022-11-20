@@ -95,13 +95,13 @@
     "refs": {
         "pogo": "LUXRAY",
         "veekunDb": "luxray",
+        "smogon": "luxray",
+        "showdown": "luxray",
+        "showdownDef": "Luxray",
         "serebii": "luxray",
         "bulbapedia": "Luxray",
         "homeSprite": "0405",
-        "miniSprite": "0405",
-        "showdown": "luxray",
-        "showdownDef": "Luxray",
-        "smogon": "luxray"
+        "miniSprite": "0405"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -103,13 +103,13 @@
     "refs": {
         "pogo": "EXEGGCUTE",
         "veekunDb": "exeggcute",
+        "smogon": "exeggcute",
+        "showdown": "exeggcute",
+        "showdownDef": "Exeggcute",
         "serebii": "exeggcute",
         "bulbapedia": "Exeggcute",
         "homeSprite": "0102",
-        "miniSprite": "0102",
-        "showdown": "exeggcute",
-        "showdownDef": "Exeggcute",
-        "smogon": "exeggcute"
+        "miniSprite": "0102"
     },
     "baseSpecies": null,
     "baseForms": [],

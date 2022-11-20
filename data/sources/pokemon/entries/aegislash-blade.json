@@ -76,13 +76,13 @@
     "refs": {
         "pogo": "AEGISLASH",
         "veekunDb": "aegislash-blade",
+        "smogon": "aegislash-blade",
+        "showdown": "aegislashblade",
+        "showdownDef": "Aegislash-Blade",
         "serebii": "aegislash",
         "bulbapedia": "Aegislash",
         "homeSprite": "0681-blade",
-        "miniSprite": "0681-blade",
-        "showdown": "aegislashblade",
-        "showdownDef": "Aegislash-Blade",
-        "smogon": "aegislash-blade"
+        "miniSprite": "0681-blade"
     },
     "baseSpecies": "aegislash",
     "baseForms": [

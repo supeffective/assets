@@ -73,13 +73,13 @@
     "refs": {
         "pogo": "ETERNATUS_ETERNAMAX",
         "veekunDb": "eternatus-eternamax",
+        "smogon": "eternatus-eternamax",
+        "showdown": "eternatuseternamax",
+        "showdownDef": "Eternatus-Eternamax",
         "serebii": "eternatus",
         "bulbapedia": "Eternatus",
         "homeSprite": "0890-eternamax",
-        "miniSprite": "0890-eternamax",
-        "showdown": "eternatuseternamax",
-        "showdownDef": "Eternatus-Eternamax",
-        "smogon": "eternatus-eternamax"
+        "miniSprite": "0890-eternamax"
     },
     "baseSpecies": "eternatus",
     "baseForms": [

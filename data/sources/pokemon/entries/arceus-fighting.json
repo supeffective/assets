@@ -90,13 +90,13 @@
     "refs": {
         "pogo": "ARCEUS_FIGHTING",
         "veekunDb": "arceus-fighting",
+        "smogon": "arceus-fighting",
+        "showdown": "arceusfighting",
+        "showdownDef": "Arceus-Fighting",
         "serebii": "arceus",
         "bulbapedia": "Arceus",
         "homeSprite": "0493-fighting",
-        "miniSprite": "0493-fighting",
-        "showdown": "arceusfighting",
-        "showdownDef": "Arceus-Fighting",
-        "smogon": "arceus-fighting"
+        "miniSprite": "0493-fighting"
     },
     "baseSpecies": "arceus",
     "baseForms": [
