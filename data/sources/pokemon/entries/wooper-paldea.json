@@ -7,20 +7,20 @@
     "formName": null,
     "region": "???",
     "generation": 9,
-    "type1": "???",
-    "type2": null,
-    "color": "???",
+    "type1": "poison",
+    "type2": "ground",
+    "color": "brown",
     "abilities": {
-        "primary": "???",
-        "secondary": null,
-        "hidden": null
+        "primary": "Poison Point",
+        "secondary": "Water Absorb",
+        "hidden": "Unaware"
     },
     "isLegendary": false,
     "isMythical": false,
     "isUltraBeast": false,
     "ultraBeastCode": null,
     "isDefault": true,
-    "isForm": false,
+    "isForm": true,
     "isSpecialAbilityForm": false,
     "isCosmeticForm": false,
     "isFemaleForm": false,
@@ -31,7 +31,7 @@
     "fusedWith": null,
     "isMega": false,
     "isPrimal": false,
-    "isRegional": false,
+    "isRegional": true,
     "isGmax": false,
     "canGmax": false,
     "canDynamax": false,
@@ -44,12 +44,12 @@
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 55,
+        "atk": 45,
+        "def": 45,
+        "spa": 25,
+        "spd": 25,
+        "spe": 15
     },
     "goStats": {
         "atk": -1,
@@ -57,13 +57,13 @@
         "sta": -1
     },
     "weight": {
-        "avg": -1,
+        "avg": 8.5,
         "min": -1,
         "max": -1,
         "alpha": -1
     },
     "height": {
-        "avg": -1,
+        "avg": 0.4,
         "min": -1,
         "max": -1,
         "alpha": -1

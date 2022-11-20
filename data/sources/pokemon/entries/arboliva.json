@@ -7,13 +7,13 @@
     "formName": null,
     "region": "???",
     "generation": 9,
-    "type1": "???",
-    "type2": null,
-    "color": "???",
+    "type1": "grass",
+    "type2": "normal",
+    "color": "green",
     "abilities": {
-        "primary": "???",
+        "primary": "Seed Sower",
         "secondary": null,
-        "hidden": null
+        "hidden": "Harvest"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -44,12 +44,12 @@
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 78,
+        "atk": 69,
+        "def": 90,
+        "spa": 125,
+        "spd": 109,
+        "spe": 39
     },
     "goStats": {
         "atk": -1,
@@ -57,13 +57,13 @@
         "sta": -1
     },
     "weight": {
-        "avg": -1,
+        "avg": 48.2,
         "min": -1,
         "max": -1,
         "alpha": -1
     },
     "height": {
-        "avg": -1,
+        "avg": 1.4,
         "min": -1,
         "max": -1,
         "alpha": -1

@@ -7,13 +7,13 @@
     "formName": null,
     "region": "???",
     "generation": 9,
-    "type1": "???",
+    "type1": "electric",
     "type2": null,
-    "color": "???",
+    "color": "yellow",
     "abilities": {
-        "primary": "???",
-        "secondary": null,
-        "hidden": null
+        "primary": "Own Tempo",
+        "secondary": "Static",
+        "hidden": "Damp"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -44,12 +44,12 @@
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 61,
+        "atk": 31,
+        "def": 41,
+        "spa": 59,
+        "spd": 35,
+        "spe": 45
     },
     "goStats": {
         "atk": -1,
@@ -57,13 +57,13 @@
         "sta": -1
     },
     "weight": {
-        "avg": -1,
+        "avg": 0.4,
         "min": -1,
         "max": -1,
         "alpha": -1
     },
     "height": {
-        "avg": -1,
+        "avg": 0.3,
         "min": -1,
         "max": -1,
         "alpha": -1

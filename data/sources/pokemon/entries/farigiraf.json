@@ -7,13 +7,13 @@
     "formName": null,
     "region": "???",
     "generation": 9,
-    "type1": "???",
-    "type2": null,
-    "color": "???",
+    "type1": "normal",
+    "type2": "psychic",
+    "color": "brown",
     "abilities": {
-        "primary": "???",
-        "secondary": null,
-        "hidden": null
+        "primary": "Cud Chew",
+        "secondary": "Armor Tail",
+        "hidden": "Sap Sipper"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -44,12 +44,12 @@
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 120,
+        "atk": 90,
+        "def": 70,
+        "spa": 110,
+        "spd": 70,
+        "spe": 60
     },
     "goStats": {
         "atk": -1,
@@ -57,13 +57,13 @@
         "sta": -1
     },
     "weight": {
-        "avg": -1,
+        "avg": 160,
         "min": -1,
         "max": -1,
         "alpha": -1
     },
     "height": {
-        "avg": -1,
+        "avg": 3.2,
         "min": -1,
         "max": -1,
         "alpha": -1

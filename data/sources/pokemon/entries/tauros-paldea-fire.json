@@ -7,20 +7,20 @@
     "formName": null,
     "region": "???",
     "generation": 9,
-    "type1": "???",
-    "type2": null,
-    "color": "???",
+    "type1": "fighting",
+    "type2": "fire",
+    "color": "black",
     "abilities": {
-        "primary": "???",
-        "secondary": null,
-        "hidden": null
+        "primary": "Intimidate",
+        "secondary": "Anger Point",
+        "hidden": "Cud Chew"
     },
     "isLegendary": false,
     "isMythical": false,
     "isUltraBeast": false,
     "ultraBeastCode": null,
     "isDefault": true,
-    "isForm": false,
+    "isForm": true,
     "isSpecialAbilityForm": false,
     "isCosmeticForm": false,
     "isFemaleForm": false,
@@ -31,7 +31,7 @@
     "fusedWith": null,
     "isMega": false,
     "isPrimal": false,
-    "isRegional": false,
+    "isRegional": true,
     "isGmax": false,
     "canGmax": false,
     "canDynamax": false,
@@ -44,12 +44,12 @@
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 75,
+        "atk": 110,
+        "def": 105,
+        "spa": 30,
+        "spd": 70,
+        "spe": 100
     },
     "goStats": {
         "atk": -1,
@@ -57,13 +57,13 @@
         "sta": -1
     },
     "weight": {
-        "avg": -1,
+        "avg": 88.4,
         "min": -1,
         "max": -1,
         "alpha": -1
     },
     "height": {
-        "avg": -1,
+        "avg": 1.4,
         "min": -1,
         "max": -1,
         "alpha": -1

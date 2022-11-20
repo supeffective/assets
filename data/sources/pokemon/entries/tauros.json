@@ -114,7 +114,10 @@
     "baseSpecies": null,
     "baseForms": [],
     "forms": [
-        "tauros"
+        "tauros",
+        "tauros-paldea",
+        "tauros-paldea-fire",
+        "tauros-paldea-water"
     ],
     "evolutions": []
 }

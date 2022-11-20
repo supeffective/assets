@@ -7,11 +7,11 @@
     "formName": null,
     "region": "???",
     "generation": 9,
-    "type1": "???",
-    "type2": null,
-    "color": "???",
+    "type1": "dark",
+    "type2": "grass",
+    "color": "brown",
     "abilities": {
-        "primary": "???",
+        "primary": "Tablets of Ruin",
         "secondary": null,
         "hidden": null
     },
@@ -44,12 +44,12 @@
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 85,
+        "atk": 85,
+        "def": 100,
+        "spa": 95,
+        "spd": 135,
+        "spe": 70
     },
     "goStats": {
         "atk": -1,
@@ -57,13 +57,13 @@
         "sta": -1
     },
     "weight": {
-        "avg": -1,
+        "avg": 74.2,
         "min": -1,
         "max": -1,
         "alpha": -1
     },
     "height": {
-        "avg": -1,
+        "avg": 1.5,
         "min": -1,
         "max": -1,
         "alpha": -1

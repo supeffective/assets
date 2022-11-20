@@ -7,13 +7,13 @@
     "formName": null,
     "region": "???",
     "generation": 9,
-    "type1": "???",
+    "type1": "fairy",
     "type2": null,
-    "color": "???",
+    "color": "yellow",
     "abilities": {
-        "primary": "???",
+        "primary": "Own Tempo",
         "secondary": null,
-        "hidden": null
+        "hidden": "Klutz"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -44,12 +44,12 @@
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 37,
+        "atk": 55,
+        "def": 70,
+        "spa": 30,
+        "spd": 55,
+        "spe": 65
     },
     "goStats": {
         "atk": -1,
@@ -57,13 +57,13 @@
         "sta": -1
     },
     "weight": {
-        "avg": -1,
+        "avg": 10.9,
         "min": -1,
         "max": -1,
         "alpha": -1
     },
     "height": {
-        "avg": -1,
+        "avg": 0.3,
         "min": -1,
         "max": -1,
         "alpha": -1

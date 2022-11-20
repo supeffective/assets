@@ -49,6 +49,7 @@ require_once __DIR__ . '/_bootstrap.php';
             'type1' => strtolower($showdownEntry['types'][0] ?? '') ?: null,
             'type2' => strtolower($showdownEntry['types'][1] ?? '') ?: null,
             'color' => strtolower($showdownEntry['color'] ?? '') ?: null,
+            //'isForm' => (($showdownEntry['forme'] ?? null) !== null) || str_ends_with($entry['id'], '-f') || str_contains($entry['id'], '--')
 
         ]);
         $newPkm['height']['min'] = $newPkm['height']['max'] = $newPkm['height']['alpha'] = -1;

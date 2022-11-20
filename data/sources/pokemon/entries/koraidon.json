@@ -7,11 +7,11 @@
     "formName": null,
     "region": "???",
     "generation": 9,
-    "type1": "???",
-    "type2": null,
-    "color": "???",
+    "type1": "fighting",
+    "type2": "dragon",
+    "color": "red",
     "abilities": {
-        "primary": "???",
+        "primary": "Orichalcum Pulse",
         "secondary": null,
         "hidden": null
     },
@@ -44,12 +44,12 @@
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 100,
+        "atk": 135,
+        "def": 115,
+        "spa": 85,
+        "spd": 100,
+        "spe": 135
     },
     "goStats": {
         "atk": -1,
@@ -57,13 +57,13 @@
         "sta": -1
     },
     "weight": {
-        "avg": -1,
+        "avg": 303,
         "min": -1,
         "max": -1,
         "alpha": -1
     },
     "height": {
-        "avg": -1,
+        "avg": 2.5,
         "min": -1,
         "max": -1,
         "alpha": -1

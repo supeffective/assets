@@ -7,11 +7,11 @@
     "formName": null,
     "region": "???",
     "generation": 9,
-    "type1": "???",
+    "type1": "water",
     "type2": null,
-    "color": "???",
+    "color": "blue",
     "abilities": {
-        "primary": "???",
+        "primary": "Water Veil",
         "secondary": null,
         "hidden": null
     },
@@ -44,12 +44,12 @@
     "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
-        "hp": -1,
-        "atk": -1,
-        "def": -1,
-        "spa": -1,
-        "spd": -1,
-        "spe": -1
+        "hp": 70,
+        "atk": 45,
+        "def": 40,
+        "spa": 45,
+        "spd": 40,
+        "spe": 75
     },
     "goStats": {
         "atk": -1,
@@ -57,13 +57,13 @@
         "sta": -1
     },
     "weight": {
-        "avg": -1,
+        "avg": 60.2,
         "min": -1,
         "max": -1,
         "alpha": -1
     },
     "height": {
-        "avg": -1,
+        "avg": 1.3,
         "min": -1,
         "max": -1,
         "alpha": -1
