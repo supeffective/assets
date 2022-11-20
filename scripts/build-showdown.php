@@ -39,7 +39,22 @@ require_once __DIR__ . '/_bootstrap.php';
 
             return;
         }
+        $dexNo = $showdownEntry['num'];
+        $dexNoPad = sprintf('%04d', $showdownEntry['num']);
+        $formId = $entry['formId'];
+        if ($formId === null) {
+            $formId = explode("-", $entry['id'], 2);
+            $formId = isset($formId[1]) ? $formId[1] : null;
+        }
+        $nid = $dexNoPad;
+        if ($formId && $entry['isForm']) {
+            $nid .= '-' . $formId;
+        }
+
         $newPkm = sgg_array_merge_deep($entry, [
+            'dexNum' => $dexNo,
+            'nid' => $nid,
+            'formId' => $formId,
             'baseStats' => $showdownEntry['baseStats'],
             'abilities' => [
                 'primary' => $showdownEntry['abilities']['0'] ?? null,
