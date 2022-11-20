@@ -7,13 +7,13 @@
     "formName": "Hisuian Form",
     "region": "hisui",
     "generation": 8,
-    "type1": "poison",
-    "type2": "fighting",
+    "type1": "fighting",
+    "type2": "poison",
     "color": "gray",
     "abilities": {
         "primary": "Inner Focus",
         "secondary": "Keen Eye",
-        "hidden": "Poison Touch"
+        "hidden": "Pickpocket"
     },
     "isLegendary": false,
     "isMythical": false,

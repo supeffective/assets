@@ -68,9 +68,9 @@
     "baseStats": {
         "hp": 120,
         "atk": 70,
-        "def": 120,
+        "def": 110,
         "spa": 75,
-        "spd": 130,
+        "spd": 120,
         "spe": 85
     },
     "goStats": {

@@ -9,7 +9,7 @@
     "generation": 8,
     "type1": "normal",
     "type2": "ghost",
-    "color": "white",
+    "color": "gray",
     "abilities": {
         "primary": "Illusion",
         "secondary": null,
@@ -49,12 +49,12 @@
     "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
-        "hp": 55,
-        "atk": 100,
+        "hp": 60,
+        "atk": 105,
         "def": 60,
-        "spa": 125,
+        "spa": 120,
         "spd": 60,
-        "spe": 110
+        "spe": 105
     },
     "goStats": {
         "atk": -1,

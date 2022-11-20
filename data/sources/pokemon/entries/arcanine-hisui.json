@@ -9,11 +9,11 @@
     "generation": 8,
     "type1": "fire",
     "type2": "rock",
-    "color": "gray",
+    "color": "brown",
     "abilities": {
         "primary": "Intimidate",
         "secondary": "Flash Fire",
-        "hidden": "Justified"
+        "hidden": "Rock Head"
     },
     "isLegendary": false,
     "isMythical": false,

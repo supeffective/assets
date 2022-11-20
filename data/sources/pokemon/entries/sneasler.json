@@ -7,12 +7,12 @@
     "formName": null,
     "region": "hisui",
     "generation": 8,
-    "type1": "poison",
-    "type2": "fighting",
-    "color": "gray",
+    "type1": "fighting",
+    "type2": "poison",
+    "color": "purple",
     "abilities": {
         "primary": "Pressure",
-        "secondary": null,
+        "secondary": "Unburden",
         "hidden": "Poison Touch"
     },
     "isLegendary": false,

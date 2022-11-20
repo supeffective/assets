@@ -12,7 +12,7 @@
     "color": "white",
     "abilities": {
         "primary": "Steadfast",
-        "secondary": null,
+        "secondary": "Sharpness",
         "hidden": "Justified"
     },
     "isLegendary": false,

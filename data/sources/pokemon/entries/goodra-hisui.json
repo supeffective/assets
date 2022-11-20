@@ -7,12 +7,12 @@
     "formName": "Hisuian Form",
     "region": "hisui",
     "generation": 8,
-    "type1": "dragon",
-    "type2": "steel",
-    "color": "pink",
+    "type1": "steel",
+    "type2": "dragon",
+    "color": "purple",
     "abilities": {
         "primary": "Sap Sipper",
-        "secondary": "Overcoat",
+        "secondary": "Shell Armor",
         "hidden": "Gooey"
     },
     "isLegendary": false,

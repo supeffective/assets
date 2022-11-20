@@ -47,10 +47,10 @@
     "shinyBase": null,
     "baseStats": {
         "hp": 92,
-        "atk": 130,
-        "def": 145,
+        "atk": 120,
+        "def": 140,
         "spa": 80,
-        "spd": 145,
+        "spd": 140,
         "spe": 128
     },
     "goStats": {

@@ -9,11 +9,11 @@
     "generation": 6,
     "type1": "bug",
     "type2": "flying",
-    "color": "white",
+    "color": "black",
     "abilities": {
         "primary": "Shield Dust",
         "secondary": "Compound Eyes",
-        "hidden": null
+        "hidden": "Friend Guard"
     },
     "isLegendary": false,
     "isMythical": false,

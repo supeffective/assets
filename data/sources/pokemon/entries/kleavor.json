@@ -13,7 +13,7 @@
     "abilities": {
         "primary": "Swarm",
         "secondary": "Sheer Force",
-        "hidden": "Steadfast"
+        "hidden": "Sharpness"
     },
     "isLegendary": false,
     "isMythical": false,
@@ -50,10 +50,10 @@
     "shinyBase": null,
     "baseStats": {
         "hp": 70,
-        "atk": 135,
+        "atk": 130,
         "def": 95,
         "spa": 45,
-        "spd": 70,
+        "spd": 75,
         "spe": 85
     },
     "goStats": {

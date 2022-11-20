@@ -9,9 +9,9 @@
     "generation": 8,
     "type1": "water",
     "type2": "ghost",
-    "color": "blue",
+    "color": "green",
     "abilities": {
-        "primary": "Rattled",
+        "primary": "Swift Swim",
         "secondary": "Adaptability",
         "hidden": "Mold Breaker"
     },

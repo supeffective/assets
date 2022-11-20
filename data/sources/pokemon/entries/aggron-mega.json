@@ -8,7 +8,7 @@
     "region": "kalos",
     "generation": 6,
     "type1": "steel",
-    "type2": "rock",
+    "type2": null,
     "color": "gray",
     "abilities": {
         "primary": "Filter",
