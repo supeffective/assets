@@ -375,7 +375,7 @@
         "dexNum": 6,
         "name": "Mega Charizard X",
         "type1": "fire",
-        "type2": "flying",
+        "type2": "dragon",
         "isForm": true,
         "baseSpecies": "charizard",
         "baseForms": [
@@ -7993,7 +7993,7 @@
         "dexNum": 127,
         "name": "Mega Pinsir",
         "type1": "bug",
-        "type2": null,
+        "type2": "flying",
         "isForm": true,
         "baseSpecies": "pinsir",
         "baseForms": [
@@ -8053,6 +8053,66 @@
             "usum",
             "xy",
             "y"
+        ]
+    },
+    {
+        "id": "tauros-paldea",
+        "dexNum": 128,
+        "name": "Paldean Tauros",
+        "type1": "fighting",
+        "type2": null,
+        "isForm": true,
+        "baseSpecies": "Tauros",
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "tauros-paldea-fire",
+        "dexNum": 128,
+        "name": "Paldean Tauros - Blaze Breed",
+        "type1": "fighting",
+        "type2": "fire",
+        "isForm": true,
+        "baseSpecies": "Tauros",
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "tauros-paldea-water",
+        "dexNum": 128,
+        "name": "Paldean Tauros - Aqua Breed",
+        "type1": "fighting",
+        "type2": "water",
+        "isForm": true,
+        "baseSpecies": "Tauros",
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
         ]
     },
     {
@@ -8232,7 +8292,7 @@
         "dexNum": 130,
         "name": "Mega Gyarados",
         "type1": "water",
-        "type2": "flying",
+        "type2": "dark",
         "isForm": true,
         "baseSpecies": "gyarados",
         "baseForms": [
@@ -9362,7 +9422,7 @@
         "dexNum": 150,
         "name": "Mega Mewtwo X",
         "type1": "psychic",
-        "type2": null,
+        "type2": "fighting",
         "isForm": true,
         "baseSpecies": "mewtwo",
         "baseForms": [
@@ -10840,7 +10900,7 @@
         "dexNum": 181,
         "name": "Mega Ampharos",
         "type1": "electric",
-        "type2": null,
+        "type2": "dragon",
         "isForm": true,
         "baseSpecies": "ampharos",
         "baseForms": [
@@ -11543,9 +11603,9 @@
         "type1": "poison",
         "type2": "ground",
         "isForm": true,
-        "baseSpecies": "wooper",
+        "baseSpecies": "Wooper",
         "baseForms": [],
-        "shinyReleased": false,
+        "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
             "sv"
@@ -14002,8 +14062,8 @@
         "id": "sneasel-hisui",
         "dexNum": 215,
         "name": "Hisuian Sneasel",
-        "type1": "poison",
-        "type2": "fighting",
+        "type1": "fighting",
+        "type2": "poison",
         "isForm": true,
         "baseSpecies": "sneasel",
         "baseForms": [],
@@ -14025,8 +14085,8 @@
         "id": "sneasel-hisui-f",
         "dexNum": 215,
         "name": "Hisuian Sneasel (Female)",
-        "type1": "poison",
-        "type2": "fighting",
+        "type1": "fighting",
+        "type2": "poison",
         "isForm": true,
         "baseSpecies": "sneasel",
         "baseForms": [],
@@ -15919,7 +15979,7 @@
         "dexNum": 254,
         "name": "Mega Sceptile",
         "type1": "grass",
-        "type2": null,
+        "type2": "dragon",
         "isForm": true,
         "baseSpecies": "sceptile",
         "baseForms": [
@@ -18427,7 +18487,7 @@
         "dexNum": 306,
         "name": "Mega Aggron",
         "type1": "steel",
-        "type2": "rock",
+        "type2": null,
         "isForm": true,
         "baseSpecies": "aggron",
         "baseForms": [
@@ -19892,7 +19952,7 @@
         "dexNum": 334,
         "name": "Mega Altaria",
         "type1": "dragon",
-        "type2": "flying",
+        "type2": "fairy",
         "isForm": true,
         "baseSpecies": "altaria",
         "baseForms": [
@@ -22180,7 +22240,7 @@
         "dexNum": 383,
         "name": "Groudon Primal Reversion",
         "type1": "ground",
-        "type2": null,
+        "type2": "fire",
         "isForm": true,
         "baseSpecies": "groudon",
         "baseForms": [
@@ -23903,7 +23963,7 @@
         "dexNum": 413,
         "name": "Wormadam Sandy Cloak",
         "type1": "bug",
-        "type2": "grass",
+        "type2": "ground",
         "isForm": true,
         "baseSpecies": "wormadam",
         "baseForms": [],
@@ -23939,7 +23999,7 @@
         "dexNum": 413,
         "name": "Wormadam Trash Cloak",
         "type1": "bug",
-        "type2": "grass",
+        "type2": "steel",
         "isForm": true,
         "baseSpecies": "wormadam",
         "baseForms": [],
@@ -24820,7 +24880,7 @@
         "dexNum": 428,
         "name": "Mega Lopunny",
         "type1": "normal",
-        "type2": null,
+        "type2": "fighting",
         "isForm": true,
         "baseSpecies": "lopunny",
         "baseForms": [
@@ -27405,7 +27465,7 @@
         "dexNum": 479,
         "name": "Heat Rotom",
         "type1": "electric",
-        "type2": "ghost",
+        "type2": "fire",
         "isForm": true,
         "baseSpecies": "rotom",
         "baseForms": [
@@ -27443,7 +27503,7 @@
         "dexNum": 479,
         "name": "Wash Rotom",
         "type1": "electric",
-        "type2": "ghost",
+        "type2": "water",
         "isForm": true,
         "baseSpecies": "rotom",
         "baseForms": [
@@ -27481,7 +27541,7 @@
         "dexNum": 479,
         "name": "Frost Rotom",
         "type1": "electric",
-        "type2": "ghost",
+        "type2": "ice",
         "isForm": true,
         "baseSpecies": "rotom",
         "baseForms": [
@@ -27519,7 +27579,7 @@
         "dexNum": 479,
         "name": "Fan Rotom",
         "type1": "electric",
-        "type2": "ghost",
+        "type2": "flying",
         "isForm": true,
         "baseSpecies": "rotom",
         "baseForms": [
@@ -27557,7 +27617,7 @@
         "dexNum": 479,
         "name": "Mow Rotom",
         "type1": "electric",
-        "type2": "ghost",
+        "type2": "grass",
         "isForm": true,
         "baseSpecies": "rotom",
         "baseForms": [
@@ -28156,7 +28216,7 @@
         "dexNum": 492,
         "name": "Shaymin Sky Forme",
         "type1": "grass",
-        "type2": null,
+        "type2": "flying",
         "isForm": true,
         "baseSpecies": "shaymin",
         "baseForms": [
@@ -30033,7 +30093,7 @@
         "dexNum": 531,
         "name": "Mega Audino",
         "type1": "normal",
-        "type2": null,
+        "type2": "fairy",
         "isForm": true,
         "baseSpecies": "audino",
         "baseForms": [
@@ -30890,7 +30950,7 @@
         "dexNum": 555,
         "name": "Darmanitan Zen Mode",
         "type1": "fire",
-        "type2": null,
+        "type2": "psychic",
         "isForm": true,
         "baseSpecies": "darmanitan",
         "baseForms": [
@@ -34371,7 +34431,7 @@
         "dexNum": 648,
         "name": "Meloetta Pirouette Forme",
         "type1": "normal",
-        "type2": "psychic",
+        "type2": "fighting",
         "isForm": true,
         "baseSpecies": "meloetta",
         "baseForms": [
@@ -37198,8 +37258,8 @@
         "id": "sliggoo-hisui",
         "dexNum": 705,
         "name": "Hisuian Sliggoo",
-        "type1": "dragon",
-        "type2": "steel",
+        "type1": "steel",
+        "type2": "dragon",
         "isForm": true,
         "baseSpecies": "sliggoo",
         "baseForms": [],
@@ -37247,8 +37307,8 @@
         "id": "goodra-hisui",
         "dexNum": 706,
         "name": "Hisuian Goodra",
-        "type1": "dragon",
-        "type2": "steel",
+        "type1": "steel",
+        "type2": "dragon",
         "isForm": true,
         "baseSpecies": "goodra",
         "baseForms": [],
@@ -37990,7 +38050,7 @@
         "dexNum": 720,
         "name": "Hoopa Unbound",
         "type1": "psychic",
-        "type2": "ghost",
+        "type2": "dark",
         "isForm": true,
         "baseSpecies": "hoopa",
         "baseForms": [
@@ -45256,8 +45316,8 @@
         "id": "ursaluna",
         "dexNum": 901,
         "name": "Ursaluna",
-        "type1": "normal",
-        "type2": "ground",
+        "type1": "ground",
+        "type2": "normal",
         "isForm": false,
         "baseSpecies": null,
         "baseForms": [],
@@ -45319,8 +45379,8 @@
         "id": "sneasler",
         "dexNum": 903,
         "name": "Sneasler",
-        "type1": "poison",
-        "type2": "fighting",
+        "type1": "fighting",
+        "type2": "poison",
         "isForm": false,
         "baseSpecies": null,
         "baseForms": [],
@@ -45405,14 +45465,54 @@
     },
     {
         "id": "sprigatito",
-        "dexNum": 9001,
+        "dexNum": 906,
         "name": "Sprigatito",
         "type1": "grass",
         "type2": null,
         "isForm": false,
         "baseSpecies": null,
         "baseForms": [],
-        "shinyReleased": false,
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "floragato",
+        "dexNum": 907,
+        "name": "Floragato",
+        "type1": "grass",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "meowscarada",
+        "dexNum": 908,
+        "name": "Meowscarada",
+        "type1": "grass",
+        "type2": "dark",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
             "sv"
@@ -45425,14 +45525,54 @@
     },
     {
         "id": "fuecoco",
-        "dexNum": 9004,
+        "dexNum": 909,
         "name": "Fuecoco",
         "type1": "fire",
         "type2": null,
         "isForm": false,
         "baseSpecies": null,
         "baseForms": [],
-        "shinyReleased": false,
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "crocalor",
+        "dexNum": 910,
+        "name": "Crocalor",
+        "type1": "fire",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "skeledirge",
+        "dexNum": 911,
+        "name": "Skeledirge",
+        "type1": "fire",
+        "type2": "ghost",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
             "sv"
@@ -45445,14 +45585,14 @@
     },
     {
         "id": "quaxly",
-        "dexNum": 9007,
+        "dexNum": 912,
         "name": "Quaxly",
         "type1": "water",
         "type2": null,
         "isForm": false,
         "baseSpecies": null,
         "baseForms": [],
-        "shinyReleased": false,
+        "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
             "sv"
@@ -45464,15 +45604,35 @@
         ]
     },
     {
-        "id": "pawmi",
-        "dexNum": 9010,
-        "name": "Pawmi",
-        "type1": "electric",
+        "id": "quaxwell",
+        "dexNum": 913,
+        "name": "Quaxwell",
+        "type1": "water",
         "type2": null,
         "isForm": false,
         "baseSpecies": null,
         "baseForms": [],
-        "shinyReleased": false,
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "quaquaval",
+        "dexNum": 914,
+        "name": "Quaquaval",
+        "type1": "water",
+        "type2": "fighting",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
             "sv"
@@ -45485,14 +45645,454 @@
     },
     {
         "id": "lechonk",
-        "dexNum": 9020,
+        "dexNum": 915,
         "name": "Lechonk",
         "type1": "normal",
         "type2": null,
         "isForm": false,
         "baseSpecies": null,
         "baseForms": [],
-        "shinyReleased": false,
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "oinkologne",
+        "dexNum": 916,
+        "name": "Oinkologne",
+        "type1": "normal",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "oinkologne-f",
+        "dexNum": 916,
+        "name": "Oinkologne (Female)",
+        "type1": "normal",
+        "type2": null,
+        "isForm": true,
+        "baseSpecies": "Oinkologne",
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "dudunsparce",
+        "dexNum": 917,
+        "name": "Dudunsparce",
+        "type1": "normal",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "dudunsparce-three-segment",
+        "dexNum": 917,
+        "name": "Dudunsparce Three-Segment Form",
+        "type1": "normal",
+        "type2": null,
+        "isForm": true,
+        "baseSpecies": "Dudunsparce",
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "tarountula",
+        "dexNum": 918,
+        "name": "Tarountula",
+        "type1": "bug",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "spidops",
+        "dexNum": 919,
+        "name": "Spidops",
+        "type1": "bug",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "nymble",
+        "dexNum": 920,
+        "name": "Nymble",
+        "type1": "bug",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "lokix",
+        "dexNum": 921,
+        "name": "Lokix",
+        "type1": "bug",
+        "type2": "dark",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "rellor",
+        "dexNum": 922,
+        "name": "Rellor",
+        "type1": "bug",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "rabsca",
+        "dexNum": 923,
+        "name": "Rabsca",
+        "type1": "bug",
+        "type2": "psychic",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "greavard",
+        "dexNum": 924,
+        "name": "Greavard",
+        "type1": "ghost",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "houndstone",
+        "dexNum": 925,
+        "name": "Houndstone",
+        "type1": "ghost",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "flittle",
+        "dexNum": 926,
+        "name": "Flittle",
+        "type1": "psychic",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "espathra",
+        "dexNum": 927,
+        "name": "Espathra",
+        "type1": "psychic",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "farigiraf",
+        "dexNum": 928,
+        "name": "Farigiraf",
+        "type1": "normal",
+        "type2": "psychic",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "wiglett",
+        "dexNum": 929,
+        "name": "Wiglett",
+        "type1": "water",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "wugtrio",
+        "dexNum": 930,
+        "name": "Wugtrio",
+        "type1": "water",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "dondozo",
+        "dexNum": 931,
+        "name": "Dondozo",
+        "type1": "water",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "veluza",
+        "dexNum": 932,
+        "name": "Veluza",
+        "type1": "water",
+        "type2": "psychic",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "finizen",
+        "dexNum": 933,
+        "name": "Finizen",
+        "type1": "water",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "palafin",
+        "dexNum": 934,
+        "name": "Palafin",
+        "type1": "water",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "palafin-hero",
+        "dexNum": 934,
+        "name": "Palafin Hero Form",
+        "type1": "water",
+        "type2": null,
+        "isForm": true,
+        "baseSpecies": "Palafin",
+        "baseForms": [],
+        "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
             "sv"
@@ -45505,14 +46105,274 @@
     },
     {
         "id": "smoliv",
-        "dexNum": 9030,
+        "dexNum": 935,
         "name": "Smoliv",
         "type1": "grass",
         "type2": "normal",
         "isForm": false,
         "baseSpecies": null,
         "baseForms": [],
-        "shinyReleased": false,
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "dolliv",
+        "dexNum": 936,
+        "name": "Dolliv",
+        "type1": "grass",
+        "type2": "normal",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "arboliva",
+        "dexNum": 937,
+        "name": "Arboliva",
+        "type1": "grass",
+        "type2": "normal",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "capsakid",
+        "dexNum": 938,
+        "name": "Capsakid",
+        "type1": "grass",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "scovillain",
+        "dexNum": 939,
+        "name": "Scovillain",
+        "type1": "grass",
+        "type2": "fire",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "tadbulb",
+        "dexNum": 940,
+        "name": "Tadbulb",
+        "type1": "electric",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "bellibolt",
+        "dexNum": 941,
+        "name": "Bellibolt",
+        "type1": "electric",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "varoom",
+        "dexNum": 942,
+        "name": "Varoom",
+        "type1": "steel",
+        "type2": "poison",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "revavroom",
+        "dexNum": 943,
+        "name": "Revavroom",
+        "type1": "steel",
+        "type2": "poison",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "orthworm",
+        "dexNum": 944,
+        "name": "Orthworm",
+        "type1": "steel",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "tandemaus",
+        "dexNum": 945,
+        "name": "Tandemaus",
+        "type1": "normal",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "maushold",
+        "dexNum": 946,
+        "name": "Maushold",
+        "type1": "normal",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "maushold-four",
+        "dexNum": 946,
+        "name": "Maushold Family of Four",
+        "type1": "normal",
+        "type2": null,
+        "isForm": true,
+        "baseSpecies": "Maushold",
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "cetoddle",
+        "dexNum": 947,
+        "name": "Cetoddle",
+        "type1": "ice",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
             "sv"
@@ -45525,14 +46385,534 @@
     },
     {
         "id": "cetitan",
-        "dexNum": 9041,
+        "dexNum": 948,
         "name": "Cetitan",
         "type1": "ice",
         "type2": null,
         "isForm": false,
         "baseSpecies": null,
         "baseForms": [],
-        "shinyReleased": false,
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "frigibax",
+        "dexNum": 949,
+        "name": "Frigibax",
+        "type1": "dragon",
+        "type2": "ice",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "arctibax",
+        "dexNum": 950,
+        "name": "Arctibax",
+        "type1": "dragon",
+        "type2": "ice",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "baxcalibur",
+        "dexNum": 951,
+        "name": "Baxcalibur",
+        "type1": "dragon",
+        "type2": "ice",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "tatsugiri",
+        "dexNum": 952,
+        "name": "Tatsugiri",
+        "type1": "dragon",
+        "type2": "water",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "tatsugiri-droopy",
+        "dexNum": 952,
+        "name": "Tatsugiri Droopy Form",
+        "type1": "dragon",
+        "type2": "water",
+        "isForm": true,
+        "baseSpecies": "Tatsugiri",
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "tatsugiri-sketchy",
+        "dexNum": 952,
+        "name": "Tatsugiri Sketchy Form",
+        "type1": "dragon",
+        "type2": "water",
+        "isForm": false,
+        "baseSpecies": "Tatsugiri",
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "cyclizar",
+        "dexNum": 953,
+        "name": "Cyclizar",
+        "type1": "dragon",
+        "type2": "normal",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "pawmi",
+        "dexNum": 954,
+        "name": "Pawmi",
+        "type1": "electric",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "pawmo",
+        "dexNum": 955,
+        "name": "Pawmo",
+        "type1": "electric",
+        "type2": "fighting",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "pawmot",
+        "dexNum": 956,
+        "name": "Pawmot",
+        "type1": "electric",
+        "type2": "fighting",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "wattrel",
+        "dexNum": 957,
+        "name": "Wattrel",
+        "type1": "electric",
+        "type2": "flying",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "kilowattrel",
+        "dexNum": 958,
+        "name": "Kilowattrel",
+        "type1": "electric",
+        "type2": "flying",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "bombirdier",
+        "dexNum": 959,
+        "name": "Bombirdier",
+        "type1": "flying",
+        "type2": "dark",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "squawkabilly",
+        "dexNum": 960,
+        "name": "Squawkabilly",
+        "type1": "normal",
+        "type2": "flying",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "squawkabilly-blue",
+        "dexNum": 960,
+        "name": "Squawkabilly Blue-feathered",
+        "type1": "normal",
+        "type2": "flying",
+        "isForm": true,
+        "baseSpecies": "Squawkabilly",
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "squawkabilly-yellow",
+        "dexNum": 960,
+        "name": "Squawkabilly Yellow-feathered",
+        "type1": "normal",
+        "type2": "flying",
+        "isForm": true,
+        "baseSpecies": "Squawkabilly",
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "squawkabilly-white",
+        "dexNum": 960,
+        "name": "Squawkabilly White-feathered",
+        "type1": "normal",
+        "type2": "flying",
+        "isForm": true,
+        "baseSpecies": "Squawkabilly",
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "flamigo",
+        "dexNum": 961,
+        "name": "Flamigo",
+        "type1": "flying",
+        "type2": "fighting",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "klawf",
+        "dexNum": 962,
+        "name": "Klawf",
+        "type1": "rock",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "nacli",
+        "dexNum": 963,
+        "name": "Nacli",
+        "type1": "rock",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "naclstack",
+        "dexNum": 964,
+        "name": "Naclstack",
+        "type1": "rock",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "garganacl",
+        "dexNum": 965,
+        "name": "Garganacl",
+        "type1": "rock",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "glimmet",
+        "dexNum": 966,
+        "name": "Glimmet",
+        "type1": "rock",
+        "type2": "poison",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "glimmora",
+        "dexNum": 967,
+        "name": "Glimmora",
+        "type1": "rock",
+        "type2": "poison",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "shroodle",
+        "dexNum": 968,
+        "name": "Shroodle",
+        "type1": "poison",
+        "type2": "normal",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "grafaiai",
+        "dexNum": 969,
+        "name": "Grafaiai",
+        "type1": "poison",
+        "type2": "normal",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
             "sv"
@@ -45545,14 +46925,14 @@
     },
     {
         "id": "fidough",
-        "dexNum": 9051,
+        "dexNum": 970,
         "name": "Fidough",
         "type1": "fairy",
         "type2": null,
         "isForm": false,
         "baseSpecies": null,
         "baseForms": [],
-        "shinyReleased": false,
+        "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
             "sv"
@@ -45564,15 +46944,175 @@
         ]
     },
     {
-        "id": "koraidon",
-        "dexNum": 9052,
-        "name": "Koraidon",
-        "type1": "dragon",
+        "id": "dachsbun",
+        "dexNum": 971,
+        "name": "Dachsbun",
+        "type1": "fairy",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "maschiff",
+        "dexNum": 972,
+        "name": "Maschiff",
+        "type1": "dark",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "mabosstiff",
+        "dexNum": 973,
+        "name": "Mabosstiff",
+        "type1": "dark",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "bramblin",
+        "dexNum": 974,
+        "name": "Bramblin",
+        "type1": "grass",
+        "type2": "ghost",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "brambleghast",
+        "dexNum": 975,
+        "name": "Brambleghast",
+        "type1": "grass",
+        "type2": "ghost",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "gimmighoul",
+        "dexNum": 976,
+        "name": "Gimmighoul",
+        "type1": "ghost",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "gimmighoul-roaming",
+        "dexNum": 976,
+        "name": "Gimmighoul Roaming Form",
+        "type1": "ghost",
+        "type2": null,
+        "isForm": true,
+        "baseSpecies": "Gimmighoul",
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "gholdengo",
+        "dexNum": 977,
+        "name": "Gholdengo",
+        "type1": "ghost",
+        "type2": "steel",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "greattusk",
+        "dexNum": 978,
+        "name": "Great Tusk",
+        "type1": "ground",
         "type2": "fighting",
         "isForm": false,
         "baseSpecies": null,
         "baseForms": [],
-        "shinyReleased": false,
+        "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
             "sv"
@@ -45584,10 +47124,170 @@
         ]
     },
     {
-        "id": "miraidon",
-        "dexNum": 9053,
-        "name": "Miraidon",
+        "id": "brutebonnet",
+        "dexNum": 979,
+        "name": "Brute Bonnet",
+        "type1": "grass",
+        "type2": "dark",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "sandyshocks",
+        "dexNum": 981,
+        "name": "Sandy Shocks",
+        "type1": "electric",
+        "type2": "ground",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "screamtail",
+        "dexNum": 982,
+        "name": "Scream Tail",
+        "type1": "fairy",
+        "type2": "psychic",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "fluttermane",
+        "dexNum": 983,
+        "name": "Flutter Mane",
+        "type1": "ghost",
+        "type2": "fairy",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "slitherwing",
+        "dexNum": 984,
+        "name": "Slither Wing",
+        "type1": "bug",
+        "type2": "fighting",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "roaringmoon",
+        "dexNum": 985,
+        "name": "Roaring Moon",
         "type1": "dragon",
+        "type2": "dark",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "irontreads",
+        "dexNum": 986,
+        "name": "Iron Treads",
+        "type1": "ground",
+        "type2": "steel",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "ironmoth",
+        "dexNum": 988,
+        "name": "Iron Moth",
+        "type1": "fire",
+        "type2": "poison",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "ironhands",
+        "dexNum": 989,
+        "name": "Iron Hands",
+        "type1": "fighting",
         "type2": "electric",
         "isForm": false,
         "baseSpecies": null,
@@ -45604,15 +47304,275 @@
         ]
     },
     {
-        "id": "cyclizar",
-        "dexNum": 9054,
-        "name": "Cyclizar",
-        "type1": "dragon",
-        "type2": "normal",
+        "id": "ironjugulis",
+        "dexNum": 990,
+        "name": "Iron Jugulis",
+        "type1": "dark",
+        "type2": "flying",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "ironthorns",
+        "dexNum": 991,
+        "name": "Iron Thorns",
+        "type1": "rock",
+        "type2": "electric",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "ironbundle",
+        "dexNum": 992,
+        "name": "Iron Bundle",
+        "type1": "ice",
+        "type2": "water",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "ironvaliant",
+        "dexNum": 993,
+        "name": "Iron Valiant",
+        "type1": "fairy",
+        "type2": "fighting",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "tinglu",
+        "dexNum": 994,
+        "name": "Tinglu",
+        "type1": "dark",
+        "type2": "ground",
         "isForm": false,
         "baseSpecies": null,
         "baseForms": [],
         "shinyReleased": false,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "chienpao",
+        "dexNum": 995,
+        "name": "Chienpao",
+        "type1": "dark",
+        "type2": "ice",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": false,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "wochien",
+        "dexNum": 996,
+        "name": "Wochien",
+        "type1": "dark",
+        "type2": "grass",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": false,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "chiyu",
+        "dexNum": 997,
+        "name": "Chiyu",
+        "type1": "dark",
+        "type2": "fire",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": false,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "koraidon",
+        "dexNum": 998,
+        "name": "Koraidon",
+        "type1": "fighting",
+        "type2": "dragon",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": false,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "miraidon",
+        "dexNum": 999,
+        "name": "Miraidon",
+        "type1": "electric",
+        "type2": "dragon",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": false,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "tinkatink",
+        "dexNum": 1000,
+        "name": "Tinkatink",
+        "type1": "fairy",
+        "type2": "steel",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "tinkatuff",
+        "dexNum": 1001,
+        "name": "Tinkatuff",
+        "type1": "fairy",
+        "type2": "steel",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "tinkaton",
+        "dexNum": 1002,
+        "name": "Tinkaton",
+        "type1": "fairy",
+        "type2": "steel",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "charcadet",
+        "dexNum": 1003,
+        "name": "Charcadet",
+        "type1": "fire",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
             "sv"
@@ -45625,14 +47585,14 @@
     },
     {
         "id": "armarouge",
-        "dexNum": 9055,
+        "dexNum": 1004,
         "name": "Armarouge",
         "type1": "fire",
         "type2": "psychic",
         "isForm": false,
         "baseSpecies": null,
         "baseForms": [],
-        "shinyReleased": false,
+        "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
             "sv"
@@ -45645,14 +47605,14 @@
     },
     {
         "id": "ceruledge",
-        "dexNum": 9056,
+        "dexNum": 1005,
         "name": "Ceruledge",
         "type1": "fire",
         "type2": "ghost",
         "isForm": false,
         "baseSpecies": null,
         "baseForms": [],
-        "shinyReleased": false,
+        "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
             "sv"
@@ -45664,15 +47624,75 @@
         ]
     },
     {
-        "id": "grafaiai",
-        "dexNum": 9057,
-        "name": "Grafaiai",
+        "id": "toedscool",
+        "dexNum": 1006,
+        "name": "Toedscool",
+        "type1": "ground",
+        "type2": "grass",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "toedscruel",
+        "dexNum": 1007,
+        "name": "Toedscruel",
+        "type1": "ground",
+        "type2": "grass",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "kingambit",
+        "dexNum": 1008,
+        "name": "Kingambit",
+        "type1": "dark",
+        "type2": "steel",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "shinyReleased": true,
+        "shinyBase": null,
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [
+            "sv"
+        ]
+    },
+    {
+        "id": "clodsire",
+        "dexNum": 1009,
+        "name": "Clodsire",
         "type1": "poison",
-        "type2": "normal",
+        "type2": "ground",
         "isForm": false,
         "baseSpecies": null,
         "baseForms": [],
-        "shinyReleased": false,
+        "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
             "sv"
@@ -45684,15 +47704,15 @@
         ]
     },
     {
-        "id": "klawf",
-        "dexNum": 9058,
-        "name": "Klawf",
-        "type1": "rock",
-        "type2": null,
+        "id": "annihilape",
+        "dexNum": 1010,
+        "name": "Annihilape",
+        "type1": "fighting",
+        "type2": "ghost",
         "isForm": false,
         "baseSpecies": null,
         "baseForms": [],
-        "shinyReleased": false,
+        "shinyReleased": true,
         "shinyBase": null,
         "obtainableIn": [
             "sv"
