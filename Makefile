@@ -9,10 +9,16 @@ build:
 	php scripts/build-with-presets.php
 	make validate
 
-import-sources:
+
+pogo-upgrade:
 	docker-compose run --rm dumper-pogo make
+	php scripts/build-pogo.php
+
+showdown-upgrade:
 	docker-compose run --rm dumper-showdown make
-#	docker-compose run --rm dumper-veekun make
+	php scripts/build-showdown.php
+
+upgrade: pogo-upgrade showdown-upgrade
 
 validate:
 	php scripts/validate.php

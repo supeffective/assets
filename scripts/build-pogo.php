@@ -4,9 +4,8 @@ declare(strict_types=1);
 require_once __DIR__ . '/_bootstrap.php';
 
 //
-// Splits the big pokemon.json file into smaller files, and generates other kinds of lists, and other tasks.
-//
-// Do not edit manually the .min.json or .build.json files, use the build.php script instead.
+// - Script to import Pokemon GO data from dumper-pogo data exports
+// - Version: ALPHA (it may contain errors)
 //
 
 (static function () {

@@ -184,12 +184,12 @@ function sgg_get_merged_pkm_entries(bool $failOnError = true): array
     foreach ($sortedPokemonList as $pkmId) {
         // find duplicates in sorted list
         if ($failOnError && isset($sortedPokemonListMap[$pkmId])) {
-            throw new \RuntimeException('Duplicated pokemon in Pokemon list: ' . $pkmId);
+            throw new \RuntimeException('Duplicated pokemon in data/sources/pokemon.json for: ' . $pkmId);
         }
 
         // check if some pokemon in the sorted list is missing its entry file
         if ($failOnError && !isset($existingPkmEntriesMap[$pkmId])) {
-            throw new \RuntimeException('Missing pokemon entry: ' . $pkmId);
+            throw new \RuntimeException('Missing pokemon entry JSON file for: ' . $pkmId);
         }
         $sortedPokemonListMap[$pkmId] = $pkmId;
     }
@@ -204,14 +204,57 @@ function sgg_get_merged_pkm_entries(bool $failOnError = true): array
     }
 
     $fullEntries = [];
-    // Collect all entries and save them in a single file
+    // Collect all entries and merge them in a single array
     foreach ($sortedPokemonList as $pkmId) {
-        if ($failOnError && !isset($existingPkmEntriesMap[$pkmId])) {
-            throw new \RuntimeException('Missing pokemon entry: ' . $pkmId);
+        $entryFile = 'sources/pokemon/entries/' . $pkmId . '.json';
+        $entryFileFull = sgg_get_data_path($entryFile);
+        if ($failOnError && !file_exists($entryFileFull)) {
+            throw new \RuntimeException('Missing pokemon entry JSON file for: ' . $pkmId);
         }
-        $entryData = sgg_data_load('sources/pokemon/entries/' . $pkmId . '.json');
+        if (!file_exists($entryFileFull)) {
+            //echo 'Missing pokemon entry JSON file for: ' . $pkmId . PHP_EOL;
+            continue; // skip if failOnError = false and file does not exist
+        }
+        $entryData = sgg_data_load($entryFile);
         $fullEntries[] = $entryData;
     }
 
     return $fullEntries;
+}
+
+function sgg_get_merged_pkm_entries_by_id(bool $failOnError = true): array
+{
+    $dataSet = sgg_get_merged_pkm_entries($failOnError);
+    $dataSetById = [];
+    foreach ($dataSet as $data) {
+        if (isset($dataSetById[$data['id']])) {
+            throw new \RuntimeException("Duplicated entry for Pokemon ID: " . $data['id']);
+        }
+        $dataSetById[$data['id']] = $data;
+    }
+
+    return $dataSetById;
+}
+
+function sgg_array_merge_deep(array ...$arrays): array
+{
+    $result = [];
+    foreach ($arrays as $array) {
+        foreach ($array as $key => $value) {
+            // Renumber integer keys as array_merge_recursive() does. Note that PHP
+            // automatically converts array keys that are integer strings (e.g., '1')
+            // to integers.
+            if (is_integer($key)) {
+                $result[] = $value;
+            } elseif (array_key_exists($key, $result) && is_array($result[$key]) && is_array($value)) {
+                $result[$key] = sgg_array_merge_deep(
+                    $result[$key],
+                    $value,
+                );
+            } else {
+                $result[$key] = $value;
+            }
+        }
+    }
+    return $result;
 }
