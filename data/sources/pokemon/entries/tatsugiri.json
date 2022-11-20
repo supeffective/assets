@@ -1,7 +1,7 @@
 {
     "id": "tatsugiri",
-    "nid": "???",
-    "dexNum": 0,
+    "nid": "0952",
+    "dexNum": 952,
     "formId": null,
     "name": "???",
     "formName": null,
@@ -83,6 +83,10 @@
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": ["tatsugiri", "tatsugiri-droopy", "tatsugiri-sketchy"],
+    "forms": [
+        "tatsugiri",
+        "tatsugiri-droopy",
+        "tatsugiri-sketchy"
+    ],
     "evolutions": []
 }

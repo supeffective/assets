@@ -1,7 +1,7 @@
 {
     "id": "dudunsparce",
-    "nid": "???",
-    "dexNum": 0,
+    "nid": "0917",
+    "dexNum": 917,
     "formId": null,
     "name": "???",
     "formName": null,
@@ -83,6 +83,9 @@
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": ["dudunsparce", "dudunsparce-three-segment"],
+    "forms": [
+        "dudunsparce",
+        "dudunsparce-three-segment"
+    ],
     "evolutions": []
 }
