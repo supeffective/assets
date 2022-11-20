@@ -51,7 +51,7 @@ RUN apt-get update && \
 RUN git config --global user.email "noone@noone.local" && \
     git config --global user.name "No one"
 
-RUN npm install npm@8.5.0 -g
+RUN npm install npm@latest -g
 
 COPY ./scripts/docker/node-docker-entrypoint.sh /docker-entrypoint.sh
 ENTRYPOINT [ "/docker-entrypoint.sh" ]

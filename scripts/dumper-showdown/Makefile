@@ -1,11 +1,9 @@
 default: build
 
 build:
-	./build.sh
-
-upgrade:
+	rm -f package-lock.json
 	npm upgrade pokemon-showdown
-	make build
+	./build.sh
 
 .SILENT:
 .PHONY: build
