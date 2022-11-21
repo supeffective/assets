@@ -291,7 +291,12 @@ require_once __DIR__ . '/_bootstrap.php';
                 }
 
                 // exclude non-minimal tier
-                if ($pkm['isCosmeticForm']) {
+                $allowedCosmeticForms = array_merge(
+                    [$gamesetId => []],
+                    ['sv' => ['vivillon-fancy']]
+                );
+
+                if ($pkm['isCosmeticForm'] && !in_array($pkm['id'], $allowedCosmeticForms[$gamesetId], true)) {
                     continue;
                 }
                 $presetMinimal['boxes'][$currentBox]['pokemon'][] = $pkm['id'];
