@@ -153244,7 +153244,7 @@
         "isCosmeticForm": false,
         "isFemaleForm": false,
         "hasGenderDifferences": false,
-        "isBattleOnlyForm": false,
+        "isBattleOnlyForm": true,
         "isSwitchableForm": false,
         "isFusion": false,
         "fusedWith": null,
@@ -153261,9 +153261,7 @@
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
-        "storableIn": [
-            "sv"
-        ],
+        "storableIn": [],
         "shinyReleased": true,
         "shinyBase": null,
         "baseStats": {
