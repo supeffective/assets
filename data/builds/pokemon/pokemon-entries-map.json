@@ -155185,7 +155185,7 @@
             "homeSprite": "0952-droopy",
             "miniSprite": "0952-droopy"
         },
-        "baseSpecies": "Tatsugiri",
+        "baseSpecies": "tatsugiri",
         "baseForms": [],
         "forms": [],
         "evolutions": []
@@ -155211,8 +155211,8 @@
         "isMythical": false,
         "isUltraBeast": false,
         "ultraBeastCode": null,
-        "isDefault": true,
-        "isForm": false,
+        "isDefault": false,
+        "isForm": true,
         "isSpecialAbilityForm": false,
         "isCosmeticForm": false,
         "isFemaleForm": false,
@@ -155277,11 +155277,9 @@
             "homeSprite": "0952-sketchy",
             "miniSprite": "0952-sketchy"
         },
-        "baseSpecies": "Tatsugiri",
+        "baseSpecies": "tatsugiri",
         "baseForms": [],
-        "forms": [
-            "tatsugiri-sketchy"
-        ],
+        "forms": [],
         "evolutions": []
     },
     "cyclizar": {
