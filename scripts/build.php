@@ -46,7 +46,7 @@ require_once __DIR__ . '/_bootstrap.php';
         sgg_data_save(SGG_PKM_ENTRIES_BASE_FILENAME . '-minimal.json', $minimalDataSet, minify: false);
     };
 
-    $generateStorablePokemonList = static function () use ($dataSet): void {
+    $generateStorablePokemonList = static function () use ($dataSet): void{
         $storableByGame = [];
 
         foreach (SGG_SUPPORTED_GAMESETS as $game) {
@@ -62,7 +62,7 @@ require_once __DIR__ . '/_bootstrap.php';
         }
     };
 
-    $generateObtainablePokemonList = static function () use ($dataSet): void {
+    $generateObtainablePokemonList = static function () use ($dataSet): void{
         $availableByGame = [];
 
         foreach (SGG_SUPPORTED_GAMESETS as $game) {
@@ -81,7 +81,7 @@ require_once __DIR__ . '/_bootstrap.php';
         }
     };
 
-    $generateGmaxPokemonList = static function () use ($dataSet, $dataSetById): void {
+    $generateGmaxPokemonList = static function () use ($dataSet, $dataSetById): void{
         $newDataSet = [];
 
         foreach ($dataSet as $pkm) {
@@ -102,7 +102,7 @@ require_once __DIR__ . '/_bootstrap.php';
         sgg_data_save('builds/pokemon/gigantamaxable-pokemon.json', $newDataSet, minify: false);
     };
 
-    $generateAlphaPokemonList = static function () use ($dataSetById): void {
+    $generateAlphaPokemonList = static function () use ($dataSetById): void{
         $newDataSet = [];
         $hisuiPkm = sgg_get_dex_pokemon_ids('hisui');
 
@@ -116,13 +116,14 @@ require_once __DIR__ . '/_bootstrap.php';
         sgg_data_save('builds/pokemon/alpha-pokemon.json', $newDataSet, minify: false);
     };
 
-    $prettifyAllJsonFiles = static function (): void {
+    $prettifyAllJsonFiles = static function (): void{
         $files = sgg_json_files_in_dir_tree('/sources/', false);
 
         foreach ($files as $fileName) {
             if (
                 str_contains($fileName, 'min.json')
-                || str_contains($fileName, 'build.json')) {
+                || str_contains($fileName, 'build.json')
+            ) {
                 continue;
             }
 
@@ -130,12 +131,13 @@ require_once __DIR__ . '/_bootstrap.php';
         }
     };
 
-    $minifyAllJsonFiles = static function (): void {
+    $minifyAllJsonFiles = static function (): void{
         $files = sgg_json_files_in_dir_tree('/builds/', false);
 
         foreach ($files as $fileName) {
             if (
-                str_contains($fileName, 'min.json')) {
+                str_contains($fileName, 'min.json')
+            ) {
                 continue;
             }
             // $dataPath = rtrim(sgg_get_data_path(), '/');
@@ -144,7 +146,7 @@ require_once __DIR__ . '/_bootstrap.php';
         }
     };
 
-    $generateGameGamesList = static function (): void {
+    $generateGameGamesList = static function (): void{
         $gameSets = sgg_data_load('sources/games/game-sets.json');
         $gameList = [];
 
@@ -161,7 +163,7 @@ require_once __DIR__ . '/_bootstrap.php';
         sgg_data_save('builds/games.json', $gameList, minify: false);
     };
 
-    $mergeAllBoxPresets = static function (): void {
+    $mergeAllBoxPresets = static function (): void{
         $buildBoxPresetFiles = []; // sgg_json_files_in_dir_tree('builds/box-presets', false);
         $sourceBoxPresetFiles = sgg_json_files_in_dir_tree('sources/box-presets', false);
         $presetsByGameSet = [];
@@ -202,11 +204,11 @@ require_once __DIR__ . '/_bootstrap.php';
         sgg_data_save('builds/box-presets-full.json', $presetsByGameSet, minify: false); // prettified
     };
 
-    $generateNationalPokedex = static function (): void {
+    $generateNationalPokedex = static function (): void{
         $pokemonIds = sgg_get_sorted_pokemon_ids();
         $dex = [];
 
-        $dexNum = 0;
+        //$dexNum = 0;
         foreach ($pokemonIds as $pokemonId) {
             $fileName = 'sources/pokemon/entries/' . $pokemonId . '.json';
             $data = sgg_data_load($fileName);
@@ -214,10 +216,10 @@ require_once __DIR__ . '/_bootstrap.php';
                 throw new \RuntimeException('ID mismatch: ' . $pokemonId . ' vs ' . $data['id']);
             }
             if ($data['isDefault'] && !$data['isForm']) {
-                $dexNum++;
+                //$dexNum++;
                 $dex[] = [
                     'id' => $pokemonId,
-                    'dexNum' => $dexNum,
+                    'dexNum' => $data['dexNum'],
                     'forms' => $data['forms'],
                 ];
             }
@@ -225,7 +227,7 @@ require_once __DIR__ . '/_bootstrap.php';
         sgg_data_save('builds/pokedexes/national.json', $dex, minify: false); // prettified
     };
 
-    $generatePokemonAvailabilities = static function () use ($dataSet): void {
+    $generatePokemonAvailabilities = static function () use ($dataSet): void{
         $availability = [];
         $unobtainable = [];
         $unobtainableShiny = [];
@@ -249,7 +251,7 @@ require_once __DIR__ . '/_bootstrap.php';
         sgg_data_save('builds/pokemon/pokemon-unobtainable-shiny.json', $unobtainableShiny, minify: false);
     };
 
-    $generatePokemonGameDebuts = static function () use ($dataSet): void {
+    $generatePokemonGameDebuts = static function () use ($dataSet): void{
         $gameDebuts = [];
 
         foreach ($dataSet as $pkm) {
@@ -261,7 +263,7 @@ require_once __DIR__ . '/_bootstrap.php';
         }
     };
 
-    $generateEventOnlyPokemonList = static function () use ($dataSet): void {
+    $generateEventOnlyPokemonList = static function () use ($dataSet): void{
         $pkmIds = [];
 
         foreach ($dataSet as $pkm) {
