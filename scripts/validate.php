@@ -43,12 +43,7 @@ use Swaggest\JsonSchema\Schema;
         return $schemaErrors;
     };
 
-    $validateDexPreset = static function (array $dexPreset, array $storablePokemonList) use (
-        $pokemonById,
-        $pkmLimitPerBox,
-        $defaultPkmLimitPerBox,
-        $gameSetsThatCanHaveBattleOnlyForms
-    ): array {
+    $validateDexPreset = static function (array $dexPreset, array $storablePokemonList) use ($pokemonById, $pkmLimitPerBox, $defaultPkmLimitPerBox, $gameSetsThatCanHaveBattleOnlyForms): array {
         $presetId = $dexPreset['id'];
         $gameSetId = $dexPreset['gameSet'];
         $presetPath = "{$gameSetId}.{$dexPreset['id']}";
@@ -98,7 +93,7 @@ use Swaggest\JsonSchema\Schema;
             }
         }
 
-        if (!in_array($presetId, ['fully-sorted-minimal', 'sorted-species-minimal'])) {
+        if (!str_contains($presetId, 'minimal')) {
             // detect missing
             foreach ($storablePokemonList as $pokemon) {
                 foreach (SGG_BOXES_EXCLUDE_FORMS_PREFIX as $prefix) {
@@ -116,7 +111,7 @@ use Swaggest\JsonSchema\Schema;
     };
 
     $totalWarnings = 0;
-    $validateDexPresets = static function () use ($validateDexPreset, &$totalWarnings): void {
+    $validateDexPresets = static function () use ($validateDexPreset, &$totalWarnings): void{
         $presetsByGameSet = sgg_data_load('builds/box-presets-full.json');
         $errors = [];
         $warnings = [];
@@ -154,13 +149,13 @@ use Swaggest\JsonSchema\Schema;
         }
 
         if (count($warnings) > 0) {
-            echo(
+            echo (
                 "\n 🟡 WARNINGS FOUND: \n" . implode("\n", $warnings)
             );
         }
 
         if (count($errors) > 0) {
-            echo(
+            echo (
                 "\n ❌ VALIDATION FAILED: \n" . implode("\n", $errors)
             );
             exit(1);
@@ -171,7 +166,7 @@ use Swaggest\JsonSchema\Schema;
     $schemaErrors = $validatePokemonEntrySchemas();
 
     if (count($schemaErrors) > 0) {
-        echo(
+        echo (
             "\n ❌ JSON SCHEMA ERRORS FOUND: \n" . implode("\n", $schemaErrors)
         );
         exit(1);

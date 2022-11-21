@@ -216,8 +216,9 @@ require_once __DIR__ . '/_bootstrap.php';
 
     $generatePokedexBoxesPreset = static function (string $pokedexId, string $gamesetId) use ($dataSetById): void{
         $dexData = sgg_data_load('sources/pokedexes/' . $pokedexId . '.json');
+
         $preset = [
-            'id' => 'fully-sorted',
+            'id' => 'fully-sorted-' . $pokedexId,
             'name' => 'Regional: Sorted by Forms',
             'version' => 1,
             'gameSet' => $gamesetId,
@@ -225,7 +226,17 @@ require_once __DIR__ . '/_bootstrap.php';
             "description" => "(Recommended) Pokémon Boxes are sorted by Species and Forms together, following regional Pokédex order.",
             "boxes" => [],
         ];
+        $presetMinimal = [
+            'id' => 'minimal-' . $pokedexId,
+            'name' => 'Regional: Sorted by Forms (Minimal)',
+            'version' => 1,
+            'gameSet' => $gamesetId,
+            //'shortDescription' => 'Sorted by Species and their Forms, in their HOME order.',
+            "description" => "Pokémon Boxes are sorted by Species and Forms together, following regional Pokédex order. Cosmetic forms are excluded.",
+            "boxes" => [],
+        ];
         $maxPkmPerBox = 30;
+
         $currentBox = 0;
         foreach ($dexData as $dexPkm) {
             foreach ($dexPkm['forms'] as $pkmId) {
@@ -252,7 +263,41 @@ require_once __DIR__ . '/_bootstrap.php';
                 $preset['boxes'][$currentBox]['pokemon'][] = $pkm['id'];
             }
         }
-        sgg_data_save('builds/box-presets/' . $gamesetId . '/100-fully-sorted.json', $preset, minify: false);
+        sgg_data_save('builds/box-presets/' . $gamesetId . '/100-' . 'fully-sorted-' . $pokedexId . '.json', $preset, minify: false);
+
+        // minimal
+        $currentBox = 0;
+        foreach ($dexData as $dexPkm) {
+            foreach ($dexPkm['forms'] as $pkmId) {
+                foreach (SGG_BOXES_EXCLUDE_FORMS_PREFIX as $prefix) {
+                    if (str_starts_with($pkmId, $prefix)) {
+                        continue 2;
+                    }
+                }
+                $pkm = $dataSetById[$pkmId];
+                if (!in_array($gamesetId, $pkm['storableIn'], true)) {
+                    continue;
+                }
+                if (
+                    isset($presetMinimal['boxes'][$currentBox])
+                    && (count($presetMinimal['boxes'][$currentBox]['pokemon']) >= $maxPkmPerBox)
+                ) {
+                    $currentBox++;
+                }
+                if (!isset($presetMinimal['boxes'][$currentBox])) {
+                    $presetMinimal['boxes'][$currentBox] = [
+                        'pokemon' => [],
+                    ];
+                }
+
+                // exclude non-minimal tier
+                if ($pkm['isCosmeticForm']) {
+                    continue;
+                }
+                $presetMinimal['boxes'][$currentBox]['pokemon'][] = $pkm['id'];
+            }
+        }
+        sgg_data_save('builds/box-presets/' . $gamesetId . '/101-' . 'minimal-' . $pokedexId . '.json', $presetMinimal, minify: false);
     };
 
     // National pokedex order:
