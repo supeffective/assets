@@ -38,15 +38,13 @@
     "canBeAlpha": true,
     "debutIn": "la",
     "obtainableIn": [
-        "la",
-        "sv"
+        "la"
     ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
     "storableIn": [
         "home",
-        "la",
-        "sv"
+        "la"
     ],
     "shinyReleased": true,
     "shinyBase": null,

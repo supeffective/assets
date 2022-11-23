@@ -39,7 +39,6 @@
     "debutIn": "swsh",
     "obtainableIn": [
         "go",
-        "sv",
         "swsh"
     ],
     "versionExclusiveIn": [],
@@ -47,7 +46,6 @@
     "storableIn": [
         "go",
         "home",
-        "sv",
         "swsh"
     ],
     "shinyReleased": true,

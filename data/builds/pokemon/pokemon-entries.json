@@ -5848,7 +5848,6 @@
             "go",
             "lgpe",
             "sm",
-            "sv",
             "swsh",
             "usum"
         ],
@@ -5859,7 +5858,6 @@
             "home",
             "lgpe",
             "sm",
-            "sv",
             "swsh",
             "usum"
         ],
@@ -9702,7 +9700,6 @@
             "go",
             "lgpe",
             "sm",
-            "sv",
             "swsh",
             "usum"
         ],
@@ -9713,7 +9710,6 @@
             "home",
             "lgpe",
             "sm",
-            "sv",
             "swsh",
             "usum"
         ],
@@ -9928,7 +9924,6 @@
             "go",
             "lgpe",
             "sm",
-            "sv",
             "swsh",
             "usum"
         ],
@@ -9939,7 +9934,6 @@
             "home",
             "lgpe",
             "sm",
-            "sv",
             "swsh",
             "usum"
         ],
@@ -10156,7 +10150,6 @@
             "go",
             "lgpe",
             "sm",
-            "sv",
             "swsh",
             "usum"
         ],
@@ -10167,7 +10160,6 @@
             "home",
             "lgpe",
             "sm",
-            "sv",
             "swsh",
             "usum"
         ],
@@ -10257,7 +10249,6 @@
         "debutIn": "swsh",
         "obtainableIn": [
             "go",
-            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -10265,7 +10256,6 @@
         "storableIn": [
             "go",
             "home",
-            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -10571,7 +10561,6 @@
             "go",
             "lgpe",
             "sm",
-            "sv",
             "swsh",
             "usum"
         ],
@@ -10582,7 +10571,6 @@
             "home",
             "lgpe",
             "sm",
-            "sv",
             "swsh",
             "usum"
         ],
@@ -11283,16 +11271,14 @@
         "debutIn": "la",
         "obtainableIn": [
             "go",
-            "la",
-            "sv"
+            "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "go",
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -11503,16 +11489,14 @@
         "debutIn": "la",
         "obtainableIn": [
             "go",
-            "la",
-            "sv"
+            "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "go",
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -14918,7 +14902,6 @@
         "debutIn": "swsh",
         "obtainableIn": [
             "go",
-            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -14926,7 +14909,6 @@
         "storableIn": [
             "go",
             "home",
-            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -15233,7 +15215,6 @@
         "debutIn": "swsh",
         "obtainableIn": [
             "go",
-            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -15241,7 +15222,6 @@
         "storableIn": [
             "go",
             "home",
-            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -16603,7 +16583,6 @@
             "go",
             "lgpe",
             "sm",
-            "sv",
             "usum"
         ],
         "versionExclusiveIn": [],
@@ -16613,7 +16592,6 @@
             "home",
             "lgpe",
             "sm",
-            "sv",
             "usum"
         ],
         "shinyReleased": true,
@@ -16825,7 +16803,6 @@
             "go",
             "lgpe",
             "sm",
-            "sv",
             "usum"
         ],
         "versionExclusiveIn": [],
@@ -16835,7 +16812,6 @@
             "home",
             "lgpe",
             "sm",
-            "sv",
             "usum"
         ],
         "shinyReleased": true,
@@ -18652,16 +18628,14 @@
         "debutIn": "la",
         "obtainableIn": [
             "go",
-            "la",
-            "sv"
+            "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "go",
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -18870,16 +18844,14 @@
         "debutIn": "la",
         "obtainableIn": [
             "go",
-            "la",
-            "sv"
+            "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "go",
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -33523,7 +33495,8 @@
             "go",
             "gs",
             "hgss",
-            "swsh"
+            "swsh",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -33544,6 +33517,7 @@
             "rs",
             "sm",
             "swsh",
+            "sv",
             "usum",
             "xy"
         ],
@@ -33639,7 +33613,8 @@
             "hgss",
             "go",
             "swsh",
-            "bdsp"
+            "bdsp",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -33656,7 +33631,8 @@
             "usum",
             "swsh",
             "home",
-            "bdsp"
+            "bdsp",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -33840,7 +33816,8 @@
             "go",
             "gs",
             "hgss",
-            "swsh"
+            "swsh",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -33860,6 +33837,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -33955,7 +33933,8 @@
             "hgss",
             "go",
             "swsh",
-            "bdsp"
+            "bdsp",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -33970,6 +33949,7 @@
             "go",
             "sm",
             "usum",
+            "sv",
             "swsh",
             "home",
             "bdsp"
@@ -34647,7 +34627,6 @@
         "debutIn": "swsh",
         "obtainableIn": [
             "go",
-            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -34655,7 +34634,6 @@
         "storableIn": [
             "go",
             "home",
-            "sv",
             "swsh"
         ],
         "shinyReleased": true,
@@ -39768,16 +39746,14 @@
         "debutIn": "la",
         "obtainableIn": [
             "go",
-            "la",
-            "sv"
+            "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "go",
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -40867,16 +40843,14 @@
         "debutIn": "la",
         "obtainableIn": [
             "go",
-            "la",
-            "sv"
+            "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "go",
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -40964,16 +40938,14 @@
         "debutIn": "la",
         "obtainableIn": [
             "go",
-            "la",
-            "sv"
+            "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "go",
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -92039,15 +92011,13 @@
         "canBeAlpha": true,
         "debutIn": "la",
         "obtainableIn": [
-            "la",
-            "sv"
+            "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -92348,15 +92318,13 @@
         "canBeAlpha": true,
         "debutIn": "la",
         "obtainableIn": [
-            "la",
-            "sv"
+            "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -95119,15 +95087,13 @@
         "canBeAlpha": true,
         "debutIn": "la",
         "obtainableIn": [
-            "la",
-            "sv"
+            "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -95320,15 +95286,13 @@
         "canBeAlpha": true,
         "debutIn": "la",
         "obtainableIn": [
-            "la",
-            "sv"
+            "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -102358,16 +102322,14 @@
         "debutIn": "la",
         "obtainableIn": [
             "go",
-            "la",
-            "sv"
+            "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "go",
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -109381,7 +109343,7 @@
             "usum",
             "xy"
         ],
-        "shinyReleased": false,
+        "shinyReleased": true,
         "shinyBase": null,
         "baseStats": {
             "hp": 80,
@@ -115964,15 +115926,13 @@
         "canBeAlpha": true,
         "debutIn": "la",
         "obtainableIn": [
-            "la",
-            "sv"
+            "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -116164,15 +116124,13 @@
         "canBeAlpha": true,
         "debutIn": "la",
         "obtainableIn": [
-            "la",
-            "sv"
+            "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -117588,15 +117546,13 @@
         "canBeAlpha": true,
         "debutIn": "la",
         "obtainableIn": [
-            "la",
-            "sv"
+            "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -155210,7 +155166,7 @@
         "isDefault": false,
         "isForm": true,
         "isSpecialAbilityForm": false,
-        "isCosmeticForm": false,
+        "isCosmeticForm": true,
         "isFemaleForm": false,
         "hasGenderDifferences": false,
         "isBattleOnlyForm": false,
@@ -156057,7 +156013,7 @@
         "isDefault": false,
         "isForm": true,
         "isSpecialAbilityForm": false,
-        "isCosmeticForm": false,
+        "isCosmeticForm": true,
         "isFemaleForm": false,
         "hasGenderDifferences": false,
         "isBattleOnlyForm": false,
@@ -156149,7 +156105,7 @@
         "isDefault": false,
         "isForm": true,
         "isSpecialAbilityForm": false,
-        "isCosmeticForm": false,
+        "isCosmeticForm": true,
         "isFemaleForm": false,
         "hasGenderDifferences": false,
         "isBattleOnlyForm": false,
@@ -156241,7 +156197,7 @@
         "isDefault": false,
         "isForm": true,
         "isSpecialAbilityForm": false,
-        "isCosmeticForm": false,
+        "isCosmeticForm": true,
         "isFemaleForm": false,
         "hasGenderDifferences": false,
         "isBattleOnlyForm": false,

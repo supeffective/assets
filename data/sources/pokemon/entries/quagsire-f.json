@@ -41,7 +41,8 @@
         "hgss",
         "go",
         "swsh",
-        "bdsp"
+        "bdsp",
+        "sv"
     ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
@@ -56,6 +57,7 @@
         "go",
         "sm",
         "usum",
+        "sv",
         "swsh",
         "home",
         "bdsp"

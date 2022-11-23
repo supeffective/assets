@@ -43,7 +43,8 @@
         "go",
         "gs",
         "hgss",
-        "swsh"
+        "swsh",
+        "sv"
     ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
@@ -64,6 +65,7 @@
         "rs",
         "sm",
         "swsh",
+        "sv",
         "usum",
         "xy"
     ],

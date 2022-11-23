@@ -1270,7 +1270,6 @@
             "go",
             "lgpe",
             "sm",
-            "sv",
             "swsh",
             "usum"
         ],
@@ -1279,7 +1278,6 @@
             "home",
             "lgpe",
             "sm",
-            "sv",
             "swsh",
             "usum"
         ],
@@ -2328,7 +2326,6 @@
             "go",
             "lgpe",
             "sm",
-            "sv",
             "swsh",
             "usum"
         ],
@@ -2337,7 +2334,6 @@
             "home",
             "lgpe",
             "sm",
-            "sv",
             "swsh",
             "usum"
         ],
@@ -2385,7 +2381,6 @@
             "go",
             "lgpe",
             "sm",
-            "sv",
             "swsh",
             "usum"
         ],
@@ -2394,7 +2389,6 @@
             "home",
             "lgpe",
             "sm",
-            "sv",
             "swsh",
             "usum"
         ],
@@ -2442,7 +2436,6 @@
             "go",
             "lgpe",
             "sm",
-            "sv",
             "swsh",
             "usum"
         ],
@@ -2451,7 +2444,6 @@
             "home",
             "lgpe",
             "sm",
-            "sv",
             "swsh",
             "usum"
         ],
@@ -2460,13 +2452,11 @@
     "meowth-galar": {
         "obtainableIn": [
             "go",
-            "sv",
             "swsh"
         ],
         "storableIn": [
             "go",
             "home",
-            "sv",
             "swsh"
         ],
         "shinyReleased": true
@@ -2520,7 +2510,6 @@
             "go",
             "lgpe",
             "sm",
-            "sv",
             "swsh",
             "usum"
         ],
@@ -2529,7 +2518,6 @@
             "home",
             "lgpe",
             "sm",
-            "sv",
             "swsh",
             "usum"
         ],
@@ -2723,14 +2711,12 @@
     "growlithe-hisui": {
         "obtainableIn": [
             "go",
-            "la",
-            "sv"
+            "la"
         ],
         "storableIn": [
             "go",
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true
     },
@@ -2774,14 +2760,12 @@
     "arcanine-hisui": {
         "obtainableIn": [
             "go",
-            "la",
-            "sv"
+            "la"
         ],
         "storableIn": [
             "go",
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true
     },
@@ -3645,13 +3629,11 @@
     "slowpoke-galar": {
         "obtainableIn": [
             "go",
-            "sv",
             "swsh"
         ],
         "storableIn": [
             "go",
             "home",
-            "sv",
             "swsh"
         ],
         "shinyReleased": true
@@ -3705,13 +3687,11 @@
     "slowbro-galar": {
         "obtainableIn": [
             "go",
-            "sv",
             "swsh"
         ],
         "storableIn": [
             "go",
             "home",
-            "sv",
             "swsh"
         ],
         "shinyReleased": true
@@ -4059,7 +4039,6 @@
             "go",
             "lgpe",
             "sm",
-            "sv",
             "usum"
         ],
         "storableIn": [
@@ -4067,7 +4046,6 @@
             "home",
             "lgpe",
             "sm",
-            "sv",
             "usum"
         ],
         "shinyReleased": true
@@ -4112,7 +4090,6 @@
             "go",
             "lgpe",
             "sm",
-            "sv",
             "usum"
         ],
         "storableIn": [
@@ -4120,7 +4097,6 @@
             "home",
             "lgpe",
             "sm",
-            "sv",
             "usum"
         ],
         "shinyReleased": true
@@ -4578,14 +4554,12 @@
     "voltorb-hisui": {
         "obtainableIn": [
             "go",
-            "la",
-            "sv"
+            "la"
         ],
         "storableIn": [
             "go",
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true
     },
@@ -4627,14 +4601,12 @@
     "electrode-hisui": {
         "obtainableIn": [
             "go",
-            "la",
-            "sv"
+            "la"
         ],
         "storableIn": [
             "go",
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true
     },
@@ -8330,7 +8302,8 @@
             "go",
             "gs",
             "hgss",
-            "swsh"
+            "swsh",
+            "sv"
         ],
         "storableIn": [
             "b2w2",
@@ -8349,6 +8322,7 @@
             "rs",
             "sm",
             "swsh",
+            "sv",
             "usum",
             "xy"
         ],
@@ -8359,7 +8333,8 @@
             "hgss",
             "go",
             "swsh",
-            "bdsp"
+            "bdsp",
+            "sv"
         ],
         "storableIn": [
             "dp",
@@ -8374,7 +8349,8 @@
             "usum",
             "swsh",
             "home",
-            "bdsp"
+            "bdsp",
+            "sv"
         ],
         "shinyReleased": true
     },
@@ -8394,7 +8370,8 @@
             "go",
             "gs",
             "hgss",
-            "swsh"
+            "swsh",
+            "sv"
         ],
         "storableIn": [
             "b2w2",
@@ -8412,6 +8389,7 @@
             "pt",
             "rs",
             "sm",
+            "sv",
             "swsh",
             "usum",
             "xy"
@@ -8423,7 +8401,8 @@
             "hgss",
             "go",
             "swsh",
-            "bdsp"
+            "bdsp",
+            "sv"
         ],
         "storableIn": [
             "dp",
@@ -8436,6 +8415,7 @@
             "go",
             "sm",
             "usum",
+            "sv",
             "swsh",
             "home",
             "bdsp"
@@ -8607,13 +8587,11 @@
     "slowking-galar": {
         "obtainableIn": [
             "go",
-            "sv",
             "swsh"
         ],
         "storableIn": [
             "go",
             "home",
-            "sv",
             "swsh"
         ],
         "shinyReleased": true
@@ -9934,14 +9912,12 @@
     "qwilfish-hisui": {
         "obtainableIn": [
             "go",
-            "la",
-            "sv"
+            "la"
         ],
         "storableIn": [
             "go",
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true
     },
@@ -10184,28 +10160,24 @@
     "sneasel-hisui": {
         "obtainableIn": [
             "go",
-            "la",
-            "sv"
+            "la"
         ],
         "storableIn": [
             "go",
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true
     },
     "sneasel-hisui-f": {
         "obtainableIn": [
             "go",
-            "la",
-            "sv"
+            "la"
         ],
         "storableIn": [
             "go",
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true
     },
@@ -21820,13 +21792,11 @@
     },
     "lilligant-hisui": {
         "obtainableIn": [
-            "la",
-            "sv"
+            "la"
         ],
         "storableIn": [
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true
     },
@@ -21876,13 +21846,11 @@
     },
     "basculin-white-striped": {
         "obtainableIn": [
-            "la",
-            "sv"
+            "la"
         ],
         "storableIn": [
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true
     },
@@ -22353,13 +22321,11 @@
     },
     "zorua-hisui": {
         "obtainableIn": [
-            "la",
-            "sv"
+            "la"
         ],
         "storableIn": [
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true
     },
@@ -22385,13 +22351,11 @@
     },
     "zoroark-hisui": {
         "obtainableIn": [
-            "la",
-            "sv"
+            "la"
         ],
         "storableIn": [
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true
     },
@@ -23738,14 +23702,12 @@
     "braviary-hisui": {
         "obtainableIn": [
             "go",
-            "la",
-            "sv"
+            "la"
         ],
         "storableIn": [
             "go",
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true
     },
@@ -24862,7 +24824,7 @@
             "usum",
             "xy"
         ],
-        "shinyReleased": false
+        "shinyReleased": true
     },
     "vivillon-pokeball": {
         "obtainableIn": [],
@@ -25927,13 +25889,11 @@
     },
     "sliggoo-hisui": {
         "obtainableIn": [
-            "la",
-            "sv"
+            "la"
         ],
         "storableIn": [
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true
     },
@@ -25958,13 +25918,11 @@
     },
     "goodra-hisui": {
         "obtainableIn": [
-            "la",
-            "sv"
+            "la"
         ],
         "storableIn": [
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true
     },
@@ -26199,13 +26157,11 @@
     },
     "avalugg-hisui": {
         "obtainableIn": [
-            "la",
-            "sv"
+            "la"
         ],
         "storableIn": [
             "home",
-            "la",
-            "sv"
+            "la"
         ],
         "shinyReleased": true
     },

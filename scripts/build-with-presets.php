@@ -215,6 +215,7 @@ require_once __DIR__ . '/_bootstrap.php';
     };
 
     $generatePokedexBoxesPreset = static function (string $pokedexId, string $gamesetId) use ($dataSetById): void{
+        $transferOnlyPkm = sgg_data_load('sources/pokemon-transferonly.json')[$gamesetId] ?? [];
         $dexData = sgg_data_load('sources/pokedexes/' . $pokedexId . '.json');
 
         $preset = [
@@ -223,7 +224,7 @@ require_once __DIR__ . '/_bootstrap.php';
             'version' => 1,
             'gameSet' => $gamesetId,
             //'shortDescription' => 'Sorted by Species and their Forms, in their HOME order.',
-            "description" => "(Recommended) Pokémon Boxes are sorted by Species and Forms together, following regional Pokédex order.",
+            "description" => "(Recommended) Pokémon Boxes are sorted by Species and Forms together, following regional Pokédex order. This also includes Pokémon that are only available via HOME transfer.",
             "boxes" => [],
         ];
         $presetMinimal = [
@@ -232,7 +233,7 @@ require_once __DIR__ . '/_bootstrap.php';
             'version' => 1,
             'gameSet' => $gamesetId,
             //'shortDescription' => 'Sorted by Species and their Forms, in their HOME order.',
-            "description" => "Pokémon Boxes are sorted by Species and Forms together, following regional Pokédex order. Cosmetic forms are excluded.",
+            "description" => "Pokémon Boxes are sorted by Species and Forms together, following regional Pokédex order. Cosmetic forms and HOME transfer-only Pokémon are excluded.",
             "boxes" => [],
         ];
         $maxPkmPerBox = 30;
@@ -297,6 +298,9 @@ require_once __DIR__ . '/_bootstrap.php';
                 );
 
                 if ($pkm['isCosmeticForm'] && !in_array($pkm['id'], $allowedCosmeticForms[$gamesetId], true)) {
+                    continue;
+                }
+                if (in_array($pkm['id'], $transferOnlyPkm, true)) {
                     continue;
                 }
                 $presetMinimal['boxes'][$currentBox]['pokemon'][] = $pkm['id'];
