@@ -3522,6 +3522,7 @@
         "shinyBase": null,
         "obtainableIn": [
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -3529,6 +3530,7 @@
         "storableIn": [
             "go",
             "home",
+            "sv",
             "swsh"
         ]
     },
@@ -43585,6 +43587,7 @@
         "shinyBase": null,
         "obtainableIn": [
             "go",
+            "sv",
             "swsh"
         ],
         "versionExclusiveIn": [],
@@ -43592,6 +43595,7 @@
         "storableIn": [
             "go",
             "home",
+            "sv",
             "swsh"
         ]
     },

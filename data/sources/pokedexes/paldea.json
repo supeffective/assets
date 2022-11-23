@@ -1028,8 +1028,7 @@
         "dexNum": 141,
         "forms": [
             "meowth",
-            "meowth-alola",
-            "meowth-galar"
+            "meowth-alola"
         ]
     },
     {
@@ -1037,7 +1036,9 @@
         "dexNum": 142,
         "forms": [
             "persian",
-            "persian-alola"
+            "persian-alola",
+            "meowth-galar",
+            "perrserker"
         ]
     },
     {

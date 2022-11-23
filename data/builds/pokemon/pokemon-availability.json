@@ -2452,11 +2452,13 @@
     "meowth-galar": {
         "obtainableIn": [
             "go",
+            "sv",
             "swsh"
         ],
         "storableIn": [
             "go",
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true
@@ -28917,11 +28919,13 @@
     "perrserker": {
         "obtainableIn": [
             "go",
+            "sv",
             "swsh"
         ],
         "storableIn": [
             "go",
             "home",
+            "sv",
             "swsh"
         ],
         "shinyReleased": true

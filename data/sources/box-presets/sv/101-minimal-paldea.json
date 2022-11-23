@@ -180,6 +180,8 @@
                 "swalot",
                 "meowth",
                 "persian",
+                "meowth-galar",
+                "perrserker",
                 "drifloon",
                 "drifblim",
                 "flabebe",
@@ -204,13 +206,13 @@
                 "lucario",
                 "charcadet",
                 "armarouge",
-                "ceruledge",
-                "barboach",
-                "whiscash"
+                "ceruledge"
             ]
         },
         {
             "pokemon": [
+                "barboach",
+                "whiscash",
                 "tadbulb",
                 "bellibolt",
                 "goomy",
@@ -238,13 +240,13 @@
                 "farigiraf",
                 "grimer",
                 "muk",
-                "maschiff",
-                "mabosstiff",
-                "toxel"
+                "maschiff"
             ]
         },
         {
             "pokemon": [
+                "mabosstiff",
+                "toxel",
                 "toxtricity",
                 "toxtricity-low-key",
                 "dedenne",
@@ -272,13 +274,13 @@
                 "gogoat",
                 "tauros-paldea",
                 "tauros-paldea-fire",
-                "tauros-paldea-water",
-                "litleo",
-                "pyroar"
+                "tauros-paldea-water"
             ]
         },
         {
             "pokemon": [
+                "litleo",
+                "pyroar",
                 "stunky",
                 "skuntank",
                 "zorua",
@@ -306,13 +308,13 @@
                 "klawf",
                 "capsakid",
                 "scovillain",
-                "cacnea",
-                "cacturne",
-                "rellor"
+                "cacnea"
             ]
         },
         {
             "pokemon": [
+                "cacturne",
+                "rellor",
                 "rabsca",
                 "venonat",
                 "venomoth",
@@ -340,13 +342,13 @@
                 "tinkatink",
                 "tinkatuff",
                 "tinkaton",
-                "hatenna",
-                "hattrem",
-                "hatterene"
+                "hatenna"
             ]
         },
         {
             "pokemon": [
+                "hattrem",
+                "hatterene",
                 "impidimp",
                 "morgrem",
                 "grimmsnarl",
@@ -374,13 +376,13 @@
                 "glimmora",
                 "rotom",
                 "rotom-heat",
-                "rotom-wash",
-                "rotom-frost",
-                "rotom-fan"
+                "rotom-wash"
             ]
         },
         {
             "pokemon": [
+                "rotom-frost",
+                "rotom-fan",
                 "rotom-mow",
                 "greavard",
                 "houndstone",
@@ -408,13 +410,13 @@
                 "lumineon",
                 "bruxish",
                 "alomomola",
-                "skrelp",
-                "dragalge",
-                "clauncher"
+                "skrelp"
             ]
         },
         {
             "pokemon": [
+                "dragalge",
+                "clauncher",
                 "clawitzer",
                 "tynamo",
                 "eelektrik",
@@ -442,13 +444,13 @@
                 "avalugg",
                 "rufflet",
                 "braviary",
-                "pawniard",
-                "bisharp",
-                "kingambit"
+                "pawniard"
             ]
         },
         {
             "pokemon": [
+                "bisharp",
+                "kingambit",
                 "deino",
                 "zweilous",
                 "hydreigon",
@@ -476,13 +478,13 @@
                 "wochien",
                 "chienpao",
                 "tinglu",
-                "chiyu",
-                "roaringmoon",
-                "ironvaliant"
+                "chiyu"
             ]
         },
         {
             "pokemon": [
+                "roaringmoon",
+                "ironvaliant",
                 "koraidon",
                 "miraidon"
             ]
