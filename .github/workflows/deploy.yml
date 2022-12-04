@@ -1,0 +1,28 @@
+name: "deploy"
+on:
+  push:
+    branches:
+      - "main"
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    secrets:
+      VERCEL_DEPLOY_URL: ${{ secrets.VERCEL_DEPLOY_URL }}
+
+    steps:
+      - name: Detect changed files needed by the website
+        id: changed-assets
+        uses: tj-actions/changed-files@v34
+        with:
+          since_last_remote_commit: false
+          files: |
+            data/**
+            assets/**
+
+      - name: Call site deployment Webhook only when there is data or asset changes
+        if: steps.changed-assets.outputs.any_changed == 'true'
+        run: |
+          echo " >> One or more files have changed. Triggering a deployment on supereffective.gg"
+          curl -s -X POST "$VERCEL_DEPLOY_URL" > /dev/null
+          echo " >> Deployment triggered. Check the status on https://vercel.com/dashboard"
