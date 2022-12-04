@@ -11,6 +11,9 @@ jobs:
       VERCEL_DEPLOY_URL: ${{ secrets.VERCEL_DEPLOY_URL }}
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
       - name: Detect changed files needed by the website
         id: changed-assets
         uses: tj-actions/changed-files@v34
