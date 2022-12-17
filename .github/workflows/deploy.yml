@@ -14,19 +14,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Detect changed files needed by the website
-        id: changed-assets
-        uses: tj-actions/changed-files@v34
-        with:
-          since_last_remote_commit: false
-          files: |
-            data/**
-            assets/**
-
       - name: Call site deployment Webhook only when there is data or asset changes
-        if: steps.changed-assets.outputs.any_changed == 'true'
         run: |
-          echo " >> One or more files have changed. Triggering a deployment on supereffective.gg"
-          curl -s -X POST "$VERCEL_DEPLOY_URL" > /dev/null
-          echo " >> Deployment triggered. Check the status on https://vercel.com/dashboard"
-          exit 0
+          if ! (git diff --exit-code main:data main~1:data > /dev/null) \
+             || (git diff --exit-code main:assets main~1:assets > /dev/null) ; then
+            echo " >> One or more files have changed. Triggering a deployment on supereffective.gg"
+            curl -s -X POST "${VERCEL_DEPLOY_URL}" > /dev/null
+            echo " >> Deployment triggered. Check the status on https://vercel.com/dashboard"
+            exit 0
+          fi
