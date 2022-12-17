@@ -13,11 +13,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0 # needed to be able to reference prev commits
 
       - name: Call site deployment Webhook only when there is data or asset changes
         run: |
-          if ! (git diff --exit-code main:data main~1:data > /dev/null) \
-             || (git diff --exit-code main:assets main~1:assets > /dev/null) ; then
+          if ! (git diff --exit-code HEAD:data HEAD~1:data > /dev/null) \
+             || (git diff --exit-code HEAD:assets HEAD~1:assets > /dev/null) ; then
             echo " >> One or more files have changed. Triggering a deployment on supereffective.gg"
             curl -s -X POST "${VERCEL_DEPLOY_URL}" > /dev/null
             echo " >> Deployment triggered. Check the status on https://vercel.com/dashboard"
