@@ -29,3 +29,4 @@ jobs:
           echo " >> One or more files have changed. Triggering a deployment on supereffective.gg"
           curl -s -X POST "$VERCEL_DEPLOY_URL" > /dev/null
           echo " >> Deployment triggered. Check the status on https://vercel.com/dashboard"
+          exit 0
