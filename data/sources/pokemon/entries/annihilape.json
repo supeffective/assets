@@ -1,7 +1,7 @@
 {
     "id": "annihilape",
-    "nid": "1010",
-    "dexNum": 1010,
+    "nid": "0979",
+    "dexNum": 979,
     "formId": null,
     "name": "Annihilape",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Annihilape",
         "serebii": "annihilape",
         "bulbapedia": "Annihilape",
-        "homeSprite": "1010",
-        "miniSprite": "1010"
+        "homeSprite": "0979",
+        "miniSprite": "0979"
     },
     "baseSpecies": null,
     "baseForms": [],

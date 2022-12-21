@@ -1,7 +1,7 @@
 {
     "id": "palafin-hero",
-    "nid": "0934-hero",
-    "dexNum": 934,
+    "nid": "0964-hero",
+    "dexNum": 964,
     "formId": "hero",
     "name": "Palafin Hero Form",
     "formName": "Hero Form",
@@ -80,8 +80,8 @@
         "showdownDef": "Palafin-Hero",
         "serebii": "Palafin",
         "bulbapedia": "Palafin_Hero",
-        "homeSprite": "0934-hero",
-        "miniSprite": "0934-hero"
+        "homeSprite": "0964-hero",
+        "miniSprite": "0964-hero"
     },
     "baseSpecies": "Palafin",
     "baseForms": [],

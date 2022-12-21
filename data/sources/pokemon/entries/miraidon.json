@@ -1,7 +1,7 @@
 {
     "id": "miraidon",
-    "nid": "0999",
-    "dexNum": 999,
+    "nid": "1008",
+    "dexNum": 1008,
     "formId": null,
     "name": "Miraidon",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Miraidon",
         "serebii": "miraidon",
         "bulbapedia": "Miraidon",
-        "homeSprite": "0999",
-        "miniSprite": "0999"
+        "homeSprite": "1008",
+        "miniSprite": "1008"
     },
     "baseSpecies": null,
     "baseForms": [],

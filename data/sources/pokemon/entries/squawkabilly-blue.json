@@ -1,7 +1,7 @@
 {
     "id": "squawkabilly-blue",
-    "nid": "0960-blue",
-    "dexNum": 960,
+    "nid": "0931-blue",
+    "dexNum": 931,
     "formId": "blue",
     "name": "Squawkabilly Blue-feathered",
     "formName": "Blue-feathered",
@@ -82,8 +82,8 @@
         "showdownDef": "Squawkabilly-Blue",
         "serebii": "Squawkabilly",
         "bulbapedia": "Squawkabilly_Blue",
-        "homeSprite": "0960-blue",
-        "miniSprite": "0960-blue"
+        "homeSprite": "0931-blue",
+        "miniSprite": "0931-blue"
     },
     "baseSpecies": "Squawkabilly",
     "baseForms": [],

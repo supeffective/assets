@@ -1,7 +1,7 @@
 {
     "id": "arboliva",
-    "nid": "0937",
-    "dexNum": 937,
+    "nid": "0930",
+    "dexNum": 930,
     "formId": null,
     "name": "Arboliva",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Arboliva",
         "serebii": "arboliva",
         "bulbapedia": "Arboliva",
-        "homeSprite": "0937",
-        "miniSprite": "0937"
+        "homeSprite": "0930",
+        "miniSprite": "0930"
     },
     "baseSpecies": null,
     "baseForms": [],

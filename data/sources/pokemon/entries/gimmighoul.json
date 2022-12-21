@@ -1,7 +1,7 @@
 {
     "id": "gimmighoul",
-    "nid": "0976",
-    "dexNum": 976,
+    "nid": "0999",
+    "dexNum": 999,
     "formId": null,
     "name": "Gimmighoul",
     "formName": "Chest Form",
@@ -82,8 +82,8 @@
         "showdownDef": "Gimmighoul",
         "serebii": "gimmighoul",
         "bulbapedia": "Gimmighoul",
-        "homeSprite": "0976",
-        "miniSprite": "0976"
+        "homeSprite": "0999",
+        "miniSprite": "0999"
     },
     "baseSpecies": null,
     "baseForms": [],

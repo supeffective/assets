@@ -1,7 +1,7 @@
 {
     "id": "finizen",
-    "nid": "0933",
-    "dexNum": 933,
+    "nid": "0963",
+    "dexNum": 963,
     "formId": null,
     "name": "Finizen",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Finizen",
         "serebii": "finizen",
         "bulbapedia": "Finizen",
-        "homeSprite": "0933",
-        "miniSprite": "0933"
+        "homeSprite": "0963",
+        "miniSprite": "0963"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -1,7 +1,7 @@
 {
     "id": "pawmo",
-    "nid": "0955",
-    "dexNum": 955,
+    "nid": "0922",
+    "dexNum": 922,
     "formId": null,
     "name": "Pawmo",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Pawmo",
         "serebii": "pawmo",
         "bulbapedia": "Pawmo",
-        "homeSprite": "0955",
-        "miniSprite": "0955"
+        "homeSprite": "0922",
+        "miniSprite": "0922"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -1,7 +1,7 @@
 {
     "id": "tadbulb",
-    "nid": "0940",
-    "dexNum": 940,
+    "nid": "0938",
+    "dexNum": 938,
     "formId": null,
     "name": "Tadbulb",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Tadbulb",
         "serebii": "tadbulb",
         "bulbapedia": "Tadbulb",
-        "homeSprite": "0940",
-        "miniSprite": "0940"
+        "homeSprite": "0938",
+        "miniSprite": "0938"
     },
     "baseSpecies": null,
     "baseForms": [],

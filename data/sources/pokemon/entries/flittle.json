@@ -1,7 +1,7 @@
 {
     "id": "flittle",
-    "nid": "0926",
-    "dexNum": 926,
+    "nid": "0955",
+    "dexNum": 955,
     "formId": null,
     "name": "Flittle",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Flittle",
         "serebii": "flittle",
         "bulbapedia": "Flittle",
-        "homeSprite": "0926",
-        "miniSprite": "0926"
+        "homeSprite": "0955",
+        "miniSprite": "0955"
     },
     "baseSpecies": null,
     "baseForms": [],

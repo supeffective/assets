@@ -1,7 +1,7 @@
 {
     "id": "bombirdier",
-    "nid": "0959",
-    "dexNum": 959,
+    "nid": "0962",
+    "dexNum": 962,
     "formId": null,
     "name": "Bombirdier",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Bombirdier",
         "serebii": "bombirdier",
         "bulbapedia": "Bombirdier",
-        "homeSprite": "0959",
-        "miniSprite": "0959"
+        "homeSprite": "0962",
+        "miniSprite": "0962"
     },
     "baseSpecies": null,
     "baseForms": [],

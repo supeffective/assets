@@ -1,7 +1,7 @@
 {
     "id": "tinkatink",
-    "nid": "1000",
-    "dexNum": 1000,
+    "nid": "0957",
+    "dexNum": 957,
     "formId": null,
     "name": "Tinkatink",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Tinkatink",
         "serebii": "tinkatink",
         "bulbapedia": "Tinkatink",
-        "homeSprite": "1000",
-        "miniSprite": "1000"
+        "homeSprite": "0957",
+        "miniSprite": "0957"
     },
     "baseSpecies": null,
     "baseForms": [],

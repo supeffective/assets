@@ -1,7 +1,7 @@
 {
     "id": "tatsugiri-sketchy",
-    "nid": "0952",
-    "dexNum": 952,
+    "nid": "0978-sketchy",
+    "dexNum": 978,
     "formId": "sketchy",
     "name": "Tatsugiri Sketchy Form",
     "formName": "Sketchy Form",
@@ -82,8 +82,8 @@
         "showdownDef": "Tatsugiri",
         "serebii": "Tatsugiri",
         "bulbapedia": "Tatsugiri_Sketchy",
-        "homeSprite": "0952-sketchy",
-        "miniSprite": "0952-sketchy"
+        "homeSprite": "0978-sketchy",
+        "miniSprite": "0978-sketchy"
     },
     "baseSpecies": "tatsugiri",
     "baseForms": [],

@@ -1,7 +1,7 @@
 {
     "id": "kilowattrel",
-    "nid": "0958",
-    "dexNum": 958,
+    "nid": "0941",
+    "dexNum": 941,
     "formId": null,
     "name": "Kilowattrel",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Kilowattrel",
         "serebii": "kilowattrel",
         "bulbapedia": "Kilowattrel",
-        "homeSprite": "0958",
-        "miniSprite": "0958"
+        "homeSprite": "0941",
+        "miniSprite": "0941"
     },
     "baseSpecies": null,
     "baseForms": [],

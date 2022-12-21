@@ -1,7 +1,7 @@
 {
     "id": "ironbundle",
-    "nid": "0992",
-    "dexNum": 992,
+    "nid": "0991",
+    "dexNum": 991,
     "formId": null,
     "name": "Iron Bundle",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Ironbundle",
         "serebii": "ironbundle",
         "bulbapedia": "Ironbundle",
-        "homeSprite": "0992",
-        "miniSprite": "0992"
+        "homeSprite": "0991",
+        "miniSprite": "0991"
     },
     "baseSpecies": null,
     "baseForms": [],

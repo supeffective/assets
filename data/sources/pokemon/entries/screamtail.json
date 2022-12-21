@@ -1,7 +1,7 @@
 {
     "id": "screamtail",
-    "nid": "0982",
-    "dexNum": 982,
+    "nid": "0985",
+    "dexNum": 985,
     "formId": null,
     "name": "Scream Tail",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Screamtail",
         "serebii": "screamtail",
         "bulbapedia": "Screamtail",
-        "homeSprite": "0982",
-        "miniSprite": "0982"
+        "homeSprite": "0985",
+        "miniSprite": "0985"
     },
     "baseSpecies": null,
     "baseForms": [],

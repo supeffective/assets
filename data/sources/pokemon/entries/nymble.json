@@ -1,7 +1,7 @@
 {
     "id": "nymble",
-    "nid": "0920",
-    "dexNum": 920,
+    "nid": "0919",
+    "dexNum": 919,
     "formId": null,
     "name": "Nymble",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Nymble",
         "serebii": "nymble",
         "bulbapedia": "Nymble",
-        "homeSprite": "0920",
-        "miniSprite": "0920"
+        "homeSprite": "0919",
+        "miniSprite": "0919"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -1,7 +1,7 @@
 {
     "id": "sandyshocks",
-    "nid": "0981",
-    "dexNum": 981,
+    "nid": "0989",
+    "dexNum": 989,
     "formId": null,
     "name": "Sandy Shocks",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Sandyshocks",
         "serebii": "sandyshocks",
         "bulbapedia": "Sandyshocks",
-        "homeSprite": "0981",
-        "miniSprite": "0981"
+        "homeSprite": "0989",
+        "miniSprite": "0989"
     },
     "baseSpecies": null,
     "baseForms": [],

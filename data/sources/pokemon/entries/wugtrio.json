@@ -1,7 +1,7 @@
 {
     "id": "wugtrio",
-    "nid": "0930",
-    "dexNum": 930,
+    "nid": "0961",
+    "dexNum": 961,
     "formId": null,
     "name": "Wugtrio",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Wugtrio",
         "serebii": "wugtrio",
         "bulbapedia": "Wugtrio",
-        "homeSprite": "0930",
-        "miniSprite": "0930"
+        "homeSprite": "0961",
+        "miniSprite": "0961"
     },
     "baseSpecies": null,
     "baseForms": [],

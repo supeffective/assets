@@ -1,7 +1,7 @@
 {
     "id": "revavroom",
-    "nid": "0943",
-    "dexNum": 943,
+    "nid": "0966",
+    "dexNum": 966,
     "formId": null,
     "name": "Revavroom",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Revavroom",
         "serebii": "revavroom",
         "bulbapedia": "Revavroom",
-        "homeSprite": "0943",
-        "miniSprite": "0943"
+        "homeSprite": "0966",
+        "miniSprite": "0966"
     },
     "baseSpecies": null,
     "baseForms": [],

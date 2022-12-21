@@ -1,7 +1,7 @@
 {
     "id": "armarouge",
-    "nid": "1004",
-    "dexNum": 1004,
+    "nid": "0936",
+    "dexNum": 936,
     "formId": null,
     "name": "Armarouge",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Armarouge",
         "serebii": "armarouge",
         "bulbapedia": "Armarouge",
-        "homeSprite": "1004",
-        "miniSprite": "1004"
+        "homeSprite": "0936",
+        "miniSprite": "0936"
     },
     "baseSpecies": null,
     "baseForms": [],

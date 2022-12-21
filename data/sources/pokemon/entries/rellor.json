@@ -1,7 +1,7 @@
 {
     "id": "rellor",
-    "nid": "0922",
-    "dexNum": 922,
+    "nid": "0953",
+    "dexNum": 953,
     "formId": null,
     "name": "Rellor",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Rellor",
         "serebii": "rellor",
         "bulbapedia": "Rellor",
-        "homeSprite": "0922",
-        "miniSprite": "0922"
+        "homeSprite": "0953",
+        "miniSprite": "0953"
     },
     "baseSpecies": null,
     "baseForms": [],

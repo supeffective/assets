@@ -1,7 +1,7 @@
 {
     "id": "baxcalibur",
-    "nid": "0951",
-    "dexNum": 951,
+    "nid": "0998",
+    "dexNum": 998,
     "formId": null,
     "name": "Baxcalibur",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Baxcalibur",
         "serebii": "baxcalibur",
         "bulbapedia": "Baxcalibur",
-        "homeSprite": "0951",
-        "miniSprite": "0951"
+        "homeSprite": "0998",
+        "miniSprite": "0998"
     },
     "baseSpecies": null,
     "baseForms": [],

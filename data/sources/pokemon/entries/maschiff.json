@@ -1,7 +1,7 @@
 {
     "id": "maschiff",
-    "nid": "0972",
-    "dexNum": 972,
+    "nid": "0942",
+    "dexNum": 942,
     "formId": null,
     "name": "Maschiff",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Maschiff",
         "serebii": "maschiff",
         "bulbapedia": "Maschiff",
-        "homeSprite": "0972",
-        "miniSprite": "0972"
+        "homeSprite": "0942",
+        "miniSprite": "0942"
     },
     "baseSpecies": null,
     "baseForms": [],

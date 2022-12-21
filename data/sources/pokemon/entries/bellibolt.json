@@ -1,7 +1,7 @@
 {
     "id": "bellibolt",
-    "nid": "0941",
-    "dexNum": 941,
+    "nid": "0939",
+    "dexNum": 939,
     "formId": null,
     "name": "Bellibolt",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Bellibolt",
         "serebii": "bellibolt",
         "bulbapedia": "Bellibolt",
-        "homeSprite": "0941",
-        "miniSprite": "0941"
+        "homeSprite": "0939",
+        "miniSprite": "0939"
     },
     "baseSpecies": null,
     "baseForms": [],

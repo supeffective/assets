@@ -1,7 +1,7 @@
 {
     "id": "roaringmoon",
-    "nid": "0985",
-    "dexNum": 985,
+    "nid": "1005",
+    "dexNum": 1005,
     "formId": null,
     "name": "Roaring Moon",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Roaringmoon",
         "serebii": "roaringmoon",
         "bulbapedia": "Roaringmoon",
-        "homeSprite": "0985",
-        "miniSprite": "0985"
+        "homeSprite": "1005",
+        "miniSprite": "1005"
     },
     "baseSpecies": null,
     "baseForms": [],

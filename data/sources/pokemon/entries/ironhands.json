@@ -1,7 +1,7 @@
 {
     "id": "ironhands",
-    "nid": "0989",
-    "dexNum": 989,
+    "nid": "0992",
+    "dexNum": 992,
     "formId": null,
     "name": "Iron Hands",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Ironhands",
         "serebii": "ironhands",
         "bulbapedia": "Ironhands",
-        "homeSprite": "0989",
-        "miniSprite": "0989"
+        "homeSprite": "0992",
+        "miniSprite": "0992"
     },
     "baseSpecies": null,
     "baseForms": [],

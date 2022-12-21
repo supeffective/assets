@@ -1,7 +1,7 @@
 {
     "id": "dachsbun",
-    "nid": "0971",
-    "dexNum": 971,
+    "nid": "0927",
+    "dexNum": 927,
     "formId": null,
     "name": "Dachsbun",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Dachsbun",
         "serebii": "dachsbun",
         "bulbapedia": "Dachsbun",
-        "homeSprite": "0971",
-        "miniSprite": "0971"
+        "homeSprite": "0927",
+        "miniSprite": "0927"
     },
     "baseSpecies": null,
     "baseForms": [],

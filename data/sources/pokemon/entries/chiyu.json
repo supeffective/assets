@@ -1,7 +1,7 @@
 {
     "id": "chiyu",
-    "nid": "0997",
-    "dexNum": 997,
+    "nid": "1004",
+    "dexNum": 1004,
     "formId": null,
     "name": "Chi-Yu",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Chiyu",
         "serebii": "chiyu",
         "bulbapedia": "Chiyu",
-        "homeSprite": "0997",
-        "miniSprite": "0997"
+        "homeSprite": "1004",
+        "miniSprite": "1004"
     },
     "baseSpecies": null,
     "baseForms": [],

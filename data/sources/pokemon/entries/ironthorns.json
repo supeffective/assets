@@ -1,7 +1,7 @@
 {
     "id": "ironthorns",
-    "nid": "0991",
-    "dexNum": 991,
+    "nid": "0995",
+    "dexNum": 995,
     "formId": null,
     "name": "Iron Thorns",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Ironthorns",
         "serebii": "ironthorns",
         "bulbapedia": "Ironthorns",
-        "homeSprite": "0991",
-        "miniSprite": "0991"
+        "homeSprite": "0995",
+        "miniSprite": "0995"
     },
     "baseSpecies": null,
     "baseForms": [],

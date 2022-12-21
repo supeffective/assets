@@ -1,7 +1,7 @@
 {
     "id": "koraidon",
-    "nid": "0998",
-    "dexNum": 998,
+    "nid": "1007",
+    "dexNum": 1007,
     "formId": null,
     "name": "Koraidon",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Koraidon",
         "serebii": "koraidon",
         "bulbapedia": "Koraidon",
-        "homeSprite": "0998",
-        "miniSprite": "0998"
+        "homeSprite": "1007",
+        "miniSprite": "1007"
     },
     "baseSpecies": null,
     "baseForms": [],

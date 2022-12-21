@@ -1,7 +1,7 @@
 {
     "id": "tinglu",
-    "nid": "0994",
-    "dexNum": 994,
+    "nid": "1003",
+    "dexNum": 1003,
     "formId": null,
     "name": "Ting-Lu",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Tinglu",
         "serebii": "tinglu",
         "bulbapedia": "Tinglu",
-        "homeSprite": "0994",
-        "miniSprite": "0994"
+        "homeSprite": "1003",
+        "miniSprite": "1003"
     },
     "baseSpecies": null,
     "baseForms": [],

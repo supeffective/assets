@@ -1,7 +1,7 @@
 {
     "id": "charcadet",
-    "nid": "1003",
-    "dexNum": 1003,
+    "nid": "0935",
+    "dexNum": 935,
     "formId": null,
     "name": "Charcadet",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Charcadet",
         "serebii": "charcadet",
         "bulbapedia": "Charcadet",
-        "homeSprite": "1003",
-        "miniSprite": "1003"
+        "homeSprite": "0935",
+        "miniSprite": "0935"
     },
     "baseSpecies": null,
     "baseForms": [],

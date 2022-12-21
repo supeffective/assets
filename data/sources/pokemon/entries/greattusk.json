@@ -1,7 +1,7 @@
 {
     "id": "greattusk",
-    "nid": "0978",
-    "dexNum": 978,
+    "nid": "0984",
+    "dexNum": 984,
     "formId": null,
     "name": "Great Tusk",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Greattusk",
         "serebii": "greattusk",
         "bulbapedia": "Greattusk",
-        "homeSprite": "0978",
-        "miniSprite": "0978"
+        "homeSprite": "0984",
+        "miniSprite": "0984"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -1,7 +1,7 @@
 {
     "id": "tatsugiri",
-    "nid": "0952",
-    "dexNum": 952,
+    "nid": "0978",
+    "dexNum": 978,
     "formId": null,
     "name": "Tatsugiri",
     "formName": "Curly Form",
@@ -82,8 +82,8 @@
         "showdownDef": "Tatsugiri",
         "serebii": "tatsugiri",
         "bulbapedia": "Tatsugiri",
-        "homeSprite": "0952",
-        "miniSprite": "0952"
+        "homeSprite": "0978",
+        "miniSprite": "0978"
     },
     "baseSpecies": null,
     "baseForms": [],

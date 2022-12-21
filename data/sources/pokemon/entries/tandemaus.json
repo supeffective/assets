@@ -1,7 +1,7 @@
 {
     "id": "tandemaus",
-    "nid": "0945",
-    "dexNum": 945,
+    "nid": "0924",
+    "dexNum": 924,
     "formId": null,
     "name": "Tandemaus",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Tandemaus",
         "serebii": "tandemaus",
         "bulbapedia": "Tandemaus",
-        "homeSprite": "0945",
-        "miniSprite": "0945"
+        "homeSprite": "0924",
+        "miniSprite": "0924"
     },
     "baseSpecies": null,
     "baseForms": [],

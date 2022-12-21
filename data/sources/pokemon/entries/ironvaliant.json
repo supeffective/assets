@@ -1,7 +1,7 @@
 {
     "id": "ironvaliant",
-    "nid": "0993",
-    "dexNum": 993,
+    "nid": "1006",
+    "dexNum": 1006,
     "formId": null,
     "name": "Iron Valiant",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Ironvaliant",
         "serebii": "ironvaliant",
         "bulbapedia": "Ironvaliant",
-        "homeSprite": "0993",
-        "miniSprite": "0993"
+        "homeSprite": "1006",
+        "miniSprite": "1006"
     },
     "baseSpecies": null,
     "baseForms": [],

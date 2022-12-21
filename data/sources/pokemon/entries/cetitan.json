@@ -1,7 +1,7 @@
 {
     "id": "cetitan",
-    "nid": "0948",
-    "dexNum": 948,
+    "nid": "0975",
+    "dexNum": 975,
     "formId": null,
     "name": "Cetitan",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Cetitan",
         "serebii": "cetitan",
         "bulbapedia": "Cetitan",
-        "homeSprite": "0948",
-        "miniSprite": "0948"
+        "homeSprite": "0975",
+        "miniSprite": "0975"
     },
     "baseSpecies": null,
     "baseForms": [],

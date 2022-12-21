@@ -1,7 +1,7 @@
 {
     "id": "fidough",
-    "nid": "0970",
-    "dexNum": 970,
+    "nid": "0926",
+    "dexNum": 926,
     "formId": null,
     "name": "Fidough",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Fidough",
         "serebii": "fidough",
         "bulbapedia": "Fidough",
-        "homeSprite": "0970",
-        "miniSprite": "0970"
+        "homeSprite": "0926",
+        "miniSprite": "0926"
     },
     "baseSpecies": null,
     "baseForms": [],

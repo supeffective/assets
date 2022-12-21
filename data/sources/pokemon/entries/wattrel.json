@@ -1,7 +1,7 @@
 {
     "id": "wattrel",
-    "nid": "0957",
-    "dexNum": 957,
+    "nid": "0940",
+    "dexNum": 940,
     "formId": null,
     "name": "Wattrel",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Wattrel",
         "serebii": "wattrel",
         "bulbapedia": "Wattrel",
-        "homeSprite": "0957",
-        "miniSprite": "0957"
+        "homeSprite": "0940",
+        "miniSprite": "0940"
     },
     "baseSpecies": null,
     "baseForms": [],

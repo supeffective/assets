@@ -1,7 +1,7 @@
 {
     "id": "scovillain",
-    "nid": "0939",
-    "dexNum": 939,
+    "nid": "0952",
+    "dexNum": 952,
     "formId": null,
     "name": "Scovillain",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Scovillain",
         "serebii": "scovillain",
         "bulbapedia": "Scovillain",
-        "homeSprite": "0939",
-        "miniSprite": "0939"
+        "homeSprite": "0952",
+        "miniSprite": "0952"
     },
     "baseSpecies": null,
     "baseForms": [],

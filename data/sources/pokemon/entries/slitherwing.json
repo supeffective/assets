@@ -1,7 +1,7 @@
 {
     "id": "slitherwing",
-    "nid": "0984",
-    "dexNum": 984,
+    "nid": "0988",
+    "dexNum": 988,
     "formId": null,
     "name": "Slither Wing",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Slitherwing",
         "serebii": "slitherwing",
         "bulbapedia": "Slitherwing",
-        "homeSprite": "0984",
-        "miniSprite": "0984"
+        "homeSprite": "0988",
+        "miniSprite": "0988"
     },
     "baseSpecies": null,
     "baseForms": [],

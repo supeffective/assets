@@ -1,7 +1,7 @@
 {
     "id": "tinkaton",
-    "nid": "1002",
-    "dexNum": 1002,
+    "nid": "0959",
+    "dexNum": 959,
     "formId": null,
     "name": "Tinkaton",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Tinkaton",
         "serebii": "tinkaton",
         "bulbapedia": "Tinkaton",
-        "homeSprite": "1002",
-        "miniSprite": "1002"
+        "homeSprite": "0959",
+        "miniSprite": "0959"
     },
     "baseSpecies": null,
     "baseForms": [],

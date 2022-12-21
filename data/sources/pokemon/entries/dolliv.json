@@ -1,7 +1,7 @@
 {
     "id": "dolliv",
-    "nid": "0936",
-    "dexNum": 936,
+    "nid": "0929",
+    "dexNum": 929,
     "formId": null,
     "name": "Dolliv",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Dolliv",
         "serebii": "dolliv",
         "bulbapedia": "Dolliv",
-        "homeSprite": "0936",
-        "miniSprite": "0936"
+        "homeSprite": "0929",
+        "miniSprite": "0929"
     },
     "baseSpecies": null,
     "baseForms": [],

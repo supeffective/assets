@@ -1,7 +1,7 @@
 {
     "id": "gholdengo",
-    "nid": "0977",
-    "dexNum": 977,
+    "nid": "1000",
+    "dexNum": 1000,
     "formId": null,
     "name": "Gholdengo",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Gholdengo",
         "serebii": "gholdengo",
         "bulbapedia": "Gholdengo",
-        "homeSprite": "0977",
-        "miniSprite": "0977"
+        "homeSprite": "1000",
+        "miniSprite": "1000"
     },
     "baseSpecies": null,
     "baseForms": [],

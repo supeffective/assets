@@ -1,7 +1,7 @@
 {
     "id": "maushold",
-    "nid": "0946",
-    "dexNum": 946,
+    "nid": "0925",
+    "dexNum": 925,
     "formId": null,
     "name": "Maushold",
     "formName": "Family of Three",
@@ -82,8 +82,8 @@
         "showdownDef": "Maushold",
         "serebii": "maushold",
         "bulbapedia": "Maushold",
-        "homeSprite": "0946",
-        "miniSprite": "0946"
+        "homeSprite": "0925",
+        "miniSprite": "0925"
     },
     "baseSpecies": null,
     "baseForms": [],

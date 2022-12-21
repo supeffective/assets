@@ -1,7 +1,7 @@
 {
     "id": "capsakid",
-    "nid": "0938",
-    "dexNum": 938,
+    "nid": "0951",
+    "dexNum": 951,
     "formId": null,
     "name": "Capsakid",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Capsakid",
         "serebii": "capsakid",
         "bulbapedia": "Capsakid",
-        "homeSprite": "0938",
-        "miniSprite": "0938"
+        "homeSprite": "0951",
+        "miniSprite": "0951"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -1,7 +1,7 @@
 {
     "id": "brambleghast",
-    "nid": "0975",
-    "dexNum": 975,
+    "nid": "0947",
+    "dexNum": 947,
     "formId": null,
     "name": "Brambleghast",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Brambleghast",
         "serebii": "brambleghast",
         "bulbapedia": "Brambleghast",
-        "homeSprite": "0975",
-        "miniSprite": "0975"
+        "homeSprite": "0947",
+        "miniSprite": "0947"
     },
     "baseSpecies": null,
     "baseForms": [],

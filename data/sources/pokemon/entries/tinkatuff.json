@@ -1,7 +1,7 @@
 {
     "id": "tinkatuff",
-    "nid": "1001",
-    "dexNum": 1001,
+    "nid": "0958",
+    "dexNum": 958,
     "formId": null,
     "name": "Tinkatuff",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Tinkatuff",
         "serebii": "tinkatuff",
         "bulbapedia": "Tinkatuff",
-        "homeSprite": "1001",
-        "miniSprite": "1001"
+        "homeSprite": "0958",
+        "miniSprite": "0958"
     },
     "baseSpecies": null,
     "baseForms": [],

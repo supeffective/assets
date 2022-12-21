@@ -1,7 +1,7 @@
 {
     "id": "kingambit",
-    "nid": "1008",
-    "dexNum": 1008,
+    "nid": "0983",
+    "dexNum": 983,
     "formId": null,
     "name": "Kingambit",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Kingambit",
         "serebii": "kingambit",
         "bulbapedia": "Kingambit",
-        "homeSprite": "1008",
-        "miniSprite": "1008"
+        "homeSprite": "0983",
+        "miniSprite": "0983"
     },
     "baseSpecies": null,
     "baseForms": [],

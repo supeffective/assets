@@ -1,7 +1,7 @@
 {
     "id": "squawkabilly-white",
-    "nid": "0960-white",
-    "dexNum": 960,
+    "nid": "0931-white",
+    "dexNum": 931,
     "formId": "white",
     "name": "Squawkabilly White-feathered",
     "formName": "White-feathered",
@@ -82,8 +82,8 @@
         "showdownDef": "Squawkabilly-White",
         "serebii": "Squawkabilly",
         "bulbapedia": "Squawkabilly_White",
-        "homeSprite": "0960-white",
-        "miniSprite": "0960-white"
+        "homeSprite": "0931-white",
+        "miniSprite": "0931-white"
     },
     "baseSpecies": "Squawkabilly",
     "baseForms": [],

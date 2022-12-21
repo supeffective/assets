@@ -1,7 +1,7 @@
 {
     "id": "ironmoth",
-    "nid": "0988",
-    "dexNum": 988,
+    "nid": "0994",
+    "dexNum": 994,
     "formId": null,
     "name": "Iron Moth",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Ironmoth",
         "serebii": "ironmoth",
         "bulbapedia": "Ironmoth",
-        "homeSprite": "0988",
-        "miniSprite": "0988"
+        "homeSprite": "0994",
+        "miniSprite": "0994"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -1,7 +1,7 @@
 {
     "id": "tatsugiri-droopy",
-    "nid": "0952-droopy",
-    "dexNum": 952,
+    "nid": "0978-droopy",
+    "dexNum": 978,
     "formId": "droopy",
     "name": "Tatsugiri Droopy Form",
     "formName": "Droopy Form",
@@ -82,8 +82,8 @@
         "showdownDef": "Tatsugiri",
         "serebii": "Tatsugiri",
         "bulbapedia": "Tatsugiri_Droopy",
-        "homeSprite": "0952-droopy",
-        "miniSprite": "0952-droopy"
+        "homeSprite": "0978-droopy",
+        "miniSprite": "0978-droopy"
     },
     "baseSpecies": "tatsugiri",
     "baseForms": [],

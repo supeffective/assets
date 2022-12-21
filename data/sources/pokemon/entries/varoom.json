@@ -1,7 +1,7 @@
 {
     "id": "varoom",
-    "nid": "0942",
-    "dexNum": 942,
+    "nid": "0965",
+    "dexNum": 965,
     "formId": null,
     "name": "Varoom",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Varoom",
         "serebii": "varoom",
         "bulbapedia": "Varoom",
-        "homeSprite": "0942",
-        "miniSprite": "0942"
+        "homeSprite": "0965",
+        "miniSprite": "0965"
     },
     "baseSpecies": null,
     "baseForms": [],

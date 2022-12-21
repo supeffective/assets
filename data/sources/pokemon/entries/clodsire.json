@@ -1,7 +1,7 @@
 {
     "id": "clodsire",
-    "nid": "1009",
-    "dexNum": 1009,
+    "nid": "0980",
+    "dexNum": 980,
     "formId": null,
     "name": "Clodsire",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Clodsire",
         "serebii": "clodsire",
         "bulbapedia": "Clodsire",
-        "homeSprite": "1009",
-        "miniSprite": "1009"
+        "homeSprite": "0980",
+        "miniSprite": "0980"
     },
     "baseSpecies": null,
     "baseForms": [],

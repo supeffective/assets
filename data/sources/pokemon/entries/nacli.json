@@ -1,7 +1,7 @@
 {
     "id": "nacli",
-    "nid": "0963",
-    "dexNum": 963,
+    "nid": "0932",
+    "dexNum": 932,
     "formId": null,
     "name": "Nacli",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Nacli",
         "serebii": "nacli",
         "bulbapedia": "Nacli",
-        "homeSprite": "0963",
-        "miniSprite": "0963"
+        "homeSprite": "0932",
+        "miniSprite": "0932"
     },
     "baseSpecies": null,
     "baseForms": [],

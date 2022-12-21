@@ -1,7 +1,7 @@
 {
     "id": "chienpao",
-    "nid": "0995",
-    "dexNum": 995,
+    "nid": "1002",
+    "dexNum": 1002,
     "formId": null,
     "name": "Chien-Pao",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Chienpao",
         "serebii": "chienpao",
         "bulbapedia": "Chienpao",
-        "homeSprite": "0995",
-        "miniSprite": "0995"
+        "homeSprite": "1002",
+        "miniSprite": "1002"
     },
     "baseSpecies": null,
     "baseForms": [],

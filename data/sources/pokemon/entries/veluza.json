@@ -1,7 +1,7 @@
 {
     "id": "veluza",
-    "nid": "0932",
-    "dexNum": 932,
+    "nid": "0976",
+    "dexNum": 976,
     "formId": null,
     "name": "Veluza",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Veluza",
         "serebii": "veluza",
         "bulbapedia": "Veluza",
-        "homeSprite": "0932",
-        "miniSprite": "0932"
+        "homeSprite": "0976",
+        "miniSprite": "0976"
     },
     "baseSpecies": null,
     "baseForms": [],

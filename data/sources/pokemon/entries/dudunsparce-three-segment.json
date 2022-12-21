@@ -1,7 +1,7 @@
 {
     "id": "dudunsparce-three-segment",
-    "nid": "0917-three-segment",
-    "dexNum": 917,
+    "nid": "0982-three-segment",
+    "dexNum": 982,
     "formId": "three-segment",
     "name": "Dudunsparce Three-Segment Form",
     "formName": "Three-Segment Form",
@@ -82,8 +82,8 @@
         "showdownDef": "Dudunsparce-Three-Segment",
         "serebii": "Dudunsparce",
         "bulbapedia": "Dudunsparce_Three_Segment",
-        "homeSprite": "0917-three-segment",
-        "miniSprite": "0917-three-segment"
+        "homeSprite": "0982-three-segment",
+        "miniSprite": "0982-three-segment"
     },
     "baseSpecies": "Dudunsparce",
     "baseForms": [],

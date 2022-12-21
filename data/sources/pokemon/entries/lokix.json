@@ -1,7 +1,7 @@
 {
     "id": "lokix",
-    "nid": "0921",
-    "dexNum": 921,
+    "nid": "0920",
+    "dexNum": 920,
     "formId": null,
     "name": "Lokix",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Lokix",
         "serebii": "lokix",
         "bulbapedia": "Lokix",
-        "homeSprite": "0921",
-        "miniSprite": "0921"
+        "homeSprite": "0920",
+        "miniSprite": "0920"
     },
     "baseSpecies": null,
     "baseForms": [],

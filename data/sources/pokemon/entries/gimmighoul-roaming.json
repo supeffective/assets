@@ -1,7 +1,7 @@
 {
     "id": "gimmighoul-roaming",
-    "nid": "0976-roaming",
-    "dexNum": 976,
+    "nid": "0999-roaming",
+    "dexNum": 999,
     "formId": "roaming",
     "name": "Gimmighoul Roaming Form",
     "formName": "Roaming Form",
@@ -82,8 +82,8 @@
         "showdownDef": "Gimmighoul-Roaming",
         "serebii": "Gimmighoul",
         "bulbapedia": "Gimmighoul_Roaming",
-        "homeSprite": "0976-roaming",
-        "miniSprite": "0976-roaming"
+        "homeSprite": "0999-roaming",
+        "miniSprite": "0999-roaming"
     },
     "baseSpecies": "Gimmighoul",
     "baseForms": [],

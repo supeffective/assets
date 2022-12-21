@@ -1,7 +1,7 @@
 {
     "id": "maushold-four",
-    "nid": "0946-four",
-    "dexNum": 946,
+    "nid": "0925-four",
+    "dexNum": 925,
     "formId": "four",
     "name": "Maushold Family of Four",
     "formName": "Family of Four",
@@ -82,8 +82,8 @@
         "showdownDef": "Maushold-Four",
         "serebii": "Maushold",
         "bulbapedia": "Maushold_Four",
-        "homeSprite": "0946-four",
-        "miniSprite": "0946-four"
+        "homeSprite": "0925-four",
+        "miniSprite": "0925-four"
     },
     "baseSpecies": "Maushold",
     "baseForms": [],

@@ -1,7 +1,7 @@
 {
     "id": "ironjugulis",
-    "nid": "0990",
-    "dexNum": 990,
+    "nid": "0993",
+    "dexNum": 993,
     "formId": null,
     "name": "Iron Jugulis",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Ironjugulis",
         "serebii": "ironjugulis",
         "bulbapedia": "Ironjugulis",
-        "homeSprite": "0990",
-        "miniSprite": "0990"
+        "homeSprite": "0993",
+        "miniSprite": "0993"
     },
     "baseSpecies": null,
     "baseForms": [],

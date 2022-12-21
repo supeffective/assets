@@ -1,7 +1,7 @@
 {
     "id": "flamigo",
-    "nid": "0961",
-    "dexNum": 961,
+    "nid": "0973",
+    "dexNum": 973,
     "formId": null,
     "name": "Flamigo",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Flamigo",
         "serebii": "flamigo",
         "bulbapedia": "Flamigo",
-        "homeSprite": "0961",
-        "miniSprite": "0961"
+        "homeSprite": "0973",
+        "miniSprite": "0973"
     },
     "baseSpecies": null,
     "baseForms": [],

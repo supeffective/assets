@@ -1,7 +1,7 @@
 {
     "id": "klawf",
-    "nid": "0962",
-    "dexNum": 962,
+    "nid": "0950",
+    "dexNum": 950,
     "formId": null,
     "name": "Klawf",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Klawf",
         "serebii": "klawf",
         "bulbapedia": "Klawf",
-        "homeSprite": "0962",
-        "miniSprite": "0962"
+        "homeSprite": "0950",
+        "miniSprite": "0950"
     },
     "baseSpecies": null,
     "baseForms": [],

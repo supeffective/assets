@@ -1,7 +1,7 @@
 {
     "id": "orthworm",
-    "nid": "0944",
-    "dexNum": 944,
+    "nid": "0968",
+    "dexNum": 968,
     "formId": null,
     "name": "Orthworm",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Orthworm",
         "serebii": "orthworm",
         "bulbapedia": "Orthworm",
-        "homeSprite": "0944",
-        "miniSprite": "0944"
+        "homeSprite": "0968",
+        "miniSprite": "0968"
     },
     "baseSpecies": null,
     "baseForms": [],

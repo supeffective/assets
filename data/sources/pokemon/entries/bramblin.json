@@ -1,7 +1,7 @@
 {
     "id": "bramblin",
-    "nid": "0974",
-    "dexNum": 974,
+    "nid": "0946",
+    "dexNum": 946,
     "formId": null,
     "name": "Bramblin",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Bramblin",
         "serebii": "bramblin",
         "bulbapedia": "Bramblin",
-        "homeSprite": "0974",
-        "miniSprite": "0974"
+        "homeSprite": "0946",
+        "miniSprite": "0946"
     },
     "baseSpecies": null,
     "baseForms": [],

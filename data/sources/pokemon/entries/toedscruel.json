@@ -1,7 +1,7 @@
 {
     "id": "toedscruel",
-    "nid": "1007",
-    "dexNum": 1007,
+    "nid": "0949",
+    "dexNum": 949,
     "formId": null,
     "name": "Toedscruel",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Toedscruel",
         "serebii": "toedscruel",
         "bulbapedia": "Toedscruel",
-        "homeSprite": "1007",
-        "miniSprite": "1007"
+        "homeSprite": "0949",
+        "miniSprite": "0949"
     },
     "baseSpecies": null,
     "baseForms": [],

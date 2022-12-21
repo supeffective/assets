@@ -1,7 +1,7 @@
 {
     "id": "wochien",
-    "nid": "0996",
-    "dexNum": 996,
+    "nid": "1001",
+    "dexNum": 1001,
     "formId": null,
     "name": "Wo-Chien",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Wochien",
         "serebii": "wochien",
         "bulbapedia": "Wochien",
-        "homeSprite": "0996",
-        "miniSprite": "0996"
+        "homeSprite": "1001",
+        "miniSprite": "1001"
     },
     "baseSpecies": null,
     "baseForms": [],

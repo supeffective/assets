@@ -1,7 +1,7 @@
 {
     "id": "mabosstiff",
-    "nid": "0973",
-    "dexNum": 973,
+    "nid": "0943",
+    "dexNum": 943,
     "formId": null,
     "name": "Mabosstiff",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Mabosstiff",
         "serebii": "mabosstiff",
         "bulbapedia": "Mabosstiff",
-        "homeSprite": "0973",
-        "miniSprite": "0973"
+        "homeSprite": "0943",
+        "miniSprite": "0943"
     },
     "baseSpecies": null,
     "baseForms": [],

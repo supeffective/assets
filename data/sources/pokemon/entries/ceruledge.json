@@ -1,7 +1,7 @@
 {
     "id": "ceruledge",
-    "nid": "1005",
-    "dexNum": 1005,
+    "nid": "0937",
+    "dexNum": 937,
     "formId": null,
     "name": "Ceruledge",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Ceruledge",
         "serebii": "ceruledge",
         "bulbapedia": "Ceruledge",
-        "homeSprite": "1005",
-        "miniSprite": "1005"
+        "homeSprite": "0937",
+        "miniSprite": "0937"
     },
     "baseSpecies": null,
     "baseForms": [],

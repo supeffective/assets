@@ -1,7 +1,7 @@
 {
     "id": "toedscool",
-    "nid": "1006",
-    "dexNum": 1006,
+    "nid": "0948",
+    "dexNum": 948,
     "formId": null,
     "name": "Toedscool",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Toedscool",
         "serebii": "toedscool",
         "bulbapedia": "Toedscool",
-        "homeSprite": "1006",
-        "miniSprite": "1006"
+        "homeSprite": "0948",
+        "miniSprite": "0948"
     },
     "baseSpecies": null,
     "baseForms": [],

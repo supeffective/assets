@@ -1,7 +1,7 @@
 {
     "id": "squawkabilly-yellow",
-    "nid": "0960-yellow",
-    "dexNum": 960,
+    "nid": "0931-yellow",
+    "dexNum": 931,
     "formId": "yellow",
     "name": "Squawkabilly Yellow-feathered",
     "formName": "Yellow-feathered",
@@ -82,8 +82,8 @@
         "showdownDef": "Squawkabilly-Yellow",
         "serebii": "Squawkabilly",
         "bulbapedia": "Squawkabilly_Yellow",
-        "homeSprite": "0960-yellow",
-        "miniSprite": "0960-yellow"
+        "homeSprite": "0931-yellow",
+        "miniSprite": "0931-yellow"
     },
     "baseSpecies": "Squawkabilly",
     "baseForms": [],

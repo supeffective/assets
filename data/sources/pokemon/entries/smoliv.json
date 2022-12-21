@@ -1,7 +1,7 @@
 {
     "id": "smoliv",
-    "nid": "0935",
-    "dexNum": 935,
+    "nid": "0928",
+    "dexNum": 928,
     "formId": null,
     "name": "Smoliv",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Smoliv",
         "serebii": "smoliv",
         "bulbapedia": "Smoliv",
-        "homeSprite": "0935",
-        "miniSprite": "0935"
+        "homeSprite": "0928",
+        "miniSprite": "0928"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -1,7 +1,7 @@
 {
     "id": "houndstone",
-    "nid": "0925",
-    "dexNum": 925,
+    "nid": "0972",
+    "dexNum": 972,
     "formId": null,
     "name": "Houndstone",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Houndstone",
         "serebii": "houndstone",
         "bulbapedia": "Houndstone",
-        "homeSprite": "0925",
-        "miniSprite": "0925"
+        "homeSprite": "0972",
+        "miniSprite": "0972"
     },
     "baseSpecies": null,
     "baseForms": [],

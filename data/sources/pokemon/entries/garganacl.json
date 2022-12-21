@@ -1,7 +1,7 @@
 {
     "id": "garganacl",
-    "nid": "0965",
-    "dexNum": 965,
+    "nid": "0934",
+    "dexNum": 934,
     "formId": null,
     "name": "Garganacl",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Garganacl",
         "serebii": "garganacl",
         "bulbapedia": "Garganacl",
-        "homeSprite": "0965",
-        "miniSprite": "0965"
+        "homeSprite": "0934",
+        "miniSprite": "0934"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -1,7 +1,7 @@
 {
     "id": "grafaiai",
-    "nid": "0969",
-    "dexNum": 969,
+    "nid": "0945",
+    "dexNum": 945,
     "formId": null,
     "name": "Grafaiai",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Grafaiai",
         "serebii": "grafaiai",
         "bulbapedia": "Grafaiai",
-        "homeSprite": "0969",
-        "miniSprite": "0969"
+        "homeSprite": "0945",
+        "miniSprite": "0945"
     },
     "baseSpecies": null,
     "baseForms": [],

@@ -30257,24 +30257,6 @@
         ],
         "shinyReleased": true
     },
-    "dudunsparce": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "dudunsparce-three-segment": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
     "tarountula": {
         "obtainableIn": [
             "sv"
@@ -30311,7 +30293,7 @@
         ],
         "shinyReleased": true
     },
-    "rellor": {
+    "pawmi": {
         "obtainableIn": [
             "sv"
         ],
@@ -30320,7 +30302,7 @@
         ],
         "shinyReleased": true
     },
-    "rabsca": {
+    "pawmo": {
         "obtainableIn": [
             "sv"
         ],
@@ -30329,194 +30311,7 @@
         ],
         "shinyReleased": true
     },
-    "greavard": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "houndstone": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "flittle": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "espathra": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "farigiraf": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "wiglett": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "wugtrio": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "dondozo": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "veluza": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "finizen": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "palafin": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "palafin-hero": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [],
-        "shinyReleased": true
-    },
-    "smoliv": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "dolliv": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "arboliva": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "capsakid": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "scovillain": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "tadbulb": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "bellibolt": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "varoom": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "revavroom": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "orthworm": {
+    "pawmot": {
         "obtainableIn": [
             "sv"
         ],
@@ -30552,7 +30347,7 @@
         ],
         "shinyReleased": true
     },
-    "cetoddle": {
+    "fidough": {
         "obtainableIn": [
             "sv"
         ],
@@ -30561,7 +30356,7 @@
         ],
         "shinyReleased": true
     },
-    "cetitan": {
+    "dachsbun": {
         "obtainableIn": [
             "sv"
         ],
@@ -30570,7 +30365,7 @@
         ],
         "shinyReleased": true
     },
-    "frigibax": {
+    "smoliv": {
         "obtainableIn": [
             "sv"
         ],
@@ -30579,7 +30374,7 @@
         ],
         "shinyReleased": true
     },
-    "arctibax": {
+    "dolliv": {
         "obtainableIn": [
             "sv"
         ],
@@ -30588,97 +30383,7 @@
         ],
         "shinyReleased": true
     },
-    "baxcalibur": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "tatsugiri": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "tatsugiri-droopy": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "tatsugiri-sketchy": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "cyclizar": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "pawmi": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "pawmo": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "pawmot": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "wattrel": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "kilowattrel": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "bombirdier": {
+    "arboliva": {
         "obtainableIn": [
             "sv"
         ],
@@ -30723,24 +30428,6 @@
         ],
         "shinyReleased": true
     },
-    "flamigo": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "klawf": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
     "nacli": {
         "obtainableIn": [
             "sv"
@@ -30760,330 +30447,6 @@
         "shinyReleased": true
     },
     "garganacl": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "glimmet": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "glimmora": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "shroodle": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "grafaiai": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "fidough": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "dachsbun": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "maschiff": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "mabosstiff": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "bramblin": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "brambleghast": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "gimmighoul": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "gimmighoul-roaming": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "gholdengo": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "greattusk": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "brutebonnet": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "sandyshocks": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "screamtail": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "fluttermane": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "slitherwing": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "roaringmoon": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "irontreads": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "ironmoth": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "ironhands": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "ironjugulis": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "ironthorns": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "ironbundle": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "ironvaliant": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "tinglu": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": false
-    },
-    "chienpao": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": false
-    },
-    "wochien": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": false
-    },
-    "chiyu": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": false
-    },
-    "koraidon": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": false
-    },
-    "miraidon": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": false
-    },
-    "tinkatink": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "tinkatuff": {
-        "obtainableIn": [
-            "sv"
-        ],
-        "storableIn": [
-            "sv"
-        ],
-        "shinyReleased": true
-    },
-    "tinkaton": {
         "obtainableIn": [
             "sv"
         ],
@@ -31119,6 +30482,96 @@
         ],
         "shinyReleased": true
     },
+    "tadbulb": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "bellibolt": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "wattrel": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "kilowattrel": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "maschiff": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "mabosstiff": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "shroodle": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "grafaiai": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "bramblin": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "brambleghast": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
     "toedscool": {
         "obtainableIn": [
             "sv"
@@ -31137,7 +30590,293 @@
         ],
         "shinyReleased": true
     },
-    "kingambit": {
+    "klawf": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "capsakid": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "scovillain": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "rellor": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "rabsca": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "flittle": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "espathra": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "tinkatink": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "tinkatuff": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "tinkaton": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "wiglett": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "wugtrio": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "bombirdier": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "finizen": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "palafin": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "palafin-hero": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [],
+        "shinyReleased": true
+    },
+    "varoom": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "revavroom": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "cyclizar": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "orthworm": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "glimmet": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "glimmora": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "greavard": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "houndstone": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "flamigo": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "cetoddle": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "cetitan": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "veluza": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "dondozo": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "tatsugiri": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "tatsugiri-droopy": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "tatsugiri-sketchy": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "annihilape": {
         "obtainableIn": [
             "sv"
         ],
@@ -31155,7 +30894,7 @@
         ],
         "shinyReleased": true
     },
-    "annihilape": {
+    "farigiraf": {
         "obtainableIn": [
             "sv"
         ],
@@ -31163,5 +30902,266 @@
             "sv"
         ],
         "shinyReleased": true
+    },
+    "dudunsparce": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "dudunsparce-three-segment": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "kingambit": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "greattusk": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "screamtail": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "brutebonnet": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "fluttermane": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "slitherwing": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "sandyshocks": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "irontreads": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "ironbundle": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "ironhands": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "ironjugulis": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "ironmoth": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "ironthorns": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "frigibax": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "arctibax": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "baxcalibur": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "gimmighoul": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "gimmighoul-roaming": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "gholdengo": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "wochien": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false
+    },
+    "chienpao": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false
+    },
+    "tinglu": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false
+    },
+    "chiyu": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false
+    },
+    "roaringmoon": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "ironvaliant": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": true
+    },
+    "koraidon": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false
+    },
+    "miraidon": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false
     }
 }

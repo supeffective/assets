@@ -1,7 +1,7 @@
 {
     "id": "shroodle",
-    "nid": "0968",
-    "dexNum": 968,
+    "nid": "0944",
+    "dexNum": 944,
     "formId": null,
     "name": "Shroodle",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Shroodle",
         "serebii": "shroodle",
         "bulbapedia": "Shroodle",
-        "homeSprite": "0968",
-        "miniSprite": "0968"
+        "homeSprite": "0944",
+        "miniSprite": "0944"
     },
     "baseSpecies": null,
     "baseForms": [],

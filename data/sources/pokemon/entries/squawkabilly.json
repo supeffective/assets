@@ -1,7 +1,7 @@
 {
     "id": "squawkabilly",
-    "nid": "0960",
-    "dexNum": 960,
+    "nid": "0931",
+    "dexNum": 931,
     "formId": null,
     "name": "Squawkabilly",
     "formName": "Green-feathered",
@@ -82,8 +82,8 @@
         "showdownDef": "Squawkabilly",
         "serebii": "squawkabilly",
         "bulbapedia": "Squawkabilly",
-        "homeSprite": "0960",
-        "miniSprite": "0960"
+        "homeSprite": "0931",
+        "miniSprite": "0931"
     },
     "baseSpecies": null,
     "baseForms": [],

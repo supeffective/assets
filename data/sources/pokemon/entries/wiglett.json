@@ -1,7 +1,7 @@
 {
     "id": "wiglett",
-    "nid": "0929",
-    "dexNum": 929,
+    "nid": "0960",
+    "dexNum": 960,
     "formId": null,
     "name": "Wiglett",
     "formName": null,
@@ -82,8 +82,8 @@
         "showdownDef": "Wiglett",
         "serebii": "wiglett",
         "bulbapedia": "Wiglett",
-        "homeSprite": "0929",
-        "miniSprite": "0929"
+        "homeSprite": "0960",
+        "miniSprite": "0960"
     },
     "baseSpecies": null,
     "baseForms": [],

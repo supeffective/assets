@@ -13,10 +13,7 @@ require_once __DIR__ . '/_bootstrap.php';
     error_reporting(-1);
 
     $dataSet = sgg_get_merged_pkm_entries();
-    $dataSetById = [];
-    foreach ($dataSet as $data) {
-        $dataSetById[$data['id']] = $data;
-    }
+    $dataSetById = sgg_get_merged_pkm_entries_by_id();
 
     $saveMergedPokemonEntries = static function () use ($dataSet, $dataSetById) {
         sgg_data_save(SGG_PKM_ENTRIES_BASE_FILENAME . '.json', $dataSet, minify: false);
@@ -275,6 +272,84 @@ require_once __DIR__ . '/_bootstrap.php';
         sgg_data_save("builds/pokemon/pokemon-event-only.json", $pkmIds, minify: false);
     };
 
+    $generateNewFormatPokemonList = static function () use ($dataSet, $dataSetById): void{
+        $data = [];
+        $sortedPokemonIds = sgg_get_sorted_pokemon_ids();
+
+        foreach ($sortedPokemonIds as $pkid) {
+            $pkm = $dataSetById[$pkid];
+
+            if ($pkm['isForm'] === $pkm['isDefault']) {
+                throw new \Exception("in $pkid , isForm=isDefault");
+            }
+
+            $data[] = [
+                'id' => $pkm['id'],
+                'dexNum' => $pkm['dexNum'],
+                'dexNumId' => $pkm['nid'],
+                'name' => $pkm['name'],
+                'form' => [
+                    'isForm' => $pkm['isForm'] === true,
+                    'formName' => $pkm['formName'],
+                    'formId' => $pkm['formId'],
+                    'speciesId' => $pkm['baseSpecies'],
+                ],
+                'type1' => $pkm['type1'],
+                'type2' => $pkm['type2'],
+                'abilities' => array_merge($pkm['abilities'], ['special' => null]),
+                'eggGroup1' => null,
+                'eggGroup2' => null,
+                'color' => $pkm['color'],
+                'weight' => $pkm['weight']['avg'],
+                'height' => $pkm['height']['avg'],
+                'maleRatio' => $pkm['maleRate'],
+                'femaleRatio' => $pkm['femaleRate'],
+                'baseStats' => $pkm['baseStats'],
+                'refs' => $pkm['refs'],
+                'flags' => [
+                    "isLegendary" => $pkm['isLegendary'],
+                    "isMythical" => $pkm['isMythical'],
+                    "isUltraBeast" => $pkm['isUltraBeast'],
+                    // ultraBeastCode
+                    "ultraBeastCode" => $pkm['ultraBeastCode'],
+                    "isSpecialAbilityForm" => $pkm['isSpecialAbilityForm'],
+                    "isCosmeticForm" => $pkm['isCosmeticForm'],
+                    "isFemaleForm" => $pkm['isFemaleForm'],
+                    "hasGenderDifferences" => $pkm['hasGenderDifferences'],
+                    "isBattleOnlyForm" => $pkm['isBattleOnlyForm'],
+                    "isSwitchableForm" => $pkm['isSwitchableForm'],
+                    "isFusion" => $pkm['isFusion'],
+                    // fusedWith
+                    "fusedWith" => $pkm['fusedWith'],
+                    "isMega" => $pkm['isMega'],
+                    "isPrimal" => $pkm['isPrimal'],
+                    "isRegional" => $pkm['isRegional'],
+                    "isGmax" => $pkm['isGmax'],
+                    "canGmax" => $pkm['canGmax'],
+                    "canDynamax" => $pkm['canDynamax'],
+                    "canBeAlpha" => $pkm['canBeAlpha'],
+                    "shinyReleased" => $pkm['shinyReleased'],
+                    // shinyBase (eg. for alcremie, minior)
+                    "shinyBase" => $pkm['shinyBase'],
+                ],
+                'location' => [
+                    'originGeneration' => $pkm['generation'],
+                    'originRegion' => $pkm['region'],
+                    "originGames" => $pkm['debutIn'],
+                    "obtainableIn" => $pkm['obtainableIn'],
+                    "versionExclusiveIn" => $pkm['versionExclusiveIn'],
+                    "eventOnlyIn" => $pkm['eventOnlyIn'],
+                    "storableIn" => $pkm['storableIn']
+                ],
+                'evolvesFrom' => null,
+                'changesFrom' => $pkm['baseForms'],
+                'formsOrder' => $pkm['forms'],
+            ];
+        }
+
+        sgg_data_save("builds/pokemon-full-v2.json", $data, minify: false);
+    };
+
     // run TASKS:
 
     $saveMergedPokemonEntries();
@@ -295,6 +370,8 @@ require_once __DIR__ . '/_bootstrap.php';
 
     $prettifyAllJsonFiles();
     $minifyAllJsonFiles();
+
+    $generateNewFormatPokemonList();
 
     echo "[OK] Build finished!\n";
 })();
