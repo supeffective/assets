@@ -4314,38 +4314,39 @@
     },
     "onix": {
         "obtainableIn": [
-            "bdsp",
+            "rb",
+            "y",
             "frlg",
             "go",
-            "la",
+            "usum",
             "lgpe",
-            "rb",
             "swsh",
-            "y"
+            "bdsp",
+            "la"
         ],
         "storableIn": [
-            "b2w2",
-            "bdsp",
-            "bw",
-            "c",
-            "dp",
-            "e",
-            "frlg",
-            "go",
-            "gs",
-            "hgss",
-            "home",
-            "la",
-            "lgpe",
-            "oras",
-            "pt",
             "rb",
+            "y",
+            "gs",
+            "c",
             "rs",
-            "sm",
-            "swsh",
-            "usum",
+            "frlg",
+            "e",
+            "dp",
+            "pt",
+            "hgss",
+            "bw",
+            "b2w2",
             "xy",
-            "y"
+            "oras",
+            "go",
+            "sm",
+            "usum",
+            "lgpe",
+            "swsh",
+            "home",
+            "bdsp",
+            "la"
         ],
         "shinyReleased": true
     },
@@ -6794,27 +6795,27 @@
             "bdsp"
         ],
         "storableIn": [
-            "b2w2",
-            "bdsp",
-            "bw",
-            "c",
-            "dp",
-            "e",
-            "frlg",
-            "go",
-            "gs",
-            "hgss",
-            "home",
-            "lgpe",
-            "oras",
-            "pt",
             "rb",
+            "y",
+            "gs",
+            "c",
             "rs",
-            "sm",
-            "swsh",
-            "usum",
+            "frlg",
+            "e",
+            "dp",
+            "pt",
+            "hgss",
+            "bw",
+            "b2w2",
             "xy",
-            "y"
+            "oras",
+            "go",
+            "sm",
+            "usum",
+            "lgpe",
+            "swsh",
+            "home",
+            "bdsp"
         ],
         "shinyReleased": true
     },
@@ -9758,34 +9759,35 @@
     },
     "steelix": {
         "obtainableIn": [
-            "bdsp",
-            "c",
-            "go",
             "gs",
+            "c",
             "hgss",
-            "la",
-            "swsh"
+            "go",
+            "usum",
+            "swsh",
+            "bdsp",
+            "la"
         ],
         "storableIn": [
-            "b2w2",
-            "bdsp",
-            "bw",
-            "c",
-            "dp",
-            "e",
-            "frlg",
-            "go",
             "gs",
-            "hgss",
-            "home",
-            "la",
-            "oras",
-            "pt",
+            "c",
             "rs",
+            "frlg",
+            "e",
+            "dp",
+            "pt",
+            "hgss",
+            "bw",
+            "b2w2",
+            "xy",
+            "oras",
+            "go",
             "sm",
-            "swsh",
             "usum",
-            "xy"
+            "swsh",
+            "home",
+            "bdsp",
+            "la"
         ],
         "shinyReleased": true
     },
@@ -9793,6 +9795,7 @@
         "obtainableIn": [
             "hgss",
             "go",
+            "usum",
             "swsh",
             "bdsp",
             "la"
@@ -22306,21 +22309,23 @@
     },
     "zorua": {
         "obtainableIn": [
-            "b2w2",
             "bw",
-            "sv",
-            "swsh"
+            "b2w2",
+            "go",
+            "swsh",
+            "sv"
         ],
         "storableIn": [
-            "b2w2",
             "bw",
-            "home",
+            "b2w2",
+            "xy",
             "oras",
+            "go",
             "sm",
-            "sv",
-            "swsh",
             "usum",
-            "xy"
+            "swsh",
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
@@ -22336,21 +22341,23 @@
     },
     "zoroark": {
         "obtainableIn": [
-            "b2w2",
             "bw",
-            "sv",
-            "swsh"
+            "b2w2",
+            "go",
+            "swsh",
+            "sv"
         ],
         "storableIn": [
-            "b2w2",
             "bw",
-            "home",
+            "b2w2",
+            "xy",
             "oras",
+            "go",
             "sm",
-            "sv",
-            "swsh",
             "usum",
-            "xy"
+            "swsh",
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
@@ -24180,17 +24187,19 @@
     },
     "keldeo": {
         "obtainableIn": [
+            "go",
             "swsh"
         ],
         "storableIn": [
-            "b2w2",
             "bw",
-            "home",
+            "b2w2",
+            "xy",
             "oras",
+            "go",
             "sm",
-            "swsh",
             "usum",
-            "xy"
+            "swsh",
+            "home"
         ],
         "shinyReleased": false
     },
@@ -24555,265 +24564,305 @@
     },
     "scatterbug": {
         "obtainableIn": [
-            "sv",
-            "xy"
+            "xy",
+            "go",
+            "sv"
         ],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
-            "sv",
             "usum",
-            "xy"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "spewpa": {
         "obtainableIn": [
-            "sv",
-            "xy"
+            "xy",
+            "go",
+            "sv"
         ],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
-            "sv",
             "usum",
-            "xy"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "vivillon": {
         "obtainableIn": [
-            "xy"
+            "xy",
+            "go"
         ],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "xy"
+            "home"
         ],
         "shinyReleased": true
     },
     "vivillon-meadow": {
         "obtainableIn": [
-            "xy"
+            "xy",
+            "go"
         ],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "xy"
+            "home"
         ],
         "shinyReleased": true
     },
     "vivillon-polar": {
         "obtainableIn": [
-            "xy"
+            "xy",
+            "go"
         ],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "xy"
+            "home"
         ],
         "shinyReleased": true
     },
     "vivillon-tundra": {
         "obtainableIn": [
-            "xy"
+            "xy",
+            "go"
         ],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "xy"
+            "home"
         ],
         "shinyReleased": true
     },
     "vivillon-continental": {
         "obtainableIn": [
-            "xy"
+            "xy",
+            "go"
         ],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "xy"
+            "home"
         ],
         "shinyReleased": true
     },
     "vivillon-garden": {
         "obtainableIn": [
-            "xy"
+            "xy",
+            "go"
         ],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "xy"
+            "home"
         ],
         "shinyReleased": true
     },
     "vivillon-elegant": {
         "obtainableIn": [
-            "xy"
+            "xy",
+            "go"
         ],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "xy"
+            "home"
         ],
         "shinyReleased": true
     },
     "vivillon-modern": {
         "obtainableIn": [
-            "xy"
+            "xy",
+            "go"
         ],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "xy"
+            "home"
         ],
         "shinyReleased": true
     },
     "vivillon-marine": {
         "obtainableIn": [
-            "xy"
+            "xy",
+            "go"
         ],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "xy"
+            "home"
         ],
         "shinyReleased": true
     },
     "vivillon-archipelago": {
         "obtainableIn": [
-            "xy"
+            "xy",
+            "go"
         ],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "xy"
+            "home"
         ],
         "shinyReleased": true
     },
     "vivillon-high-plains": {
         "obtainableIn": [
-            "xy"
+            "xy",
+            "go"
         ],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "xy"
+            "home"
         ],
         "shinyReleased": true
     },
     "vivillon-sandstorm": {
         "obtainableIn": [
-            "xy"
+            "xy",
+            "go"
         ],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "xy"
+            "home"
         ],
         "shinyReleased": true
     },
     "vivillon-river": {
         "obtainableIn": [
-            "xy"
+            "xy",
+            "go"
         ],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "xy"
+            "home"
         ],
         "shinyReleased": true
     },
     "vivillon-monsoon": {
         "obtainableIn": [
-            "xy"
+            "xy",
+            "go"
         ],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "xy"
+            "home"
         ],
         "shinyReleased": true
     },
     "vivillon-savanna": {
         "obtainableIn": [
-            "xy"
+            "xy",
+            "go"
         ],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "xy"
+            "home"
         ],
         "shinyReleased": true
     },
     "vivillon-sun": {
         "obtainableIn": [
-            "xy"
+            "xy",
+            "go"
         ],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "xy"
+            "home"
         ],
         "shinyReleased": true
     },
     "vivillon-ocean": {
         "obtainableIn": [
-            "xy"
+            "xy",
+            "go"
         ],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "xy"
+            "home"
         ],
         "shinyReleased": true
     },
     "vivillon-jungle": {
         "obtainableIn": [
-            "xy"
+            "xy",
+            "go"
         ],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "xy"
+            "home"
         ],
         "shinyReleased": true
     },
@@ -26651,29 +26700,33 @@
     },
     "crabrawler": {
         "obtainableIn": [
+            "go",
             "sm",
-            "sv",
-            "usum"
+            "usum",
+            "sv"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
-            "sv",
-            "usum"
+            "usum",
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "crabominable": {
         "obtainableIn": [
+            "go",
             "sm",
-            "sv",
-            "usum"
+            "usum",
+            "sv"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
-            "sv",
-            "usum"
+            "usum",
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
@@ -26876,33 +26929,37 @@
     },
     "mareanie": {
         "obtainableIn": [
+            "go",
             "sm",
-            "sv",
+            "usum",
             "swsh",
-            "usum"
+            "sv"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
-            "sv",
+            "usum",
             "swsh",
-            "usum"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "toxapex": {
         "obtainableIn": [
+            "go",
             "sm",
-            "sv",
+            "usum",
             "swsh",
-            "usum"
+            "sv"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
-            "sv",
+            "usum",
             "swsh",
-            "usum"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
@@ -27008,29 +27065,33 @@
     },
     "morelull": {
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true
     },
     "shiinotic": {
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true
     },
@@ -27859,43 +27920,49 @@
     },
     "cosmoem": {
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": false
     },
     "solgaleo": {
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true
     },
     "lunala": {
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true
     },
@@ -27997,15 +28064,17 @@
     },
     "guzzlord": {
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true
     },
@@ -30077,9 +30146,11 @@
     },
     "ursaluna": {
         "obtainableIn": [
+            "go",
             "la"
         ],
         "storableIn": [
+            "go",
             "home",
             "la"
         ],
@@ -31072,7 +31143,7 @@
         "storableIn": [
             "sv"
         ],
-        "shinyReleased": true
+        "shinyReleased": false
     },
     "gimmighoul-roaming": {
         "obtainableIn": [
@@ -31081,7 +31152,7 @@
         "storableIn": [
             "sv"
         ],
-        "shinyReleased": true
+        "shinyReleased": false
     },
     "gholdengo": {
         "obtainableIn": [
@@ -31090,7 +31161,7 @@
         "storableIn": [
             "sv"
         ],
-        "shinyReleased": true
+        "shinyReleased": false
     },
     "wochien": {
         "obtainableIn": [

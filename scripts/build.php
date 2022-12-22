@@ -32,12 +32,15 @@ require_once __DIR__ . '/_bootstrap.php';
                 'isForm' => $pkm['isForm'],
                 'baseSpecies' => $pkm['baseSpecies'],
                 'baseForms' => $pkm['baseForms'],
-                'shinyReleased' => $pkm['shinyReleased'],
-                'shinyBase' => $pkm['shinyBase'],
                 'obtainableIn' => $pkm['obtainableIn'],
                 'versionExclusiveIn' => $pkm['versionExclusiveIn'],
                 'eventOnlyIn' => $pkm['eventOnlyIn'],
                 'storableIn' => $pkm['storableIn'],
+                'shinyReleased' => $pkm['shinyReleased'],
+                'shinyBase' => $pkm['shinyBase'],
+                "isGmax" => $pkm['isGmax'],
+                "canGmax" => $pkm['canGmax'],
+                "canBeAlpha" => $pkm['canBeAlpha']
             ];
         }
         sgg_data_save(SGG_PKM_ENTRIES_BASE_FILENAME . '-minimal.json', $minimalDataSet, minify: false);

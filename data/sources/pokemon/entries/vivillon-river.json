@@ -38,16 +38,18 @@
     "canBeAlpha": false,
     "debutIn": "xy",
     "obtainableIn": [
-        "xy"
+        "xy",
+        "go"
     ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
     "storableIn": [
-        "home",
+        "xy",
         "oras",
+        "go",
         "sm",
         "usum",
-        "xy"
+        "home"
     ],
     "shinyReleased": true,
     "shinyBase": null,

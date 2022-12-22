@@ -29,7 +29,6 @@ migrate:
 
 preview:
 	docker-compose up -d previewer
-	docker-compose run --rm previewer make
 	open http://localhost:8080/
 
 .PHONY: build import-sources validate migrate

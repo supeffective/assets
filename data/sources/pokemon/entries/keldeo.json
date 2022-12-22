@@ -38,6 +38,7 @@
     "canBeAlpha": false,
     "debutIn": "bw",
     "obtainableIn": [
+        "go",
         "swsh"
     ],
     "versionExclusiveIn": [],
@@ -46,14 +47,15 @@
         "oras"
     ],
     "storableIn": [
-        "b2w2",
         "bw",
-        "home",
+        "b2w2",
+        "xy",
         "oras",
+        "go",
         "sm",
-        "swsh",
         "usum",
-        "xy"
+        "swsh",
+        "home"
     ],
     "shinyReleased": false,
     "shinyBase": null,
