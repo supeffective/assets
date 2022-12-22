@@ -41597,11 +41597,13 @@
         "baseSpecies": "avalugg",
         "baseForms": [],
         "obtainableIn": [
+            "go",
             "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
+            "go",
             "home",
             "la"
         ],

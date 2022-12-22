@@ -26211,9 +26211,11 @@
     },
     "avalugg-hisui": {
         "obtainableIn": [
+            "go",
             "la"
         ],
         "storableIn": [
+            "go",
             "home",
             "la"
         ],

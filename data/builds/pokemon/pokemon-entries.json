@@ -117603,11 +117603,13 @@
         "canBeAlpha": true,
         "debutIn": "la",
         "obtainableIn": [
+            "go",
             "la"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
+            "go",
             "home",
             "la"
         ],
