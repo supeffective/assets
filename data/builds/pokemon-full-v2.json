@@ -99684,7 +99684,8 @@
                 "oras",
                 "sm",
                 "usum",
-                "xy"
+                "xy",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -99777,7 +99778,8 @@
                 "oras",
                 "sm",
                 "usum",
-                "xy"
+                "xy",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -99870,7 +99872,8 @@
                 "oras",
                 "sm",
                 "usum",
-                "xy"
+                "xy",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -123660,7 +123663,8 @@
             "eventOnlyIn": [],
             "storableIn": [
                 "home",
-                "swsh"
+                "swsh",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -123748,7 +123752,8 @@
             "eventOnlyIn": [],
             "storableIn": [
                 "home",
-                "swsh"
+                "swsh",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -123836,7 +123841,8 @@
             "eventOnlyIn": [],
             "storableIn": [
                 "home",
-                "swsh"
+                "swsh",
+                "sv"
             ]
         },
         "evolvesFrom": null,

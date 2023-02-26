@@ -38224,7 +38224,8 @@
             "oras",
             "sm",
             "usum",
-            "xy"
+            "xy",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -38253,7 +38254,8 @@
             "oras",
             "sm",
             "usum",
-            "xy"
+            "xy",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -38282,7 +38284,8 @@
             "oras",
             "sm",
             "usum",
-            "xy"
+            "xy",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -45827,7 +45830,8 @@
         "eventOnlyIn": [],
         "storableIn": [
             "home",
-            "swsh"
+            "swsh",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -45851,7 +45855,8 @@
         "eventOnlyIn": [],
         "storableIn": [
             "home",
-            "swsh"
+            "swsh",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -45875,7 +45880,8 @@
         "eventOnlyIn": [],
         "storableIn": [
             "home",
-            "swsh"
+            "swsh",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,

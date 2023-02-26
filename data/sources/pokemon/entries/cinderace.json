@@ -44,7 +44,8 @@
     "eventOnlyIn": [],
     "storableIn": [
         "home",
-        "swsh"
+        "swsh",
+        "sv"
     ],
     "shinyReleased": true,
     "shinyBase": null,

@@ -463,6 +463,19 @@
         },
         {
             "pokemon": [
+                "charmander",
+                "charmeleon",
+                "charizard",
+                "scorbunny",
+                "raboot",
+                "cinderace",
+                "froakie",
+                "frogadier",
+                "greninja"
+            ]
+        },
+        {
+            "pokemon": [
                 "maushold",
                 "dudunsparce-three-segment",
                 "tauros-paldea-fire",
@@ -475,9 +488,9 @@
                 "gimmighoul-roaming",
                 null,
                 null,
-                "charmander",
-                "charmeleon",
-                "charizard",
+                null,
+                null,
+                null,
                 null,
                 null,
                 null,
