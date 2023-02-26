@@ -37,6 +37,12 @@ foreach ($preset['boxes'] as $boxIdx => $box) {
         if (!$pkmId) {
             continue;
         }
+        if (is_array($pkmId) && isset($pkmId['pid'])) {
+            $pkmId = $pkmId['pid'];
+        }
+        if (!array_key_exists($pkmId, $pkmEntries)) {
+            throw new Exception("Entry for '$pkmId' not found.");
+        }
         $pkm = $pkmEntries[$pkmId];
         if ($pkm['isForm']) {
             $formsCount++;
@@ -67,7 +73,12 @@ foreach ($preset['boxes'] as $boxIdx => $box) {
         foreach ($preset['boxes'] as $boxIdx => $box): ?>
             <div class="preset-box">
                 <?php
-                foreach ($box['pokemon'] as $pkmIdx => $pkmId): ?>
+                foreach ($box['pokemon'] as $pkmIdx => $pkmId):
+                    if (is_array($pkmId) && isset($pkmId['pid'])) {
+                        $pkmId = $pkmId['pid'];
+                    }
+
+                    ?>
                     <div class="preset-pkm" title="<?php
                     echo $pkmId ?: '-' ?>"
                     >
@@ -75,13 +86,13 @@ foreach ($preset['boxes'] as $boxIdx => $box) {
                         if ($pkmId): ?>
                             <a href="/pokemon-edit?pid=<?= $pkmId ?>">
                                 <img class="<?= "pkm pkm-{$pkmId}" ?>"
-                                     src="/assets/spritesheets/pokemon/placeholder-64x64.png"
+                                     src="/assets/placeholders/placeholder-64x64.png"
                                      width="64" height="64"
                                 />
                             </a>
                         <?php
                         else: ?>
-                            <img src="/assets/spritesheets/pokemon/placeholder-64x64.png" width="64" height="64" />
+                            <img src="/assets/placeholders/placeholder-64x64.png" width="64" height="64"/>
                         <?php
                         endif; ?>
                     </div>
