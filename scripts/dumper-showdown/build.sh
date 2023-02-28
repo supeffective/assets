@@ -7,10 +7,20 @@ cd /usr/src/app
 
 echo "  >> Running ./dumper-showdown/build.sh"
 
-# install deps
-rm -f package-lock.json
-# npm install
-# npm upgrade pokemon-showdown
+if [[ ! -d "node_modules/pokemon-showdown/.git" ]]; then
+  rm -rf node_modules/pokemon-showdown
+  mkdir -p node_modules
+  cd node_modules
+  git clone https://github.com/smogon/pokemon-showdown.git
+  cd -
+  npm install
+  rm -f package-lock.json
+else
+  cd node_modules/pokemon-showdown
+  git reset --hard
+  git pull
+  cd -
+fi
 
 if [[ ! -f "node_modules/pokemon-showdown/config/config.js" ]]; then
   mkdir -p node_modules/pokemon-showdown/config

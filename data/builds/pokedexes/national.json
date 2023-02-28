@@ -7571,5 +7571,40 @@
         "forms": [
             "miraidon"
         ]
+    },
+    {
+        "id": "walkingwake",
+        "dexNum": 1009,
+        "forms": []
+    },
+    {
+        "id": "ironleaves",
+        "dexNum": 1010,
+        "forms": []
+    },
+    {
+        "id": "munkidori",
+        "dexNum": 0,
+        "forms": []
+    },
+    {
+        "id": "okidogi",
+        "dexNum": 0,
+        "forms": []
+    },
+    {
+        "id": "fezandipiti",
+        "dexNum": 0,
+        "forms": []
+    },
+    {
+        "id": "ogerpon",
+        "dexNum": 0,
+        "forms": []
+    },
+    {
+        "id": "terapagos",
+        "dexNum": 0,
+        "forms": []
     }
 ]

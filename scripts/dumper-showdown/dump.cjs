@@ -3,7 +3,7 @@ const glob = require('glob')
 const path = require('path')
 
 const srcPath = path.resolve(
-  __dirname + '/node_modules/pokemon-showdown/.data-dist'
+  __dirname + '/node_modules/pokemon-showdown/dist/data'
 )
 const destPath = __dirname + '/build'
 

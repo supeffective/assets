@@ -31242,5 +31242,48 @@
             "sv"
         ],
         "shinyReleased": false
+    },
+    "walkingwake": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false
+    },
+    "ironleaves": {
+        "obtainableIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false
+    },
+    "munkidori": {
+        "obtainableIn": [],
+        "storableIn": [],
+        "shinyReleased": false
+    },
+    "okidogi": {
+        "obtainableIn": [],
+        "storableIn": [],
+        "shinyReleased": false
+    },
+    "fezandipiti": {
+        "obtainableIn": [],
+        "storableIn": [],
+        "shinyReleased": false
+    },
+    "ogerpon": {
+        "obtainableIn": [],
+        "storableIn": [],
+        "shinyReleased": false
+    },
+    "terapagos": {
+        "obtainableIn": [],
+        "storableIn": [],
+        "shinyReleased": false
     }
 }

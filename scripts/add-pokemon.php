@@ -36,10 +36,19 @@ require_once __DIR__ . '/_bootstrap.php';
 
 
     $pkm = array_merge($dataTemplateArr, [
-            'id' => $pkmId,
-            'name' => ucfirst($pkmId),
-            'formId' => $pkForm,
-            'formName' => ($pkForm ? ucfirst($pkForm) : null)]
+        'id' => $pkmId,
+        'name' => ucfirst($pkmId),
+        'formId' => $pkForm,
+        'formName' => ($pkForm ? ucfirst($pkForm) : null),
+        'refs' => array_merge($dataTemplateArr['refs'], [
+            "showdown" => $pkmId,
+            "showdownDef" => ucfirst($pkmId),
+            "serebii" => $pkmId,
+            "bulbapedia" => ucfirst($pkmId),
+            "homeSprite" => "0000-" . $pkmId,
+            "miniSprite" => "0000-" . $pkmId
+        ])
+    ],
     );
     $pokeIndex[] = $pkmId;
 

@@ -53153,5 +53153,150 @@
         "isGmax": false,
         "canGmax": false,
         "canBeAlpha": false
+    },
+    {
+        "id": "walkingwake",
+        "dexNum": 1009,
+        "name": "Walking Wake",
+        "type1": "water",
+        "type2": "dragon",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false,
+        "shinyBase": null,
+        "isGmax": false,
+        "canGmax": false,
+        "canBeAlpha": false
+    },
+    {
+        "id": "ironleaves",
+        "dexNum": 1010,
+        "name": "Iron Leaves",
+        "type1": "grass",
+        "type2": "psychic",
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "obtainableIn": [
+            "sv"
+        ],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [
+            "sv"
+        ],
+        "storableIn": [
+            "sv"
+        ],
+        "shinyReleased": false,
+        "shinyBase": null,
+        "isGmax": false,
+        "canGmax": false,
+        "canBeAlpha": false
+    },
+    {
+        "id": "munkidori",
+        "dexNum": 0,
+        "name": "Munkidori",
+        "type1": "normal",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "obtainableIn": [],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [],
+        "shinyReleased": false,
+        "shinyBase": null,
+        "isGmax": false,
+        "canGmax": false,
+        "canBeAlpha": false
+    },
+    {
+        "id": "okidogi",
+        "dexNum": 0,
+        "name": "Okidogi",
+        "type1": "normal",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "obtainableIn": [],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [],
+        "shinyReleased": false,
+        "shinyBase": null,
+        "isGmax": false,
+        "canGmax": false,
+        "canBeAlpha": false
+    },
+    {
+        "id": "fezandipiti",
+        "dexNum": 0,
+        "name": "Fezandipiti",
+        "type1": "normal",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "obtainableIn": [],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [],
+        "shinyReleased": false,
+        "shinyBase": null,
+        "isGmax": false,
+        "canGmax": false,
+        "canBeAlpha": false
+    },
+    {
+        "id": "ogerpon",
+        "dexNum": 0,
+        "name": "Ogerpon",
+        "type1": "normal",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "obtainableIn": [],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [],
+        "shinyReleased": false,
+        "shinyBase": null,
+        "isGmax": false,
+        "canGmax": false,
+        "canBeAlpha": false
+    },
+    {
+        "id": "terapagos",
+        "dexNum": 0,
+        "name": "Terapagos",
+        "type1": "normal",
+        "type2": null,
+        "isForm": false,
+        "baseSpecies": null,
+        "baseForms": [],
+        "obtainableIn": [],
+        "versionExclusiveIn": [],
+        "eventOnlyIn": [],
+        "storableIn": [],
+        "shinyReleased": false,
+        "shinyBase": null,
+        "isGmax": false,
+        "canGmax": false,
+        "canBeAlpha": false
     }
 ]

@@ -28,9 +28,12 @@ require_once __DIR__ . '/_bootstrap.php';
         ]);
     }
 
-    $showdownEntries = sgg_json_decode_file(__DIR__ . '/../build/showdown/pokedex.json')['Pokedex'];
+    $showdownEntries = sgg_json_decode_file(__DIR__ . '/dumper-showdown/dist/pokedex.json')['Pokedex'];
 
-    $importData = static function (array $entry, array $showdownEntry) use ($entries, $showdownEntries) {
+    $importData = static function (array $entry, array|null $showdownEntry) use ($entries, $showdownEntries) {
+        if ($showdownEntry === null) {
+            return;
+        }
         if (!isset($showdownEntry['baseStats']) && $entry['isForm'] && $entry['baseSpecies']) {
             $showdownEntry = $showdownEntries[$entries[$entry['baseSpecies']]['refs']['showdown']] ?? [];
         }
@@ -88,10 +91,15 @@ require_once __DIR__ . '/_bootstrap.php';
         if (!in_array($id, $showdownIgnore) && $data['dexNum'] < $showdownIgnoreFromDexNum) {
             $showdownId = isset($showdownMapping[$id]) ? $showdownMapping[$id] : ($data['refs']['showdown'] ?? '???');
             if (!isset($showdownEntries[$showdownId])) {
-                echo "Missing or wrong showdown ID '" . $data['refs']['showdown'] . "' for pokemon $id\n";
+                echo "Missing or wrong showdown ID '" . $showdownId. "' for pokemon $id\n";
+                continue;
             }
 
             $data = $importData($data, $showdownEntries[$showdownId]);
+        }
+        if (!$data) {
+            echo "No showdown data found for $id";
+            continue;
         }
         sgg_data_save(filename: 'sources/pokemon/entries/' . $id . '.json', data: $data, minify: false);
     }

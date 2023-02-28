@@ -1,19 +1,19 @@
 {
-    "id": "flittle",
-    "nid": "0955",
-    "dexNum": 955,
+    "id": "ogerpon",
+    "nid": "0000",
+    "dexNum": 0,
     "formId": null,
-    "name": "Flittle",
+    "name": "Ogerpon",
     "formName": null,
     "region": "paldea",
     "generation": 9,
-    "type1": "psychic",
+    "type1": "normal",
     "type2": null,
-    "color": "yellow",
+    "color": "white",
     "abilities": {
-        "primary": "Anticipation",
-        "secondary": "Frisk",
-        "hidden": "Speed Boost"
+        "primary": "pressure",
+        "secondary": null,
+        "hidden": null
     },
     "isLegendary": false,
     "isMythical": false,
@@ -37,23 +37,19 @@
     "canDynamax": false,
     "canBeAlpha": false,
     "debutIn": "sv",
-    "obtainableIn": [
-        "sv"
-    ],
+    "obtainableIn": [],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
-    "storableIn": [
-        "sv"
-    ],
-    "shinyReleased": true,
+    "storableIn": [],
+    "shinyReleased": false,
     "shinyBase": null,
     "baseStats": {
-        "hp": 30,
-        "atk": 35,
-        "def": 30,
-        "spa": 55,
-        "spd": 30,
-        "spe": 75
+        "hp": -1,
+        "atk": -1,
+        "def": -1,
+        "spa": -1,
+        "spd": -1,
+        "spe": -1
     },
     "goStats": {
         "atk": -1,
@@ -61,13 +57,13 @@
         "sta": -1
     },
     "weight": {
-        "avg": 1.5,
+        "avg": -1,
         "min": -1,
         "max": -1,
         "alpha": -1
     },
     "height": {
-        "avg": 0.2,
+        "avg": -1,
         "min": -1,
         "max": -1,
         "alpha": -1
@@ -75,20 +71,18 @@
     "maleRate": -1,
     "femaleRate": -1,
     "refs": {
-        "pogo": "FLITTLE",
-        "veekunDb": "flittle",
-        "smogon": "flittle",
-        "showdown": "flittle",
-        "showdownDef": "Flittle",
-        "serebii": "flittle",
-        "bulbapedia": "Flittle",
-        "homeSprite": "0955",
-        "miniSprite": "0955"
+        "pogo": "???",
+        "veekunDb": "???",
+        "smogon": "???",
+        "showdown": "ogerpon",
+        "showdownDef": "Ogerpon",
+        "serebii": "???",
+        "bulbapedia": "???",
+        "homeSprite": "0000-ogerpon",
+        "miniSprite": "0000-ogerpon"
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [
-        "flittle"
-    ],
+    "forms": [],
     "evolutions": []
 }
