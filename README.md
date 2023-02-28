@@ -19,6 +19,24 @@ You will need Linux or MacOS for the scripts to work, with PHP 8.1 or greater.
 Optionally, you can also run it via `docker-compose` if you have Docker installed.
 
 
+### Adding a new Pokémon
+
+Example:
+
+```shell
+php scripts/add-pokemon.php ironleaves
+```
+
+The first argument is the Pokemon slug.
+This will add the necessary entry files, that you can later complete manually.
+
+### Importing latest Showdown data
+
+```shell
+make showdown
+```
+
+
 ### How to preview changes
 
 This repository contains very simple front-end web pages to visually preview the changes done in the build files
