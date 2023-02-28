@@ -1,28 +1,47 @@
 #!/usr/bin/env bash
 
-rm -rf "${OUTPUT_DIR}" ./dist
-mkdir -p "${OUTPUT_DIR}"
+set -e
 
-if [[ ! -d "node_modules/pokemon-showdown" ]]; then
-  npm install || exit 1
+# cd to /scripts/dumper-showdown
+cd /usr/src/app
+
+echo "  >> Running ./dumper-showdown/build.sh"
+
+# install deps
+rm -f package-lock.json
+# npm install
+# npm upgrade pokemon-showdown
+
+if [[ ! -f "node_modules/pokemon-showdown/config/config.js" ]]; then
+  mkdir -p node_modules/pokemon-showdown/config
+  cp -f config-example.cjs node_modules/pokemon-showdown/config.js
+  cp -f config-example.cjs node_modules/pokemon-showdown/config-example.js
+  cp -f config-example.cjs node_modules/pokemon-showdown/config/config.js
+  cp -f config-example.cjs node_modules/pokemon-showdown/config/config-example.js
 fi
 
-if [[ ! -f "node_modules/pokemon-showdown/config/config-example.js" ]]; then
-  cp config-example.js node_modules/pokemon-showdown/config/config-example.js
-fi
-
-# shellcheck disable=SC2164
+# build showdown project
 cd node_modules/pokemon-showdown
 npm run build || exit 1 # build showdown project
-# shellcheck disable=SC2164
-# shellcheck disable=SC2103
 cd -
 
-node dump.js || exit 1
+# generate JSON files
+node dump.cjs || exit 1
 
-sleep 3
-cp -R ./dist/.data-dist/* "${OUTPUT_DIR}"
+if [[ ! -f "./build/pokedex.json" ]]; then
+  echo "JSON files haven't been correctly generated under ./build/data"
+  exit 1
+fi
 
-sleep 3
-rm -f "${OUTPUT_DIR}/**/*.js"
-rm -rf "${OUTPUT_DIR}/mods" "${OUTPUT_DIR}/text"
+# copy generated files
+sleep 2
+mkdir -p ./dist
+cp -R ./build/*.json ./dist
+
+# cleanup
+sleep 2
+rm -rf ./build
+rm -f "./dist/**/*.js" ./dist/mods_*
+rm -rf "./dist/mods" "./dist/text"
+
+echo "DONE."
