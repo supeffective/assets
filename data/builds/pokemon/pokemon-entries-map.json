@@ -23386,8 +23386,8 @@
             "pogo": "TAUROS_PALDEA",
             "veekunDb": "tauros-paldea",
             "smogon": "tauros-paldea",
-            "showdown": "taurospaldea",
-            "showdownDef": "Tauros-Paldea",
+            "showdown": "taurospaldeacombat",
+            "showdownDef": "Tauros-Paldea-Combat",
             "serebii": "Tauros",
             "bulbapedia": "Tauros_Paldea",
             "homeSprite": "0128-paldea",
@@ -23478,8 +23478,8 @@
             "pogo": "TAUROS_PALDEA_FIRE",
             "veekunDb": "tauros-paldea-fire",
             "smogon": "tauros-paldea-fire",
-            "showdown": "taurospaldeafire",
-            "showdownDef": "Tauros-Paldea-Fire",
+            "showdown": "taurospaldeablaze",
+            "showdownDef": "Tauros-Paldea-Blaze",
             "serebii": "Tauros",
             "bulbapedia": "Tauros_Paldea_Fire",
             "homeSprite": "0128-paldea-fire",
@@ -23570,8 +23570,8 @@
             "pogo": "TAUROS_PALDEA_WATER",
             "veekunDb": "tauros-paldea-water",
             "smogon": "tauros-paldea-water",
-            "showdown": "taurospaldeawater",
-            "showdownDef": "Tauros-Paldea-Water",
+            "showdown": "taurospaldeaaqua",
+            "showdownDef": "Tauros-Paldea-Aqua",
             "serebii": "Tauros",
             "bulbapedia": "Tauros_Paldea_Water",
             "homeSprite": "0128-paldea-water",
@@ -95312,12 +95312,12 @@
         "shinyReleased": true,
         "shinyBase": null,
         "baseStats": {
-            "hp": 60,
-            "atk": 105,
+            "hp": 55,
+            "atk": 100,
             "def": 60,
-            "spa": 120,
+            "spa": 125,
             "spd": 60,
-            "spe": 105
+            "spe": 110
         },
         "goStats": {
             "atk": -1,
@@ -119485,7 +119485,7 @@
         "abilities": {
             "primary": "Overgrow",
             "secondary": null,
-            "hidden": "Long Reach"
+            "hidden": "Scrappy"
         },
         "isLegendary": false,
         "isMythical": false,
@@ -152524,7 +152524,7 @@
         "abilities": {
             "primary": "Well-Baked Body",
             "secondary": null,
-            "hidden": null
+            "hidden": "Aroma Veil"
         },
         "isLegendary": false,
         "isMythical": false,
@@ -153595,7 +153595,7 @@
             "def": 40,
             "spa": 50,
             "spd": 40,
-            "spe": 30
+            "spe": 35
         },
         "goStats": {
             "atk": -1,
@@ -155474,7 +155474,7 @@
             "atk": 35,
             "def": 30,
             "spa": 55,
-            "spd": 40,
+            "spd": 30,
             "spe": 75
         },
         "goStats": {
@@ -157266,7 +157266,7 @@
             "sta": -1
         },
         "weight": {
-            "avg": 379,
+            "avg": 37,
             "min": -1,
             "max": -1,
             "alpha": -1
@@ -157311,7 +157311,7 @@
         "color": "white",
         "abilities": {
             "primary": "Thick Fat",
-            "secondary": "Slush Rush",
+            "secondary": "Snow Cloak",
             "hidden": "Sheer Force"
         },
         "isLegendary": false,
@@ -158754,7 +158754,7 @@
         "shinyReleased": true,
         "shinyBase": null,
         "baseStats": {
-            "hp": 115,
+            "hp": 111,
             "atk": 127,
             "def": 99,
             "spa": 79,
@@ -160122,8 +160122,8 @@
         "formName": null,
         "region": "paldea",
         "generation": 9,
-        "type1": "ghost",
-        "type2": "steel",
+        "type1": "steel",
+        "type2": "ghost",
         "color": "yellow",
         "abilities": {
             "primary": "Good as Gold",
@@ -160447,8 +160447,8 @@
         "baseStats": {
             "hp": 155,
             "atk": 110,
-            "def": 130,
-            "spa": 50,
+            "def": 125,
+            "spa": 55,
             "spd": 80,
             "spe": 45
         },
@@ -161011,12 +161011,12 @@
         "shinyReleased": false,
         "shinyBase": null,
         "baseStats": {
-            "hp": -1,
-            "atk": -1,
-            "def": -1,
-            "spa": -1,
-            "spd": -1,
-            "spe": -1
+            "hp": 99,
+            "atk": 83,
+            "def": 91,
+            "spa": 125,
+            "spd": 83,
+            "spe": 109
         },
         "goStats": {
             "atk": -1,
@@ -161024,13 +161024,13 @@
             "sta": -1
         },
         "weight": {
-            "avg": -1,
+            "avg": 280,
             "min": -1,
             "max": -1,
             "alpha": -1
         },
         "height": {
-            "avg": -1,
+            "avg": 3.5,
             "min": -1,
             "max": -1,
             "alpha": -1
@@ -161040,11 +161040,11 @@
         "refs": {
             "pogo": "???",
             "veekunDb": "???",
-            "smogon": "???",
-            "showdown": "???",
-            "showdownDef": "???",
-            "serebii": "???",
-            "bulbapedia": "???",
+            "smogon": "walkingwake",
+            "showdown": "walkingwake",
+            "showdownDef": "Walking Wake",
+            "serebii": "walkingwake",
+            "bulbapedia": "Walking_Wake",
             "homeSprite": "1009",
             "miniSprite": "1009"
         },
@@ -161105,12 +161105,12 @@
         "shinyReleased": false,
         "shinyBase": null,
         "baseStats": {
-            "hp": -1,
-            "atk": -1,
-            "def": -1,
-            "spa": -1,
-            "spd": -1,
-            "spe": -1
+            "hp": 90,
+            "atk": 130,
+            "def": 88,
+            "spa": 70,
+            "spd": 108,
+            "spe": 104
         },
         "goStats": {
             "atk": -1,
@@ -161118,13 +161118,13 @@
             "sta": -1
         },
         "weight": {
-            "avg": -1,
+            "avg": 125,
             "min": -1,
             "max": -1,
             "alpha": -1
         },
         "height": {
-            "avg": -1,
+            "avg": 1.5,
             "min": -1,
             "max": -1,
             "alpha": -1
@@ -161134,11 +161134,11 @@
         "refs": {
             "pogo": "???",
             "veekunDb": "???",
-            "smogon": "???",
-            "showdown": "???",
-            "showdownDef": "???",
-            "serebii": "???",
-            "bulbapedia": "???",
+            "smogon": "ironleaves",
+            "showdown": "ironleaves",
+            "showdownDef": "Iron Leaves",
+            "serebii": "ironleaves",
+            "bulbapedia": "Iron_Leaves",
             "homeSprite": "1010",
             "miniSprite": "1010"
         },
@@ -161223,8 +161223,8 @@
             "pogo": "???",
             "veekunDb": "???",
             "smogon": "???",
-            "showdown": "???",
-            "showdownDef": "???",
+            "showdown": "munkidori",
+            "showdownDef": "Munkidori",
             "serebii": "???",
             "bulbapedia": "???",
             "homeSprite": "0000-munkidori",
@@ -161311,8 +161311,8 @@
             "pogo": "???",
             "veekunDb": "???",
             "smogon": "???",
-            "showdown": "???",
-            "showdownDef": "???",
+            "showdown": "okidogi",
+            "showdownDef": "Okidogi",
             "serebii": "???",
             "bulbapedia": "???",
             "homeSprite": "0000-okidogi",
@@ -161399,8 +161399,8 @@
             "pogo": "???",
             "veekunDb": "???",
             "smogon": "???",
-            "showdown": "???",
-            "showdownDef": "???",
+            "showdown": "fezandipiti",
+            "showdownDef": "Fezandipiti",
             "serebii": "???",
             "bulbapedia": "???",
             "homeSprite": "0000-fezandipiti",
@@ -161487,8 +161487,8 @@
             "pogo": "???",
             "veekunDb": "???",
             "smogon": "???",
-            "showdown": "???",
-            "showdownDef": "???",
+            "showdown": "ogerpon",
+            "showdownDef": "Ogerpon",
             "serebii": "???",
             "bulbapedia": "???",
             "homeSprite": "0000-ogerpon",
@@ -161575,8 +161575,8 @@
             "pogo": "???",
             "veekunDb": "???",
             "smogon": "???",
-            "showdown": "???",
-            "showdownDef": "???",
+            "showdown": "terapagos",
+            "showdownDef": "Terapagos",
             "serebii": "???",
             "bulbapedia": "???",
             "homeSprite": "0000-terapagos",
