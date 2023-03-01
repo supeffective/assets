@@ -48,6 +48,7 @@
                 "kricketune",
                 "scatterbug",
                 "spewpa",
+                "vivillon",
                 "vivillon-fancy",
                 "combee",
                 "vespiquen",
@@ -69,12 +70,12 @@
                 "wooper",
                 "quagsire",
                 "psyduck",
-                "golduck",
-                "chewtle"
+                "golduck"
             ]
         },
         {
             "pokemon": [
+                "chewtle",
                 "drednaw",
                 "igglybuff",
                 "jigglypuff",
@@ -103,12 +104,12 @@
                 "steenee",
                 "tsareena",
                 "smoliv",
-                "dolliv",
-                "arboliva"
+                "dolliv"
             ]
         },
         {
             "pokemon": [
+                "arboliva",
                 "bonsly",
                 "sudowoodo",
                 "rockruff",
@@ -137,12 +138,12 @@
                 "shroomish",
                 "breloom",
                 "applin",
-                "flapple",
-                "appletun"
+                "flapple"
             ]
         },
         {
             "pokemon": [
+                "appletun",
                 "spoink",
                 "grumpig",
                 "squawkabilly",
@@ -171,12 +172,12 @@
                 "arrokuda",
                 "barraskewda",
                 "basculin",
-                "basculin-blue-striped",
-                "gulpin"
+                "basculin-blue-striped"
             ]
         },
         {
             "pokemon": [
+                "gulpin",
                 "swalot",
                 "meowth",
                 "persian",
@@ -205,12 +206,12 @@
                 "riolu",
                 "lucario",
                 "charcadet",
-                "armarouge",
-                "ceruledge"
+                "armarouge"
             ]
         },
         {
             "pokemon": [
+                "ceruledge",
                 "barboach",
                 "whiscash",
                 "tadbulb",
@@ -239,12 +240,12 @@
                 "girafarig",
                 "farigiraf",
                 "grimer",
-                "muk",
-                "maschiff"
+                "muk"
             ]
         },
         {
             "pokemon": [
+                "maschiff",
                 "mabosstiff",
                 "toxel",
                 "toxtricity",
@@ -273,18 +274,20 @@
                 "skiddo",
                 "gogoat",
                 "tauros-paldea",
-                "tauros-paldea-fire",
-                "tauros-paldea-water"
+                "tauros-paldea-fire"
             ]
         },
         {
             "pokemon": [
+                "tauros-paldea-water",
                 "litleo",
                 "pyroar",
                 "stunky",
                 "skuntank",
                 "zorua",
+                "zorua-hisui",
                 "zoroark",
+                "zoroark-hisui",
                 "sneasel",
                 "weavile",
                 "murkrow",
@@ -305,14 +308,14 @@
                 "tropius",
                 "fomantis",
                 "lurantis",
-                "klawf",
-                "capsakid",
-                "scovillain",
-                "cacnea"
+                "klawf"
             ]
         },
         {
             "pokemon": [
+                "capsakid",
+                "scovillain",
+                "cacnea",
                 "cacturne",
                 "rellor",
                 "rabsca",
@@ -339,14 +342,14 @@
                 "bagon",
                 "shelgon",
                 "salamence",
-                "tinkatink",
-                "tinkatuff",
-                "tinkaton",
-                "hatenna"
+                "tinkatink"
             ]
         },
         {
             "pokemon": [
+                "tinkatuff",
+                "tinkaton",
+                "hatenna",
                 "hattrem",
                 "hatterene",
                 "impidimp",
@@ -373,14 +376,14 @@
                 "drakloak",
                 "dragapult",
                 "glimmet",
-                "glimmora",
-                "rotom",
-                "rotom-heat",
-                "rotom-wash"
+                "glimmora"
             ]
         },
         {
             "pokemon": [
+                "rotom",
+                "rotom-heat",
+                "rotom-wash",
                 "rotom-frost",
                 "rotom-fan",
                 "rotom-mow",
@@ -407,14 +410,14 @@
                 "qwilfish",
                 "luvdisc",
                 "finneon",
-                "lumineon",
-                "bruxish",
-                "alomomola",
-                "skrelp"
+                "lumineon"
             ]
         },
         {
             "pokemon": [
+                "bruxish",
+                "alomomola",
+                "skrelp",
                 "dragalge",
                 "clauncher",
                 "clawitzer",
@@ -441,14 +444,14 @@
                 "cetoddle",
                 "cetitan",
                 "bergmite",
-                "avalugg",
-                "rufflet",
-                "braviary",
-                "pawniard"
+                "avalugg"
             ]
         },
         {
             "pokemon": [
+                "rufflet",
+                "braviary",
+                "pawniard",
                 "bisharp",
                 "kingambit",
                 "deino",
@@ -475,14 +478,14 @@
                 "gimmighoul",
                 "gimmighoul-roaming",
                 "gholdengo",
-                "wochien",
-                "chienpao",
-                "tinglu",
-                "chiyu"
+                "wochien"
             ]
         },
         {
             "pokemon": [
+                "chienpao",
+                "tinglu",
+                "chiyu",
                 "roaringmoon",
                 "ironvaliant",
                 "koraidon",
@@ -492,12 +495,12 @@
                 "charmander",
                 "charmeleon",
                 "charizard",
-                "scorbunny",
-                "raboot",
-                "cinderace",
                 "froakie",
                 "frogadier",
-                "greninja"
+                "greninja",
+                "scorbunny",
+                "raboot",
+                "cinderace"
             ]
         }
     ]

@@ -40,6 +40,7 @@ require_once __DIR__ . '/_bootstrap.php';
         'name' => ucfirst($pkmId),
         'formId' => $pkForm,
         'formName' => ($pkForm ? ucfirst($pkForm) : null),
+        'forms' => [$pkmId],
         'refs' => array_merge($dataTemplateArr['refs'], [
             "showdown" => $pkmId,
             "showdownDef" => ucfirst($pkmId),

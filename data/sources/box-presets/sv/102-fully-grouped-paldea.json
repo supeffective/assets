@@ -1,9 +1,9 @@
 {
     "id": "fully-grouped-paldea",
-    "name": "Regional: Sorted by Species",
+    "name": "Regional: Grouped by Species, then Forms",
     "version": 1,
     "gameSet": "sv",
-    "description": "Pokémon Boxes are sorted by Species and then Forms, following regional Pokédex order.",
+    "description": "Pokémon Boxes are grouped by Species and then Forms, following regional Pokédex order.",
     "boxes": [
         {
             "pokemon": [
@@ -500,8 +500,8 @@
                 "quagsire",
                 "meowth-galar",
                 "perrserker",
-                null,
-                null,
+                "zorua-hisui",
+                "zoroark-hisui",
                 "basculin-blue-striped",
                 "toxtricity-low-key",
                 "sinistea-antique",
@@ -601,6 +601,28 @@
                 "lumineon-f",
                 "snover-f",
                 "abomasnow-f"
+            ]
+        },
+        {
+            "pokemon": [
+                "vivillon",
+                "vivillon-meadow",
+                "vivillon-polar",
+                "vivillon-tundra",
+                "vivillon-continental",
+                "vivillon-garden",
+                "vivillon-elegant",
+                "vivillon-modern",
+                "vivillon-marine",
+                "vivillon-archipelago",
+                "vivillon-high-plains",
+                "vivillon-sandstorm",
+                "vivillon-river",
+                "vivillon-monsoon",
+                "vivillon-savanna",
+                "vivillon-sun",
+                "vivillon-ocean",
+                "vivillon-jungle"
             ]
         }
     ]

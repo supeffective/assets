@@ -34577,13 +34577,15 @@
         "baseSpecies": "zorua",
         "baseForms": [],
         "obtainableIn": [
-            "la"
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
-            "la"
+            "la",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -34637,13 +34639,15 @@
         "baseSpecies": "zoroark",
         "baseForms": [],
         "obtainableIn": [
-            "la"
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
-            "la"
+            "la",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -38578,7 +38582,8 @@
         "baseForms": [],
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -38588,7 +38593,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -38607,7 +38613,8 @@
         "baseForms": [],
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -38617,7 +38624,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -38636,7 +38644,8 @@
         "baseForms": [],
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -38646,7 +38655,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -38665,7 +38675,8 @@
         "baseForms": [],
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -38675,7 +38686,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -38694,7 +38706,8 @@
         "baseForms": [],
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -38704,7 +38717,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -38723,7 +38737,8 @@
         "baseForms": [],
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -38733,7 +38748,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -38752,7 +38768,8 @@
         "baseForms": [],
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -38762,7 +38779,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -38781,7 +38799,8 @@
         "baseForms": [],
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -38791,7 +38810,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -38810,7 +38830,8 @@
         "baseForms": [],
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -38820,7 +38841,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -38839,7 +38861,8 @@
         "baseForms": [],
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -38849,7 +38872,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -38868,7 +38892,8 @@
         "baseForms": [],
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -38878,7 +38903,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -38897,7 +38923,8 @@
         "baseForms": [],
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -38907,7 +38934,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -38926,7 +38954,8 @@
         "baseForms": [],
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -38936,7 +38965,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -38955,7 +38985,8 @@
         "baseForms": [],
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -38965,7 +38996,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -38984,7 +39016,8 @@
         "baseForms": [],
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -38994,7 +39027,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -39013,7 +39047,8 @@
         "baseForms": [],
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -39023,7 +39058,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -39042,7 +39078,8 @@
         "baseForms": [],
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -39052,7 +39089,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -39071,7 +39109,8 @@
         "baseForms": [],
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -39081,7 +39120,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -53167,9 +53207,7 @@
             "sv"
         ],
         "versionExclusiveIn": [],
-        "eventOnlyIn": [
-            "sv"
-        ],
+        "eventOnlyIn": [],
         "storableIn": [
             "sv"
         ],
@@ -53192,9 +53230,7 @@
             "sv"
         ],
         "versionExclusiveIn": [],
-        "eventOnlyIn": [
-            "sv"
-        ],
+        "eventOnlyIn": [],
         "storableIn": [
             "sv"
         ],

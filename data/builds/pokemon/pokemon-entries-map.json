@@ -95100,13 +95100,15 @@
         "canBeAlpha": true,
         "debutIn": "la",
         "obtainableIn": [
-            "la"
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
-            "la"
+            "la",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -95301,13 +95303,15 @@
         "canBeAlpha": true,
         "debutIn": "la",
         "obtainableIn": [
-            "la"
+            "la",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
         "storableIn": [
             "home",
-            "la"
+            "la",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -107605,7 +107609,8 @@
         "debutIn": "xy",
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -107615,7 +107620,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -107724,7 +107730,8 @@
         "debutIn": "xy",
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -107734,7 +107741,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -107822,7 +107830,8 @@
         "debutIn": "xy",
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -107832,7 +107841,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -107920,7 +107930,8 @@
         "debutIn": "xy",
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -107930,7 +107941,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -108018,7 +108030,8 @@
         "debutIn": "xy",
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -108028,7 +108041,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -108116,7 +108130,8 @@
         "debutIn": "xy",
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -108126,7 +108141,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -108214,7 +108230,8 @@
         "debutIn": "xy",
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -108224,7 +108241,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -108312,7 +108330,8 @@
         "debutIn": "xy",
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -108322,7 +108341,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -108410,7 +108430,8 @@
         "debutIn": "xy",
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -108420,7 +108441,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -108508,7 +108530,8 @@
         "debutIn": "xy",
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -108518,7 +108541,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -108606,7 +108630,8 @@
         "debutIn": "xy",
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -108616,7 +108641,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -108704,7 +108730,8 @@
         "debutIn": "xy",
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -108714,7 +108741,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -108802,7 +108830,8 @@
         "debutIn": "xy",
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -108812,7 +108841,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -108900,7 +108930,8 @@
         "debutIn": "xy",
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -108910,7 +108941,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -108998,7 +109030,8 @@
         "debutIn": "xy",
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -109008,7 +109041,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -109096,7 +109130,8 @@
         "debutIn": "xy",
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -109106,7 +109141,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -109194,7 +109230,8 @@
         "debutIn": "xy",
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -109204,7 +109241,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -109292,7 +109330,8 @@
         "debutIn": "xy",
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "versionExclusiveIn": [],
         "eventOnlyIn": [],
@@ -109302,7 +109341,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true,
         "shinyBase": null,
@@ -161002,9 +161042,7 @@
             "sv"
         ],
         "versionExclusiveIn": [],
-        "eventOnlyIn": [
-            "sv"
-        ],
+        "eventOnlyIn": [],
         "storableIn": [
             "sv"
         ],
@@ -161050,7 +161088,9 @@
         },
         "baseSpecies": null,
         "baseForms": [],
-        "forms": [],
+        "forms": [
+            "walkingwake"
+        ],
         "evolutions": []
     },
     "ironleaves": {
@@ -161096,9 +161136,7 @@
             "sv"
         ],
         "versionExclusiveIn": [],
-        "eventOnlyIn": [
-            "sv"
-        ],
+        "eventOnlyIn": [],
         "storableIn": [
             "sv"
         ],
@@ -161144,7 +161182,9 @@
         },
         "baseSpecies": null,
         "baseForms": [],
-        "forms": [],
+        "forms": [
+            "ironleaves"
+        ],
         "evolutions": []
     },
     "munkidori": {

@@ -41,9 +41,7 @@
         "sv"
     ],
     "versionExclusiveIn": [],
-    "eventOnlyIn": [
-        "sv"
-    ],
+    "eventOnlyIn": [],
     "storableIn": [
         "sv"
     ],
@@ -89,6 +87,8 @@
     },
     "baseSpecies": null,
     "baseForms": [],
-    "forms": [],
+    "forms": [
+        "walkingwake"
+    ],
     "evolutions": []
 }

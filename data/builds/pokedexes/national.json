@@ -7575,12 +7575,16 @@
     {
         "id": "walkingwake",
         "dexNum": 1009,
-        "forms": []
+        "forms": [
+            "walkingwake"
+        ]
     },
     {
         "id": "ironleaves",
         "dexNum": 1010,
-        "forms": []
+        "forms": [
+            "ironleaves"
+        ]
     },
     {
         "id": "munkidori",

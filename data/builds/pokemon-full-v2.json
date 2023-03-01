@@ -89139,13 +89139,15 @@
             "originRegion": "hisui",
             "originGames": "la",
             "obtainableIn": [
-                "la"
+                "la",
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
                 "home",
-                "la"
+                "la",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -89326,13 +89328,15 @@
             "originRegion": "hisui",
             "originGames": "la",
             "obtainableIn": [
-                "la"
+                "la",
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
                 "home",
-                "la"
+                "la",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -100804,7 +100808,8 @@
             "originGames": "xy",
             "obtainableIn": [
                 "xy",
-                "go"
+                "go",
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
@@ -100814,7 +100819,8 @@
                 "go",
                 "sm",
                 "usum",
-                "home"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -100916,7 +100922,8 @@
             "originGames": "xy",
             "obtainableIn": [
                 "xy",
-                "go"
+                "go",
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
@@ -100926,7 +100933,8 @@
                 "go",
                 "sm",
                 "usum",
-                "home"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -101007,7 +101015,8 @@
             "originGames": "xy",
             "obtainableIn": [
                 "xy",
-                "go"
+                "go",
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
@@ -101017,7 +101026,8 @@
                 "go",
                 "sm",
                 "usum",
-                "home"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -101098,7 +101108,8 @@
             "originGames": "xy",
             "obtainableIn": [
                 "xy",
-                "go"
+                "go",
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
@@ -101108,7 +101119,8 @@
                 "go",
                 "sm",
                 "usum",
-                "home"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -101189,7 +101201,8 @@
             "originGames": "xy",
             "obtainableIn": [
                 "xy",
-                "go"
+                "go",
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
@@ -101199,7 +101212,8 @@
                 "go",
                 "sm",
                 "usum",
-                "home"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -101280,7 +101294,8 @@
             "originGames": "xy",
             "obtainableIn": [
                 "xy",
-                "go"
+                "go",
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
@@ -101290,7 +101305,8 @@
                 "go",
                 "sm",
                 "usum",
-                "home"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -101371,7 +101387,8 @@
             "originGames": "xy",
             "obtainableIn": [
                 "xy",
-                "go"
+                "go",
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
@@ -101381,7 +101398,8 @@
                 "go",
                 "sm",
                 "usum",
-                "home"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -101462,7 +101480,8 @@
             "originGames": "xy",
             "obtainableIn": [
                 "xy",
-                "go"
+                "go",
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
@@ -101472,7 +101491,8 @@
                 "go",
                 "sm",
                 "usum",
-                "home"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -101553,7 +101573,8 @@
             "originGames": "xy",
             "obtainableIn": [
                 "xy",
-                "go"
+                "go",
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
@@ -101563,7 +101584,8 @@
                 "go",
                 "sm",
                 "usum",
-                "home"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -101644,7 +101666,8 @@
             "originGames": "xy",
             "obtainableIn": [
                 "xy",
-                "go"
+                "go",
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
@@ -101654,7 +101677,8 @@
                 "go",
                 "sm",
                 "usum",
-                "home"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -101735,7 +101759,8 @@
             "originGames": "xy",
             "obtainableIn": [
                 "xy",
-                "go"
+                "go",
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
@@ -101745,7 +101770,8 @@
                 "go",
                 "sm",
                 "usum",
-                "home"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -101826,7 +101852,8 @@
             "originGames": "xy",
             "obtainableIn": [
                 "xy",
-                "go"
+                "go",
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
@@ -101836,7 +101863,8 @@
                 "go",
                 "sm",
                 "usum",
-                "home"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -101917,7 +101945,8 @@
             "originGames": "xy",
             "obtainableIn": [
                 "xy",
-                "go"
+                "go",
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
@@ -101927,7 +101956,8 @@
                 "go",
                 "sm",
                 "usum",
-                "home"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -102008,7 +102038,8 @@
             "originGames": "xy",
             "obtainableIn": [
                 "xy",
-                "go"
+                "go",
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
@@ -102018,7 +102049,8 @@
                 "go",
                 "sm",
                 "usum",
-                "home"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -102099,7 +102131,8 @@
             "originGames": "xy",
             "obtainableIn": [
                 "xy",
-                "go"
+                "go",
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
@@ -102109,7 +102142,8 @@
                 "go",
                 "sm",
                 "usum",
-                "home"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -102190,7 +102224,8 @@
             "originGames": "xy",
             "obtainableIn": [
                 "xy",
-                "go"
+                "go",
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
@@ -102200,7 +102235,8 @@
                 "go",
                 "sm",
                 "usum",
-                "home"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -102281,7 +102317,8 @@
             "originGames": "xy",
             "obtainableIn": [
                 "xy",
-                "go"
+                "go",
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
@@ -102291,7 +102328,8 @@
                 "go",
                 "sm",
                 "usum",
-                "home"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -102372,7 +102410,8 @@
             "originGames": "xy",
             "obtainableIn": [
                 "xy",
-                "go"
+                "go",
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
@@ -102382,7 +102421,8 @@
                 "go",
                 "sm",
                 "usum",
-                "home"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -150358,16 +150398,16 @@
                 "sv"
             ],
             "versionExclusiveIn": [],
-            "eventOnlyIn": [
-                "sv"
-            ],
+            "eventOnlyIn": [],
             "storableIn": [
                 "sv"
             ]
         },
         "evolvesFrom": null,
         "changesFrom": [],
-        "formsOrder": []
+        "formsOrder": [
+            "walkingwake"
+        ]
     },
     {
         "id": "ironleaves",
@@ -150445,16 +150485,16 @@
                 "sv"
             ],
             "versionExclusiveIn": [],
-            "eventOnlyIn": [
-                "sv"
-            ],
+            "eventOnlyIn": [],
             "storableIn": [
                 "sv"
             ]
         },
         "evolvesFrom": null,
         "changesFrom": [],
-        "formsOrder": []
+        "formsOrder": [
+            "ironleaves"
+        ]
     },
     {
         "id": "munkidori",

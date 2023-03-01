@@ -18,7 +18,7 @@ require_once __DIR__ . '/_bootstrap.php';
         $dataSetById[$data['id']] = $data;
     }
 
-    $generateGamesetBoxesPreset = static function (string $gameSetId, int $maxPkmPerBox = 30, bool $createMinimal = true) use ($dataSetById): void{
+    $generateGamesetBoxesPreset = static function (string $gameSetId, int $maxPkmPerBox = 30, bool $createMinimal = true) use ($dataSetById): void {
         $storables = sgg_data_load("builds/pokemon/storable/storable-pokemon-{$gameSetId}.json");
         $preset = [
             'id' => 'fully-sorted',
@@ -200,7 +200,7 @@ require_once __DIR__ . '/_bootstrap.php';
             sgg_data_save(
                 "builds/box-presets/{$gameSetId}/102-sorted-species-minimal.json",
                 $presetBySpeciesMinimal,
-            minify: false
+                minify: false
             );
         }
 
@@ -209,14 +209,18 @@ require_once __DIR__ . '/_bootstrap.php';
             sgg_data_save(
                 "builds/box-presets/{$gameSetId}/104-fully-sorted-minimal.json",
                 $presetMinimal,
-            minify: false
+                minify: false
             );
         }
     };
 
-    $generatePokedexBoxesPreset = static function (string $pokedexId, string $gamesetId) use ($dataSetById): void{
-        $transferOnlyPkm = sgg_data_load('sources/pokemon-transferonly.json')[$gamesetId] ?? [];
+    $generatePokedexBoxesPreset = static function (string $pokedexId, string $gamesetId) use ($dataSetById): void {
         $dexData = sgg_data_load('sources/pokedexes/' . $pokedexId . '.json');
+        $dexExtras = [];
+
+        if (file_exists(sgg_get_data_path('sources/pokedexes/' . $pokedexId . '-extra.json'))) {
+            $dexExtras = sgg_data_load('sources/pokedexes/' . $pokedexId . '-extra.json') ?: [];
+        }
 
         $preset = [
             'id' => 'fully-sorted-' . $pokedexId,
@@ -239,6 +243,15 @@ require_once __DIR__ . '/_bootstrap.php';
         $maxPkmPerBox = 30;
 
         $currentBox = 0;
+
+        foreach ($dexExtras as $pkmId) {
+            $dexData[] = [
+                'id' => $pkmId,
+                'dexNum' => null,
+                'forms' => [$pkmId]
+            ];
+        }
+
         foreach ($dexData as $dexPkm) {
             foreach ($dexPkm['forms'] as $pkmId) {
                 foreach (SGG_BOXES_EXCLUDE_FORMS_PREFIX as $prefix) {
@@ -298,9 +311,6 @@ require_once __DIR__ . '/_bootstrap.php';
                 );
 
                 if ($pkm['isCosmeticForm'] && !in_array($pkm['id'], $allowedCosmeticForms[$gamesetId], true)) {
-                    continue;
-                }
-                if (in_array($pkm['id'], $transferOnlyPkm, true)) {
                     continue;
                 }
                 $presetMinimal['boxes'][$currentBox]['pokemon'][] = $pkm['id'];

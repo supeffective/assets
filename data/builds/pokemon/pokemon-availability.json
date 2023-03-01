@@ -22331,11 +22331,13 @@
     },
     "zorua-hisui": {
         "obtainableIn": [
-            "la"
+            "la",
+            "sv"
         ],
         "storableIn": [
             "home",
-            "la"
+            "la",
+            "sv"
         ],
         "shinyReleased": true
     },
@@ -22363,11 +22365,13 @@
     },
     "zoroark-hisui": {
         "obtainableIn": [
-            "la"
+            "la",
+            "sv"
         ],
         "storableIn": [
             "home",
-            "la"
+            "la",
+            "sv"
         ],
         "shinyReleased": true
     },
@@ -24602,7 +24606,8 @@
     "vivillon": {
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "storableIn": [
             "xy",
@@ -24610,14 +24615,16 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "vivillon-meadow": {
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "storableIn": [
             "xy",
@@ -24625,14 +24632,16 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "vivillon-polar": {
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "storableIn": [
             "xy",
@@ -24640,14 +24649,16 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "vivillon-tundra": {
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "storableIn": [
             "xy",
@@ -24655,14 +24666,16 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "vivillon-continental": {
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "storableIn": [
             "xy",
@@ -24670,14 +24683,16 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "vivillon-garden": {
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "storableIn": [
             "xy",
@@ -24685,14 +24700,16 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "vivillon-elegant": {
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "storableIn": [
             "xy",
@@ -24700,14 +24717,16 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "vivillon-modern": {
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "storableIn": [
             "xy",
@@ -24715,14 +24734,16 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "vivillon-marine": {
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "storableIn": [
             "xy",
@@ -24730,14 +24751,16 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "vivillon-archipelago": {
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "storableIn": [
             "xy",
@@ -24745,14 +24768,16 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "vivillon-high-plains": {
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "storableIn": [
             "xy",
@@ -24760,14 +24785,16 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "vivillon-sandstorm": {
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "storableIn": [
             "xy",
@@ -24775,14 +24802,16 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "vivillon-river": {
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "storableIn": [
             "xy",
@@ -24790,14 +24819,16 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "vivillon-monsoon": {
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "storableIn": [
             "xy",
@@ -24805,14 +24836,16 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "vivillon-savanna": {
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "storableIn": [
             "xy",
@@ -24820,14 +24853,16 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "vivillon-sun": {
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "storableIn": [
             "xy",
@@ -24835,14 +24870,16 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "vivillon-ocean": {
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "storableIn": [
             "xy",
@@ -24850,14 +24887,16 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "vivillon-jungle": {
         "obtainableIn": [
             "xy",
-            "go"
+            "go",
+            "sv"
         ],
         "storableIn": [
             "xy",
@@ -24865,7 +24904,8 @@
             "go",
             "sm",
             "usum",
-            "home"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
