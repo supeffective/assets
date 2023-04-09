@@ -467,12 +467,6 @@
                 null,
                 null,
                 null,
-                null,
-                null,
-                null,
-                null,
-                null,
-                null,
                 "walkingwake",
                 "ironleaves"
             ]
@@ -518,8 +512,7 @@
                 "tatsugiri-sketchy",
                 "squawkabilly-blue",
                 "squawkabilly-yellow",
-                "squawkabilly-white",
-                "gimmighoul-roaming"
+                "squawkabilly-white"
             ]
         },
         {
@@ -558,6 +551,18 @@
         },
         {
             "pokemon": [
+                "toxtricity-low-key",
+                "shellos-east",
+                "gastrodon-east",
+                "sinistea-antique",
+                "polteageist-antique",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
                 "vivillon",
                 "vivillon-meadow",
                 "vivillon-polar",
@@ -575,12 +580,7 @@
                 "vivillon-savanna",
                 "vivillon-sun",
                 "vivillon-ocean",
-                "vivillon-jungle",
-                "toxtricity-low-key",
-                "shellos-east",
-                "gastrodon-east",
-                "sinistea-antique",
-                "polteageist-antique"
+                "vivillon-jungle"
             ]
         },
         {

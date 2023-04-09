@@ -586,7 +586,6 @@
         {
             "pokemon": [
                 "gimmighoul",
-                "gimmighoul-roaming",
                 "gholdengo",
                 "wochien",
                 "chienpao",
@@ -607,12 +606,12 @@
                 "scorbunny",
                 "raboot",
                 "cinderace",
-                "rowlet",
-                "dartrix",
-                "decidueye",
                 "oshawott",
                 "dewott",
-                "samurott"
+                "samurott",
+                "rowlet",
+                "dartrix",
+                "decidueye"
             ]
         }
     ]

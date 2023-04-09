@@ -14,6 +14,7 @@ pogo-upgrade:
 	docker-compose run --rm dumper-pogo make
 	php scripts/build-pogo.php
 
+showdown-upgrade: showdown
 showdown:
 	docker-compose run --rm dumper-showdown make
 	php scripts/build-showdown.php
