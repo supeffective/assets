@@ -459,6 +459,20 @@
                 "ironvaliant",
                 "koraidon",
                 "miraidon",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
                 "walkingwake",
                 "ironleaves"
             ]
@@ -473,11 +487,29 @@
                 "cinderace",
                 "froakie",
                 "frogadier",
-                "greninja"
+                "greninja",
+                "rowlet",
+                "dartrix",
+                "decidueye",
+                "oshawott",
+                "dewott",
+                "samurott"
             ]
         },
         {
             "pokemon": [
+                "wooper",
+                "quagsire",
+                "meowth-galar",
+                "perrserker",
+                "zorua-hisui",
+                "zoroark-hisui",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
                 "maushold",
                 "dudunsparce-three-segment",
                 "tauros-paldea-fire",
@@ -487,27 +519,7 @@
                 "squawkabilly-blue",
                 "squawkabilly-yellow",
                 "squawkabilly-white",
-                "gimmighoul-roaming",
-                null,
-                null,
-                null,
-                null,
-                null,
-                null,
-                null,
-                null,
-                "wooper",
-                "quagsire",
-                "meowth-galar",
-                "perrserker",
-                "zorua-hisui",
-                "zoroark-hisui",
-                "basculin-blue-striped",
-                "toxtricity-low-key",
-                "sinistea-antique",
-                "polteageist-antique",
-                "shellos-east",
-                "gastrodon-east"
+                "gimmighoul-roaming"
             ]
         },
         {
@@ -540,7 +552,35 @@
                 "rotom-wash",
                 "rotom-frost",
                 "rotom-fan",
-                "rotom-mow"
+                "rotom-mow",
+                "basculin-blue-striped"
+            ]
+        },
+        {
+            "pokemon": [
+                "vivillon",
+                "vivillon-meadow",
+                "vivillon-polar",
+                "vivillon-tundra",
+                "vivillon-continental",
+                "vivillon-garden",
+                "vivillon-elegant",
+                "vivillon-modern",
+                "vivillon-marine",
+                "vivillon-archipelago",
+                "vivillon-high-plains",
+                "vivillon-sandstorm",
+                "vivillon-river",
+                "vivillon-monsoon",
+                "vivillon-savanna",
+                "vivillon-sun",
+                "vivillon-ocean",
+                "vivillon-jungle",
+                "toxtricity-low-key",
+                "shellos-east",
+                "gastrodon-east",
+                "sinistea-antique",
+                "polteageist-antique"
             ]
         },
         {
@@ -601,28 +641,6 @@
                 "lumineon-f",
                 "snover-f",
                 "abomasnow-f"
-            ]
-        },
-        {
-            "pokemon": [
-                "vivillon",
-                "vivillon-meadow",
-                "vivillon-polar",
-                "vivillon-tundra",
-                "vivillon-continental",
-                "vivillon-garden",
-                "vivillon-elegant",
-                "vivillon-modern",
-                "vivillon-marine",
-                "vivillon-archipelago",
-                "vivillon-high-plains",
-                "vivillon-sandstorm",
-                "vivillon-river",
-                "vivillon-monsoon",
-                "vivillon-savanna",
-                "vivillon-sun",
-                "vivillon-ocean",
-                "vivillon-jungle"
             ]
         }
     ]
