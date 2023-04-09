@@ -1,9 +1,9 @@
-# supereffective-dataset
+# supereffective-assets
 
 Pokémon datasets used in the SuperEffective.gg website.
 
 ```
-npm i itsjavi/supereffective-dataset
+npm i itsjavi/supereffective-assets
 ```
 
 ## How to contribute

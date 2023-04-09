@@ -1,6 +1,7 @@
 {
-    "name": "itsjavi/supereffective-dataset",
+    "name": "itsjavi/supereffective-assets",
     "require": {
-        "swaggest/json-schema": "^0.12.39"
+        "php": ">=8.1.0",
+        "swaggest/json-schema": "^v0.12.41"
     }
 }

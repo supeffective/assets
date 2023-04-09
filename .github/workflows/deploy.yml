@@ -5,7 +5,7 @@ on:
       - "main"
 jobs:
   deploy:
-    name: Deploy
+    name: Trigger a Deployment on Vercel # trigger a re-deployment of the website
     runs-on: ubuntu-latest
     env:
       VERCEL_DEPLOY_URL: ${{ secrets.VERCEL_DEPLOY_URL }}
