@@ -38,11 +38,13 @@
     "canBeAlpha": false,
     "debutIn": "sv",
     "obtainableIn": [
+        "go",
         "sv"
     ],
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
     "storableIn": [
+        "go",
         "sv"
     ],
     "shinyReleased": false,

@@ -14958,26 +14958,28 @@
     },
     "kecleon": {
         "obtainableIn": [
-            "bdsp",
+            "rs",
             "e",
             "oras",
-            "rs"
+            "go",
+            "bdsp"
         ],
         "storableIn": [
-            "b2w2",
-            "bdsp",
-            "bw",
-            "dp",
-            "e",
-            "frlg",
-            "hgss",
-            "home",
-            "oras",
-            "pt",
             "rs",
+            "frlg",
+            "e",
+            "dp",
+            "pt",
+            "hgss",
+            "bw",
+            "b2w2",
+            "xy",
+            "oras",
+            "go",
             "sm",
             "usum",
-            "xy"
+            "home",
+            "bdsp"
         ],
         "shinyReleased": true
     },
@@ -15952,6 +15954,7 @@
     "kyogre-primal": {
         "obtainableIn": [
             "oras",
+            "go",
             "usum"
         ],
         "storableIn": [],
@@ -15989,6 +15992,7 @@
     "groudon-primal": {
         "obtainableIn": [
             "oras",
+            "go",
             "usum"
         ],
         "storableIn": [],
@@ -25898,18 +25902,20 @@
     },
     "hawlucha": {
         "obtainableIn": [
-            "sv",
+            "xy",
+            "go",
             "swsh",
-            "xy"
+            "sv"
         ],
         "storableIn": [
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
-            "sv",
-            "swsh",
             "usum",
-            "xy"
+            "swsh",
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
@@ -26847,29 +26853,33 @@
     },
     "cutiefly": {
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true
     },
     "ribombee": {
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true
     },
@@ -26943,39 +26953,46 @@
     },
     "lycanroc-dusk": {
         "obtainableIn": [
-            "sv",
+            "go",
+            "usum",
             "swsh",
-            "usum"
+            "sv"
         ],
         "storableIn": [
-            "home",
-            "sv",
+            "go",
+            "usum",
             "swsh",
-            "usum"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "wishiwashi": {
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true
     },
     "wishiwashi-school": {
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
-        "storableIn": [],
+        "storableIn": [
+            "go"
+        ],
         "shinyReleased": true
     },
     "mareanie": {
@@ -27016,33 +27033,37 @@
     },
     "mudbray": {
         "obtainableIn": [
+            "go",
             "sm",
-            "sv",
+            "usum",
             "swsh",
-            "usum"
+            "sv"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
-            "sv",
+            "usum",
             "swsh",
-            "usum"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "mudsdale": {
         "obtainableIn": [
+            "go",
             "sm",
-            "sv",
+            "usum",
             "swsh",
-            "usum"
+            "sv"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
-            "sv",
+            "usum",
             "swsh",
-            "usum"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
@@ -27050,15 +27071,15 @@
         "obtainableIn": [
             "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
             "go",
-            "home",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true
     },
@@ -27216,63 +27237,71 @@
     },
     "bounsweet": {
         "obtainableIn": [
+            "go",
             "sm",
-            "sv",
+            "usum",
             "swsh",
-            "usum"
+            "sv"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
-            "sv",
+            "usum",
             "swsh",
-            "usum"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "steenee": {
         "obtainableIn": [
+            "go",
             "sm",
-            "sv",
+            "usum",
             "swsh",
-            "usum"
+            "sv"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
-            "sv",
+            "usum",
             "swsh",
-            "usum"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "tsareena": {
         "obtainableIn": [
+            "go",
             "sm",
-            "sv",
+            "usum",
             "swsh",
-            "usum"
+            "sv"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
-            "sv",
+            "usum",
             "swsh",
-            "usum"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "comfey": {
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true
     },
@@ -27296,17 +27325,19 @@
     },
     "passimian": {
         "obtainableIn": [
+            "go",
             "sm",
-            "sv",
+            "usum",
             "swsh",
-            "usum"
+            "sv"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
-            "sv",
+            "usum",
             "swsh",
-            "usum"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
@@ -27344,47 +27375,53 @@
     },
     "sandygast": {
         "obtainableIn": [
+            "go",
             "sm",
-            "sv",
+            "usum",
             "swsh",
-            "usum"
+            "sv"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
-            "sv",
+            "usum",
             "swsh",
-            "usum"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "palossand": {
         "obtainableIn": [
+            "go",
             "sm",
-            "sv",
+            "usum",
             "swsh",
-            "usum"
+            "sv"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
-            "sv",
+            "usum",
             "swsh",
-            "usum"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "pyukumuku": {
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true
     },
@@ -27639,85 +27676,99 @@
     },
     "minior-red": {
         "obtainableIn": [
+            "go",
             "sm",
             "usum"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
-            "usum"
+            "usum",
+            "home"
         ],
         "shinyReleased": true
     },
     "minior-orange": {
         "obtainableIn": [
+            "go",
             "sm",
             "usum"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
-            "usum"
+            "usum",
+            "home"
         ],
         "shinyReleased": true
     },
     "minior-yellow": {
         "obtainableIn": [
+            "go",
             "sm",
             "usum"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
-            "usum"
+            "usum",
+            "home"
         ],
         "shinyReleased": true
     },
     "minior-green": {
         "obtainableIn": [
+            "go",
             "sm",
             "usum"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
-            "usum"
+            "usum",
+            "home"
         ],
         "shinyReleased": true
     },
     "minior-blue": {
         "obtainableIn": [
+            "go",
             "sm",
             "usum"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
-            "usum"
+            "usum",
+            "home"
         ],
         "shinyReleased": true
     },
     "minior-indigo": {
         "obtainableIn": [
+            "go",
             "sm",
             "usum"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
-            "usum"
+            "usum",
+            "home"
         ],
         "shinyReleased": true
     },
     "minior-violet": {
         "obtainableIn": [
+            "go",
             "sm",
             "usum"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
-            "usum"
+            "usum",
+            "home"
         ],
         "shinyReleased": true
     },
@@ -27731,29 +27782,33 @@
     },
     "komala": {
         "obtainableIn": [
+            "go",
             "sm",
-            "sv",
-            "usum"
+            "usum",
+            "sv"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
-            "sv",
-            "usum"
+            "usum",
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "turtonator": {
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true
     },
@@ -27775,17 +27830,19 @@
     },
     "mimikyu": {
         "obtainableIn": [
+            "go",
             "sm",
-            "sv",
+            "usum",
             "swsh",
-            "usum"
+            "sv"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
-            "sv",
+            "usum",
             "swsh",
-            "usum"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
@@ -27801,43 +27858,49 @@
     },
     "bruxish": {
         "obtainableIn": [
+            "go",
             "sm",
-            "sv",
-            "usum"
+            "usum",
+            "sv"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
-            "sv",
-            "usum"
+            "usum",
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "drampa": {
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true
     },
     "dhelmise": {
         "obtainableIn": [
+            "go",
             "sm",
-            "swsh",
-            "usum"
+            "usum",
+            "swsh"
         ],
         "storableIn": [
-            "home",
+            "go",
             "sm",
+            "usum",
             "swsh",
-            "usum"
+            "home"
         ],
         "shinyReleased": true
     },
@@ -30112,21 +30175,25 @@
     },
     "regieleki": {
         "obtainableIn": [
+            "go",
             "swsh"
         ],
         "storableIn": [
-            "home",
-            "swsh"
+            "go",
+            "swsh",
+            "home"
         ],
         "shinyReleased": true
     },
     "regidrago": {
         "obtainableIn": [
+            "go",
             "swsh"
         ],
         "storableIn": [
-            "home",
-            "swsh"
+            "go",
+            "swsh",
+            "home"
         ],
         "shinyReleased": true
     },
@@ -31210,9 +31277,11 @@
     },
     "gholdengo": {
         "obtainableIn": [
+            "go",
             "sv"
         ],
         "storableIn": [
+            "go",
             "sv"
         ],
         "shinyReleased": false

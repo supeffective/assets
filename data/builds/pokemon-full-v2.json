@@ -57179,28 +57179,30 @@
             "originRegion": "hoenn",
             "originGames": "rs",
             "obtainableIn": [
-                "bdsp",
+                "rs",
                 "e",
                 "oras",
-                "rs"
+                "go",
+                "bdsp"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "b2w2",
-                "bdsp",
-                "bw",
-                "dp",
-                "e",
-                "frlg",
-                "hgss",
-                "home",
-                "oras",
-                "pt",
                 "rs",
+                "frlg",
+                "e",
+                "dp",
+                "pt",
+                "hgss",
+                "bw",
+                "b2w2",
+                "xy",
+                "oras",
+                "go",
                 "sm",
                 "usum",
-                "xy"
+                "home",
+                "bdsp"
             ]
         },
         "evolvesFrom": null,
@@ -61222,6 +61224,7 @@
             "originGames": "oras",
             "obtainableIn": [
                 "oras",
+                "go",
                 "usum"
             ],
             "versionExclusiveIn": [],
@@ -61416,6 +61419,7 @@
             "originGames": "oras",
             "obtainableIn": [
                 "oras",
+                "go",
                 "usum"
             ],
             "versionExclusiveIn": [],
@@ -108165,20 +108169,22 @@
             "originRegion": "kalos",
             "originGames": "xy",
             "obtainableIn": [
-                "sv",
+                "xy",
+                "go",
                 "swsh",
-                "xy"
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "xy",
                 "oras",
+                "go",
                 "sm",
-                "sv",
-                "swsh",
                 "usum",
-                "xy"
+                "swsh",
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -113886,17 +113892,19 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
-                "swsh",
-                "usum"
+                "usum",
+                "swsh"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
+                "usum",
                 "swsh",
-                "usum"
+                "home"
             ]
         },
         "evolvesFrom": null,
@@ -113978,17 +113986,19 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
-                "swsh",
-                "usum"
+                "usum",
+                "swsh"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
+                "usum",
                 "swsh",
-                "usum"
+                "home"
             ]
         },
         "evolvesFrom": null,
@@ -114449,17 +114459,19 @@
             "originRegion": "alola",
             "originGames": "usum",
             "obtainableIn": [
-                "sv",
+                "go",
+                "usum",
                 "swsh",
-                "usum"
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
-                "sv",
+                "go",
+                "usum",
                 "swsh",
-                "usum"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -114539,17 +114551,19 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
-                "swsh",
-                "usum"
+                "usum",
+                "swsh"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
+                "usum",
                 "swsh",
-                "usum"
+                "home"
             ]
         },
         "evolvesFrom": null,
@@ -114632,13 +114646,16 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
-                "swsh",
-                "usum"
+                "usum",
+                "swsh"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
-            "storableIn": []
+            "storableIn": [
+                "go"
+            ]
         },
         "evolvesFrom": null,
         "changesFrom": [
@@ -114911,19 +114928,21 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
-                "sv",
+                "usum",
                 "swsh",
-                "usum"
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
-                "sv",
+                "usum",
                 "swsh",
-                "usum"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -115005,19 +115024,21 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
-                "sv",
+                "usum",
                 "swsh",
-                "usum"
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
-                "sv",
+                "usum",
                 "swsh",
-                "usum"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -115101,17 +115122,17 @@
             "obtainableIn": [
                 "go",
                 "sm",
-                "swsh",
-                "usum"
+                "usum",
+                "swsh"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
                 "go",
-                "home",
                 "sm",
+                "usum",
                 "swsh",
-                "usum"
+                "home"
             ]
         },
         "evolvesFrom": null,
@@ -116047,19 +116068,21 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
-                "sv",
+                "usum",
                 "swsh",
-                "usum"
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
-                "sv",
+                "usum",
                 "swsh",
-                "usum"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -116141,19 +116164,21 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
-                "sv",
+                "usum",
                 "swsh",
-                "usum"
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
-                "sv",
+                "usum",
                 "swsh",
-                "usum"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -116235,19 +116260,21 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
-                "sv",
+                "usum",
                 "swsh",
-                "usum"
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
-                "sv",
+                "usum",
                 "swsh",
-                "usum"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -116329,17 +116356,19 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
-                "swsh",
-                "usum"
+                "usum",
+                "swsh"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
+                "usum",
                 "swsh",
-                "usum"
+                "home"
             ]
         },
         "evolvesFrom": null,
@@ -116517,19 +116546,21 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
-                "sv",
+                "usum",
                 "swsh",
-                "usum"
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
-                "sv",
+                "usum",
                 "swsh",
-                "usum"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -116799,19 +116830,21 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
-                "sv",
+                "usum",
                 "swsh",
-                "usum"
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
-                "sv",
+                "usum",
                 "swsh",
-                "usum"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -116893,19 +116926,21 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
-                "sv",
+                "usum",
                 "swsh",
-                "usum"
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
-                "sv",
+                "usum",
                 "swsh",
-                "usum"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -116987,17 +117022,19 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
-                "swsh",
-                "usum"
+                "usum",
+                "swsh"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
+                "usum",
                 "swsh",
-                "usum"
+                "home"
             ]
         },
         "evolvesFrom": null,
@@ -118827,15 +118864,17 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
                 "usum"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
-                "usum"
+                "usum",
+                "home"
             ]
         },
         "evolvesFrom": null,
@@ -118917,15 +118956,17 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
                 "usum"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
-                "usum"
+                "usum",
+                "home"
             ]
         },
         "evolvesFrom": null,
@@ -119007,15 +119048,17 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
                 "usum"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
-                "usum"
+                "usum",
+                "home"
             ]
         },
         "evolvesFrom": null,
@@ -119097,15 +119140,17 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
                 "usum"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
-                "usum"
+                "usum",
+                "home"
             ]
         },
         "evolvesFrom": null,
@@ -119187,15 +119232,17 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
                 "usum"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
-                "usum"
+                "usum",
+                "home"
             ]
         },
         "evolvesFrom": null,
@@ -119277,15 +119324,17 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
                 "usum"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
-                "usum"
+                "usum",
+                "home"
             ]
         },
         "evolvesFrom": null,
@@ -119367,15 +119416,17 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
                 "usum"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
-                "usum"
+                "usum",
+                "home"
             ]
         },
         "evolvesFrom": null,
@@ -119558,17 +119609,19 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
-                "sv",
-                "usum"
+                "usum",
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
-                "sv",
-                "usum"
+                "usum",
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -119650,17 +119703,19 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
-                "swsh",
-                "usum"
+                "usum",
+                "swsh"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
+                "usum",
                 "swsh",
-                "usum"
+                "home"
             ]
         },
         "evolvesFrom": null,
@@ -119836,19 +119891,21 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
-                "sv",
+                "usum",
                 "swsh",
-                "usum"
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
-                "sv",
+                "usum",
                 "swsh",
-                "usum"
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -120019,17 +120076,19 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
-                "sv",
-                "usum"
+                "usum",
+                "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
-                "sv",
-                "usum"
+                "usum",
+                "home",
+                "sv"
             ]
         },
         "evolvesFrom": null,
@@ -120111,17 +120170,19 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
-                "swsh",
-                "usum"
+                "usum",
+                "swsh"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
+                "usum",
                 "swsh",
-                "usum"
+                "home"
             ]
         },
         "evolvesFrom": null,
@@ -120203,17 +120264,19 @@
             "originRegion": "alola",
             "originGames": "sm",
             "obtainableIn": [
+                "go",
                 "sm",
-                "swsh",
-                "usum"
+                "usum",
+                "swsh"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
+                "go",
                 "sm",
+                "usum",
                 "swsh",
-                "usum"
+                "home"
             ]
         },
         "evolvesFrom": null,
@@ -139160,13 +139223,15 @@
             "originRegion": "galar",
             "originGames": "swsh",
             "obtainableIn": [
+                "go",
                 "swsh"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
-                "swsh"
+                "go",
+                "swsh",
+                "home"
             ]
         },
         "evolvesFrom": null,
@@ -139248,13 +139313,15 @@
             "originRegion": "galar",
             "originGames": "swsh",
             "obtainableIn": [
+                "go",
                 "swsh"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
-                "home",
-                "swsh"
+                "go",
+                "swsh",
+                "home"
             ]
         },
         "evolvesFrom": null,
@@ -149618,11 +149685,13 @@
             "originRegion": "paldea",
             "originGames": "sv",
             "obtainableIn": [
+                "go",
                 "sv"
             ],
             "versionExclusiveIn": [],
             "eventOnlyIn": [],
             "storableIn": [
+                "go",
                 "sv"
             ]
         },
