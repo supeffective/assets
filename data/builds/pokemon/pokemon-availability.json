@@ -5797,6 +5797,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -5806,6 +5807,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -5815,6 +5817,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -6930,92 +6933,98 @@
     },
     "cyndaquil": {
         "obtainableIn": [
-            "bdsp",
-            "c",
-            "go",
             "gs",
+            "c",
             "hgss",
-            "la"
+            "go",
+            "bdsp",
+            "la",
+            "sv"
         ],
         "storableIn": [
-            "b2w2",
-            "bdsp",
-            "bw",
-            "c",
-            "dp",
-            "e",
-            "frlg",
-            "go",
             "gs",
-            "hgss",
-            "home",
-            "la",
-            "oras",
-            "pt",
+            "c",
             "rs",
+            "frlg",
+            "e",
+            "dp",
+            "pt",
+            "hgss",
+            "bw",
+            "b2w2",
+            "xy",
+            "oras",
+            "go",
             "sm",
             "usum",
-            "xy"
+            "home",
+            "bdsp",
+            "la",
+            "sv"
         ],
         "shinyReleased": true
     },
     "quilava": {
         "obtainableIn": [
-            "bdsp",
-            "c",
-            "go",
             "gs",
+            "c",
             "hgss",
-            "la"
+            "go",
+            "bdsp",
+            "la",
+            "sv"
         ],
         "storableIn": [
-            "b2w2",
-            "bdsp",
-            "bw",
-            "c",
-            "dp",
-            "e",
-            "frlg",
-            "go",
             "gs",
-            "hgss",
-            "home",
-            "la",
-            "oras",
-            "pt",
+            "c",
             "rs",
+            "frlg",
+            "e",
+            "dp",
+            "pt",
+            "hgss",
+            "bw",
+            "b2w2",
+            "xy",
+            "oras",
+            "go",
             "sm",
             "usum",
-            "xy"
+            "home",
+            "bdsp",
+            "la",
+            "sv"
         ],
         "shinyReleased": true
     },
     "typhlosion": {
         "obtainableIn": [
-            "bdsp",
-            "c",
-            "go",
             "gs",
-            "hgss"
+            "c",
+            "hgss",
+            "go",
+            "bdsp",
+            "sv"
         ],
         "storableIn": [
-            "b2w2",
-            "bdsp",
-            "bw",
-            "c",
-            "dp",
-            "e",
-            "frlg",
-            "go",
             "gs",
-            "hgss",
-            "home",
-            "oras",
-            "pt",
+            "c",
             "rs",
+            "frlg",
+            "e",
+            "dp",
+            "pt",
+            "hgss",
+            "bw",
+            "b2w2",
+            "xy",
+            "oras",
+            "go",
             "sm",
             "usum",
-            "xy"
+            "home",
+            "bdsp",
+            "sv"
         ],
         "shinyReleased": true
     },
@@ -8365,6 +8374,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -23882,41 +23892,45 @@
     },
     "larvesta": {
         "obtainableIn": [
-            "b2w2",
             "bw",
-            "sv",
-            "swsh"
+            "b2w2",
+            "go",
+            "swsh",
+            "sv"
         ],
         "storableIn": [
-            "b2w2",
             "bw",
-            "home",
+            "b2w2",
+            "xy",
             "oras",
+            "go",
             "sm",
-            "sv",
-            "swsh",
             "usum",
-            "xy"
+            "swsh",
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "volcarona": {
         "obtainableIn": [
-            "b2w2",
             "bw",
-            "sv",
-            "swsh"
+            "b2w2",
+            "go",
+            "swsh",
+            "sv"
         ],
         "storableIn": [
-            "b2w2",
             "bw",
-            "home",
+            "b2w2",
+            "xy",
             "oras",
+            "go",
             "sm",
-            "sv",
-            "swsh",
             "usum",
-            "xy"
+            "swsh",
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
@@ -24328,46 +24342,52 @@
     },
     "chespin": {
         "obtainableIn": [
+            "xy",
             "go",
-            "xy"
+            "sv"
         ],
         "storableIn": [
-            "go",
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "xy"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "quilladin": {
         "obtainableIn": [
+            "xy",
             "go",
-            "xy"
+            "sv"
         ],
         "storableIn": [
-            "go",
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "xy"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
     "chesnaught": {
         "obtainableIn": [
+            "xy",
             "go",
-            "xy"
+            "sv"
         ],
         "storableIn": [
-            "go",
-            "home",
+            "xy",
             "oras",
+            "go",
             "sm",
             "usum",
-            "xy"
+            "home",
+            "sv"
         ],
         "shinyReleased": true
     },
@@ -28432,31 +28452,37 @@
     },
     "sobble": {
         "obtainableIn": [
-            "swsh"
+            "swsh",
+            "sv"
         ],
         "storableIn": [
+            "swsh",
             "home",
-            "swsh"
+            "sv"
         ],
         "shinyReleased": true
     },
     "drizzile": {
         "obtainableIn": [
-            "swsh"
+            "swsh",
+            "sv"
         ],
         "storableIn": [
+            "swsh",
             "home",
-            "swsh"
+            "sv"
         ],
         "shinyReleased": true
     },
     "inteleon": {
         "obtainableIn": [
-            "swsh"
+            "swsh",
+            "sv"
         ],
         "storableIn": [
+            "swsh",
             "home",
-            "swsh"
+            "sv"
         ],
         "shinyReleased": true
     },
@@ -30257,9 +30283,11 @@
     },
     "kleavor": {
         "obtainableIn": [
+            "go",
             "la"
         ],
         "storableIn": [
+            "go",
             "home",
             "la"
         ],
@@ -30346,6 +30374,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30355,6 +30384,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30364,6 +30394,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30373,6 +30404,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30382,6 +30414,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30391,6 +30424,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30400,6 +30434,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30409,6 +30444,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30418,6 +30454,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30427,6 +30464,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30436,6 +30474,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30445,6 +30484,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30454,6 +30494,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30463,6 +30504,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30472,6 +30514,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30481,6 +30524,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30490,6 +30534,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30499,6 +30544,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30508,6 +30554,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30517,6 +30564,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30526,6 +30574,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30535,6 +30584,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30544,6 +30594,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30553,6 +30604,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30562,6 +30614,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30571,6 +30624,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30580,6 +30634,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30589,6 +30644,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30598,6 +30654,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30607,6 +30664,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30616,6 +30674,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30625,6 +30684,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30634,6 +30694,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30643,6 +30704,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30652,6 +30714,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30661,6 +30724,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30670,6 +30734,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30679,6 +30744,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30688,6 +30754,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30697,6 +30764,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30706,6 +30774,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30715,6 +30784,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30724,6 +30794,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30733,6 +30804,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30742,6 +30814,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30751,6 +30824,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30760,6 +30834,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30769,6 +30844,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30778,6 +30854,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30787,6 +30864,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30796,6 +30874,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30805,6 +30884,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30814,6 +30894,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30823,6 +30904,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30832,6 +30914,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30841,6 +30924,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30850,6 +30934,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30859,6 +30944,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30868,6 +30954,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30877,6 +30964,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30886,6 +30974,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30895,6 +30984,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30904,6 +30994,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30913,6 +31004,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30929,6 +31021,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30938,6 +31031,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30947,6 +31041,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30956,6 +31051,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30965,6 +31061,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30974,6 +31071,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30983,6 +31081,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -30992,6 +31091,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31001,6 +31101,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31010,6 +31111,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31019,6 +31121,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31028,6 +31131,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31037,6 +31141,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31046,6 +31151,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31055,6 +31161,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31064,6 +31171,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31073,6 +31181,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31082,6 +31191,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31091,6 +31201,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31100,6 +31211,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31109,6 +31221,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31118,6 +31231,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31127,6 +31241,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31136,6 +31251,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31145,6 +31261,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31154,6 +31271,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31163,6 +31281,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31172,6 +31291,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31181,6 +31301,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31190,6 +31311,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31199,6 +31321,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31208,6 +31331,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31217,6 +31341,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31226,6 +31351,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31235,6 +31361,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31244,6 +31371,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31253,6 +31381,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31262,6 +31391,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": false
@@ -31271,7 +31401,8 @@
             "go"
         ],
         "storableIn": [
-            "go"
+            "go",
+            "home"
         ],
         "shinyReleased": false
     },
@@ -31282,6 +31413,7 @@
         ],
         "storableIn": [
             "go",
+            "home",
             "sv"
         ],
         "shinyReleased": false
@@ -31291,6 +31423,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": false
@@ -31300,6 +31433,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": false
@@ -31309,6 +31443,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": false
@@ -31318,6 +31453,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": false
@@ -31327,6 +31463,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31336,6 +31473,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": true
@@ -31345,6 +31483,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": false
@@ -31354,6 +31493,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": false
@@ -31363,6 +31503,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": false
@@ -31372,6 +31513,7 @@
             "sv"
         ],
         "storableIn": [
+            "home",
             "sv"
         ],
         "shinyReleased": false

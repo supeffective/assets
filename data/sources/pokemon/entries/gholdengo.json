@@ -45,6 +45,7 @@
     "eventOnlyIn": [],
     "storableIn": [
         "go",
+        "home",
         "sv"
     ],
     "shinyReleased": false,

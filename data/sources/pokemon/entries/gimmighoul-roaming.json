@@ -43,7 +43,8 @@
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
     "storableIn": [
-        "go"
+        "go",
+        "home"
     ],
     "shinyReleased": false,
     "shinyBase": null,

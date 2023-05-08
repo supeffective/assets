@@ -1031,7 +1031,124 @@
                 "basculegion",
                 "sneasler",
                 "overqwil",
-                "enamorus"
+                "enamorus",
+                "sprigatito",
+                "floragato",
+                "meowscarada",
+                "fuecoco",
+                "crocalor",
+                "skeledirge",
+                "quaxly",
+                "quaxwell",
+                "quaquaval",
+                "lechonk",
+                "oinkologne",
+                "tarountula",
+                "spidops",
+                "nymble",
+                "lokix",
+                "pawmi",
+                "pawmo",
+                "pawmot",
+                "tandemaus",
+                "maushold",
+                "fidough",
+                "dachsbun",
+                "smoliv",
+                "dolliv",
+                "arboliva"
+            ]
+        },
+        {
+            "pokemon": [
+                "squawkabilly",
+                "nacli",
+                "naclstack",
+                "garganacl",
+                "charcadet",
+                "armarouge",
+                "ceruledge",
+                "tadbulb",
+                "bellibolt",
+                "wattrel",
+                "kilowattrel",
+                "maschiff",
+                "mabosstiff",
+                "shroodle",
+                "grafaiai",
+                "bramblin",
+                "brambleghast",
+                "toedscool",
+                "toedscruel",
+                "klawf",
+                "capsakid",
+                "scovillain",
+                "rellor",
+                "rabsca",
+                "flittle",
+                "espathra",
+                "tinkatink",
+                "tinkatuff",
+                "tinkaton",
+                "wiglett"
+            ]
+        },
+        {
+            "pokemon": [
+                "wugtrio",
+                "bombirdier",
+                "finizen",
+                "palafin",
+                "varoom",
+                "revavroom",
+                "cyclizar",
+                "orthworm",
+                "glimmet",
+                "glimmora",
+                "greavard",
+                "houndstone",
+                "flamigo",
+                "cetoddle",
+                "cetitan",
+                "veluza",
+                "dondozo",
+                "tatsugiri",
+                "annihilape",
+                "clodsire",
+                "farigiraf",
+                "dudunsparce",
+                "kingambit",
+                "greattusk",
+                "screamtail",
+                "brutebonnet",
+                "fluttermane",
+                "slitherwing",
+                "sandyshocks",
+                "irontreads"
+            ]
+        },
+        {
+            "pokemon": [
+                "ironbundle",
+                "ironhands",
+                "ironjugulis",
+                "ironmoth",
+                "ironthorns",
+                "frigibax",
+                "arctibax",
+                "baxcalibur",
+                "gimmighoul",
+                "gholdengo",
+                "wochien",
+                "chienpao",
+                "tinglu",
+                "chiyu",
+                "roaringmoon",
+                "ironvaliant",
+                "koraidon",
+                "miraidon",
+                "walkingwake",
+                "ironleaves"
             ]
         },
         {
@@ -1098,12 +1215,15 @@
                 "seaking-f",
                 "mrmime-galar",
                 "scyther-f",
-                "magikarp-f",
-                "gyarados-f"
+                "tauros-paldea",
+                "tauros-paldea-fire"
             ]
         },
         {
             "pokemon": [
+                "tauros-paldea-water",
+                "magikarp-f",
+                "gyarados-f",
                 "eevee-f",
                 "meganium-f",
                 "typhlosion-hisui",
@@ -1114,6 +1234,7 @@
                 "politoed-f",
                 "aipom-f",
                 "wooper-f",
+                "wooper-paldea",
                 "quagsire-f",
                 "murkrow-f",
                 "slowking-galar",
@@ -1129,15 +1250,15 @@
                 "unown-k",
                 "unown-l",
                 "unown-m",
-                "unown-n",
-                "unown-o",
-                "unown-p",
-                "unown-q",
-                "unown-r"
+                "unown-n"
             ]
         },
         {
             "pokemon": [
+                "unown-o",
+                "unown-p",
+                "unown-q",
+                "unown-r",
                 "unown-s",
                 "unown-t",
                 "unown-u",
@@ -1163,15 +1284,15 @@
                 "corsola-galar",
                 "octillery-f",
                 "houndoom-f",
-                "donphan-f",
-                "torchic-f",
-                "combusken-f",
-                "blaziken-f",
-                "zigzagoon-galar"
+                "donphan-f"
             ]
         },
         {
             "pokemon": [
+                "torchic-f",
+                "combusken-f",
+                "blaziken-f",
+                "zigzagoon-galar",
                 "linoone-galar",
                 "beautifly-f",
                 "dustox-f",
@@ -1197,15 +1318,15 @@
                 "kricketune-f",
                 "shinx-f",
                 "luxio-f",
-                "luxray-f",
-                "roserade-f",
-                "burmy-sandy",
-                "burmy-trash",
-                "wormadam-sandy"
+                "luxray-f"
             ]
         },
         {
             "pokemon": [
+                "roserade-f",
+                "burmy-sandy",
+                "burmy-trash",
+                "wormadam-sandy",
                 "wormadam-trash",
                 "combee-f",
                 "pachirisu-f",
@@ -1231,15 +1352,15 @@
                 "mamoswine-f",
                 "rotom-heat",
                 "rotom-wash",
-                "rotom-frost",
-                "rotom-fan",
-                "rotom-mow",
-                "samurott-hisui",
-                "unfezant-f"
+                "rotom-frost"
             ]
         },
         {
             "pokemon": [
+                "rotom-fan",
+                "rotom-mow",
+                "samurott-hisui",
+                "unfezant-f",
                 "lilligant-hisui",
                 "basculin-blue-striped",
                 "basculin-white-striped",
@@ -1265,15 +1386,15 @@
                 "vivillon-continental",
                 "vivillon-garden",
                 "vivillon-elegant",
-                "vivillon-modern",
-                "vivillon-marine",
-                "vivillon-archipelago",
-                "vivillon-high-plains",
-                "vivillon-sandstorm"
+                "vivillon-modern"
             ]
         },
         {
             "pokemon": [
+                "vivillon-marine",
+                "vivillon-archipelago",
+                "vivillon-high-plains",
+                "vivillon-sandstorm",
                 "vivillon-river",
                 "vivillon-monsoon",
                 "vivillon-savanna",
@@ -1299,15 +1420,15 @@
                 "furfrou-star",
                 "furfrou-diamond",
                 "furfrou-debutante",
-                "furfrou-matron",
-                "furfrou-dandy",
-                "furfrou-la-reine",
-                "furfrou-kabuki",
-                "furfrou-pharaoh"
+                "furfrou-matron"
             ]
         },
         {
             "pokemon": [
+                "furfrou-dandy",
+                "furfrou-la-reine",
+                "furfrou-kabuki",
+                "furfrou-pharaoh",
                 "meowstic-f",
                 "sliggoo-hisui",
                 "goodra-hisui",
@@ -1325,7 +1446,6 @@
                 "rockruff--own-tempo",
                 "lycanroc-midnight",
                 "lycanroc-dusk",
-                "minior-red",
                 "minior-orange",
                 "minior-yellow",
                 "minior-green",
@@ -1334,14 +1454,14 @@
                 "minior-violet",
                 "toxtricity-low-key",
                 "sinistea-antique",
-                "polteageist-antique",
-                "alcremie-vanilla-cream-berry",
-                "alcremie-vanilla-cream-love",
-                "alcremie-vanilla-cream-star"
+                "polteageist-antique"
             ]
         },
         {
             "pokemon": [
+                "alcremie-vanilla-cream-berry",
+                "alcremie-vanilla-cream-love",
+                "alcremie-vanilla-cream-star",
                 "alcremie-vanilla-cream-clover",
                 "alcremie-vanilla-cream-flower",
                 "alcremie-vanilla-cream-ribbon",
@@ -1368,14 +1488,14 @@
                 "alcremie-mint-cream-ribbon",
                 "alcremie-lemon-cream-strawberry",
                 "alcremie-lemon-cream-berry",
-                "alcremie-lemon-cream-love",
-                "alcremie-lemon-cream-star",
-                "alcremie-lemon-cream-clover",
-                "alcremie-lemon-cream-flower"
+                "alcremie-lemon-cream-love"
             ]
         },
         {
             "pokemon": [
+                "alcremie-lemon-cream-star",
+                "alcremie-lemon-cream-clover",
+                "alcremie-lemon-cream-flower",
                 "alcremie-lemon-cream-ribbon",
                 "alcremie-salted-cream-strawberry",
                 "alcremie-salted-cream-berry",
@@ -1402,15 +1522,24 @@
                 "alcremie-rainbow-swirl-berry",
                 "alcremie-rainbow-swirl-love",
                 "alcremie-rainbow-swirl-star",
-                "alcremie-rainbow-swirl-clover",
-                "alcremie-rainbow-swirl-flower",
-                "alcremie-rainbow-swirl-ribbon",
-                "indeedee-f"
+                "alcremie-rainbow-swirl-clover"
             ]
         },
         {
             "pokemon": [
-                "basculegion-f"
+                "alcremie-rainbow-swirl-flower",
+                "alcremie-rainbow-swirl-ribbon",
+                "indeedee-f",
+                "basculegion-f",
+                "oinkologne-f",
+                "maushold-four",
+                "squawkabilly-blue",
+                "squawkabilly-yellow",
+                "squawkabilly-white",
+                "tatsugiri-droopy",
+                "tatsugiri-sketchy",
+                "dudunsparce-three-segment",
+                "gimmighoul-roaming"
             ]
         }
     ]
