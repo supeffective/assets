@@ -112,7 +112,7 @@ require_once __DIR__ . '/_bootstrap.php';
                     continue 2;
                 }
             }
-            if ($pkm['isForm']) {
+            if (!$pkm['isDefault']) {
                 $forms[] = $pkmId;
             } else {
                 $species[] = $pkmId;

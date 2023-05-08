@@ -7,6 +7,7 @@ build:
 	rm -rf data/builds
 	php scripts/build.php
 	php scripts/build-with-presets.php
+	cp -rf data/builds/box-presets/* data/sources/box-presets/
 	make validate
 
 

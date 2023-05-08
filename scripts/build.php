@@ -30,6 +30,7 @@ require_once __DIR__ . '/_bootstrap.php';
                 'type1' => $pkm['type1'],
                 'type2' => $pkm['type2'],
                 'isForm' => $pkm['isForm'],
+                'isDefault' => $pkm['isDefault'],
                 'baseSpecies' => $pkm['baseSpecies'],
                 'baseForms' => $pkm['baseForms'],
                 'obtainableIn' => $pkm['obtainableIn'],
@@ -215,8 +216,7 @@ require_once __DIR__ . '/_bootstrap.php';
             if ($data['id'] !== $pokemonId) {
                 throw new \RuntimeException('ID mismatch: ' . $pokemonId . ' vs ' . $data['id']);
             }
-            if ($data['isDefault'] && !$data['isForm']) {
-                //$dexNum++;
+            if (!$data['isForm']) {
                 $dex[] = [
                     'id' => $pokemonId,
                     'dexNum' => $data['dexNum'],
@@ -281,10 +281,6 @@ require_once __DIR__ . '/_bootstrap.php';
 
         foreach ($sortedPokemonIds as $pkid) {
             $pkm = $dataSetById[$pkid];
-
-            if ($pkm['isForm'] === $pkm['isDefault']) {
-                throw new \Exception("in $pkid , isForm=isDefault");
-            }
 
             $data[] = [
                 'id' => $pkm['id'],
