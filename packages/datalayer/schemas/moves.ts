@@ -17,6 +17,7 @@ export const moveSchema = z.object({
   priority: z.coerce.number().min(-10).max(10),
   isZ: z.boolean(),
   isGmax: z.boolean(),
+  isLegacy: z.boolean().optional(),
 })
 
 export type Move = z.infer<typeof moveSchema>
