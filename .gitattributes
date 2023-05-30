@@ -1,0 +1,5 @@
+assets/**/* binary
+
+assets/spritesheets/**/* linguist-generated=true
+assets/images/spritesheets/**/* linguist-generated=true
+*.html linguist-generated=true
