@@ -1,2 +1,26 @@
-/data
+.cache
+.next
+.turbo
+.yarn
+apps/
+build/
+data/
+dist
+node_modules
+packages/
+static/
+.ignore/
+ignore/
+.history/
+public/
+.pnpm-store/
+.local/
+ignored/
+ignore/
 
+*.zip
+*.png
+*.webp
+*.sqlite
+*.db
+*.tar.gz

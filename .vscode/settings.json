@@ -1,0 +1,39 @@
+{
+  "editor.wordWrapColumn": 100,
+  "editor.rulers": [100],
+  "typescript.tsdk": "node_modules/.pnpm/typescript@5.0.4/node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "editor.codeActionsOnSave": {
+    "source.addMissingImports": true,
+    "source.organizeImports": true,
+    "source.fixAll.eslint": true
+  },
+  "[markdown]": {
+    "editor.fontSize": 14,
+    "editor.lineHeight": 26,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 64,
+    "editor.lineNumbers": "off",
+    "editor.quickSuggestions": {
+      "comments": "off",
+      "strings": "on",
+      "other": "on"
+    },
+    "editor.minimap.enabled": false
+  },
+  "testing.automaticallyOpenPeekView": "never",
+  "tailwindCSS.classAttributes": [
+    "class",
+    "className",
+    "ngClass",
+    "classes",
+    "classNames",
+    "baseClass",
+    "baseClassName",
+    "baseClasses",
+    "baseClassNames",
+    "cn"
+  ],
+  "editor.fontSize": 14,
+  "files.autoSave": "onFocusChange"
+}

@@ -1,0 +1,68 @@
+@import './tailwind.css';
+@import '@pkg/assets/spritesheets/pokemon/spritesheet.css';
+
+button,
+input,
+select,
+textarea {
+  background: none;
+}
+
+button {
+  appearance: none;
+}
+
+img,
+svg {
+  display: inline-block;
+  font-size: inherit;
+  line-height: inherit;
+  color: inherit;
+}
+
+.h-icon-1 {
+  width: auto;
+  height: 1em;
+}
+
+.h-icon-2 {
+  width: auto;
+  height: 1.25em;
+}
+
+.h-icon-3 {
+  width: auto;
+  height: 1.5em;
+}
+
+.h-icon-4 {
+  width: auto;
+  height: 1.75em;
+}
+
+.h-icon-5 {
+  width: auto;
+  height: 2em;
+}
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color-scheme: dark;
+  /* color: rgb(var(--foreground-rgb)); */
+  @apply text-nxt-w2;
+  background: linear-gradient(to bottom, transparent, rgb(var(--background-end-rgb)))
+    rgb(var(--background-start-rgb));
+}

@@ -1,0 +1,4 @@
+{
+  "include": ["*.d.ts"],
+  "exclude": ["node_modules"]
+}

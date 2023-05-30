@@ -1,0 +1,80 @@
+name: Check Code Quality
+
+env:
+  NODE_VERSION: 18
+  PNPM_VERSION: 8
+
+on:
+  push:
+    branches:
+      - 'main'
+  pull_request:
+    branches:
+      - main
+
+concurrency:
+  group: checkCodeQuality-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  checkCodeQuality:
+    name: 'Check Code Quality & Test'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
+
+      - name: Read default env vars from .env.dist
+        id: dotenv
+        uses: falti/dotenv-action@v1.0.4
+        with:
+          path: ${{ github.workspace }}/.env.dist
+          log-variables: true
+          mask-variables: false
+          keys-case: upper
+
+      - name: Copy .env.dist to .env
+        run: cp .env.dist .env
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2.2.4
+        with:
+          version: ${{ env.PNPM_VERSION }}
+
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'pnpm'
+
+      - name: Configure PATH env var
+        run: echo "$PWD/node_modules/.bin" >> $GITHUB_PATH
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Use node_modules cache
+        id: node_modules-cache
+        uses: actions/cache@v3
+        with:
+          path: '**/node_modules'
+          key: ${{ runner.os }}-node_modules-${{ hashFiles('pnpm-lock.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-node_modules-
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Prettify
+        run: pnpm pretty
+
+      - name: Lint
+        run: pnpm lint
+
+      - name: Build code
+        run: pnpm build
+
+      - name: Run tests
+        run: pnpm test

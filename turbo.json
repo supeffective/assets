@@ -1,0 +1,42 @@
+{
+  "$schema": "https://turbo.build/schema.json",
+  "globalEnv": [
+    "VERCEL_ENV",
+    "NEXTAUTH_SECRET",
+    "EMAIL_SMTP_USER",
+    "EMAIL_SMTP_PASSWORD",
+    "EMAIL_SMTP_HOST",
+    "EMAIL_SMTP_PORT",
+    "EMAIL_SMTP_ADDRESS",
+    "EMAIL_SMTP_ADDRESS_TEST",
+    "PRISMA_DATABASE_URL",
+    "PRISMA_DATABASE_DIRECT_URL",
+    "PRISMA_DATABASE_SHADOW_URL"
+  ],
+  "pipeline": {
+    "build": {
+      "dependsOn": ["^build"],
+      "outputs": ["dist/**", ".next/**", "generated/**"]
+    },
+    "lint": {
+      "outputs": []
+    },
+    "lint:fix": {
+      "cache": false
+    },
+    "test": {
+      "outputs": []
+    },
+    "test:coverage": {
+      "outputs": ["coverage/**"]
+    },
+    "test:watch": {
+      "cache": false,
+      "persistent": true
+    },
+    "dev": {
+      "cache": false,
+      "persistent": true
+    }
+  }
+}

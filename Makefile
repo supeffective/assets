@@ -1,35 +1,31 @@
-default: build
+default: build validate
 
 install:
-	docker-compose run --rm --workdir=/usr/src/app previewer composer install
+	echo "Installing dependencies..."
+	cp -f .env.dist .env
+	pnpm install
+
+dev:
+	echo "Starting Dev environment..."
+	pnpm dev
+
+open:
+	open http://localhost:3151
 
 build:
-	rm -rf data/builds
-	php scripts/build.php
-	php scripts/build-with-presets.php
-	cp -rf data/builds/box-presets/* data/sources/box-presets/
-	make validate
+	echo "Building assets and generated data..."
+	pnpm build
 
-
-pogo-upgrade:
-	docker-compose run --rm dumper-pogo make
-	php scripts/build-pogo.php
-
-showdown-upgrade: showdown
-showdown:
-	docker-compose run --rm dumper-showdown make
-	php scripts/build-showdown.php
-
-upgrade: pogo-upgrade showdown-upgrade
+update:
+	echo "Updating images and data from sources..."
+	# download images zip
+	# download and parse data
 
 validate:
-	php scripts/validate.php
+	echo "Validating generated data and assets..."
+	pnpm validate
 
-migrate:
-	php scripts/migrate.php
 
-preview:
-	docker-compose up -d previewer
-	open http://localhost:8080/
-
-.PHONY: build import-sources validate migrate
+.PHONY: build data packages images
+$(V).SILENT:
+.SILENT:

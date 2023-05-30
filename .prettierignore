@@ -1,0 +1,20 @@
+# Ignore:
+build
+.next
+.turbo
+node_modules
+public
+.yarn/
+.cache/
+coverage/
+pnpm-*.yaml
+.history/
+v8-compile-cache-*
+.pnpm-store
+.vercel/
+.contentlayer/
+.ignore/
+generated/
+.generated/
+assets/images/
+_prev/

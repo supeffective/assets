@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    "zenclabs.preview",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "visualstudioexptteam.vscodeintellicode",
+    "visualstudioexptteam.vscodeintellicode-completions",
+    "visualstudioexptteam.intellicode-api-usage-examples",
+    "christian-kohler.path-intellisense",
+    "prisma.prisma",
+    "eliostruyf.vscode-front-matter",
+    "unifiedjs.vscode-mdx",
+    "pkief.material-icon-theme",
+    "bradlc.vscode-tailwindcss",
+    "quentiumyt.vscode-tailwindcss-directives",
+    "yechunan.json-color-token"
+  ],
+  "unwantedRecommendations": ["eamodio.gitlens"]
+}

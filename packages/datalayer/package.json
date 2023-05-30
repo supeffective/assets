@@ -1,0 +1,22 @@
+{
+  "name": "@pkg/datalayer",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Data layer with repositories, schemas and validators",
+  "scripts": {
+    "showdown:import": "tsx ./scripts/import.ts && cd ../.. && pnpm pretty",
+    "validate": "tsx tests/validate-all.ts"
+  },
+  "dependencies": {
+    "@pkg/assets": "workspace:*",
+    "@pkg/utils": "workspace:*",
+    "@types/node": "^20.2.5",
+    "typescript": "^5.0.4",
+    "zod": "^3.21.4"
+  },
+  "devDependencies": {
+    "@pkmn/dex": "^0.7.40",
+    "@pkmn/dex-types": "^0.7.40",
+    "tsx": "^3.12.7"
+  }
+}

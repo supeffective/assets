@@ -1,7 +1,0 @@
-{
-    "name": "itsjavi/supereffective-assets",
-    "require": {
-        "php": ">=8.1.0",
-        "swaggest/json-schema": "^v0.12.41"
-    }
-}
