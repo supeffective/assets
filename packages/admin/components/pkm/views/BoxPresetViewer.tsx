@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useState } from 'react'
+import { ChangeEvent, useEffect, useState } from 'react'
 
 import { getGameSets } from '@/../datalayer/repositories/gamesets'
 import { getPokemonOrFail } from '@/../datalayer/repositories/pokemon'
@@ -49,7 +49,7 @@ export function BoxPresetViewer() {
           label="Game Set"
           options={gameSets}
           value={currentGameSet}
-          onChange={e => {
+          onChange={(e: ChangeEvent<HTMLSelectElement>) => {
             setCurrentGameSet(e.target.value)
           }}
         />
@@ -57,7 +57,7 @@ export function BoxPresetViewer() {
           label="Preset"
           options={boxPresets}
           value={currentPreset}
-          onChange={e => {
+          onChange={(e: ChangeEvent<HTMLSelectElement>) => {
             setCurrentPreset(e.target.value)
           }}
         />
