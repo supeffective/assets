@@ -917,7 +917,7 @@ packages:
       is-glob: 4.0.3
       open: 9.1.0
       picocolors: 1.0.0
-      tslib: 2.5.2
+      tslib: 2.5.3
     dev: false
 
   /@pkmn/dex-types@0.7.41:
@@ -1525,7 +1525,7 @@ packages:
   /@swc/helpers@0.5.1:
     resolution: {integrity: sha512-sJ902EfIzn1Fa+qYmjdQqh8tPsoxyBz+8yBKC2HKUxyezKJFwPGOn7pv4WY6QuQW//ySQi5lJjA/ZT9sNWWNTg==}
     dependencies:
-      tslib: 2.5.2
+      tslib: 2.5.3
     dev: false
 
   /@types/body-parser@1.19.2:
@@ -1926,7 +1926,7 @@ packages:
     resolution: {integrity: sha512-xcLxITLe2HYa1cnYnwCjkOO1PqUHQpozB8x9AR0OgWN2woOBi5kSDVxKfd0b7sb1hw5qFeJhXm9H1nu3xSfLeQ==}
     engines: {node: '>=10'}
     dependencies:
-      tslib: 2.5.2
+      tslib: 2.5.3
     dev: false
 
   /aria-query@5.1.3:
@@ -2134,7 +2134,7 @@ packages:
     hasBin: true
     dependencies:
       caniuse-lite: 1.0.30001492
-      electron-to-chromium: 1.4.418
+      electron-to-chromium: 1.4.419
       node-releases: 2.0.12
       update-browserslist-db: 1.0.11(browserslist@4.21.7)
     dev: false
@@ -2619,8 +2619,8 @@ packages:
     resolution: {integrity: sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==}
     dev: false
 
-  /electron-to-chromium@1.4.418:
-    resolution: {integrity: sha512-1KnpDTS9onwAfMzW50LcpNtyOkMyjd/OLoD2Kx/DDITZqgNYixY71XNszPHNxyQQ/Brh+FDcUnf4BaM041sdWg==}
+  /electron-to-chromium@1.4.419:
+    resolution: {integrity: sha512-jdie3RiEgygvDTyS2sgjq71B36q2cDSBfPlwzUyuOrfYTNoYWyBxxjGJV/HAu3A2hB0Y+HesvCVkVAFoCKwCSw==}
     dev: false
 
   /emoji-regex@8.0.0:
@@ -4850,7 +4850,7 @@ packages:
       '@types/react': 18.2.8
       react: 18.2.0
       react-style-singleton: 2.2.1(@types/react@18.2.8)(react@18.2.0)
-      tslib: 2.5.2
+      tslib: 2.5.3
     dev: false
 
   /react-remove-scroll@2.5.5(@types/react@18.2.8)(react@18.2.0):
@@ -4867,7 +4867,7 @@ packages:
       react: 18.2.0
       react-remove-scroll-bar: 2.3.4(@types/react@18.2.8)(react@18.2.0)
       react-style-singleton: 2.2.1(@types/react@18.2.8)(react@18.2.0)
-      tslib: 2.5.2
+      tslib: 2.5.3
       use-callback-ref: 1.3.0(@types/react@18.2.8)(react@18.2.0)
       use-sidecar: 1.1.2(@types/react@18.2.8)(react@18.2.0)
     dev: false
@@ -4886,7 +4886,7 @@ packages:
       get-nonce: 1.0.1
       invariant: 2.2.4
       react: 18.2.0
-      tslib: 2.5.2
+      tslib: 2.5.3
     dev: false
 
   /react@18.2.0:
@@ -4998,7 +4998,7 @@ packages:
   /rxjs@7.8.1:
     resolution: {integrity: sha512-AA3TVj+0A2iuIoQkWEK/tqFjBq2j+6PO6Y0zJcvzLAFhEFIO3HL0vls9hWLncZbAAbK0mar7oZ4V079I/qPMxg==}
     dependencies:
-      tslib: 2.5.2
+      tslib: 2.5.3
     dev: true
 
   /safe-buffer@5.2.1:
@@ -5376,7 +5376,7 @@ packages:
     engines: {node: ^14.18.0 || >=16.0.0}
     dependencies:
       '@pkgr/utils': 2.4.1
-      tslib: 2.5.2
+      tslib: 2.5.3
     dev: false
 
   /tailwind-merge@1.13.0:
@@ -5538,8 +5538,8 @@ packages:
     resolution: {integrity: sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg==}
     dev: false
 
-  /tslib@2.5.2:
-    resolution: {integrity: sha512-5svOrSA2w3iGFDs1HibEVBGbDrAY82bFQ3HZ3ixB+88nsbsWQoKqDRb5UBYAUPEzbBn6dAp5gRNXglySbx1MlA==}
+  /tslib@2.5.3:
+    resolution: {integrity: sha512-mSxlJJwl3BMEQCUNnxXBU9jP4JBktcEGhURcPR6VQVlnP0FdDEsIaz0C35dXNGLyRfrATNofF0F5p2KPxQgB+w==}
 
   /tsup@6.7.0(typescript@5.1.3):
     resolution: {integrity: sha512-L3o8hGkaHnu5TdJns+mCqFsDBo83bJ44rlK7e6VdanIvpea4ArPcU3swWGsLVbXak1PqQx/V+SSmFPujBK+zEQ==}
@@ -5759,7 +5759,7 @@ packages:
     dependencies:
       '@types/react': 18.2.8
       react: 18.2.0
-      tslib: 2.5.2
+      tslib: 2.5.3
     dev: false
 
   /use-sidecar@1.1.2(@types/react@18.2.8)(react@18.2.0):
@@ -5775,7 +5775,7 @@ packages:
       '@types/react': 18.2.8
       detect-node-es: 1.1.0
       react: 18.2.0
-      tslib: 2.5.2
+      tslib: 2.5.3
     dev: false
 
   /util-deprecate@1.0.2:
