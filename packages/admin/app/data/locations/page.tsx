@@ -14,9 +14,8 @@ export default function Page() {
       <div>
         <Title>{title}</Title>
         <Grid minColWidth="32ch">
-          {records.map((record, i) => {
-            const isOdd = i % 2 === 0
-            const bgClass = isOdd ? 'bg-nxt-b3' : 'bg-nxt-b3'
+          {records.map(record => {
+            const bgClass = 'bg-nxt-b4/90'
 
             return (
               <div
