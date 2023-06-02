@@ -1,6 +1,6 @@
 import { getGameSets as getRecords } from '@pkg/datalayer/repositories/gamesets'
 
-// import { ItemImgFile as RecordImgFile } from '@/components/pkm/ItemImgFile'
+import { GameIconImgFile as RecordImgFile } from '@/components/pkm/GameIconImgFile'
 import { Flex } from '@/components/primitives/boxes/Flex'
 import { Grid } from '@/components/primitives/boxes/Grid'
 import { Title } from '@/components/primitives/typography/Title'
@@ -17,12 +17,28 @@ export default function Page() {
           {records.map((record, i) => {
             const isOdd = i % 2 === 0
             const bgClass = isOdd ? 'bg-nxt-b3' : 'bg-nxt-b3'
+            const gameIds = Object.keys(record.games)
 
             return (
               <div
                 className={'flex gap-4 flex-col items-start p-4 rounded-lg ' + bgClass}
                 key={record.id}
               >
+                <Flex className="justify-start content-start group">
+                  <RecordImgFile id={record.id} style={{ zIndex: gameIds.length + 1 }} />
+                  {gameIds
+                    .filter(gameId => gameId !== record.id)
+                    .map((gameId, idx) => {
+                      return (
+                        <RecordImgFile
+                          key={`${record.id}-${gameId}`}
+                          id={gameId}
+                          className="-ml-12 hover:-ml-4 transition-all duration-300 ease-in-out group-hover:-ml-4"
+                          style={{ zIndex: gameIds.length - idx }}
+                        />
+                      )
+                    })}
+                </Flex>
                 <div className="flex-1">
                   <div className="text-sm text-nxt-w1 font-mono uppercase">{record.superset}</div>
                   <div className="text-lg font-bold text-nxt-w2">{record.name}</div>

@@ -5,7 +5,7 @@ import { cn } from '@pkg/utils/lib/styling/classNames'
 
 export type GameImgProps = { id: string; isGameSet?: boolean } & HTMLProps<HTMLSpanElement>
 
-export function GameImg({ id, isGameSet, className, ...rest }: GameImgProps): JSX.Element {
+export function GameImgFile({ id, isGameSet, className, ...rest }: GameImgProps): JSX.Element {
   const dir = isGameSet ? 'gameset' : 'game'
   const ext = isGameSet ? 'png' : 'jpeg'
   const tileImg = require(`../../../../assets/images/games/${dir}-tiles/${id}.${ext}`)
@@ -18,14 +18,8 @@ export function GameImg({ id, isGameSet, className, ...rest }: GameImgProps): JS
   }
 
   return (
-    <span title={id} className={cn(`w-full h-full not-italic`, className)} {...rest}>
-      <Image
-        src={tileImg}
-        alt={id}
-        width={width}
-        height={baseSize}
-        className="inline-block h-auto"
-      />
+    <span title={id} className={cn(`w-full h-full not-italic inline-block`, className)} {...rest}>
+      <Image src={tileImg} alt={id} width={width} height={height} className="inline-block h-auto" />
     </span>
   )
 }

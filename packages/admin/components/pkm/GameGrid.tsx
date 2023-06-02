@@ -6,9 +6,10 @@ import { PlusIcon, TrashIcon } from 'lucide-react'
 import { Game } from '@pkg/datalayer/schemas/games'
 import { cn } from '@pkg/utils/lib/styling/classNames'
 
-import { GameImg } from '@/components/pkm/GameImgFile'
+import { GameIconImgFile } from '@/components/pkm/GameIconImgFile'
 import { GameSelector } from '@/components/pkm/GameSelector'
 import { Flex } from '@/components/primitives/boxes/Flex'
+import { Grid } from '@/components/primitives/boxes/Grid'
 import { Button } from '@/components/primitives/controls/Button'
 import { Input } from '@/components/primitives/controls/Input'
 import { useDebounce } from '@/hooks/useDebounce'
@@ -51,7 +52,7 @@ export function GameGrid({
   )
   const spriteCn = cn(
     'w-full aspect-square leading-none rounded-full',
-    'bg-nxt-b4 flex items-center justify-center'
+    'bg-nxt-b3 flex items-center justify-center'
   )
 
   // search
@@ -124,7 +125,7 @@ export function GameGrid({
     const _className = cn(spriteWrapperCn, 'group relative')
     const spriteBlock = (
       <span className={spriteWrapperCn}>
-        <GameImg id={item.id} className={spriteCn} />
+        <GameIconImgFile id={item.id} className={spriteCn} />
       </span>
     )
     const nameBlock = withNames && <span className="block font-mono select-none">{item.name}</span>
@@ -211,9 +212,7 @@ export function GameGrid({
           />
         </Flex>
       )}
-      <div className="grid grid-cols-6 grid-flow-dense gap-2 text-center items-start">
-        {_renderResults()}
-      </div>
+      <Grid className="grid-flow-dense gap-2 text-center items-start">{_renderResults()}</Grid>
     </>
   )
 }

@@ -6,9 +6,10 @@ import { PlusIcon, TrashIcon } from 'lucide-react'
 import { cn } from '@pkg/utils/lib/styling/classNames'
 
 import { GameSet } from '@/../datalayer/schemas/gamesets'
-import { GameImg } from '@/components/pkm/GameImgFile'
+import { GameIconImgFile } from '@/components/pkm/GameIconImgFile'
 import { GameSetSelector } from '@/components/pkm/GameSetSelector'
 import { Flex } from '@/components/primitives/boxes/Flex'
+import { Grid } from '@/components/primitives/boxes/Grid'
 import { Button } from '@/components/primitives/controls/Button'
 import { Input } from '@/components/primitives/controls/Input'
 import { useDebounce } from '@/hooks/useDebounce'
@@ -50,8 +51,8 @@ export function GameSetGrid({
     'w-full min-w-12 text-xs text-nxt-w1 hover:text-nxt-w4 flex flex-col gap-2'
   )
   const spriteCn = cn(
-    'w-full leading-none rounded-md',
-    'bg-nxt-b4 flex items-center justify-center'
+    'w-full aspect-square leading-none rounded-full',
+    'bg-nxt-b3 flex items-center justify-center'
   )
 
   // search
@@ -125,7 +126,7 @@ export function GameSetGrid({
     const _className = cn(spriteWrapperCn, 'group relative')
     const spriteBlock = (
       <span className={spriteWrapperCn}>
-        <GameImg id={item.id} isGameSet className={spriteCn} />
+        <GameIconImgFile id={item.id} className={spriteCn} />
       </span>
     )
     const nameBlock = withNames && <span className="block font-mono select-none">{item.name}</span>
@@ -212,7 +213,7 @@ export function GameSetGrid({
           />
         </Flex>
       )}
-      <div className="grid grid-cols-6 gap-4 text-center items-start">{_renderResults()}</div>
+      <Grid className="grid-flow-dense gap-2 text-center items-start">{_renderResults()}</Grid>
     </>
   )
 }

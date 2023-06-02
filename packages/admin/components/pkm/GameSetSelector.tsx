@@ -34,7 +34,7 @@ export function GameSetSelector({ children, items, onSelect }: GameSetSelectorPr
       <DialogTrigger>{children}</DialogTrigger>
       <DialogContent>
         <DialogHeader>
-          <DialogTitle>Select a Pokémon</DialogTitle>
+          <DialogTitle>Select a Game Set</DialogTitle>
         </DialogHeader>
         <ScrollArea className="w-full h-auto max-h-[60vh] mt-4">
           <GameSetGrid searchable items={items} withNames onItemClick={onItemClick} />
