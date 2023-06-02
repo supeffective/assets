@@ -1,5 +1,5 @@
 @import './tailwind.css';
-@import '@pkg/assets/spritesheets/pokemon/spritesheet.css';
+@import '@pkg/assets/images/spritesheets/pokemon/spritesheet.css';
 
 button,
 input,
