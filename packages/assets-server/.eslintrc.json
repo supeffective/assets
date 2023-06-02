@@ -1,0 +1,13 @@
+{
+  "root": true,
+  "extends": "@config/eslint-config-base",
+  "env": {
+    "es2020": true,
+    "node": true,
+    "browser": false
+  },
+  "rules": {
+    "no-console": "off",
+    "@typescript-eslint/no-explicit-any": "warn"
+  }
+}
