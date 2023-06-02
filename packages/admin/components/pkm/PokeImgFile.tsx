@@ -3,6 +3,8 @@ import Image from 'next/image'
 
 import { cn } from '@pkg/utils/lib/styling/classNames'
 
+import { ASSETS_URL } from '@/lib/constants'
+
 export type PokeImgFileProps = {
   nid: string | null
   variant: 'gen8-icon' | 'home3d-icon' | 'home2d-icon'
@@ -18,7 +20,7 @@ export function PokeImgFile({
 }: PokeImgFileProps): JSX.Element {
   const shinyDir = shiny ? 'shiny' : 'regular'
   const baseName = nid ? `${variant}/${shinyDir}/${nid}.png` : `${variant}/unknown-sv.png`
-  const tileImg = require(`../../../../assets/images/pokemon/${baseName}`)
+  const tileImg = `${ASSETS_URL}/images/pokemon/${baseName}`
   const baseSize = 68 * 2
   let width = baseSize
   let height = baseSize

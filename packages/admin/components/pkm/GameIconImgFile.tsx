@@ -3,10 +3,12 @@ import Image from 'next/image'
 
 import { cn } from '@pkg/utils/lib/styling/classNames'
 
+import { ASSETS_URL } from '@/lib/constants'
+
 export type GameIconImgFileProps = { id: string } & HTMLProps<HTMLSpanElement>
 
 export function GameIconImgFile({ id, className, ...rest }: GameIconImgFileProps): JSX.Element {
-  const tileImg = require(`../../../../assets/images/games/gameset-icons/${id}.png`)
+  const tileImg = `${ASSETS_URL}/images/games/gameset-icons/${id}.png`
   const baseSize = 80
   let width = baseSize
   let height = baseSize

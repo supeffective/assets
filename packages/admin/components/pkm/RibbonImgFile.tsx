@@ -3,6 +3,8 @@ import Image from 'next/image'
 
 import { cn } from '@pkg/utils/lib/styling/classNames'
 
+import { ASSETS_URL } from '@/lib/constants'
+
 export type RibbonImgFileProps = {
   id: string
   variant?: 'gen9-style'
@@ -14,7 +16,7 @@ export function RibbonImgFile({
   className,
   ...rest
 }: RibbonImgFileProps): JSX.Element {
-  const tileImg = require(`../../../../assets/images/ribbons/${variant}/${id}.png`)
+  const tileImg = `${ASSETS_URL}/images/ribbons/${variant}/${id}.png`
   const baseSize = 68 * 2
   let width = baseSize
   let height = baseSize

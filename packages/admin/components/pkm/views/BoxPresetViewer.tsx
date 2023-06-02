@@ -123,5 +123,9 @@ function _parsePokemonID(pkm: BoxPresetBoxPokemon): string | null {
     return null
   }
 
+  if (pkm.pid.endsWith('-f')) {
+    return pkm.gmax ? `${pkm.pid.slice(0, -2)}-gmax` : pkm.pid
+  }
+
   return pkm.gmax ? `${pkm.pid}-gmax` : pkm.pid
 }

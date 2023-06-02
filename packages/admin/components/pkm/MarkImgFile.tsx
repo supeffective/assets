@@ -3,6 +3,8 @@ import Image from 'next/image'
 
 import { cn } from '@pkg/utils/lib/styling/classNames'
 
+import { ASSETS_URL } from '@/lib/constants'
+
 export type MarkImgFileProps = {
   id: string
   variant?: 'gen9-style'
@@ -14,7 +16,7 @@ export function MarkImgFile({
   className,
   ...rest
 }: MarkImgFileProps): JSX.Element {
-  const tileImg = require(`../../../../assets/images/marks/${variant}/${id}.png`)
+  const tileImg = `${ASSETS_URL}/images/marks/${variant}/${id}.png`
   const baseSize = 68 * 2
   let width = baseSize
   let height = baseSize
