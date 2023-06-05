@@ -40,6 +40,12 @@ export function MainNav(): JSX.Element {
     setMenuOpen(!menuOpen)
   }
 
+  function closeOnLinkClick() {
+    if (menuOpen) {
+      setMenuOpen(false)
+    }
+  }
+
   React.useEffect(() => {
     if (menuOpen) {
       document.body.classList.add('overflow-hidden')
@@ -117,6 +123,7 @@ export function MainNav(): JSX.Element {
                     {subMenuLinks.map(({ href, label }, index) => (
                       <Link
                         key={index}
+                        onClick={closeOnLinkClick}
                         href={href}
                         className={cn('hover:underline py-4 px-0 xl:px-8', [
                           href === pathname,
@@ -134,6 +141,7 @@ export function MainNav(): JSX.Element {
             return (
               <Link
                 key={index}
+                onClick={closeOnLinkClick}
                 href={href}
                 className={cn('p-4 hover:underline', [href === pathname, 'underline'])}
               >

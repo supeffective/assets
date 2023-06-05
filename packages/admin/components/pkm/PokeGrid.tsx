@@ -8,6 +8,7 @@ import { cn } from '@pkg/utils/lib/styling/classNames'
 
 import { PokeSelector } from '@/components/pkm/PokeSelector'
 import { Flex } from '@/components/primitives/boxes/Flex'
+import { Grid } from '@/components/primitives/boxes/Grid'
 import { Button } from '@/components/primitives/controls/Button'
 import { Input } from '@/components/primitives/controls/Input'
 import { useDebounce } from '@/hooks/useDebounce'
@@ -211,9 +212,9 @@ export function PokeGrid({
           />
         </Flex>
       )}
-      <div className="grid grid-cols-6 lg:grid-cols-8 xl:grid-cols-12 grid-flow-dense gap-2 text-center items-start">
+      <Grid className="grid-flow-dense gap-2 text-center items-start" minColWidth="10ch">
         {_renderResults()}
-      </div>
+      </Grid>
     </div>
   )
 }
