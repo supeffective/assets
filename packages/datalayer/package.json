@@ -15,8 +15,8 @@
     "zod": "^3.21.4"
   },
   "devDependencies": {
-    "@pkmn/dex": "^0.7.41",
-    "@pkmn/dex-types": "^0.7.41",
+    "@pkmn/dex": "^0.7.42",
+    "@pkmn/dex-types": "^0.7.42",
     "tsx": "^3.12.7"
   }
 }
