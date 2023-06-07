@@ -23,7 +23,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className={inter.className}>
         <Layout>
           <MainNav />
-          <main className="flex flex-col items-center justify-between lg:px-24 w-full">
+          <main className="flex-1 flex flex-col items-center justify-between lg:px-24 w-full">
             {children}
           </main>
           <MainFooter />

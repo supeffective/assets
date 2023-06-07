@@ -73,6 +73,54 @@ export function getPokemonMissingOnSwitchGames(): Pokemon[] {
     .filter(pkm => pkm.dexNum > 0)
 }
 
+type PokemonForGameSet = {
+  obtainable: Pokemon[]
+  storable: Pokemon[]
+  transferOnly: Pokemon[]
+  eventOnly: Pokemon[]
+}
+export function getPokemonForGameSet(gameSetId: string): PokemonForGameSet {
+  const data: PokemonForGameSet = {
+    obtainable: [],
+    storable: [],
+    transferOnly: [],
+    eventOnly: [],
+  }
+
+  const pokes = getAllPokemon()
+
+  for (const pkm of pokes) {
+    if (pkm.obtainableIn.includes(gameSetId)) {
+      data.obtainable.push(pkm)
+    }
+
+    if (pkm.storableIn.includes(gameSetId)) {
+      data.storable.push(pkm)
+    }
+
+    if (pkm.eventOnlyIn.includes(gameSetId)) {
+      data.eventOnly.push(pkm)
+    }
+
+    if (
+      pkm.storableIn.includes(gameSetId) &&
+      !pkm.obtainableIn.includes(gameSetId) &&
+      !pkm.eventOnlyIn.includes(gameSetId)
+    ) {
+      data.transferOnly.push(pkm)
+    }
+  }
+
+  return data
+}
+export function getExclusivePokemonForGame(gameId: string): Pokemon[] {
+  return getAllPokemon()
+    .filter(pkm => {
+      return pkm.versionExclusiveIn.some(g => gameId === g)
+    })
+    .filter(pkm => pkm.dexNum > 0)
+}
+
 export function getPokemonOrFail(id: string): Pokemon {
   const entry = getPokemon(id)
 
@@ -82,3 +130,8 @@ export function getPokemonOrFail(id: string): Pokemon {
 
   return validatePokemonOrFail(entry)
 }
+
+export type UpdatePokemon = Partial<Pokemon> & { id: string }
+export type PokemonMap = Map<string, Pokemon>
+
+export type UpdatePokemonFn = (data: UpdatePokemon) => Pokemon

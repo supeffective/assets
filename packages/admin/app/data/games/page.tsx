@@ -1,9 +1,12 @@
+import Link from 'next/link'
+
 import { getGameSets as getRecords } from '@pkg/datalayer/repositories/gamesets'
 
 import { GameIconImgFile as RecordImgFile } from '@/components/pkm/GameIconImgFile'
 import { Flex } from '@/components/primitives/boxes/Flex'
 import { Grid } from '@/components/primitives/boxes/Grid'
 import { Title } from '@/components/primitives/typography/Title'
+import { Routes } from '@/lib/Routes'
 
 export default function Page() {
   const title = 'Games'
@@ -40,7 +43,12 @@ export default function Page() {
                 </Flex>
                 <div className="flex-1">
                   <div className="text-sm text-nxt-w1 font-mono uppercase">{record.superset}</div>
-                  <div className="text-lg font-bold text-nxt-w2">{record.name}</div>
+                  <Link
+                    href={Routes.Games + `/${record.id}`}
+                    className="block text-lg font-bold text-nxt-w2 cursor-pointer"
+                  >
+                    {record.name}
+                  </Link>
                 </div>
               </div>
             )

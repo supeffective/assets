@@ -28,7 +28,6 @@ export function PokeSelector({
     if (onSelect) {
       onSelect(pkm)
     }
-    console.log('selected: ', pkm)
     setOpen(false)
   }
 

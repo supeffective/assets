@@ -17,9 +17,11 @@ import { Routes } from '@/lib/Routes'
 type PokeGridProps = {
   pokemon: Pokemon[]
   withNames?: boolean
+  withDexNums?: boolean
   searchable?: boolean
   sortable?: boolean
   addLabel?: string
+  size?: string
   max?: number
   onChange?: (pokemon: Pokemon[]) => void
   onPkmClick?: (pkm: Pokemon) => void
@@ -34,15 +36,19 @@ type PokeGridProps = {
     }
 )
 
+type PokemonTuple = [Pokemon, number]
+
 export function PokeGrid({
   pokemon,
   selectablePokemon,
   withNames,
+  withDexNums,
   searchable,
   sortable,
   max = 0,
   editable,
   addLabel = '',
+  size = '10ch',
   onChange,
   onPkmClick,
 }: PokeGridProps) {
@@ -57,10 +63,13 @@ export function PokeGrid({
   // search
   const debounceDelay = 800
   const [searchTerm, setSearchTerm] = useState<string>('')
-  const [results, setResults] = useState<Pokemon[]>(pokemon)
+  const [pokemonList, setPokemonList] = useState<Pokemon[]>(pokemon)
+  const [results, setResults] = useState<number[]>(pokemonList.map((_, idx) => idx))
   const [isSearching, setIsSearching] = useState<boolean>(false)
   const debouncedSearchTerm: string = useDebounce<string>(searchTerm, debounceDelay)
   const canAddMore = max === 0 || results.length < max
+
+  const getPokemonListIndices = () => pokemonList.map((_, idx) => idx)
 
   // interactions
   const handlePkmClick = (e: any, pkm: Pokemon) => {
@@ -75,57 +84,74 @@ export function PokeGrid({
   }
 
   const handleOnPkmSelect = (pkm: Pokemon) => {
-    results.push(pkm)
-    onChange?.(results)
+    const newPokemonList = [...pokemonList, pkm]
+    setPokemonList(newPokemonList)
+    onChange?.(newPokemonList)
   }
 
-  function searchPokemon(searchTerms: string): Pokemon[] {
-    return pokemon.filter(pkm => {
-      const searchableText = `name:"${pkm.name}" id:${pkm.id} dex:${pkm.dexNum} 
-      color:${pkm.color} type:${pkm.type1}:1 type:${pkm.type2}:2 region:${pkm.region}`.toLowerCase()
+  function searchPokemon(searchTerms: string): number[] {
+    return pokemonList
+      .map((pkm, idx): [Pokemon, number] => [pkm, idx])
+      .filter(data => {
+        const [pkm] = data
+        const searchableText = `name:"${pkm.name}" id:${pkm.id} dex:${pkm.dexNum} 
+      color:${pkm.color} type:${pkm.type1}:1 type:${pkm.type2}:2 region:${pkm.region}
+      gen${pkm.generation} gen:${pkm.generation} generation:${pkm.generation}`.toLowerCase()
 
-      const terms = searchTerms.toLowerCase().split(' ')
-      const negativeTerms = terms.filter(term => term.startsWith('!'))
-      const positiveTerms = terms.filter(term => !term.startsWith('!'))
+        const terms = searchTerms.toLowerCase().split(' ')
+        const negativeTerms = terms.filter(term => term.startsWith('!'))
+        const positiveTerms = terms.filter(term => !term.startsWith('!'))
 
-      const negativeMatches = negativeTerms.filter(term => searchableText.includes(term.slice(1)))
-      const positiveMatches = positiveTerms.filter(term => searchableText.includes(term))
+        const negativeMatches = negativeTerms.filter(term => searchableText.includes(term.slice(1)))
+        const positiveMatches = positiveTerms.filter(term => searchableText.includes(term))
 
-      return negativeMatches.length === 0 && positiveMatches.length === positiveTerms.length
-    })
+        return negativeMatches.length === 0 && positiveMatches.length === positiveTerms.length
+      })
+      .map(([, idx]) => idx)
   }
 
-  function _removeResultByIndex(index: number) {
-    const _results = [...results]
-    _results.splice(index, 1)
-    setResults(_results)
-    onChange?.(_results)
+  function _removePokeByIndex(listIndex: number) {
+    const _pokemonList = [...pokemonList]
+    _pokemonList.splice(listIndex, 1)
+    setPokemonList(_pokemonList)
+    setResults(results.filter(idx => idx !== listIndex))
+    onChange?.(_pokemonList)
   }
 
   useEffect(() => {
-    setResults(pokemon)
+    setPokemonList(pokemon)
+    setResults(pokemon.map((_, idx) => idx))
   }, [pokemon])
 
   useEffect(
     () => {
       if (debouncedSearchTerm) {
         setIsSearching(true)
-        const _results = searchPokemon(debouncedSearchTerm)
+        const _resultIndices = searchPokemon(debouncedSearchTerm)
         setIsSearching(false)
-        setResults(_results)
+        setResults(_resultIndices)
       } else {
-        setResults(pokemon)
+        setResults(getPokemonListIndices())
         setIsSearching(false)
       }
     },
     [debouncedSearchTerm] // Only call effect if debounced search term changes
   )
 
-  function _renderResult(pkm: Pokemon, index: number) {
+  function _renderResult(listIndex: number) {
+    const pkm = pokemonList[listIndex]
+    if (!pkm) {
+      throw new Error(`Pokemon not found at index ${listIndex}`)
+    }
     const _className = cn(spriteWrapperCn, 'group relative')
     const spriteBlock = (
       <span className={spriteWrapperCn}>
         <i className={`${spriteCn} pkm pkm-${pkm.id}`} />
+      </span>
+    )
+    const dexNumBlock = withDexNums && (
+      <span className="block font-mono select-none text-[10px]">
+        #{String(pkm.dexNum).padStart(4, '0')}
       </span>
     )
     const nameBlock = withNames && <span className="block font-mono select-none">{pkm.name}</span>
@@ -133,7 +159,7 @@ export function PokeGrid({
       <Button
         title="Delete"
         className="hidden group-hover:inline absolute top-0 right-0 text-white bg-red-700 hover:bg-red-800 text-xs p-2"
-        onClick={() => _removeResultByIndex(index)}
+        onClick={() => _removePokeByIndex(listIndex)}
       >
         <TrashIcon size={16} />
       </Button>
@@ -142,13 +168,16 @@ export function PokeGrid({
     if (editable) {
       return (
         <span
-          key={`${pkm.id}-${index}`}
+          key={`${pkm.id}-${listIndex}`}
           className={_className}
           title={pkm.name}
           onClick={e => handlePkmClick(e, pkm)}
         >
           {spriteBlock}
-          {nameBlock}
+          <span className="mb-2">
+            {dexNumBlock}
+            {nameBlock}
+          </span>
           {deleteBtn}
         </span>
       )
@@ -156,14 +185,17 @@ export function PokeGrid({
 
     return (
       <a
-        key={`${pkm.id}-${index}`}
+        key={`${pkm.id}-${listIndex}`}
         className={_className}
         title={pkm.name}
         href={`${Routes.Pokemon}/${pkm.id}/edit`}
         onClick={e => handlePkmClick(e, pkm)}
       >
         {spriteBlock}
-        {nameBlock}
+        <span className="mb-2">
+          {dexNumBlock}
+          {nameBlock}
+        </span>
       </a>
     )
   }
@@ -212,7 +244,7 @@ export function PokeGrid({
           />
         </Flex>
       )}
-      <Grid className="grid-flow-dense gap-2 text-center items-start" minColWidth="10ch">
+      <Grid className="grid-flow-dense gap-2 text-center items-start" minColWidth={size}>
         {_renderResults()}
       </Grid>
     </div>

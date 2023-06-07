@@ -97,3 +97,40 @@ export const pokemonSchema = z.object({
 })
 
 export type Pokemon = z.infer<typeof pokemonSchema>
+
+export type LegacyPokemon = {
+  id: string
+  nid: string
+  dexNum: number
+  formId: string | null
+  name: string
+  formName: string | null
+  region: string
+  generation: number
+  type1: string
+  type2: string | null
+  color: string
+  isDefault: boolean
+  isForm: boolean
+  isSpecialAbilityForm: boolean
+  isCosmeticForm: boolean
+  isFemaleForm: boolean
+  hasGenderDifferences: boolean
+  isBattleOnlyForm: boolean
+  isSwitchableForm: boolean
+  isMega: boolean
+  isPrimal: boolean
+  isGmax: boolean
+  canGmax: boolean
+  canDynamax: boolean
+  canBeAlpha: boolean
+  debutIn: string
+  obtainableIn: string[]
+  versionExclusiveIn: string[]
+  eventOnlyIn: string[]
+  storableIn: string[]
+  shinyReleased: boolean
+  shinyBase: string | null
+  baseSpecies: string | null
+  forms: string[] | null
+}
