@@ -42,7 +42,9 @@ export function PokemonFormsEditor({
       <div className="mb-10">
         <h4 className="text-xl font-bold mb-4">Forms</h4>
         <PokeGrid
-          editable
+          canAdd
+          canRemove
+          sortable
           onChange={list => handleFormsSelection(list, 'forms')}
           selectablePokemon={allPokemon}
           withNames
@@ -58,7 +60,8 @@ export function PokemonFormsEditor({
       <div className="mb-10">
         <h4 className="text-xl font-bold mb-4">Changes From</h4>
         <PokeGrid
-          editable
+          canAdd
+          canRemove
           onChange={list => handleFormsSelection(list, 'baseForms')}
           selectablePokemon={allPokemon}
           withNames
@@ -79,7 +82,8 @@ export function PokemonFormsEditor({
       <div className="mb-10">
         <h4 className="text-xl font-bold mb-4">Base Species</h4>
         <PokeGrid
-          editable
+          canAdd
+          canRemove
           onChange={list => handleSingleFormSelection(list, 'baseSpecies')}
           selectablePokemon={allPokemon}
           addLabel="Select Base Species"
@@ -97,7 +101,8 @@ export function PokemonFormsEditor({
           </Label>
         </Flex>
         <PokeGrid
-          editable
+          canAdd
+          canRemove
           onChange={list => handleSingleFormSelection(list, 'shinyBase')}
           selectablePokemon={allPokemon}
           addLabel="Select Shiny Base"
@@ -190,7 +195,8 @@ export function PokemonFormsEditor({
       </Flex>
       <Flex>
         <PokeGrid
-          editable
+          canAdd
+          canRemove
           onChange={list => handleFormsSelection(list, 'fusedWith')}
           selectablePokemon={allPokemon}
           withNames
@@ -219,7 +225,8 @@ export function PokemonFormsEditor({
       </Flex>
       <Flex>
         <PokeGrid
-          editable
+          canAdd
+          canRemove
           onChange={list => handleFormsSelection(list, 'paradoxSpecies')}
           selectablePokemon={allPokemon}
           withNames
@@ -248,7 +255,8 @@ export function PokemonFormsEditor({
       </Flex>
       <Flex>
         <PokeGrid
-          editable
+          canAdd
+          canRemove
           onChange={list => handleFormsSelection(list, 'convergentSpecies')}
           selectablePokemon={allPokemon}
           withNames

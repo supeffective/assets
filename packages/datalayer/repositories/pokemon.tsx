@@ -73,7 +73,7 @@ export function getPokemonMissingOnSwitchGames(): Pokemon[] {
     .filter(pkm => pkm.dexNum > 0)
 }
 
-type PokemonForGameSet = {
+export type PokemonForGameSet = {
   obtainable: Pokemon[]
   storable: Pokemon[]
   transferOnly: Pokemon[]
@@ -135,3 +135,85 @@ export type UpdatePokemon = Partial<Pokemon> & { id: string }
 export type PokemonMap = Map<string, Pokemon>
 
 export type UpdatePokemonFn = (data: UpdatePokemon) => Pokemon
+
+export function createPlaceholderPokemon(): Pokemon {
+  return {
+    id: 'unknown',
+    nid: '0000-unknown',
+    dexNum: 0,
+    formId: null,
+    name: '(empty)',
+    psName: 'unknown',
+    formName: null,
+    region: 'unknown',
+    generation: 0,
+    type1: 'unknown',
+    type2: null,
+    color: 'unknown',
+    abilities: {
+      primary: 'unknown',
+      secondary: null,
+      hidden: null,
+    },
+    isDefault: true,
+    isForm: false,
+    isLegendary: false,
+    isMythical: false,
+    isUltraBeast: false,
+    ultraBeastCode: null,
+    isSpecialAbilityForm: false,
+    isCosmeticForm: false,
+    isFemaleForm: false,
+    hasGenderDifferences: false,
+    isBattleOnlyForm: false,
+    isSwitchableForm: false,
+    isFusion: false,
+    fusedWith: null,
+    isMega: false,
+    isPrimal: false,
+    isGmax: false,
+    isRegional: false,
+    canGmax: false,
+    canDynamax: false,
+    canBeAlpha: false,
+    debutIn: 'unknown',
+    obtainableIn: [],
+    versionExclusiveIn: [],
+    eventOnlyIn: [],
+    storableIn: [],
+    shinyReleased: false,
+    shinyBase: null,
+    baseStats: {
+      hp: 0,
+      atk: 0,
+      def: 0,
+      spa: 0,
+      spd: 0,
+      spe: 0,
+    },
+    goStats: {
+      atk: 0,
+      def: 0,
+      sta: 0,
+    },
+    weight: 0,
+    height: 0,
+    baseSpecies: null,
+    baseForms: [],
+    forms: [],
+    evolvesFrom: null,
+    refs: {
+      pogo: null,
+      smogon: null,
+      showdown: null,
+      serebii: null,
+      bulbapedia: null,
+      homeSprite: '0000-unknown',
+      miniSprite: '0000-unknown',
+    },
+  }
+}
+
+export function isPlaceholderPokemon(pkm: Pokemon): boolean {
+  return pkm.id === 'unknown'
+}

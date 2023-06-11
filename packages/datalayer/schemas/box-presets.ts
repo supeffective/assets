@@ -31,3 +31,4 @@ export type BoxPresetBoxPokemon = z.infer<typeof boxPresetBoxPokemonSchema>
 export type BoxPresetBox = z.infer<typeof boxPresetBoxSchema>
 export type BoxPreset = z.infer<typeof boxPresetSchema>
 export type BoxPresetMap = Map<string, Map<string, BoxPreset>>
+export type BoxPresetRecord = Record<string, Record<string, BoxPreset>>

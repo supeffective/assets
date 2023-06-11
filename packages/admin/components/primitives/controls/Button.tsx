@@ -7,9 +7,11 @@ type HTMLButtonProps = HTMLProps<HTMLButtonElement> & {
   type?: 'button' | 'submit' | 'reset' | undefined
 }
 
-type ButtonProps = HTMLButtonProps | HTMLProps<HTMLAnchorElement>
+type ButtonProps = (HTMLButtonProps | HTMLProps<HTMLAnchorElement>) & {
+  asSpan?: boolean
+}
 
-export function Button({ href, className, ...rest }: ButtonProps): JSX.Element {
+export function Button({ href, asSpan, className, ...rest }: ButtonProps): JSX.Element {
   const classNames = cn(
     'rounded-md px-6 py-3 inline-flex items-center',
     'text-center justify-center text-sm font-medium transition-colors duration-200',
@@ -32,16 +34,31 @@ export function Button({ href, className, ...rest }: ButtonProps): JSX.Element {
     const aProps = rest as HTMLProps<HTMLAnchorElement>
 
     return (
-      <a className={classNames} {...aProps} href={href} target="_blank" rel="norefer nofollow">
+      <a
+        className={classNames}
+        tabIndex={0}
+        {...aProps}
+        href={href}
+        target="_blank"
+        rel="norefer nofollow"
+      >
         {rest.children}
       </a>
+    )
+  }
+
+  if (asSpan) {
+    return (
+      <span className={classNames} {...rest} tabIndex={0}>
+        {rest.children}
+      </span>
     )
   }
 
   const buttonProps = rest as HTMLButtonProps
 
   return (
-    <button className={classNames} {...buttonProps}>
+    <button className={classNames} tabIndex={0} {...buttonProps}>
       {rest.children}
     </button>
   )

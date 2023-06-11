@@ -2,7 +2,7 @@ import React, { HTMLProps } from 'react'
 
 import { cn } from '@pkg/utils/lib/styling/classNames'
 
-type GridProps = {
+export type GridProps = {
   gap?: number
   minColWidth?: string
   maxColWidth?: string

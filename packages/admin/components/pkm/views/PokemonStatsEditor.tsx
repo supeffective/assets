@@ -1,9 +1,9 @@
+import { LATEST_GENERATION } from '@pkg/datalayer/constants'
 import { getAbilities } from '@pkg/datalayer/repositories/abilities'
 import { getColors } from '@pkg/datalayer/repositories/colors'
 import { getGameSets } from '@pkg/datalayer/repositories/gamesets'
 import { getRegions } from '@pkg/datalayer/repositories/regions'
 import { getTypes } from '@pkg/datalayer/repositories/types'
-import { MAX_POKEMON_GENERATION } from '@pkg/datalayer/schemas/common'
 import { Pokemon } from '@pkg/datalayer/schemas/pokemon'
 
 import { Field } from '@/components/primitives/boxes/Field'
@@ -211,7 +211,7 @@ export function PokemonStatsEditor({
         </Field.SplitViewItem>
         <Field.SplitViewItem label="Generation">
           <Select
-            options={[...Array(MAX_POKEMON_GENERATION)].map((_, index) => ({
+            options={[...Array(LATEST_GENERATION)].map((_, index) => ({
               value: `${index + 1}`,
               label: `Generation ${index + 1}`,
             }))}
