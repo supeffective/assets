@@ -23,6 +23,7 @@ export const boxPresetSchema = z.object({
   gameSet: slugSchema,
   description: z.string(),
   boxes: z.array(boxPresetBoxSchema),
+  isHidden: z.coerce.boolean().optional(),
 })
 
 export const boxPresetMapSchema = z.record(z.record(boxPresetSchema))

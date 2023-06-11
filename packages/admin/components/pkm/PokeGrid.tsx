@@ -484,7 +484,7 @@ export function PokeGrid({
     return (
       <PokeSelector
         pokemon={selectablePokemon}
-        maxSelection={max - pokemonList.length}
+        maxSelection={max ? max - pokemonList.length : 100}
         uniqueSelection={canRepeat !== true}
         onSelect={handleAppendPokemon}
       >

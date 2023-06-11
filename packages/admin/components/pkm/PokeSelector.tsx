@@ -33,7 +33,7 @@ export function PokeSelector({
   children,
   pokemon,
   onSelect,
-  maxSelection = 1,
+  maxSelection = 100,
   uniqueSelection,
 }: {
   children: React.ReactNode
