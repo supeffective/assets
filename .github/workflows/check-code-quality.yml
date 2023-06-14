@@ -2,7 +2,7 @@ name: Check Code Quality
 
 env:
   NODE_VERSION: 18
-  PNPM_VERSION: 8
+  PNPM_VERSION: 8.6
 
 on:
   push:
@@ -21,11 +21,6 @@ jobs:
     name: 'Check Code Quality & Test'
     runs-on: ubuntu-latest
     steps:
-      - name: Check out code
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 2
-
       - name: Read default env vars from .env.dist
         id: dotenv
         uses: falti/dotenv-action@v1.0.4
@@ -38,34 +33,58 @@ jobs:
       - name: Copy .env.dist to .env
         run: cp .env.dist .env
 
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v2.2.4
-        with:
-          version: ${{ env.PNPM_VERSION }}
-
-      - name: Setup Node.js environment
-        uses: actions/setup-node@v3
-        with:
-          node-version: ${{ env.NODE_VERSION }}
-          cache: 'pnpm'
-
       - name: Configure PATH env var
         run: echo "$PWD/node_modules/.bin" >> $GITHUB_PATH
 
+      - name: Setup node
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          check-latest: true
+
+      - name: Check out code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
+
+      # ------- Setup node, pnpm and install depedencies using a cache
+      - name: Setup node
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          registry-url: https://npm.pkg.github.com
+          check-latest: true
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v2
+        id: pnpm-install
+        with:
+          version: 8
+          run_install: false
+
+      - name: Install global dependencies
+        run: |
+          pnpm add turbo@1 --global
+
+      - id: get-pnpm-store-path
+        run: echo PNPM_STORE_PATH=$(pnpm store path) >> $GITHUB_OUTPUT
+
+      - name: Restore pnpm store cache
+        uses: actions/cache@v3
+        timeout-minutes: 3
+        id: cache-pnpm-store
+        with:
+          path: ${{ steps.get-pnpm-store-path.outputs.PNPM_STORE_PATH }}
+          key: pnpm-store-${{ hashFiles('pnpm-lock.yaml') }}
+          restore-keys: |
+            pnpm-store-
+            pnpm-store-${{ hashFiles('pnpm-lock.yaml') }}
+
       - name: Install dependencies
+        # with --frozen-lockfile it fails to install if the lockfile is out of sync with the manifest
         run: pnpm install --frozen-lockfile
 
-      - name: Use node_modules cache
-        id: node_modules-cache
-        uses: actions/cache@v3
-        with:
-          path: '**/node_modules'
-          key: ${{ runner.os }}-node_modules-${{ hashFiles('pnpm-lock.yaml') }}
-          restore-keys: |
-            ${{ runner.os }}-node_modules-
-
-      - name: Install dependencies
-        run: pnpm install
+      # -------------- end of setup
 
       - name: Prettify
         run: pnpm pretty
