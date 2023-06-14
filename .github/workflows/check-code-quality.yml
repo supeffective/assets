@@ -21,21 +21,6 @@ jobs:
     name: 'Check Code Quality & Test'
     runs-on: ubuntu-latest
     steps:
-      - name: Read default env vars from .env.dist
-        id: dotenv
-        uses: falti/dotenv-action@v1.0.4
-        with:
-          path: ${{ github.workspace }}/.env.dist
-          log-variables: true
-          mask-variables: false
-          keys-case: upper
-
-      - name: Copy .env.dist to .env
-        run: cp .env.dist .env
-
-      - name: Configure PATH env var
-        run: echo "$PWD/node_modules/.bin" >> $GITHUB_PATH
-
       - name: Setup node
         uses: actions/setup-node@v3
         with:
@@ -46,6 +31,21 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 2
+
+      - name: Read default env vars from .env.dist
+        id: dotenv
+        uses: falti/dotenv-action@v1.0.4
+        with:
+          path: ${{ github.workspace }}/.env.dist
+          log-variables: true
+          mask-variables: false
+          keys-case: upper
+
+      # - name: Copy .env.dist to .env
+      #   run: cp .env.dist .env
+
+      - name: Configure PATH env var
+        run: echo "$PWD/node_modules/.bin" >> $GITHUB_PATH
 
       # ------- Setup node, pnpm and install depedencies using a cache
       - name: Setup node
