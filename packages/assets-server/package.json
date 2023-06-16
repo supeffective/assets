@@ -21,6 +21,6 @@
     "@types/node": "^20.3.1",
     "concurrently": "^8.2.0",
     "nodemon": "^2.0.22",
-    "tsup": "^6.7.0"
+    "tsup": "^7.0.0"
   }
 }
