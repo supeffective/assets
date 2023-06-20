@@ -35,5 +35,6 @@
     "cn"
   ],
   "editor.fontSize": 14,
-  "files.autoSave": "onFocusChange"
+  "files.autoSave": "onFocusChange",
+  "jest.jestCommandLine": "pnpm jest"
 }

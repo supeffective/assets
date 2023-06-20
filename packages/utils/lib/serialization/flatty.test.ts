@@ -1,5 +1,3 @@
-import { describe, expect, it } from 'vitest'
-
 import flatty from './flatty'
 
 describe('flatten', () => {

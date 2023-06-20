@@ -1,8 +1,6 @@
-import { describe, expect, it, vi } from 'vitest'
-
 import { arrayShuffle } from './arrayShuffle'
 
-Math.random = vi
+Math.random = jest
   .fn()
   .mockReturnValue(0.01)
   .mockReturnValue(0.83)

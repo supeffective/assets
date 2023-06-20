@@ -1,26 +1,32 @@
 {
   "$schema": "https://turbo.build/schema.json",
-  "globalEnv": ["ASSETS_URL", "VERCEL_ENV", "VERCEL_URL"],
+  "globalEnv": ["ASSETS_URL", "VERCEL_ENV", "VERCEL_URL", "CI", "DEBUG_MODE", "LOCALE_LANGUAGE"],
+  "globalDependencies": [".env", "tsconfig.json"],
   "pipeline": {
     "build": {
+      "description": "A package's `build` script depends on that package's dependencies and devDependencies `build` tasks being completed first. The `^` symbol signifies `upstream script`.",
       "dependsOn": ["^build"],
-      "outputs": ["dist/**", ".next/**", "generated/**"]
+      "outputs": ["dist/**", ".next/**", "data/**", "generated/**", "repositories/**"]
     },
-    "lint": {
+    "//#pretty:all": {
+      "description": "Run the pretty:all script from the root package ('`//#` signifies `root package`)",
+      "outputs": [],
+      "outputMode": "new-only"
+    },
+    "//#lint:all": {
+      "outputs": [],
+      "outputMode": "new-only"
+    },
+    "//#lint:all:fix": {
+      "outputs": [],
+      "outputMode": "new-only"
+    },
+    "//#format:all": {
+      "outputs": [],
+      "outputMode": "new-only"
+    },
+    "//#test:all": {
       "outputs": []
-    },
-    "lint:fix": {
-      "cache": false
-    },
-    "test": {
-      "outputs": []
-    },
-    "test:coverage": {
-      "outputs": ["coverage/**"]
-    },
-    "test:watch": {
-      "cache": false,
-      "persistent": true
     },
     "dev": {
       "cache": false,
