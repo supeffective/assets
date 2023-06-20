@@ -23,7 +23,7 @@ update:
 
 validate:
 	echo "Validating generated data and assets..."
-	pnpm validate
+	pnpm data:validate
 
 
 .PHONY: build data packages images

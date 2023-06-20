@@ -37,5 +37,5 @@ pnpm test
 To validate the data and the assets, run this script:
 
 ```sh
-pnpm validate
+pnpm data:validate
 ```
