@@ -1,6 +1,6 @@
 module.exports = {
   root: true,
-  extends: ['turbo', 'prettier', 'plugin:react-hooks/recommended'],
+  extends: ['prettier', 'plugin:react-hooks/recommended'],
   parser: '@typescript-eslint/parser',
   ignorePatterns: [
     '**/node_modules/**',
@@ -10,6 +10,7 @@ module.exports = {
     '**/generated/**',
     'packages/website**',
   ],
+  plugins: ['import', 'react', 'react-hooks', 'jsx-a11y', '@typescript-eslint'],
   rules: {
     'jsx-a11y/alt-text': 'error',
     // components
@@ -19,7 +20,6 @@ module.exports = {
     'react/no-unescaped-entities': 'off',
     'newline-before-return': 'error',
   },
-  plugins: ['import', 'react', 'react-hooks', 'jsx-a11y', '@typescript-eslint'],
   overrides: [
     {
       files: ['*.js', '*.cjs'],
