@@ -29,32 +29,39 @@ make open
 
 ### Manually editing the JSON data
 
-All data from `./data/json` can be edited manually, but it is recommended to use the admin panel instead.
+All data from `./data/json` can be edited manually, but it much better to use the admin panel instead,
+which has some triggers behind to update all necessary data files.
+
+When you edit the JSONs manually, you might do mistakes or run into other issues.
 
 #### Adding a new Pokémon or form manually
 
-- Add the entry in `data/pokemon.json`
-- Edit the National dex and other necessary ones in `data/pokedexes/*`
-- Add the missing entries in the boxes under `data/legacy/box-presets/*`
-- Run `make` to validate and build the data
+There are special cases where you need to introduce data manually, for example,
+when brand new Pokémon species or forms are announced and there isn't info about them yet in the Showdown project.
 
-#### Editing the availability of a Pokémon inside a game
-
-- Edit the games in the wanted Pokémon entry from `data/pokemon.json`
-- Run `make` to validate and build the data
+- Add the entry or entries manually in `data/pokemon.json`
+- Open the Admin UI and adjust all other necessary data (pokemon stats, game availability, dexes, boxes, etc.)
 
 ## Data Sources
 
 This project has reused these other existing projects to generate the initial set of data:
 
 - Showdown modular project https://github.com/pkmn/ps
-- Veekun DB data
+- Veekun DB data (which is not longer maintained)
 
 Data that is not covered in the previous sources, comes from the following sources:
 
-- Pokémon HOME Pokédex
+- Pokémon HOME Pokédex (specially, for the sorting order of the forms)
 - Bulbapedia
 - Serebii.net
-- Google
+- Data miners' pastebin files (special thanks to PKHex developers, Kaphotics, Anubis and Matt) 
 - Naming conventions of the Pokémon community (like BDSP, SwSh etc.)
-- Manually crafter by the developers of SuperEffective.gg
+- Manually crafted by the developers of SuperEffective.gg
+
+
+## Media Sources
+
+- Most audios come from sounds-resource.com
+- Mini menu sprites (pixel-art): pokesprite project and the Delta Pokedex project
+- Some sprites from the PokeAPI repository
+- Renders (2D and 3D) come from the actual games' assets
