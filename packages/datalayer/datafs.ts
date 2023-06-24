@@ -2,7 +2,12 @@ import fs from 'node:fs'
 import path from 'node:path'
 
 const PKG_PATH = path.dirname(new URL(import.meta.url).pathname)
-const DATA_PATH = path.join(PKG_PATH, '..', '..', 'assets', 'data')
+const ASSETS_PATH = path.join(PKG_PATH, '..', '..', 'assets')
+const DATA_PATH = path.join(ASSETS_PATH, 'data')
+
+export function getAssetsPath(basename?: string): string {
+  return basename ? path.join(ASSETS_PATH, basename) : ASSETS_PATH
+}
 
 export function getDataPath(basename?: string): string {
   return basename ? path.join(DATA_PATH, basename) : DATA_PATH

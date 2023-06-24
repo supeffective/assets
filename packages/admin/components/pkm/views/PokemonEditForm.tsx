@@ -79,7 +79,7 @@ export function PokemonEditForm({ pokemon }: PokemonEditFormProps) {
           </Box.Content>
           <Box.Footer>
             <span />
-            <Button type="submit">Save</Button>
+            {/* <Button type="submit">Save</Button> */}
           </Box.Footer>
         </Tab>
         <Tab

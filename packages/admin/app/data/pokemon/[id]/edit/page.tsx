@@ -30,7 +30,7 @@ export default function Page({ params }: { params: { id: string } }) {
 
   return (
     <>
-      <PrevNextPokemon id={params.id} />
+      <PrevNextPokemon withName id={params.id} />
       <form className="w-full" action={saveEntry}>
         <PokemonEditForm pokemon={pkm} />
       </form>

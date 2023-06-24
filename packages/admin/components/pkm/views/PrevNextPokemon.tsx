@@ -15,7 +15,7 @@ import { Sprite } from '@/components/primitives/boxes/Sprite'
 import { Title } from '@/components/primitives/typography/Title'
 import { Routes } from '@/lib/Routes'
 
-export function PrevNextPokemon({ id }: { id: string }) {
+export function PrevNextPokemon({ id, withName }: { id: string; withName?: boolean }) {
   const allPkm = getAllPokemon()
   const cursors = getPreviousAndNextPokemon(allPkm, id)
   const pkm = getPokemonOrFail(id)
@@ -51,8 +51,8 @@ export function PrevNextPokemon({ id }: { id: string }) {
       ) : (
         <span />
       )}
-      <Title className="flex items-end gap-2">
-        {pkm.name}
+      <Title className="flex items-center gap-2">
+        {withName && pkm.name}
         <Sprite size={92} className="align-baseline">
           <PokeSprite id={id} />
         </Sprite>

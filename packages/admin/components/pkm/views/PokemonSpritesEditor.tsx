@@ -4,6 +4,7 @@ import { Pokemon } from '@pkg/datalayer/schemas/pokemon'
 
 import { PokeImgFile } from '@/components/pkm/PokeImgFile'
 import { PokeSprite } from '@/components/pkm/PokeSprite'
+import { PrevNextPokemon } from '@/components/pkm/views/PrevNextPokemon'
 import { Flex } from '@/components/primitives/boxes/Flex'
 import { Sprite } from '@/components/primitives/boxes/Sprite'
 
@@ -45,8 +46,19 @@ export function PokemonSpritesEditor({ pkm }: { pkm: Pokemon }) {
             Gen8 Pixel-art Style
           </h4>
           <Flex className="justify-center content-center items-center flex-1">
-            <PokeImgFile nid={pkm.nid} variant="gen8-icon" className="border border-nxt-g3" />
-            <PokeImgFile nid={pkm.nid} shiny variant="gen8-icon" className="border border-nxt-g3" />
+            <PokeImgFile
+              editable
+              nid={pkm.nid}
+              variant="gen8-icon"
+              className="border border-nxt-g3"
+            />
+            <PokeImgFile
+              editable
+              nid={pkm.nid}
+              shiny
+              variant="gen8-icon"
+              className="border border-nxt-g3"
+            />
           </Flex>
         </Flex>
         <Flex vertical className="bg-nxt-b3 p-2 rounded-lg">
@@ -54,8 +66,14 @@ export function PokemonSpritesEditor({ pkm }: { pkm: Pokemon }) {
             HOME 2D Vector Style
           </h4>
           <Flex className="justify-center content-center items-center flex-1">
-            <PokeImgFile nid={pkm.nid} variant="home2d-icon" className="border border-nxt-g3" />
             <PokeImgFile
+              editable
+              nid={pkm.nid}
+              variant="home2d-icon"
+              className="border border-nxt-g3"
+            />
+            <PokeImgFile
+              editable
               nid={pkm.nid}
               shiny
               variant="home2d-icon"
@@ -68,8 +86,14 @@ export function PokemonSpritesEditor({ pkm }: { pkm: Pokemon }) {
             HOME 3D Render Style
           </h4>
           <Flex className="justify-center content-center items-center flex-1">
-            <PokeImgFile nid={pkm.nid} variant="home3d-icon" className="border border-nxt-g3" />
             <PokeImgFile
+              editable
+              nid={pkm.nid}
+              variant="home3d-icon"
+              className="border border-nxt-g3"
+            />
+            <PokeImgFile
+              editable
               nid={pkm.nid}
               shiny
               variant="home3d-icon"
@@ -78,6 +102,7 @@ export function PokemonSpritesEditor({ pkm }: { pkm: Pokemon }) {
           </Flex>
         </Flex>
       </Flex>
+      <PrevNextPokemon id={pkm.id} />
     </>
   )
 }
