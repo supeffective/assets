@@ -1,0 +1,24 @@
+{
+  "name": "@app/generator-cli",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "bin": "./dist/index.mjs",
+  "scripts": {
+    "build": "tsup src/index.ts --format=esm --clean --sourcemap --no-splitting --dts",
+    "cli": "node ./dist/index.mjs",
+    "dev": "pnpm build -- --watch",
+    "make": "make"
+  },
+  "dependencies": {
+    "@pkg/utils": "workspace:*",
+    "commander": "^11.0.0",
+    "svgtofont": "^3.25.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "tsup": "^7.0.0",
+    "typescript": "^5.1.3"
+  }
+}
