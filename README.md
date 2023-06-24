@@ -6,9 +6,18 @@ Pokémon datasets used in the SuperEffective.gg website.
 
 This project is based on the [Turbo React Next.js Starter](https://github.com/itsjavi/turborepo-react-next).
 
-## Quick Start
+## Requirements
 
-You will need Node 18+, pnpm 8.5+ and Docker in order to run this project locally.
+In order to run this project, you will need:
+
+- Node 18+
+- pnpm 8.5+
+- A UNIX based terminal (Linux, macOS, WSL, etc.)
+- ImageMagick (for the image processing scripts)
+
+If you are only interested in the `assets`, you don't need to install anything.
+
+## Quick Start
 
 ```bash
 # Clone the project
@@ -27,12 +36,28 @@ make open
 
 ## Maintenance Workflows
 
-### Manually editing the JSON data
+### Editing the JSON data
 
-All data from `./data/json` can be edited manually, but it much better to use the admin panel instead,
-which has some triggers behind to update all necessary data files.
+All data from `./data/json` can be edited manually, but it much better to use the admin panel instead, which has some triggers behind to update all necessary data files.
 
 When you edit the JSONs manually, you might do mistakes or run into other issues.
+
+## Generating the sprite sheets
+
+If you updated the individual images for Pokémon, Items, Ribbons, Marks, etc. you also need to generate the sprite sheets again.
+
+For that, you can run:
+
+```bash
+make spritesheets
+```
+
+The same goes for the data IDs (to generate TS constants and types) and the SVG glyphs (to generate fonts and icons CSS):
+
+```bash
+make data-ids
+make glyphs
+```
 
 #### Adding a new Pokémon or form manually
 

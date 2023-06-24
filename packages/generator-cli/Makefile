@@ -9,10 +9,10 @@ sprite-indices:
 	pnpm cli create-sprite-indices ../../assets/data/ribbons.json .build/ribbons-index.json
 	pnpm cli create-sprite-indices ../../assets/data/marks.json .build/marks-index.json
 
-types:
+data-types:
 	pnpm cli generate-ts-constants ../../assets/data ../datalayer/generated
 
-fonts:
+glyphs:
 	./scripts/make-fonts.sh
 
 spritesheets:

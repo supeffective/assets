@@ -25,6 +25,15 @@ validate:
 	echo "Validating generated data and assets..."
 	pnpm data:validate
 
+data-types:
+	pnpm pkg:generator make data-types
+
+glyphs:
+	pnpm pkg:generator make glyphs
+
+spritesheets:
+	pnpm pkg:generator make spritesheets
+
 
 .PHONY: build data packages images
 $(V).SILENT:
