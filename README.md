@@ -54,10 +54,9 @@ Data that is not covered in the previous sources, comes from the following sourc
 - Pokémon HOME Pokédex (specially, for the sorting order of the forms)
 - Bulbapedia
 - Serebii.net
-- Data miners' pastebin files (special thanks to PKHex developers, Kaphotics, Anubis and Matt) 
+- Data miners' pastebin files (special thanks to PKHex developers, Kaphotics, Anubis and Matt)
 - Naming conventions of the Pokémon community (like BDSP, SwSh etc.)
 - Manually crafted by the developers of SuperEffective.gg
-
 
 ## Media Sources
 

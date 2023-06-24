@@ -14,7 +14,7 @@ import { getGameSets } from '@/../datalayer/repositories/gamesets'
 import { getAllPokemon, getPokemon } from '@/../datalayer/repositories/pokemon'
 import { BoxPreset, BoxPresetBox, BoxPresetBoxPokemon } from '@/../datalayer/schemas/box-presets'
 import { GameSet } from '@/../datalayer/schemas/gamesets'
-import { updateBoxPresetAction } from '@/actions/updateBoxPresetActions'
+import { updateBoxPresetAction, updateBoxPresetBoxAction } from '@/actions/updateBoxPresetActions'
 import { PokeGrid } from '@/components/pkm/PokeGrid'
 import { Flex } from '@/components/primitives/boxes/Flex'
 import { Grid } from '@/components/primitives/boxes/Grid'
@@ -49,7 +49,7 @@ export function BoxPresetEditor(props: BoxPresetEditorProps) {
     )
   }
 
-  function handeFlattenedBoxesChange(
+  function handleFlattenedBoxesChange(
     pokes: Array<Pokemon | null>,
     gameSet: GameSet,
     preset: BoxPreset
@@ -61,6 +61,27 @@ export function BoxPresetEditor(props: BoxPresetEditorProps) {
     saveTimeout.current = setTimeout(() => {
       startTransition(async () => await updateBoxPresetAction(gameSet.id, preset.id, trimmedPokes))
       console.log('Saving all preset boxes', preset.id)
+      saveTimeout.current = null
+    }, 1)
+  }
+
+  function handleBoxChange(
+    pokes: Array<Pokemon | null>,
+    gameSet: GameSet,
+    preset: BoxPreset,
+    box: BoxPresetBox,
+    boxIndex: number
+  ) {
+    if (saveTimeout.current) {
+      clearTimeout(saveTimeout.current)
+    }
+    const trimmedPokes = trimBoxNullsAtTheEnd(pokes).map(poke => (poke ? poke.id : null))
+    const trimmedBox = { ...box, pokemon: trimmedPokes }
+    saveTimeout.current = setTimeout(() => {
+      startTransition(
+        async () => await updateBoxPresetBoxAction(gameSet.id, preset.id, trimmedBox, boxIndex)
+      )
+      console.log('Saving preset box ' + boxIndex, preset.id)
       saveTimeout.current = null
     }, 1)
   }
@@ -81,7 +102,7 @@ export function BoxPresetEditor(props: BoxPresetEditorProps) {
           <div>Version: {preset.version}</div>
           <div>Boxes: {preset.boxes.length}</div>
 
-          <Flex vertical className="flex-1 w-full" gap={0}>
+          <Flex vertical className="flex-1 w-full hidden" gap={0}>
             <div className="font-bold rounded-lg rounded-b-none text-center p-3 py-4 bg-nxt-b4 border-nxt-g1 border border-b-0">
               All Boxes
             </div>
@@ -91,14 +112,14 @@ export function BoxPresetEditor(props: BoxPresetEditorProps) {
                 boxMode
                 cols={6}
                 size="24px"
-                max={gameSet.storage.boxCapacity}
                 pokemon={pokes}
+                max={gameSet.storage.boxCapacity}
                 canAdd
                 canRepeat
                 canRemove
                 sortable
                 onChange={pokes => {
-                  handeFlattenedBoxesChange(pokes, gameSet, preset)
+                  handleFlattenedBoxesChange(pokes, gameSet, preset)
                 }}
                 selectablePokemon={allPokes}
               />
@@ -141,7 +162,15 @@ export function BoxPresetEditor(props: BoxPresetEditorProps) {
           size="48px"
           max={gameSet.storage.boxCapacity}
           pokemon={pokes}
-          onPkmClick={() => {}}
+          canAdd
+          canRepeat
+          canRemove
+          sortable
+          withDexNums
+          onChange={pokes => {
+            handleBoxChange(pokes, gameSet, preset, box, idx)
+          }}
+          selectablePokemon={allPokes}
         />
       </Flex>
     )
