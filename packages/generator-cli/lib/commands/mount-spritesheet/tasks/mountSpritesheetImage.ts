@@ -1,7 +1,6 @@
 import path from 'node:path'
 
-import { runCommand } from '@pkg/utils/lib/node/cmd'
-import { assurePath, pathExists } from '@pkg/utils/lib/node/fs'
+import { assurePath, pathExists, runCommand } from '@pkg/utils'
 
 import { CmdParams, SpriteIndexItem } from '../types'
 

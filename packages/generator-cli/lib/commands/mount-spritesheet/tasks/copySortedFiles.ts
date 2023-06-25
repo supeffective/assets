@@ -1,7 +1,7 @@
 import fsp from 'node:fs/promises'
 import path from 'node:path'
 
-import { assurePath, pathExists } from '@pkg/utils/lib/node/fs'
+import { assurePath, pathExists } from '@pkg/utils'
 
 import { CmdParams, SpriteIndexItem } from '../types'
 

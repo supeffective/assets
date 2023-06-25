@@ -1,6 +1,6 @@
 import { Command } from 'commander'
 
-import { createPokemonSpriteIndex } from './createPokemonSpriteIndex'
+import { createSpriteIndex } from './createSpriteIndex'
 
 export default function createSpriteIndices(program: Command): void {
   program
@@ -8,11 +8,11 @@ export default function createSpriteIndices(program: Command): void {
     .description(
       'Creates different indices to use as sorting JSON files, e.g. for the sprite builder.'
     )
-    .argument('<dataDir>', 'Data directory')
+    .argument('<dataFile>', 'JSON data file, a collection of records')
     .argument('<buildDir>', 'Build directory')
-    .action((dataDir: string, buildDir: string): void | Promise<void> => {
-      createPokemonSpriteIndex(dataDir, buildDir, 'homeSprite')
-      createPokemonSpriteIndex(dataDir, buildDir, 'miniSprite')
+    .action((dataFile: string, buildDir: string): void | Promise<void> => {
+      console.log('[create-indices] Creating indices from', dataFile, ', into', buildDir)
+      createSpriteIndex(dataFile, buildDir)
       console.log('[create-indices] DONE')
     })
 }

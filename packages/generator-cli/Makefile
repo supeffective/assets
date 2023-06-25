@@ -4,10 +4,10 @@ default: noop
 
 sprite-indices:
 	mkdir -p .build
-	pnpm cli create-sprite-indices ../../assets/data/pokemon.json .build/pokemon-index.json regular,shiny
-	pnpm cli create-sprite-indices ../../assets/data/items.json .build/items-index.json
-	pnpm cli create-sprite-indices ../../assets/data/ribbons.json .build/ribbons-index.json
-	pnpm cli create-sprite-indices ../../assets/data/marks.json .build/marks-index.json
+	pnpm cli create-sprite-indices ../../assets/data/pokemon.json .build
+	pnpm cli create-sprite-indices ../../assets/data/items.json .build
+	pnpm cli create-sprite-indices ../../assets/data/ribbons.json .build
+	pnpm cli create-sprite-indices ../../assets/data/marks.json .build
 
 data-types:
 	pnpm cli generate-ts-constants ../../assets/data ../datalayer/generated

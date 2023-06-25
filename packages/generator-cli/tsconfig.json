@@ -14,7 +14,11 @@
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true
+    // alias @pkg/utils to ../utils:
+    // "paths": {
+    //   "@pkg/utils": ["../utils"]
+    // }
   },
-  "include": ["**/*.ts", "**/*.tsx"],
+  "include": ["**/lib/*.ts", "**/lib/*.tsx"],
   "exclude": ["node_modules"]
 }

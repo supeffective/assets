@@ -1,7 +1,7 @@
 import path from 'node:path'
 import { Command } from 'commander'
 
-import { generateMD5 } from '@pkg/utils/lib/node/crypto'
+import { generateMD5 } from '@pkg/utils'
 
 import { copySortedFiles } from './tasks/copySortedFiles'
 import { generateCss } from './tasks/generateCss'

@@ -1,8 +1,7 @@
 import fs from 'node:fs'
 import path from 'node:path'
 
-import { runCommand } from '@pkg/utils/lib/node/cmd'
-import { assurePath, pathExists, pathWithoutExtension } from '@pkg/utils/lib/node/fs'
+import { assurePath, pathExists, pathWithoutExtension, runCommand } from '@pkg/utils'
 
 import { CmdParams } from '../types'
 

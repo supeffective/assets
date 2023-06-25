@@ -1,7 +1,6 @@
 import path from 'node:path'
 
-import { getFilesByExtension, pathExists } from '@pkg/utils/lib/node/fs'
-import { parseJsonFile } from '@pkg/utils/lib/node/json'
+import { getFilesByExtension, parseJsonFile, pathExists } from '@pkg/utils'
 
 import { CmdParams, SpriteIndexItem } from '../types'
 

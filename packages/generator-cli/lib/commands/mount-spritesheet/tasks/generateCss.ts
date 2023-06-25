@@ -1,7 +1,7 @@
 import fs from 'node:fs'
 import path from 'node:path'
 
-import { runCommandSync } from '@pkg/utils/lib/node/cmd'
+import { runCommandSync } from '@pkg/utils'
 
 import { CmdParams, SpriteIndexItem } from '../types'
 

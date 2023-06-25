@@ -6,7 +6,7 @@
   "types": "./dist/index.d.ts",
   "bin": "./dist/index.mjs",
   "scripts": {
-    "build": "tsup src/index.ts --format=esm --clean --sourcemap --no-splitting --dts",
+    "build": "tsup lib/index.ts --format=esm --clean --sourcemap --no-splitting --dts",
     "cli": "node ./dist/index.mjs",
     "dev": "pnpm build -- --watch",
     "make": "make"
@@ -18,7 +18,9 @@
   },
   "devDependencies": {
     "@types/node": "^20.3.1",
-    "tsup": "^7.0.0",
+    "ts-node": "^10.9.1",
+    "tsup": "^7.1.0",
+    "tsx": "^3.12.7",
     "typescript": "^5.1.3"
   }
 }
