@@ -12,18 +12,39 @@ export function PokemonSpritesEditor({ pkm }: { pkm: Pokemon }) {
   return (
     <>
       <h4 className="text-xl font-bold mb-4">Box Sprites (CSS)</h4>
+      <p>
+        The following images are part of a large sprite sheet. They are rendered using CSS classes
+        and are not actual image files. This is the preferred method of rendering sprites on the
+        web.
+        <br />
+        <br />
+      </p>
       <Flex className="text-center">
         <Flex vertical className="bg-nxt-b3 p-2 rounded-lg">
           <h4 className="text-sm text-nxt-w1 mb-4 bg-nxt-b4 p-2 rounded-lg">
             Gen8 Pixel-art Style
           </h4>
-          <Flex className="justify-center content-center items-center flex-1">WIP</Flex>
+          <Flex className="justify-center content-center items-center flex-1">
+            <Sprite size={136} className="border border-nxt-g3">
+              <PokeSprite id={pkm.id} variant="gen8" />
+            </Sprite>
+            <Sprite size={136} className="border border-nxt-g3">
+              <PokeSprite id={pkm.id} variant="gen8" shiny />
+            </Sprite>
+          </Flex>
         </Flex>
         <Flex vertical className="bg-nxt-b3 p-2 rounded-lg">
           <h4 className="text-sm text-nxt-w1 mb-4 bg-nxt-b4 p-2 rounded-lg">
             HOME 2D Vector Style
           </h4>
-          <Flex className="justify-center content-center items-center flex-1">WIP</Flex>
+          <Flex className="justify-center content-center items-center flex-1">
+            <Sprite size={136} className="border border-nxt-g3">
+              <PokeSprite id={pkm.id} variant="home2d" />
+            </Sprite>
+            <Sprite size={136} className="border border-nxt-g3">
+              <PokeSprite id={pkm.id} variant="home2d" shiny />
+            </Sprite>
+          </Flex>
         </Flex>
         <Flex vertical className="bg-nxt-b3 p-2 rounded-lg">
           <h4 className="text-sm text-nxt-w1 mb-4 bg-nxt-b4 p-2 rounded-lg">
@@ -40,6 +61,13 @@ export function PokemonSpritesEditor({ pkm }: { pkm: Pokemon }) {
         </Flex>
       </Flex>
       <h4 className="text-xl font-bold mb-4">Box Sprite (Files)</h4>
+      <p>
+        The following images are the individual files that are later used to mount the sprite sheet.
+        <br />
+        You can replace these individual files by clicking on them or drag-and-dropping a new image.
+        <br />
+        <br />
+      </p>
       <Flex className="text-center">
         <Flex vertical className="bg-nxt-b3 p-2 rounded-lg">
           <h4 className="text-sm text-nxt-w1 mb-4 bg-nxt-b4 p-2 rounded-lg">

@@ -1,4 +1,6 @@
 @import './tailwind.css';
+@import '@pkg/assets/images/spritesheets/pokemon/gen8-icon/regular/spritesheet.css';
+@import '@pkg/assets/images/spritesheets/pokemon/home2d-icon/regular/spritesheet.css';
 @import '@pkg/assets/images/spritesheets/pokemon/home3d-icon/regular/spritesheet.css';
 
 button,

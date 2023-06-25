@@ -39,7 +39,7 @@ export function Sprite({
 
   return (
     <span
-      className={`inline-block align-middle max-w-full ${extraClass}`}
+      className={`inline-flex items-end justify-center align-middle max-w-full ${extraClass}`}
       {...rest}
       style={{
         width: `${size}px`,

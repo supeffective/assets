@@ -138,7 +138,7 @@ pnpm cli mount-spritesheet \
   "${ASSETS_PATH}/images/spritesheets/pokemon/home2d-icon/regular" \
   "${BUILD_PATH}" \
   --ext ".png" \
-  --cssprefix "pkm" \
+  --cssprefix "pkm-2d" \
   --responsive \
   --width 128 \
   --height 128 \
@@ -156,7 +156,7 @@ pnpm cli mount-spritesheet \
   "${ASSETS_PATH}/images/spritesheets/pokemon/home2d-icon/shiny" \
   "${BUILD_PATH}" \
   --ext ".png" \
-  --cssprefix "pkm-shiny" \
+  --cssprefix "pkm-2d-shiny" \
   --responsive \
   --width 192 \
   --height 192 \
@@ -169,9 +169,9 @@ pnpm cli mount-spritesheet \
   "${ASSETS_PATH}/images/pokemon/home2d-icon/egg.png"
 
 PKM3D_EXTRA_CSS="
-.pkm.shiny,
-.pkm.shiny-on-hover:hover,
-.shiny-on-hover .pkm:hover {
+.pkm-2d.shiny,
+.pkm-2d.shiny-on-hover:hover,
+.shiny-on-hover .pkm-2d:hover {
   background-image: url(../shiny/spritesheet.webp);
 }
 "
