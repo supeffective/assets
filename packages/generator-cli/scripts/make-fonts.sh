@@ -3,7 +3,7 @@
 # exit when any command fails
 set -e
 
-APP_DIR=$1
+APP_DIR="${PWD}/${1}"
 
 if [[ ! -d "${APP_DIR}/packages/generator-cli" ]]; then
   echo "Not inside the project root: ${PWD}"

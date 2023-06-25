@@ -14,6 +14,7 @@ In order to run this project, you will need:
 - pnpm 8.5+
 - A UNIX based terminal (Linux, macOS, WSL, etc.)
 - ImageMagick (for the image processing scripts)
+- optipng (to optimize the generated PNGs)
 
 If you are only interested in the `assets`, you don't need to install anything.
 
@@ -42,24 +43,33 @@ All data from `./data/json` can be edited manually, but it much better to use th
 
 When you edit the JSONs manually, you might do mistakes or run into other issues.
 
-## Generating the sprite sheets
+### Generating the sprite sheets
 
 If you updated the individual images for Pokémon, Items, Ribbons, Marks, etc. you also need to generate the sprite sheets again.
 
 For that, you can run:
 
 ```bash
-make spritesheets
+make sprites
 ```
 
-The same goes for the data IDs (to generate TS constants and types) and the SVG glyphs (to generate fonts and icons CSS):
+### Generating TypeScript constants from data
+
+This command will generate TypeScript constants out of the IDs of all the data files.
 
 ```bash
-make data-ids
-make glyphs
+make constants
 ```
 
-#### Adding a new Pokémon or form manually
+### Generating icon fonts
+
+To generate icon fonts from the `assets/fonts/*/SVG/*.svg` files, you can run:
+
+```bash
+make fonts
+```
+
+### Adding a new Pokémon or form manually
 
 There are special cases where you need to introduce data manually, for example,
 when brand new Pokémon species or forms are announced and there isn't info about them yet in the Showdown project.

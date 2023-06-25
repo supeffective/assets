@@ -14,7 +14,7 @@ export function createSpriteIndex(dataFile: string, buildDir: string): void {
   const destJsonFile = path.join(path.resolve(buildDir), `${fileName}-index.json`)
 
   const records = parseJsonFile<DataRecord[]>(srcJsonFile)
-  const ids = new Set<string>([])
+  const idsMap = new Map<string, string[]>()
 
   if (!records || !Array.isArray(records)) {
     throw new Error(`Invalid format for ${srcJsonFile}`)
@@ -27,12 +27,12 @@ export function createSpriteIndex(dataFile: string, buildDir: string): void {
 
     const _id = row.nid ?? row.id
 
-    if (ids.has(_id)) {
+    if (idsMap.has(_id)) {
       throw new Error(`Duplicate ID ${_id} in ${srcJsonFile}`)
     }
 
-    ids.add(_id)
+    idsMap.set(_id, [row.id])
   }
 
-  saveJsonFile(destJsonFile, Array.from(ids))
+  saveJsonFile(destJsonFile, Array.from(idsMap.entries()))
 }

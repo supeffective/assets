@@ -20,7 +20,7 @@ const optimizePng = function (src: string): Promise<void> {
       console.log('[optimizeSpritesheet.optimizePng] DONE')
       fs.writeFileSync(proofFile, 'done')
     })
-    .catch(err => {
+    .catch((err: Error) => {
       throw new Error('[optimizeSpritesheet.optimizePng] Failed: ' + err)
     })
 }
@@ -48,7 +48,7 @@ const createShadowBg = function (src: string, withWebp: boolean): Promise<void> 
   ]
 
   return runCommand(['convert', shadowScriptArgs])
-    .catch(err => {
+    .catch((err: Error) => {
       throw new Error('[optimizeSpritesheet.createShadowBg] Failed: ' + err)
     })
     .then(() => optimizePng(dest))
@@ -77,7 +77,7 @@ const createWebp = function (src: string): Promise<void> {
     .then(() => {
       console.log('[optimizeSpritesheet.createWebp] DONE')
     })
-    .catch(err => {
+    .catch((err: Error) => {
       throw new Error('[optimizeSpritesheet.createWebp] Failed: ' + err)
     })
 }

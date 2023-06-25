@@ -137,7 +137,7 @@ img.${params.cssprefix} {
     </style>
 </head>
 <body>
-  <div class="grid">
+  <div class="grid shiny-on-hover">
   `
 
   let htmlSource = ''

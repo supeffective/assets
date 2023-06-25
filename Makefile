@@ -26,20 +26,30 @@ validate:
 	pnpm data:validate
 
 sprite-indices:
+	pnpm pkg:utils build
 	pnpm pkg:generator build
 	pnpm pkg:generator make sprite-indices
 
+constants: data-types
 data-types:
+	pnpm pkg:utils build
 	pnpm pkg:generator build
 	pnpm pkg:generator make data-types
+	pnpm format
 
+fonts: glyphs
 glyphs:
+	pnpm pkg:utils build
 	pnpm pkg:generator build
 	pnpm pkg:generator make glyphs
+	pnpm format
 
+sprites: spritesheets
 spritesheets:
+	pnpm pkg:utils build
 	pnpm pkg:generator build
 	pnpm pkg:generator make spritesheets
+	pnpm format
 
 .PHONY: build data packages images
 $(V).SILENT:
