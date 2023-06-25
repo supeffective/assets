@@ -46,6 +46,9 @@ export default function mountFont(program: Command): void {
           fontName,
           outSVGPath: false,
           outSVGReact: false,
+          svgicons2svgfont: {
+            normalize: true,
+          },
           css: {
             fontSize: 'inherit',
           }, // Create CSS files.

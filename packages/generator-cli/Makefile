@@ -1,7 +1,5 @@
 default: noop
 
-# TODO: stop using absolute app dir paths (use "PWD/../../" )
-
 sprite-indices:
 	mkdir -p .build
 	pnpm cli create-sprite-indices ../../assets/data/pokemon.json .build
@@ -20,3 +18,7 @@ spritesheets:
 
 noop:
 	echo ""
+
+.PHONY: build data packages images
+$(V).SILENT:
+.SILENT:

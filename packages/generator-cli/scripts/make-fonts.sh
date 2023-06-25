@@ -19,14 +19,14 @@ mkdir -p ./build
 pnpm cli mount-font \
   "AppIcons" \
   "${FONTSRC_PATH}/AppIcons/SVG" \
-  "${FONTSRC_PATH}/AppIcons/dist" \
+  "${FONTSRC_PATH}/AppIcons/font-dist" \
   --prefix "icn"
 
 # PokeGlyph
 pnpm cli mount-font \
   "PokeGlyphs" \
   "${FONTSRC_PATH}/PokeGlyphs/SVG" \
-  "${FONTSRC_PATH}/PokeGlyphs/dist" \
+  "${FONTSRC_PATH}/PokeGlyphs/font-dist" \
   --prefix "pkg"
 
-cat "${FONTSRC_PATH}/PokeGlyphs/extra-styles.css" >> "${FONTSRC_PATH}/PokeGlyphs/dist/PokeGlyphs.css"
+cat "${FONTSRC_PATH}/PokeGlyphs/extra-styles.css" >> "${FONTSRC_PATH}/PokeGlyphs/font-dist/PokeGlyphs.css"
