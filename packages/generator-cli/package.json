@@ -9,6 +9,7 @@
     "build": "tsup lib/index.ts --format=esm --clean --sourcemap --no-splitting --dts",
     "cli": "node ./dist/index.mjs",
     "dev": "pnpm build -- --watch",
+    "postinstall": "pnpm run build",
     "make": "make"
   },
   "dependencies": {

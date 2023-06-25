@@ -9,7 +9,8 @@
     "dist"
   ],
   "scripts": {
-    "build": "tsup lib/index.ts --format=esm --clean --sourcemap --dts"
+    "build": "tsup lib/index.ts --format=esm --clean --sourcemap --dts",
+    "postinstall": "pnpm run build"
   },
   "dependencies": {
     "tailwind-merge": "^1.13.2",

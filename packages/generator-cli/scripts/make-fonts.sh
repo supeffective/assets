@@ -3,32 +3,30 @@
 # exit when any command fails
 set -e
 
-cd ../../
+APP_DIR=$1
 
-APP_DIR="${PWD}"
-
-if [[ ! -d "${APP_DIR}/packages/website" ]]; then
+if [[ ! -d "${APP_DIR}/packages/generator-cli" ]]; then
   echo "Not inside the project root: ${PWD}"
   exit 1
 fi
 
-ASSETS_PATH="${APP_DIR}/packages/assets"
-FONTSRC_PATH="${APP_DIR}/packages/core-ui/fonts"
+ASSETS_PATH="${APP_DIR}/assets"
+FONTSRC_PATH="${APP_DIR}/assets/fonts"
 
 mkdir -p ./build
 
 # AppIcons
-./packages/admin-cli/dist/index.mjs mount-font \
+pnpm cli mount-font \
   "AppIcons" \
   "${FONTSRC_PATH}/AppIcons/SVG" \
-  "${ASSETS_PATH}/dist/fonts/AppIcons" \
+  "${FONTSRC_PATH}/AppIcons/dist" \
   --prefix "icn"
 
 # PokeGlyph
-./packages/admin-cli/dist/index.mjs mount-font \
+pnpm cli mount-font \
   "PokeGlyphs" \
   "${FONTSRC_PATH}/PokeGlyphs/SVG" \
-  "${ASSETS_PATH}/dist/fonts/PokeGlyphs" \
+  "${FONTSRC_PATH}/PokeGlyphs/dist" \
   --prefix "pkg"
 
-cat "${FONTSRC_PATH}/PokeGlyphs/extra-styles.css" >>"${ASSETS_PATH}/dist/fonts/PokeGlyphs/PokeGlyphs.css"
+cat "${FONTSRC_PATH}/PokeGlyphs/extra-styles.css" >> "${FONTSRC_PATH}/PokeGlyphs/dist/PokeGlyphs.css"
