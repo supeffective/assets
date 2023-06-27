@@ -18,7 +18,7 @@
     "svgtofont": "^3.25.4"
   },
   "devDependencies": {
-    "@types/node": "^20.3.1",
+    "@types/node": "^20.3.2",
     "ts-node": "^10.9.1",
     "tsup": "^7.1.0",
     "tsx": "^3.12.7",
