@@ -75,12 +75,15 @@ export const pokemonSchema = z.object({
   forms: z.array(slugSchema),
   evolvesFrom: z
     .object({
-      species: slugSchema,
+      pokemon: slugSchema,
       level: z.coerce.number().int().min(1).max(100).optional(),
-      item: z.string().nullable().optional(),
-      ability: slugSchema.optional(),
-      move: slugSchema.optional(),
-      other: z.string().optional(),
+      item: slugSchema.nullable().optional(),
+      move: slugSchema.nullable().optional(),
+      type: slugSchema.nullable().optional(),
+      region: slugSchema.nullable().optional(),
+      ability: slugSchema.nullable().optional(), // not provided by showdown (e.g. rockruff-owntempo)
+      condition: z.string().nullable().optional(),
+      // other: z.string().optional(),
     })
     .nullable(),
   refs: z

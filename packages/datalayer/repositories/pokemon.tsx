@@ -33,6 +33,23 @@ export function getPokemon(id: string): Pokemon | null {
   return pkm
 }
 
+export function getPokemonByNameOrFail(name: string): Pokemon {
+  const pkm = getAllPokemon().find(record => record.name === name)
+  if (!pkm) {
+    throw Error(`Pokémon with name '${name}' not found`)
+  }
+
+  return pkm
+}
+export function getPokemonByShowdownNameOrFail(name: string): Pokemon {
+  const pkm = getAllPokemon().find(record => record.psName === name)
+  if (!pkm) {
+    throw Error(`Pokémon with psName '${name}' not found`)
+  }
+
+  return pkm
+}
+
 export function getManyPokemon(ids: string[]): Pokemon[] {
   return ids.map(id => getPokemonOrFail(id))
 }

@@ -1,7 +1,10 @@
 import { Dex } from '@pkmn/dex'
 
-import { getDataPath } from '../../datafs'
-import { getAllPokemon } from '../../repositories/pokemon'
+import { getDataPath, writeDataFileAsJson } from '../../datafs'
+import { getAbilityByShowdownNameOrFail } from '../../repositories/abilities'
+import { getItemByShowdownNameOrFail } from '../../repositories/items'
+import { getMoveByShowdownNameOrFail } from '../../repositories/moves'
+import { getAllPokemon, getPokemonByShowdownNameOrFail } from '../../repositories/pokemon'
 import { Pokemon } from '../../schemas/pokemon'
 
 export const importShowdownPokemon = function (): void {
@@ -23,6 +26,9 @@ export const importShowdownPokemon = function (): void {
   const outFile = getDataPath('pokemon.json')
   const transformedRows: Pokemon[] = []
 
+  // ------------------------------------------------
+  // VALIDATE & cross-check with showdown
+  // ------------------------------------------------
   const rawRows = Array.from(Dex.species.all())
 
   const rawRowsSorted = rawRows
@@ -60,8 +66,10 @@ export const importShowdownPokemon = function (): void {
     rowsById.set(row.id, row)
   }
 
+  const notInShowdown = ['munkidori', 'okidogi', 'fezandipiti', 'ogerpon', 'terapagos']
+
   for (const [showdownId, pokemonSet] of allPokemonByShowdownId) {
-    if (['munkidori', 'okidogi', 'fezandipiti', 'ogerpon', 'terapagos'].includes(showdownId)) {
+    if (notInShowdown.includes(showdownId)) {
       console.log(`Skipping ${showdownId}`)
       continue
     }
@@ -70,5 +78,92 @@ export const importShowdownPokemon = function (): void {
     }
   }
 
-  // writeDataFileAsJson(outFile, transformedRows)
+  // ------------------------------------------------
+  // SYNC data with showdown
+  // ------------------------------------------------
+
+  for (const pkm of allPokemon) {
+    const showdownId = pkm.refs?.showdown
+    if (!showdownId) {
+      throw new Error(`Pokemon ${pkm.id} has no showdown ref`)
+    }
+
+    if (notInShowdown.includes(showdownId)) {
+      transformedRows.push(pkm)
+      continue
+    }
+
+    const showdownData = rowsById.get(showdownId)
+
+    if (!showdownData) {
+      throw new Error(`Missing showdown data for ${showdownId}`)
+    }
+
+    // abilities
+    if (pkm.isSpecialAbilityForm) {
+      const showdownAbilityName = showdownData.abilities['S'] ?? showdownData.abilities[0]
+      if (!showdownAbilityName) {
+        throw new Error(`Missing special ability for ${showdownId}`)
+      }
+      const ability = getAbilityByShowdownNameOrFail(showdownAbilityName)
+      pkm.abilities.primary = ability.id
+      pkm.abilities.secondary = null
+      pkm.abilities.hidden = null
+    } else {
+      pkm.abilities.primary = getAbilityByShowdownNameOrFail(showdownData.abilities[0]).id
+      if (showdownData.abilities[1]) {
+        pkm.abilities.secondary = getAbilityByShowdownNameOrFail(showdownData.abilities[1]).id
+      }
+      if (showdownData.abilities['H']) {
+        pkm.abilities.hidden = getAbilityByShowdownNameOrFail(showdownData.abilities['H']).id
+      }
+    }
+
+    // weight
+    pkm.weight = Math.round(showdownData.weighthg * 10)
+
+    // type1
+    pkm.type1 = showdownData.types[0].toLowerCase()
+    pkm.type2 = showdownData.types[1]?.toLowerCase() ?? null
+
+    // stats
+    pkm.baseStats.hp = showdownData.baseStats.hp
+    pkm.baseStats.atk = showdownData.baseStats.atk
+    pkm.baseStats.def = showdownData.baseStats.def
+    pkm.baseStats.spa = showdownData.baseStats.spa
+    pkm.baseStats.spd = showdownData.baseStats.spd
+    pkm.baseStats.spe = showdownData.baseStats.spe
+
+    // update psName
+    pkm.psName = showdownData.name
+
+    if (showdownData.prevo) {
+      const prevo = getPokemonByShowdownNameOrFail(showdownData.prevo)
+      let evoItemId = null
+
+      if (showdownData.evoItem) {
+        evoItemId = getItemByShowdownNameOrFail(showdownData.evoItem).id
+      }
+
+      let evoMoveId = null
+      if (showdownData.evoMove) {
+        evoMoveId = getMoveByShowdownNameOrFail(showdownData.evoMove).id
+      }
+
+      pkm.evolvesFrom = {
+        ...pkm.evolvesFrom,
+        pokemon: prevo.id,
+        level: showdownData.evoLevel || undefined,
+        item: evoItemId || undefined,
+        move: evoMoveId || undefined,
+        region: showdownData.evoRegion?.toLocaleLowerCase() ?? undefined,
+        type: showdownData.evoType?.toLocaleLowerCase() ?? undefined,
+        condition: showdownData.evoCondition || undefined,
+      }
+    }
+
+    transformedRows.push(pkm)
+  }
+
+  writeDataFileAsJson(outFile, transformedRows)
 }
