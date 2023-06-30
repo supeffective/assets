@@ -208,11 +208,6 @@ export function createPlaceholderPokemon(): Pokemon {
       spd: 0,
       spe: 0,
     },
-    goStats: {
-      atk: 0,
-      def: 0,
-      sta: 0,
-    },
     weight: 0,
     height: 0,
     baseSpecies: null,
@@ -220,13 +215,10 @@ export function createPlaceholderPokemon(): Pokemon {
     forms: [],
     evolvesFrom: null,
     refs: {
-      pogo: null,
-      smogon: null,
-      showdown: null,
-      serebii: null,
-      bulbapedia: null,
-      homeSprite: '0000-unknown',
-      miniSprite: '0000-unknown',
+      smogon: 'unknown',
+      showdown: 'unknown',
+      serebii: 'unknown',
+      bulbapedia: 'unknown',
     },
   }
 }

@@ -169,38 +169,6 @@ export function PokemonStatsEditor({
           />
         </Field.SplitViewItem>
       </Field.SplitView>
-      <Field.SplitView>
-        <Field.SplitViewItem label="GO Stamina">
-          <Input
-            type="number"
-            step={1}
-            min={-1}
-            max={255}
-            name="goStats.sta"
-            defaultValue={pkm.goStats.sta}
-          />
-        </Field.SplitViewItem>
-        <Field.SplitViewItem label="GO Attack">
-          <Input
-            type="number"
-            step={1}
-            min={-1}
-            max={255}
-            name="goStats.atk"
-            defaultValue={pkm.goStats.atk}
-          />
-        </Field.SplitViewItem>
-        <Field.SplitViewItem label="GO Defense">
-          <Input
-            type="number"
-            step={1}
-            min={-1}
-            max={255}
-            name="goStats.def"
-            defaultValue={pkm.goStats.def}
-          />
-        </Field.SplitViewItem>
-      </Field.SplitView>
 
       <Field.SplitView>
         <Field.SplitViewItem label="Region">

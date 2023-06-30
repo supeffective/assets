@@ -14,6 +14,15 @@ export const importShowdownPokemon = function (): void {
     if (!pokemon.refs?.showdown) {
       throw new Error(`Pokemon ${pokemon.id} has no showdown ref`)
     }
+    if (!pokemon.refs?.bulbapedia) {
+      throw new Error(`Pokemon ${pokemon.id} has no bulbapedia ref`)
+    }
+    if (!pokemon.refs?.serebii) {
+      throw new Error(`Pokemon ${pokemon.id} has no serebii ref`)
+    }
+    if (!pokemon.refs?.smogon) {
+      throw new Error(`Pokemon ${pokemon.id} has no smogon ref`)
+    }
 
     const showdownId = pokemon.refs.showdown
 

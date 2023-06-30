@@ -13,9 +13,6 @@ export function PokemonRefsEditor({ pkm }: { pkm: Pokemon }) {
       <p className="text-nxt-g4">
         References in the URLs of other websites and in their data formats.
       </p>
-      <Field label="Pokémon GO">
-        <Input type="text" name="refs.pogo" defaultValue={pkm.refs?.pogo || ''} />
-      </Field>
       <Field label="Smogon">
         <Input type="text" name="refs.smogon" defaultValue={pkm.refs?.smogon || ''} />
         <Button href="#" className="bg-transparent border text-nxt-w1 border-nxt-g2">
@@ -44,12 +41,6 @@ export function PokemonRefsEditor({ pkm }: { pkm: Pokemon }) {
         <Button href="#" className="bg-transparent border text-nxt-w1 border-nxt-g2">
           View
         </Button>
-      </Field>
-      <Field label="Mini Sprite">
-        <Input type="text" name="refs.miniSprite" defaultValue={pkm.refs?.miniSprite || ''} />
-      </Field>
-      <Field label="Home Sprite">
-        <Input type="text" name="refs.homeSprite" defaultValue={pkm.refs?.homeSprite || ''} />
       </Field>
     </>
   )
