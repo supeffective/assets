@@ -90,6 +90,12 @@ function updateLegacyPokemonFile(data: Pokemon[]): void {
       shinyBase: pkm.shinyBase,
       baseSpecies: pkm.baseSpecies,
       forms: pkm.isForm ? null : pkm.forms,
+      refs: {
+        serebii: pkm.refs?.serebii || pkm.id,
+        bulbapedia: pkm.refs?.bulbapedia || pkm.name,
+        smogon: pkm.refs?.smogon || pkm.id,
+        showdown: pkm.psName || pkm.name,
+      },
     }
     result.push(legacyPkm)
   }

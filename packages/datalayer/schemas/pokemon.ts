@@ -133,4 +133,10 @@ export type LegacyPokemon = {
   shinyBase: string | null
   baseSpecies: string | null
   forms: string[] | null
+  refs: {
+    bulbapedia: string | null
+    serebii: string | null
+    smogon: string | null
+    showdown: string | null
+  }
 }
