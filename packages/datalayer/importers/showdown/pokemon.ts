@@ -1,10 +1,11 @@
 import { Dex } from '@pkmn/dex'
 
-import { getDataPath, writeDataFileAsJson } from '../../datafs'
+import { getDataPath } from '../../datafs'
 import { getAbilityByShowdownNameOrFail } from '../../repositories/abilities'
 import { getItemByShowdownNameOrFail } from '../../repositories/items'
 import { getMoveByShowdownNameOrFail } from '../../repositories/moves'
 import { getAllPokemon, getPokemonByShowdownNameOrFail } from '../../repositories/pokemon'
+import { updateManyPokemon } from '../../repositories/server-side/pokemon'
 import { Pokemon } from '../../schemas/pokemon'
 
 export const importShowdownPokemon = function (): void {
@@ -97,6 +98,8 @@ export const importShowdownPokemon = function (): void {
       throw new Error(`Pokemon ${pkm.id} has no showdown ref`)
     }
 
+    pkm.forms = [...pkm.forms.filter(form => form !== pkm.id)]
+
     if (notInShowdown.includes(showdownId)) {
       transformedRows.push(pkm)
       continue
@@ -174,5 +177,9 @@ export const importShowdownPokemon = function (): void {
     transformedRows.push(pkm)
   }
 
-  writeDataFileAsJson(outFile, transformedRows)
+  // ------------------------------------------------
+  // REGENERATE legacy data
+  // ------------------------------------------------
+
+  updateManyPokemon(transformedRows)
 }
