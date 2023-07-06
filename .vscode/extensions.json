@@ -11,8 +11,6 @@
     "eliostruyf.vscode-front-matter",
     "unifiedjs.vscode-mdx",
     "pkief.material-icon-theme",
-    "bradlc.vscode-tailwindcss",
-    "quentiumyt.vscode-tailwindcss-directives",
     "yechunan.json-color-token"
   ],
   "unwantedRecommendations": ["eamodio.gitlens"]
