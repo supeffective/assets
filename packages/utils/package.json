@@ -13,11 +13,11 @@
     "postinstall": "pnpm run build"
   },
   "dependencies": {
-    "tailwind-merge": "^1.13.2",
+    "tailwind-merge": "^1.14.0",
     "zod": "^3.21.4"
   },
   "devDependencies": {
-    "@types/node": "^20.4.0",
+    "@types/node": "^20.4.4",
     "tsup": "^7.1.0",
     "typescript": "^5.1.6"
   }

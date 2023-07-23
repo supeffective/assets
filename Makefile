@@ -18,8 +18,7 @@ build:
 
 update:
 	echo "Updating images and data from sources..."
-	# download images zip
-	# download and parse data
+	pnpm data:update
 
 validate:
 	echo "Validating generated data and assets..."

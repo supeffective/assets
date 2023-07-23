@@ -60,9 +60,12 @@ export function validateBoxPresets() {
 }
 
 export function flattenBoxes(preset: BoxPreset): Array<string | null> {
-  return preset.boxes.reduce((acc, box) => {
-    return [...acc, ...box.pokemon.map(pkm => parseBoxPokemonID(pkm))]
-  }, [] as Array<string | null>)
+  return preset.boxes.reduce(
+    (acc, box) => {
+      return [...acc, ...box.pokemon.map(pkm => parseBoxPokemonID(pkm))]
+    },
+    [] as Array<string | null>
+  )
 }
 
 export function unflattenBoxesPokemon(
