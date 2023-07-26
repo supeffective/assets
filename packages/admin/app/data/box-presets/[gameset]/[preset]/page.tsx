@@ -16,7 +16,7 @@ export default function Page(props: PageProps) {
     <Flex vertical gap={6} className="max-w-5xl">
       <div>
         <Title>{title}</Title>
-        <BoxPresetEditor gameSetId={gameset} presetId={preset} />
+        <BoxPresetEditor gameSetId={String(gameset)} presetId={String(preset)} />
       </div>
     </Flex>
   )
