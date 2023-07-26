@@ -10,7 +10,7 @@
   "dependencies": {
     "@pkg/assets": "workspace:*",
     "@pkg/utils": "workspace:*",
-    "@types/node": "^20.4.4",
+    "@types/node": "^20.4.5",
     "typescript": "^5.1.6",
     "zod": "^3.21.4"
   },
