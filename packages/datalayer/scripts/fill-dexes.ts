@@ -1,7 +1,7 @@
 import fs from 'node:fs'
 import path from 'node:path'
 
-import { readDataFileAsJson, writeDataFileAsJson } from '../datafs'
+import { readFileAsJson, writeFileAsJson } from '../datafs'
 import { getPokedexes } from '../repositories/pokedexes'
 import { getAllPokemon } from '../repositories/pokemon'
 import { Pokedex, PokedexEntry } from '../schemas/pokedexes'
@@ -30,7 +30,7 @@ for (const dex of pokedexes) {
   let individualEntries: Array<IndividualEntry> = []
 
   if (fs.existsSync(individualDexFile)) {
-    individualEntries = readDataFileAsJson(individualDexFile)
+    individualEntries = readFileAsJson(individualDexFile)
   } else {
     // newDexes.push({
     //   ...dex,
@@ -91,4 +91,4 @@ for (const dex of pokedexes) {
   })
 }
 
-writeDataFileAsJson(path.join(dataPath, 'pokedexes.json'), newDexes)
+writeFileAsJson(path.join(dataPath, 'pokedexes.json'), newDexes)

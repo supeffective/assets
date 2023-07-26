@@ -1,6 +1,6 @@
 'use server'
 
-import { getDataPath, writeDataFileAsJson } from '@pkg/datalayer/datafs'
+import { getDataPath, writeFileAsJson } from '@pkg/datalayer/datafs'
 import { getBoxPresetsAsRecords, unflattenBoxes } from '@pkg/datalayer/repositories/box-presets'
 import { getGameSet } from '@pkg/datalayer/repositories/gamesets'
 import { BoxPresetBox, boxPresetSchema } from '@pkg/datalayer/schemas/box-presets'
@@ -44,7 +44,7 @@ export async function updateBoxPresetAction(
 
   const dataFile = getDataPath('legacy/box-presets.json')
 
-  writeDataFileAsJson(dataFile, presets)
+  writeFileAsJson(dataFile, presets)
 }
 
 export async function updateBoxPresetBoxAction(
@@ -84,5 +84,5 @@ export async function updateBoxPresetBoxAction(
 
   const dataFile = getDataPath('legacy/box-presets.json')
 
-  writeDataFileAsJson(dataFile, presets)
+  writeFileAsJson(dataFile, presets)
 }

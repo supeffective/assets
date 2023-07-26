@@ -1,7 +1,7 @@
 import { parseFormData } from '@pkg/utils/lib/serialization/forms'
 import { softMerge } from '@pkg/utils/lib/serialization/merge'
 
-import { getDataPath, writeDataFileAsJson } from '../../datafs'
+import { getDataPath, writeFileAsJson } from '../../datafs'
 import { LegacyPokemon, Pokemon, pokemonSchema } from '../../schemas/pokemon'
 import {
   getAllPokemonMappedById,
@@ -29,7 +29,7 @@ export function updateManyPokemon(batch: UpdatePokemon[]): PokemonMap {
     allPkm.set(id, newPkm)
   }
 
-  writeDataFileAsJson(dataFile, Array.from(allPkm.values()))
+  writeFileAsJson(dataFile, Array.from(allPkm.values()))
   updateLegacyPokemonFile(Array.from(allPkm.values()))
 
   return allPkm
@@ -100,5 +100,5 @@ function updateLegacyPokemonFile(data: Pokemon[]): void {
     result.push(legacyPkm)
   }
 
-  writeDataFileAsJson(dataFile, result)
+  writeFileAsJson(dataFile, result)
 }

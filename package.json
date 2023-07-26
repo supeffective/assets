@@ -4,6 +4,7 @@
   "scripts": {
     "build": "turbo run build",
     "build:vercel": "pnpm pkg:database migrate && turbo run build",
+    "codegen": "pnpm data:update && pnpm pkg:generator build && pnpm pkg:generator make sprite-indices && pnpm pkg:generator make data-types && pnpm data:validate",
     "data:update": "pnpm pkg:datalayer showdown:import",
     "data:validate": "pnpm pkg:datalayer validate",
     "dev": "env-cmd turbo run dev --no-deps --no-cache --parallel --concurrency 20",

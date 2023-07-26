@@ -23,7 +23,7 @@ export default function Page() {
                 key={record.id}
               >
                 <div className="w-16 h-16">
-                  <RecordImgFile id={'potion'} />
+                  <RecordImgFile id={record.id} />
                 </div>
                 <div className="flex-1">
                   <div className="text-xl font-bold text-nxt-w2">{record.name}</div>

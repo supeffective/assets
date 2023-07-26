@@ -1,6 +1,6 @@
 'use server'
 
-import { getDataPath, writeDataFileAsJson } from '@pkg/datalayer/datafs'
+import { getDataPath, writeFileAsJson } from '@pkg/datalayer/datafs'
 import { getPokedexes } from '@pkg/datalayer/repositories/pokedexes'
 import { PokedexEntry, pokedexSchema } from '@pkg/datalayer/schemas/pokedexes'
 
@@ -28,5 +28,5 @@ export async function updatePokedexAction(
     }
   }
 
-  writeDataFileAsJson(dataFile, pokedexes)
+  writeFileAsJson(dataFile, pokedexes)
 }

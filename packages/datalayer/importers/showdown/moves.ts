@@ -1,7 +1,7 @@
 import { Dex } from '@pkmn/dex'
 import { z } from 'zod'
 
-import { getDataPath, writeDataFileAsJson } from '../../datafs'
+import { getDataPath, writeFileAsJson } from '../../datafs'
 import { Move, moveSchema } from '../../schemas/moves'
 
 export const importShowdownMoves = function (): void {
@@ -72,5 +72,5 @@ export const importShowdownMoves = function (): void {
     transformedRows.push(record)
   })
 
-  writeDataFileAsJson(outFile, transformedRows)
+  writeFileAsJson(outFile, transformedRows)
 }

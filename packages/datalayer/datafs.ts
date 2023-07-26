@@ -5,6 +5,12 @@ const PKG_PATH = path.dirname(new URL(import.meta.url).pathname)
 const ASSETS_PATH = path.join(PKG_PATH, '..', '..', 'assets')
 const DATA_PATH = path.join(ASSETS_PATH, 'data')
 
+export type DataOverrideDefinition<T extends { id: string } = { id: string }> = {
+  exclude: string[]
+  append?: T[]
+  merge?: [string, T][]
+}
+
 export function getAssetsPath(basename?: string): string {
   return basename ? path.join(ASSETS_PATH, basename) : ASSETS_PATH
 }
@@ -37,31 +43,31 @@ export function getSafeDataPathOrFail(filename: string, basePath?: string): stri
   return path
 }
 
-export function readDataFile(filename: string): string {
+export function readFile(filename: string): string {
   return fs.readFileSync(filename, 'utf8')
 }
 
-export function readDataFileAsJson<T = any>(filename: string): T {
-  const data = readDataFile(filename)
+export function readFileAsJson<T = any>(filename: string): T {
+  const data = readFile(filename)
 
   return JSON.parse(data)
 }
 
-export function writeDataFile(filename: string, data: string): void {
+export function writeFile(filename: string, data: string): void {
   const dirName = path.dirname(filename)
-  ensureDataDir(dirName)
+  ensureDir(dirName)
   fs.writeFileSync(filename, data)
 }
 
-export function writeDataFileAsJson(basename: string, data: any): void {
-  writeDataFile(basename, JSON.stringify(data, null, 2))
+export function writeFileAsJson(basename: string, data: any): void {
+  writeFile(basename, JSON.stringify(data, null, 2))
 }
 
-export function dataPathExists(absPath: string): boolean {
+export function pathExists(absPath: string): boolean {
   return fs.existsSync(absPath)
 }
 
-export function ensureDataDir(fullPath: string): void {
+export function ensureDir(fullPath: string): void {
   if (!fs.existsSync(fullPath)) {
     fs.mkdirSync(fullPath, { recursive: true })
   }

@@ -4,6 +4,7 @@ import Image from 'next/image'
 import { cn } from '@pkg/utils/lib/styling/classNames'
 
 import { ASSETS_URL } from '@/lib/constants'
+import { assetExists } from '@/lib/serverHelpers'
 
 export type ItemImgFileProps = {
   id: string
@@ -16,7 +17,17 @@ export function ItemImgFile({
   className,
   ...rest
 }: ItemImgFileProps): JSX.Element {
-  const tileImg = `${ASSETS_URL}/images/items/${variant}/${id}.png`
+  const assetPath = `images/items/${variant}/${id}.png`
+
+  if (!assetExists(assetPath)) {
+    throw new Error(`ItemImgFile: asset not found: ${assetPath}`)
+  }
+
+  const tileImg = `${ASSETS_URL}/${assetPath}`
+  // const tileImg = assetExists(assetPath)
+  //   ? `${ASSETS_URL}/${assetPath}`
+  //   : `${ASSETS_URL}/images/items/${variant}/unknown-red.png`
+
   const baseSize = 68 * 2
   let width = baseSize
   let height = baseSize

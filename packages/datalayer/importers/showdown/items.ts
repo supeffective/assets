@@ -1,7 +1,7 @@
 import { Dex, Item as DexItem } from '@pkmn/dex'
 import { z } from 'zod'
 
-import { getDataPath, writeDataFileAsJson } from '../../datafs'
+import { DataOverrideDefinition, getDataPath, readFileAsJson, writeFileAsJson } from '../../datafs'
 import { Item, ItemCategory, itemSchema } from '../../schemas/items'
 
 function getItemCategory(item: DexItem): ItemCategory {
@@ -18,6 +18,7 @@ function getItemCategory(item: DexItem): ItemCategory {
   return 'other'
 }
 export const importShowdownItems = function (): void {
+  const overrides = readFileAsJson<DataOverrideDefinition>(getDataPath('overrides/items.json'))
   const outFile = getDataPath('items.json')
   const transformedRows: Item[] = []
 
@@ -33,6 +34,10 @@ export const importShowdownItems = function (): void {
     const num: number | undefined = row.num
 
     if (num === undefined || isNaN(num) || num <= 0) {
+      return
+    }
+
+    if (overrides.exclude.includes(row.id)) {
       return
     }
 
@@ -55,5 +60,5 @@ export const importShowdownItems = function (): void {
     transformedRows.push(record)
   })
 
-  writeDataFileAsJson(outFile, transformedRows)
+  writeFileAsJson(outFile, transformedRows)
 }
