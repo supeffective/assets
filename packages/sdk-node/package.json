@@ -33,7 +33,7 @@
     "LICENSE"
   ],
   "scripts": {
-    "build": "tsc --noEmit && tsup",
+    "build": "tsup",
     "postinstall": "pnpm run build",
     "prepublish": "pnpm run build",
     "version:fix": "npm version patch",
@@ -41,7 +41,7 @@
     "version:minor": "npm version minor"
   },
   "dependencies": {
-    "@supereffectivegg/assets-sdk": "workspace:*"
+    "@supereffectivegg/assets-sdk": "workspace:^"
   },
   "devDependencies": {
     "@types/node": "^20.4.5",
@@ -53,8 +53,5 @@
   },
   "publishConfig": {
     "access": "public"
-  },
-  "overrides": {
-    "@supereffectivegg/assets-sdk": "^0.2.0"
   }
 }

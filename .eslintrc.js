@@ -1,6 +1,18 @@
 module.exports = {
   root: true,
-  extends: ['prettier', 'plugin:react-hooks/recommended'],
+  env: {
+    browser: true,
+    es6: true,
+    jest: true,
+    amd: true,
+    commonjs: true,
+  },
+  extends: [
+    'plugin:react/recommended',
+    'plugin:react-hooks/recommended',
+    'plugin:@typescript-eslint/recommended',
+    'plugin:prettier/recommended',
+  ],
   parser: '@typescript-eslint/parser',
   ignorePatterns: [
     '**/node_modules/**',
@@ -10,7 +22,7 @@ module.exports = {
     '**/generated/**',
     'packages/website**',
   ],
-  plugins: ['import', 'react', 'react-hooks', 'jsx-a11y', '@typescript-eslint'],
+  plugins: ['import', 'react', 'react-hooks', 'jsx-a11y', '@typescript-eslint', 'prettier'],
   rules: {
     'jsx-a11y/alt-text': 'error',
     // components

@@ -5,6 +5,8 @@ build
 node_modules
 public
 .yarn/
+.tmp/
+.local/
 .cache/
 coverage/
 pnpm-*.yaml

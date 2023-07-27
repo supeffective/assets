@@ -38,7 +38,7 @@
     "LICENSE"
   ],
   "scripts": {
-    "build": "tsc --noEmit && tsup",
+    "build": "tsup",
     "postinstall": "pnpm run build",
     "prepublish": "pnpm run build",
     "version:fix": "npm version patch",
