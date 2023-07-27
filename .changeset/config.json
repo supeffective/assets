@@ -3,7 +3,7 @@
   "changelog": ["@changesets/changelog-github", { "repo": "itsjavi/supereffective-assets" }],
   "commit": false,
   "fixed": [],
-  "linked": [],
+  "linked": [["@supereffectivegg/*"]],
   "access": "public",
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
