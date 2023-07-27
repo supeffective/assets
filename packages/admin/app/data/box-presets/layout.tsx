@@ -10,7 +10,10 @@ export default function Layout({ children }: { children: React.ReactNode }) {
 
   return (
     <div>
-      <BoxPresetSelector selectedGameSetId={String(gameset)} selectedPresetId={String(preset)} />
+      <BoxPresetSelector
+        selectedGameSetId={gameset ? String(gameset) : undefined}
+        selectedPresetId={preset ? String(preset) : undefined}
+      />
       {children}
     </div>
   )
