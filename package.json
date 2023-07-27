@@ -4,7 +4,9 @@
   "scripts": {
     "build": "turbo run build",
     "build:vercel": "pnpm pkg:database migrate && turbo run build",
-    "changeset": "changeset",
+    "changeset:add": "changeset",
+    "changeset:publish": "changeset publish",
+    "changeset:version": "changeset version",
     "codegen": "pnpm data:update && pnpm pkg:generator build && pnpm pkg:generator make sprite-indices && pnpm pkg:generator make data-types && pnpm data:validate",
     "data:update": "pnpm pkg:datalayer showdown:import",
     "data:validate": "pnpm pkg:datalayer validate",
@@ -24,7 +26,6 @@
     "pretty:all": "pnpm pretty:code && pnpm pretty:pkgjsons",
     "pretty:code": "prettier --write \"**/*.{cjs,mjs,js,ts,tsx,json,yml,yaml,css,scss,md,mdx}\"",
     "pretty:pkgjsons": "sort-package-json \"package.json\" \"packages/*/package.json\"",
-    "publish:all": "pnpm --filter '@supereffectivegg/*' publish",
     "start": "pnpm dev",
     "test": "turbo run test:all",
     "test:all": "env-cmd jest",

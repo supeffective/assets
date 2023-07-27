@@ -35,10 +35,7 @@
   "scripts": {
     "build": "tsup",
     "postinstall": "pnpm run build",
-    "prepublish": "pnpm run build",
-    "version:fix": "npm version patch",
-    "version:major": "npm version major",
-    "version:minor": "npm version minor"
+    "prepublish": "pnpm run build"
   },
   "dependencies": {
     "@supereffectivegg/assets-sdk": "workspace:^"
