@@ -26,7 +26,7 @@ Read the main [README](README.md) for more information about the project structu
 
 ## Testing
 
-We use `vitest` to run tests. You can run all tests with:
+We use `jest` to run tests. You can run all tests with:
 
 ```sh
 pnpm test
