@@ -3,7 +3,7 @@ import {
   createMutablePokemonRepository,
   createPokemonRepository,
 } from '@supereffectivegg/assets-sdk'
-import { createFsDriver } from '@supereffectivegg/assets-sdk/node'
+import { createFsDriver } from '@supereffectivegg/assets-sdk-node'
 
 import { getPokemonMissingOnSwitchGames } from '@pkg/datalayer/repositories/pokemon'
 

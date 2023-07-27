@@ -1,7 +1,7 @@
 {
-  "name": "@supereffectivegg/assets-sdk",
+  "name": "@supereffectivegg/assets-sdk-node",
   "version": "0.2.0",
-  "description": "SuperEffective.gg Pokémon Assets SDK",
+  "description": "SuperEffective.gg Pokémon Assets SDK for NodeJS",
   "keywords": [
     "modular",
     "typescript",
@@ -23,11 +23,6 @@
       "types": "./dist/index.d.ts",
       "import": "./dist/index.js",
       "default": "./dist/index.cjs"
-    },
-    "./node": {
-      "types": "./dist/node.d.ts",
-      "import": "./dist/node.js",
-      "default": "./dist/node.cjs"
     }
   },
   "main": "./dist/index.cjs",
@@ -46,7 +41,7 @@
     "version:minor": "npm version minor"
   },
   "dependencies": {
-    "zod": "^3.21.4"
+    "@supereffectivegg/assets-sdk": "workspace:*"
   },
   "devDependencies": {
     "@types/node": "^20.4.5",
@@ -58,5 +53,8 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "overrides": {
+    "@supereffectivegg/assets-sdk": "^0.2.0"
   }
 }

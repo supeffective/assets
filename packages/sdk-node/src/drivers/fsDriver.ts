@@ -1,7 +1,6 @@
 import { readFile as nodeReadFile, writeFile as nodeWriteFile } from 'node:fs/promises'
 import { join as pathJoin } from 'node:path'
-
-import type { MutableRepositoryDriver } from '../../repositories'
+import type { MutableRepositoryDriver } from '@supereffectivegg/assets-sdk'
 
 export function createFsDriver(assetsPath: string): MutableRepositoryDriver {
   return {

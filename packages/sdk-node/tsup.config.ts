@@ -10,6 +10,5 @@ export default defineConfig([
     dts: true,
     outDir: './dist',
     sourcemap: true,
-    //legacyOutput: true,
   },
 ])
