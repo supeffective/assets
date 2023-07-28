@@ -1,18 +1,16 @@
 import { z } from 'zod'
 
-import { cachedResult } from '../../utils/cachedResource'
 import type { Entity, Repository, RepositoryDriver } from './types'
 
 export default function createReadOnlyRepository<R extends Entity>(
   repoId: string,
   driver: RepositoryDriver,
   schema: z.ZodSchema<any>,
-  dataFile: string = `data/${repoId}.json`,
-  cacheTtl: number = 600
+  dataFile: string = `data/${repoId}.json`
 ): Repository<R> {
-  const getAll = cachedResult<R[]>(cacheTtl, async () => {
+  const getAll = async () => {
     return await driver.readFile<R>(dataFile)
-  })
+  }
 
   const repo: Repository<R> = {
     id: repoId,

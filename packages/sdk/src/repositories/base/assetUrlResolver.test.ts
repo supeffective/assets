@@ -21,6 +21,7 @@ describe('createAssetUrlResolver', () => {
     const nid = '25'
     const expectedUri = `${baseUrl}/images/pokemon/home3d-icon/regular/25.png`
 
+    expect(assetUrlResolver.pokemonImg(nid)).toBe(expectedUri)
     expect(assetUrlResolver.pokemonImg(nid, 'home3d-icon')).toBe(expectedUri)
   })
 
@@ -35,6 +36,7 @@ describe('createAssetUrlResolver', () => {
     const id = 'red-blue'
     const expectedUri = `${baseUrl}/images/games/icons-circle/red-blue.png`
 
+    expect(assetUrlResolver.gameImg(id)).toBe(expectedUri)
     expect(assetUrlResolver.gameImg(id, 'icons-circle')).toBe(expectedUri)
   })
 
@@ -42,6 +44,7 @@ describe('createAssetUrlResolver', () => {
     const id = 'potion'
     const expectedUri = `${baseUrl}/images/items/gen9-style/potion.png`
 
+    expect(assetUrlResolver.itemImg(id)).toBe(expectedUri)
     expect(assetUrlResolver.itemImg(id, 'gen9-style')).toBe(expectedUri)
   })
 
@@ -49,6 +52,7 @@ describe('createAssetUrlResolver', () => {
     const id = '123'
     const expectedUri = `${baseUrl}/images/marks/gen9-style/123.png`
 
+    expect(assetUrlResolver.markImg(id)).toBe(expectedUri)
     expect(assetUrlResolver.markImg(id, 'gen9-style')).toBe(expectedUri)
   })
 
@@ -56,6 +60,7 @@ describe('createAssetUrlResolver', () => {
     const id = '456'
     const expectedUri = `${baseUrl}/images/ribbons/gen9-style/456.png`
 
+    expect(assetUrlResolver.ribbonImg(id)).toBe(expectedUri)
     expect(assetUrlResolver.ribbonImg(id, 'gen9-style')).toBe(expectedUri)
   })
 
@@ -63,6 +68,7 @@ describe('createAssetUrlResolver', () => {
     const id = 'fire'
     const expectedUri = `${baseUrl}/images/types/gen9-style/fire.png`
 
+    expect(assetUrlResolver.typeImg(id)).toBe(expectedUri)
     expect(assetUrlResolver.typeImg(id, 'gen9-style')).toBe(expectedUri)
   })
 

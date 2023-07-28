@@ -60,7 +60,7 @@ export interface RepositoryDriver {
   id: string
   baseUri: string
   resolveUri(relativePath: string): string
-  readFile<R extends Entity>(relativePath: string): Promise<Array<R>>
+  readFile<R extends Entity>(relativePath: string, cacheTtl?: number): Promise<Array<R>>
 }
 
 export type EntityUpdate<R extends Entity> = Partial<R> & { id: Entity['id'] }
@@ -81,11 +81,11 @@ export interface MutableRepositoryDriver extends RepositoryDriver {
 export interface AssetUrlResolver {
   baseUri: string
   resolveUri(relativePath: string): string
-  pokemonImg(nid: string, variant: string, shiny?: boolean): string
-  gameImg(id: string, variant: string): string
-  itemImg(id: string, variant: string): string
-  ribbonImg(id: string, variant: string): string
-  markImg(id: string, variant: string): string
-  typeImg(id: string, variant: string, withBg?: boolean): string
+  pokemonImg(nid: string, variant?: string, shiny?: boolean): string
+  gameImg(id: string, variant?: string): string
+  itemImg(id: string, variant?: string): string
+  ribbonImg(id: string, variant?: string): string
+  markImg(id: string, variant?: string): string
+  typeImg(id: string, variant?: string, withBg?: boolean): string
   originMarkImg(id: string): string
 }

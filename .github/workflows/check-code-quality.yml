@@ -96,7 +96,7 @@ jobs:
         run: pnpm build
 
       - name: Run tests
-        run: pnpm test
+        run: pnpm test:ci
 
       - name: Validate assets
         run: pnpm data:validate

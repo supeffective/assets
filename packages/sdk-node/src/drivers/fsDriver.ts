@@ -1,6 +1,6 @@
 import { readFile as nodeReadFile, writeFile as nodeWriteFile } from 'node:fs/promises'
 import { join as pathJoin } from 'node:path'
-import type { MutableRepositoryDriver } from '@supereffectivegg/assets-sdk'
+import { type MutableRepositoryDriver } from '@supereffectivegg/assets-sdk'
 
 export function createFsDriver(assetsPath: string): MutableRepositoryDriver {
   return {
@@ -9,7 +9,15 @@ export function createFsDriver(assetsPath: string): MutableRepositoryDriver {
     resolveUri(relativePath) {
       return pathJoin(assetsPath, relativePath)
     },
-    async readFile(relativePath) {
+    async readFile(relativePath, cacheTtl) {
+      // const fetchData = cachedResult(cacheTtl ?? 0, async () => {
+      //   const data = await nodeReadFile(pathJoin(assetsPath, relativePath), 'utf-8')
+
+      //   cache.set(relativePath, data)
+
+      //   return data
+      // })
+
       const data = await nodeReadFile(pathJoin(assetsPath, relativePath), 'utf-8')
 
       return JSON.parse(data)

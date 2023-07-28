@@ -9,7 +9,7 @@ export default function createMutableRepository<R extends Entity>(
   schema: z.ZodSchema<any>,
   dataFile: string = `data/${repoId}.json`
 ): MutableRepository<R> {
-  const baseRepo = createReadOnlyRepository<R>(repoId, driver, schema, dataFile, 0)
+  const baseRepo = createReadOnlyRepository<R>(repoId, driver, schema, dataFile)
   const repo: MutableRepository<R> = {
     ...baseRepo,
     async create(newEntity: R) {

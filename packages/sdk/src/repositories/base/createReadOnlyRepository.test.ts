@@ -2,8 +2,6 @@ import { z } from 'zod'
 
 import createReadOnlyRepository from './createReadOnlyRepository'
 
-jest.mock('../../utils/cachedResource')
-
 const mockDriver: any = {
   readFile: jest.fn(),
 }
