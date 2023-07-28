@@ -1,25 +1,21 @@
-import {
-  createHttpDriver,
-  createMutablePokemonRepository,
-  createPokemonRepository,
-} from '@supereffectivegg/assets-sdk'
-import { createFsDriver } from '@supereffectivegg/assets-sdk-node'
+import { createHttpDriver, createPokemonRepository } from '@supereffectivegg/assets-sdk'
 
 import { getPokemonMissingOnSwitchGames } from '@pkg/datalayer/repositories/pokemon'
 
 import { PokeGrid } from '@/components/pkm/PokeGrid'
 import { Flex } from '@/components/primitives/boxes/Flex'
 import { Title } from '@/components/primitives/typography/Title'
-import { ASSETS_PATH } from '@/lib/serverHelpers'
 
 export default async function Page() {
   const repo = createPokemonRepository(
     createHttpDriver('https://itsjavi.com/supereffective-assets/assets')
   )
 
-  const mutableRepo = createMutablePokemonRepository(createFsDriver(ASSETS_PATH))
+  await repo.getAll()
+  await repo.getAll() // should be cached
+  await repo.getAll() // should be cached
 
-  const pokes = await repo.getAll()
+  const pokes = await repo.getAll() // should be cached
 
   return (
     <Flex vertical gap={6} className="max-w-5xl">

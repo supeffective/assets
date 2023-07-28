@@ -10,7 +10,7 @@ import type {
 
 export function createPokemonRepository(
   driver: RepositoryDriver,
-  cacheTtl: number = 600
+  cacheTtl: number = 60 * 15 * 1000 // 15 minutes
 ): Repository<Pokemon> {
   return createReadOnlyRepository<Pokemon>(
     'pokemon',
@@ -22,7 +22,14 @@ export function createPokemonRepository(
 }
 
 export function createMutablePokemonRepository(
-  driver: MutableRepositoryDriver
+  driver: MutableRepositoryDriver,
+  cacheTtl: number = 60 * 15 * 1000 // 15 minutes
 ): MutableRepository<Pokemon> {
-  return createMutableRepository<Pokemon>('pokemon', driver, pokemonSchema, 'data/pokemon.json')
+  return createMutableRepository<Pokemon>(
+    'pokemon',
+    driver,
+    pokemonSchema,
+    'data/pokemon.json',
+    cacheTtl
+  )
 }

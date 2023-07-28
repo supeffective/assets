@@ -36,12 +36,12 @@ describe('createReadOnlyRepository', () => {
   test('getAll should call driver.readFile with the correct dataFile', async () => {
     const repoId = 'users'
     const dataFile = 'data/users.json'
-    const repo = createReadOnlyRepository(repoId, mockDriver, mockSchema, dataFile)
+    const repo = createReadOnlyRepository(repoId, mockDriver, mockSchema, dataFile, 500)
 
     await repo.getAll()
 
     expect(mockDriver.readFile).toHaveBeenCalledTimes(1)
-    expect(mockDriver.readFile).toHaveBeenCalledWith(dataFile)
+    expect(mockDriver.readFile).toHaveBeenCalledWith(dataFile, 500)
   })
 
   test('getById should return the entity with the given id', async () => {

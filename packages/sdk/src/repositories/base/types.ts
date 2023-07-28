@@ -61,6 +61,7 @@ export interface RepositoryDriver {
   baseUri: string
   resolveUri(relativePath: string): string
   readFile<R extends Entity>(relativePath: string, cacheTtl?: number): Promise<Array<R>>
+  clearCache(relativePath: string): Promise<void>
 }
 
 export type EntityUpdate<R extends Entity> = Partial<R> & { id: Entity['id'] }
