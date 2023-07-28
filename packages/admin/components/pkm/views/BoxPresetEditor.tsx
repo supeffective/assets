@@ -30,7 +30,7 @@ type BoxPresetEditorProps = {
 
 export function BoxPresetEditor(props: BoxPresetEditorProps) {
   const saveTimeout = useRef<NodeJS.Timeout | null>(null)
-  let [isTransitionPending, startTransition] = useTransition()
+  const [isTransitionPending, startTransition] = useTransition()
   const [currentGameSet, _] = useState(props.gameSetId)
   const boxPresets = currentGameSet ? getBoxPresetsByGameSet(currentGameSet) : []
   const [currentPreset, setCurrentPreset] = useState(props.presetId)

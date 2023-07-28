@@ -39,6 +39,7 @@
   ],
   "scripts": {
     "build": "tsup",
+    "dev": "tsup --watch --dts --clean",
     "postinstall": "pnpm run build",
     "prepublish": "pnpm run build"
   },

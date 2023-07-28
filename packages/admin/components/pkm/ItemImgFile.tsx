@@ -29,8 +29,8 @@ export function ItemImgFile({
   //   : `${ASSETS_URL}/images/items/${variant}/unknown-red.png`
 
   const baseSize = 68 * 2
-  let width = baseSize
-  let height = baseSize
+  const width = baseSize
+  const height = baseSize
 
   return (
     <span title={id + '.png'} className={cn(`inline-block align-top`, className)} {...rest}>

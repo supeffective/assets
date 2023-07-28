@@ -42,6 +42,8 @@ export interface Repository<R extends Entity> {
   getById(id: string): Promise<R>
   findById(id: string): Promise<R | undefined>
   getManyByIds(ids: Array<string>): Promise<Array<R>>
+  exists(id: string): Promise<boolean>
+  assureExists(id: string): Promise<void>
   search(query: string): Promise<Array<R>>
   query(
     q: RepositoryQuery,
@@ -61,11 +63,13 @@ export interface RepositoryDriver {
   readFile<R extends Entity>(relativePath: string): Promise<Array<R>>
 }
 
+export type EntityUpdate<R extends Entity> = Partial<R> & { id: Entity['id'] }
+
 export interface MutableRepository<R extends Entity> extends Repository<R> {
   create(entity: R): Promise<R>
   createMany(entities: Array<R>): Promise<Array<R>>
-  update(entity: Partial<R>): Promise<R>
-  updateMany(entities: Array<Partial<R>>): Promise<Array<R>>
+  update(entity: EntityUpdate<R>): Promise<void>
+  updateMany(entities: Array<EntityUpdate<R>>): Promise<void>
   delete(id: string): Promise<void>
   deleteMany(ids: Array<string>): Promise<void>
 }
@@ -82,6 +86,6 @@ export interface AssetUrlResolver {
   itemImg(id: string, variant: string): string
   ribbonImg(id: string, variant: string): string
   markImg(id: string, variant: string): string
-  typeImg(id: string, variant: string, withBg: boolean): string
+  typeImg(id: string, variant: string, withBg?: boolean): string
   originMarkImg(id: string): string
 }

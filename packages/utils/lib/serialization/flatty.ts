@@ -4,7 +4,7 @@ type AnyJson = Primitive | AnyJson[] | { [key: string]: AnyJson }
 
 class Flat {
   flatten(obj: AnyJson, path: string = ''): FlattenedObject {
-    let flatObject: FlattenedObject = {}
+    const flatObject: FlattenedObject = {}
 
     if (Array.isArray(obj)) {
       for (let i = 0; i < obj.length; i++) {
@@ -20,7 +20,7 @@ class Flat {
     }
 
     if (typeof obj === 'object' && obj !== null) {
-      for (let key in obj) {
+      for (const key in obj) {
         const newPath = path ? `${path}.${key}` : key
         Object.assign(flatObject, this.flatten((obj as { [key: string]: AnyJson })[key], newPath))
       }
@@ -55,7 +55,7 @@ class Flat {
       }
     }
 
-    for (let path in obj) {
+    for (const path in obj) {
       const pathParts = path
         .split(/[\.\[\]]/)
         .filter(Boolean)

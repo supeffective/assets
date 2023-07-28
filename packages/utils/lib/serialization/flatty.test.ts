@@ -2,7 +2,7 @@ import flatty from './flatty'
 
 describe('flatten', () => {
   it('converts a nested object structure into a flattened structure', () => {
-    let obj = {
+    const obj = {
       person: {
         email: 'john.doe@example.com',
         addresses: [
@@ -18,7 +18,7 @@ describe('flatten', () => {
       },
     }
 
-    let expected = {
+    const expected = {
       'person.email': 'john.doe@example.com',
       'person.addresses[0].street': '123 Main St',
       'person.addresses[0].city': 'Anytown',
@@ -49,13 +49,13 @@ describe('flatten', () => {
 
 describe('unflatten', () => {
   it('restores a flattened object to its original structure', () => {
-    let flattened = {
+    const flattened = {
       'person.email': 'john.doe@example.com',
       'person.addresses[0].street': '123 Main St',
       'person.addresses[0].city': 'Anytown',
     }
 
-    let expected = {
+    const expected = {
       person: {
         email: 'john.doe@example.com',
         addresses: [

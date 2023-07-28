@@ -22,7 +22,7 @@ import { Title } from '@/components/primitives/typography/Title'
 const allPokes = getAllPokemon()
 
 export default function GameSetEditor({ gameSet }: { gameSet: GameSet }) {
-  let [isTransitionPending, startTransition] = useTransition()
+  const [isTransitionPending, startTransition] = useTransition()
   const gameIds = Object.keys(gameSet.games)
   const games = Object.entries(gameSet.games)
   const _pokes = getPokemonForGameSet(gameSet.id)

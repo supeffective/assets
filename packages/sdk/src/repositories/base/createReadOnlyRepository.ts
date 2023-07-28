@@ -29,6 +29,12 @@ export default function createReadOnlyRepository<R extends Entity>(
 
       return found
     },
+    async exists(id) {
+      return this.findById(id).then(Boolean)
+    },
+    async assureExists(id) {
+      this.getById(id)
+    },
     async findById(id) {
       return getAll().then(data => data.find(item => item.id === id))
     },
@@ -51,11 +57,11 @@ export default function createReadOnlyRepository<R extends Entity>(
 
       return { success: true }
     },
-    search() {
-      throw new Error('Not implemented')
+    async search() {
+      return Promise.reject(new Error('Not implemented'))
     },
-    query() {
-      throw new Error('Not implemented')
+    async query() {
+      return Promise.reject(new Error('Not implemented'))
     },
   }
 

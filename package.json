@@ -27,9 +27,10 @@
     "pretty:code": "prettier --write \"**/*.{cjs,mjs,js,ts,tsx,json,yml,yaml,css,scss,md,mdx}\"",
     "pretty:pkgjsons": "sort-package-json \"package.json\" \"packages/*/package.json\"",
     "start": "pnpm dev",
-    "test": "turbo run test:all",
+    "test": "pnpm test:all",
     "test:all": "env-cmd jest",
-    "test:coverage": "env-cmd pnpm test -- -- --coverage"
+    "test:ci": "turbo run test:all",
+    "test:coverage": "env-cmd pnpm test -- --coverage"
   },
   "lint-staged": {
     "*.{js,cjs,mjs,jsx,ts,cts,mts,tsx}": [

@@ -18,8 +18,8 @@ export function RibbonImgFile({
 }: RibbonImgFileProps): JSX.Element {
   const tileImg = `${ASSETS_URL}/images/ribbons/${variant}/${id}.png`
   const baseSize = 68 * 2
-  let width = baseSize
-  let height = baseSize
+  const width = baseSize
+  const height = baseSize
 
   return (
     <span title={id + '.png'} className={cn(`inline-block align-top`, className)} {...rest}>

@@ -1,21 +1,35 @@
 export function cachedResult<T>(ttl: number, hydrator: () => Promise<T>): () => Promise<T> {
   const ttlMs = ttl * 1000
 
-  let resource: T | undefined
-  let timestamp: number | undefined
+  let resource: T
+  let timestamp: number
+  let hydratorPromiseLock: Promise<T> | undefined
+  let hydrated = false
+
+  const hydrate = async () => {
+    resource = await hydrator()
+    hydrated = true
+    timestamp = Date.now()
+    hydratorPromiseLock = undefined
+
+    return resource
+  }
 
   return async () => {
     if (ttlMs === 0) {
       return await hydrator()
     }
 
-    if (resource && timestamp && Date.now() - timestamp < ttlMs) {
+    const dateDiff = Date.now() - (timestamp || 0)
+
+    if (hydrated && ttlMs > dateDiff) {
       return resource
     }
 
-    resource = await hydrator()
-    timestamp = Date.now()
+    if (!hydratorPromiseLock) {
+      hydratorPromiseLock = hydrate()
+    }
 
-    return resource
+    return hydratorPromiseLock
   }
 }

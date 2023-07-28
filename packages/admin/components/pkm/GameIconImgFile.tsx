@@ -10,8 +10,8 @@ export type GameIconImgFileProps = { id: string } & HTMLProps<HTMLSpanElement>
 export function GameIconImgFile({ id, className, ...rest }: GameIconImgFileProps): JSX.Element {
   const tileImg = `${ASSETS_URL}/images/games/icons-circle/${id}.png`
   const baseSize = 80
-  let width = baseSize
-  let height = baseSize
+  const width = baseSize
+  const height = baseSize
 
   return (
     <span

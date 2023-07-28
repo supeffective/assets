@@ -40,7 +40,7 @@ function _resolveDexNums(dexEntries: Pokemon[]) {
 }
 
 export default function PokedexEditor({ record }: { record: Pokedex }) {
-  let [isTransitionPending, startTransition] = useTransition()
+  const [isTransitionPending, startTransition] = useTransition()
 
   const [dexEntries, setDexEntries] = useState<PokedexEntry[]>(record.entries)
   const dexEntriesMap = new Map(dexEntries.map(e => [e.id, e]))

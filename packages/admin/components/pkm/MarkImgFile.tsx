@@ -18,8 +18,8 @@ export function MarkImgFile({
 }: MarkImgFileProps): JSX.Element {
   const tileImg = `${ASSETS_URL}/images/marks/${variant}/${id}.png`
   const baseSize = 68 * 2
-  let width = baseSize
-  let height = baseSize
+  const width = baseSize
+  const height = baseSize
 
   return (
     <span title={id + '.png'} className={cn(`inline-block align-top`, className)} {...rest}>

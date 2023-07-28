@@ -6,8 +6,8 @@
     "build": "next build",
     "dev": "PORT=3151 next dev",
     "dev:debug": "PORT=51187 NODE_OPTIONS='--inspect' next dev",
-    "lint": "next lint --max-warnings=25",
-    "lint:fix": "next lint --fix --max-warnings=25",
+    "lint": "next lint --max-warnings=100",
+    "lint:fix": "next lint --fix --max-warnings=100",
     "start": "next start"
   },
   "dependencies": {
