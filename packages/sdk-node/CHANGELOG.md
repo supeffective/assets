@@ -1,5 +1,16 @@
 # @supereffectivegg/assets-sdk-node
 
+## 0.4.0
+
+### Minor Changes
+
+- use kv to cache calls to getAll
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @supereffectivegg/assets-sdk@0.4.0
+
 ## 0.3.1
 
 ### Patch Changes

@@ -1,6 +1,6 @@
 {
   "name": "@supereffectivegg/assets-sdk-node",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "description": "SuperEffective.gg Pokémon Assets SDK for NodeJS",
   "keywords": [
     "modular",
@@ -30,6 +30,7 @@
   "files": [
     "dist",
     "README.md",
+    "CHANGELOG.md",
     "LICENSE"
   ],
   "scripts": {
