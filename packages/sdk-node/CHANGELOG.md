@@ -1,5 +1,16 @@
 # @supereffectivegg/assets-sdk-node
 
+## 0.5.0
+
+### Minor Changes
+
+- integrate caching and search engines (preview)
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @supereffectivegg/assets-sdk@0.5.0
+
 ## 0.4.0
 
 ### Minor Changes
