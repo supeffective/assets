@@ -16,7 +16,7 @@ export function createPokemonRepository(
     'pokemon',
     driver,
     pokemonSchema,
-    'data/pokemon.json',
+    'data/pokemon.min.json',
     cacheTtl
   )
 }
@@ -29,7 +29,7 @@ export function createCompactPokemonRepository(
     'pokemon-compact',
     driver,
     pokemonSchema,
-    'data/pokemon-compact.json',
+    'data/pokemon-compact.min.json',
     cacheTtl
   )
 }
@@ -42,7 +42,7 @@ export function createMutablePokemonRepository(
     'pokemon',
     driver,
     pokemonSchema,
-    'data/pokemon.json',
+    'data/pokemon.min.json',
     cacheTtl
   )
 }

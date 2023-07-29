@@ -3,8 +3,8 @@ export interface Entity {
   name: string
 }
 
-export interface RepositoryFilter {
-  field: string
+export interface RepositoryFilter<R extends Entity> {
+  field: keyof R
   value?: string | number | boolean | string[] | number[]
   operator:
     | 'neq'
@@ -25,14 +25,14 @@ export interface RepositoryFilter {
 
 /**
  * RepositoryQuery is a 2D array of RepositoryFilter.
- * The first level (root) are AND conditions, the second level (nested arrays) are OR.
+ * The first level (root) are OR conditions, the second level (nested arrays) are AND.
  *
  * e.g.: [ // people with name John and age equal to 18 OR lastname equal to Smith:
  *  [{ field: 'name', value: 'John', operator: 'eq' }],
  *  [{ field: 'age', value: 18, operator: 'eq' }, { field: 'lastname', value: 'Smith', operator: 'eq' }]
  * ]
  */
-export type RepositoryQuery = Array<RepositoryFilter[]>
+export type RepositoryQuery<R extends Entity> = Array<RepositoryFilter<R>[]>
 
 export type ValidationResult = { success: boolean; error?: Error }
 
@@ -46,7 +46,7 @@ export interface Repository<R extends Entity> {
   assureExists(id: string): Promise<void>
   search(query: string): Promise<Array<R>>
   query(
-    q: RepositoryQuery,
+    q: RepositoryQuery<R>,
     limit?: number,
     offset?: number,
     sortBy?: string,
