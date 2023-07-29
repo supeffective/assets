@@ -1,7 +1,11 @@
+import { z } from 'zod'
+
 export interface Entity {
   id: string
   name: string
 }
+
+export type EntityValidationResult = { success: boolean; error?: Error }
 
 export interface RepositoryFilter<R extends Entity> {
   field: keyof R
@@ -27,14 +31,12 @@ export interface RepositoryFilter<R extends Entity> {
  * RepositoryQuery is a 2D array of RepositoryFilter.
  * The first level (root) are OR conditions, the second level (nested arrays) are AND.
  *
- * e.g.: [ // people with name John and age equal to 18 OR lastname equal to Smith:
+ * e.g.: [ // people with name John OR age equal to 18 AND lastname equal to Smith:
  *  [{ field: 'name', value: 'John', operator: 'eq' }],
  *  [{ field: 'age', value: 18, operator: 'eq' }, { field: 'lastname', value: 'Smith', operator: 'eq' }]
  * ]
  */
 export type RepositoryQuery<R extends Entity> = Array<RepositoryFilter<R>[]>
-
-export type ValidationResult = { success: boolean; error?: Error }
 
 export interface Repository<R extends Entity> {
   id: string
@@ -44,19 +46,18 @@ export interface Repository<R extends Entity> {
   getManyByIds(ids: Array<string>): Promise<Array<R>>
   exists(id: string): Promise<boolean>
   assureExists(id: string): Promise<void>
-  search(query: string): Promise<Array<R>>
-  query(
-    q: RepositoryQuery<R>,
+  search(
+    q: string | RepositoryQuery<R>,
     limit?: number,
     offset?: number,
-    sortBy?: string,
+    sortBy?: keyof R,
     sortDir?: 'asc' | 'desc'
   ): Promise<Array<R>>
-  validate(data: R): ValidationResult
-  validateMany(data: Array<R>): ValidationResult
+  validate(data: R): EntityValidationResult
+  validateMany(data: Array<R>): EntityValidationResult
 }
 
-export interface RepositoryDriver {
+export interface RepositoryStorageDriver {
   id: string
   baseUri: string
   resolveUri(relativePath: string): string
@@ -75,8 +76,64 @@ export interface MutableRepository<R extends Entity> extends Repository<R> {
   deleteMany(ids: Array<string>): Promise<void>
 }
 
-export interface MutableRepositoryDriver extends RepositoryDriver {
+export interface MutableRepositoryStorageDriver extends RepositoryStorageDriver {
   writeFile<R extends Entity>(relativePath: string, data: Array<R>): Promise<void>
+}
+
+export type RepositoryTextSearchEngine<R extends Entity> = {
+  /**
+   * Index the given entities
+   * @param entities Entities to index
+   * @param tokens Array of [fieldName, tokenizer] tuples
+   * @returns Promise
+   * @example
+   * const entities = [{ id: '1', name: 'John Doe' }, { id: '2', name: 'Jane Doe' }]
+   * const tokens = [['name', (item) => item.name.split(' ')]]
+   * await searchEngine.index(entities, tokens)
+   * // Now you can search for entities matching 'John' or 'Doe'
+   * const results = await searchEngine.search('John Doe')
+   * // results = Set(['1', '2'])
+   * const results = await searchEngine.searchWith(entities, 'Jane')
+   * // results = [{ id: '2', name: 'Jane Doe' }]
+   **/
+  index: (
+    entities: R[],
+    tokens: Array<[keyof R | string, (entity: R) => string[] | string | null]>
+  ) => Promise<void>
+
+  isIndexed: () => Promise<boolean>
+
+  /**
+   * Search for entities matching the given text
+   * @param text Full text search query
+   * @returns Set of ids of matching entities
+   */
+  search: (text: string) => Promise<Set<string>>
+
+  /**
+   * Search for entities matching the given text
+   * @param entities Entities to search in
+   * @param text Full text search query
+   * @returns The matching entities
+   */
+  searchWith: (entities: R[], text: string) => Promise<R[]>
+}
+
+export type RepositoryConfig<
+  R extends Entity,
+  S extends RepositoryStorageDriver = RepositoryStorageDriver,
+> = {
+  id: string
+  schema: z.ZodSchema<R>
+  resourcePath: string
+  storageDriver: S
+  textSearchEngine: RepositoryTextSearchEngine<R>
+  searchInitializer?: (
+    entities: R[],
+    searchEngine: RepositoryTextSearchEngine<R>,
+    repository: Repository<R>
+  ) => Promise<void>
+  cacheTtl?: number
 }
 
 export interface AssetUrlResolver {

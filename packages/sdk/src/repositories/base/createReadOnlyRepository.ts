@@ -2,9 +2,9 @@ import { z } from 'zod'
 
 import {
   Entity,
+  RepositoryConfig,
   RepositoryQuery,
   type Repository,
-  type RepositoryDriver,
   type RepositoryFilter,
 } from './types'
 
@@ -81,15 +81,17 @@ function applyQuery<R extends Entity>(entities: R[], query: RepositoryQuery<R>):
   })
 }
 
-export default function createReadOnlyRepository<R extends Entity>(
-  repoId: string,
-  driver: RepositoryDriver,
-  schema: z.ZodSchema<any>,
-  dataFile: string = `data/${repoId}.json`,
-  cacheTtl: number = 60 * 15 * 1000 // 15 minutes
-): Repository<R> {
+export default function createReadOnlyRepository<R extends Entity>({
+  id: repoId,
+  resourcePath,
+  schema,
+  storageDriver,
+  textSearchEngine,
+  searchInitializer,
+  cacheTtl = 60 * 15 * 1000, // 15 minutes
+}: RepositoryConfig<R>): Repository<R> {
   const getAll = async () => {
-    return await driver.readFile<R>(dataFile, cacheTtl)
+    return await storageDriver.readFile<R>(resourcePath, cacheTtl)
   }
 
   const repo: Repository<R> = {
@@ -135,24 +137,27 @@ export default function createReadOnlyRepository<R extends Entity>(
 
       return { success: true }
     },
-    async search() {
-      return Promise.reject(new Error('Not implemented'))
-    },
-    async query(
-      q: RepositoryQuery<R>,
+    async search(
+      q: string | RepositoryQuery<R>,
       limit: number = 0,
       offset: number = 0,
-      sortBy?: string,
+      sortBy?: keyof R,
       sortDir: 'asc' | 'desc' = 'asc'
     ): Promise<R[]> {
       const allEntities = await this.getAll()
-      let filteredEntities = applyQuery<R>(allEntities, q)
+      if (!(await textSearchEngine.isIndexed()) && searchInitializer) {
+        await searchInitializer(allEntities, textSearchEngine, this)
+      }
+      let filteredEntities =
+        typeof q === 'string'
+          ? await textSearchEngine.searchWith(allEntities, q)
+          : applyQuery<R>(allEntities, q)
 
       // Sort the filtered entities if sortBy is provided
       if (sortBy) {
         filteredEntities = [...filteredEntities].sort((a, b) => {
-          const aValue = String(a[sortBy as keyof Entity] ?? '')
-          const bValue = String(b[sortBy as keyof Entity] ?? '')
+          const aValue = String(a[sortBy] ?? '')
+          const bValue = String(b[sortBy] ?? '')
 
           if (sortDir === 'asc') {
             return aValue.toLowerCase().localeCompare(bValue.toLowerCase())

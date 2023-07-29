@@ -1,12 +1,12 @@
 import { readFile as nodeReadFile, writeFile as nodeWriteFile } from 'node:fs/promises'
 import { join as pathJoin } from 'node:path'
-import { kv, type MutableRepositoryDriver } from '@supereffectivegg/assets-sdk'
+import { KVStore, type MutableRepositoryDriver } from '@supereffectivegg/assets-sdk'
 
 function buildCacheKey(path: string) {
   return `sdk-node.fsDriver::${path}`
 }
 
-export function createFsDriver(assetsPath: string): MutableRepositoryDriver {
+export function createFsDriver(kv: KVStore, assetsPath: string): MutableRepositoryDriver {
   return {
     id: 'fs',
     baseUri: assetsPath,

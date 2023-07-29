@@ -1,16 +1,28 @@
-import type { z } from 'zod'
-
 import createReadOnlyRepository from './createReadOnlyRepository'
-import type { Entity, EntityUpdate, MutableRepository, MutableRepositoryDriver } from './types'
+import type {
+  Entity,
+  EntityUpdate,
+  MutableRepository,
+  MutableRepositoryStorageDriver,
+  RepositoryConfig,
+} from './types'
 
-export default function createMutableRepository<R extends Entity>(
-  repoId: string,
-  driver: MutableRepositoryDriver,
-  schema: z.ZodSchema<any>,
-  dataFile: string = `data/${repoId}.json`,
-  cacheTtl: number = 60 * 15 * 1000 // 15 minutes
-): MutableRepository<R> {
-  const baseRepo = createReadOnlyRepository<R>(repoId, driver, schema, dataFile, cacheTtl)
+export default function createMutableRepository<R extends Entity>({
+  id: repoId,
+  resourcePath,
+  schema,
+  storageDriver,
+  textSearchEngine,
+  cacheTtl = 60 * 15 * 1000, // 15 minutes
+}: RepositoryConfig<R, MutableRepositoryStorageDriver>): MutableRepository<R> {
+  const baseRepo = createReadOnlyRepository<R>({
+    id: repoId,
+    resourcePath,
+    schema,
+    storageDriver,
+    textSearchEngine,
+    cacheTtl,
+  })
   const repo: MutableRepository<R> = {
     ...baseRepo,
     async create(newEntity: R) {
@@ -20,7 +32,7 @@ export default function createMutableRepository<R extends Entity>(
 
       const allEntities = await baseRepo.getAll()
       const updatedEntities = [...allEntities, newEntity]
-      await driver.writeFile(dataFile, updatedEntities)
+      await storageDriver.writeFile(resourcePath, updatedEntities)
 
       return newEntity
     },
@@ -33,7 +45,7 @@ export default function createMutableRepository<R extends Entity>(
 
       const allEntities = await baseRepo.getAll()
       const updatedEntities = [...allEntities, ...newEntities]
-      await driver.writeFile(dataFile, updatedEntities)
+      await storageDriver.writeFile(resourcePath, updatedEntities)
 
       return newEntities
     },
@@ -42,14 +54,14 @@ export default function createMutableRepository<R extends Entity>(
 
       const allEntities = await baseRepo.getAll()
       const updatedEntities = allEntities.filter(entity => entity.id !== id)
-      await driver.writeFile(dataFile, updatedEntities)
+      await storageDriver.writeFile(resourcePath, updatedEntities)
     },
     async deleteMany(ids: string[]) {
       ids.forEach(id => baseRepo.assureExists(id))
 
       const allEntities = await baseRepo.getAll()
       const updatedEntities = allEntities.filter(entity => !ids.includes(entity.id))
-      await driver.writeFile(dataFile, updatedEntities)
+      await storageDriver.writeFile(resourcePath, updatedEntities)
     },
     async update(updatedEntity: EntityUpdate<R>) {
       baseRepo.assureExists(updatedEntity.id)
@@ -58,7 +70,7 @@ export default function createMutableRepository<R extends Entity>(
       const updatedEntities = allEntities.map(entity =>
         entity.id === updatedEntity.id ? { ...entity, ...updatedEntity } : entity
       )
-      await driver.writeFile(dataFile, updatedEntities)
+      await storageDriver.writeFile(resourcePath, updatedEntities)
     },
     async updateMany(updatedEntities: EntityUpdate<R>[]) {
       updatedEntities.forEach(entity => baseRepo.assureExists(entity.id))
@@ -71,7 +83,7 @@ export default function createMutableRepository<R extends Entity>(
           ? { ...entity, ...updatedEntitiesMap.get(entity.id) }
           : entity
       )
-      await driver.writeFile(dataFile, updatedEntitiesResult)
+      await storageDriver.writeFile(resourcePath, updatedEntitiesResult)
     },
   }
 

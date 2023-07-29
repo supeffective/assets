@@ -1,11 +1,11 @@
-import { kv } from '..'
-import type { RepositoryDriver } from '../repositories'
+import { KVStore } from '../kv'
+import type { RepositoryStorageDriver } from '../repositories'
 
 function buildCacheKey(uri: string) {
   return `sdk.httpDriver::${uri}`
 }
 
-export function createHttpDriver(assetsUrl: string): RepositoryDriver {
+export function createHttpDriver(kv: KVStore, assetsUrl: string): RepositoryStorageDriver {
   return {
     id: 'http',
     baseUri: assetsUrl,
