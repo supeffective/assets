@@ -1,5 +1,6 @@
 import { readFile as nodeReadFile, writeFile as nodeWriteFile } from 'node:fs/promises'
 import { join as pathJoin } from 'node:path'
+import { kv } from '@supereffectivegg/assets-sdk'
 
 import { createFsDriver } from './fsDriver'
 
@@ -17,7 +18,7 @@ jest.mock('node:path', () => ({
 
 describe('createFsDriver', () => {
   const assetsPath = '/assets'
-  const fsDriver = createFsDriver(assetsPath)
+  const fsDriver = createFsDriver(kv, assetsPath)
 
   beforeEach(() => {
     jest.clearAllMocks()

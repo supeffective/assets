@@ -1,8 +1,9 @@
+import { kv } from '..'
 import { createHttpDriver } from './httpDriver'
 
 describe('createHttpDriver', () => {
   const assetsUrl = 'https://example.com/assets'
-  const httpDriver = createHttpDriver(assetsUrl)
+  const httpDriver = createHttpDriver(kv, assetsUrl)
 
   test('should return an object with id, baseUri, resolveUri, and readFile functions', () => {
     expect(httpDriver).toBeDefined()

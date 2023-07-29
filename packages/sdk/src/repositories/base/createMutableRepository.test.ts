@@ -7,6 +7,13 @@ const mockDriver: any = {
   writeFile: jest.fn(),
 }
 
+const mockSearchEngine: any = {
+  isIndexed: jest.fn().mockResolvedValue(true),
+  index: jest.fn().mockResolvedValue(undefined),
+  search: jest.fn().mockResolvedValue(new Set([])),
+  searchWith: jest.fn().mockResolvedValue([]),
+}
+
 const mockSchema: any = z.object({
   id: z.string(),
 })
@@ -19,7 +26,13 @@ describe('createMutableRepository', () => {
 
   test('should return a valid mutable repository object with default arguments', () => {
     const repoId = 'users'
-    const repo = createMutableRepository(repoId, mockDriver, mockSchema)
+    const repo = createMutableRepository({
+      id: repoId,
+      resourcePath: 'data/users.json',
+      schema: mockSchema,
+      storageDriver: mockDriver,
+      textSearchEngine: mockSearchEngine,
+    })
 
     expect(repo).toBeDefined()
     expect(repo.id).toBe(repoId)
@@ -44,7 +57,13 @@ describe('createMutableRepository', () => {
   test('create should add new row', async () => {
     const repoId = 'users'
     const dataFile = 'data/users.json'
-    const repo = createMutableRepository(repoId, mockDriver, mockSchema, dataFile)
+    const repo = createMutableRepository({
+      id: repoId,
+      resourcePath: dataFile,
+      schema: mockSchema,
+      storageDriver: mockDriver,
+      textSearchEngine: mockSearchEngine,
+    })
 
     const newData = { id: '3', name: 'Jane' }
     await repo.create(newData)
@@ -56,7 +75,13 @@ describe('createMutableRepository', () => {
   test('create should reject with "already exists" error', async () => {
     const repoId = 'users'
     const dataFile = 'data/users.json'
-    const repo = createMutableRepository(repoId, mockDriver, mockSchema, dataFile)
+    const repo = createMutableRepository({
+      id: repoId,
+      resourcePath: dataFile,
+      schema: mockSchema,
+      storageDriver: mockDriver,
+      textSearchEngine: mockSearchEngine,
+    })
 
     const newData = { id: '3', name: 'Jane' }
     mockDriver.readFile.mockResolvedValue([newData])
@@ -69,7 +94,13 @@ describe('createMutableRepository', () => {
   test('createMany should add many rows', async () => {
     const repoId = 'users'
     const dataFile = 'data/users.json'
-    const repo = createMutableRepository(repoId, mockDriver, mockSchema, dataFile)
+    const repo = createMutableRepository({
+      id: repoId,
+      resourcePath: dataFile,
+      schema: mockSchema,
+      storageDriver: mockDriver,
+      textSearchEngine: mockSearchEngine,
+    })
 
     const newData = [
       { id: '3', name: 'Jane' },
@@ -84,7 +115,13 @@ describe('createMutableRepository', () => {
   test('createMany should reject with "already exists" error', async () => {
     const repoId = 'users'
     const dataFile = 'data/users.json'
-    const repo = createMutableRepository(repoId, mockDriver, mockSchema, dataFile)
+    const repo = createMutableRepository({
+      id: repoId,
+      resourcePath: dataFile,
+      schema: mockSchema,
+      storageDriver: mockDriver,
+      textSearchEngine: mockSearchEngine,
+    })
 
     const newData = [
       { id: '3', name: 'Jane' },
@@ -104,7 +141,13 @@ describe('createMutableRepository', () => {
     ]
     mockDriver.readFile.mockResolvedValue(mockData)
 
-    const repo = createMutableRepository(repoId, mockDriver, mockSchema, dataFile)
+    const repo = createMutableRepository({
+      id: repoId,
+      resourcePath: dataFile,
+      schema: mockSchema,
+      storageDriver: mockDriver,
+      textSearchEngine: mockSearchEngine,
+    })
     await repo.delete('2')
 
     expect(mockDriver.writeFile).toHaveBeenCalledTimes(1)
@@ -125,7 +168,13 @@ describe('createMutableRepository', () => {
     ]
     mockDriver.readFile.mockResolvedValue(mockData)
 
-    const repo = createMutableRepository(repoId, mockDriver, mockSchema, dataFile)
+    const repo = createMutableRepository({
+      id: repoId,
+      resourcePath: dataFile,
+      schema: mockSchema,
+      storageDriver: mockDriver,
+      textSearchEngine: mockSearchEngine,
+    })
     await repo.deleteMany(['2', '4'])
 
     expect(mockDriver.writeFile).toHaveBeenCalledTimes(1)
@@ -145,7 +194,13 @@ describe('createMutableRepository', () => {
     ]
     mockDriver.readFile.mockResolvedValue(mockData)
 
-    const repo = createMutableRepository(repoId, mockDriver, mockSchema, dataFile)
+    const repo = createMutableRepository({
+      id: repoId,
+      resourcePath: dataFile,
+      schema: mockSchema,
+      storageDriver: mockDriver,
+      textSearchEngine: mockSearchEngine,
+    })
     await repo.update({ id: '2', name: 'Alicia' })
 
     expect(mockDriver.writeFile).toHaveBeenCalledTimes(1)
@@ -166,7 +221,13 @@ describe('createMutableRepository', () => {
     ]
     mockDriver.readFile.mockResolvedValue(mockData)
 
-    const repo = createMutableRepository(repoId, mockDriver, mockSchema, dataFile)
+    const repo = createMutableRepository({
+      id: repoId,
+      resourcePath: dataFile,
+      schema: mockSchema,
+      storageDriver: mockDriver,
+      textSearchEngine: mockSearchEngine,
+    })
     await repo.updateMany([
       { id: '1', name: 'Johnny' },
       { id: '3', name: 'Janet' },

@@ -9,6 +9,13 @@ const mockMutableRepositoryDriver: any = {
   writeFile: jest.fn(),
 }
 
+const mockSearchEngine: any = {
+  isIndexed: jest.fn().mockResolvedValue(true),
+  index: jest.fn().mockResolvedValue(undefined),
+  search: jest.fn().mockResolvedValue(new Set([])),
+  searchWith: jest.fn().mockResolvedValue([]),
+}
+
 describe('createPokemonRepository', () => {
   beforeEach(() => {
     jest.clearAllMocks()
@@ -16,7 +23,7 @@ describe('createPokemonRepository', () => {
 
   test('should create a read-only repository with the correct arguments', () => {
     const cacheTtl = 600
-    const repository = createPokemonRepository(mockRepositoryDriver, cacheTtl)
+    const repository = createPokemonRepository(mockRepositoryDriver, mockSearchEngine, cacheTtl)
 
     expect(repository).toBeDefined()
     expect(repository.id).toBe('pokemon')
@@ -27,11 +34,10 @@ describe('createPokemonRepository', () => {
     expect(repository.validate).toBeInstanceOf(Function)
     expect(repository.validateMany).toBeInstanceOf(Function)
     expect(repository.search).toBeInstanceOf(Function)
-    expect(repository.query).toBeInstanceOf(Function)
   })
 
   test('should create a read-only repository with the default arguments', () => {
-    const repository = createPokemonRepository(mockRepositoryDriver)
+    const repository = createPokemonRepository(mockRepositoryDriver, mockSearchEngine)
 
     expect(repository).toBeDefined()
     expect(repository.id).toBe('pokemon')
@@ -42,7 +48,6 @@ describe('createPokemonRepository', () => {
     expect(repository.validate).toBeInstanceOf(Function)
     expect(repository.validateMany).toBeInstanceOf(Function)
     expect(repository.search).toBeInstanceOf(Function)
-    expect(repository.query).toBeInstanceOf(Function)
   })
 })
 
@@ -52,7 +57,7 @@ describe('createMutablePokemonRepository', () => {
   })
 
   test('should create a mutable repository with the correct arguments', () => {
-    const repository = createMutablePokemonRepository(mockMutableRepositoryDriver)
+    const repository = createMutablePokemonRepository(mockRepositoryDriver, mockSearchEngine)
 
     expect(repository).toBeDefined()
     expect(repository.id).toBe('pokemon')

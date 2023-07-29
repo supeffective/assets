@@ -7,6 +7,13 @@ const mockDriver: any = {
   readFile: jest.fn(),
 }
 
+const mockSearchEngine: any = {
+  isIndexed: jest.fn().mockResolvedValue(true),
+  index: jest.fn().mockResolvedValue(undefined),
+  search: jest.fn().mockResolvedValue(new Set([])),
+  searchWith: jest.fn().mockResolvedValue([]),
+}
+
 const mockSchema: any = z.object({
   id: z.string(),
   name: z.string(),
@@ -20,7 +27,14 @@ describe('createReadOnlyRepository', () => {
 
   test('should return a valid repository object with default arguments', () => {
     const repoId = 'users'
-    const repo = createReadOnlyRepository(repoId, mockDriver, mockSchema)
+    const repo = createReadOnlyRepository({
+      id: repoId,
+      resourcePath: 'data/users.json',
+      schema: mockSchema,
+      storageDriver: mockDriver,
+      textSearchEngine: mockSearchEngine,
+      searchInitializer: undefined,
+    })
 
     expect(repo).toBeDefined()
     expect(repo.id).toBe(repoId)
@@ -31,13 +45,20 @@ describe('createReadOnlyRepository', () => {
     expect(repo.validate).toBeInstanceOf(Function)
     expect(repo.validateMany).toBeInstanceOf(Function)
     expect(repo.search).toBeInstanceOf(Function)
-    expect(repo.query).toBeInstanceOf(Function)
   })
 
   test('getAll should call driver.readFile with the correct dataFile', async () => {
     const repoId = 'users'
     const dataFile = 'data/users.json'
-    const repo = createReadOnlyRepository(repoId, mockDriver, mockSchema, dataFile, 500)
+    const repo = createReadOnlyRepository({
+      id: repoId,
+      resourcePath: 'data/users.json',
+      schema: mockSchema,
+      storageDriver: mockDriver,
+      textSearchEngine: mockSearchEngine,
+      searchInitializer: undefined,
+      cacheTtl: 500,
+    })
 
     await repo.getAll()
 
@@ -55,7 +76,13 @@ describe('createReadOnlyRepository', () => {
     ]
     mockDriver.readFile.mockResolvedValue(mockData)
 
-    const repo = createReadOnlyRepository(repoId, mockDriver, mockSchema, dataFile)
+    const repo = createReadOnlyRepository({
+      id: repoId,
+      resourcePath: dataFile,
+      schema: mockSchema,
+      storageDriver: mockDriver,
+      textSearchEngine: mockSearchEngine,
+    })
     const result = await repo.getById('2')
 
     expect(result).toEqual({ id: '2', name: 'Alice' })
@@ -71,7 +98,13 @@ describe('createReadOnlyRepository', () => {
     ]
     mockDriver.readFile.mockResolvedValue(mockData)
 
-    const repo = createReadOnlyRepository(repoId, mockDriver, mockSchema, dataFile)
+    const repo = createReadOnlyRepository({
+      id: repoId,
+      resourcePath: dataFile,
+      schema: mockSchema,
+      storageDriver: mockDriver,
+      textSearchEngine: mockSearchEngine,
+    })
 
     await expect(repo.getById('4')).rejects.toThrowError(`${repoId} with id 4 not found`)
   })
@@ -86,7 +119,13 @@ describe('createReadOnlyRepository', () => {
     ]
     mockDriver.readFile.mockResolvedValue(mockData)
 
-    const repo = createReadOnlyRepository(repoId, mockDriver, mockSchema, dataFile)
+    const repo = createReadOnlyRepository({
+      id: repoId,
+      resourcePath: dataFile,
+      schema: mockSchema,
+      storageDriver: mockDriver,
+      textSearchEngine: mockSearchEngine,
+    })
     const result = await repo.findById('2')
 
     expect(result).toEqual({ id: '2', name: 'Alice' })
@@ -102,7 +141,13 @@ describe('createReadOnlyRepository', () => {
     ]
     mockDriver.readFile.mockResolvedValue(mockData)
 
-    const repo = createReadOnlyRepository(repoId, mockDriver, mockSchema, dataFile)
+    const repo = createReadOnlyRepository({
+      id: repoId,
+      resourcePath: dataFile,
+      schema: mockSchema,
+      storageDriver: mockDriver,
+      textSearchEngine: mockSearchEngine,
+    })
     const result = await repo.getManyByIds(['1', '3'])
 
     expect(result).toEqual([
@@ -113,8 +158,15 @@ describe('createReadOnlyRepository', () => {
 
   test('validate should return success when the data matches the schema', () => {
     const repoId = 'users'
+    const dataFile = 'data/users.json'
     const data = { id: '1', name: 'John' }
-    const repo = createReadOnlyRepository(repoId, mockDriver, mockSchema)
+    const repo = createReadOnlyRepository({
+      id: repoId,
+      resourcePath: dataFile,
+      schema: mockSchema,
+      storageDriver: mockDriver,
+      textSearchEngine: mockSearchEngine,
+    })
 
     const result = repo.validate(data)
 
@@ -123,8 +175,15 @@ describe('createReadOnlyRepository', () => {
 
   test('validate should return an error when the data does not match the schema', () => {
     const repoId = 'users'
+    const dataFile = 'data/users.json'
     const data = { id: '1', name: 'John', country: 'Spain' }
-    const repo = createReadOnlyRepository(repoId, mockDriver, mockSchema)
+    const repo = createReadOnlyRepository({
+      id: repoId,
+      resourcePath: dataFile,
+      schema: mockSchema,
+      storageDriver: mockDriver,
+      textSearchEngine: mockSearchEngine,
+    })
 
     const result = repo.validate(data)
 
@@ -134,11 +193,18 @@ describe('createReadOnlyRepository', () => {
 
   test('validateMany should return success when the array of data matches the schema', () => {
     const repoId = 'users'
+    const dataFile = 'data/users.json'
     const data = [
       { id: '1', name: 'John' },
       { id: '2', name: 'Alice' },
     ]
-    const repo = createReadOnlyRepository(repoId, mockDriver, mockSchema)
+    const repo = createReadOnlyRepository({
+      id: repoId,
+      resourcePath: dataFile,
+      schema: mockSchema,
+      storageDriver: mockDriver,
+      textSearchEngine: mockSearchEngine,
+    })
 
     const result = repo.validateMany(data)
 
@@ -147,11 +213,18 @@ describe('createReadOnlyRepository', () => {
 
   test('validateMany should return an error when the array of data does not match the schema', () => {
     const repoId = 'users'
+    const dataFile = 'data/users.json'
     const data = [
       { id: '1', name: 'John', country: 'ES' },
       { id: '2', name: 'Alice', country: 'Spain' },
     ]
-    const repo = createReadOnlyRepository(repoId, mockDriver, mockSchema)
+    const repo = createReadOnlyRepository({
+      id: repoId,
+      resourcePath: dataFile,
+      schema: mockSchema,
+      storageDriver: mockDriver,
+      textSearchEngine: mockSearchEngine,
+    })
 
     const result = repo.validateMany(data)
 
@@ -161,17 +234,9 @@ describe('createReadOnlyRepository', () => {
 })
 
 describe('createReadOnlyRepository.search', () => {
-  it('fails because is not implemented', async () => {
-    const repoId = 'users'
-    const repo = createReadOnlyRepository(repoId, mockDriver, mockSchema)
+  const repoId = 'users'
+  const dataFile = 'data/users.json'
 
-    expect(async () => {
-      await repo.search('water')
-    }).rejects.toThrowError('Not implemented')
-  })
-})
-
-describe('createReadOnlyRepository.query', () => {
   const entities: Entity[] = [
     { id: '1', name: 'John' },
     { id: '2', name: 'Alice' },
@@ -179,7 +244,13 @@ describe('createReadOnlyRepository.query', () => {
     { id: '4', name: 'Jonas' },
   ]
 
-  const repository = createReadOnlyRepository('users', mockDriver, mockSchema)
+  const repository = createReadOnlyRepository({
+    id: repoId,
+    resourcePath: dataFile,
+    schema: mockSchema,
+    storageDriver: mockDriver,
+    textSearchEngine: mockSearchEngine,
+  })
 
   beforeEach(() => {
     jest.clearAllMocks()
@@ -193,7 +264,7 @@ describe('createReadOnlyRepository.query', () => {
       [{ field: 'name', value: 'Bob', operator: 'eq' }],
     ]
 
-    const result = await repository.query(query)
+    const result = await repository.search(query)
 
     expect(result).toEqual([
       { id: '1', name: 'John' },
@@ -204,7 +275,7 @@ describe('createReadOnlyRepository.query', () => {
   it('should return empty array if no entities match the query', async () => {
     const query: RepositoryQuery<Entity> = [[{ field: 'name', value: 'Unknown', operator: 'eq' }]]
 
-    const result = await repository.query(query)
+    const result = await repository.search(query)
 
     expect(result).toEqual([])
   })
@@ -214,7 +285,7 @@ describe('createReadOnlyRepository.query', () => {
     const limit = 2
     const offset = 1
 
-    const result = await repository.query(query, limit, offset)
+    const result = await repository.search(query, limit, offset)
 
     expect(result).toEqual([
       { id: '2', name: 'Alice' },
@@ -227,7 +298,7 @@ describe('createReadOnlyRepository.query', () => {
     const sortBy = 'name'
     const sortDir = 'asc'
 
-    const result = await repository.query(query, undefined, undefined, sortBy, sortDir)
+    const result = await repository.search(query, undefined, undefined, sortBy, sortDir)
 
     expect(result).toEqual([
       { id: '2', name: 'Alice' },
@@ -242,7 +313,7 @@ describe('createReadOnlyRepository.query', () => {
     const sortBy = 'name'
     const sortDir = 'desc'
 
-    const result = await repository.query(query, undefined, undefined, sortBy, sortDir)
+    const result = await repository.search(query, undefined, undefined, sortBy, sortDir)
 
     expect(result).toEqual([
       { id: '4', name: 'Jonas' },
@@ -257,7 +328,7 @@ describe('createReadOnlyRepository.query', () => {
       [{ field: 'name', value: 'John', operator: 'invalidOperator' as any }],
     ]
 
-    await expect(repository.query(query)).rejects.toThrow('Invalid operator: invalidOperator')
+    await expect(repository.search(query)).rejects.toThrow('Invalid operator: invalidOperator')
   })
 
   it('should handle "in" operator', async () => {
@@ -265,7 +336,7 @@ describe('createReadOnlyRepository.query', () => {
       [{ field: 'name', value: ['John', 'Bob'], operator: 'in' }],
     ]
 
-    const result = await repository.query(query)
+    const result = await repository.search(query)
 
     expect(result).toEqual([
       { id: '1', name: 'John' },
@@ -276,7 +347,7 @@ describe('createReadOnlyRepository.query', () => {
   it('should throw an error when value is not an array for the "in" operator', async () => {
     const query: RepositoryQuery<Entity> = [[{ field: 'name', value: 'John', operator: 'in' }]]
 
-    await expect(repository.query(query)).rejects.toThrow("Invalid value for operator 'in': John")
+    await expect(repository.search(query)).rejects.toThrow("Invalid value for operator 'in': John")
   })
 
   it('should handle "notin" operator', async () => {
@@ -284,7 +355,7 @@ describe('createReadOnlyRepository.query', () => {
       [{ field: 'name', value: ['John', 'Bob'], operator: 'notin' }],
     ]
 
-    const result = await repository.query(query)
+    const result = await repository.search(query)
 
     expect(result).toEqual([
       { id: '2', name: 'Alice' },
@@ -295,7 +366,7 @@ describe('createReadOnlyRepository.query', () => {
   it('should throw an error when value is not an array for the "notin" operator', async () => {
     const query: RepositoryQuery<Entity> = [[{ field: 'name', value: 'John', operator: 'notin' }]]
 
-    await expect(repository.query(query)).rejects.toThrow(
+    await expect(repository.search(query)).rejects.toThrow(
       "Invalid value for operator 'notin': John"
     )
   })
@@ -303,7 +374,7 @@ describe('createReadOnlyRepository.query', () => {
   it('should handle "ends" operator', async () => {
     const query: RepositoryQuery<Entity> = [[{ field: 'name', value: 'onas', operator: 'ends' }]]
 
-    const result = await repository.query(query)
+    const result = await repository.search(query)
 
     expect(result).toEqual([{ id: '4', name: 'Jonas' }])
   })
@@ -311,7 +382,7 @@ describe('createReadOnlyRepository.query', () => {
   it('should handle "starts" operator', async () => {
     const query: RepositoryQuery<Entity> = [[{ field: 'name', value: 'Jo', operator: 'starts' }]]
 
-    const result = await repository.query(query)
+    const result = await repository.search(query)
 
     expect(result).toEqual([
       { id: '1', name: 'John' },
@@ -322,7 +393,7 @@ describe('createReadOnlyRepository.query', () => {
   it('should handle "contains" operator', async () => {
     const query: RepositoryQuery<Entity> = [[{ field: 'name', value: 'ona', operator: 'contains' }]]
 
-    const result = await repository.query(query)
+    const result = await repository.search(query)
 
     expect(result).toEqual([{ id: '4', name: 'Jonas' }])
   })
@@ -332,7 +403,7 @@ describe('createReadOnlyRepository.query', () => {
       [{ field: 'name', value: 'ona', operator: 'ncontains' }],
     ]
 
-    const result = await repository.query(query)
+    const result = await repository.search(query)
 
     expect(result).toEqual([
       { id: '1', name: 'John' },
@@ -344,7 +415,7 @@ describe('createReadOnlyRepository.query', () => {
   it('should handle "isnull" operator', async () => {
     const query: RepositoryQuery<Entity> = [[{ field: 'name', operator: 'isnull' }]]
 
-    const result = await repository.query(query)
+    const result = await repository.search(query)
 
     expect(result).toEqual([])
   })
@@ -352,7 +423,7 @@ describe('createReadOnlyRepository.query', () => {
   it('should handle "notnull" operator', async () => {
     const query: RepositoryQuery<Entity> = [[{ field: 'name', operator: 'notnull' }]]
 
-    const result = await repository.query(query)
+    const result = await repository.search(query)
 
     expect(result).toEqual(entities)
   })
@@ -360,7 +431,7 @@ describe('createReadOnlyRepository.query', () => {
   it('should handle "neq" operator', async () => {
     const query: RepositoryQuery<Entity> = [[{ field: 'name', value: 'John', operator: 'neq' }]]
 
-    const result = await repository.query(query)
+    const result = await repository.search(query)
 
     expect(result).toEqual([
       { id: '2', name: 'Alice' },
@@ -372,7 +443,7 @@ describe('createReadOnlyRepository.query', () => {
   it('should handle "lt" operator', async () => {
     const query: RepositoryQuery<Entity> = [[{ field: 'id', value: '3', operator: 'lt' }]]
 
-    const result = await repository.query(query)
+    const result = await repository.search(query)
 
     expect(result).toEqual([
       { id: '1', name: 'John' },
@@ -383,7 +454,7 @@ describe('createReadOnlyRepository.query', () => {
   it('should handle "gt" operator', async () => {
     const query: RepositoryQuery<Entity> = [[{ field: 'id', value: '2', operator: 'gt' }]]
 
-    const result = await repository.query(query)
+    const result = await repository.search(query)
 
     expect(result).toEqual([
       { id: '3', name: 'Bob' },
@@ -394,7 +465,7 @@ describe('createReadOnlyRepository.query', () => {
   it('should handle "lte" operator', async () => {
     const query: RepositoryQuery<Entity> = [[{ field: 'id', value: '3', operator: 'lte' }]]
 
-    const result = await repository.query(query)
+    const result = await repository.search(query)
 
     expect(result).toEqual([
       { id: '1', name: 'John' },
@@ -406,7 +477,7 @@ describe('createReadOnlyRepository.query', () => {
   it('should handle "gte" operator', async () => {
     const query: RepositoryQuery<Entity> = [[{ field: 'id', value: '2', operator: 'gte' }]]
 
-    const result = await repository.query(query)
+    const result = await repository.search(query)
 
     expect(result).toEqual([
       { id: '2', name: 'Alice' },
