@@ -1,4 +1,4 @@
-import { pokemonSchema, type Pokemon } from '../schemas/pokemon'
+import { CompactPokemon, pokemonSchema, type Pokemon } from '../schemas/pokemon'
 import createMutableRepository from './base/createMutableRepository'
 import createReadOnlyRepository from './base/createReadOnlyRepository'
 import type {
@@ -17,6 +17,19 @@ export function createPokemonRepository(
     driver,
     pokemonSchema,
     'data/pokemon.json',
+    cacheTtl
+  )
+}
+
+export function createCompactPokemonRepository(
+  driver: RepositoryDriver,
+  cacheTtl: number = 60 * 15 * 1000 // 15 minutes
+): Repository<CompactPokemon> {
+  return createReadOnlyRepository<CompactPokemon>(
+    'pokemon-compact',
+    driver,
+    pokemonSchema,
+    'data/pokemon-compact.json',
     cacheTtl
   )
 }

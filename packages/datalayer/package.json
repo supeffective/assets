@@ -4,7 +4,8 @@
   "private": true,
   "description": "Data layer with repositories, schemas and validators",
   "scripts": {
-    "showdown:import": "tsx ./scripts/import.ts && cd ../.. && pnpm pretty",
+    "minify-json": "tsx ./scripts/minify.ts ../../assets/data",
+    "showdown:import": "tsx ./scripts/import.ts && pnpm minify-json && cd ../.. && pnpm pretty",
     "validate": "tsx tests/validate-all.ts"
   },
   "dependencies": {

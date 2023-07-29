@@ -98,3 +98,28 @@ export const pokemonSchema = z
   .strict()
 
 export type Pokemon = z.infer<typeof pokemonSchema>
+
+export const pokemonCompactSchema = pokemonSchema
+  .pick({
+    id: true,
+    nid: true,
+    dexNum: true,
+    formId: true,
+    name: true,
+    formName: true,
+    region: true,
+    generation: true,
+    type1: true,
+    type2: true,
+    color: true,
+    isDefault: true,
+    isForm: true,
+    isSpecialAbilityForm: true,
+    isCosmeticForm: true,
+    isFemaleForm: true,
+    storableIn: true,
+    baseSpecies: true,
+  })
+  .strict()
+
+export type CompactPokemon = z.infer<typeof pokemonCompactSchema>

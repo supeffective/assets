@@ -12,3 +12,6 @@ node_modules/
 .pnpm-store
 generated/
 .generated/
+*.min.json
+*.min.js
+*.min.css

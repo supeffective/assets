@@ -2,7 +2,7 @@ import { parseFormData } from '@pkg/utils/lib/serialization/forms'
 import { softMerge } from '@pkg/utils/lib/serialization/merge'
 
 import { getDataPath, writeFileAsJson } from '../../datafs'
-import { LegacyPokemon, Pokemon, pokemonSchema } from '../../schemas/pokemon'
+import { CompactPokemon, LegacyPokemon, Pokemon, pokemonSchema } from '../../schemas/pokemon'
 import {
   getAllPokemonMappedById,
   getPokemonOrFail,
@@ -29,8 +29,11 @@ export function updateManyPokemon(batch: UpdatePokemon[]): PokemonMap {
     allPkm.set(id, newPkm)
   }
 
-  writeFileAsJson(dataFile, Array.from(allPkm.values()))
-  updateLegacyPokemonFile(Array.from(allPkm.values()))
+  const allPkmValues = Array.from(allPkm.values())
+
+  writeFileAsJson(dataFile, allPkmValues)
+  updateLegacyPokemonFile(allPkmValues)
+  updateCompactPokemonFile(allPkmValues)
 
   return allPkm
 }
@@ -48,6 +51,37 @@ export function updatePokemonFromFormData(formData: FormData): Pokemon {
   }
 
   return updatePokemon(partial as UpdatePokemon)
+}
+
+function updateCompactPokemonFile(data: Pokemon[]): void {
+  const dataFile = getDataPath('pokemon-compact.json')
+  const result: CompactPokemon[] = []
+
+  for (const pkm of data) {
+    const cPkm: CompactPokemon = {
+      id: pkm.id,
+      nid: pkm.nid,
+      dexNum: pkm.dexNum,
+      formId: pkm.formId,
+      name: pkm.name,
+      formName: pkm.formName,
+      region: pkm.region,
+      generation: pkm.generation,
+      type1: pkm.type1,
+      type2: pkm.type2,
+      color: pkm.color,
+      isDefault: pkm.isDefault,
+      isForm: pkm.isForm,
+      isSpecialAbilityForm: pkm.isSpecialAbilityForm,
+      isCosmeticForm: pkm.isCosmeticForm,
+      isFemaleForm: pkm.isFemaleForm,
+      storableIn: pkm.storableIn,
+      baseSpecies: pkm.baseSpecies,
+    }
+    result.push(cPkm)
+  }
+
+  writeFileAsJson(dataFile, result)
 }
 
 function updateLegacyPokemonFile(data: Pokemon[]): void {

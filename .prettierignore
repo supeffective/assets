@@ -20,3 +20,6 @@ generated/
 .generated/
 assets/images/
 _prev/
+*.min.json
+*.min.js
+*.min.css
