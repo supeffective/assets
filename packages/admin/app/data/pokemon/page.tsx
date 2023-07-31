@@ -1,4 +1,9 @@
-import { createHttpDriver, createPokemonRepository } from '@supereffectivegg/assets-sdk'
+import {
+  createHttpDriver,
+  createPokemonRepository,
+  createPokemonTextSearchEngine,
+  kv,
+} from '@supereffectivegg/assets-sdk'
 
 import { getPokemonMissingOnSwitchGames } from '@pkg/datalayer/repositories/pokemon'
 
@@ -8,7 +13,9 @@ import { Title } from '@/components/primitives/typography/Title'
 
 export default async function Page() {
   const repo = createPokemonRepository(
-    createHttpDriver('https://itsjavi.com/supereffective-assets/assets')
+    createHttpDriver(kv, 'https://itsjavi.com/supereffective-assets/assets'),
+    await createPokemonTextSearchEngine(),
+    600
   )
 
   await repo.getAll()

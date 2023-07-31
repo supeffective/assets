@@ -6,8 +6,6 @@ import { Grid } from '@/components/primitives/boxes/Grid'
 import { Routes } from '@/lib/Routes'
 
 export function PokedexList({ records }: { records: Array<Pokedex> }) {
-  console.log(records)
-
   return (
     <Grid minColWidth="32ch">
       {records.map(record => {
