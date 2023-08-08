@@ -73,9 +73,10 @@ export const pokemonSchema = z
     baseSpecies: slugSchema.nullable(),
     baseForms: z.array(slugSchema),
     forms: z.array(slugSchema),
+    family: slugSchema.nullable().optional(),
     evolvesFrom: z
       .object({
-        pokemon: slugSchema,
+        pokemon: slugSchema.nullable().optional(),
         level: z.coerce.number().int().min(1).max(100).optional(),
         item: slugSchema.nullable().optional(),
         move: slugSchema.nullable().optional(),

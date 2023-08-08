@@ -17,12 +17,22 @@ export function PokemonStatsEditor({
   pkm: Pokemon
   onChange?: (pkm: Pokemon) => void
 }) {
+  const isNewPoke = pkm.dexNum <= 0
+  const idFields = isNewPoke ? (
+    <>
+      <Input type="text" name="id" defaultValue={pkm.id} />
+    </>
+  ) : (
+    <>
+      <input type="hidden" name="id" value={pkm.id} />
+      <Input type="text" defaultValue={pkm.id} readOnly />
+    </>
+  )
+
   return (
     <>
       <h4 className="text-xl font-bold mb-4">General Info</h4>
-      <Field.SplitViewItem label="ID">
-        <Input type="text" defaultValue={pkm.id} readOnly />
-      </Field.SplitViewItem>
+      <Field.SplitViewItem label="ID">{idFields}</Field.SplitViewItem>
       <Field.SplitView>
         <Field.SplitViewItem label="Numeric ID">
           <Input type="text" name="nid" defaultValue={pkm.nid} />

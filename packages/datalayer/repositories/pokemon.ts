@@ -3,6 +3,7 @@ import { SafeParseReturnType } from 'zod'
 // @ts-ignore
 import _records from '@pkg/assets/data/pokemon.json'
 
+import { LATEST_GAMESET, LATEST_GENERATION, LATEST_REGION } from '../constants'
 import { IDType } from '../schemas/common'
 import { Pokemon, pokemonSchema } from '../schemas/pokemon'
 import { SWITCH_GAMESET_IDS } from './gamesets'
@@ -159,16 +160,16 @@ export function createPlaceholderPokemon(): Pokemon {
     nid: '0000-unknown',
     dexNum: 0,
     formId: null,
-    name: '(empty)',
+    name: 'Untitled',
     psName: 'unknown',
     formName: null,
-    region: 'unknown',
-    generation: 0,
-    type1: 'unknown',
+    region: LATEST_REGION,
+    generation: LATEST_GENERATION,
+    type1: 'normal',
     type2: null,
-    color: 'unknown',
+    color: 'white',
     abilities: {
-      primary: 'unknown',
+      primary: 'pressure',
       secondary: null,
       hidden: null,
     },
@@ -193,7 +194,7 @@ export function createPlaceholderPokemon(): Pokemon {
     canGmax: false,
     canDynamax: false,
     canBeAlpha: false,
-    debutIn: 'unknown',
+    debutIn: LATEST_GAMESET,
     obtainableIn: [],
     versionExclusiveIn: [],
     eventOnlyIn: [],
@@ -214,6 +215,7 @@ export function createPlaceholderPokemon(): Pokemon {
     baseForms: [],
     forms: [],
     evolvesFrom: null,
+    family: null,
     refs: {
       smogon: 'unknown',
       showdown: 'unknown',

@@ -43,8 +43,8 @@
     "@supereffectivegg/assets-sdk": "workspace:^"
   },
   "devDependencies": {
-    "@types/node": "^20.4.5",
-    "tsup": "^7.1.0",
+    "@types/node": "^20.4.8",
+    "tsup": "^7.2.0",
     "typescript": "^5.1.6"
   },
   "engines": {

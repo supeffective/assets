@@ -1,10 +1,14 @@
-import { KVStore } from '../..'
-import { Entity, RepositoryTextSearchEngine } from './types'
+import { KVStore } from '..'
+import { Entity, RepositoryTextSearchEngine } from '../repositories/base/types'
 
 function buildCacheKey(repoId: string) {
   return `sdk.textSearchEngine_index::${repoId}`
 }
 
+/**
+ *
+ * @deprecated Use `InMemoryFullTextSearchEngine` instead
+ */
 export function createTextSearchEngine<R extends Entity>(
   kv: KVStore,
   repoId: string,

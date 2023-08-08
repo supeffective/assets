@@ -5,7 +5,7 @@ import { ArrowLeftCircleIcon, ArrowRightCircleIcon } from 'lucide-react'
 
 import {
   getAllPokemon,
-  getPokemonOrFail,
+  getPokemon,
   getPreviousAndNextPokemon,
 } from '@pkg/datalayer/repositories/pokemon'
 
@@ -18,7 +18,7 @@ import { Routes } from '@/lib/Routes'
 export function PrevNextPokemon({ id, withName }: { id: string; withName?: boolean }) {
   const allPkm = getAllPokemon()
   const cursors = getPreviousAndNextPokemon(allPkm, id)
-  const pkm = getPokemonOrFail(id)
+  const pkm = getPokemon(id)
   const [hash, setHash] = useState<string>('')
 
   useEffect(() => {
@@ -33,6 +33,14 @@ export function PrevNextPokemon({ id, withName }: { id: string; withName?: boole
       window.removeEventListener('hashchange', handleHashChange)
     }
   }, [])
+
+  if (!pkm) {
+    if (id !== 'unknown') {
+      console.warn(`Could not find Pokémon with id ${id}`)
+    }
+
+    return <span />
+  }
 
   return (
     <Flex className="max-w-5xl mx-aut items-center p-2 justify-between">

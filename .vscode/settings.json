@@ -1,8 +1,22 @@
 {
   "editor.wordWrapColumn": 100,
   "editor.rulers": [100],
-  "typescript.tsdk": "node_modules/.pnpm/typescript@5.1.6/node_modules/typescript/lib",
-  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "editor.fontSize": 14,
+  "files.autoSave": "onFocusChange",
+  "testing.automaticallyOpenPeekView": "failureInVisibleDocument",
+  "jest.jestCommandLine": "node_modules/.bin/jest",
+  "jest.disabledWorkspaceFolders": ["packages"],
+  "files.exclude": {
+    "*/*/node_modules": true,
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/.turbo": true,
+    "**/.vercel": true
+  },
   "editor.codeActionsOnSave": {
     "source.addMissingImports": true,
     "source.organizeImports": true,
@@ -10,31 +24,10 @@
   },
   "[markdown]": {
     "editor.fontSize": 14,
-    "editor.lineHeight": 26,
-    "editor.wordWrap": "wordWrapColumn",
-    "editor.wordWrapColumn": 64,
+    "editor.lineHeight": 18,
+    "editor.wordWrap": "off",
+    "editor.wordWrapColumn": 100,
     "editor.lineNumbers": "off",
-    "editor.quickSuggestions": {
-      "comments": "off",
-      "strings": "on",
-      "other": "on"
-    },
-    "editor.minimap.enabled": false
-  },
-  "testing.automaticallyOpenPeekView": "never",
-  "tailwindCSS.classAttributes": [
-    "class",
-    "className",
-    "ngClass",
-    "classes",
-    "classNames",
-    "baseClass",
-    "baseClassName",
-    "baseClasses",
-    "baseClassNames",
-    "cn"
-  ],
-  "editor.fontSize": 14,
-  "files.autoSave": "onFocusChange",
-  "jest.jestCommandLine": "pnpm jest"
+    "editor.minimap.enabled": true
+  }
 }

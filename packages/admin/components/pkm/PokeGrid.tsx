@@ -264,17 +264,25 @@ export function PokeGrid({
       .filter(data => {
         const [pkm] = data
         const searchableText = `name:"${pkm.name}" id:${pkm.id} dex:${pkm.dexNum} 
-      color:${pkm.color} type:${pkm.type1}:1 type:${pkm.type2}:2 region:${pkm.region}
-      gen${pkm.generation} gen:${pkm.generation} generation:${pkm.generation}`.toLowerCase()
+        #${pkm.dexNum} nid:${pkm.nid} color:${pkm.color} type:${pkm.type1}:1 
+        type:${pkm.type2}:2 region:${pkm.region}
+      family:${pkm.family}  gen${pkm.generation} gen:${pkm.generation} 
+      generation:${pkm.generation}`.toLowerCase()
 
         const terms = searchTerms.toLowerCase().split(' ')
-        const negativeTerms = terms.filter(term => term.startsWith('!'))
-        const positiveTerms = terms.filter(term => !term.startsWith('!'))
+        const negativeTerms = terms
+          .filter(term => term.startsWith('!'))
+          .map(term => term.slice(1).trim())
+        const positiveTerms = terms.filter(term => !term.startsWith('!')).map(term => term.trim())
 
-        const negativeMatches = negativeTerms.filter(term => searchableText.includes(term.slice(1)))
-        const positiveMatches = positiveTerms.filter(term => searchableText.includes(term))
+        const negativeMatches = negativeTerms.filter(term => searchableText.includes(term))
+        const somePositiveMatches = positiveTerms.some(term => {
+          const isMatch = searchableText.includes(term)
 
-        return negativeMatches.length === 0 && positiveMatches.length === positiveTerms.length
+          return isMatch
+        })
+
+        return negativeMatches.length === 0 && somePositiveMatches
       })
       .map(([, idx]) => idx)
   }
@@ -501,12 +509,13 @@ export function PokeGrid({
   return (
     <div className="z-0">
       {searchable && (
-        <Flex className="sticky top-0 bg-black z-10">
+        <Flex className="sticky top-0 bg-black z-10" vertical>
           <Input
             type="search"
             placeholder="Search..."
             onChange={(e: any) => setSearchTerm(e.target.value)}
           />
+          <p className="text-center text-gray-500 italic">{results.length} results</p>
         </Flex>
       )}
       <Grid

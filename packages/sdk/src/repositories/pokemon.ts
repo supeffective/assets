@@ -5,9 +5,9 @@ import {
   pokemonSchema,
   type Pokemon,
 } from '../schemas/pokemon'
+import { createTextSearchEngine } from '../search/createTextSearchEngine'
 import createMutableRepository from './base/createMutableRepository'
 import createReadOnlyRepository from './base/createReadOnlyRepository'
-import { createTextSearchEngine } from './base/createTextSearchEngine'
 import type {
   MutableRepository,
   MutableRepositoryStorageDriver,

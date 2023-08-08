@@ -18,6 +18,7 @@ export function MainNav(): JSX.Element {
   const links = [
     // { href: Routes.Home, label: '/' },
     { href: Routes.Pokemon, label: 'Pokemon' },
+    { href: Routes.Pokemon + '/new', label: 'Pokemon (+🆕)' },
     { href: Routes.Games, label: 'Games' },
     { href: Routes.Pokedexes, label: 'Pokedexes' },
     { href: Routes.Sprites, label: 'Sprites' },

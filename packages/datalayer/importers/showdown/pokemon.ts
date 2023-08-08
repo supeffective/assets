@@ -39,9 +39,9 @@ export const importShowdownPokemon = function (): void {
   // ------------------------------------------------
   // VALIDATE & cross-check with showdown
   // ------------------------------------------------
-  const rawRows = Array.from(Dex.species.all())
+  const showdownRecords = Array.from(Dex.species.all())
 
-  const rawRowsSorted = rawRows
+  const sortedShowdownRecords = showdownRecords
     .filter(row => Number(row.num) > 0)
     .filter(row => {
       if (
@@ -68,23 +68,42 @@ export const importShowdownPokemon = function (): void {
       return Number(a.num) - Number(b.num)
     })
 
-  const rowsById: Map<string, (typeof rawRows)[number]> = new Map()
-  for (const row of rawRowsSorted) {
+  const rowsById: Map<string, (typeof showdownRecords)[number]> = new Map()
+  for (const row of sortedShowdownRecords) {
     if (!allPokemonByShowdownId.has(row.id)) {
       throw new Error(`Missing pokemon.json entry for: ${row.id}`)
     }
     rowsById.set(row.id, row)
   }
 
-  const notInShowdown = ['munkidori', 'okidogi', 'fezandipiti', 'ogerpon', 'terapagos']
+  const isInShowdown = (pkm: Pokemon): boolean => {
+    if (!pkm.refs?.showdown) {
+      return false
+    }
+    if (rowsById.has(pkm.refs.showdown)) {
+      return true
+    }
+    if (pkm.dexNum <= 0) {
+      // is a brand new discovered pokemon
+      return false
+    }
+
+    return true
+  }
 
   for (const [showdownId, pokemonSet] of allPokemonByShowdownId) {
-    if (notInShowdown.includes(showdownId)) {
-      console.log(`Skipping ${showdownId}`)
-      continue
-    }
-    if (!rowsById.has(showdownId)) {
-      throw new Error(`Showdown doesnt have data for: ${showdownId}`)
+    for (const setPkm of pokemonSet) {
+      if (setPkm.dexNum <= 0) {
+        continue
+      }
+      if (!isInShowdown(setPkm)) {
+        console.log(`Skipping ${showdownId}`)
+        continue
+      }
+
+      if (!rowsById.has(showdownId)) {
+        throw new Error(`Showdown doesnt have data for: ${showdownId}`)
+      }
     }
   }
 
@@ -100,7 +119,7 @@ export const importShowdownPokemon = function (): void {
 
     pkm.forms = [...pkm.forms.filter(form => form !== pkm.id)]
 
-    if (notInShowdown.includes(showdownId)) {
+    if (!isInShowdown(pkm)) {
       transformedRows.push(pkm)
       continue
     }

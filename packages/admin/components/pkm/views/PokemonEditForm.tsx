@@ -23,7 +23,6 @@ export function PokemonEditForm({ pokemon }: PokemonEditFormProps) {
 
   return (
     <div className="w-full max-w-5xl mx-auto">
-      <input type="hidden" name="id" value={pkm.id} />
       <Tabs id="tabs">
         <Tab label="General">
           <Box.Content>

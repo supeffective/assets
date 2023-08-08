@@ -16,9 +16,11 @@ build:
 	echo "Building assets and generated data..."
 	pnpm build
 
+data: update
 update:
 	echo "Updating images and data from sources..."
 	pnpm data:update
+	pnpm data:validate
 
 validate:
 	echo "Validating generated data and assets..."
@@ -47,6 +49,7 @@ sprites: spritesheets
 spritesheets:
 	pnpm pkg:utils build
 	pnpm pkg:generator build
+	pnpm pkg:generator make sprite-indices
 	pnpm pkg:generator make spritesheets
 	pnpm format
 

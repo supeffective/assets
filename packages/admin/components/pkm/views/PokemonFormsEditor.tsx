@@ -29,6 +29,26 @@ export function PokemonFormsEditor({
     }
   }
 
+  function handlePreEvoSelection(rows: Pokemon[]) {
+    const lastSelection = rows.length > 0 ? rows[rows.length - 1].id : null
+    if (!lastSelection) {
+      pkm.evolvesFrom = null
+    } else {
+      if (!pkm.evolvesFrom) {
+        pkm.evolvesFrom = {
+          pokemon: lastSelection,
+        }
+      }
+
+      pkm.evolvesFrom.pokemon = lastSelection
+    }
+
+    setPkm({ ...pkm })
+    if (onChange) {
+      onChange(pkm)
+    }
+  }
+
   function handleFormsSelection(rows: Pokemon[], field: keyof Pokemon) {
     ;(pkm as any)[field] = rows.map(row => row.id)
     setPkm({ ...pkm })
@@ -80,7 +100,36 @@ export function PokemonFormsEditor({
         {pkm.baseForms.length === 0 && <input type="hidden" name="baseForms[]" value="" />}
       </div>
       <div className="mb-10">
-        <h4 className="text-xl font-bold mb-4">Base Species</h4>
+        <h4 className="text-xl font-bold mb-4">Family</h4>
+        <p>The initial Pokémon in the evolutionary line.</p>
+        <PokeGrid
+          canAdd
+          canRemove
+          onChange={list => handleSingleFormSelection(list, 'family')}
+          selectablePokemon={allPokemon}
+          addLabel="Select Family Species"
+          max={1}
+          withNames
+          pokemon={pkm.family ? getManyPokemon([pkm.family]) : []}
+        />
+        <input type="hidden" name="family" value={pkm.family || ''} />
+      </div>
+      <div className="mb-10">
+        <h4 className="text-xl font-bold mb-4">Pre-Evolution</h4>
+        <PokeGrid
+          canAdd
+          canRemove
+          onChange={list => handlePreEvoSelection(list)}
+          selectablePokemon={allPokemon}
+          addLabel="Select Pre-Evolution"
+          max={1}
+          withNames
+          pokemon={pkm.evolvesFrom?.pokemon ? getManyPokemon([pkm.evolvesFrom.pokemon]) : []}
+        />
+        <input type="hidden" name="evolvesFrom.pokemon" value={pkm.evolvesFrom?.pokemon || ''} />
+      </div>
+      <div className="mb-10">
+        <h4 className="text-xl font-bold mb-4">Form Base Species</h4>
         <PokeGrid
           canAdd
           canRemove

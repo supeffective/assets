@@ -5,6 +5,7 @@ import { getDataPath, writeFileAsJson } from '../../datafs'
 import { CompactPokemon, LegacyPokemon, Pokemon, pokemonSchema } from '../../schemas/pokemon'
 import {
   getAllPokemonMappedById,
+  getPokemon,
   getPokemonOrFail,
   PokemonMap,
   UpdatePokemon,
@@ -16,9 +17,15 @@ export function updateManyPokemon(batch: UpdatePokemon[]): PokemonMap {
   const allPkm = getAllPokemonMappedById()
 
   for (const data of batch) {
+    const isUpdate = data.dexNum && data.dexNum > 0
     const id = data.id
-    const pkm = getPokemonOrFail(id)
-    const newPkm = softMerge<Pokemon>(pkm, data)
+    const pkm = isUpdate ? getPokemonOrFail(id) : getPokemon(id)
+    const newPkm = softMerge<Pokemon>(
+      (pkm || {
+        evolvesFrom: null,
+      }) as Pokemon,
+      data
+    )
     const validation = validatePokemon(newPkm)
 
     if (!validation.success) {
