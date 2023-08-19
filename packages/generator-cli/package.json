@@ -15,10 +15,10 @@
   "dependencies": {
     "@pkg/utils": "workspace:*",
     "commander": "^11.0.0",
-    "svgtofont": "^3.25.4"
+    "svgtofont": "^4.0.0"
   },
   "devDependencies": {
-    "@types/node": "^20.4.8",
+    "@types/node": "^20.5.1",
     "ts-node": "^10.9.1",
     "tsup": "^7.2.0",
     "tsx": "^3.12.7",

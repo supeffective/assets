@@ -11,9 +11,9 @@
   "dependencies": {
     "@pkg/assets": "workspace:*",
     "@pkg/utils": "workspace:*",
-    "@types/node": "^20.4.8",
+    "@types/node": "^20.5.1",
     "typescript": "^5.1.6",
-    "zod": "^3.21.4"
+    "zod": "^3.22.2"
   },
   "devDependencies": {
     "@pkmn/dex": "^0.7.47",
