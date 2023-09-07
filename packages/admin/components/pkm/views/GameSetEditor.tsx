@@ -156,7 +156,7 @@ export default function GameSetEditor({ gameSet }: { gameSet: GameSet }) {
                 searchable
                 pokemon={pokes.storable}
                 selectablePokemon={allPokes.filter(
-                  p => !counters.storable.ids.has(p.id) && !p.isBattleOnlyForm
+                  p => !counters.storable.ids.has(p.id) //&& !p.isBattleOnlyForm
                 )}
                 canAdd
                 canRemove
@@ -211,7 +211,21 @@ export default function GameSetEditor({ gameSet }: { gameSet: GameSet }) {
             <div className="p-2 text-center text-sm">
               {counters.eventOnly.species} Pokémon & {counters.eventOnly.forms} forms
             </div>
-            {<PokeGrid withNames withDexNums pokemon={pokes.eventOnly} />}
+            {/* {<PokeGrid withNames withDexNums pokemon={pokes.eventOnly} />} */}
+            {
+              <PokeGrid
+                size={'7ch'}
+                withNames
+                searchable
+                pokemon={pokes.eventOnly}
+                selectablePokemon={allPokes.filter(
+                  p => !counters.obtainable.ids.has(p.id) && !counters.eventOnly.ids.has(p.id) //&& !p.isBattleOnlyForm
+                )}
+                canAdd
+                canRemove
+                onChange={rows => handleGameSetField(rows, 'eventOnlyIn', 'eventOnly')}
+              />
+            }
           </div>
         </div>
       </Flex>
