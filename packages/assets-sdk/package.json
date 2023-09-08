@@ -1,0 +1,59 @@
+{
+  "name": "@supeffective/assets-sdk",
+  "version": "0.3.1",
+  "description": "SuperEffective.gg Pokémon Assets SDK",
+  "keywords": [
+    "modular",
+    "typescript",
+    "pokemon",
+    "pokeapi",
+    "type-safe"
+  ],
+  "homepage": "https://github.com/itsjavi/supereffective-dextracker#readme",
+  "bugs": {
+    "url": "https://github.com/itsjavi/supereffective-dextracker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsjavi/supereffective-dextracker.git"
+  },
+  "license": "MIT",
+  "author": "Javier Aguilar",
+  "sideEffects": false,
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "default": "./dist/index.cjs"
+    }
+  },
+  "main": "./dist/index.cjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch --clean=false",
+    "lint": "eslint --max-warnings=0 .",
+    "lint-fix": "eslint --fix .",
+    "prepublishOnly": "pnpm run build",
+    "publint-check": "pnpm publint",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "zod": "^3.22.2"
+  },
+  "devDependencies": {
+    "eslint": "8.48.0",
+    "publint": "^0.2.2",
+    "tsup": "^7.2.0",
+    "typescript": "^5.2.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
