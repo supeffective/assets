@@ -17,7 +17,7 @@
       "outputs": [],
       "outputMode": "new-only"
     },
-    "//#lint:all:fix": {
+    "//#lint:all-fix": {
       "outputs": [],
       "outputMode": "new-only"
     },
@@ -27,6 +27,19 @@
     },
     "//#test:all": {
       "outputs": []
+    },
+    "lint-fix": {
+      "dependsOn": ["^build", "build"]
+    },
+    "type-check": {
+      "dependsOn": ["^build", "build"]
+    },
+    "publint-check": {
+      "dependsOn": []
+    },
+    "test": {
+      "dependsOn": ["^build", "build"],
+      "outputs": ["coverage/**"]
     },
     "dev": {
       "cache": false,

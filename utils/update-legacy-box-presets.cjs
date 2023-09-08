@@ -16,7 +16,7 @@ const boxPresets = JSON.parse(fs.readFileSync(presetsFile, 'utf8'))
 const pokemonMap = new Map(
   pokemonList.map(pokemon => {
     return [pokemon.id, pokemon]
-  })
+  }),
 )
 
 const pokemonIds = Array.from(pokemonMap.keys())
