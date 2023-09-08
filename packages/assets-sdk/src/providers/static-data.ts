@@ -1,3 +1,11 @@
+import _pokemonColors from '@pkg/assets/data/colors.json'
+import _pokemonGames from '@pkg/assets/data/games.json'
+import _pokemonLanguages from '@pkg/assets/data/languages.json'
+import _pokemonNatures from '@pkg/assets/data/natures.json'
+import _pokemonOriginMarks from '@pkg/assets/data/originmarks.json'
+import _pokemonRegions from '@pkg/assets/data/regions.json'
+import _pokemonTypes from '@pkg/assets/data/types.json'
+
 import {
   Color,
   colorSchema,
@@ -14,13 +22,9 @@ import {
   Region,
   regionSchema,
 } from '../schemas'
-import _pokemonColors from './colors.json'
-import _pokemonGames from './games.json'
-import _pokemonLanguages from './languages.json'
-import _pokemonNatures from './natures.json'
-import _pokemonOriginMarks from './origin-marks.json'
-import _pokemonRegions from './regions.json'
-import _pokemonTypes from './types.json'
+
+// This file only contains Pokémon static data that almost never changes (types, natures, etc.).
+// It should only import lightweight JSON files (< 75KB).
 
 // validate and cast data
 const pokemonColors: Color[] = colorSchema.array().parse(_pokemonColors)

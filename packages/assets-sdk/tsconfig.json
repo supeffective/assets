@@ -1,4 +1,10 @@
 {
   "extends": "@r1stack/coding-style/tsconfig/base.json",
-  "include": ["src", "*.ts"]
+  "include": ["src", "*.ts"],
+  "compilerOptions": {
+    "paths": {
+      "@pkg/assets": ["../../assets"],
+      "@pkg/assets/*": ["../../assets/*"]
+    }
+  }
 }

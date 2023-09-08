@@ -1,6 +1,6 @@
 export * from './assets'
 export * from './core'
-export * from './data'
+export * from './providers/static-data'
 export * from './providers'
 export * from './repositories'
 export * from './schemas'
