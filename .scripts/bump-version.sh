@@ -1,5 +1,7 @@
 #!/usr/bin/env sh
 
+touch CHANGELOG.md
+
 # Check if there are uncommitted changes
 if [ -n "$(git status -s)" ]; then
   echo "Error: There are uncommitted changes in the repository."
