@@ -36,10 +36,10 @@
     "version:bump-major": ".scripts/bump-version.sh major && .scripts/tag-version.sh",
     "version:bump-minor": ".scripts/bump-version.sh minor && .scripts/tag-version.sh",
     "version:bump-patch": "pnpm version:bump",
-    "version:publish": "pnpm run version:publish-gh-refs && pnpm run version:publish-npm",
-    "version:publish-gh-refs": "git push origin main --tags",
-    "version:publish-gh-releases": ".scripts/tag-release-gh.sh",
-    "version:publish-npm": "pnpm -r --filter='@supeffective/*' exec pnpm publish"
+    "version:publish": "pnpm run version:publish-github && pnpm run version:publish-npm",
+    "version:publish-github": "git push --no-verify && git push --no-verify --tags",
+    "version:publish-npm": "pnpm -r --filter='@supeffective/*' exec pnpm publish",
+    "version:release": "pnpm version:publish"
   },
   "lint-staged": {
     "*.{js,cjs,mjs,jsx,ts,cts,mts,tsx}": [
