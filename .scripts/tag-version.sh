@@ -18,6 +18,6 @@ new_CHANGELOG=$(pnpm exec changelogen -r "${CURRENT_VERSION}")
 echo "${new_CHANGELOG}\n${existing_CHANGELOG}" > CHANGELOG.md
 
 # Create a new commit and tag with the current version
-git add CHANGELOG.md package.json **/package.json pnpm-lock.yaml
+git add CHANGELOG.md package.json packages/*/package.json pnpm-lock.yaml
 git commit -m "chore(releases): bump version to v${CURRENT_VERSION}" || exit 1
 git tag -a "v${CURRENT_VERSION}" -m "v${CURRENT_VERSION}" || exit 1
