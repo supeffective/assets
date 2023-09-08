@@ -1,3 +1,37 @@
+## v4.1.2
+
+[compare changes](https://github.com/itsjavi/supereffective-assets/compare/v4.1.1...v4.1.2)
+
+### 🩹 Fixes
+
+- Quality-checks ([cf97d4a9](https://github.com/itsjavi/supereffective-assets/commit/cf97d4a9))
+
+### 💅 Refactors
+
+- **assets:** Update type colors and data generation scripts
+  ([76ad9789](https://github.com/itsjavi/supereffective-assets/commit/76ad9789))
+- **sdk:** Use actual assets/data folder
+  ([16ebf63a](https://github.com/itsjavi/supereffective-assets/commit/16ebf63a))
+
+### 📖 Documentation
+
+- Update readme ([ea5f8a5e](https://github.com/itsjavi/supereffective-assets/commit/ea5f8a5e))
+
+### 🏡 Chore
+
+- Update package.json ([cb3416de](https://github.com/itsjavi/supereffective-assets/commit/cb3416de))
+
+### 🤖 CI
+
+- Standarize pipeline ([e7bfdbbd](https://github.com/itsjavi/supereffective-assets/commit/e7bfdbbd))
+- Fix missing env file
+  ([e2517cea](https://github.com/itsjavi/supereffective-assets/commit/e2517cea))
+- Fix publint command ([ef10ca8d](https://github.com/itsjavi/supereffective-assets/commit/ef10ca8d))
+
+### ❤️ Contributors
+
+- Javi Aguilar
+
 ## v4.1.1
 
 [compare changes](https://github.com/itsjavi/supereffective-assets/compare/4.0.0...v4.1.1)
