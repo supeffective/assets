@@ -26,6 +26,9 @@ jobs:
       - name: 'Setup project'
         uses: ./.github/actions/setup-project
 
+      - name: Copy .env.dist to .env
+        run: cp .env.dist .env
+
       - name: 'Check code quality'
         uses: ./.github/actions/check-quality
 
