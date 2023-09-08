@@ -5,7 +5,7 @@
   "description": "Data layer with repositories, schemas and validators",
   "scripts": {
     "minify-json": "tsx ./scripts/minify.ts ../../assets/data",
-    "showdown:import": "tsx ./scripts/import.ts && pnpm minify-json && cd ../.. && pnpm pretty",
+    "showdown:import": "tsx ./scripts/import.ts && pnpm minify-json",
     "validate": "tsx tests/validate-all.ts"
   },
   "dependencies": {

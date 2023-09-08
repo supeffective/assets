@@ -3,7 +3,7 @@
   "version": "4.1.1",
   "private": true,
   "scripts": {
-    "build": "turbo build",
+    "build": "make data && turbo build",
     "clear-cache": "rm -rf packages/*/.turbo && rm -rf packages/*/.next && jest --clearCache",
     "codegen": "pnpm data:update && pnpm pkg:generator build && pnpm pkg:generator make sprite-indices && pnpm pkg:generator make data-types && pnpm data:validate",
     "data:update": "pnpm pkg:datalayer showdown:import",
