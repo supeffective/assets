@@ -20,6 +20,8 @@ data: update
 update:
 	echo "Updating images and data from sources..."
 	pnpm data:update
+	node scripts/update-legacy-box-presets.cjs
+	pnpm pretty
 	pnpm data:validate
 
 validate:
