@@ -1,6 +1,6 @@
 {
   "name": "@app/generator-cli",
-  "version": "0.0.0",
+  "version": "0.3.1",
   "private": true,
   "main": "./dist/index.mjs",
   "types": "./dist/index.d.ts",

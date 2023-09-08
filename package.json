@@ -1,5 +1,6 @@
 {
   "name": "supereffective-assets",
+  "version": "0.3.1",
   "private": true,
   "scripts": {
     "build": "turbo build",
@@ -38,7 +39,7 @@
     "version:publish": "pnpm run version:publish-gh-refs && pnpm run version:publish-npm",
     "version:publish-gh-refs": "git push origin main --tags",
     "version:publish-gh-releases": ".scripts/tag-release-gh.sh",
-    "version:publish-npm": "pnpm -r --filter='@storylite/*' exec pnpm publish"
+    "version:publish-npm": "pnpm -r --filter='@supeffective/*' exec pnpm publish"
   },
   "lint-staged": {
     "*.{js,cjs,mjs,jsx,ts,cts,mts,tsx}": [
