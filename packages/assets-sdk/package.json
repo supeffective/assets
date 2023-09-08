@@ -7,15 +7,17 @@
     "typescript",
     "pokemon",
     "pokeapi",
+    "pokedex",
+    "pokedex-tracker",
     "type-safe"
   ],
-  "homepage": "https://github.com/itsjavi/supereffective-dextracker#readme",
+  "homepage": "https://github.com/itsjavi/supereffective-assets#readme",
   "bugs": {
-    "url": "https://github.com/itsjavi/supereffective-dextracker/issues"
+    "url": "https://github.com/itsjavi/supereffective-assets/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/itsjavi/supereffective-dextracker.git"
+    "url": "https://github.com/itsjavi/supereffective-assets.git"
   },
   "license": "MIT",
   "author": "Javier Aguilar",
