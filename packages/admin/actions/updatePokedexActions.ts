@@ -6,7 +6,7 @@ import { PokedexEntry, pokedexSchema } from '@pkg/datalayer/schemas/pokedexes'
 
 export async function updatePokedexAction(
   dexId: string,
-  entries: Array<PokedexEntry>
+  entries: Array<PokedexEntry>,
 ): Promise<void> {
   const pokedexes = getPokedexes().map(dex => {
     if (dex.id === dexId) {
@@ -23,7 +23,7 @@ export async function updatePokedexAction(
 
     if (!validation.success) {
       throw new Error(
-        validation.error.issues.map(issue => `[${issue.path}]: ${issue.message}`).join(',\n')
+        validation.error.issues.map(issue => `[${issue.path}]: ${issue.message}`).join(',\n'),
       )
     }
   }

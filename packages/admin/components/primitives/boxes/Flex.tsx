@@ -19,7 +19,7 @@ export function Flex({
   const classNames = cn(
     `flex gap-${gap} w-full mb-6 last-child:mb-0`,
     [vertical ? 'flex-col' : 'flex-row'],
-    className
+    className,
   )
   const childrenArr = React.Children.toArray(children)
 

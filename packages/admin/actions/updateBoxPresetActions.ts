@@ -8,7 +8,7 @@ import { BoxPresetBox, boxPresetSchema } from '@pkg/datalayer/schemas/box-preset
 export async function updateBoxPresetAction(
   gameSetId: string,
   presetId: string,
-  pokes: Array<string | null>
+  pokes: Array<string | null>,
 ): Promise<void> {
   const gameSet = getGameSet(gameSetId)
   if (!gameSet) {
@@ -36,7 +36,7 @@ export async function updateBoxPresetAction(
 
   if (!validation.success) {
     throw new Error(
-      validation.error.issues.map(issue => `[${issue.path}]: ${issue.message}`).join(',\n')
+      validation.error.issues.map(issue => `[${issue.path}]: ${issue.message}`).join(',\n'),
     )
   }
 
@@ -51,7 +51,7 @@ export async function updateBoxPresetBoxAction(
   gameSetId: string,
   presetId: string,
   box: BoxPresetBox,
-  boxIndex: number
+  boxIndex: number,
 ): Promise<void> {
   const presets = getBoxPresetsAsRecords()
   const gamePresets = presets[gameSetId]
@@ -76,7 +76,7 @@ export async function updateBoxPresetBoxAction(
 
   if (!validation.success) {
     throw new Error(
-      validation.error.issues.map(issue => `[${issue.path}]: ${issue.message}`).join(',\n')
+      validation.error.issues.map(issue => `[${issue.path}]: ${issue.message}`).join(',\n'),
     )
   }
 

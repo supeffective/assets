@@ -12,7 +12,7 @@ const allGameSetIds = allGameSets.map(gs => gs.id)
 export async function updatePokemonOnGameSetAction(
   gameSetId: string,
   pokemonIds: string[],
-  field: keyof Pokemon
+  field: keyof Pokemon,
 ): Promise<void> {
   const pokemonIdsSet = new Set(pokemonIds)
   const newPokes: Pokemon[] = []
@@ -44,7 +44,7 @@ export async function updatePokemonOnGameSetAction(
 export async function updatePokemonOnGameAction(
   gameId: string,
   pokemonIds: string[],
-  field: keyof Pokemon
+  field: keyof Pokemon,
 ): Promise<void> {
   const pokemonIdsSet = new Set(pokemonIds)
   const newPokes: Pokemon[] = []

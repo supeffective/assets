@@ -1,4 +1,5 @@
 import path from 'node:path'
+
 import { z } from 'zod'
 
 import { readFileAsJson, writeFileAsJson } from '../datafs'
@@ -7,7 +8,7 @@ import { gameSchemaV2, GameV2 } from '../schemas/games'
 const dataPath = path.resolve(path.join(__dirname, '..', '..', '..', 'assets', 'data'))
 
 const gameSuperSets = readFileAsJson<Array<{ id: string; name: string }>>(
-  path.join(dataPath, 'gamesupersets.json')
+  path.join(dataPath, 'gamesupersets.json'),
 )
 const gameSets = readFileAsJson<Array<any>>(path.join(dataPath, 'gamesets.json'))
 

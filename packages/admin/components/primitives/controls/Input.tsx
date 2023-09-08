@@ -19,7 +19,7 @@ export function Input({ multiline, className, ...rest }: InputProps): JSX.Elemen
     'focus-visible:border-nxt-w1 focus-visible:text-white',
     'read-only:!text-nxt-g3 read-only:!bg-nxt-b3',
     'read-only:!border-nxt-g2 read-only:cursor-not-allowed',
-    className
+    className,
   )
 
   if (multiline) {

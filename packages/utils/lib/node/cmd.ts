@@ -16,7 +16,7 @@ export function getCliArguments(): string[] {
 
 export async function runCommand(
   command: CommandDefinition,
-  options?: SpawnOptionsWithoutStdio
+  options?: SpawnOptionsWithoutStdio,
 ): Promise<[CommandDefinition, object]> {
   const _options = Object.assign({ stdio: 'inherit' }, options || {})
 
@@ -43,7 +43,7 @@ export async function runSequentialCommands(commands: CommandDefinition[]): Prom
 
 export const runCommandSync = function (
   script: string,
-  options?: ExecSyncOptionsWithStringEncoding
+  options?: ExecSyncOptionsWithStringEncoding,
 ): string {
   return String(child_process.execSync(script, options) + '')
 }

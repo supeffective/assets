@@ -24,13 +24,13 @@ export function updateManyPokemon(batch: UpdatePokemon[]): PokemonMap {
       (pkm || {
         evolvesFrom: null,
       }) as Pokemon,
-      data
+      data,
     )
     const validation = validatePokemon(newPkm)
 
     if (!validation.success) {
       throw new Error(
-        validation.error.issues.map(issue => `[${issue.path}]: ${issue.message}`).join(',\n')
+        validation.error.issues.map(issue => `[${issue.path}]: ${issue.message}`).join(',\n'),
       )
     }
     allPkm.set(id, newPkm)

@@ -7,7 +7,7 @@ import { getAssetsPath } from '@pkg/datalayer/datafs'
 
 export async function uploadImageAction(
   base64Content: string,
-  destinationFilename: string
+  destinationFilename: string,
 ): Promise<void> {
   const destFullPath = path.join(getAssetsPath(), destinationFilename)
   const base64Data = base64Content.replace(/^data:image\/(png|jpg|gif|jpeg);base64,/, '')

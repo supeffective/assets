@@ -7,7 +7,7 @@ import { CmdParams, SpriteIndexItem } from '../types'
 
 export const copySortedFiles = async function (
   index: SpriteIndexItem[],
-  params: CmdParams
+  params: CmdParams,
 ): Promise<void> {
   if (pathExists(params.tmpDir)) {
     console.log(`[copySortedFiles] SKIPPING. Build dir already exists under ${params.tmpDir}`)

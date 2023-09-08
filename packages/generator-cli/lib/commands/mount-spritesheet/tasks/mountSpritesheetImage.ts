@@ -6,7 +6,7 @@ import { CmdParams, SpriteIndexItem } from '../types'
 
 export const mountSpritesheetImage = async function (
   index: SpriteIndexItem[],
-  params: CmdParams
+  params: CmdParams,
 ): Promise<void> {
   const gridSizeSqrt = Math.ceil(Math.sqrt(index.length))
   const gridSize = `${gridSizeSqrt}x${gridSizeSqrt}`

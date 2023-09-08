@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+
 import { Gamepad2Icon, ImageIcon, LanguagesIcon, Link2Icon } from 'lucide-react'
 
 import { Pokemon } from '@pkg/datalayer/schemas/pokemon'

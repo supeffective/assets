@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
+
 import { ArrowLeftCircleIcon } from 'lucide-react'
 
 import { getGameSet } from '@pkg/datalayer/repositories/gamesets'

@@ -1,4 +1,5 @@
 import path from 'node:path'
+
 import { Command } from 'commander'
 
 import { generateMD5 } from '@pkg/utils'
@@ -15,7 +16,7 @@ const resolveParams = function (
   srcDir: string,
   outDir: string,
   tmpDir: string,
-  options: CmdOpts
+  options: CmdOpts,
 ): CmdParams {
   const inputParams = {
     srcDir: path.resolve(srcDir),
@@ -44,33 +45,33 @@ export default function mountSpritesheet(program: Command): void {
     .option(
       '--sorting <jsonfile>',
       'JSON file containing an array of type [string, string[]][], defining the desired order of the sprites.\n' +
-        'The first array item is the base file name without the extension, and the second item is an array of CSS class names.'
+        'The first array item is the base file name without the extension, and the second item is an array of CSS class names.',
     )
     .option(
       '--prepend <files...>',
       'Extra sprite image files to prepend to the spritesheet. CSS class name will be taken from the base file name.',
-      []
+      [],
     )
     .option(
       '--append <files...>',
       'Extra sprite image files to append to the spritesheet. CSS class name will be taken from the base file name.',
-      []
+      [],
     )
     .option(
       '--cssprefix <prefix>',
       'CSS Class Name prefix. This is ignored if --no-css is specified.',
-      'icon'
+      'icon',
     )
     .option('--no-webp', 'Use an optimized WebP spritesheet image instead of PNG')
     .option(
       '--no-shadowbg',
-      'Use a fallback black shadow spritesheet image (usually more lightweight) together with the main one'
+      'Use a fallback black shadow spritesheet image (usually more lightweight) together with the main one',
     )
     .option('--crispy', 'Use crispy images (recommended for pixel art)', false)
     .option(
       '--responsive',
       'Genenerate a responsive CSS spritesheet, using percentages instead of pixels',
-      false
+      false,
     )
     .option('--width <value>', 'Sprite item width.', '50')
     .option('--height <value>', 'Sprite item height.', '50')
@@ -88,6 +89,6 @@ export default function mountSpritesheet(program: Command): void {
         if (params.css) {
           generateCss(spriteIndex, params)
         }
-      }
+      },
     )
 }

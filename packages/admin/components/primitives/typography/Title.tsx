@@ -47,7 +47,7 @@ export function Title({
         'bg-gradient-to-b from-black/80 to-black dark:from-nxt-w4 dark:to-nxt-g4',
         `text-${size}`,
         `lg:text-${lgSize}`,
-        className
+        className,
       )}
     >
       {children}

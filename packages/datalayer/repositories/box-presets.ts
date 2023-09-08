@@ -15,7 +15,7 @@ import { Pokemon } from '../schemas/pokemon'
 const recordsMap = new Map(
   Object.entries(_records).map(([gameSet, presetsObject]) => {
     return [gameSet, new Map(Object.entries(presetsObject))]
-  })
+  }),
 )
 
 export function getBoxPresetsAsRecords(): BoxPresetRecord {
@@ -64,14 +64,14 @@ export function flattenBoxes(preset: BoxPreset): Array<string | null> {
     (acc, box) => {
       return [...acc, ...box.pokemon.map(pkm => parseBoxPokemonID(pkm))]
     },
-    [] as Array<string | null>
+    [] as Array<string | null>,
   )
 }
 
 export function unflattenBoxesPokemon(
   gameSet: GameSet,
   preset: BoxPreset,
-  flattened: Array<Pokemon | null>
+  flattened: Array<Pokemon | null>,
 ): BoxPreset {
   const asIds = flattened.map(pkm => (pkm ? pkm.id : null))
 
@@ -81,7 +81,7 @@ export function unflattenBoxesPokemon(
 export function unflattenBoxes(
   gameSet: GameSet,
   preset: BoxPreset,
-  flattened: Array<string | null>
+  flattened: Array<string | null>,
 ): BoxPreset {
   const boxes: BoxPreset['boxes'] = []
   const trimmed = trimBoxNullsAtTheEnd(flattened)

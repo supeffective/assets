@@ -22,6 +22,6 @@ export function cn(
         return arg
       })
       .filter(Boolean)
-      .join(' ')
+      .join(' '),
   )
 }

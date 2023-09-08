@@ -29,7 +29,7 @@ export function isClientSide(): boolean {
 export function assureServerSide(): void {
   if (!isServerSide()) {
     throw new Error(
-      'This script is SERVER-ONLY and should not be imported or executed in browser environments.'
+      'This script is SERVER-ONLY and should not be imported or executed in browser environments.',
     )
   }
 }
@@ -37,7 +37,7 @@ export function assureServerSide(): void {
 export function assureClientSide(): void {
   if (!isClientSide()) {
     throw new Error(
-      'This script is CLIENT-ONLY and should not be imported or executed in server environments.'
+      'This script is CLIENT-ONLY and should not be imported or executed in server environments.',
     )
   }
 }

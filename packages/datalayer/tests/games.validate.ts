@@ -1,5 +1,6 @@
 import fs from 'node:fs'
 import path from 'node:path'
+
 import { SafeParseReturnType, z } from 'zod'
 
 import recordList from '@pkg/assets/data/games.json'

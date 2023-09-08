@@ -8,7 +8,7 @@ export function Box({ className, children, ...rest }: BoxProps): JSX.Element {
   const classNames = cn(
     'flex flex-col gap-4 w-full mb-12 last-child:mb-0',
     'rounded-md border border-nxt-g1 overflow-hidden',
-    className
+    className,
   )
 
   return (

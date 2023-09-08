@@ -1,4 +1,5 @@
 import path from 'node:path'
+
 import { Command } from 'commander'
 import svgtofont from 'svgtofont'
 
@@ -18,7 +19,7 @@ const resolveParams = function (
   fontName: string,
   srcDir: string,
   outDir: string,
-  options: CmdOpts
+  options: CmdOpts,
 ): CmdProps {
   return {
     fontName,
@@ -60,6 +61,6 @@ export default function mountFont(program: Command): void {
         }).then(() => {
           console.log(`[mount-font] DONE`)
         })
-      }
+      },
     )
 }

@@ -52,7 +52,7 @@ export function BoxPresetEditor(props: BoxPresetEditorProps) {
   function handleFlattenedBoxesChange(
     pokes: Array<Pokemon | null>,
     gameSet: GameSet,
-    preset: BoxPreset
+    preset: BoxPreset,
   ) {
     if (saveTimeout.current) {
       clearTimeout(saveTimeout.current)
@@ -70,7 +70,7 @@ export function BoxPresetEditor(props: BoxPresetEditorProps) {
     gameSet: GameSet,
     preset: BoxPreset,
     box: BoxPresetBox,
-    boxIndex: number
+    boxIndex: number,
   ) {
     if (saveTimeout.current) {
       clearTimeout(saveTimeout.current)
@@ -79,7 +79,7 @@ export function BoxPresetEditor(props: BoxPresetEditorProps) {
     const trimmedBox = { ...box, pokemon: trimmedPokes }
     saveTimeout.current = setTimeout(() => {
       startTransition(
-        async () => await updateBoxPresetBoxAction(gameSet.id, preset.id, trimmedBox, boxIndex)
+        async () => await updateBoxPresetBoxAction(gameSet.id, preset.id, trimmedBox, boxIndex),
       )
       console.log('Saving preset box ' + boxIndex, preset.id)
       saveTimeout.current = null
@@ -146,7 +146,7 @@ export function BoxPresetEditor(props: BoxPresetEditorProps) {
     gameSet: GameSet,
     preset: BoxPreset,
     box: BoxPresetBox,
-    idx: number
+    idx: number,
   ): JSX.Element {
     const pokes = _findPresetPokemon(box.pokemon)
 

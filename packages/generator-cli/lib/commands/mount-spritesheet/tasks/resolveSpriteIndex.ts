@@ -14,7 +14,7 @@ const filesToSpriteIndex = function (files: string[], ext: string): SpriteIndexI
 const dirToSpriteIndex = function (params: CmdParams): SpriteIndexItem[] {
   return filesToSpriteIndex(
     getFilesByExtension(params.srcDir, params.ext).map(f => path.join(params.srcDir, f)),
-    params.ext
+    params.ext,
   )
 }
 

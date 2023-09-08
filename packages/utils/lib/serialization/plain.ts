@@ -50,7 +50,7 @@ export function plainObjectDecode<T = any>(value: any): T {
 
     if (value._type === 'Map') {
       return new Map(
-        value._value.map(([key, value]: any) => [plainObjectDecode(key), plainObjectDecode(value)])
+        value._value.map(([key, value]: any) => [plainObjectDecode(key), plainObjectDecode(value)]),
       ) as T
     }
 

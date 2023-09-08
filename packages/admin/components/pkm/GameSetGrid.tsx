@@ -1,6 +1,7 @@
 'use client'
 
 import { useEffect, useState } from 'react'
+
 import { PlusIcon, TrashIcon } from 'lucide-react'
 
 import { cn } from '@pkg/utils/lib/styling/classNames'
@@ -48,11 +49,11 @@ export function GameSetGrid({
   onItemClick,
 }: GameSetGridProps) {
   const spriteWrapperCn = cn(
-    'w-full min-w-12 text-xs text-nxt-w1 hover:text-nxt-w4 flex flex-col gap-2'
+    'w-full min-w-12 text-xs text-nxt-w1 hover:text-nxt-w4 flex flex-col gap-2',
   )
   const spriteCn = cn(
     'w-full aspect-square leading-none rounded-full',
-    'bg-nxt-b3 flex items-center justify-center'
+    'bg-nxt-b3 flex items-center justify-center',
   )
 
   // search
@@ -119,7 +120,7 @@ export function GameSetGrid({
         setIsSearching(false)
       }
     },
-    [debouncedSearchTerm] // Only call effect if debounced search term changes
+    [debouncedSearchTerm], // Only call effect if debounced search term changes
   )
 
   function _renderResult(item: GameSet, index: number) {

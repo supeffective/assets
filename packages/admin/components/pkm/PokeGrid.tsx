@@ -1,6 +1,7 @@
 'use client'
 
 import { HTMLProps, useEffect, useRef, useState } from 'react'
+
 import { PlusIcon, TrashIcon } from 'lucide-react'
 
 import { createPlaceholderPokemon, isPlaceholderPokemon } from '@pkg/datalayer/repositories/pokemon'
@@ -64,7 +65,7 @@ type PokeGridProps = {
 function convertNullablePokemonList(
   boxSize: number,
   fillSpaces: boolean,
-  pokemon: NullablePokemonList
+  pokemon: NullablePokemonList,
 ): PokemonList {
   const newList = pokemon.map(pkm => pkm ?? createPlaceholderPokemon())
 
@@ -101,18 +102,18 @@ export function PokeGrid({
 
   const spriteWrapperCn = cn(
     [sortable, 'cursor-move'],
-    'w-full min-w-[3rem] text-xs text-nxt-w1 hover:text-nxt-w4 flex flex-col gap-2'
+    'w-full min-w-[3rem] text-xs text-nxt-w1 hover:text-nxt-w4 flex flex-col gap-2',
   )
   const spriteCn = cn(
     'w-full aspect-square leading-none rounded-full',
-    'bg-nxt-b4 flex items-center justify-center'
+    'bg-nxt-b4 flex items-center justify-center',
   )
 
   // search
   const debounceDelay = 800
   const [searchTerm, setSearchTerm] = useState<string>('')
   const [pokemonList, setPokemonList] = useState<PokemonList>(
-    convertNullablePokemonList(max, boxMode === true, pokemon)
+    convertNullablePokemonList(max, boxMode === true, pokemon),
   )
   const [results, setResults] = useState<number[]>(pokemonList.map((_, idx) => idx))
   const [isSearching, setIsSearching] = useState<boolean>(false)
@@ -149,7 +150,7 @@ export function PokeGrid({
         }
 
         return pkm
-      })
+      }),
     )
   }
 
@@ -318,7 +319,7 @@ export function PokeGrid({
         setIsSearching(false)
       }
     },
-    [debouncedSearchTerm] // Only call effect if debounced search term changes
+    [debouncedSearchTerm], // Only call effect if debounced search term changes
   )
 
   useEffect(() => {
@@ -412,7 +413,7 @@ export function PokeGrid({
       spriteWrapperCn,
       [dropZoneIndex === listIndex && dragging, 'border-nxt-acc3 border-l-2 border-dashed'],
       [isBeingDragged, 'outline-2 rounded-full outline-dashed outline-offset-0 outline-nxt-g4'],
-      [dropZoneIndex === listIndex && isBeingDragged, 'outline-nxt-warn2']
+      [dropZoneIndex === listIndex && isBeingDragged, 'outline-nxt-warn2'],
     )
     const spriteClass = cn(spriteCn, `pkm pkm-${pkm.id}`, [isBeingDragged, '!bg-none !bg-nxt-b2'])
 
@@ -478,7 +479,7 @@ export function PokeGrid({
         >
           {itemContent}
         </a>
-      )
+      ),
     )
 
     return renderableItems

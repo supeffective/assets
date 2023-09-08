@@ -28,7 +28,7 @@ function Tabs({ id, className, children, ...rest }: TabsProps): JSX.Element {
     'flex-1 py-4 px-4 xl:px-6 whitespace-pre max-w-[1fr]',
     'cursor-default text-sm border-0 h-full',
     'transition-colors duration-200 ease-in-out text-left lg:text-center',
-    ''
+    '',
   )
 
   const activeTabClass = cn('text-white lg:shadow-b-current-color-1', 'bg-nxt-b3 lg:bg-transparent')

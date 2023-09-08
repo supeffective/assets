@@ -1,5 +1,6 @@
 import fs from 'node:fs'
 import path from 'node:path'
+
 import { SafeParseReturnType, z } from 'zod'
 
 import pokemonList from '@pkg/assets/data/pokemon.json'

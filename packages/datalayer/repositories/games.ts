@@ -14,10 +14,10 @@ const _records: Game[] = _gameSetRecords.flatMap(({ id: gameSetId, games }) => {
 const _gameDataV2: GameV2[] = _gameRecords as GameV2[]
 const _gameRecordsV2: GameV2[] = _gameDataV2.filter(record => record.type === 'game')
 const _gameSetRecordsV2: GameV2[] = _gameDataV2.filter(
-  record => record.type === 'set' || (record.type === 'game' && record.gameSet === null)
+  record => record.type === 'set' || (record.type === 'game' && record.gameSet === null),
 )
 const _gameSuperSetRecordsV2: GameV2[] = _gameDataV2.filter(
-  record => record.type === 'superset' || (record.type === 'set' && record.gameSuperSet === null)
+  record => record.type === 'superset' || (record.type === 'set' && record.gameSuperSet === null),
 )
 
 export function getGames(): Game[] {

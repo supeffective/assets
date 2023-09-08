@@ -6,7 +6,7 @@ export default function createSpriteIndices(program: Command): void {
   program
     .command('create-sprite-indices')
     .description(
-      'Creates different indices to use as sorting JSON files, e.g. for the sprite builder.'
+      'Creates different indices to use as sorting JSON files, e.g. for the sprite builder.',
     )
     .argument('<dataFile>', 'JSON data file, a collection of records')
     .argument('<buildDir>', 'Build directory')

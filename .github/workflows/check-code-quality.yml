@@ -87,13 +87,19 @@ jobs:
       # -------------- end of setup
 
       - name: Prettify
-        run: pnpm pretty
+        run: pnpm prettier-check
 
       - name: Lint
         run: pnpm lint
 
       - name: Build code
         run: pnpm build
+
+      - name: Type check
+        run: pnpm type-check
+
+      - name: Publint
+        run: pnpm publint-check
 
       - name: Run tests
         run: pnpm test:ci

@@ -10,7 +10,7 @@ import { SWITCH_GAMESET_IDS } from './gamesets'
 
 const _pokemonList = _records as any[]
 const _pokemonMap = new Map<IDType, Pokemon>(
-  (_pokemonList as unknown as Pokemon[]).map(pkm => [pkm.id, validatePokemonOrFail(pkm)])
+  (_pokemonList as unknown as Pokemon[]).map(pkm => [pkm.id, validatePokemonOrFail(pkm)]),
 )
 
 export function validatePokemon(record: Pokemon): SafeParseReturnType<Pokemon, Pokemon> {
@@ -61,7 +61,7 @@ export function getAllPokemon(): Pokemon[] {
 
 export function getPreviousAndNextPokemon(
   list: Pokemon[],
-  id: string
+  id: string,
 ): {
   prev: Pokemon | null
   next: Pokemon | null

@@ -21,7 +21,7 @@ export const gameSchemaV2 = z.object({
   releaseDate: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
   platforms: z
     .array(
-      z.enum(['gb', 'gbc', 'gba', 'nds', '3ds', 'switch', 'mobile'])
+      z.enum(['gb', 'gbc', 'gba', 'nds', '3ds', 'switch', 'mobile']),
       //.or(z.string())
     )
     .min(1),

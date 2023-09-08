@@ -17,7 +17,7 @@ export function Button({ href, asSpan, className, ...rest }: ButtonProps): JSX.E
     'text-center justify-center text-sm font-medium transition-colors duration-200',
     'leading-5 bg-white text-black border border-black hover:bg-black',
     'hover:text-white hover:border-white',
-    className
+    className,
   )
 
   if (href && !href.startsWith('http')) {

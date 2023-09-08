@@ -47,7 +47,7 @@ export const chevronIcon = (
 
 function normalizeOptions(
   options: OptionsList,
-  sorted?: boolean
+  sorted?: boolean,
 ): Array<{
   id: string
   name: string
@@ -83,7 +83,7 @@ export function Select({
     'appearance-none focus-visible:outline-0 cursor-pointer bg-transparent p-3',
     'rounded-md flex w-full items-center text-sm font-medium transition-colors duration-200',
     'bg-black text-nxt-w3 border border-neutral-700 focus-visible:border-neutral-400',
-    'focus-visible:text-white'
+    'focus-visible:text-white',
   )
 
   const optionItems = options
@@ -98,7 +98,7 @@ export function Select({
     optionItems.unshift(
       <option key="-" value="">
         -
-      </option>
+      </option>,
     )
   }
 

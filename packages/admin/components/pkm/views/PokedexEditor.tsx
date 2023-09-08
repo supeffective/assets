@@ -71,7 +71,7 @@ export default function PokedexEditor({ record }: { record: Pokedex }) {
       (row): PokedexEntry => ({
         id: row.id,
         isForm: row.isForm,
-      })
+      }),
     )
 
     setDexEntries([...allRegistrable, ...allExtras])

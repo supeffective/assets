@@ -4,6 +4,7 @@ import React from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
+
 import { MenuIcon, XIcon } from 'lucide-react'
 
 import { cn } from '@pkg/utils/lib/styling/classNames'
@@ -104,7 +105,7 @@ export function MainNav(): JSX.Element {
               'w-full h-full py-24 px-6 overflow-auto',
               'xl:w-auto xl:h-auto xl:py-0 xl:px-0 xl:overflow-auto',
               'text-right',
-            ]
+            ],
           )}
         >
           {links.map(({ href, label, links: subMenuLinks }, index) => {

@@ -55,7 +55,7 @@ export default function GameSetEditor({ gameSet }: { gameSet: GameSet }) {
   function handleGameSetField(
     rows: Pokemon[],
     field: keyof Pokemon,
-    dataKey: keyof PokemonForGameSet
+    dataKey: keyof PokemonForGameSet,
   ) {
     const pokemonIds = rows.map(row => row.id)
 
@@ -156,7 +156,7 @@ export default function GameSetEditor({ gameSet }: { gameSet: GameSet }) {
                 searchable
                 pokemon={pokes.storable}
                 selectablePokemon={allPokes.filter(
-                  p => !counters.storable.ids.has(p.id) //&& !p.isBattleOnlyForm
+                  p => !counters.storable.ids.has(p.id), //&& !p.isBattleOnlyForm
                 )}
                 canAdd
                 canRemove
@@ -178,7 +178,7 @@ export default function GameSetEditor({ gameSet }: { gameSet: GameSet }) {
               {JSON.stringify(
                 pokes.transferOnly.map(p => p.id),
                 null,
-                2
+                2,
               )}
             </pre>
             {<PokeGrid size={'7ch'} withNames searchable pokemon={pokes.transferOnly} />}
@@ -219,7 +219,7 @@ export default function GameSetEditor({ gameSet }: { gameSet: GameSet }) {
                 searchable
                 pokemon={pokes.eventOnly}
                 selectablePokemon={allPokes.filter(
-                  p => !counters.obtainable.ids.has(p.id) && !counters.eventOnly.ids.has(p.id) //&& !p.isBattleOnlyForm
+                  p => !counters.obtainable.ids.has(p.id) && !counters.eventOnly.ids.has(p.id), //&& !p.isBattleOnlyForm
                 )}
                 canAdd
                 canRemove

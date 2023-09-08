@@ -4,7 +4,8 @@
 
 Pokémon datasets used in the SuperEffective.gg website.
 
-This project is based on the [Turbo React Next.js Starter](https://github.com/itsjavi/turborepo-react-next).
+This project is based on the
+[Turbo React Next.js Starter](https://github.com/itsjavi/turborepo-react-next).
 
 ## Requirements
 
@@ -39,13 +40,15 @@ make open
 
 ### Editing the JSON data
 
-All data from `./data/json` can be edited manually, but it much better to use the admin panel instead, which has some triggers behind to update all necessary data files.
+All data from `./data/json` can be edited manually, but it much better to use the admin panel
+instead, which has some triggers behind to update all necessary data files.
 
 When you edit the JSONs manually, you might do mistakes or run into other issues.
 
 ### Generating the sprite sheets
 
-If you updated the individual images for Pokémon, Items, Ribbons, Marks, etc. you also need to generate the sprite sheets again.
+If you updated the individual images for Pokémon, Items, Ribbons, Marks, etc. you also need to
+generate the sprite sheets again.
 
 For that, you can run:
 
@@ -71,11 +74,12 @@ make fonts
 
 ### Adding a new Pokémon or form manually
 
-There are special cases where you need to introduce data manually, for example,
-when brand new Pokémon species or forms are announced and there isn't info about them yet in the Showdown project.
+There are special cases where you need to introduce data manually, for example, when brand new
+Pokémon species or forms are announced and there isn't info about them yet in the Showdown project.
 
 - Add the entry or entries manually in `data/pokemon.json`
-- Open the Admin UI and adjust all other necessary data (pokemon stats, game availability, dexes, boxes, etc.)
+- Open the Admin UI and adjust all other necessary data (pokemon stats, game availability, dexes,
+  boxes, etc.)
 
 ## Data Sources
 

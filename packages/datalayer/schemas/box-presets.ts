@@ -8,7 +8,7 @@ export const boxPresetBoxPokemonSchema = slugSchema.nullable().or(
     gmax: z.coerce.boolean().optional(),
     shinyLocked: z.coerce.boolean().optional(),
     shiny: z.coerce.boolean().optional(),
-  })
+  }),
 )
 
 export const boxPresetBoxSchema = z.object({
