@@ -1,6 +1,11 @@
 # supereffective-assets
 
-[![Check Code Quality](https://github.com/itsjavi/supereffective-assets/actions/workflows/check-code-quality.yml/badge.svg)](https://github.com/itsjavi/supereffective-assets/actions/workflows/check-code-quality.yml)
+<p>
+  <a href="https://npmjs.com/package/@supeffective/assets-sdk"><img src="https://img.shields.io/npm/v/@supeffective/assets-sdk.svg" alt="npm package"></a>
+  <a href="https://bundlephobia.com/package/@supeffective/assets-sdk"><img src="https://img.shields.io/bundlephobia/min/@supeffective/assets-sdk?label=@supeffective/assets-sdk" alt="bundlephobia" /></a>
+  <a href="https://github.com/itsjavi/supereffective-assets/actions/workflows/quality.yml"><img src="https://github.com/itsjavi/supereffective-assets/actions/workflows/quality.yml/badge.svg?branch=main" alt="build status"></a>
+  <a href="https://www.jsdocs.io/package/@supeffective/assets-sdk"><img src="https://img.shields.io/badge/API%20Reference-📖-blue" alt="homepage"></a>
+</p>
 
 Pokémon datasets used in the SuperEffective.gg website.
 
