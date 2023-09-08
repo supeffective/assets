@@ -16,7 +16,7 @@ runs:
       run: pnpm build
 
     - shell: bash
-      run: pnpm publint
+      run: pnpm publint-check
 
     - shell: bash
       run: pnpm data:validate
