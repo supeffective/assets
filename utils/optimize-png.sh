@@ -14,4 +14,4 @@ if [ ! -f "$SRC_FILE" ]; then
 fi
 
 optipng -quiet -o4 -nx "$SRC_FILE" # 24 passes, no palette or depth reduction
-echo "            >> [optimized]"
+# echo "           ↳ [optimized]"
