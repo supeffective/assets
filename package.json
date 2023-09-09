@@ -27,6 +27,7 @@
     "pretty": "pnpm run format",
     "publint-check": "turbo publint-check",
     "quality-checks": "pnpm prettier-check && pnpm type-check && pnpm lint && pnpm build && pnpm publint-check && pnpm data:validate && pnpm test:ci",
+    "start:assets": "pnpm -r --filter='@app/assets-server' run start",
     "test": "pnpm test:all",
     "test:all": "env-cmd jest",
     "test:ci": "turbo run test:all -- --ci --coverage",
