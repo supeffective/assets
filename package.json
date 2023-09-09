@@ -5,7 +5,7 @@
   "scripts": {
     "build": "make data && turbo build",
     "clear-cache": "rm -rf packages/*/.turbo && rm -rf packages/*/.next && jest --clearCache",
-    "codegen": "pnpm data:update && pnpm pkg:generator build && pnpm pkg:generator make sprite-indices && pnpm pkg:generator make data-types && pnpm data:validate",
+    "codegen": "pnpm data:update && pnpm pkg:generator build && pnpm pkg:generator make data-types && pnpm data:validate",
     "data:update": "pnpm pkg:datalayer showdown:import",
     "data:validate": "pnpm pkg:datalayer validate",
     "dev": "turbo build && open http://localhost:3151 && env-cmd turbo run dev --no-deps --no-cache --parallel --concurrency 20",

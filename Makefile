@@ -28,11 +28,6 @@ validate:
 	echo "Validating generated data and assets..."
 	pnpm data:validate
 
-sprite-indices:
-	pnpm pkg:utils build
-	pnpm pkg:generator build
-	pnpm pkg:generator make sprite-indices
-
 constants: data-types
 data-types:
 	pnpm pkg:utils build
@@ -47,13 +42,20 @@ glyphs:
 	pnpm pkg:generator make glyphs
 	pnpm format
 
-sprites: spritesheets
-spritesheets:
-	pnpm pkg:utils build
-	pnpm pkg:generator build
-	pnpm pkg:generator make sprite-indices
-	pnpm pkg:generator make spritesheets
-	pnpm format
+#------------------ Spritesheets are DEPRECATED
+# sprite-indices:
+# 	pnpm pkg:utils build
+# 	pnpm pkg:generator build
+# 	pnpm pkg:generator make sprite-indices
+
+# sprites: spritesheets
+# spritesheets:
+# 	pnpm pkg:utils build
+# 	pnpm pkg:generator build
+# 	pnpm pkg:generator make sprite-indices
+# 	pnpm pkg:generator make spritesheets
+# 	pnpm format
+#------------------ //
 
 trim-pngs:
 	./utils/trim-pngs.sh assets/images/pokemon/gen8-icon assets/images/pokemon/gen8-icon-trimmed
