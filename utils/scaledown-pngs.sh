@@ -2,6 +2,7 @@
 
 SRC_DIR=$1
 DEST_DIR=$2
+FIT_SIZE=${3:-'128x128'}
 
 if ! command -v mogrify &> /dev/null; then
   echo "mogrify could not be found"
@@ -22,14 +23,13 @@ for file in ${SRC_DIR}/*.png; do
 
   echo "Processing $_dest_file ..."
 
-  # Trim and save to new file
-  convert "$file" -trim +repage -background transparent -gravity center "$_dest_file"
+  # Fit the image into the new dimensions
+  # The key part here is the -resize option with the > symbol, 
+  # which ensures that the image will only be resized if its dimensions  
+  # exceed $FIT_SIZE pixels. If the image is smaller, it will remain unchanged, not scaled up.
+  # This prevents upscaling of smaller images and the subsequent loss of quality.
 
-  # Get the new dimensions, as 1:1 aspect ratio calculating max(widht, height)
-  new_extent=$(identify -format "%[fx:max(w,h)]x%[fx:max(w,h)]" "$_dest_file")
-
-  # Fit the image to the new dimensions
-  mogrify -format png -background transparent -gravity center -extent "$new_extent" "$_dest_file"
+  convert "$file" -format png -resize "$FIT_SIZE>" -background transparent -gravity center -extent "$FIT_SIZE" "$_dest_file"
   
   ./utils/optimize-png.sh "$_dest_file"
 done

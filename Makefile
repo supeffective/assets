@@ -57,18 +57,10 @@ glyphs:
 # 	pnpm format
 #------------------ //
 
-trim-pngs:
-	./utils/trim-pngs.sh assets/images/pokemon/gen8-icon assets/images/pokemon/gen8-icon-trimmed
-	./utils/trim-pngs.sh assets/images/pokemon/gen8-icon/regular assets/images/pokemon/gen8-icon-trimmed/regular
-	./utils/trim-pngs.sh assets/images/pokemon/gen8-icon/shiny assets/images/pokemon/gen8-icon-trimmed/shiny
-	# ---
-	./utils/trim-pngs.sh assets/images/pokemon/home2d-icon assets/images/pokemon/home2d-icon-trimmed
-	./utils/trim-pngs.sh assets/images/pokemon/home2d-icon/regular assets/images/pokemon/home2d-icon-trimmed/regular
-	./utils/trim-pngs.sh assets/images/pokemon/home2d-icon/shiny assets/images/pokemon/home2d-icon-trimmed/shiny
-	# ---
-	./utils/trim-pngs.sh assets/images/pokemon/home3d-icon assets/images/pokemon/home3d-icon-trimmed
-	./utils/trim-pngs.sh assets/images/pokemon/home3d-icon/regular assets/images/pokemon/home3d-icon-trimmed/regular
-	./utils/trim-pngs.sh assets/images/pokemon/home3d-icon/shiny assets/images/pokemon/home3d-icon-trimmed/shiny
+images: optimize-images
+optimize: optimize-images
+optimize-images:
+	./utils/optimize-pokemon-pngs.sh
 
 .PHONY: build data packages images
 $(V).SILENT:
