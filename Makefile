@@ -55,6 +55,10 @@ spritesheets:
 	pnpm pkg:generator make spritesheets
 	pnpm format
 
+trim-pngs:
+	rm -rf assets/images/pokemon/**/*-trimmed
+	./utils/trim-pngs.sh assets/images/pokemon
+
 .PHONY: build data packages images
 $(V).SILENT:
 .SILENT:
