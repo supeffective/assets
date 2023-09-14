@@ -16,6 +16,8 @@ import { Input } from '@/components/primitives/controls/Input'
 import { useDebounce } from '@/hooks/useDebounce'
 import { Routes } from '@/lib/Routes'
 
+import { PokeImgFile } from './PokeImgFile'
+
 // TODO refactor DnD into a separate component called DndGrid and FixedDndGrid
 // TODO refactor into PokeGrid and FixedPokeGrid (for boxes DnD mode)
 
@@ -30,6 +32,7 @@ type PokeGridProps = {
   withDexNums?: boolean
   incrementalDexNums?: boolean
   searchable?: boolean
+  initialSearchTerm?: string
   sortable?: boolean
   addLabel?: string
   canRemove?: boolean
@@ -87,6 +90,7 @@ export function PokeGrid({
   withDexNums,
   incrementalDexNums,
   searchable,
+  initialSearchTerm = '',
   sortable,
   max = 0,
   canAdd,
@@ -97,9 +101,6 @@ export function PokeGrid({
   onChange,
   onPkmClick,
 }: PokeGridProps) {
-  type PokesType = typeof pokemon
-  type PokesTypeItem = PokesType[number]
-
   const spriteWrapperCn = cn(
     [sortable, 'cursor-move'],
     'w-full min-w-[3rem] text-xs text-nxt-w1 hover:text-nxt-w4 flex flex-col gap-2',
@@ -111,7 +112,7 @@ export function PokeGrid({
 
   // search
   const debounceDelay = 800
-  const [searchTerm, setSearchTerm] = useState<string>('')
+  const [searchTerm, setSearchTerm] = useState<string>(initialSearchTerm)
   const [pokemonList, setPokemonList] = useState<PokemonList>(
     convertNullablePokemonList(max, boxMode === true, pokemon),
   )
@@ -128,7 +129,7 @@ export function PokeGrid({
   const [dragging, setDragging] = useState<boolean>(false)
 
   const setPokemonListAndResults = (newPokemonList: PokemonList) => {
-    setPokemonList(oldList => {
+    setPokemonList(() => {
       setResults(newPokemonList.map((_, idx) => idx))
 
       return newPokemonList
@@ -230,7 +231,7 @@ export function PokeGrid({
 
   // interactions
   const handlePkmClick = (e: any, pkm: Pokemon) => {
-    if (!e.target?.classList.contains('pkm')) {
+    if (!e.target?.hasAttribute('data-nid')) {
       return
     }
 
@@ -252,7 +253,6 @@ export function PokeGrid({
   }
 
   const handleReplacePokemonAt = (pkm: PokemonList, atIndex: number) => {
-    console.log('replace', pkm, atIndex)
     const newPokemonList = [...pokemonList]
     newPokemonList.splice(atIndex, 1, ...pkm)
     updatePokemonList(newPokemonList)
@@ -315,17 +315,12 @@ export function PokeGrid({
         setIsSearching(false)
         setResults(_resultIndices)
       } else {
-        setResults(getPokemonListIndices())
+        setPokemonListAndResults(convertNullablePokemonList(max, boxMode === true, pokemon))
         setIsSearching(false)
       }
     },
-    [debouncedSearchTerm], // Only call effect if debounced search term changes
+    [debouncedSearchTerm, pokemon], // Only call effect if debounced search term changes
   )
-
-  useEffect(() => {
-    console.log('pokemon changed')
-    setPokemonListAndResults(convertNullablePokemonList(max, boxMode === true, pokemon))
-  }, [pokemon])
 
   let lastDexNum = 0
 
@@ -437,8 +432,13 @@ export function PokeGrid({
       : {}
 
     const spriteBlock = (
-      <span className={spriteWrapperClass}>
-        <i className={`${spriteClass} pkm pkm-${pkm.id}`} />
+      <span className={spriteWrapperClass} data-nid={pkm.nid}>
+        <PokeImgFile
+          className={`${spriteClass} pkm pkm-img-file`}
+          nid={pkm.nid}
+          data-nid={pkm.nid}
+          variant="home3d-icon"
+        />
       </span>
     )
     const dexNumBlock = withDexNums && !isBeingDragged && (
@@ -496,6 +496,7 @@ export function PokeGrid({
         maxSelection={max ? max - pokemonList.length : 100}
         uniqueSelection={canRepeat !== true}
         onSelect={handleAppendPokemon}
+        initialSearchTerm={debouncedSearchTerm}
       >
         <span className={cn(spriteWrapperCn, 'focus-visible:ring-2 text-center items-center')}>
           <span className={spriteCn}>

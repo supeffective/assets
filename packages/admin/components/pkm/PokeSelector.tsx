@@ -23,24 +23,20 @@ export type PokemonPlacehoder = {
   dexNum: 0
 }
 
-const placeholder: PokemonPlacehoder = {
-  id: 'unknown',
-  nid: '0000-unknown',
-  dexNum: 0,
-}
-
 export function PokeSelector({
   children,
   pokemon,
   onSelect,
   maxSelection = 100,
   uniqueSelection,
+  initialSearchTerm,
 }: {
   children: React.ReactNode
   pokemon: Pokemon[]
   onSelect?: (pkm: Pokemon[]) => void
   maxSelection?: number
   uniqueSelection?: boolean
+  initialSearchTerm?: string
 }): JSX.Element {
   const [open, setOpen] = React.useState(false)
 
@@ -57,6 +53,7 @@ export function PokeSelector({
           pokemon={pokemon}
           onSelect={selectAndClose}
           maxSelection={maxSelection}
+          initialSearchTerm={initialSearchTerm}
           uniqueSelection={uniqueSelection}
         />
       </DialogContent>
@@ -69,11 +66,13 @@ function PokeSelectorContent({
   onSelect,
   maxSelection,
   uniqueSelection,
+  initialSearchTerm,
 }: {
   pokemon: Pokemon[]
   onSelect?: (pkm: Pokemon[]) => void
   maxSelection: number
   uniqueSelection?: boolean
+  initialSearchTerm?: string
 }): JSX.Element {
   const [selectedPokes, setSelectedPokes] = React.useState<Pokemon[]>([])
 
@@ -119,6 +118,7 @@ function PokeSelectorContent({
         <PokeGrid
           className={maxSelectionClass}
           searchable
+          initialSearchTerm={initialSearchTerm}
           pokemon={selectablePokes}
           withNames
           onPkmClick={onPkmClick}

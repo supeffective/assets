@@ -64,7 +64,7 @@ export function PokeImgFile({
         alt={nid || 'unknown'}
         width={width}
         height={height}
-        className={cn('inline-flex h-auto max-w-full', [
+        className={cn('inline-flex h-auto max-w-full pointer-events-none', [
           isTransitionPending,
           'opacity-50 grayscale cursor-progress',
         ])}
