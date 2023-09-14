@@ -77,7 +77,7 @@ export const importShowdownPokemon = function (): void {
   }
 
   const isInShowdown = (pkm: Pokemon): boolean => {
-    if (!pkm.refs?.showdown) {
+    if (!pkm.refs?.showdown || pkm.refs?.showdown === 'unknown' || pkm.refs?.showdown === '???') {
       return false
     }
     if (rowsById.has(pkm.refs.showdown)) {

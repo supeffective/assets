@@ -17,7 +17,7 @@ export function updateManyPokemon(batch: UpdatePokemon[]): PokemonMap {
   const allPkm = getAllPokemonMappedById()
 
   for (const data of batch) {
-    const isUpdate = data.dexNum && data.dexNum > 0
+    const isUpdate = allPkm.has(data.id)
     const id = data.id
     const pkm = isUpdate ? getPokemonOrFail(id) : getPokemon(id)
     const newPkm = softMerge<Pokemon>(
