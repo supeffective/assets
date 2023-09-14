@@ -49,6 +49,14 @@ export function BoxPresetEditor(props: BoxPresetEditorProps) {
     )
   }
 
+  const allBoxesPokemonIds = new Set(
+    flattenBoxes(preset)
+      .map(poke => parseBoxPokemonID(poke))
+      .filter(Boolean),
+  )
+
+  const pokemonNotInBoxes = allPokes.filter(poke => !allBoxesPokemonIds.has(poke.id))
+
   function handleFlattenedBoxesChange(
     pokes: Array<Pokemon | null>,
     gameSet: GameSet,
@@ -170,7 +178,7 @@ export function BoxPresetEditor(props: BoxPresetEditorProps) {
           onChange={pokes => {
             handleBoxChange(pokes, gameSet, preset, box, idx)
           }}
-          selectablePokemon={allPokes}
+          selectablePokemon={pokemonNotInBoxes}
         />
       </Flex>
     )
