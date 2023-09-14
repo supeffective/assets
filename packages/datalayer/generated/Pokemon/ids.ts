@@ -1406,6 +1406,7 @@ export const pokemonIds = [
   "wyrdeer",
   "kleavor",
   "ursaluna",
+  "ursaluna-bloodmoon",
   "basculegion",
   "basculegion-f",
   "sneasler",
@@ -1527,11 +1528,23 @@ export const pokemonIds = [
   "miraidon",
   "walkingwake",
   "ironleaves",
-  "munkidori",
+  "dipplin",
+  "poltchageist",
+  "poltchageist-artisan",
+  "sinistcha",
+  "sinistcha-masterpiece",
   "okidogi",
+  "monkidori",
   "fezandipiti",
   "ogerpon",
-  "terapagos"
+  "ogerpon-wellspring-mask",
+  "ogerpon-hearthflame-mask",
+  "ogerpon-cornerstone-mask",
+  "archaludon",
+  "ragingbolt",
+  "ironcrown",
+  "terapagos",
+  "terapagos-terastal"
 ] as const
 
 export type PokemonID = (typeof pokemonIds)[number]

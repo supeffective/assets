@@ -36,7 +36,9 @@ export const pokedexIds = [
   "hisui-coronet",
   "hisui-alabaster",
   "paldea",
-  "paldea-initial"
+  "paldea-initial",
+  "kitakami",
+  "blueberry"
 ] as const
 
 export type PokedexID = (typeof pokedexIds)[number]
