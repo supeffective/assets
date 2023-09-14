@@ -1,6 +1,5 @@
 import { Dex } from '@pkmn/dex'
 
-import { getDataPath } from '../../datafs'
 import { getAbilityByShowdownNameOrFail } from '../../repositories/abilities'
 import { getItemByShowdownNameOrFail } from '../../repositories/items'
 import { getMoveByShowdownNameOrFail } from '../../repositories/moves'
@@ -33,7 +32,6 @@ export const importShowdownPokemon = function (): void {
       allPokemonByShowdownId.get(showdownId)?.push(pokemon)
     }
   }
-  const outFile = getDataPath('pokemon.json')
   const transformedRows: Pokemon[] = []
 
   // ------------------------------------------------
