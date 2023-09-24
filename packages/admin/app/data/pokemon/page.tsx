@@ -34,7 +34,7 @@ export default async function Page() {
         <PokeGrid searchable pokemon={pokes} withNames />
       </div>
       <div className="mt-12">
-        <Title className="text-2xl lg:text-3xl">Unavailable on Switch games:</Title>
+        <Title className="text-2xl lg:text-3xl">Unobtainable on Switch games:</Title>
         <PokeGrid pokemon={getPokemonMissingOnSwitchGames()} />
       </div>
     </Flex>

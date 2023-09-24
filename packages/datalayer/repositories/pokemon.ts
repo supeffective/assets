@@ -83,10 +83,7 @@ export function getAllPokemonMappedById(): Map<IDType, Pokemon> {
 export function getPokemonMissingOnSwitchGames(): Pokemon[] {
   return getAllPokemon()
     .filter(pkm => {
-      return (
-        !pkm.obtainableIn.some(gs => SWITCH_GAMESET_IDS.includes(gs)) &&
-        !pkm.storableIn.some(gs => SWITCH_GAMESET_IDS.includes(gs))
-      )
+      return !pkm.obtainableIn.some(gs => SWITCH_GAMESET_IDS.includes(gs))
     })
     .filter(pkm => pkm.dexNum > 0)
 }

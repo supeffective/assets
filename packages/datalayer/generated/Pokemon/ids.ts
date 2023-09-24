@@ -1534,7 +1534,7 @@ export const pokemonIds = [
   "sinistcha",
   "sinistcha-masterpiece",
   "okidogi",
-  "monkidori",
+  "munkidori",
   "fezandipiti",
   "ogerpon",
   "ogerpon-wellspring",

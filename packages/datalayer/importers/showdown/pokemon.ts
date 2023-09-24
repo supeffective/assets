@@ -55,6 +55,11 @@ export const importShowdownPokemon = function (): void {
           'eeveestarter',
           'pichuspikyeared',
           'floetteeternal',
+          // Skip these for now:
+          'ogerpontealtera',
+          'ogerponwellspringtera',
+          'ogerponhearthflametera',
+          'ogerponcornerstonetera',
         ].includes(row.id)
       ) {
         return false
