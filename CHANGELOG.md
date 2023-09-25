@@ -1,3 +1,78 @@
+## v4.1.3
+
+[compare changes](https://github.com/itsjavi/supereffective-assets/compare/v4.1.2...v4.1.3)
+
+### 🚀 Enhancements
+
+- Add util to trim pngs
+  ([8346af0a2](https://github.com/itsjavi/supereffective-assets/commit/8346af0a2))
+- **assets:** Add trimmed PNGs for pokemon/gen8-icon
+  ([9f6ec30a3](https://github.com/itsjavi/supereffective-assets/commit/9f6ec30a3))
+- **assets:** Add trimmed PNGs for pokemon/home2d-icon
+  ([03524fb95](https://github.com/itsjavi/supereffective-assets/commit/03524fb95))
+- **assets:** Add 60% opaque default uknown sprites
+  ([cc1bb6f1d](https://github.com/itsjavi/supereffective-assets/commit/cc1bb6f1d))
+- Add util script to create silouetthes for shiny pokes
+  ([cdbb77a79](https://github.com/itsjavi/supereffective-assets/commit/cdbb77a79))
+- **assets:** Add trimmed PNGs for pokemon/home3d-icon/regular
+  ([1bcad0e9d](https://github.com/itsjavi/supereffective-assets/commit/1bcad0e9d))
+- **assets:** Add trimmed PNGs for pokemon/home3d-icon/shiny
+  ([bade068bd](https://github.com/itsjavi/supereffective-assets/commit/bade068bd))
+- **assets:** Initial Teal Mask data and placeholders
+  ([a61aed418](https://github.com/itsjavi/supereffective-assets/commit/a61aed418))
+- **box-presets:** Update SV presets
+  ([e50fe928a](https://github.com/itsjavi/supereffective-assets/commit/e50fe928a))
+- **assets:** Add preliminary (not final) HOME presets
+  ([1c0325e08](https://github.com/itsjavi/supereffective-assets/commit/1c0325e08))
+- Add ursaluna-b sprite and initial Home preset
+  ([4faa192ec](https://github.com/itsjavi/supereffective-assets/commit/4faa192ec))
+- **assets:** Add game icons from HOME
+  ([1ae9212ee](https://github.com/itsjavi/supereffective-assets/commit/1ae9212ee))
+- **assets:** Update SV DLC1 data
+  ([aac72610c](https://github.com/itsjavi/supereffective-assets/commit/aac72610c))
+- **assets:** Update SV images
+  ([9a29bb5f8](https://github.com/itsjavi/supereffective-assets/commit/9a29bb5f8))
+
+### 🩹 Fixes
+
+- Missing CSS ([f858eb236](https://github.com/itsjavi/supereffective-assets/commit/f858eb236))
+- **admin:** Use img files and do not lose search on select
+  ([a499ac8d3](https://github.com/itsjavi/supereffective-assets/commit/a499ac8d3))
+- **datalayer:** Adding new pokemon with dex num was not working
+  ([35e98afa6](https://github.com/itsjavi/supereffective-assets/commit/35e98afa6))
+
+### 💅 Refactors
+
+- Make unknown sprite 60% opaque
+  ([7a1724ef8](https://github.com/itsjavi/supereffective-assets/commit/7a1724ef8))
+- Make trim-pngs smarter by skipping existing
+  ([8c07eca71](https://github.com/itsjavi/supereffective-assets/commit/8c07eca71))
+- Remove generated spritesheets (deprecated) and commands
+  ([825c631fa](https://github.com/itsjavi/supereffective-assets/commit/825c631fa))
+- Trim/resize scripts to optimize the pokemon pngs
+  ([6fd717b92](https://github.com/itsjavi/supereffective-assets/commit/6fd717b92))
+- Trim/resize scripts to do all in one
+  ([72a6ea144](https://github.com/itsjavi/supereffective-assets/commit/72a6ea144))
+- Replace release scripts
+  ([972276c3a](https://github.com/itsjavi/supereffective-assets/commit/972276c3a))
+- Replace release scripts
+  ([34da5dc9b](https://github.com/itsjavi/supereffective-assets/commit/34da5dc9b))
+
+### 🏡 Chore
+
+- Fix versioning scripts
+  ([b59583513](https://github.com/itsjavi/supereffective-assets/commit/b59583513))
+- Add start:assets script to start the assets server alone with plain node
+  ([69bac0a70](https://github.com/itsjavi/supereffective-assets/commit/69bac0a70))
+- Update dependencies 🪄 ([#26](https://github.com/itsjavi/supereffective-assets/pull/26))
+- Update dependencies 🪄 ([#27](https://github.com/itsjavi/supereffective-assets/pull/27))
+- Add script to update availability using dexes data
+  ([34748ecb6](https://github.com/itsjavi/supereffective-assets/commit/34748ecb6))
+
+### ❤️ Contributors
+
+- Javi Aguilar
+
 ## v4.1.2
 
 [compare changes](https://github.com/itsjavi/supereffective-assets/compare/v4.1.1...v4.1.2)
