@@ -42,7 +42,6 @@
     "dev": "tsup --watch --clean=false",
     "lint": "eslint --max-warnings=0 .",
     "lint-fix": "eslint --fix .",
-    "prepublishOnly": "pnpm run build",
     "publint-check": "pnpm publint",
     "type-check": "tsc --noEmit"
   },
