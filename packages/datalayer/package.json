@@ -11,13 +11,13 @@
   "dependencies": {
     "@pkg/assets": "workspace:*",
     "@pkg/utils": "workspace:*",
-    "@types/node": "^20.6.4",
+    "@types/node": "^20.8.3",
     "typescript": "^5.2.2",
-    "zod": "^3.22.2"
+    "zod": "^3.22.4"
   },
   "devDependencies": {
-    "@pkmn/dex": "^0.7.52",
-    "@pkmn/dex-types": "^0.7.52",
+    "@pkmn/dex": "^0.7.53",
+    "@pkmn/dex-types": "^0.7.53",
     "tsx": "^3.13.0"
   }
 }
