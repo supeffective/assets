@@ -3,7 +3,7 @@ import path from 'node:path'
 import { z } from 'zod'
 
 import { readFileAsJson, writeFileAsJson } from '../datafs'
-import { gameSchemaV2, GameV2 } from '../schemas/games'
+import { gameSchemaV2, type GameV2 } from '../schemas/games'
 
 const dataPath = path.resolve(path.join(__dirname, '..', '..', '..', 'assets', 'data'))
 

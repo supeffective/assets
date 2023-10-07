@@ -1,8 +1,13 @@
-import { Dex, Item as DexItem } from '@pkmn/dex'
+import { Dex, type Item as DexItem } from '@pkmn/dex'
 import { z } from 'zod'
 
-import { DataOverrideDefinition, getDataPath, readFileAsJson, writeFileAsJson } from '../../datafs'
-import { Item, ItemCategory, itemSchema } from '../../schemas/items'
+import {
+  getDataPath,
+  readFileAsJson,
+  writeFileAsJson,
+  type DataOverrideDefinition,
+} from '../../datafs'
+import { itemSchema, type Item, type ItemCategory } from '../../schemas/items'
 
 function getItemCategory(item: DexItem): ItemCategory {
   if (item.isBerry) {

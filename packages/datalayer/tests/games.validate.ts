@@ -1,11 +1,11 @@
 import fs from 'node:fs'
 import path from 'node:path'
 
-import { SafeParseReturnType, z } from 'zod'
+import { z, type SafeParseReturnType } from 'zod'
 
 import recordList from '@pkg/assets/data/games.json'
 
-import { gameSchemaV2, GameV2 } from '../schemas/games'
+import { gameSchemaV2, type GameV2 } from '../schemas/games'
 
 const listSchema = z.array(gameSchemaV2)
 const baseImageDir = path.resolve(path.join(__dirname, '../../../assets/images/games'))

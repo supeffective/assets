@@ -2,7 +2,7 @@ import { z } from 'zod'
 
 import _records from '@pkg/assets/data/abilities.json'
 
-import { Ability, abilitySchema } from '../schemas/abilities'
+import { abilitySchema, type Ability } from '../schemas/abilities'
 
 export function getAbilities(): Ability[] {
   return _records

@@ -8,12 +8,16 @@ import {
   parseBoxPokemonID,
   trimBoxNullsAtTheEnd,
 } from '@pkg/datalayer/repositories/box-presets'
-import { Pokemon } from '@pkg/datalayer/schemas/pokemon'
+import type { Pokemon } from '@pkg/datalayer/schemas/pokemon'
 
 import { getGameSets } from '@/../datalayer/repositories/gamesets'
 import { getAllPokemon, getPokemon } from '@/../datalayer/repositories/pokemon'
-import { BoxPreset, BoxPresetBox, BoxPresetBoxPokemon } from '@/../datalayer/schemas/box-presets'
-import { GameSet } from '@/../datalayer/schemas/gamesets'
+import type {
+  BoxPreset,
+  BoxPresetBox,
+  BoxPresetBoxPokemon,
+} from '@/../datalayer/schemas/box-presets'
+import type { GameSet } from '@/../datalayer/schemas/gamesets'
 import { updateBoxPresetAction, updateBoxPresetBoxAction } from '@/actions/updateBoxPresetActions'
 import { PokeGrid } from '@/components/pkm/PokeGrid'
 import { Flex } from '@/components/primitives/boxes/Flex'

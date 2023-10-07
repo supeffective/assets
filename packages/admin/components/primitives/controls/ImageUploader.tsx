@@ -1,4 +1,4 @@
-import { ComponentProps, HTMLProps, useState } from 'react'
+import { useState, type ComponentProps, type HTMLProps } from 'react'
 
 import { cn } from '@pkg/utils/lib/styling/classNames'
 

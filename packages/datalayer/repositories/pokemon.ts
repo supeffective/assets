@@ -1,11 +1,11 @@
-import { SafeParseReturnType } from 'zod'
+import type { SafeParseReturnType } from 'zod'
 
 // @ts-ignore
 import _records from '@pkg/assets/data/pokemon.json'
 
 import { LATEST_GAMESET, LATEST_GENERATION, LATEST_REGION } from '../constants'
-import { IDType } from '../schemas/common'
-import { Pokemon, pokemonSchema } from '../schemas/pokemon'
+import type { IDType } from '../schemas/common'
+import { pokemonSchema, type Pokemon } from '../schemas/pokemon'
 import { SWITCH_GAMESET_IDS } from './gamesets'
 
 const _pokemonList = _records as any[]

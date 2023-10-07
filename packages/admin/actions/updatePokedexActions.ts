@@ -2,7 +2,7 @@
 
 import { getDataPath, writeFileAsJson } from '@pkg/datalayer/datafs'
 import { getPokedexes } from '@pkg/datalayer/repositories/pokedexes'
-import { PokedexEntry, pokedexSchema } from '@pkg/datalayer/schemas/pokedexes'
+import { pokedexSchema, type PokedexEntry } from '@pkg/datalayer/schemas/pokedexes'
 
 export async function updatePokedexAction(
   dexId: string,

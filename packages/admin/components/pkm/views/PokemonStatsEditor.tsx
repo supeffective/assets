@@ -4,7 +4,7 @@ import { getColors } from '@pkg/datalayer/repositories/colors'
 import { getGameSets } from '@pkg/datalayer/repositories/gamesets'
 import { getRegions } from '@pkg/datalayer/repositories/regions'
 import { getTypes } from '@pkg/datalayer/repositories/types'
-import { Pokemon } from '@pkg/datalayer/schemas/pokemon'
+import type { Pokemon } from '@pkg/datalayer/schemas/pokemon'
 
 import { Field } from '@/components/primitives/boxes/Field'
 import { Input } from '@/components/primitives/controls/Input'

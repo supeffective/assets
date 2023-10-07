@@ -2,7 +2,7 @@
 
 import React from 'react'
 
-import { Game } from '@pkg/datalayer/schemas/games'
+import type { Game } from '@pkg/datalayer/schemas/games'
 
 import { GameGrid } from '@/components/pkm/GameGrid'
 import {

@@ -2,7 +2,7 @@ import path from 'node:path'
 
 import { getFilesByExtension, parseJsonFile, pathExists } from '@pkg/utils'
 
-import { CmdParams, SpriteIndexItem } from '../types'
+import type { CmdParams, SpriteIndexItem } from '../types'
 
 const filesToSpriteIndex = function (files: string[], ext: string): SpriteIndexItem[] {
   return files.map(f => ({

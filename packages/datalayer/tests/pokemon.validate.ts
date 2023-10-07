@@ -1,11 +1,11 @@
 import fs from 'node:fs'
 import path from 'node:path'
 
-import { SafeParseReturnType, z } from 'zod'
+import { z, type SafeParseReturnType } from 'zod'
 
 import pokemonList from '@pkg/assets/data/pokemon.json'
 
-import { Pokemon, pokemonSchema } from '../schemas/pokemon'
+import { pokemonSchema, type Pokemon } from '../schemas/pokemon'
 
 const listSchema = z.array(pokemonSchema)
 const baseImageDir = path.resolve(path.join(__dirname, '../../../assets/images/pokemon'))

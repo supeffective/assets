@@ -3,8 +3,8 @@
 import { useEffect, useState, useTransition } from 'react'
 
 import { getAllPokemon, getManyPokemon } from '@pkg/datalayer/repositories/pokemon'
-import { Pokedex, PokedexEntry } from '@pkg/datalayer/schemas/pokedexes'
-import { Pokemon } from '@pkg/datalayer/schemas/pokemon'
+import type { Pokedex, PokedexEntry } from '@pkg/datalayer/schemas/pokedexes'
+import type { Pokemon } from '@pkg/datalayer/schemas/pokemon'
 
 import { updatePokedexAction } from '@/actions/updatePokedexActions'
 import { PokeGrid } from '@/components/pkm/PokeGrid'

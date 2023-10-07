@@ -3,14 +3,14 @@ import { z } from 'zod'
 import _records from '@pkg/assets/data/legacy/box-presets.json'
 
 import {
-  BoxPreset,
-  BoxPresetBoxPokemon,
-  BoxPresetMap,
   boxPresetMapSchema,
-  BoxPresetRecord,
+  type BoxPreset,
+  type BoxPresetBoxPokemon,
+  type BoxPresetMap,
+  type BoxPresetRecord,
 } from '../schemas/box-presets'
-import { GameSet } from '../schemas/gamesets'
-import { Pokemon } from '../schemas/pokemon'
+import type { GameSet } from '../schemas/gamesets'
+import type { Pokemon } from '../schemas/pokemon'
 
 const recordsMap = new Map(
   Object.entries(_records).map(([gameSet, presetsObject]) => {

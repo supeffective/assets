@@ -3,7 +3,7 @@
 import { useState } from 'react'
 
 import { getAllPokemon, getManyPokemon } from '@pkg/datalayer/repositories/pokemon'
-import { Pokemon } from '@pkg/datalayer/schemas/pokemon'
+import type { Pokemon } from '@pkg/datalayer/schemas/pokemon'
 
 import { PokeGrid } from '@/components/pkm/PokeGrid'
 import { Flex } from '@/components/primitives/boxes/Flex'

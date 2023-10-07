@@ -2,7 +2,7 @@
 
 import React from 'react'
 
-import { GameSet } from '@pkg/datalayer/schemas/gamesets'
+import type { GameSet } from '@pkg/datalayer/schemas/gamesets'
 
 import { GameSetGrid } from '@/components/pkm/GameSetGrid'
 import {

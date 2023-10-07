@@ -1,7 +1,7 @@
 import child_process, {
-  ExecSyncOptionsWithStringEncoding,
-  SpawnOptionsWithoutStdio,
   spawnSync,
+  type ExecSyncOptionsWithStringEncoding,
+  type SpawnOptionsWithoutStdio,
 } from 'node:child_process'
 
 import { assureServerSide } from '../env'

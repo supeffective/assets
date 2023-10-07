@@ -5,7 +5,7 @@ import { getItemByShowdownNameOrFail } from '../../repositories/items'
 import { getMoveByShowdownNameOrFail } from '../../repositories/moves'
 import { getAllPokemon, getPokemonByShowdownNameOrFail } from '../../repositories/pokemon'
 import { updateManyPokemon } from '../../repositories/server-side/pokemon'
-import { Pokemon } from '../../schemas/pokemon'
+import type { Pokemon } from '../../schemas/pokemon'
 
 export const importShowdownPokemon = function (): void {
   const allPokemon = getAllPokemon()

@@ -2,7 +2,7 @@
 
 import React from 'react'
 
-import { Pokemon } from '@pkg/datalayer/schemas/pokemon'
+import type { Pokemon } from '@pkg/datalayer/schemas/pokemon'
 import { cn } from '@pkg/utils/lib/styling/classNames'
 
 import { PokeGrid } from '@/components/pkm/PokeGrid'

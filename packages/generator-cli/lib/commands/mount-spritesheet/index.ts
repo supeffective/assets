@@ -1,6 +1,6 @@
 import path from 'node:path'
 
-import { Command } from 'commander'
+import type { Command } from 'commander'
 
 import { generateMD5 } from '@pkg/utils'
 
@@ -10,7 +10,7 @@ import { mountSpritesheetImage } from './tasks/mountSpritesheetImage'
 import { optimizeSpritesheet } from './tasks/optimizeSpritesheet'
 import { resizeImages } from './tasks/resizeImages'
 import { resolveSpriteIndex } from './tasks/resolveSpriteIndex'
-import { CmdOpts, CmdParams } from './types'
+import type { CmdOpts, CmdParams } from './types'
 
 const resolveParams = function (
   srcDir: string,

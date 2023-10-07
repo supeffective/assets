@@ -1,16 +1,16 @@
 'use client'
 
-import { HTMLProps, useEffect, useRef, useState } from 'react'
+import { useEffect, useRef, useState, type HTMLProps } from 'react'
 
 import { PlusIcon, TrashIcon } from 'lucide-react'
 
 import { createPlaceholderPokemon, isPlaceholderPokemon } from '@pkg/datalayer/repositories/pokemon'
-import { Pokemon } from '@pkg/datalayer/schemas/pokemon'
+import type { Pokemon } from '@pkg/datalayer/schemas/pokemon'
 import { cn } from '@pkg/utils/lib/styling/classNames'
 
 import { PokeSelector } from '@/components/pkm/PokeSelector'
 import { Flex } from '@/components/primitives/boxes/Flex'
-import { Grid, GridProps } from '@/components/primitives/boxes/Grid'
+import { Grid, type GridProps } from '@/components/primitives/boxes/Grid'
 import { Button } from '@/components/primitives/controls/Button'
 import { Input } from '@/components/primitives/controls/Input'
 import { useDebounce } from '@/hooks/useDebounce'

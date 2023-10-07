@@ -1,4 +1,4 @@
-import React, { HTMLProps } from 'react'
+import React, { type HTMLProps } from 'react'
 
 type FieldProps = { label: React.ReactNode } & HTMLProps<HTMLLabelElement>
 

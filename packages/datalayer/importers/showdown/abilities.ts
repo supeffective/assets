@@ -2,7 +2,7 @@ import { Dex } from '@pkmn/dex'
 import { z } from 'zod'
 
 import { getDataPath, writeFileAsJson } from '../../datafs'
-import { Ability, abilitySchema } from '../../schemas/abilities'
+import { abilitySchema, type Ability } from '../../schemas/abilities'
 
 export const importShowdownAbilities = function (): void {
   const outFile = getDataPath('abilities.json')

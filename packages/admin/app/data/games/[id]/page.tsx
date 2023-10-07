@@ -8,7 +8,7 @@ import { getGameSet } from '@pkg/datalayer/repositories/gamesets'
 import GameSetEditor from '@/components/pkm/views/GameSetEditor'
 import { Title } from '@/components/primitives/typography/Title'
 import { Routes } from '@/lib/Routes'
-import { PageProps } from '@/lib/types'
+import type { PageProps } from '@/lib/types'
 
 export default function Page({ params: { id } }: PageProps) {
   const record = getGameSet(id)

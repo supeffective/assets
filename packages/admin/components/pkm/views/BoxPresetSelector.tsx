@@ -1,6 +1,6 @@
 'use client'
 
-import { ChangeEvent, useEffect, useState } from 'react'
+import { useEffect, useState, type ChangeEvent } from 'react'
 import { useRouter } from 'next/navigation'
 
 import { getBoxPresetsByGameSet } from '@pkg/datalayer/repositories/box-presets'

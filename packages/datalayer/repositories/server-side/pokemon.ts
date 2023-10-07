@@ -2,14 +2,19 @@ import { parseFormData } from '@pkg/utils/lib/serialization/forms'
 import { softMerge } from '@pkg/utils/lib/serialization/merge'
 
 import { getDataPath, writeFileAsJson } from '../../datafs'
-import { CompactPokemon, LegacyPokemon, Pokemon, pokemonSchema } from '../../schemas/pokemon'
+import {
+  pokemonSchema,
+  type CompactPokemon,
+  type LegacyPokemon,
+  type Pokemon,
+} from '../../schemas/pokemon'
 import {
   getAllPokemonMappedById,
   getPokemon,
   getPokemonOrFail,
-  PokemonMap,
-  UpdatePokemon,
   validatePokemon,
+  type PokemonMap,
+  type UpdatePokemon,
 } from '../pokemon'
 
 export function updateManyPokemon(batch: UpdatePokemon[]): PokemonMap {

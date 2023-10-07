@@ -3,7 +3,7 @@
 import { getGameSets } from '@pkg/datalayer/repositories/gamesets'
 import { getAllPokemon } from '@pkg/datalayer/repositories/pokemon'
 import { updateManyPokemon } from '@pkg/datalayer/repositories/server-side/pokemon'
-import { Pokemon } from '@pkg/datalayer/schemas/pokemon'
+import type { Pokemon } from '@pkg/datalayer/schemas/pokemon'
 
 const allPokes = getAllPokemon()
 const allGameSets = getGameSets()

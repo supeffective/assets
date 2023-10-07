@@ -1,6 +1,6 @@
 'use client'
 
-import { Pokemon } from '@pkg/datalayer/schemas/pokemon'
+import type { Pokemon } from '@pkg/datalayer/schemas/pokemon'
 
 import { Field } from '@/components/primitives/boxes/Field'
 import { Button } from '@/components/primitives/controls/Button'

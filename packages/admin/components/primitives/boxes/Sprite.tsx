@@ -1,6 +1,6 @@
-import { HTMLProps } from 'react'
+import type { HTMLProps } from 'react'
 
-import { PokeImgProps } from '@/components/pkm/PokeSprite'
+import type { PokeImgProps } from '@/components/pkm/PokeSprite'
 
 export function SpriteBox({
   size,

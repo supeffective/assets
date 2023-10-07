@@ -3,7 +3,7 @@ import path from 'node:path'
 
 import { assurePath, pathExists, pathWithoutExtension, runCommand } from '@pkg/utils'
 
-import { CmdParams } from '../types'
+import type { CmdParams } from '../types'
 
 const WEBP_QUALITY = 75
 

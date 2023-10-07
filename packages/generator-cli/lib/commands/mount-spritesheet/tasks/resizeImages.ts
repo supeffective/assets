@@ -3,7 +3,7 @@ import path from 'node:path'
 
 import { pathExists, runCommand } from '@pkg/utils'
 
-import { CmdParams } from '../types'
+import type { CmdParams } from '../types'
 
 export const resizeImages = async function (params: CmdParams): Promise<void> {
   const resizedProofFile = path.join(params.tmpDir, 'resized.log')

@@ -1,12 +1,12 @@
 'use client'
 
-import { HTMLProps, useTransition } from 'react'
+import { useTransition, type HTMLProps } from 'react'
 import Image from 'next/image'
 
 import { cn } from '@pkg/utils/lib/styling/classNames'
 
 import { uploadImageAction } from '@/actions/uploadImageActions'
-import { ImageContents, ImageUploader } from '@/components/primitives/controls/ImageUploader'
+import { ImageUploader, type ImageContents } from '@/components/primitives/controls/ImageUploader'
 import { ASSETS_URL } from '@/lib/constants'
 
 export type PokeImgFileProps = {

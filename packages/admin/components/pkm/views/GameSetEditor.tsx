@@ -7,10 +7,10 @@ import {
   getAllPokemon,
   getExclusivePokemonForGame,
   getPokemonForGameSet,
-  PokemonForGameSet,
+  type PokemonForGameSet,
 } from '@pkg/datalayer/repositories/pokemon'
-import { GameSet } from '@pkg/datalayer/schemas/gamesets'
-import { Pokemon } from '@pkg/datalayer/schemas/pokemon'
+import type { GameSet } from '@pkg/datalayer/schemas/gamesets'
+import type { Pokemon } from '@pkg/datalayer/schemas/pokemon'
 
 import { updatePokemonOnGameSetAction } from '@/actions/updateManyPokemonActions'
 import { GameIconImgFile as RecordImgFile } from '@/components/pkm/GameIconImgFile'

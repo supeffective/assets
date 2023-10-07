@@ -3,7 +3,7 @@
 import { getDataPath, writeFileAsJson } from '@pkg/datalayer/datafs'
 import { getBoxPresetsAsRecords, unflattenBoxes } from '@pkg/datalayer/repositories/box-presets'
 import { getGameSet } from '@pkg/datalayer/repositories/gamesets'
-import { BoxPresetBox, boxPresetSchema } from '@pkg/datalayer/schemas/box-presets'
+import { boxPresetSchema, type BoxPresetBox } from '@pkg/datalayer/schemas/box-presets'
 
 export async function updateBoxPresetAction(
   gameSetId: string,

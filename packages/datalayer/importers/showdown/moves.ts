@@ -2,7 +2,7 @@ import { Dex } from '@pkmn/dex'
 import { z } from 'zod'
 
 import { getDataPath, writeFileAsJson } from '../../datafs'
-import { Move, moveSchema } from '../../schemas/moves'
+import { moveSchema, type Move } from '../../schemas/moves'
 
 export const importShowdownMoves = function (): void {
   const outFile = getDataPath('moves.json')

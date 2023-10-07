@@ -3,7 +3,7 @@ import path from 'node:path'
 
 import { runCommandSync } from '@pkg/utils'
 
-import { CmdParams, SpriteIndexItem } from '../types'
+import type { CmdParams, SpriteIndexItem } from '../types'
 
 type GridCell = {
   classNames: string[]

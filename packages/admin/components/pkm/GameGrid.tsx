@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react'
 
 import { PlusIcon, TrashIcon } from 'lucide-react'
 
-import { Game } from '@pkg/datalayer/schemas/games'
+import type { Game } from '@pkg/datalayer/schemas/games'
 import { cn } from '@pkg/utils/lib/styling/classNames'
 
 import { GameIconImgFile } from '@/components/pkm/GameIconImgFile'

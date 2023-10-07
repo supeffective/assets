@@ -1,6 +1,6 @@
 'use client'
 
-import { Pokemon } from '@pkg/datalayer/schemas/pokemon'
+import type { Pokemon } from '@pkg/datalayer/schemas/pokemon'
 
 import { PokeImgFile } from '@/components/pkm/PokeImgFile'
 import { PokeSprite } from '@/components/pkm/PokeSprite'

@@ -1,6 +1,6 @@
 import _records from '@pkg/assets/data/pokedexes.json'
 
-import { Pokedex } from '../schemas/pokedexes'
+import type { Pokedex } from '../schemas/pokedexes'
 
 export function getPokedexes(): Pokedex[] {
   return _records as Pokedex[]

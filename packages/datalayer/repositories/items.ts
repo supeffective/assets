@@ -1,6 +1,6 @@
 import _records from '@pkg/assets/data/items.json'
 
-import { Item } from '../schemas/items'
+import type { Item } from '../schemas/items'
 
 export function getItems(): Item[] {
   return _records as Item[]

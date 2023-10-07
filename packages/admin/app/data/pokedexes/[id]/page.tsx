@@ -10,7 +10,7 @@ import GameSetEditor from '@/components/pkm/views/GameSetEditor'
 import PokedexEditor from '@/components/pkm/views/PokedexEditor'
 import { Title } from '@/components/primitives/typography/Title'
 import { Routes } from '@/lib/Routes'
-import { PageProps } from '@/lib/types'
+import type { PageProps } from '@/lib/types'
 
 export default function Page({ params: { id } }: PageProps) {
   const record = getPokedexById(id)

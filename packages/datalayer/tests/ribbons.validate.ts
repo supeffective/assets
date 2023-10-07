@@ -1,11 +1,11 @@
 import fs from 'node:fs'
 import path from 'node:path'
 
-import { SafeParseReturnType, z } from 'zod'
+import { z, type SafeParseReturnType } from 'zod'
 
 import recordList from '@pkg/assets/data/ribbons.json'
 
-import { Ribbon, ribbonSchema } from '../schemas/ribbons'
+import { ribbonSchema, type Ribbon } from '../schemas/ribbons'
 
 const listSchema = z.array(ribbonSchema)
 const baseImageDir = path.resolve(path.join(__dirname, '../../../assets/images/ribbons'))

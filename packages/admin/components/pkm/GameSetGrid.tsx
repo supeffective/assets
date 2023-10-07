@@ -6,7 +6,7 @@ import { PlusIcon, TrashIcon } from 'lucide-react'
 
 import { cn } from '@pkg/utils/lib/styling/classNames'
 
-import { GameSet } from '@/../datalayer/schemas/gamesets'
+import type { GameSet } from '@/../datalayer/schemas/gamesets'
 import { GameIconImgFile } from '@/components/pkm/GameIconImgFile'
 import { GameSetSelector } from '@/components/pkm/GameSetSelector'
 import { Flex } from '@/components/primitives/boxes/Flex'

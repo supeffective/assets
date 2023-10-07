@@ -4,7 +4,7 @@ import { useState } from 'react'
 
 import { Gamepad2Icon, ImageIcon, LanguagesIcon, Link2Icon } from 'lucide-react'
 
-import { Pokemon } from '@pkg/datalayer/schemas/pokemon'
+import type { Pokemon } from '@pkg/datalayer/schemas/pokemon'
 
 import { PokemonFormsEditor } from '@/components/pkm/views/PokemonFormsEditor'
 import { PokemonGameSetEditor } from '@/components/pkm/views/PokemonGameSetEditor'

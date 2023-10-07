@@ -2,7 +2,7 @@ import path from 'node:path'
 
 import { assurePath, pathExists, runCommand } from '@pkg/utils'
 
-import { CmdParams, SpriteIndexItem } from '../types'
+import type { CmdParams, SpriteIndexItem } from '../types'
 
 export const mountSpritesheetImage = async function (
   index: SpriteIndexItem[],

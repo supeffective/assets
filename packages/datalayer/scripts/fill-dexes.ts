@@ -4,7 +4,7 @@ import path from 'node:path'
 import { readFileAsJson, writeFileAsJson } from '../datafs'
 import { getPokedexes } from '../repositories/pokedexes'
 import { getAllPokemon } from '../repositories/pokemon'
-import { Pokedex, PokedexEntry } from '../schemas/pokedexes'
+import type { Pokedex, PokedexEntry } from '../schemas/pokedexes'
 
 const pokemon = getAllPokemon()
 const pokemonMap = new Map(pokemon.map(p => [p.id, p]))

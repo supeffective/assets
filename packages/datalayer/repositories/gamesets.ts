@@ -1,6 +1,6 @@
 import _records from '@pkg/assets/data/gamesets.json'
 
-import { GameSet } from '../schemas/gamesets'
+import type { GameSet } from '../schemas/gamesets'
 
 export const SWITCH_GAMESET_IDS = ['lgpe', 'swsh', 'bdsp', 'la', 'sv']
 

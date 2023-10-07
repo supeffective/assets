@@ -1,7 +1,7 @@
 import _gameRecords from '@pkg/assets/data/games.json'
 import _gameSetRecords from '@pkg/assets/data/gamesets.json'
 
-import { Game, GameV2 } from '../schemas/games'
+import type { Game, GameV2 } from '../schemas/games'
 
 const _records: Game[] = _gameSetRecords.flatMap(({ id: gameSetId, games }) => {
   return Object.entries(games).map(([id, game]) => ({

@@ -1,6 +1,6 @@
 'use client'
 
-import React, { HTMLProps, ReactNode, useEffect, useState } from 'react'
+import React, { useEffect, useState, type HTMLProps, type ReactNode } from 'react'
 
 import { cn } from '@pkg/utils/lib/styling/classNames'
 

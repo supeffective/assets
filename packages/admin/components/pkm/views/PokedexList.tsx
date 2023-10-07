@@ -1,6 +1,6 @@
 import Link from 'next/link'
 
-import { Pokedex } from '@pkg/datalayer/schemas/pokedexes'
+import type { Pokedex } from '@pkg/datalayer/schemas/pokedexes'
 
 import { Grid } from '@/components/primitives/boxes/Grid'
 import { Routes } from '@/lib/Routes'

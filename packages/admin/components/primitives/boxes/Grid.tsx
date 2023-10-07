@@ -1,4 +1,4 @@
-import React, { HTMLProps } from 'react'
+import React, { type HTMLProps } from 'react'
 
 import { cn } from '@pkg/utils/lib/styling/classNames'
 

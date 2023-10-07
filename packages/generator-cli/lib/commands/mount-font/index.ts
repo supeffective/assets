@@ -1,6 +1,6 @@
 import path from 'node:path'
 
-import { Command } from 'commander'
+import type { Command } from 'commander'
 import svgtofont from 'svgtofont'
 
 interface CmdArgs {

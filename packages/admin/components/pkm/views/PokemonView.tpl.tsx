@@ -3,7 +3,7 @@
 import { useState } from 'react'
 
 import { getAllPokemon } from '@pkg/datalayer/repositories/pokemon'
-import { Pokemon } from '@pkg/datalayer/schemas/pokemon'
+import type { Pokemon } from '@pkg/datalayer/schemas/pokemon'
 
 export function PokemonStatsEditor({
   pkm: pokemon,

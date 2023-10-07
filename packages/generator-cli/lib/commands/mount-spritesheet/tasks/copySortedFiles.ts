@@ -3,7 +3,7 @@ import path from 'node:path'
 
 import { assurePath, pathExists } from '@pkg/utils'
 
-import { CmdParams, SpriteIndexItem } from '../types'
+import type { CmdParams, SpriteIndexItem } from '../types'
 
 export const copySortedFiles = async function (
   index: SpriteIndexItem[],

@@ -4,9 +4,9 @@ import { useState } from 'react'
 
 import { getGames, getManyGames } from '@pkg/datalayer/repositories/games'
 import { getGameSets, getManyGameSets } from '@pkg/datalayer/repositories/gamesets'
-import { Game } from '@pkg/datalayer/schemas/games'
-import { GameSet } from '@pkg/datalayer/schemas/gamesets'
-import { Pokemon } from '@pkg/datalayer/schemas/pokemon'
+import type { Game } from '@pkg/datalayer/schemas/games'
+import type { GameSet } from '@pkg/datalayer/schemas/gamesets'
+import type { Pokemon } from '@pkg/datalayer/schemas/pokemon'
 
 import { GameGrid } from '@/components/pkm/GameGrid'
 import { GameSetGrid } from '@/components/pkm/GameSetGrid'

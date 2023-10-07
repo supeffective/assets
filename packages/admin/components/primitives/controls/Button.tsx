@@ -1,5 +1,5 @@
-import { HTMLProps } from 'react'
-import Link, { LinkProps } from 'next/link'
+import type { HTMLProps } from 'react'
+import Link, { type LinkProps } from 'next/link'
 
 import { cn } from '@pkg/utils/lib/styling/classNames'
 
