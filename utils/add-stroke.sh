@@ -14,7 +14,7 @@ if ! command -v mogrify &> /dev/null; then
   exit 1
 fi
 
-echo "Adding a stroke around: '${SRC_FILE}'"
+# echo "Adding a stroke around: '${SRC_FILE}'"
 
 # Check if the input file exists
 if [ ! -f "$SRC_FILE" ]; then
