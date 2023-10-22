@@ -57,10 +57,9 @@ glyphs:
 # 	pnpm format
 #------------------ //
 
-images: optimize-images
-optimize: optimize-images
-optimize-images:
-	./utils/optimize-pokemon-pngs.sh
+images: convert-sprites
+convert-sprites:
+	./utils/convert-sprites.sh
 
 .PHONY: build data packages images
 $(V).SILENT:
