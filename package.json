@@ -4,14 +4,14 @@
   "private": true,
   "scripts": {
     "convert-sprites": "./utils/convert-sprites.sh",
-    "dev": "open http://localhost:3999/assets/images/pokeball.png && pnpm -r --parallel dev",
+    "dev": "pnpm start",
     "format": "pnpm prettier-fix && pnpm format-package-json",
     "format-package-json": "sort-package-json package.json assets-server/package.json",
-    "postinstall": "pnpm lint-staged || echo 'postinstall failed'",
+    "postinstall": "pnpm format-package-json",
     "prettier-check": "prettier --check .",
     "prettier-fix": "prettier --write .",
     "quality-checks": "pnpm prettier-check && pnpm type-check",
-    "start": "pnpm dev",
+    "start": "open http://localhost:3999/assets/images/pokeball.png && pnpm -r start",
     "type-check": "pnpm -r type-check"
   },
   "lint-staged": {
@@ -23,7 +23,7 @@
     ]
   },
   "devDependencies": {
-    "@types/node": "^20.8.7",
+    "@types/node": "^20.8.10",
     "lint-staged": "^15.0.2",
     "prettier": "^3.0.3",
     "sort-package-json": "^2.6.0",
