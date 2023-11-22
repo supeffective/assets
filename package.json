@@ -3,6 +3,7 @@
   "version": "5.0.0",
   "private": true,
   "scripts": {
+    "build": "echo 'Nothing to build'",
     "convert-sprites": "./utils/convert-sprites.sh",
     "dev": "pnpm start",
     "dev:server": "bun scripts/server.ts",
