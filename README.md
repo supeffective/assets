@@ -6,7 +6,7 @@ Some assets are sourced for preservation and archive purposes, but most of them 
 
 ## Data Assets
 
-The static JSON data (mons, moves, games, etc.) is hosted in https://github.com/itsjavi/supereffective-sdk
+The static JSON data (mons, moves, games, etc.) is hosted in https://github.com/supeffective/dataset
 
 ## Media Assets
 

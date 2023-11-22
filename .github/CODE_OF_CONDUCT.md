@@ -46,7 +46,7 @@ via an official social media account, or acting as an appointed representative a
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible
-for enforcement via private message on Twitter to @itsjavidev.
+for enforcement via private message on Twitter/X to @itsjavidotcom.
 
 All complaints will be reviewed and investigated promptly and fairly.
 

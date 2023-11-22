@@ -5,7 +5,7 @@ import bodyParser from 'body-parser'
 import cors from 'cors'
 import express, { type Express, type Request, type Response } from 'express'
 
-const projectRoot = path.resolve(process.cwd(), '..')
+const projectRoot = process.cwd()
 
 const config = {
   port: process.env.PORT ?? '3999',
@@ -38,5 +38,6 @@ app.use('/assets', express.static(assetsPath))
 // TODO add CRUD endpoints for the data, refactoring admin and datalayer accordingly
 
 app.listen(port, () => {
+  console.log(`⚡️[assets-server]: Assets path is ${assetsPath}`)
   console.log(`⚡️[assets-server]: Server is running at http://localhost:${port}`)
 })
