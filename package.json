@@ -12,7 +12,8 @@
     "postinstall": "pnpm format:package-json",
     "prettier-check": "prettier --check .",
     "prettier-fix": "prettier --write .",
-    "quality-checks": "pnpm prettier-check && pnpm type-check",
+    "qa": "pnpm prettier-check && pnpm type-check && pnpm build",
+    "qa:nobuild": "pnpm prettier-check && pnpm type-check",
     "start": "open http://localhost:3999/assets/images/pokeball.png && pnpm dev:server",
     "type-check": "tsc --noEmit --skipLibCheck"
   },
