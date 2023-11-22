@@ -96,5 +96,7 @@ _old/
 _prev/
 
 # assets
-images/**/*.html
+assets/images/**/*.html
+assets/fonts/**/*.html
 *.zip
+*.tar.gz
