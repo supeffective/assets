@@ -1,0 +1,110 @@
+@font-face {
+  font-family: 'Pokemon DP';
+  src: url('Pokemon-DP.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Pokemon DP';
+  src: url('Pokemon-DP-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: 'Pokemon Emerald';
+  src: url('Pokemon-Em.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Pokemon Emerald Narrow';
+  src: url('Pokemon-Em-Narrow.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Pokemon Emerald Small';
+  src: url('Pokemon-Em-Small.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Pokemon FRLG';
+  src: url('Pokemon-FRLG.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Pokemon GB JP-HR';
+  src: url('Pokemon-GB-JP-HR.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Pokemon GB JP-KT';
+  src: url('Pokemon-GB-JP-KT.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Pokemon GB Alt';
+  src: url('Pokemon-GB-Alt.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Pokemon GB Modern';
+  src: url('Pokemon-GB-Modern.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Pokemon GB';
+  src: url('Pokemon-GB.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Pokemon RS International';
+  src: url('Pokemon-RS-Intl.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Pokemon RS';
+  src: url('Pokemon-RS.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Pokemon Unown';
+  src: url('Pokemon-Unown.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
