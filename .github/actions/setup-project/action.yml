@@ -1,7 +1,7 @@
-name: "Setup project"
-description: "Sets up project and its dependencies"
+name: 'Setup project'
+description: 'Sets up project and its dependencies'
 runs:
-  using: "composite"
+  using: 'composite'
   steps:
     # Setup Bun, PNPM and Node
     - uses: oven-sh/setup-bun@v1
@@ -15,8 +15,8 @@ runs:
       with:
         node-version: ${{ env.NODE_VERSION }}
         # registry-url: https://npm.pkg.github.com
-        cache: "pnpm"
-        cache-dependency-path: "./pnpm-lock.yaml"
+        cache: 'pnpm'
+        cache-dependency-path: './pnpm-lock.yaml'
 
     - shell: bash
       run: |
