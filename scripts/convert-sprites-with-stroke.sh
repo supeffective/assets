@@ -37,12 +37,12 @@ for file in ${SRC_DIR}/*.png; do
   mogrify -format png -format png -resize "$FIT_SIZE>" -background transparent -gravity South -extent "$FIT_SIZE" "$_dest_file-temp.png" || exit 1
 
   # Add stroke to the resized image
-  ./utils/add-stroke.sh "$_dest_file-temp.png" "$_dest_file" || exit 1
+  ./scripts/add-stroke.sh "$_dest_file-temp.png" "$_dest_file" || exit 1
   sleep 1
 
   rm -f "$_dest_file-temp.png"
   
-  ./utils/optimize-png.sh "$_dest_file" || exit 1
+  ./scripts/optimize-png.sh "$_dest_file" || exit 1
 done
 
 echo " > DONE."

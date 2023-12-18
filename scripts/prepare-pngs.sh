@@ -38,7 +38,7 @@ for file in ${SRC_DIR}/*.png; do
 
   mogrify -format png -format png -resize "$FIT_SIZE>" -background transparent -gravity South -extent "$FIT_SIZE" "$_dest_file" || exit 1
   
-  ./utils/optimize-png.sh "$_dest_file" || exit 1
+  ./scripts/optimize-png.sh "$_dest_file" || exit 1
 done
 
 echo " > DONE."

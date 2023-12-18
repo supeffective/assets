@@ -15,7 +15,7 @@ for VARIANT_DIR in "${VARIANT_DIRS[@]}"; do
   LINE_WIDTH=8
   PADDING=10
 
-  ./utils/striked-silouetthe.sh "$SRC_DIR" "$DEST_DIR" "$FILL_COLOR" "$LINE_COLOR" "$LINE_WIDTH" "$PADDING"
+  ./scripts/striked-silouetthe.sh "$SRC_DIR" "$DEST_DIR" "$FILL_COLOR" "$LINE_COLOR" "$LINE_WIDTH" "$PADDING"
 done
 
 for VARIANT_DIR in "${VARIANT_DIRS_THIN[@]}"; do
@@ -24,5 +24,5 @@ for VARIANT_DIR in "${VARIANT_DIRS_THIN[@]}"; do
   LINE_WIDTH=2
   PADDING=2
 
-  ./utils/striked-silouetthe.sh "$SRC_DIR" "$DEST_DIR" "$FILL_COLOR" "$LINE_COLOR" "$LINE_WIDTH" "$PADDING"
+  ./scripts/striked-silouetthe.sh "$SRC_DIR" "$DEST_DIR" "$FILL_COLOR" "$LINE_COLOR" "$LINE_WIDTH" "$PADDING"
 done

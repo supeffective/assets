@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "build": "echo 'Nothing to build'",
-    "convert-sprites": "./utils/convert-sprites.sh",
+    "convert-sprites": "./scripts/convert-sprites.sh",
     "dev": "pnpm start",
     "dev:server": "bun scripts/server.ts",
     "format": "pnpm prettier-fix && pnpm format:package-json",
