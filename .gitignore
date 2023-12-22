@@ -100,3 +100,4 @@ assets/images/**/*.html
 assets/fonts/**/*.html
 *.zip
 *.tar.gz
+*.min.json

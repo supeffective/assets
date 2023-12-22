@@ -1,0 +1,2738 @@
+[
+  {
+    "id": "wiseglasses",
+    "path": "items/gen9-style/wiseglasses.png"
+  },
+  {
+    "id": "kingsrock",
+    "path": "items/gen9-style/kingsrock.png"
+  },
+  {
+    "id": "healthmochi",
+    "path": "items/gen9-style/healthmochi.png"
+  },
+  {
+    "id": "inremarkableteacup",
+    "path": "items/gen9-style/inremarkableteacup.png"
+  },
+  {
+    "id": "clawfossil",
+    "path": "items/gen9-style/clawfossil.png"
+  },
+  {
+    "id": "yellowapricorn",
+    "path": "items/gen9-style/yellowapricorn.png"
+  },
+  {
+    "id": "dracoplate",
+    "path": "items/gen9-style/dracoplate.png"
+  },
+  {
+    "id": "adamantorb",
+    "path": "items/gen9-style/adamantorb.png"
+  },
+  {
+    "id": "twistedspoon",
+    "path": "items/gen9-style/twistedspoon.png"
+  },
+  {
+    "id": "sitrusberry",
+    "path": "items/gen9-style/sitrusberry.png"
+  },
+  {
+    "id": "keeberry",
+    "path": "items/gen9-style/keeberry.png"
+  },
+  {
+    "id": "metronome",
+    "path": "items/gen9-style/metronome.png"
+  },
+  {
+    "id": "swampertite",
+    "path": "items/gen9-style/swampertite.png"
+  },
+  {
+    "id": "latiosite",
+    "path": "items/gen9-style/latiosite.png"
+  },
+  {
+    "id": "dreamball",
+    "path": "items/gen9-style/dreamball.png"
+  },
+  {
+    "id": "elixir",
+    "path": "items/gen9-style/elixir.png"
+  },
+  {
+    "id": "netball",
+    "path": "items/gen9-style/netball.png"
+  },
+  {
+    "id": "blackapricorn",
+    "path": "items/gen9-style/blackapricorn.png"
+  },
+  {
+    "id": "xdefense",
+    "path": "items/gen9-style/xdefense.png"
+  },
+  {
+    "id": "gengarite",
+    "path": "items/gen9-style/gengarite.png"
+  },
+  {
+    "id": "masterball",
+    "path": "items/gen9-style/masterball.png"
+  },
+  {
+    "id": "berry",
+    "path": "items/gen9-style/berry.png"
+  },
+  {
+    "id": "unknown-red",
+    "path": "items/gen9-style/unknown-red.png"
+  },
+  {
+    "id": "airballoon",
+    "path": "items/gen9-style/airballoon.png"
+  },
+  {
+    "id": "rustedsword",
+    "path": "items/gen9-style/rustedsword.png"
+  },
+  {
+    "id": "fossilizeddrake",
+    "path": "items/gen9-style/fossilizeddrake.png"
+  },
+  {
+    "id": "luminousmoss",
+    "path": "items/gen9-style/luminousmoss.png"
+  },
+  {
+    "id": "friendball",
+    "path": "items/gen9-style/friendball.png"
+  },
+  {
+    "id": "deepseascale",
+    "path": "items/gen9-style/deepseascale.png"
+  },
+  {
+    "id": "buginiumz",
+    "path": "items/gen9-style/buginiumz.png"
+  },
+  {
+    "id": "roseliberry",
+    "path": "items/gen9-style/roseliberry.png"
+  },
+  {
+    "id": "fullrestore",
+    "path": "items/gen9-style/fullrestore.png"
+  },
+  {
+    "id": "firestone",
+    "path": "items/gen9-style/firestone.png"
+  },
+  {
+    "id": "pinapberry",
+    "path": "items/gen9-style/pinapberry.png"
+  },
+  {
+    "id": "persimberry",
+    "path": "items/gen9-style/persimberry.png"
+  },
+  {
+    "id": "dreadplate",
+    "path": "items/gen9-style/dreadplate.png"
+  },
+  {
+    "id": "timerball",
+    "path": "items/gen9-style/timerball.png"
+  },
+  {
+    "id": "pikashuniumz",
+    "path": "items/gen9-style/pikashuniumz.png"
+  },
+  {
+    "id": "duskstone",
+    "path": "items/gen9-style/duskstone.png"
+  },
+  {
+    "id": "eviolite",
+    "path": "items/gen9-style/eviolite.png"
+  },
+  {
+    "id": "electricseed",
+    "path": "items/gen9-style/electricseed.png"
+  },
+  {
+    "id": "redorb",
+    "path": "items/gen9-style/redorb.png"
+  },
+  {
+    "id": "firememory",
+    "path": "items/gen9-style/firememory.png"
+  },
+  {
+    "id": "lucarionite",
+    "path": "items/gen9-style/lucarionite.png"
+  },
+  {
+    "id": "whiteherb",
+    "path": "items/gen9-style/whiteherb.png"
+  },
+  {
+    "id": "powerbelt",
+    "path": "items/gen9-style/powerbelt.png"
+  },
+  {
+    "id": "adrenalineorb",
+    "path": "items/gen9-style/adrenalineorb.png"
+  },
+  {
+    "id": "fastball",
+    "path": "items/gen9-style/fastball.png"
+  },
+  {
+    "id": "watergem",
+    "path": "items/gen9-style/watergem.png"
+  },
+  {
+    "id": "wepearberry",
+    "path": "items/gen9-style/wepearberry.png"
+  },
+  {
+    "id": "carbos",
+    "path": "items/gen9-style/carbos.png"
+  },
+  {
+    "id": "metalpowder",
+    "path": "items/gen9-style/metalpowder.png"
+  },
+  {
+    "id": "terrainextender",
+    "path": "items/gen9-style/terrainextender.png"
+  },
+  {
+    "id": "punchingglove",
+    "path": "items/gen9-style/punchingglove.png"
+  },
+  {
+    "id": "fairiumz",
+    "path": "items/gen9-style/fairiumz.png"
+  },
+  {
+    "id": "blastoisinite",
+    "path": "items/gen9-style/blastoisinite.png"
+  },
+  {
+    "id": "nevermeltice",
+    "path": "items/gen9-style/nevermeltice.png"
+  },
+  {
+    "id": "icestone",
+    "path": "items/gen9-style/icestone.png"
+  },
+  {
+    "id": "goldbottlecap",
+    "path": "items/gen9-style/goldbottlecap.png"
+  },
+  {
+    "id": "maliciousarmor",
+    "path": "items/gen9-style/maliciousarmor.png"
+  },
+  {
+    "id": "electriumz",
+    "path": "items/gen9-style/electriumz.png"
+  },
+  {
+    "id": "abilityshield",
+    "path": "items/gen9-style/abilityshield.png"
+  },
+  {
+    "id": "sceptilite",
+    "path": "items/gen9-style/sceptilite.png"
+  },
+  {
+    "id": "aguavberry",
+    "path": "items/gen9-style/aguavberry.png"
+  },
+  {
+    "id": "bigroot",
+    "path": "items/gen9-style/bigroot.png"
+  },
+  {
+    "id": "eeviumz",
+    "path": "items/gen9-style/eeviumz.png"
+  },
+  {
+    "id": "choiceband",
+    "path": "items/gen9-style/choiceband.png"
+  },
+  {
+    "id": "premierball",
+    "path": "items/gen9-style/premierball.png"
+  },
+  {
+    "id": "burntberry",
+    "path": "items/gen9-style/burntberry.png"
+  },
+  {
+    "id": "dawnstone",
+    "path": "items/gen9-style/dawnstone.png"
+  },
+  {
+    "id": "flameorb",
+    "path": "items/gen9-style/flameorb.png"
+  },
+  {
+    "id": "covertcloak",
+    "path": "items/gen9-style/covertcloak.png"
+  },
+  {
+    "id": "lopunnite",
+    "path": "items/gen9-style/lopunnite.png"
+  },
+  {
+    "id": "razorclaw",
+    "path": "items/gen9-style/razorclaw.png"
+  },
+  {
+    "id": "starsweet",
+    "path": "items/gen9-style/starsweet.png"
+  },
+  {
+    "id": "chartiberry",
+    "path": "items/gen9-style/chartiberry.png"
+  },
+  {
+    "id": "resistfeather",
+    "path": "items/gen9-style/resistfeather.png"
+  },
+  {
+    "id": "redapricorn",
+    "path": "items/gen9-style/redapricorn.png"
+  },
+  {
+    "id": "rabutaberry",
+    "path": "items/gen9-style/rabutaberry.png"
+  },
+  {
+    "id": "spelltag",
+    "path": "items/gen9-style/spelltag.png"
+  },
+  {
+    "id": "pinsirite",
+    "path": "items/gen9-style/pinsirite.png"
+  },
+  {
+    "id": "electricmemory",
+    "path": "items/gen9-style/electricmemory.png"
+  },
+  {
+    "id": "bigpearl",
+    "path": "items/gen9-style/bigpearl.png"
+  },
+  {
+    "id": "steelgem",
+    "path": "items/gen9-style/steelgem.png"
+  },
+  {
+    "id": "charcoal",
+    "path": "items/gen9-style/charcoal.png"
+  },
+  {
+    "id": "grassgem",
+    "path": "items/gen9-style/grassgem.png"
+  },
+  {
+    "id": "quickpowder",
+    "path": "items/gen9-style/quickpowder.png"
+  },
+  {
+    "id": "roomservice",
+    "path": "items/gen9-style/roomservice.png"
+  },
+  {
+    "id": "bitterberry",
+    "path": "items/gen9-style/bitterberry.png"
+  },
+  {
+    "id": "blackbelt",
+    "path": "items/gen9-style/blackbelt.png"
+  },
+  {
+    "id": "iapapaberry",
+    "path": "items/gen9-style/iapapaberry.png"
+  },
+  {
+    "id": "steelmemory",
+    "path": "items/gen9-style/steelmemory.png"
+  },
+  {
+    "id": "lemonade",
+    "path": "items/gen9-style/lemonade.png"
+  },
+  {
+    "id": "kasibberry",
+    "path": "items/gen9-style/kasibberry.png"
+  },
+  {
+    "id": "pikaniumz",
+    "path": "items/gen9-style/pikaniumz.png"
+  },
+  {
+    "id": "powerbracer",
+    "path": "items/gen9-style/powerbracer.png"
+  },
+  {
+    "id": "paralyzeheal",
+    "path": "items/gen9-style/paralyzeheal.png"
+  },
+  {
+    "id": "medichamite",
+    "path": "items/gen9-style/medichamite.png"
+  },
+  {
+    "id": "pinknectar",
+    "path": "items/gen9-style/pinknectar.png"
+  },
+  {
+    "id": "electricgem",
+    "path": "items/gen9-style/electricgem.png"
+  },
+  {
+    "id": "babiriberry",
+    "path": "items/gen9-style/babiriberry.png"
+  },
+  {
+    "id": "expcandys",
+    "path": "items/gen9-style/expcandys.png"
+  },
+  {
+    "id": "icegem",
+    "path": "items/gen9-style/icegem.png"
+  },
+  {
+    "id": "goldberry",
+    "path": "items/gen9-style/goldberry.png"
+  },
+  {
+    "id": "leftovers",
+    "path": "items/gen9-style/leftovers.png"
+  },
+  {
+    "id": "ether",
+    "path": "items/gen9-style/ether.png"
+  },
+  {
+    "id": "laggingtail",
+    "path": "items/gen9-style/laggingtail.png"
+  },
+  {
+    "id": "xspdef",
+    "path": "items/gen9-style/xspdef.png"
+  },
+  {
+    "id": "grassmemory",
+    "path": "items/gen9-style/grassmemory.png"
+  },
+  {
+    "id": "galaricacuff",
+    "path": "items/gen9-style/galaricacuff.png"
+  },
+  {
+    "id": "roseincense",
+    "path": "items/gen9-style/roseincense.png"
+  },
+  {
+    "id": "xspatk",
+    "path": "items/gen9-style/xspatk.png"
+  },
+  {
+    "id": "bigbambooshoot",
+    "path": "items/gen9-style/bigbambooshoot.png"
+  },
+  {
+    "id": "lovesweet",
+    "path": "items/gen9-style/lovesweet.png"
+  },
+  {
+    "id": "ovalstone",
+    "path": "items/gen9-style/ovalstone.png"
+  },
+  {
+    "id": "iciumz",
+    "path": "items/gen9-style/iciumz.png"
+  },
+  {
+    "id": "tamatoberry",
+    "path": "items/gen9-style/tamatoberry.png"
+  },
+  {
+    "id": "groundmemory",
+    "path": "items/gen9-style/groundmemory.png"
+  },
+  {
+    "id": "powerherb",
+    "path": "items/gen9-style/powerherb.png"
+  },
+  {
+    "id": "iron",
+    "path": "items/gen9-style/iron.png"
+  },
+  {
+    "id": "rindoberry",
+    "path": "items/gen9-style/rindoberry.png"
+  },
+  {
+    "id": "lumberry",
+    "path": "items/gen9-style/lumberry.png"
+  },
+  {
+    "id": "mentalherb",
+    "path": "items/gen9-style/mentalherb.png"
+  },
+  {
+    "id": "heavydutyboots",
+    "path": "items/gen9-style/heavydutyboots.png"
+  },
+  {
+    "id": "normaliumz",
+    "path": "items/gen9-style/normaliumz.png"
+  },
+  {
+    "id": "moonball",
+    "path": "items/gen9-style/moonball.png"
+  },
+  {
+    "id": "sportball",
+    "path": "items/gen9-style/sportball.png"
+  },
+  {
+    "id": "galladite",
+    "path": "items/gen9-style/galladite.png"
+  },
+  {
+    "id": "shucaberry",
+    "path": "items/gen9-style/shucaberry.png"
+  },
+  {
+    "id": "bottlecap",
+    "path": "items/gen9-style/bottlecap.png"
+  },
+  {
+    "id": "mindplate",
+    "path": "items/gen9-style/mindplate.png"
+  },
+  {
+    "id": "mawilite",
+    "path": "items/gen9-style/mawilite.png"
+  },
+  {
+    "id": "mysticwater",
+    "path": "items/gen9-style/mysticwater.png"
+  },
+  {
+    "id": "repel",
+    "path": "items/gen9-style/repel.png"
+  },
+  {
+    "id": "abilitycapsule",
+    "path": "items/gen9-style/abilitycapsule.png"
+  },
+  {
+    "id": "powerweight",
+    "path": "items/gen9-style/powerweight.png"
+  },
+  {
+    "id": "normalgem",
+    "path": "items/gen9-style/normalgem.png"
+  },
+  {
+    "id": "dousedrive",
+    "path": "items/gen9-style/dousedrive.png"
+  },
+  {
+    "id": "burnheal",
+    "path": "items/gen9-style/burnheal.png"
+  },
+  {
+    "id": "habanberry",
+    "path": "items/gen9-style/habanberry.png"
+  },
+  {
+    "id": "absolite",
+    "path": "items/gen9-style/absolite.png"
+  },
+  {
+    "id": "heracronite",
+    "path": "items/gen9-style/heracronite.png"
+  },
+  {
+    "id": "syrupyapple",
+    "path": "items/gen9-style/syrupyapple.png"
+  },
+  {
+    "id": "zinc",
+    "path": "items/gen9-style/zinc.png"
+  },
+  {
+    "id": "splashplate",
+    "path": "items/gen9-style/splashplate.png"
+  },
+  {
+    "id": "ringtarget",
+    "path": "items/gen9-style/ringtarget.png"
+  },
+  {
+    "id": "stoneplate",
+    "path": "items/gen9-style/stoneplate.png"
+  },
+  {
+    "id": "destinyknot",
+    "path": "items/gen9-style/destinyknot.png"
+  },
+  {
+    "id": "ovalcharm",
+    "path": "items/gen9-style/ovalcharm.png"
+  },
+  {
+    "id": "toxicplate",
+    "path": "items/gen9-style/toxicplate.png"
+  },
+  {
+    "id": "laxincense",
+    "path": "items/gen9-style/laxincense.png"
+  },
+  {
+    "id": "dragongem",
+    "path": "items/gen9-style/dragongem.png"
+  },
+  {
+    "id": "ganlonberry",
+    "path": "items/gen9-style/ganlonberry.png"
+  },
+  {
+    "id": "slowbronite",
+    "path": "items/gen9-style/slowbronite.png"
+  },
+  {
+    "id": "thickclub",
+    "path": "items/gen9-style/thickclub.png"
+  },
+  {
+    "id": "leafstone",
+    "path": "items/gen9-style/leafstone.png"
+  },
+  {
+    "id": "chippedpot",
+    "path": "items/gen9-style/chippedpot.png"
+  },
+  {
+    "id": "poweranklet",
+    "path": "items/gen9-style/poweranklet.png"
+  },
+  {
+    "id": "griseouscore",
+    "path": "items/gen9-style/griseouscore.png"
+  },
+  {
+    "id": "smokeball",
+    "path": "items/gen9-style/smokeball.png"
+  },
+  {
+    "id": "altarianite",
+    "path": "items/gen9-style/altarianite.png"
+  },
+  {
+    "id": "lustrousglobe",
+    "path": "items/gen9-style/lustrousglobe.png"
+  },
+  {
+    "id": "shellbell",
+    "path": "items/gen9-style/shellbell.png"
+  },
+  {
+    "id": "pinkbow",
+    "path": "items/gen9-style/pinkbow.png"
+  },
+  {
+    "id": "dragoniumz",
+    "path": "items/gen9-style/dragoniumz.png"
+  },
+  {
+    "id": "darkiniumz",
+    "path": "items/gen9-style/darkiniumz.png"
+  },
+  {
+    "id": "awakening",
+    "path": "items/gen9-style/awakening.png"
+  },
+  {
+    "id": "inciniumz",
+    "path": "items/gen9-style/inciniumz.png"
+  },
+  {
+    "id": "ribbonsweet",
+    "path": "items/gen9-style/ribbonsweet.png"
+  },
+  {
+    "id": "cheriberry",
+    "path": "items/gen9-style/cheriberry.png"
+  },
+  {
+    "id": "escaperope",
+    "path": "items/gen9-style/escaperope.png"
+  },
+  {
+    "id": "clearamulet",
+    "path": "items/gen9-style/clearamulet.png"
+  },
+  {
+    "id": "psychicmemory",
+    "path": "items/gen9-style/psychicmemory.png"
+  },
+  {
+    "id": "pearl",
+    "path": "items/gen9-style/pearl.png"
+  },
+  {
+    "id": "tartapple",
+    "path": "items/gen9-style/tartapple.png"
+  },
+  {
+    "id": "mistyseed",
+    "path": "items/gen9-style/mistyseed.png"
+  },
+  {
+    "id": "sodapop",
+    "path": "items/gen9-style/sodapop.png"
+  },
+  {
+    "id": "waveincense",
+    "path": "items/gen9-style/waveincense.png"
+  },
+  {
+    "id": "razzberry",
+    "path": "items/gen9-style/razzberry.png"
+  },
+  {
+    "id": "healpowder",
+    "path": "items/gen9-style/healpowder.png"
+  },
+  {
+    "id": "kebiaberry",
+    "path": "items/gen9-style/kebiaberry.png"
+  },
+  {
+    "id": "mysteryberry",
+    "path": "items/gen9-style/mysteryberry.png"
+  },
+  {
+    "id": "cleverfeather",
+    "path": "items/gen9-style/cleverfeather.png"
+  },
+  {
+    "id": "tinymushroom",
+    "path": "items/gen9-style/tinymushroom.png"
+  },
+  {
+    "id": "lansatberry",
+    "path": "items/gen9-style/lansatberry.png"
+  },
+  {
+    "id": "leek",
+    "path": "items/gen9-style/leek.png"
+  },
+  {
+    "id": "banettite",
+    "path": "items/gen9-style/banettite.png"
+  },
+  {
+    "id": "wateriumz",
+    "path": "items/gen9-style/wateriumz.png"
+  },
+  {
+    "id": "shinystone",
+    "path": "items/gen9-style/shinystone.png"
+  },
+  {
+    "id": "heatrock",
+    "path": "items/gen9-style/heatrock.png"
+  },
+  {
+    "id": "alakazite",
+    "path": "items/gen9-style/alakazite.png"
+  },
+  {
+    "id": "strawberrysweet",
+    "path": "items/gen9-style/strawberrysweet.png"
+  },
+  {
+    "id": "swiftmochi",
+    "path": "items/gen9-style/swiftmochi.png"
+  },
+  {
+    "id": "cameruptite",
+    "path": "items/gen9-style/cameruptite.png"
+  },
+  {
+    "id": "mewniumz",
+    "path": "items/gen9-style/mewniumz.png"
+  },
+  {
+    "id": "jawfossil",
+    "path": "items/gen9-style/jawfossil.png"
+  },
+  {
+    "id": "rockiumz",
+    "path": "items/gen9-style/rockiumz.png"
+  },
+  {
+    "id": "balmmushroom",
+    "path": "items/gen9-style/balmmushroom.png"
+  },
+  {
+    "id": "ghostmemory",
+    "path": "items/gen9-style/ghostmemory.png"
+  },
+  {
+    "id": "fossilizedfish",
+    "path": "items/gen9-style/fossilizedfish.png"
+  },
+  {
+    "id": "lightclay",
+    "path": "items/gen9-style/lightclay.png"
+  },
+  {
+    "id": "focusband",
+    "path": "items/gen9-style/focusband.png"
+  },
+  {
+    "id": "calcium",
+    "path": "items/gen9-style/calcium.png"
+  },
+  {
+    "id": "duskball",
+    "path": "items/gen9-style/duskball.png"
+  },
+  {
+    "id": "lightball",
+    "path": "items/gen9-style/lightball.png"
+  },
+  {
+    "id": "luckypunch",
+    "path": "items/gen9-style/luckypunch.png"
+  },
+  {
+    "id": "groundiumz",
+    "path": "items/gen9-style/groundiumz.png"
+  },
+  {
+    "id": "quickball",
+    "path": "items/gen9-style/quickball.png"
+  },
+  {
+    "id": "decidiumz",
+    "path": "items/gen9-style/decidiumz.png"
+  },
+  {
+    "id": "prettyfeather",
+    "path": "items/gen9-style/prettyfeather.png"
+  },
+  {
+    "id": "rarebone",
+    "path": "items/gen9-style/rarebone.png"
+  },
+  {
+    "id": "aloraichiumz",
+    "path": "items/gen9-style/aloraichiumz.png"
+  },
+  {
+    "id": "rarecandy",
+    "path": "items/gen9-style/rarecandy.png"
+  },
+  {
+    "id": "chestoberry",
+    "path": "items/gen9-style/chestoberry.png"
+  },
+  {
+    "id": "expcandyxl",
+    "path": "items/gen9-style/expcandyxl.png"
+  },
+  {
+    "id": "dubiousdisc",
+    "path": "items/gen9-style/dubiousdisc.png"
+  },
+  {
+    "id": "gripclaw",
+    "path": "items/gen9-style/gripclaw.png"
+  },
+  {
+    "id": "scopelens",
+    "path": "items/gen9-style/scopelens.png"
+  },
+  {
+    "id": "buggem",
+    "path": "items/gen9-style/buggem.png"
+  },
+  {
+    "id": "sunstone",
+    "path": "items/gen9-style/sunstone.png"
+  },
+  {
+    "id": "protectivepads",
+    "path": "items/gen9-style/protectivepads.png"
+  },
+  {
+    "id": "jabocaberry",
+    "path": "items/gen9-style/jabocaberry.png"
+  },
+  {
+    "id": "magmarizer",
+    "path": "items/gen9-style/magmarizer.png"
+  },
+  {
+    "id": "skullfossil",
+    "path": "items/gen9-style/skullfossil.png"
+  },
+  {
+    "id": "blankplate",
+    "path": "items/gen9-style/blankplate.png"
+  },
+  {
+    "id": "ironball",
+    "path": "items/gen9-style/ironball.png"
+  },
+  {
+    "id": "waterstone",
+    "path": "items/gen9-style/waterstone.png"
+  },
+  {
+    "id": "lycaniumz",
+    "path": "items/gen9-style/lycaniumz.png"
+  },
+  {
+    "id": "dragonscale",
+    "path": "items/gen9-style/dragonscale.png"
+  },
+  {
+    "id": "spookyplate",
+    "path": "items/gen9-style/spookyplate.png"
+  },
+  {
+    "id": "chilldrive",
+    "path": "items/gen9-style/chilldrive.png"
+  },
+  {
+    "id": "geniusmochi",
+    "path": "items/gen9-style/geniusmochi.png"
+  },
+  {
+    "id": "armorfossil",
+    "path": "items/gen9-style/armorfossil.png"
+  },
+  {
+    "id": "petayaberry",
+    "path": "items/gen9-style/petayaberry.png"
+  },
+  {
+    "id": "bignugget",
+    "path": "items/gen9-style/bignugget.png"
+  },
+  {
+    "id": "iceberry",
+    "path": "items/gen9-style/iceberry.png"
+  },
+  {
+    "id": "ultranecroziumz",
+    "path": "items/gen9-style/ultranecroziumz.png"
+  },
+  {
+    "id": "blacksludge",
+    "path": "items/gen9-style/blacksludge.png"
+  },
+  {
+    "id": "oranberry",
+    "path": "items/gen9-style/oranberry.png"
+  },
+  {
+    "id": "redcard",
+    "path": "items/gen9-style/redcard.png"
+  },
+  {
+    "id": "ppmax",
+    "path": "items/gen9-style/ppmax.png"
+  },
+  {
+    "id": "xspeed",
+    "path": "items/gen9-style/xspeed.png"
+  },
+  {
+    "id": "stickybarb",
+    "path": "items/gen9-style/stickybarb.png"
+  },
+  {
+    "id": "blukberry",
+    "path": "items/gen9-style/blukberry.png"
+  },
+  {
+    "id": "firiumz",
+    "path": "items/gen9-style/firiumz.png"
+  },
+  {
+    "id": "starpiece",
+    "path": "items/gen9-style/starpiece.png"
+  },
+  {
+    "id": "hondewberry",
+    "path": "items/gen9-style/hondewberry.png"
+  },
+  {
+    "id": "miracleseed",
+    "path": "items/gen9-style/miracleseed.png"
+  },
+  {
+    "id": "salacberry",
+    "path": "items/gen9-style/salacberry.png"
+  },
+  {
+    "id": "fairygem",
+    "path": "items/gen9-style/fairygem.png"
+  },
+  {
+    "id": "scizorite",
+    "path": "items/gen9-style/scizorite.png"
+  },
+  {
+    "id": "belueberry",
+    "path": "items/gen9-style/belueberry.png"
+  },
+  {
+    "id": "darkgem",
+    "path": "items/gen9-style/darkgem.png"
+  },
+  {
+    "id": "greenapricorn",
+    "path": "items/gen9-style/greenapricorn.png"
+  },
+  {
+    "id": "glalitite",
+    "path": "items/gen9-style/glalitite.png"
+  },
+  {
+    "id": "apicotberry",
+    "path": "items/gen9-style/apicotberry.png"
+  },
+  {
+    "id": "blackglasses",
+    "path": "items/gen9-style/blackglasses.png"
+  },
+  {
+    "id": "enigmaberry",
+    "path": "items/gen9-style/enigmaberry.png"
+  },
+  {
+    "id": "musclefeather",
+    "path": "items/gen9-style/musclefeather.png"
+  },
+  {
+    "id": "pechaberry",
+    "path": "items/gen9-style/pechaberry.png"
+  },
+  {
+    "id": "loadeddice",
+    "path": "items/gen9-style/loadeddice.png"
+  },
+  {
+    "id": "firegem",
+    "path": "items/gen9-style/firegem.png"
+  },
+  {
+    "id": "clevermochi",
+    "path": "items/gen9-style/clevermochi.png"
+  },
+  {
+    "id": "psychicgem",
+    "path": "items/gen9-style/psychicgem.png"
+  },
+  {
+    "id": "przcureberry",
+    "path": "items/gen9-style/przcureberry.png"
+  },
+  {
+    "id": "aggronite",
+    "path": "items/gen9-style/aggronite.png"
+  },
+  {
+    "id": "silverpowder",
+    "path": "items/gen9-style/silverpowder.png"
+  },
+  {
+    "id": "silkscarf",
+    "path": "items/gen9-style/silkscarf.png"
+  },
+  {
+    "id": "pokeball",
+    "path": "items/gen9-style/pokeball.png"
+  },
+  {
+    "id": "gardevoirite",
+    "path": "items/gen9-style/gardevoirite.png"
+  },
+  {
+    "id": "expertbelt",
+    "path": "items/gen9-style/expertbelt.png"
+  },
+  {
+    "id": "yellownectar",
+    "path": "items/gen9-style/yellownectar.png"
+  },
+  {
+    "id": "manectite",
+    "path": "items/gen9-style/manectite.png"
+  },
+  {
+    "id": "mewtwonitey",
+    "path": "items/gen9-style/mewtwonitey.png"
+  },
+  {
+    "id": "healthfeather",
+    "path": "items/gen9-style/healthfeather.png"
+  },
+  {
+    "id": "blueorb",
+    "path": "items/gen9-style/blueorb.png"
+  },
+  {
+    "id": "mewtwonitex",
+    "path": "items/gen9-style/mewtwonitex.png"
+  },
+  {
+    "id": "occaberry",
+    "path": "items/gen9-style/occaberry.png"
+  },
+  {
+    "id": "dragonfang",
+    "path": "items/gen9-style/dragonfang.png"
+  },
+  {
+    "id": "stardust",
+    "path": "items/gen9-style/stardust.png"
+  },
+  {
+    "id": "insectplate",
+    "path": "items/gen9-style/insectplate.png"
+  },
+  {
+    "id": "galaricatwig",
+    "path": "items/gen9-style/galaricatwig.png"
+  },
+  {
+    "id": "peatblock",
+    "path": "items/gen9-style/peatblock.png"
+  },
+  {
+    "id": "parkball",
+    "path": "items/gen9-style/parkball.png"
+  },
+  {
+    "id": "purplenectar",
+    "path": "items/gen9-style/purplenectar.png"
+  },
+  {
+    "id": "plumefossil",
+    "path": "items/gen9-style/plumefossil.png"
+  },
+  {
+    "id": "maxpotion",
+    "path": "items/gen9-style/maxpotion.png"
+  },
+  {
+    "id": "ghostiumz",
+    "path": "items/gen9-style/ghostiumz.png"
+  },
+  {
+    "id": "poisonbarb",
+    "path": "items/gen9-style/poisonbarb.png"
+  },
+  {
+    "id": "tapuniumz",
+    "path": "items/gen9-style/tapuniumz.png"
+  },
+  {
+    "id": "upgrade",
+    "path": "items/gen9-style/upgrade.png"
+  },
+  {
+    "id": "icicleplate",
+    "path": "items/gen9-style/icicleplate.png"
+  },
+  {
+    "id": "abilitypatch",
+    "path": "items/gen9-style/abilitypatch.png"
+  },
+  {
+    "id": "oddincense",
+    "path": "items/gen9-style/oddincense.png"
+  },
+  {
+    "id": "kangaskhanite",
+    "path": "items/gen9-style/kangaskhanite.png"
+  },
+  {
+    "id": "polkadotbow",
+    "path": "items/gen9-style/polkadotbow.png"
+  },
+  {
+    "id": "darkmemory",
+    "path": "items/gen9-style/darkmemory.png"
+  },
+  {
+    "id": "payapaberry",
+    "path": "items/gen9-style/payapaberry.png"
+  },
+  {
+    "id": "whippeddream",
+    "path": "items/gen9-style/whippeddream.png"
+  },
+  {
+    "id": "rawstberry",
+    "path": "items/gen9-style/rawstberry.png"
+  },
+  {
+    "id": "oddkeystone",
+    "path": "items/gen9-style/oddkeystone.png"
+  },
+  {
+    "id": "smoothrock",
+    "path": "items/gen9-style/smoothrock.png"
+  },
+  {
+    "id": "rockincense",
+    "path": "items/gen9-style/rockincense.png"
+  },
+  {
+    "id": "blazikenite",
+    "path": "items/gen9-style/blazikenite.png"
+  },
+  {
+    "id": "energypowder",
+    "path": "items/gen9-style/energypowder.png"
+  },
+  {
+    "id": "dragonmemory",
+    "path": "items/gen9-style/dragonmemory.png"
+  },
+  {
+    "id": "kelpsyberry",
+    "path": "items/gen9-style/kelpsyberry.png"
+  },
+  {
+    "id": "metalalloy",
+    "path": "items/gen9-style/metalalloy.png"
+  },
+  {
+    "id": "charizarditex",
+    "path": "items/gen9-style/charizarditex.png"
+  },
+  {
+    "id": "poisonmemory",
+    "path": "items/gen9-style/poisonmemory.png"
+  },
+  {
+    "id": "safetygoggles",
+    "path": "items/gen9-style/safetygoggles.png"
+  },
+  {
+    "id": "wacanberry",
+    "path": "items/gen9-style/wacanberry.png"
+  },
+  {
+    "id": "charizarditey",
+    "path": "items/gen9-style/charizarditey.png"
+  },
+  {
+    "id": "blackaugurite",
+    "path": "items/gen9-style/blackaugurite.png"
+  },
+  {
+    "id": "primariumz",
+    "path": "items/gen9-style/primariumz.png"
+  },
+  {
+    "id": "guardspec",
+    "path": "items/gen9-style/guardspec.png"
+  },
+  {
+    "id": "freshwater",
+    "path": "items/gen9-style/freshwater.png"
+  },
+  {
+    "id": "moomoomilk",
+    "path": "items/gen9-style/moomoomilk.png"
+  },
+  {
+    "id": "pinkapricorn",
+    "path": "items/gen9-style/pinkapricorn.png"
+  },
+  {
+    "id": "fairyfeather",
+    "path": "items/gen9-style/fairyfeather.png"
+  },
+  {
+    "id": "berryjuice",
+    "path": "items/gen9-style/berryjuice.png"
+  },
+  {
+    "id": "latiasite",
+    "path": "items/gen9-style/latiasite.png"
+  },
+  {
+    "id": "passhoberry",
+    "path": "items/gen9-style/passhoberry.png"
+  },
+  {
+    "id": "blueapricorn",
+    "path": "items/gen9-style/blueapricorn.png"
+  },
+  {
+    "id": "tyranitarite",
+    "path": "items/gen9-style/tyranitarite.png"
+  },
+  {
+    "id": "razorfang",
+    "path": "items/gen9-style/razorfang.png"
+  },
+  {
+    "id": "iceheal",
+    "path": "items/gen9-style/iceheal.png"
+  },
+  {
+    "id": "oldamber",
+    "path": "items/gen9-style/oldamber.png"
+  },
+  {
+    "id": "lumiosegalette",
+    "path": "items/gen9-style/lumiosegalette.png"
+  },
+  {
+    "id": "thunderstone",
+    "path": "items/gen9-style/thunderstone.png"
+  },
+  {
+    "id": "greatball",
+    "path": "items/gen9-style/greatball.png"
+  },
+  {
+    "id": "energyroot",
+    "path": "items/gen9-style/energyroot.png"
+  },
+  {
+    "id": "nestball",
+    "path": "items/gen9-style/nestball.png"
+  },
+  {
+    "id": "mimikiumz",
+    "path": "items/gen9-style/mimikiumz.png"
+  },
+  {
+    "id": "magoberry",
+    "path": "items/gen9-style/magoberry.png"
+  },
+  {
+    "id": "rockmemory",
+    "path": "items/gen9-style/rockmemory.png"
+  },
+  {
+    "id": "throatspray",
+    "path": "items/gen9-style/throatspray.png"
+  },
+  {
+    "id": "ppup",
+    "path": "items/gen9-style/ppup.png"
+  },
+  {
+    "id": "snowball",
+    "path": "items/gen9-style/snowball.png"
+  },
+  {
+    "id": "stick",
+    "path": "items/gen9-style/stick.png"
+  },
+  {
+    "id": "magostberry",
+    "path": "items/gen9-style/magostberry.png"
+  },
+  {
+    "id": "masterpieceteacup",
+    "path": "items/gen9-style/masterpieceteacup.png"
+  },
+  {
+    "id": "superrepel",
+    "path": "items/gen9-style/superrepel.png"
+  },
+  {
+    "id": "crackedpot",
+    "path": "items/gen9-style/crackedpot.png"
+  },
+  {
+    "id": "pomegberry",
+    "path": "items/gen9-style/pomegberry.png"
+  },
+  {
+    "id": "luxuryball",
+    "path": "items/gen9-style/luxuryball.png"
+  },
+  {
+    "id": "unremarkableteacup",
+    "path": "items/gen9-style/unremarkableteacup.png"
+  },
+  {
+    "id": "expcandyxs",
+    "path": "items/gen9-style/expcandyxs.png"
+  },
+  {
+    "id": "yacheberry",
+    "path": "items/gen9-style/yacheberry.png"
+  },
+  {
+    "id": "hpup",
+    "path": "items/gen9-style/hpup.png"
+  },
+  {
+    "id": "aspearberry",
+    "path": "items/gen9-style/aspearberry.png"
+  },
+  {
+    "id": "floatstone",
+    "path": "items/gen9-style/floatstone.png"
+  },
+  {
+    "id": "grepaberry",
+    "path": "items/gen9-style/grepaberry.png"
+  },
+  {
+    "id": "hyperpotion",
+    "path": "items/gen9-style/hyperpotion.png"
+  },
+  {
+    "id": "miracleberry",
+    "path": "items/gen9-style/miracleberry.png"
+  },
+  {
+    "id": "lunaliumz",
+    "path": "items/gen9-style/lunaliumz.png"
+  },
+  {
+    "id": "watermemory",
+    "path": "items/gen9-style/watermemory.png"
+  },
+  {
+    "id": "whiteapricorn",
+    "path": "items/gen9-style/whiteapricorn.png"
+  },
+  {
+    "id": "geniusfeather",
+    "path": "items/gen9-style/geniusfeather.png"
+  },
+  {
+    "id": "flameplate",
+    "path": "items/gen9-style/flameplate.png"
+  },
+  {
+    "id": "muscleband",
+    "path": "items/gen9-style/muscleband.png"
+  },
+  {
+    "id": "flyingmemory",
+    "path": "items/gen9-style/flyingmemory.png"
+  },
+  {
+    "id": "rustedshield",
+    "path": "items/gen9-style/rustedshield.png"
+  },
+  {
+    "id": "protein",
+    "path": "items/gen9-style/protein.png"
+  },
+  {
+    "id": "icyrock",
+    "path": "items/gen9-style/icyrock.png"
+  },
+  {
+    "id": "qualotberry",
+    "path": "items/gen9-style/qualotberry.png"
+  },
+  {
+    "id": "heavyball",
+    "path": "items/gen9-style/heavyball.png"
+  },
+  {
+    "id": "bindingband",
+    "path": "items/gen9-style/bindingband.png"
+  },
+  {
+    "id": "grassiumz",
+    "path": "items/gen9-style/grassiumz.png"
+  },
+  {
+    "id": "skyplate",
+    "path": "items/gen9-style/skyplate.png"
+  },
+  {
+    "id": "sablenite",
+    "path": "items/gen9-style/sablenite.png"
+  },
+  {
+    "id": "swiftfeather",
+    "path": "items/gen9-style/swiftfeather.png"
+  },
+  {
+    "id": "poisoniumz",
+    "path": "items/gen9-style/poisoniumz.png"
+  },
+  {
+    "id": "garchompite",
+    "path": "items/gen9-style/garchompite.png"
+  },
+  {
+    "id": "superpotion",
+    "path": "items/gen9-style/superpotion.png"
+  },
+  {
+    "id": "coverfossil",
+    "path": "items/gen9-style/coverfossil.png"
+  },
+  {
+    "id": "snorliumz",
+    "path": "items/gen9-style/snorliumz.png"
+  },
+  {
+    "id": "rockgem",
+    "path": "items/gen9-style/rockgem.png"
+  },
+  {
+    "id": "leaderscrest",
+    "path": "items/gen9-style/leaderscrest.png"
+  },
+  {
+    "id": "toxicorb",
+    "path": "items/gen9-style/toxicorb.png"
+  },
+  {
+    "id": "rednectar",
+    "path": "items/gen9-style/rednectar.png"
+  },
+  {
+    "id": "gyaradosite",
+    "path": "items/gen9-style/gyaradosite.png"
+  },
+  {
+    "id": "assaultvest",
+    "path": "items/gen9-style/assaultvest.png"
+  },
+  {
+    "id": "fullincense",
+    "path": "items/gen9-style/fullincense.png"
+  },
+  {
+    "id": "sachet",
+    "path": "items/gen9-style/sachet.png"
+  },
+  {
+    "id": "repeatball",
+    "path": "items/gen9-style/repeatball.png"
+  },
+  {
+    "id": "cobaberry",
+    "path": "items/gen9-style/cobaberry.png"
+  },
+  {
+    "id": "maxelixir",
+    "path": "items/gen9-style/maxelixir.png"
+  },
+  {
+    "id": "domefossil",
+    "path": "items/gen9-style/domefossil.png"
+  },
+  {
+    "id": "sharpedonite",
+    "path": "items/gen9-style/sharpedonite.png"
+  },
+  {
+    "id": "unknown",
+    "path": "items/gen9-style/unknown.png"
+  },
+  {
+    "id": "griseousorb",
+    "path": "items/gen9-style/griseousorb.png"
+  },
+  {
+    "id": "leppaberry",
+    "path": "items/gen9-style/leppaberry.png"
+  },
+  {
+    "id": "freshstartmochi",
+    "path": "items/gen9-style/freshstartmochi.png"
+  },
+  {
+    "id": "honey",
+    "path": "items/gen9-style/honey.png"
+  },
+  {
+    "id": "cherishball",
+    "path": "items/gen9-style/cherishball.png"
+  },
+  {
+    "id": "ejectpack",
+    "path": "items/gen9-style/ejectpack.png"
+  },
+  {
+    "id": "choicescarf",
+    "path": "items/gen9-style/choicescarf.png"
+  },
+  {
+    "id": "deepseatooth",
+    "path": "items/gen9-style/deepseatooth.png"
+  },
+  {
+    "id": "strangeball",
+    "path": "items/gen9-style/strangeball.png"
+  },
+  {
+    "id": "soothebell",
+    "path": "items/gen9-style/soothebell.png"
+  },
+  {
+    "id": "direhit",
+    "path": "items/gen9-style/direhit.png"
+  },
+  {
+    "id": "diveball",
+    "path": "items/gen9-style/diveball.png"
+  },
+  {
+    "id": "xaccuracy",
+    "path": "items/gen9-style/xaccuracy.png"
+  },
+  {
+    "id": "metalcoat",
+    "path": "items/gen9-style/metalcoat.png"
+  },
+  {
+    "id": "durinberry",
+    "path": "items/gen9-style/durinberry.png"
+  },
+  {
+    "id": "ghostgem",
+    "path": "items/gen9-style/ghostgem.png"
+  },
+  {
+    "id": "luckyegg",
+    "path": "items/gen9-style/luckyegg.png"
+  },
+  {
+    "id": "loveball",
+    "path": "items/gen9-style/loveball.png"
+  },
+  {
+    "id": "galaricawreath",
+    "path": "items/gen9-style/galaricawreath.png"
+  },
+  {
+    "id": "wikiberry",
+    "path": "items/gen9-style/wikiberry.png"
+  },
+  {
+    "id": "violetbook",
+    "path": "items/gen9-style/violetbook.png"
+  },
+  {
+    "id": "pureincense",
+    "path": "items/gen9-style/pureincense.png"
+  },
+  {
+    "id": "cornerstonemask",
+    "path": "items/gen9-style/cornerstonemask.png"
+  },
+  {
+    "id": "sweetapple",
+    "path": "items/gen9-style/sweetapple.png"
+  },
+  {
+    "id": "quickclaw",
+    "path": "items/gen9-style/quickclaw.png"
+  },
+  {
+    "id": "tangaberry",
+    "path": "items/gen9-style/tangaberry.png"
+  },
+  {
+    "id": "groundgem",
+    "path": "items/gen9-style/groundgem.png"
+  },
+  {
+    "id": "nomelberry",
+    "path": "items/gen9-style/nomelberry.png"
+  },
+  {
+    "id": "fightingmemory",
+    "path": "items/gen9-style/fightingmemory.png"
+  },
+  {
+    "id": "icememory",
+    "path": "items/gen9-style/icememory.png"
+  },
+  {
+    "id": "brightpowder",
+    "path": "items/gen9-style/brightpowder.png"
+  },
+  {
+    "id": "cloversweet",
+    "path": "items/gen9-style/cloversweet.png"
+  },
+  {
+    "id": "audinite",
+    "path": "items/gen9-style/audinite.png"
+  },
+  {
+    "id": "helixfossil",
+    "path": "items/gen9-style/helixfossil.png"
+  },
+  {
+    "id": "hearthflamemask",
+    "path": "items/gen9-style/hearthflamemask.png"
+  },
+  {
+    "id": "tinybambooshoot",
+    "path": "items/gen9-style/tinybambooshoot.png"
+  },
+  {
+    "id": "souldew",
+    "path": "items/gen9-style/souldew.png"
+  },
+  {
+    "id": "utilityumbrella",
+    "path": "items/gen9-style/utilityumbrella.png"
+  },
+  {
+    "id": "spelonberry",
+    "path": "items/gen9-style/spelonberry.png"
+  },
+  {
+    "id": "marangaberry",
+    "path": "items/gen9-style/marangaberry.png"
+  },
+  {
+    "id": "fightiniumz",
+    "path": "items/gen9-style/fightiniumz.png"
+  },
+  {
+    "id": "nugget",
+    "path": "items/gen9-style/nugget.png"
+  },
+  {
+    "id": "beastball",
+    "path": "items/gen9-style/beastball.png"
+  },
+  {
+    "id": "powerlens",
+    "path": "items/gen9-style/powerlens.png"
+  },
+  {
+    "id": "resistmochi",
+    "path": "items/gen9-style/resistmochi.png"
+  },
+  {
+    "id": "salamencite",
+    "path": "items/gen9-style/salamencite.png"
+  },
+  {
+    "id": "rockyhelmet",
+    "path": "items/gen9-style/rockyhelmet.png"
+  },
+  {
+    "id": "absorbbulb",
+    "path": "items/gen9-style/absorbbulb.png"
+  },
+  {
+    "id": "everstone",
+    "path": "items/gen9-style/everstone.png"
+  },
+  {
+    "id": "flyiniumz",
+    "path": "items/gen9-style/flyiniumz.png"
+  },
+  {
+    "id": "bigmushroom",
+    "path": "items/gen9-style/bigmushroom.png"
+  },
+  {
+    "id": "cellbattery",
+    "path": "items/gen9-style/cellbattery.png"
+  },
+  {
+    "id": "pamtreberry",
+    "path": "items/gen9-style/pamtreberry.png"
+  },
+  {
+    "id": "auspiciousarmor",
+    "path": "items/gen9-style/auspiciousarmor.png"
+  },
+  {
+    "id": "marshadiumz",
+    "path": "items/gen9-style/marshadiumz.png"
+  },
+  {
+    "id": "powerband",
+    "path": "items/gen9-style/powerband.png"
+  },
+  {
+    "id": "fossilizeddino",
+    "path": "items/gen9-style/fossilizeddino.png"
+  },
+  {
+    "id": "blunderpolicy",
+    "path": "items/gen9-style/blunderpolicy.png"
+  },
+  {
+    "id": "musclemochi",
+    "path": "items/gen9-style/musclemochi.png"
+  },
+  {
+    "id": "maxrepel",
+    "path": "items/gen9-style/maxrepel.png"
+  },
+  {
+    "id": "pidgeotite",
+    "path": "items/gen9-style/pidgeotite.png"
+  },
+  {
+    "id": "hardstone",
+    "path": "items/gen9-style/hardstone.png"
+  },
+  {
+    "id": "psychiumz",
+    "path": "items/gen9-style/psychiumz.png"
+  },
+  {
+    "id": "bugmemory",
+    "path": "items/gen9-style/bugmemory.png"
+  },
+  {
+    "id": "pokedoll",
+    "path": "items/gen9-style/pokedoll.png"
+  },
+  {
+    "id": "liechiberry",
+    "path": "items/gen9-style/liechiberry.png"
+  },
+  {
+    "id": "sharpbeak",
+    "path": "items/gen9-style/sharpbeak.png"
+  },
+  {
+    "id": "mirrorherb",
+    "path": "items/gen9-style/mirrorherb.png"
+  },
+  {
+    "id": "pearlstring",
+    "path": "items/gen9-style/pearlstring.png"
+  },
+  {
+    "id": "potion",
+    "path": "items/gen9-style/potion.png"
+  },
+  {
+    "id": "boosterenergy",
+    "path": "items/gen9-style/boosterenergy.png"
+  },
+  {
+    "id": "wellspringmask",
+    "path": "items/gen9-style/wellspringmask.png"
+  },
+  {
+    "id": "ironplate",
+    "path": "items/gen9-style/ironplate.png"
+  },
+  {
+    "id": "chilanberry",
+    "path": "items/gen9-style/chilanberry.png"
+  },
+  {
+    "id": "rowapberry",
+    "path": "items/gen9-style/rowapberry.png"
+  },
+  {
+    "id": "solganiumz",
+    "path": "items/gen9-style/solganiumz.png"
+  },
+  {
+    "id": "choicespecs",
+    "path": "items/gen9-style/choicespecs.png"
+  },
+  {
+    "id": "nanabberry",
+    "path": "items/gen9-style/nanabberry.png"
+  },
+  {
+    "id": "grassyseed",
+    "path": "items/gen9-style/grassyseed.png"
+  },
+  {
+    "id": "micleberry",
+    "path": "items/gen9-style/micleberry.png"
+  },
+  {
+    "id": "shaloursable",
+    "path": "items/gen9-style/shaloursable.png"
+  },
+  {
+    "id": "magnet",
+    "path": "items/gen9-style/magnet.png"
+  },
+  {
+    "id": "seaincense",
+    "path": "items/gen9-style/seaincense.png"
+  },
+  {
+    "id": "mail",
+    "path": "items/gen9-style/mail.png"
+  },
+  {
+    "id": "metagrossite",
+    "path": "items/gen9-style/metagrossite.png"
+  },
+  {
+    "id": "revive",
+    "path": "items/gen9-style/revive.png"
+  },
+  {
+    "id": "adamantcrystal",
+    "path": "items/gen9-style/adamantcrystal.png"
+  },
+  {
+    "id": "cometshard",
+    "path": "items/gen9-style/cometshard.png"
+  },
+  {
+    "id": "pixieplate",
+    "path": "items/gen9-style/pixieplate.png"
+  },
+  {
+    "id": "colburberry",
+    "path": "items/gen9-style/colburberry.png"
+  },
+  {
+    "id": "maxether",
+    "path": "items/gen9-style/maxether.png"
+  },
+  {
+    "id": "kommoniumz",
+    "path": "items/gen9-style/kommoniumz.png"
+  },
+  {
+    "id": "berrysweet",
+    "path": "items/gen9-style/berrysweet.png"
+  },
+  {
+    "id": "chopleberry",
+    "path": "items/gen9-style/chopleberry.png"
+  },
+  {
+    "id": "psncureberry",
+    "path": "items/gen9-style/psncureberry.png"
+  },
+  {
+    "id": "poisongem",
+    "path": "items/gen9-style/poisongem.png"
+  },
+  {
+    "id": "amuletcoin",
+    "path": "items/gen9-style/amuletcoin.png"
+  },
+  {
+    "id": "revivalherb",
+    "path": "items/gen9-style/revivalherb.png"
+  },
+  {
+    "id": "venusaurite",
+    "path": "items/gen9-style/venusaurite.png"
+  },
+  {
+    "id": "ejectbutton",
+    "path": "items/gen9-style/ejectbutton.png"
+  },
+  {
+    "id": "ampharosite",
+    "path": "items/gen9-style/ampharosite.png"
+  },
+  {
+    "id": "lifeorb",
+    "path": "items/gen9-style/lifeorb.png"
+  },
+  {
+    "id": "focussash",
+    "path": "items/gen9-style/focussash.png"
+  },
+  {
+    "id": "healball",
+    "path": "items/gen9-style/healball.png"
+  },
+  {
+    "id": "softsand",
+    "path": "items/gen9-style/softsand.png"
+  },
+  {
+    "id": "steeliumz",
+    "path": "items/gen9-style/steeliumz.png"
+  },
+  {
+    "id": "damprock",
+    "path": "items/gen9-style/damprock.png"
+  },
+  {
+    "id": "diancite",
+    "path": "items/gen9-style/diancite.png"
+  },
+  {
+    "id": "zoomlens",
+    "path": "items/gen9-style/zoomlens.png"
+  },
+  {
+    "id": "safariball",
+    "path": "items/gen9-style/safariball.png"
+  },
+  {
+    "id": "fistplate",
+    "path": "items/gen9-style/fistplate.png"
+  },
+  {
+    "id": "sailfossil",
+    "path": "items/gen9-style/sailfossil.png"
+  },
+  {
+    "id": "xattack",
+    "path": "items/gen9-style/xattack.png"
+  },
+  {
+    "id": "aerodactylite",
+    "path": "items/gen9-style/aerodactylite.png"
+  },
+  {
+    "id": "expcandyl",
+    "path": "items/gen9-style/expcandyl.png"
+  },
+  {
+    "id": "prismscale",
+    "path": "items/gen9-style/prismscale.png"
+  },
+  {
+    "id": "protector",
+    "path": "items/gen9-style/protector.png"
+  },
+  {
+    "id": "cornnberry",
+    "path": "items/gen9-style/cornnberry.png"
+  },
+  {
+    "id": "levelball",
+    "path": "items/gen9-style/levelball.png"
+  },
+  {
+    "id": "machobrace",
+    "path": "items/gen9-style/machobrace.png"
+  },
+  {
+    "id": "rootfossil",
+    "path": "items/gen9-style/rootfossil.png"
+  },
+  {
+    "id": "watmelberry",
+    "path": "items/gen9-style/watmelberry.png"
+  },
+  {
+    "id": "mintberry",
+    "path": "items/gen9-style/mintberry.png"
+  },
+  {
+    "id": "flyinggem",
+    "path": "items/gen9-style/flyinggem.png"
+  },
+  {
+    "id": "expcandym",
+    "path": "items/gen9-style/expcandym.png"
+  },
+  {
+    "id": "reapercloth",
+    "path": "items/gen9-style/reapercloth.png"
+  },
+  {
+    "id": "ultraball",
+    "path": "items/gen9-style/ultraball.png"
+  },
+  {
+    "id": "moonstone",
+    "path": "items/gen9-style/moonstone.png"
+  },
+  {
+    "id": "burndrive",
+    "path": "items/gen9-style/burndrive.png"
+  },
+  {
+    "id": "widelens",
+    "path": "items/gen9-style/widelens.png"
+  },
+  {
+    "id": "steelixite",
+    "path": "items/gen9-style/steelixite.png"
+  },
+  {
+    "id": "fightinggem",
+    "path": "items/gen9-style/fightinggem.png"
+  },
+  {
+    "id": "antidote",
+    "path": "items/gen9-style/antidote.png"
+  },
+  {
+    "id": "starfberry",
+    "path": "items/gen9-style/starfberry.png"
+  },
+  {
+    "id": "houndoominite",
+    "path": "items/gen9-style/houndoominite.png"
+  },
+  {
+    "id": "fossilizedbird",
+    "path": "items/gen9-style/fossilizedbird.png"
+  },
+  {
+    "id": "custapberry",
+    "path": "items/gen9-style/custapberry.png"
+  },
+  {
+    "id": "meadowplate",
+    "path": "items/gen9-style/meadowplate.png"
+  },
+  {
+    "id": "shockdrive",
+    "path": "items/gen9-style/shockdrive.png"
+  },
+  {
+    "id": "beedrillite",
+    "path": "items/gen9-style/beedrillite.png"
+  },
+  {
+    "id": "fullheal",
+    "path": "items/gen9-style/fullheal.png"
+  },
+  {
+    "id": "fairymemory",
+    "path": "items/gen9-style/fairymemory.png"
+  },
+  {
+    "id": "shedshell",
+    "path": "items/gen9-style/shedshell.png"
+  },
+  {
+    "id": "lureball",
+    "path": "items/gen9-style/lureball.png"
+  },
+  {
+    "id": "figyberry",
+    "path": "items/gen9-style/figyberry.png"
+  },
+  {
+    "id": "abomasite",
+    "path": "items/gen9-style/abomasite.png"
+  },
+  {
+    "id": "luckincense",
+    "path": "items/gen9-style/luckincense.png"
+  },
+  {
+    "id": "electirizer",
+    "path": "items/gen9-style/electirizer.png"
+  },
+  {
+    "id": "psychicseed",
+    "path": "items/gen9-style/psychicseed.png"
+  },
+  {
+    "id": "cleansetag",
+    "path": "items/gen9-style/cleansetag.png"
+  },
+  {
+    "id": "weaknesspolicy",
+    "path": "items/gen9-style/weaknesspolicy.png"
+  },
+  {
+    "id": "lustrousorb",
+    "path": "items/gen9-style/lustrousorb.png"
+  },
+  {
+    "id": "material",
+    "path": "items/gen9-style/material.png"
+  },
+  {
+    "id": "unknown-semi",
+    "path": "items/gen9-style/unknown-semi.png"
+  },
+  {
+    "id": "zapplate",
+    "path": "items/gen9-style/zapplate.png"
+  },
+  {
+    "id": "legendplate",
+    "path": "items/gen9-style/legendplate.png"
+  },
+  {
+    "id": "earthplate",
+    "path": "items/gen9-style/earthplate.png"
+  },
+  {
+    "id": "flowersweet",
+    "path": "items/gen9-style/flowersweet.png"
+  },
+  {
+    "id": "cherrytomatoes",
+    "path": "items/gen9-style/ingredient/cherrytomatoes.png"
+  },
+  {
+    "id": "picnic",
+    "path": "items/gen9-style/ingredient/picnic.png"
+  },
+  {
+    "id": "kiwi",
+    "path": "items/gen9-style/ingredient/kiwi.png"
+  },
+  {
+    "id": "ham",
+    "path": "items/gen9-style/ingredient/ham.png"
+  },
+  {
+    "id": "jam",
+    "path": "items/gen9-style/ingredient/jam.png"
+  },
+  {
+    "id": "noodles",
+    "path": "items/gen9-style/ingredient/noodles.png"
+  },
+  {
+    "id": "whippedcream",
+    "path": "items/gen9-style/ingredient/whippedcream.png"
+  },
+  {
+    "id": "peanutbutter",
+    "path": "items/gen9-style/ingredient/peanutbutter.png"
+  },
+  {
+    "id": "lettuce",
+    "path": "items/gen9-style/ingredient/lettuce.png"
+  },
+  {
+    "id": "egg",
+    "path": "items/gen9-style/ingredient/egg.png"
+  },
+  {
+    "id": "jalapeno",
+    "path": "items/gen9-style/ingredient/jalapeno.png"
+  },
+  {
+    "id": "mustard",
+    "path": "items/gen9-style/ingredient/mustard.png"
+  },
+  {
+    "id": "strawberry",
+    "path": "items/gen9-style/ingredient/strawberry.png"
+  },
+  {
+    "id": "herbedsausage",
+    "path": "items/gen9-style/ingredient/herbedsausage.png"
+  },
+  {
+    "id": "ketchup",
+    "path": "items/gen9-style/ingredient/ketchup.png"
+  },
+  {
+    "id": "sandwich",
+    "path": "items/gen9-style/ingredient/sandwich.png"
+  },
+  {
+    "id": "bacon",
+    "path": "items/gen9-style/ingredient/bacon.png"
+  },
+  {
+    "id": "banana",
+    "path": "items/gen9-style/ingredient/banana.png"
+  },
+  {
+    "id": "cucumber",
+    "path": "items/gen9-style/ingredient/cucumber.png"
+  },
+  {
+    "id": "wasabi",
+    "path": "items/gen9-style/ingredient/wasabi.png"
+  },
+  {
+    "id": "avocado",
+    "path": "items/gen9-style/ingredient/avocado.png"
+  },
+  {
+    "id": "mayonnaise",
+    "path": "items/gen9-style/ingredient/mayonnaise.png"
+  },
+  {
+    "id": "chilisauce",
+    "path": "items/gen9-style/ingredient/chilisauce.png"
+  },
+  {
+    "id": "rice",
+    "path": "items/gen9-style/ingredient/rice.png"
+  },
+  {
+    "id": "cheese",
+    "path": "items/gen9-style/ingredient/cheese.png"
+  },
+  {
+    "id": "marmalade",
+    "path": "items/gen9-style/ingredient/marmalade.png"
+  },
+  {
+    "id": "prosciutto",
+    "path": "items/gen9-style/ingredient/prosciutto.png"
+  },
+  {
+    "id": "creamcheese",
+    "path": "items/gen9-style/ingredient/creamcheese.png"
+  },
+  {
+    "id": "apple",
+    "path": "items/gen9-style/ingredient/apple.png"
+  },
+  {
+    "id": "sourherbamystica",
+    "path": "items/gen9-style/ingredient/sourherbamystica.png"
+  },
+  {
+    "id": "klawfstick",
+    "path": "items/gen9-style/ingredient/klawfstick.png"
+  },
+  {
+    "id": "saltyherbamystica",
+    "path": "items/gen9-style/ingredient/saltyherbamystica.png"
+  },
+  {
+    "id": "pepper",
+    "path": "items/gen9-style/ingredient/pepper.png"
+  },
+  {
+    "id": "oliveoil",
+    "path": "items/gen9-style/ingredient/oliveoil.png"
+  },
+  {
+    "id": "potatosalad",
+    "path": "items/gen9-style/ingredient/potatosalad.png"
+  },
+  {
+    "id": "tomato",
+    "path": "items/gen9-style/ingredient/tomato.png"
+  },
+  {
+    "id": "horseradish",
+    "path": "items/gen9-style/ingredient/horseradish.png"
+  },
+  {
+    "id": "greenbellpepper",
+    "path": "items/gen9-style/ingredient/greenbellpepper.png"
+  },
+  {
+    "id": "hamburger",
+    "path": "items/gen9-style/ingredient/hamburger.png"
+  },
+  {
+    "id": "butter",
+    "path": "items/gen9-style/ingredient/butter.png"
+  },
+  {
+    "id": "onion",
+    "path": "items/gen9-style/ingredient/onion.png"
+  },
+  {
+    "id": "chorizo",
+    "path": "items/gen9-style/ingredient/chorizo.png"
+  },
+  {
+    "id": "tofu",
+    "path": "items/gen9-style/ingredient/tofu.png"
+  },
+  {
+    "id": "watercress",
+    "path": "items/gen9-style/ingredient/watercress.png"
+  },
+  {
+    "id": "pineapple",
+    "path": "items/gen9-style/ingredient/pineapple.png"
+  },
+  {
+    "id": "bitterherbamystica",
+    "path": "items/gen9-style/ingredient/bitterherbamystica.png"
+  },
+  {
+    "id": "currypowder",
+    "path": "items/gen9-style/ingredient/currypowder.png"
+  },
+  {
+    "id": "yogurt",
+    "path": "items/gen9-style/ingredient/yogurt.png"
+  },
+  {
+    "id": "potatotortilla",
+    "path": "items/gen9-style/ingredient/potatotortilla.png"
+  },
+  {
+    "id": "yellowbellpepper",
+    "path": "items/gen9-style/ingredient/yellowbellpepper.png"
+  },
+  {
+    "id": "sweetherbamystica",
+    "path": "items/gen9-style/ingredient/sweetherbamystica.png"
+  },
+  {
+    "id": "salt",
+    "path": "items/gen9-style/ingredient/salt.png"
+  },
+  {
+    "id": "smokedfillet",
+    "path": "items/gen9-style/ingredient/smokedfillet.png"
+  },
+  {
+    "id": "spicyherbamystica",
+    "path": "items/gen9-style/ingredient/spicyherbamystica.png"
+  },
+  {
+    "id": "friedfillet",
+    "path": "items/gen9-style/ingredient/friedfillet.png"
+  },
+  {
+    "id": "vinegar",
+    "path": "items/gen9-style/ingredient/vinegar.png"
+  },
+  {
+    "id": "redonion",
+    "path": "items/gen9-style/ingredient/redonion.png"
+  },
+  {
+    "id": "pickle",
+    "path": "items/gen9-style/ingredient/pickle.png"
+  },
+  {
+    "id": "basil",
+    "path": "items/gen9-style/ingredient/basil.png"
+  },
+  {
+    "id": "redbellpepper",
+    "path": "items/gen9-style/ingredient/redbellpepper.png"
+  },
+  {
+    "id": "tm-bug",
+    "path": "items/gen9-style/tm/tm-bug.png"
+  },
+  {
+    "id": "tm-psychic",
+    "path": "items/gen9-style/tm/tm-psychic.png"
+  },
+  {
+    "id": "tm-dark",
+    "path": "items/gen9-style/tm/tm-dark.png"
+  },
+  {
+    "id": "tm-fire",
+    "path": "items/gen9-style/tm/tm-fire.png"
+  },
+  {
+    "id": "tm-dragon",
+    "path": "items/gen9-style/tm/tm-dragon.png"
+  },
+  {
+    "id": "tm-ghost",
+    "path": "items/gen9-style/tm/tm-ghost.png"
+  },
+  {
+    "id": "tm-rock",
+    "path": "items/gen9-style/tm/tm-rock.png"
+  },
+  {
+    "id": "tm-ice",
+    "path": "items/gen9-style/tm/tm-ice.png"
+  },
+  {
+    "id": "tm-fighting",
+    "path": "items/gen9-style/tm/tm-fighting.png"
+  },
+  {
+    "id": "tm-fairy",
+    "path": "items/gen9-style/tm/tm-fairy.png"
+  },
+  {
+    "id": "tm-water",
+    "path": "items/gen9-style/tm/tm-water.png"
+  },
+  {
+    "id": "tm-flying",
+    "path": "items/gen9-style/tm/tm-flying.png"
+  },
+  {
+    "id": "tm-poison",
+    "path": "items/gen9-style/tm/tm-poison.png"
+  },
+  {
+    "id": "tm-normal",
+    "path": "items/gen9-style/tm/tm-normal.png"
+  },
+  {
+    "id": "tm-grass",
+    "path": "items/gen9-style/tm/tm-grass.png"
+  },
+  {
+    "id": "tm-ground",
+    "path": "items/gen9-style/tm/tm-ground.png"
+  },
+  {
+    "id": "tm-steel",
+    "path": "items/gen9-style/tm/tm-steel.png"
+  },
+  {
+    "id": "tm-electric",
+    "path": "items/gen9-style/tm/tm-electric.png"
+  },
+  {
+    "id": "catchingcharm",
+    "path": "items/gen9-style/key/catchingcharm.png"
+  },
+  {
+    "id": "kofu_swallet",
+    "path": "items/gen9-style/key/kofu_swallet.png"
+  },
+  {
+    "id": "rotomphone",
+    "path": "items/gen9-style/key/rotomphone.png"
+  },
+  {
+    "id": "markcharm",
+    "path": "items/gen9-style/key/markcharm.png"
+  },
+  {
+    "id": "synchromachine",
+    "path": "items/gen9-style/key/synchromachine.png"
+  },
+  {
+    "id": "shinycharm",
+    "path": "items/gen9-style/key/shinycharm.png"
+  },
+  {
+    "id": "mythicalpechaberry",
+    "path": "items/gen9-style/key/mythicalpechaberry.png"
+  },
+  {
+    "id": "expcharm",
+    "path": "items/gen9-style/key/expcharm.png"
+  },
+  {
+    "id": "tealmask",
+    "path": "items/gen9-style/key/tealmask.png"
+  },
+  {
+    "id": "gracidea",
+    "path": "items/gen9-style/key/gracidea.png"
+  },
+  {
+    "id": "tealstylecard",
+    "path": "items/gen9-style/key/tealstylecard.png"
+  },
+  {
+    "id": "expshare",
+    "path": "items/gen9-style/key/expshare.png"
+  },
+  {
+    "id": "indigostylecard",
+    "path": "items/gen9-style/key/indigostylecard.png"
+  },
+  {
+    "id": "nsolarizer",
+    "path": "items/gen9-style/key/nsolarizer.png"
+  },
+  {
+    "id": "nlunarizer",
+    "path": "items/gen9-style/key/nlunarizer.png"
+  },
+  {
+    "id": "reinsofunity",
+    "path": "items/gen9-style/key/reinsofunity.png"
+  },
+  {
+    "id": "prisonbottle",
+    "path": "items/gen9-style/key/prisonbottle.png"
+  },
+  {
+    "id": "indigodisk",
+    "path": "items/gen9-style/key/indigodisk.png"
+  },
+  {
+    "id": "adventureguide",
+    "path": "items/gen9-style/key/adventureguide.png"
+  },
+  {
+    "id": "rotomcatalog",
+    "path": "items/gen9-style/key/rotomcatalog.png"
+  },
+  {
+    "id": "scrollofwaters",
+    "path": "items/gen9-style/key/scrollofwaters.png"
+  },
+  {
+    "id": "revealglass",
+    "path": "items/gen9-style/key/revealglass.png"
+  },
+  {
+    "id": "treat",
+    "path": "items/gen9-style/key/treat.png"
+  },
+  {
+    "id": "crystalcluster",
+    "path": "items/gen9-style/key/crystalcluster.png"
+  },
+  {
+    "id": "briarsbook",
+    "path": "items/gen9-style/key/briarsbook.png"
+  },
+  {
+    "id": "glimmeringcharm",
+    "path": "items/gen9-style/key/glimmeringcharm.png"
+  },
+  {
+    "id": "meteorite",
+    "path": "items/gen9-style/key/meteorite.png"
+  },
+  {
+    "id": "scrollofdarkness",
+    "path": "items/gen9-style/key/scrollofdarkness.png"
+  },
+  {
+    "id": "rotostick",
+    "path": "items/gen9-style/key/rotostick.png"
+  },
+  {
+    "id": "scarletbook",
+    "path": "items/gen9-style/key/scarletbook.png"
+  },
+  {
+    "id": "dnasplicers",
+    "path": "items/gen9-style/key/dnasplicers.png"
+  },
+  {
+    "id": "teraorb",
+    "path": "items/gen9-style/key/teraorb.png"
+  },
+  {
+    "id": "terashard-poison",
+    "path": "items/gen9-style/terashard/terashard-poison.png"
+  },
+  {
+    "id": "terashard-steel",
+    "path": "items/gen9-style/terashard/terashard-steel.png"
+  },
+  {
+    "id": "terashard-flying",
+    "path": "items/gen9-style/terashard/terashard-flying.png"
+  },
+  {
+    "id": "terashard-electric",
+    "path": "items/gen9-style/terashard/terashard-electric.png"
+  },
+  {
+    "id": "terashard-normal",
+    "path": "items/gen9-style/terashard/terashard-normal.png"
+  },
+  {
+    "id": "terashard-stellar",
+    "path": "items/gen9-style/terashard/terashard-stellar.png"
+  },
+  {
+    "id": "terashard-ground",
+    "path": "items/gen9-style/terashard/terashard-ground.png"
+  },
+  {
+    "id": "terashard-water",
+    "path": "items/gen9-style/terashard/terashard-water.png"
+  },
+  {
+    "id": "terashard-grass",
+    "path": "items/gen9-style/terashard/terashard-grass.png"
+  },
+  {
+    "id": "terashard-ghost",
+    "path": "items/gen9-style/terashard/terashard-ghost.png"
+  },
+  {
+    "id": "terashard-fighting",
+    "path": "items/gen9-style/terashard/terashard-fighting.png"
+  },
+  {
+    "id": "terashard-fire",
+    "path": "items/gen9-style/terashard/terashard-fire.png"
+  },
+  {
+    "id": "terashard-dark",
+    "path": "items/gen9-style/terashard/terashard-dark.png"
+  },
+  {
+    "id": "terashard-ice",
+    "path": "items/gen9-style/terashard/terashard-ice.png"
+  },
+  {
+    "id": "terashard-fairy",
+    "path": "items/gen9-style/terashard/terashard-fairy.png"
+  },
+  {
+    "id": "terashard-psychic",
+    "path": "items/gen9-style/terashard/terashard-psychic.png"
+  },
+  {
+    "id": "terashard-dragon",
+    "path": "items/gen9-style/terashard/terashard-dragon.png"
+  },
+  {
+    "id": "terashard-bug",
+    "path": "items/gen9-style/terashard/terashard-bug.png"
+  },
+  {
+    "id": "terashard-rock",
+    "path": "items/gen9-style/terashard/terashard-rock.png"
+  },
+  {
+    "id": "mint-attack",
+    "path": "items/gen9-style/mint/mint-attack.png"
+  },
+  {
+    "id": "mint-defense",
+    "path": "items/gen9-style/mint/mint-defense.png"
+  },
+  {
+    "id": "mint-neutral",
+    "path": "items/gen9-style/mint/mint-neutral.png"
+  },
+  {
+    "id": "mint-spdefense",
+    "path": "items/gen9-style/mint/mint-spdefense.png"
+  },
+  {
+    "id": "mint-spattack",
+    "path": "items/gen9-style/mint/mint-spattack.png"
+  },
+  {
+    "id": "mint-speed",
+    "path": "items/gen9-style/mint/mint-speed.png"
+  }
+]
