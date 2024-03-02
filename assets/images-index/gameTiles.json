@@ -32,6 +32,10 @@
     "path": "games/tiles/e.jpg"
   },
   {
+    "id": "lza",
+    "path": "games/tiles/lza.jpg"
+  },
+  {
     "id": "sv-indigodisc",
     "path": "games/tiles/sv-indigodisc.jpg"
   },
@@ -270,6 +274,10 @@
   {
     "id": "rse",
     "path": "games/tiles/rse.jpg"
+  },
+  {
+    "id": "lza--alt",
+    "path": "games/tiles/lza--alt.jpg"
   },
   {
     "id": "usum",
