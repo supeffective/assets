@@ -1,10 +1,30 @@
 {
-  "$schema": "https://biomejs.dev/schemas/1.4.1/schema.json",
+  "$schema": "https://biomejs.dev/schemas/1.8.3/schema.json",
   "organizeImports": {
     "enabled": true
   },
   "files": {
-    "ignore": ["*.json", "generated/**/*", "dist/**/*"]
+    "ignore": [
+      "drizzle/",
+      "prisma/",
+      "public/",
+      "build/",
+      "dist/",
+      ".local/",
+      ".next/",
+      ".vercel/",
+      ".wrangler/",
+      "cdk.out/",
+      ".sst/",
+      "*.json",
+      "*.d.ts",
+      "styled-system/*",
+      "bin/*.js",
+      "**/*.js",
+      "generated/**/*",
+      "dist/**/*"
+    ],
+    "ignoreUnknown": true
   },
   "vcs": {
     "enabled": true,
@@ -15,31 +35,8 @@
     "enabled": true,
     "rules": {
       "recommended": true,
-      "suspicious": {
-        "noExplicitAny": "error",
-        "noArrayIndexKey": "error",
-        "noGlobalIsNan": "error"
-      },
-      "correctness": {
-        "noUnusedVariables": "error",
-        "noChildrenProp": "error",
-        "noPrecisionLoss": "warn",
-        "useExhaustiveDependencies": "warn",
-        "useHookAtTopLevel": "warn"
-      },
       "complexity": {
-        "noForEach": "warn"
-      },
-      "nursery": {
-        "useGroupedTypeImport": "warn",
-        "noDuplicateJsonKeys": "error"
-      },
-      "a11y": {
-        "noSvgWithoutTitle": "warn"
-      },
-      "style": {
-        "noNonNullAssertion": "warn",
-        "useTemplate": "warn"
+        "noUselessFragments": "off"
       }
     }
   },
@@ -48,7 +45,7 @@
     "lineWidth": 120,
     "indentWidth": 2,
     "indentStyle": "space",
-    "ignore": [".storylite/**/*"]
+    "formatWithErrors": true
   },
   "javascript": {
     "formatter": {
@@ -56,7 +53,7 @@
       "lineWidth": 120,
       "indentWidth": 2,
       "indentStyle": "space",
-      "trailingComma": "all",
+      "trailingCommas": "all",
       "semicolons": "asNeeded",
       "quoteStyle": "single",
       "jsxQuoteStyle": "double",
