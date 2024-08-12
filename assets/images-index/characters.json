@@ -36,6 +36,10 @@
     "path": "characters/masters-icons/cilan.png"
   },
   {
+    "id": "dawn-new-years-2023-ex",
+    "path": "characters/masters-icons/dawn-new-years-2023-ex.png"
+  },
+  {
     "id": "hop",
     "path": "characters/masters-icons/hop.png"
   },
@@ -64,12 +68,20 @@
     "path": "characters/masters-icons/maxie.png"
   },
   {
+    "id": "barry-special-costume",
+    "path": "characters/masters-icons/barry-special-costume.png"
+  },
+  {
     "id": "thorton",
     "path": "characters/masters-icons/thorton.png"
   },
   {
     "id": "may-ex",
     "path": "characters/masters-icons/may-ex.png"
+  },
+  {
+    "id": "professor-oak-ex",
+    "path": "characters/masters-icons/professor-oak-ex.png"
   },
   {
     "id": "colress",
@@ -92,12 +104,24 @@
     "path": "characters/masters-icons/clemont-ex.png"
   },
   {
+    "id": "professor-sycamore-holiday-2023-ex",
+    "path": "characters/masters-icons/professor-sycamore-holiday-2023-ex.png"
+  },
+  {
+    "id": "silver-champion-ex",
+    "path": "characters/masters-icons/silver-champion-ex.png"
+  },
+  {
     "id": "guzma-special-costume",
     "path": "characters/masters-icons/guzma-special-costume.png"
   },
   {
     "id": "allister",
     "path": "characters/masters-icons/allister.png"
+  },
+  {
+    "id": "lance-new-years-2021-ex",
+    "path": "characters/masters-icons/lance-new-years-2021-ex.png"
   },
   {
     "id": "iris-fall-2022",
@@ -116,6 +140,10 @@
     "path": "characters/masters-icons/swimmer-f-team-break.png"
   },
   {
+    "id": "arven",
+    "path": "characters/masters-icons/arven.png"
+  },
+  {
     "id": "rising-star",
     "path": "characters/masters-icons/rising-star.png"
   },
@@ -124,8 +152,16 @@
     "path": "characters/masters-icons/kahili.png"
   },
   {
+    "id": "wallace-new-years-2024",
+    "path": "characters/masters-icons/wallace-new-years-2024.png"
+  },
+  {
     "id": "phoebe-fall-2023",
     "path": "characters/masters-icons/phoebe-fall-2023.png"
+  },
+  {
+    "id": "bianca-champion",
+    "path": "characters/masters-icons/bianca-champion.png"
   },
   {
     "id": "morty-fall-2021",
@@ -156,6 +192,14 @@
     "path": "characters/masters-icons/anabel-ex.png"
   },
   {
+    "id": "pokekid-female-eve",
+    "path": "characters/masters-icons/pokekid-female-eve.png"
+  },
+  {
+    "id": "gladion-sygna-suit-ex",
+    "path": "characters/masters-icons/gladion-sygna-suit-ex.png"
+  },
+  {
     "id": "shadow-triad",
     "path": "characters/masters-icons/shadow-triad.png"
   },
@@ -166,6 +210,10 @@
   {
     "id": "leaf-sygna-suit",
     "path": "characters/masters-icons/leaf-sygna-suit.png"
+  },
+  {
+    "id": "clair-new-years-2024",
+    "path": "characters/masters-icons/clair-new-years-2024.png"
   },
   {
     "id": "roxanne-vs",
@@ -184,12 +232,24 @@
     "path": "characters/masters-icons/team-yell-grunt-m.png"
   },
   {
+    "id": "poppy",
+    "path": "characters/masters-icons/poppy.png"
+  },
+  {
     "id": "olympia",
     "path": "characters/masters-icons/olympia.png"
   },
   {
     "id": "tina",
     "path": "characters/masters-icons/tina.png"
+  },
+  {
+    "id": "larry-ex",
+    "path": "characters/masters-icons/larry-ex.png"
+  },
+  {
+    "id": "greta",
+    "path": "characters/masters-icons/greta.png"
   },
   {
     "id": "hilda-ex",
@@ -204,8 +264,16 @@
     "path": "characters/masters-icons/alder.png"
   },
   {
+    "id": "lisia-new-years-2023-ex",
+    "path": "characters/masters-icons/lisia-new-years-2023-ex.png"
+  },
+  {
     "id": "guzma-special-costume-ex",
     "path": "characters/masters-icons/guzma-special-costume-ex.png"
+  },
+  {
+    "id": "bea-palentines-2022-ex",
+    "path": "characters/masters-icons/bea-palentines-2022-ex.png"
   },
   {
     "id": "ash-ex",
@@ -236,6 +304,10 @@
     "path": "characters/masters-icons/lillie.png"
   },
   {
+    "id": "victor-palentines-2024-ex",
+    "path": "characters/masters-icons/victor-palentines-2024-ex.png"
+  },
+  {
     "id": "caitlin-fall-2021",
     "path": "characters/masters-icons/caitlin-fall-2021.png"
   },
@@ -260,8 +332,16 @@
     "path": "characters/masters-icons/cheryl.png"
   },
   {
+    "id": "avery-ex",
+    "path": "characters/masters-icons/avery-ex.png"
+  },
+  {
     "id": "marley-ex",
     "path": "characters/masters-icons/marley-ex.png"
+  },
+  {
+    "id": "kabu",
+    "path": "characters/masters-icons/kabu.png"
   },
   {
     "id": "fantina-ex",
@@ -312,6 +392,10 @@
     "path": "characters/masters-icons/siebold-ex.png"
   },
   {
+    "id": "volo",
+    "path": "characters/masters-icons/volo.png"
+  },
+  {
     "id": "olympia-ex",
     "path": "characters/masters-icons/olympia-ex.png"
   },
@@ -320,8 +404,16 @@
     "path": "characters/masters-icons/hilbert-sygna-suit.png"
   },
   {
+    "id": "roxanne-vs-icon-ex",
+    "path": "characters/masters-icons/roxanne-vs-icon-ex.png"
+  },
+  {
     "id": "brock",
     "path": "characters/masters-icons/brock.png"
+  },
+  {
+    "id": "iono",
+    "path": "characters/masters-icons/iono.png"
   },
   {
     "id": "aether-grunt-m",
@@ -352,10 +444,6 @@
     "path": "characters/masters-icons/whitney.png"
   },
   {
-    "id": "lillie-new-year-s-2021-ex",
-    "path": "characters/masters-icons/lillie-new-year-s-2021-ex.png"
-  },
-  {
     "id": "liza",
     "path": "characters/masters-icons/liza.png"
   },
@@ -384,6 +472,10 @@
     "path": "characters/masters-icons/leaf.png"
   },
   {
+    "id": "volo-ex",
+    "path": "characters/masters-icons/volo-ex.png"
+  },
+  {
     "id": "lt-surge",
     "path": "characters/masters-icons/lt-surge.png"
   },
@@ -406,6 +498,10 @@
   {
     "id": "lana-sygna-suit-ex",
     "path": "characters/masters-icons/lana-sygna-suit-ex.png"
+  },
+  {
+    "id": "grusha",
+    "path": "characters/masters-icons/grusha.png"
   },
   {
     "id": "calem-champion",
@@ -472,8 +568,40 @@
     "path": "characters/masters-icons/selene.png"
   },
   {
+    "id": "nemona-sygna-suit",
+    "path": "characters/masters-icons/nemona-sygna-suit.png"
+  },
+  {
+    "id": "siebold-holiday-2019-icon-old",
+    "path": "characters/masters-icons/siebold-holiday-2019-icon-old.png"
+  },
+  {
+    "id": "arven-ex",
+    "path": "characters/masters-icons/arven-ex.png"
+  },
+  {
+    "id": "elesa-palentines-2023",
+    "path": "characters/masters-icons/elesa-palentines-2023.png"
+  },
+  {
     "id": "punk-girl",
     "path": "characters/masters-icons/punk-girl.png"
+  },
+  {
+    "id": "serena-palentines-2021",
+    "path": "characters/masters-icons/serena-palentines-2021.png"
+  },
+  {
+    "id": "acerola-ex",
+    "path": "characters/masters-icons/acerola-ex.png"
+  },
+  {
+    "id": "klara-ex",
+    "path": "characters/masters-icons/klara-ex.png"
+  },
+  {
+    "id": "elesa-palentines-2023-ex",
+    "path": "characters/masters-icons/elesa-palentines-2023-ex.png"
   },
   {
     "id": "trevor",
@@ -488,8 +616,16 @@
     "path": "characters/masters-icons/lillie-ex.png"
   },
   {
+    "id": "lillie-new-years-2021-ex",
+    "path": "characters/masters-icons/lillie-new-years-2021-ex.png"
+  },
+  {
     "id": "nate",
     "path": "characters/masters-icons/nate.png"
+  },
+  {
+    "id": "lillie-new-years-2021",
+    "path": "characters/masters-icons/lillie-new-years-2021.png"
   },
   {
     "id": "team-aqua-grunt-f",
@@ -504,12 +640,24 @@
     "path": "characters/masters-icons/morty-sygna-suit-ex.png"
   },
   {
+    "id": "iono-ex",
+    "path": "characters/masters-icons/iono-ex.png"
+  },
+  {
+    "id": "gardenia-summer-2024-ex",
+    "path": "characters/masters-icons/gardenia-summer-2024-ex.png"
+  },
+  {
     "id": "erika-holiday-2020",
     "path": "characters/masters-icons/erika-holiday-2020.png"
   },
   {
     "id": "roxie-ex",
     "path": "characters/masters-icons/roxie-ex.png"
+  },
+  {
+    "id": "nemona-sygna-suit-ex",
+    "path": "characters/masters-icons/nemona-sygna-suit-ex.png"
   },
   {
     "id": "brendan-sygna-suit-ex",
@@ -524,12 +672,28 @@
     "path": "characters/masters-icons/serena-sygna-suit.png"
   },
   {
+    "id": "volkner-new-years-2022",
+    "path": "characters/masters-icons/volkner-new-years-2022.png"
+  },
+  {
     "id": "tate-summer-2023",
     "path": "characters/masters-icons/tate-summer-2023.png"
   },
   {
     "id": "victor",
     "path": "characters/masters-icons/victor.png"
+  },
+  {
+    "id": "dawn-palentines-2021",
+    "path": "characters/masters-icons/dawn-palentines-2021.png"
+  },
+  {
+    "id": "rika-ex",
+    "path": "characters/masters-icons/rika-ex.png"
+  },
+  {
+    "id": "elaine-ex",
+    "path": "characters/masters-icons/elaine-ex.png"
   },
   {
     "id": "hiker",
@@ -548,12 +712,16 @@
     "path": "characters/masters-icons/gloria-ex.png"
   },
   {
-    "id": "mallow-palentine-s-2023-ex",
-    "path": "characters/masters-icons/mallow-palentine-s-2023-ex.png"
-  },
-  {
     "id": "elio-ex",
     "path": "characters/masters-icons/elio-ex.png"
+  },
+  {
+    "id": "cheren-champion",
+    "path": "characters/masters-icons/cheren-champion.png"
+  },
+  {
+    "id": "geeta-ex",
+    "path": "characters/masters-icons/geeta-ex.png"
   },
   {
     "id": "oleana-ex",
@@ -624,6 +792,10 @@
     "path": "characters/masters-icons/nemona-ex.png"
   },
   {
+    "id": "agatha-ex",
+    "path": "characters/masters-icons/agatha-ex.png"
+  },
+  {
     "id": "kiawe-ex",
     "path": "characters/masters-icons/kiawe-ex.png"
   },
@@ -638,6 +810,10 @@
   {
     "id": "siebold-holiday-2019-ex",
     "path": "characters/masters-icons/siebold-holiday-2019-ex.png"
+  },
+  {
+    "id": "brycen-man-ex",
+    "path": "characters/masters-icons/brycen-man-ex.png"
   },
   {
     "id": "hilda-summer-2022-ex",
@@ -676,16 +852,20 @@
     "path": "characters/masters-icons/lucas-ex.png"
   },
   {
-    "id": "elesa-palentine-s-2023",
-    "path": "characters/masters-icons/elesa-palentine-s-2023.png"
-  },
-  {
     "id": "lusamine",
     "path": "characters/masters-icons/lusamine.png"
   },
   {
     "id": "cynthia-sygna-suit---renegade-ex",
     "path": "characters/masters-icons/cynthia-sygna-suit---renegade-ex.png"
+  },
+  {
+    "id": "riley",
+    "path": "characters/masters-icons/riley.png"
+  },
+  {
+    "id": "penny",
+    "path": "characters/masters-icons/penny.png"
   },
   {
     "id": "tabitha",
@@ -744,8 +924,20 @@
     "path": "characters/masters-icons/eusine-ex.png"
   },
   {
+    "id": "noland-ex",
+    "path": "characters/masters-icons/noland-ex.png"
+  },
+  {
+    "id": "piers-sygna-suit-ex",
+    "path": "characters/masters-icons/piers-sygna-suit-ex.png"
+  },
+  {
     "id": "swimmer-m",
     "path": "characters/masters-icons/swimmer-m.png"
+  },
+  {
+    "id": "poppy-ex",
+    "path": "characters/masters-icons/poppy-ex.png"
   },
   {
     "id": "burgh-ex",
@@ -754,6 +946,14 @@
   {
     "id": "cynthia-sygna-suit---aura",
     "path": "characters/masters-icons/cynthia-sygna-suit---aura.png"
+  },
+  {
+    "id": "candice-palentines-2024-ex",
+    "path": "characters/masters-icons/candice-palentines-2024-ex.png"
+  },
+  {
+    "id": "roxie-sygna-suit",
+    "path": "characters/masters-icons/roxie-sygna-suit.png"
   },
   {
     "id": "serena",
@@ -792,6 +992,10 @@
     "path": "characters/masters-icons/tate-summer-2023-ex.png"
   },
   {
+    "id": "acerola-summer-2024",
+    "path": "characters/masters-icons/acerola-summer-2024.png"
+  },
+  {
     "id": "beauty-team-break",
     "path": "characters/masters-icons/beauty-team-break.png"
   },
@@ -802,10 +1006,6 @@
   {
     "id": "mallow",
     "path": "characters/masters-icons/mallow.png"
-  },
-  {
-    "id": "lisia-new-year-s-2023-ex",
-    "path": "characters/masters-icons/lisia-new-year-s-2023-ex.png"
   },
   {
     "id": "bertha-ex",
@@ -860,6 +1060,10 @@
     "path": "characters/masters-icons/cyrus-sygna-suit.png"
   },
   {
+    "id": "brycen-man",
+    "path": "characters/masters-icons/brycen-man.png"
+  },
+  {
     "id": "gardenia",
     "path": "characters/masters-icons/gardenia.png"
   },
@@ -888,8 +1092,8 @@
     "path": "characters/masters-icons/caitlin-ex.png"
   },
   {
-    "id": "dawn-new-year-s-2023-ex",
-    "path": "characters/masters-icons/dawn-new-year-s-2023-ex.png"
+    "id": "silver-champion",
+    "path": "characters/masters-icons/silver-champion.png"
   },
   {
     "id": "silver",
@@ -906,6 +1110,10 @@
   {
     "id": "cynthia-sygna-suit---renegade",
     "path": "characters/masters-icons/cynthia-sygna-suit---renegade.png"
+  },
+  {
+    "id": "irida-special-costume",
+    "path": "characters/masters-icons/irida-special-costume.png"
   },
   {
     "id": "james",
@@ -928,12 +1136,12 @@
     "path": "characters/masters-icons/team-galactic-grunt-m.png"
   },
   {
-    "id": "bea-palentine-s-2022-ex",
-    "path": "characters/masters-icons/bea-palentine-s-2022-ex.png"
-  },
-  {
     "id": "team-flare-grunt-male",
     "path": "characters/masters-icons/team-flare-grunt-male.png"
+  },
+  {
+    "id": "avery",
+    "path": "characters/masters-icons/avery.png"
   },
   {
     "id": "gladion",
@@ -992,12 +1200,20 @@
     "path": "characters/masters-icons/lysandre-sygna-suit-ex.png"
   },
   {
+    "id": "penny-ex",
+    "path": "characters/masters-icons/penny-ex.png"
+  },
+  {
     "id": "elesa-classic",
     "path": "characters/masters-icons/elesa-classic.png"
   },
   {
     "id": "lass",
     "path": "characters/masters-icons/lass.png"
+  },
+  {
+    "id": "valerie-ex",
+    "path": "characters/masters-icons/valerie-ex.png"
   },
   {
     "id": "grimsley",
@@ -1022,6 +1238,10 @@
   {
     "id": "may-spring-2021",
     "path": "characters/masters-icons/may-spring-2021.png"
+  },
+  {
+    "id": "gladion-sygna-suit",
+    "path": "characters/masters-icons/gladion-sygna-suit.png"
   },
   {
     "id": "leon-sygna-suit-ex",
@@ -1112,10 +1332,6 @@
     "path": "characters/masters-icons/gloria-summer-2021-ex.png"
   },
   {
-    "id": "sabrina-new-year-s-2022-ex",
-    "path": "characters/masters-icons/sabrina-new-year-s-2022-ex.png"
-  },
-  {
     "id": "proton",
     "path": "characters/masters-icons/proton.png"
   },
@@ -1124,16 +1340,20 @@
     "path": "characters/masters-icons/hugh.png"
   },
   {
-    "id": "marnie-palentine-s-2022",
-    "path": "characters/masters-icons/marnie-palentine-s-2022.png"
-  },
-  {
     "id": "wikstrom",
     "path": "characters/masters-icons/wikstrom.png"
   },
   {
+    "id": "rosa-champion",
+    "path": "characters/masters-icons/rosa-champion.png"
+  },
+  {
     "id": "guzma-ex",
     "path": "characters/masters-icons/guzma-ex.png"
+  },
+  {
+    "id": "rosa-champion-ex",
+    "path": "characters/masters-icons/rosa-champion-ex.png"
   },
   {
     "id": "chuck",
@@ -1180,6 +1400,10 @@
     "path": "characters/masters-icons/hala.png"
   },
   {
+    "id": "dawn-palentines-2021-ex",
+    "path": "characters/masters-icons/dawn-palentines-2021-ex.png"
+  },
+  {
     "id": "street-thug-team-break",
     "path": "characters/masters-icons/street-thug-team-break.png"
   },
@@ -1196,8 +1420,8 @@
     "path": "characters/masters-icons/melony-ex.png"
   },
   {
-    "id": "elesa-palentine-s-2023-ex",
-    "path": "characters/masters-icons/elesa-palentine-s-2023-ex.png"
+    "id": "dahlia-ex",
+    "path": "characters/masters-icons/dahlia-ex.png"
   },
   {
     "id": "grimsley-kimono",
@@ -1208,8 +1432,16 @@
     "path": "characters/masters-icons/flint.png"
   },
   {
+    "id": "bruno-ex",
+    "path": "characters/masters-icons/bruno-ex.png"
+  },
+  {
     "id": "sonia-special-costume",
     "path": "characters/masters-icons/sonia-special-costume.png"
+  },
+  {
+    "id": "piers-sygna-suit",
+    "path": "characters/masters-icons/piers-sygna-suit.png"
   },
   {
     "id": "cress",
@@ -1220,8 +1452,8 @@
     "path": "characters/masters-icons/gladion-ex.png"
   },
   {
-    "id": "volkner-new-year-s-2022",
-    "path": "characters/masters-icons/volkner-new-year-s-2022.png"
+    "id": "sabrina-new-years-2022-ex",
+    "path": "characters/masters-icons/sabrina-new-years-2022-ex.png"
   },
   {
     "id": "ace-trainer-m-team-break",
@@ -1238,6 +1470,10 @@
   {
     "id": "viola",
     "path": "characters/masters-icons/viola.png"
+  },
+  {
+    "id": "jacq",
+    "path": "characters/masters-icons/jacq.png"
   },
   {
     "id": "looker-vs",
@@ -1272,8 +1508,20 @@
     "path": "characters/masters-icons/aaron-ex.png"
   },
   {
+    "id": "elio-alt",
+    "path": "characters/masters-icons/elio-alt.png"
+  },
+  {
     "id": "collector-team-break",
     "path": "characters/masters-icons/collector-team-break.png"
+  },
+  {
+    "id": "tierno-ex",
+    "path": "characters/masters-icons/tierno-ex.png"
+  },
+  {
+    "id": "bellelba",
+    "path": "characters/masters-icons/bellelba.png"
   },
   {
     "id": "swimmer-f",
@@ -1300,10 +1548,6 @@
     "path": "characters/masters-icons/hilda-special-costume-ex.png"
   },
   {
-    "id": "mallow-palentine-s-2023",
-    "path": "characters/masters-icons/mallow-palentine-s-2023.png"
-  },
-  {
     "id": "jasmine",
     "path": "characters/masters-icons/jasmine.png"
   },
@@ -1316,20 +1560,16 @@
     "path": "characters/masters-icons/diantha-sygna-suit.png"
   },
   {
-    "id": "lisia-new-year-s-2023",
-    "path": "characters/masters-icons/lisia-new-year-s-2023.png"
-  },
-  {
     "id": "lear-ex",
     "path": "characters/masters-icons/lear-ex.png"
   },
   {
-    "id": "lance-new-year-s-2021-ex",
-    "path": "characters/masters-icons/lance-new-year-s-2021-ex.png"
-  },
-  {
     "id": "marnie-champion-ex",
     "path": "characters/masters-icons/marnie-champion-ex.png"
+  },
+  {
+    "id": "chase",
+    "path": "characters/masters-icons/chase.png"
   },
   {
     "id": "viola-ex",
@@ -1338,6 +1578,10 @@
   {
     "id": "rosa-holiday-2019-ex",
     "path": "characters/masters-icons/rosa-holiday-2019-ex.png"
+  },
+  {
+    "id": "professor-sycamore-holiday-2023",
+    "path": "characters/masters-icons/professor-sycamore-holiday-2023.png"
   },
   {
     "id": "diantha",
@@ -1376,6 +1620,14 @@
     "path": "characters/masters-icons/gloria-alt-2-ex.png"
   },
   {
+    "id": "dawn-new-years-2023",
+    "path": "characters/masters-icons/dawn-new-years-2023.png"
+  },
+  {
+    "id": "pokekid-male-petey",
+    "path": "characters/masters-icons/pokekid-male-petey.png"
+  },
+  {
     "id": "zinnia",
     "path": "characters/masters-icons/zinnia.png"
   },
@@ -1396,10 +1648,6 @@
     "path": "characters/masters-icons/rose-ex.png"
   },
   {
-    "id": "sabrina-new-year-s-2022",
-    "path": "characters/masters-icons/sabrina-new-year-s-2022.png"
-  },
-  {
     "id": "lyra-sygna-suit",
     "path": "characters/masters-icons/lyra-sygna-suit.png"
   },
@@ -1416,16 +1664,20 @@
     "path": "characters/masters-icons/korrina-sygna-suit-ex.png"
   },
   {
+    "id": "sabrina-new-years-2022",
+    "path": "characters/masters-icons/sabrina-new-years-2022.png"
+  },
+  {
+    "id": "viola-holiday-2023-ex",
+    "path": "characters/masters-icons/viola-holiday-2023-ex.png"
+  },
+  {
     "id": "courtney-ex",
     "path": "characters/masters-icons/courtney-ex.png"
   },
   {
     "id": "sidney",
     "path": "characters/masters-icons/sidney.png"
-  },
-  {
-    "id": "bea-palentine-s-2022",
-    "path": "characters/masters-icons/bea-palentine-s-2022.png"
   },
   {
     "id": "dawn-ex",
@@ -1446,6 +1698,10 @@
   {
     "id": "lyra-special-costume-ex",
     "path": "characters/masters-icons/lyra-special-costume-ex.png"
+  },
+  {
+    "id": "irida-special-costume-ex",
+    "path": "characters/masters-icons/irida-special-costume-ex.png"
   },
   {
     "id": "morty-sygna-suit",
@@ -1484,12 +1740,28 @@
     "path": "characters/masters-icons/diantha-special-costume.png"
   },
   {
+    "id": "acerola-summer-2024-ex",
+    "path": "characters/masters-icons/acerola-summer-2024-ex.png"
+  },
+  {
     "id": "gordie-ex",
     "path": "characters/masters-icons/gordie-ex.png"
   },
   {
+    "id": "wallace-new-years-2024-ex",
+    "path": "characters/masters-icons/wallace-new-years-2024-ex.png"
+  },
+  {
+    "id": "lorelei-ex",
+    "path": "characters/masters-icons/lorelei-ex.png"
+  },
+  {
     "id": "misty-sygna-suit",
     "path": "characters/masters-icons/misty-sygna-suit.png"
+  },
+  {
+    "id": "bianca-champion-ex",
+    "path": "characters/masters-icons/bianca-champion-ex.png"
   },
   {
     "id": "lucy",
@@ -1504,16 +1776,44 @@
     "path": "characters/masters-icons/hilda-sygna-suit.png"
   },
   {
+    "id": "barry-special-costume-ex",
+    "path": "characters/masters-icons/barry-special-costume-ex.png"
+  },
+  {
     "id": "candice-ex",
     "path": "characters/masters-icons/candice-ex.png"
+  },
+  {
+    "id": "lysandre-vs-icon-ex",
+    "path": "characters/masters-icons/lysandre-vs-icon-ex.png"
   },
   {
     "id": "steven-sygna-suit-ex",
     "path": "characters/masters-icons/steven-sygna-suit-ex.png"
   },
   {
+    "id": "selene-special-costume-ex",
+    "path": "characters/masters-icons/selene-special-costume-ex.png"
+  },
+  {
     "id": "marley",
     "path": "characters/masters-icons/marley.png"
+  },
+  {
+    "id": "kabu-ex",
+    "path": "characters/masters-icons/kabu-ex.png"
+  },
+  {
+    "id": "cheren-champion-ex",
+    "path": "characters/masters-icons/cheren-champion-ex.png"
+  },
+  {
+    "id": "adaman-special-costume",
+    "path": "characters/masters-icons/adaman-special-costume.png"
+  },
+  {
+    "id": "victor-palentines-2024-icon-katano-shibire",
+    "path": "characters/masters-icons/victor-palentines-2024-icon-katano-shibire.png"
   },
   {
     "id": "sightseer-f-naomi",
@@ -1524,8 +1824,16 @@
     "path": "characters/masters-icons/scottie.png"
   },
   {
+    "id": "gardenia-summer-2024",
+    "path": "characters/masters-icons/gardenia-summer-2024.png"
+  },
+  {
     "id": "blue",
     "path": "characters/masters-icons/blue.png"
+  },
+  {
+    "id": "skyla-vs-icon-ex",
+    "path": "characters/masters-icons/skyla-vs-icon-ex.png"
   },
   {
     "id": "liza-summer-2023-ex",
@@ -1542,10 +1850,6 @@
   {
     "id": "leaf-champion",
     "path": "characters/masters-icons/leaf-champion.png"
-  },
-  {
-    "id": "lance-new-year-s-2021",
-    "path": "characters/masters-icons/lance-new-year-s-2021.png"
   },
   {
     "id": "kiawe",
@@ -1620,6 +1924,10 @@
     "path": "characters/masters-icons/morty.png"
   },
   {
+    "id": "geeta",
+    "path": "characters/masters-icons/geeta.png"
+  },
+  {
     "id": "iris",
     "path": "characters/masters-icons/iris.png"
   },
@@ -1660,8 +1968,16 @@
     "path": "characters/masters-icons/hilbert-sygna-suit-ex.png"
   },
   {
+    "id": "selene-special-costume",
+    "path": "characters/masters-icons/selene-special-costume.png"
+  },
+  {
     "id": "matt",
     "path": "characters/masters-icons/matt.png"
+  },
+  {
+    "id": "riley-ex",
+    "path": "characters/masters-icons/riley-ex.png"
   },
   {
     "id": "blue-champion-ex",
@@ -1680,12 +1996,20 @@
     "path": "characters/masters-icons/bea.png"
   },
   {
+    "id": "kana-social-media",
+    "path": "characters/masters-icons/kana-social-media.png"
+  },
+  {
     "id": "cynthia-sygna-suit---aura-ex",
     "path": "characters/masters-icons/cynthia-sygna-suit---aura-ex.png"
   },
   {
     "id": "brycen",
     "path": "characters/masters-icons/brycen.png"
+  },
+  {
+    "id": "hop-vs-icon-ex",
+    "path": "characters/masters-icons/hop-vs-icon-ex.png"
   },
   {
     "id": "team-galactic-grunt-f",
@@ -1720,6 +2044,18 @@
     "path": "characters/masters-icons/erika-ex.png"
   },
   {
+    "id": "elio-alt-ex",
+    "path": "characters/masters-icons/elio-alt-ex.png"
+  },
+  {
+    "id": "jacq-ex",
+    "path": "characters/masters-icons/jacq-ex.png"
+  },
+  {
+    "id": "bugsy-ex",
+    "path": "characters/masters-icons/bugsy-ex.png"
+  },
+  {
     "id": "aaron",
     "path": "characters/masters-icons/aaron.png"
   },
@@ -1748,6 +2084,10 @@
     "path": "characters/masters-icons/camper-team-break.png"
   },
   {
+    "id": "gardenia-ex",
+    "path": "characters/masters-icons/gardenia-ex.png"
+  },
+  {
     "id": "lucas",
     "path": "characters/masters-icons/lucas.png"
   },
@@ -1758,6 +2098,10 @@
   {
     "id": "cheren",
     "path": "characters/masters-icons/cheren.png"
+  },
+  {
+    "id": "mallow-palentines-2023",
+    "path": "characters/masters-icons/mallow-palentines-2023.png"
   },
   {
     "id": "misty",
@@ -1776,8 +2120,16 @@
     "path": "characters/masters-icons/roxanne-fall-2023.png"
   },
   {
+    "id": "marnie-palentines-2022",
+    "path": "characters/masters-icons/marnie-palentines-2022.png"
+  },
+  {
     "id": "nessa-ex",
     "path": "characters/masters-icons/nessa-ex.png"
+  },
+  {
+    "id": "viola-holiday-2023",
+    "path": "characters/masters-icons/viola-holiday-2023.png"
   },
   {
     "id": "ace-trainer-f-team-break",
@@ -1812,12 +2164,16 @@
     "path": "characters/masters-icons/n-summer-2022-ex.png"
   },
   {
+    "id": "roxie-sygna-suit-ex",
+    "path": "characters/masters-icons/roxie-sygna-suit-ex.png"
+  },
+  {
     "id": "morty-ex",
     "path": "characters/masters-icons/morty-ex.png"
   },
   {
-    "id": "marnie-palentine-s-2022-ex",
-    "path": "characters/masters-icons/marnie-palentine-s-2022-ex.png"
+    "id": "selene-alt",
+    "path": "characters/masters-icons/selene-alt.png"
   },
   {
     "id": "petrel-ex",
@@ -1832,12 +2188,20 @@
     "path": "characters/masters-icons/argenta-ex.png"
   },
   {
+    "id": "mallow-palentines-2023-ex",
+    "path": "characters/masters-icons/mallow-palentines-2023-ex.png"
+  },
+  {
     "id": "sophocles",
     "path": "characters/masters-icons/sophocles.png"
   },
   {
     "id": "team-rocket-grunt-f",
     "path": "characters/masters-icons/team-rocket-grunt-f.png"
+  },
+  {
+    "id": "bellelba-ex",
+    "path": "characters/masters-icons/bellelba-ex.png"
   },
   {
     "id": "burgh-spring-2021-ex",
@@ -1858,6 +2222,10 @@
   {
     "id": "candice",
     "path": "characters/masters-icons/candice.png"
+  },
+  {
+    "id": "clair-new-years-2024-ex",
+    "path": "characters/masters-icons/clair-new-years-2024-ex.png"
   },
   {
     "id": "nemona",
@@ -1884,8 +2252,16 @@
     "path": "characters/masters-icons/misty-sygna-suit-ex.png"
   },
   {
+    "id": "klara",
+    "path": "characters/masters-icons/klara.png"
+  },
+  {
     "id": "phoebe-fall-2023-ex",
     "path": "characters/masters-icons/phoebe-fall-2023-ex.png"
+  },
+  {
+    "id": "greta-ex",
+    "path": "characters/masters-icons/greta-ex.png"
   },
   {
     "id": "acerola-fall-2020",
@@ -1908,6 +2284,10 @@
     "path": "characters/masters-icons/leon-holiday-2021.png"
   },
   {
+    "id": "volkner-new-years-2022-ex",
+    "path": "characters/masters-icons/volkner-new-years-2022-ex.png"
+  },
+  {
     "id": "leon-holiday-2021-ex",
     "path": "characters/masters-icons/leon-holiday-2021-ex.png"
   },
@@ -1920,12 +2300,20 @@
     "path": "characters/masters-icons/korrina.png"
   },
   {
+    "id": "dahlia",
+    "path": "characters/masters-icons/dahlia.png"
+  },
+  {
     "id": "lyra-summer-2020",
     "path": "characters/masters-icons/lyra-summer-2020.png"
   },
   {
     "id": "n",
     "path": "characters/masters-icons/n.png"
+  },
+  {
+    "id": "cyrus-icon-old",
+    "path": "characters/masters-icons/cyrus-icon-old.png"
   },
   {
     "id": "steven-sygna-suit",
@@ -1938,10 +2326,6 @@
   {
     "id": "allister-fall-2022-ex",
     "path": "characters/masters-icons/allister-fall-2022-ex.png"
-  },
-  {
-    "id": "serena-palentine-s-2021",
-    "path": "characters/masters-icons/serena-palentine-s-2021.png"
   },
   {
     "id": "team-yell-grunt-f",
@@ -2000,10 +2384,6 @@
     "path": "characters/masters-icons/hapu.png"
   },
   {
-    "id": "serena-palentine-s-2021-ex",
-    "path": "characters/masters-icons/serena-palentine-s-2021-ex.png"
-  },
-  {
     "id": "cynthia",
     "path": "characters/masters-icons/cynthia.png"
   },
@@ -2036,6 +2416,18 @@
     "path": "characters/masters-icons/lucian-ex.png"
   },
   {
+    "id": "nate-champion-ex",
+    "path": "characters/masters-icons/nate-champion-ex.png"
+  },
+  {
+    "id": "candice-palentines-2024-iconkatano-shibire",
+    "path": "characters/masters-icons/candice-palentines-2024-iconkatano-shibire.png"
+  },
+  {
+    "id": "sophocles-ex",
+    "path": "characters/masters-icons/sophocles-ex.png"
+  },
+  {
     "id": "archie-ex",
     "path": "characters/masters-icons/archie-ex.png"
   },
@@ -2044,16 +2436,28 @@
     "path": "characters/masters-icons/sonia.png"
   },
   {
+    "id": "selene-alt-ex",
+    "path": "characters/masters-icons/selene-alt-ex.png"
+  },
+  {
     "id": "erika-sygna-suit",
     "path": "characters/masters-icons/erika-sygna-suit.png"
   },
   {
-    "id": "dawn-new-year-s-2023",
-    "path": "characters/masters-icons/dawn-new-year-s-2023.png"
+    "id": "marnie-palentines-2022-ex",
+    "path": "characters/masters-icons/marnie-palentines-2022-ex.png"
   },
   {
     "id": "erika-holiday-2020-ex",
     "path": "characters/masters-icons/erika-holiday-2020-ex.png"
+  },
+  {
+    "id": "lisia-new-years-2023",
+    "path": "characters/masters-icons/lisia-new-years-2023.png"
+  },
+  {
+    "id": "elaine",
+    "path": "characters/masters-icons/elaine.png"
   },
   {
     "id": "misty-swimsuit",
@@ -2074,6 +2478,14 @@
   {
     "id": "grant",
     "path": "characters/masters-icons/grant.png"
+  },
+  {
+    "id": "adaman-special-costume-ex",
+    "path": "characters/masters-icons/adaman-special-costume-ex.png"
+  },
+  {
+    "id": "furisode-girl-katherine",
+    "path": "characters/masters-icons/furisode-girl-katherine.png"
   },
   {
     "id": "lana",
@@ -2102,6 +2514,10 @@
   {
     "id": "lorelei",
     "path": "characters/masters-icons/lorelei.png"
+  },
+  {
+    "id": "larry",
+    "path": "characters/masters-icons/larry.png"
   },
   {
     "id": "phoebe",
@@ -2136,6 +2552,10 @@
     "path": "characters/masters-icons/skyla.png"
   },
   {
+    "id": "chase-ex",
+    "path": "characters/masters-icons/chase-ex.png"
+  },
+  {
     "id": "marlon",
     "path": "characters/masters-icons/marlon.png"
   },
@@ -2146,10 +2566,6 @@
   {
     "id": "n-anniversary-2021",
     "path": "characters/masters-icons/n-anniversary-2021.png"
-  },
-  {
-    "id": "dawn-palentine-s-2021-ex",
-    "path": "characters/masters-icons/dawn-palentine-s-2021-ex.png"
   },
   {
     "id": "hiker-team-break",
@@ -2176,20 +2592,20 @@
     "path": "characters/masters-icons/zinnia-special-costume-ex.png"
   },
   {
+    "id": "bea-palentines-2022",
+    "path": "characters/masters-icons/bea-palentines-2022.png"
+  },
+  {
     "id": "cyrus",
     "path": "characters/masters-icons/cyrus.png"
   },
   {
+    "id": "nate-champion",
+    "path": "characters/masters-icons/nate-champion.png"
+  },
+  {
     "id": "sabrina",
     "path": "characters/masters-icons/sabrina.png"
-  },
-  {
-    "id": "dawn-palentine-s-2021",
-    "path": "characters/masters-icons/dawn-palentine-s-2021.png"
-  },
-  {
-    "id": "volkner-new-year-s-2022-ex",
-    "path": "characters/masters-icons/volkner-new-year-s-2022-ex.png"
   },
   {
     "id": "hala-ex",
@@ -2244,6 +2660,18 @@
     "path": "characters/masters-icons/lisia.png"
   },
   {
+    "id": "rika",
+    "path": "characters/masters-icons/rika.png"
+  },
+  {
+    "id": "grusha-ex",
+    "path": "characters/masters-icons/grusha-ex.png"
+  },
+  {
+    "id": "ryuki-ex",
+    "path": "characters/masters-icons/ryuki-ex.png"
+  },
+  {
     "id": "professor-sycamore",
     "path": "characters/masters-icons/professor-sycamore.png"
   },
@@ -2262,10 +2690,6 @@
   {
     "id": "pokemon-ranger-team-break",
     "path": "characters/masters-icons/pokemon-ranger-team-break.png"
-  },
-  {
-    "id": "lillie-new-year-s-2021",
-    "path": "characters/masters-icons/lillie-new-year-s-2021.png"
   },
   {
     "id": "hapu-ex",
@@ -2316,6 +2740,10 @@
     "path": "characters/masters-icons/elesa-sygna-suit.png"
   },
   {
+    "id": "lance-new-years-2021",
+    "path": "characters/masters-icons/lance-new-years-2021.png"
+  },
+  {
     "id": "crasher-wake",
     "path": "characters/masters-icons/crasher-wake.png"
   },
@@ -2356,6 +2784,10 @@
     "path": "characters/masters-icons/paulo.png"
   },
   {
+    "id": "serena-palentines-2021-ex",
+    "path": "characters/masters-icons/serena-palentines-2021-ex.png"
+  },
+  {
     "id": "hilda-special-costume",
     "path": "characters/masters-icons/hilda-special-costume.png"
   },
@@ -2382,6 +2814,10 @@
   {
     "id": "ramos",
     "path": "characters/masters-icons/ramos.png"
+  },
+  {
+    "id": "professor-sycamore-icon-ex",
+    "path": "characters/masters-icons/professor-sycamore-icon-ex.png"
   },
   {
     "id": "lysandre-vs",
