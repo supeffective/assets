@@ -76,12 +76,20 @@
     "path": "games/avatars/sm-m.png"
   },
   {
+    "id": "bank",
+    "path": "games/avatars/bank.png"
+  },
+  {
     "id": "sm",
     "path": "games/avatars/sm.png"
   },
   {
     "id": "b2w2-b2",
     "path": "games/avatars/b2w2-b2.png"
+  },
+  {
+    "id": "colxd-xd",
+    "path": "games/avatars/colxd-xd.png"
   },
   {
     "id": "b2w2-w2",
@@ -146,6 +154,10 @@
   {
     "id": "gs-g",
     "path": "games/avatars/gs-g.png"
+  },
+  {
+    "id": "colxd",
+    "path": "games/avatars/colxd.png"
   },
   {
     "id": "gs-s",
@@ -234,6 +246,10 @@
   {
     "id": "rb-r",
     "path": "games/avatars/rb-r.png"
+  },
+  {
+    "id": "colxd-col",
+    "path": "games/avatars/colxd-col.png"
   },
   {
     "id": "sv-indigodisk",

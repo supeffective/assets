@@ -96,6 +96,10 @@
     "path": "games/tiles/la--alt.jpg"
   },
   {
+    "id": "colxd-xd",
+    "path": "games/tiles/colxd-xd.jpg"
+  },
+  {
     "id": "pt-alt",
     "path": "games/tiles/pt-alt.jpg"
   },
@@ -114,10 +118,6 @@
   {
     "id": "xy-x",
     "path": "games/tiles/xy-x.jpg"
-  },
-  {
-    "id": "col",
-    "path": "games/tiles/col.jpg"
   },
   {
     "id": "pt",
@@ -166,6 +166,10 @@
   {
     "id": "gs-g",
     "path": "games/tiles/gs-g.jpg"
+  },
+  {
+    "id": "colxd",
+    "path": "games/tiles/colxd.jpg"
   },
   {
     "id": "gs-s",
@@ -260,6 +264,10 @@
     "path": "games/tiles/rb-r.jpg"
   },
   {
+    "id": "colxd-col",
+    "path": "games/tiles/colxd-col.jpg"
+  },
+  {
     "id": "sv-indigodisk",
     "path": "games/tiles/sv-indigodisk.jpg"
   },
@@ -290,10 +298,6 @@
   {
     "id": "sv-s",
     "path": "games/tiles/sv-s.jpg"
-  },
-  {
-    "id": "xd",
-    "path": "games/tiles/xd.jpg"
   },
   {
     "id": "la",

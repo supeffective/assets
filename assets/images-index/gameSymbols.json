@@ -1,5 +1,13 @@
 [
   {
+    "id": "dppt",
+    "path": "games/symbols/dppt.png"
+  },
+  {
+    "id": "frlg-fr",
+    "path": "games/symbols/frlg-fr.png"
+  },
+  {
     "id": "oras-as",
     "path": "games/symbols/oras-as.png"
   },
@@ -8,8 +16,60 @@
     "path": "games/symbols/usum-um.png"
   },
   {
+    "id": "rs-r",
+    "path": "games/symbols/rs-r.png"
+  },
+  {
+    "id": "rs-s",
+    "path": "games/symbols/rs-s.png"
+  },
+  {
     "id": "swsh-sw",
     "path": "games/symbols/swsh-sw.png"
+  },
+  {
+    "id": "e",
+    "path": "games/symbols/e.png"
+  },
+  {
+    "id": "lza",
+    "path": "games/symbols/lza.png"
+  },
+  {
+    "id": "bdsp",
+    "path": "games/symbols/bdsp.png"
+  },
+  {
+    "id": "hgss",
+    "path": "games/symbols/hgss.png"
+  },
+  {
+    "id": "bw",
+    "path": "games/symbols/bw.png"
+  },
+  {
+    "id": "xy",
+    "path": "games/symbols/xy.png"
+  },
+  {
+    "id": "unite",
+    "path": "games/symbols/unite.png"
+  },
+  {
+    "id": "c",
+    "path": "games/symbols/c.png"
+  },
+  {
+    "id": "gsc",
+    "path": "games/symbols/gsc.png"
+  },
+  {
+    "id": "smusum",
+    "path": "games/symbols/smusum.png"
+  },
+  {
+    "id": "b2w2",
+    "path": "games/symbols/b2w2.png"
   },
   {
     "id": "sm-m",
@@ -20,6 +80,22 @@
     "path": "games/symbols/bank.png"
   },
   {
+    "id": "sm",
+    "path": "games/symbols/sm.png"
+  },
+  {
+    "id": "b2w2-b2",
+    "path": "games/symbols/b2w2-b2.png"
+  },
+  {
+    "id": "colxd-xd",
+    "path": "games/symbols/colxd-xd.png"
+  },
+  {
+    "id": "b2w2-w2",
+    "path": "games/symbols/b2w2-w2.png"
+  },
+  {
     "id": "bdsp-bd",
     "path": "games/symbols/bdsp-bd.png"
   },
@@ -28,16 +104,108 @@
     "path": "games/symbols/xy-x.png"
   },
   {
+    "id": "dp",
+    "path": "games/symbols/dp.png"
+  },
+  {
+    "id": "frlg-lg",
+    "path": "games/symbols/frlg-lg.png"
+  },
+  {
     "id": "xy-y",
     "path": "games/symbols/xy-y.png"
+  },
+  {
+    "id": "pt",
+    "path": "games/symbols/pt.png"
+  },
+  {
+    "id": "oras",
+    "path": "games/symbols/oras.png"
+  },
+  {
+    "id": "bw-w",
+    "path": "games/symbols/bw-w.png"
   },
   {
     "id": "go",
     "path": "games/symbols/go.png"
   },
   {
+    "id": "dp-p",
+    "path": "games/symbols/dp-p.png"
+  },
+  {
+    "id": "bw-b",
+    "path": "games/symbols/bw-b.png"
+  },
+  {
+    "id": "hgss-hg",
+    "path": "games/symbols/hgss-hg.png"
+  },
+  {
+    "id": "dp-d",
+    "path": "games/symbols/dp-d.png"
+  },
+  {
+    "id": "gs-g",
+    "path": "games/symbols/gs-g.png"
+  },
+  {
+    "id": "colxd",
+    "path": "games/symbols/colxd.png"
+  },
+  {
+    "id": "gs-s",
+    "path": "games/symbols/gs-s.png"
+  },
+  {
     "id": "home",
     "path": "games/symbols/home.png"
+  },
+  {
+    "id": "rb",
+    "path": "games/symbols/rb.png"
+  },
+  {
+    "id": "_PLACEHOLDER3",
+    "path": "games/symbols/_PLACEHOLDER3.png"
+  },
+  {
+    "id": "frlg",
+    "path": "games/symbols/frlg.png"
+  },
+  {
+    "id": "_PLACEHOLDER2",
+    "path": "games/symbols/_PLACEHOLDER2.png"
+  },
+  {
+    "id": "sv",
+    "path": "games/symbols/sv.png"
+  },
+  {
+    "id": "gs",
+    "path": "games/symbols/gs.png"
+  },
+  {
+    "id": "bwb2w2",
+    "path": "games/symbols/bwb2w2.png"
+  },
+  {
+    "id": "lgpe",
+    "path": "games/symbols/lgpe.png"
+  },
+  {
+    "id": "rby",
+    "path": "games/symbols/rby.png"
+  },
+  {
+    "id": "hgss-ss",
+    "path": "games/symbols/hgss-ss.png"
+  },
+  {
+    "id": "rs",
+    "path": "games/symbols/rs.png"
   },
   {
     "id": "usum-us",
@@ -56,6 +224,10 @@
     "path": "games/symbols/_PLACEHOLDER.png"
   },
   {
+    "id": "y",
+    "path": "games/symbols/y.png"
+  },
+  {
     "id": "bdsp-sp",
     "path": "games/symbols/bdsp-sp.png"
   },
@@ -70,6 +242,30 @@
   {
     "id": "lgpe-lge",
     "path": "games/symbols/lgpe-lge.png"
+  },
+  {
+    "id": "rb-r",
+    "path": "games/symbols/rb-r.png"
+  },
+  {
+    "id": "colxd-col",
+    "path": "games/symbols/colxd-col.png"
+  },
+  {
+    "id": "rb-b",
+    "path": "games/symbols/rb-b.png"
+  },
+  {
+    "id": "rse",
+    "path": "games/symbols/rse.png"
+  },
+  {
+    "id": "swsh",
+    "path": "games/symbols/swsh.png"
+  },
+  {
+    "id": "usum",
+    "path": "games/symbols/usum.png"
   },
   {
     "id": "sm-s",
