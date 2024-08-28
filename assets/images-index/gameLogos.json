@@ -60,16 +60,16 @@
     "path": "games/logos/b2w2-b2.png"
   },
   {
-    "id": "colxd-xd",
-    "path": "games/logos/colxd-xd.png"
-  },
-  {
     "id": "b2w2-w2",
     "path": "games/logos/b2w2-w2.png"
   },
   {
     "id": "bdsp-bd",
     "path": "games/logos/bdsp-bd.png"
+  },
+  {
+    "id": "col",
+    "path": "games/logos/col.png"
   },
   {
     "id": "xy-x",
@@ -140,10 +140,6 @@
     "path": "games/logos/lgpe-lgp.png"
   },
   {
-    "id": "colxd-col--alt",
-    "path": "games/logos/colxd-col--alt.png"
-  },
-  {
     "id": "y",
     "path": "games/logos/y.png"
   },
@@ -164,12 +160,12 @@
     "path": "games/logos/lgpe-lge.png"
   },
   {
-    "id": "rb-r",
-    "path": "games/logos/rb-r.png"
+    "id": "col--alt",
+    "path": "games/logos/col--alt.png"
   },
   {
-    "id": "colxd-col",
-    "path": "games/logos/colxd-col.png"
+    "id": "rb-r",
+    "path": "games/logos/rb-r.png"
   },
   {
     "id": "rb-b",
@@ -182,6 +178,10 @@
   {
     "id": "la",
     "path": "games/logos/la.png"
+  },
+  {
+    "id": "xd",
+    "path": "games/logos/xd.png"
   },
   {
     "id": "sv-s",

@@ -88,16 +88,16 @@
     "path": "games/symbols/b2w2-b2.png"
   },
   {
-    "id": "colxd-xd",
-    "path": "games/symbols/colxd-xd.png"
-  },
-  {
     "id": "b2w2-w2",
     "path": "games/symbols/b2w2-w2.png"
   },
   {
     "id": "bdsp-bd",
     "path": "games/symbols/bdsp-bd.png"
+  },
+  {
+    "id": "col",
+    "path": "games/symbols/col.png"
   },
   {
     "id": "xy-x",
@@ -150,10 +150,6 @@
   {
     "id": "gs-g",
     "path": "games/symbols/gs-g.png"
-  },
-  {
-    "id": "colxd",
-    "path": "games/symbols/colxd.png"
   },
   {
     "id": "gs-s",
@@ -248,10 +244,6 @@
     "path": "games/symbols/rb-r.png"
   },
   {
-    "id": "colxd-col",
-    "path": "games/symbols/colxd-col.png"
-  },
-  {
     "id": "rb-b",
     "path": "games/symbols/rb-b.png"
   },
@@ -274,6 +266,10 @@
   {
     "id": "la",
     "path": "games/symbols/la.png"
+  },
+  {
+    "id": "xd",
+    "path": "games/symbols/xd.png"
   },
   {
     "id": "sv-s",

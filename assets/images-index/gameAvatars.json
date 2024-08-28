@@ -88,16 +88,16 @@
     "path": "games/avatars/b2w2-b2.png"
   },
   {
-    "id": "colxd-xd",
-    "path": "games/avatars/colxd-xd.png"
-  },
-  {
     "id": "b2w2-w2",
     "path": "games/avatars/b2w2-w2.png"
   },
   {
     "id": "bdsp-bd",
     "path": "games/avatars/bdsp-bd.png"
+  },
+  {
+    "id": "col",
+    "path": "games/avatars/col.png"
   },
   {
     "id": "xy-x",
@@ -154,10 +154,6 @@
   {
     "id": "gs-g",
     "path": "games/avatars/gs-g.png"
-  },
-  {
-    "id": "colxd",
-    "path": "games/avatars/colxd.png"
   },
   {
     "id": "gs-s",
@@ -248,10 +244,6 @@
     "path": "games/avatars/rb-r.png"
   },
   {
-    "id": "colxd-col",
-    "path": "games/avatars/colxd-col.png"
-  },
-  {
     "id": "sv-indigodisk",
     "path": "games/avatars/sv-indigodisk.png"
   },
@@ -282,6 +274,10 @@
   {
     "id": "la",
     "path": "games/avatars/la.png"
+  },
+  {
+    "id": "xd",
+    "path": "games/avatars/xd.png"
   },
   {
     "id": "sv-s",
